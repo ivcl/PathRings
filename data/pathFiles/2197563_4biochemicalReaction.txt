@@ -1,0 +1,17 @@
+BiochemicalReaction1	NICD2 binds RBPJ and MAML in the nucleus	Protein1	Complex1	
+BiochemicalReaction1	NICD2 binds RBPJ and MAML in the nucleus	Protein6	Complex1	
+BiochemicalReaction1	NICD2 binds RBPJ and MAML in the nucleus	Protein7	Complex1	
+BiochemicalReaction2	NOTCH2 coactivator complex binds HES1 promoter	Dna1	Complex2	
+BiochemicalReaction2	NOTCH2 coactivator complex binds HES1 promoter	Complex1	Complex2	
+BiochemicalReaction3	NOTCH2 stimulates HES1 transcription	Dna1	Protein8	
+BiochemicalReaction4	NOTCH2 coactivator complex binds HES5 promoter	Complex1	Complex3	
+BiochemicalReaction4	NOTCH2 coactivator complex binds HES5 promoter	Dna2	Complex3	
+BiochemicalReaction5	NOTCH2 stimulates transcription of HES5	Dna2	Protein9	
+BiochemicalReaction6	NOTCH2 coactivator complex binds FCER2 promoter	Complex1	Complex4	
+BiochemicalReaction6	NOTCH2 coactivator complex binds FCER2 promoter	Dna3	Complex4	
+BiochemicalReaction7	NOTCH2 stimulates transcription of FCER2 (CD23A)	Dna3	Protein10	
+BiochemicalReaction8	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Protein11	Complex5	
+BiochemicalReaction8	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Complex1	Complex5	
+BiochemicalReaction8	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Protein12	Complex5	
+BiochemicalReaction8	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Dna4	Complex5	
+BiochemicalReaction9	NOTCH2 stimulates GZMB transcription	Dna4	Protein13	

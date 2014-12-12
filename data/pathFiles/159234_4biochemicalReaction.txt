@@ -1,0 +1,45 @@
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein1	Complex2	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein2	Complex2	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex1	Complex2	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex1	Protein3	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein2	Protein3	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein1	Protein3	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex1	Protein5	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein2	Protein5	
+BiochemicalReaction1	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein1	Protein5	
+BiochemicalReaction2	Transport of the Mature IntronlessTranscript Derived Histone mRNA:SLBP:TAP:Aly/Ref complex through the NPC	Complex2	Complex6	
+BiochemicalReaction3	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex6	Protein38	
+BiochemicalReaction3	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein40	Protein38	
+BiochemicalReaction3	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein40	Complex7	
+BiochemicalReaction3	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex6	Complex7	
+BiochemicalReaction3	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein40	Protein39	
+BiochemicalReaction3	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex6	Protein39	
+BiochemicalReaction4	Docking of Mature Histone mRNA complex:TAP at the NPC	Complex8	Complex10	
+BiochemicalReaction4	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein1	Complex10	
+BiochemicalReaction4	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein2	Complex10	
+BiochemicalReaction4	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein2	Complex9	
+BiochemicalReaction4	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein1	Complex9	
+BiochemicalReaction4	Docking of Mature Histone mRNA complex:TAP at the NPC	Complex8	Complex9	
+BiochemicalReaction5	Transport of the Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex through the NPC	Complex10	Complex11	
+BiochemicalReaction6	Release of the SLBP independent Histone mRNA from the NPC	Complex11	Protein38	
+BiochemicalReaction6	Release of the SLBP independent Histone mRNA from the NPC	Protein40	Protein38	
+BiochemicalReaction6	Release of the SLBP independent Histone mRNA from the NPC	Protein40	Complex12	
+BiochemicalReaction6	Release of the SLBP independent Histone mRNA from the NPC	Complex11	Complex12	
+BiochemicalReaction6	Release of the SLBP independent Histone mRNA from the NPC	Protein40	Protein39	
+BiochemicalReaction6	Release of the SLBP independent Histone mRNA from the NPC	Complex11	Protein39	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex13	Complex15	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein1	Complex15	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein2	Complex15	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein2	Complex9	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein1	Complex9	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex13	Complex9	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein2	Complex14	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein1	Complex14	
+BiochemicalReaction7	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex13	Complex14	
+BiochemicalReaction8	Transport of the Mature intronless transcript derived mRNA:TAP:Aly/Ref Complex through the NPC	Complex15	Complex16	
+BiochemicalReaction9	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein40	Protein38	
+BiochemicalReaction9	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex16	Protein38	
+BiochemicalReaction9	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex16	Complex17	
+BiochemicalReaction9	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein40	Complex17	
+BiochemicalReaction9	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex16	Protein39	
+BiochemicalReaction9	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein40	Protein39	

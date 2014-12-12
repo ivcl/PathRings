@@ -1,0 +1,12 @@
+BiochemicalReaction1	Interaction of Plectin with Integrin beta 4	Complex1	Complex2	
+BiochemicalReaction1	Interaction of Plectin with Integrin beta 4	Protein3	Complex2	
+BiochemicalReaction2	BP180 interacts intracellularly with plectin and integrin beta4	Protein4	Complex3	
+BiochemicalReaction2	BP180 interacts intracellularly with plectin and integrin beta4	Complex2	Complex3	
+BiochemicalReaction3	BP180 interacts extracellularly with Laminin 332	Complex3	Complex5	
+BiochemicalReaction3	BP180 interacts extracellularly with Laminin 332	Complex4	Complex5	
+BiochemicalReaction4	BP230 is recruited to the hemidesmosome	Protein8	Complex6	
+BiochemicalReaction4	BP230 is recruited to the hemidesmosome	Complex5	Complex6	
+BiochemicalReaction5	BP230 interacts with keretin K5/K14	Complex7	Complex8	
+BiochemicalReaction5	BP230 interacts with keretin K5/K14	PhysicalEntity1	Complex8	
+BiochemicalReaction6	CD151 interacts with BP180 and the integrin alpha 6 subunit	Complex6	Complex7	
+BiochemicalReaction6	CD151 interacts with BP180 and the integrin alpha 6 subunit	Protein10	Complex7	

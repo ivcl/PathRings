@@ -1,0 +1,5 @@
+BiochemicalReaction1	Formation of stem-loop structure in ApoB mRNA	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	Binding of A1CF to stem-looped RNA	Protein1	Complex1	
+BiochemicalReaction2	Binding of A1CF to stem-looped RNA	PhysicalEntity2	Complex1	
+BiochemicalReaction3	Binding of APOBEC-1 to form editosome	Protein2	Complex2	
+BiochemicalReaction3	Binding of APOBEC-1 to form editosome	Complex1	Complex2	

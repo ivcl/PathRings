@@ -1,0 +1,32 @@
+Complex1	DFFA:DFFB	cytosol	Reactome DB_ID: 211192	Protein1	
+Complex1	DFFA:DFFB	cytosol	Reactome DB_ID: 211192	Protein2	
+Complex10	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein15	
+Complex10	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein5	
+Complex10	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein14	
+Complex10	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein16	
+Complex11	DFF40 homodimer	nucleoplasm	Reactome DB_ID: 350273	Protein5	
+Complex12	Histone H1 bound chromatin DNA	nucleoplasm	Reactome DB_ID: 211238	Protein17	
+Complex12	Histone H1 bound chromatin DNA	nucleoplasm	Reactome DB_ID: 211238	PhysicalEntity3	
+Complex13	DFF40 associated with chromatin	nucleoplasm	Reactome DB_ID: 211253	PhysicalEntity1	
+Complex13	DFF40 associated with chromatin	nucleoplasm	Reactome DB_ID: 211253	Complex12	
+Complex14	HMGB1/HMGB2- bound chromatin	nucleoplasm	Reactome DB_ID: 266207	Protein24	
+Complex14	HMGB1/HMGB2- bound chromatin	nucleoplasm	Reactome DB_ID: 266207	PhysicalEntity3	
+Complex15	DFF cleaved DNA	nucleoplasm	Reactome DB_ID: 211254	PhysicalEntity4	
+Complex15	DFF cleaved DNA	nucleoplasm	Reactome DB_ID: 211254	Protein17	
+Complex2	importin-alpha:importin-beta	cytosol	Reactome DB_ID: 350277	Protein3	
+Complex2	importin-alpha:importin-beta	cytosol	Reactome DB_ID: 350277	Protein4	
+Complex3	DFF:associated with the importin-alpha:importin-beta complex	cytosol	Reactome DB_ID: 350304	Complex1	
+Complex3	DFF:associated with the importin-alpha:importin-beta complex	cytosol	Reactome DB_ID: 350304	Complex2	
+Complex4	DFF:associated with the importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350287	Complex5	
+Complex4	DFF:associated with the importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350287	Complex6	
+Complex5	DFF45:DFF40 complex	nucleoplasm	Reactome DB_ID: 211225	Protein5	
+Complex5	DFF45:DFF40 complex	nucleoplasm	Reactome DB_ID: 211225	Protein6	
+Complex6	importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350267	Protein7	
+Complex6	importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350267	Protein8	
+Complex7	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein9	
+Complex7	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein10	
+Complex8	active caspase-3	nucleoplasm	Reactome DB_ID: 211223	Protein11	
+Complex8	active caspase-3	nucleoplasm	Reactome DB_ID: 211223	Protein12	
+Complex9	Caspase cleaved DFF45 (117)	nucleoplasm	Reactome DB_ID: 211208	Protein13	
+Complex9	Caspase cleaved DFF45 (117)	nucleoplasm	Reactome DB_ID: 211208	Protein5	
+Complex9	Caspase cleaved DFF45 (117)	nucleoplasm	Reactome DB_ID: 211208	Protein14	

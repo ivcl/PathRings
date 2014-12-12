@@ -1,0 +1,12 @@
+BiochemicalReaction1	Binding of Adrenaline or Noradrenaline by Alpha-2A/2C Adrenergic Receptors	Protein1	Complex1	
+BiochemicalReaction1	Binding of Adrenaline or Noradrenaline by Alpha-2A/2C Adrenergic Receptors	SmallMolecule1	Complex1	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	SmallMolecule4	Complex5	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	Complex2	Complex5	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	Complex2	SmallMolecule5	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	Dissociation of Gi/o Heterotrimeric G-protein Complex	Complex5	Complex6	
+BiochemicalReaction3	Dissociation of Gi/o Heterotrimeric G-protein Complex	Complex5	Complex4	
+BiochemicalReaction4	Closing (Inhibition) of L-type Calcium Channels in Pancreatic Beta Cells	Complex7	Complex10	
+BiochemicalReaction5	Opening of Potassium Channels in Pancreatic Beta Cells in Response to Epinephrine	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction6	Inhibition of Adenylate Cyclase by G-beta:G-gamma	Protein32	Complex11	
+BiochemicalReaction6	Inhibition of Adenylate Cyclase by G-beta:G-gamma	Complex4	Complex11	

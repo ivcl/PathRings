@@ -1,0 +1,10 @@
+BiochemicalReaction1	Phosphorylation of COP1 at Ser-387  by ATM	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of COP1 at Ser-387  by ATM	Protein1	Protein2	
+BiochemicalReaction2	Dissociation of the COP1-p53 complex	Complex1	Protein2	
+BiochemicalReaction2	Dissociation of the COP1-p53 complex	Complex1	Complex2	
+BiochemicalReaction3	Translocation of COP1 from the nucleus to the cytoplasm	Protein2	Protein5	
+BiochemicalReaction4	Autoubiquitination of phospho-COP1(Ser-387 )	Protein6	Complex3	
+BiochemicalReaction4	Autoubiquitination of phospho-COP1(Ser-387 )	Protein5	Complex3	
+BiochemicalReaction5	Proteasome mediated degradation of COP1	Complex3	Protein6	

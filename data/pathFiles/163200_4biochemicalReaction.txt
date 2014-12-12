@@ -1,0 +1,68 @@
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction1	NADH enters the respiratory chain at Complex I	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction10	FA anion diffuses laterally to UCP	Complex32	Complex33	
+BiochemicalReaction10	FA anion diffuses laterally to UCP	SmallMolecule21	Complex33	
+BiochemicalReaction11	FA anion flip-flops to the opposite surface	Complex33	Complex34	
+BiochemicalReaction12	The FA anion diffuses away laterally from UCP	Complex34	SmallMolecule22	
+BiochemicalReaction12	The FA anion diffuses away laterally from UCP	Complex34	Complex32	
+BiochemicalReaction13	FA anion picks up a proton	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction13	FA anion picks up a proton	SmallMolecule4	SmallMolecule23	
+BiochemicalReaction14	FA spontaneously flip-flops back to the matrix side	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction15	The proton is delivered to the matrix side	SmallMolecule24	SmallMolecule21	
+BiochemicalReaction15	The proton is delivered to the matrix side	SmallMolecule24	SmallMolecule3	
+BiochemicalReaction16	Protons are translocated from the intermembrane space to the matrix	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction2	Transfer of electrons through the succinate dehydrogenase complex	Complex12	Complex15	
+BiochemicalReaction2	Transfer of electrons through the succinate dehydrogenase complex	SmallMolecule2	Complex15	
+BiochemicalReaction2	Transfer of electrons through the succinate dehydrogenase complex	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction2	Transfer of electrons through the succinate dehydrogenase complex	Complex12	SmallMolecule6	
+BiochemicalReaction3	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	SmallMolecule10	Complex18	
+BiochemicalReaction3	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	Complex17	Complex18	
+BiochemicalReaction3	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	Complex17	SmallMolecule12	
+BiochemicalReaction3	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction4	Transfer of electrons from ETF to ubiquinone by ETF-QO	Complex18	SmallMolecule6	
+BiochemicalReaction4	Transfer of electrons from ETF to ubiquinone by ETF-QO	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction4	Transfer of electrons from ETF to ubiquinone by ETF-QO	SmallMolecule2	Complex17	
+BiochemicalReaction4	Transfer of electrons from ETF to ubiquinone by ETF-QO	Complex18	Complex17	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	Complex19	SmallMolecule4	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule6	SmallMolecule4	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule6	Complex20	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	Complex19	Complex20	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule2	Complex20	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule3	Complex20	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule6	SmallMolecule2	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	Complex19	SmallMolecule2	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule2	SmallMolecule2	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule6	SmallMolecule6	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	Complex19	SmallMolecule6	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction5	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule15	SmallMolecule4	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	Complex20	SmallMolecule4	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule3	SmallMolecule16	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	Complex20	SmallMolecule16	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule3	Complex19	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	Complex20	Complex19	
+BiochemicalReaction6	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule15	Complex19	
+BiochemicalReaction7	ADP and Pi bind to ATPase	Complex27	Complex30	
+BiochemicalReaction7	ADP and Pi bind to ATPase	SmallMolecule18	Complex30	
+BiochemicalReaction7	ADP and Pi bind to ATPase	SmallMolecule19	Complex30	
+BiochemicalReaction8	ATP is synthesized from ADP and Pi by ATPase	Complex30	Complex31	
+BiochemicalReaction8	ATP is synthesized from ADP and Pi by ATPase	Complex30	SmallMolecule16	
+BiochemicalReaction9	Enzyme-bound ATP is released	SmallMolecule4	Complex27	
+BiochemicalReaction9	Enzyme-bound ATP is released	Complex31	Complex27	
+BiochemicalReaction9	Enzyme-bound ATP is released	Complex31	SmallMolecule3	
+BiochemicalReaction9	Enzyme-bound ATP is released	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction9	Enzyme-bound ATP is released	Complex31	SmallMolecule20	
+BiochemicalReaction9	Enzyme-bound ATP is released	SmallMolecule4	SmallMolecule20	

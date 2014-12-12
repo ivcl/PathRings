@@ -1,0 +1,11 @@
+BiochemicalReaction1	Detection of damage during initiation of DNA synthesis in S-phase	Complex1	Complex4	
+BiochemicalReaction1	Detection of damage during initiation of DNA synthesis in S-phase	Complex1	Complex3	
+BiochemicalReaction2	PP2A mediated localization of RB1 protein in chromatin	Complex4	Complex5	
+BiochemicalReaction2	PP2A mediated localization of RB1 protein in chromatin	Protein5	Complex5	
+BiochemicalReaction3	Replication initiation regulation by Rb1/E2F1	Complex5	Complex8	
+BiochemicalReaction3	Replication initiation regulation by Rb1/E2F1	Complex7	Complex8	
+BiochemicalReaction4	Activation of Cyclin B/Cdk1 by Cdc25a (string) protein	NA	Complex9	
+BiochemicalReaction4	Activation of Cyclin B/Cdk1 by Cdc25a (string) protein	NA	Protein19	
+BiochemicalReaction5	Association of Cyclin B/Cdk1 with replicative origin inhibits pre-RC formation	Complex9	Complex12	
+BiochemicalReaction5	Association of Cyclin B/Cdk1 with replicative origin inhibits pre-RC formation	Complex10	Complex12	
+TemplateReaction1	Activation of E2F target genes at G1/S	NA	Protein27	

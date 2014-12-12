@@ -1,0 +1,20 @@
+BiochemicalReaction1	Loaded transferrin binds to TfR1	Complex1	Complex3	
+BiochemicalReaction1	Loaded transferrin binds to TfR1	Complex2	Complex3	
+BiochemicalReaction2	Separation of endosome from the plasma membrane	Complex3	Complex4	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction3	Acidification of Tf:TfR1 containing endosome	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction4	Iron separates from the Tf:TfR1 complex	Complex4	SmallMolecule9	
+BiochemicalReaction4	Iron separates from the Tf:TfR1 complex	Complex4	Complex14	
+BiochemicalReaction5	Reduction of Fe3+ in the endosome	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction5	Reduction of Fe3+ in the endosome	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction6	Iron diffuses out of the endosome	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction7	Recycling of Tf endosome to plasma membrane	Complex14	Complex15	
+BiochemicalReaction8	apo-Transferrin dissociates from the receptor complex	Complex15	Protein1	
+BiochemicalReaction8	apo-Transferrin dissociates from the receptor complex	Complex15	Complex2	

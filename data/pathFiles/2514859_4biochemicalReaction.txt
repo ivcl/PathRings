@@ -1,0 +1,50 @@
+BiochemicalReaction1	METAP1/2 demethylates GNAT1	Protein1	SmallMolecule1	
+BiochemicalReaction1	METAP1/2 demethylates GNAT1	Protein1	Protein2	
+BiochemicalReaction10	PP2A dephosphorylates p-RHO to RHO	Protein18	SmallMolecule16	
+BiochemicalReaction10	PP2A dephosphorylates p-RHO to RHO	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction10	PP2A dephosphorylates p-RHO to RHO	SmallMolecule15	Protein17	
+BiochemicalReaction10	PP2A dephosphorylates p-RHO to RHO	Protein18	Protein17	
+BiochemicalReaction11	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction11	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex12	SmallMolecule16	
+BiochemicalReaction11	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex12	Complex13	
+BiochemicalReaction11	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule15	Complex13	
+BiochemicalReaction11	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex12	Complex15	
+BiochemicalReaction11	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule15	Complex15	
+BiochemicalReaction12	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction12	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	Complex16	SmallMolecule13	
+BiochemicalReaction12	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	Complex16	Complex17	
+BiochemicalReaction12	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	SmallMolecule12	Complex17	
+BiochemicalReaction13	GNAT1-GDP binds to GNB1:GNGT1	Complex15	Complex19	
+BiochemicalReaction13	GNAT1-GDP binds to GNB1:GNGT1	Complex18	Complex19	
+BiochemicalReaction14	GUCA binds Ca2+ to form GUCA:Ca2+	Protein35	Complex20	
+BiochemicalReaction14	GUCA binds Ca2+ to form GUCA:Ca2+	SmallMolecule14	Complex20	
+BiochemicalReaction15	GUCYs converts GTP to cGMP	SmallMolecule18	SmallMolecule6	
+BiochemicalReaction15	GUCYs converts GTP to cGMP	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction16	cGMP binds CNG channel to form cGMP:CNG channel	Complex26	Complex27	
+BiochemicalReaction16	cGMP binds CNG channel to form cGMP:CNG channel	SmallMolecule20	Complex27	
+BiochemicalReaction17	CALM1:Ca2+ binds CNG channel	Complex26	Complex29	
+BiochemicalReaction17	CALM1:Ca2+ binds CNG channel	Complex28	Complex29	
+BiochemicalReaction2	NMT1/2 transfer MYS to GNAT1	SmallMolecule3	Protein5	
+BiochemicalReaction2	NMT1/2 transfer MYS to GNAT1	Protein2	Protein5	
+BiochemicalReaction2	NMT1/2 transfer MYS to GNAT1	Protein2	SmallMolecule4	
+BiochemicalReaction2	NMT1/2 transfer MYS to GNAT1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	FNTA:FNTB transfers FARN to GNGT1	SmallMolecule5	Protein10	
+BiochemicalReaction3	FNTA:FNTB transfers FARN to GNGT1	Protein9	Protein10	
+BiochemicalReaction3	FNTA:FNTB transfers FARN to GNGT1	Protein9	SmallMolecule6	
+BiochemicalReaction3	FNTA:FNTB transfers FARN to GNGT1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	Unknown NAT N-acylates Gly in GNAT1	SmallMolecule7	SmallMolecule4	
+BiochemicalReaction4	Unknown NAT N-acylates Gly in GNAT1	Protein2	SmallMolecule4	
+BiochemicalReaction4	Unknown NAT N-acylates Gly in GNAT1	Protein2	Protein13	
+BiochemicalReaction4	Unknown NAT N-acylates Gly in GNAT1	SmallMolecule7	Protein13	
+BiochemicalReaction5	GRK1 phosphorylates MII to p-MII	Complex5	SmallMolecule13	
+BiochemicalReaction5	GRK1 phosphorylates MII to p-MII	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	GRK1 phosphorylates MII to p-MII	SmallMolecule12	Complex6	
+BiochemicalReaction5	GRK1 phosphorylates MII to p-MII	Complex5	Complex6	
+BiochemicalReaction6	RCVRN:Ca2+ binds to and inhibits GRK1	Protein19	Complex8	
+BiochemicalReaction6	RCVRN:Ca2+ binds to and inhibits GRK1	Complex7	Complex8	
+BiochemicalReaction7	SAG binds p-MII to form p-MII:SAG	Complex6	Complex9	
+BiochemicalReaction7	SAG binds p-MII to form p-MII:SAG	Protein21	Complex9	
+BiochemicalReaction8	atRAL dissociates from p-MII:SAG	Complex9	Complex10	
+BiochemicalReaction8	atRAL dissociates from p-MII:SAG	Complex9	SmallMolecule11	
+BiochemicalReaction9	p-MII:SAG dissociates to p-RHO and SAG	Complex10	Protein18	
+BiochemicalReaction9	p-MII:SAG dissociates to p-RHO and SAG	Complex10	Protein21	

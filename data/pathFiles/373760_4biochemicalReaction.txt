@@ -1,0 +1,161 @@
+BiochemicalReaction1	Phosphorylation of L1 by SRC	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of L1 by SRC	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of L1 by SRC	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of L1 by SRC	SmallMolecule1	Protein2	
+BiochemicalReaction10	Transport of L1 into endosomes	Complex10	Complex13	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Protein23	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Complex13	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Complex13	Complex14	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	SmallMolecule1	Complex14	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Protein23	Complex14	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	SmallMolecule1	Complex15	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Protein31	Complex15	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Complex13	Complex15	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Complex13	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Protein31	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Transport of L1 from C-domain to P-domain	Complex16	Complex17	
+BiochemicalReaction13	Transport of L1 from C-domain to P-domain	PhysicalEntity3	Complex17	
+BiochemicalReaction13	Transport of L1 from C-domain to P-domain	Complex13	Complex17	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Protein16	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Complex6	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Complex16	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	PhysicalEntity3	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Protein1	
+BiochemicalReaction15	L1 dimer binds Ankyrin	Complex18	Complex19	
+BiochemicalReaction15	L1 dimer binds Ankyrin	Protein36	Complex19	
+BiochemicalReaction16	L1 linked to actin cytoskeleton by ankyrin	Complex20	Complex22	
+BiochemicalReaction16	L1 linked to actin cytoskeleton by ankyrin	Complex19	Complex22	
+BiochemicalReaction17	Ankyrins link voltage-gated sodium and potassium channels to spectrin and L1	Complex23	Complex26	
+BiochemicalReaction17	Ankyrins link voltage-gated sodium and potassium channels to spectrin and L1	PhysicalEntity4	Complex26	
+BiochemicalReaction18	Phosphorylation of Y1229 in L1	Complex19	Complex27	
+BiochemicalReaction18	Phosphorylation of Y1229 in L1	SmallMolecule1	Complex27	
+BiochemicalReaction18	Phosphorylation of Y1229 in L1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation of Y1229 in L1	Complex19	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation of Y1229 in L1	SmallMolecule1	Protein36	
+BiochemicalReaction18	Phosphorylation of Y1229 in L1	Complex19	Protein36	
+BiochemicalReaction19	L1 and NCAM1 engaged in cis-interaction	Protein1	Complex28	
+BiochemicalReaction19	L1 and NCAM1 engaged in cis-interaction	Protein68	Complex28	
+BiochemicalReaction2	L1 binds ERM family members	Complex1	Complex2	
+BiochemicalReaction2	L1 binds ERM family members	Protein2	Complex2	
+BiochemicalReaction20	L1-FGFR cis-heterodimerization	Protein69	Complex29	
+BiochemicalReaction20	L1-FGFR cis-heterodimerization	Complex18	Complex29	
+BiochemicalReaction21	L1-EGFR trans-heterodimerization	Protein70	Complex30	
+BiochemicalReaction21	L1-EGFR trans-heterodimerization	Protein1	Complex30	
+BiochemicalReaction22	L1 binds NRP1	Protein71	Complex31	
+BiochemicalReaction22	L1 binds NRP1	Protein1	Complex31	
+BiochemicalReaction23	L1 interaction with Integrins	Complex32	Complex38	
+BiochemicalReaction23	L1 interaction with Integrins	Protein1	Complex38	
+BiochemicalReaction24	Phosphorylation of VAV2	Protein78	SmallMolecule2	
+BiochemicalReaction24	Phosphorylation of VAV2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction24	Phosphorylation of VAV2	SmallMolecule1	Protein79	
+BiochemicalReaction24	Phosphorylation of VAV2	Protein78	Protein79	
+BiochemicalReaction25	Activation of Rac1 by VAV2	SmallMolecule5	Complex40	
+BiochemicalReaction25	Activation of Rac1 by VAV2	Complex39	Complex40	
+BiochemicalReaction25	Activation of Rac1 by VAV2	Complex39	SmallMolecule6	
+BiochemicalReaction25	Activation of Rac1 by VAV2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	Protein81	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	Complex41	Protein81	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	Complex40	Protein81	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	Complex40	SmallMolecule2	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	Complex41	SmallMolecule2	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	Complex40	Complex42	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	Complex41	Complex42	
+BiochemicalReaction26	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	Complex42	
+BiochemicalReaction27	MEK1 phosphorylates ERK-1	Complex43	Complex44	
+BiochemicalReaction27	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex44	
+BiochemicalReaction27	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	MEK1 phosphorylates ERK-1	Complex43	SmallMolecule2	
+BiochemicalReaction28	MEK2 phosphorylates ERK-2	Complex45	SmallMolecule2	
+BiochemicalReaction28	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex46	
+BiochemicalReaction28	MEK2 phosphorylates ERK-2	Complex45	Complex46	
+BiochemicalReaction29	Phosphorylation of L1 by CK-II	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of L1 by CK-II	Complex47	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of L1 by CK-II	Protein1	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of L1 by CK-II	Protein1	Complex48	
+BiochemicalReaction29	Phosphorylation of L1 by CK-II	Complex47	Complex48	
+BiochemicalReaction29	Phosphorylation of L1 by CK-II	SmallMolecule1	Complex48	
+BiochemicalReaction3	L1 trans-homophilic interaction	Protein1	Complex3	
+BiochemicalReaction3	L1 trans-homophilic interaction	Complex2	Complex3	
+BiochemicalReaction30	Interaction of L1 with Neurocan	Protein95	Complex49	
+BiochemicalReaction30	Interaction of L1 with Neurocan	Protein1	Complex49	
+BiochemicalReaction31	Interaction of L1 with Laminin-1	Complex50	Complex52	
+BiochemicalReaction31	Interaction of L1 with Laminin-1	Complex51	Complex52	
+BiochemicalReaction32	Cis-heterodimerization of L1 and Axonin-1	Protein99	Complex53	
+BiochemicalReaction32	Cis-heterodimerization of L1 and Axonin-1	Protein1	Complex53	
+BiochemicalReaction33	Cis-heterodimerization of L1 and Contactin-1/F3/F11	Protein100	Complex54	
+BiochemicalReaction33	Cis-heterodimerization of L1 and Contactin-1/F3/F11	Protein1	Complex54	
+BiochemicalReaction34	Cis-heterodimerization of L1 and DM-GRASP/ALCAM/BEN	Protein101	Complex55	
+BiochemicalReaction34	Cis-heterodimerization of L1 and DM-GRASP/ALCAM/BEN	Protein1	Complex55	
+BiochemicalReaction35	L1 binds RanBPM	Protein102	Complex56	
+BiochemicalReaction35	L1 binds RanBPM	Protein1	Complex56	
+BiochemicalReaction36	Heat-Stable Antigen binds L1	Protein103	Complex57	
+BiochemicalReaction36	Heat-Stable Antigen binds L1	Protein1	Complex57	
+BiochemicalReaction37	Phosphorylation of L1 by EPHB2	Protein104	SmallMolecule2	
+BiochemicalReaction37	Phosphorylation of L1 by EPHB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction37	Phosphorylation of L1 by EPHB2	Protein1	SmallMolecule2	
+BiochemicalReaction37	Phosphorylation of L1 by EPHB2	Protein1	Complex58	
+BiochemicalReaction37	Phosphorylation of L1 by EPHB2	SmallMolecule1	Complex58	
+BiochemicalReaction37	Phosphorylation of L1 by EPHB2	Protein104	Complex58	
+BiochemicalReaction38	CHL1 interacts with Ankyrin-G	Protein37	Complex59	
+BiochemicalReaction38	CHL1 interacts with Ankyrin-G	Protein106	Complex59	
+BiochemicalReaction39	CHL1 interacts with HSP7C	SmallMolecule2	Complex60	
+BiochemicalReaction39	CHL1 interacts with HSP7C	Protein107	Complex60	
+BiochemicalReaction39	CHL1 interacts with HSP7C	Protein106	Complex60	
+BiochemicalReaction4	Linkage of L1 with treadmilling F-actin	PhysicalEntity1	Complex4	
+BiochemicalReaction4	Linkage of L1 with treadmilling F-actin	Complex3	Complex4	
+BiochemicalReaction40	CHL1 interacts with NRP1	Protein71	Complex61	
+BiochemicalReaction40	CHL1 interacts with NRP1	Protein106	Complex61	
+BiochemicalReaction41	CHL1 interacts with beta1 integrins	Complex62	Complex66	
+BiochemicalReaction41	CHL1 interacts with beta1 integrins	Protein106	Complex66	
+BiochemicalReaction42	CHL1 interacts with contactin-6	Protein111	Complex67	
+BiochemicalReaction42	CHL1 interacts with contactin-6	Protein106	Complex67	
+BiochemicalReaction43	Neurofascin binds Ankyrin-G	Protein37	Complex68	
+BiochemicalReaction43	Neurofascin binds Ankyrin-G	Protein49	Complex68	
+BiochemicalReaction44	Trans-homodimerization of Neurofascin	Protein49	Complex69	
+BiochemicalReaction44	Trans-homodimerization of Neurofascin	Complex68	Complex69	
+BiochemicalReaction45	Neurofascin and NrCAM heterodimerization	Protein49	Complex24	
+BiochemicalReaction45	Neurofascin and NrCAM heterodimerization	Protein50	Complex24	
+BiochemicalReaction46	Phosphorylation of Neurofascin	Complex69	SmallMolecule2	
+BiochemicalReaction46	Phosphorylation of Neurofascin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	Phosphorylation of Neurofascin	SmallMolecule1	Protein37	
+BiochemicalReaction46	Phosphorylation of Neurofascin	Complex69	Protein37	
+BiochemicalReaction46	Phosphorylation of Neurofascin	SmallMolecule1	Complex70	
+BiochemicalReaction46	Phosphorylation of Neurofascin	Complex69	Complex70	
+BiochemicalReaction47	Doublecortin binds phosphorylated neurofascin	Protein113	Complex71	
+BiochemicalReaction47	Doublecortin binds phosphorylated neurofascin	Complex70	Complex71	
+BiochemicalReaction48	Neurofascin interacts with syntenin-1	Protein114	Complex72	
+BiochemicalReaction48	Neurofascin interacts with syntenin-1	Protein49	Complex72	
+BiochemicalReaction49	Neurofascin binds contactin-1:CASPR complex	Protein49	Complex74	
+BiochemicalReaction49	Neurofascin binds contactin-1:CASPR complex	Complex73	Complex74	
+BiochemicalReaction5	Shootin-1 links L1 and retrograde actin flow	PhysicalEntity1	Complex5	
+BiochemicalReaction5	Shootin-1 links L1 and retrograde actin flow	Protein8	Complex5	
+BiochemicalReaction5	Shootin-1 links L1 and retrograde actin flow	Protein2	Complex5	
+BiochemicalReaction50	NrCAM binds Ankyrin-G	Protein37	Complex75	
+BiochemicalReaction50	NrCAM binds Ankyrin-G	Protein50	Complex75	
+BiochemicalReaction51	NrCAM binds axonin-1	Protein99	Complex76	
+BiochemicalReaction51	NrCAM binds axonin-1	Protein50	Complex76	
+BiochemicalReaction52	NrCAM binds synapse-associated proteins	Protein116	Complex77	
+BiochemicalReaction52	NrCAM binds synapse-associated proteins	Protein50	Complex77	
+BiochemicalReaction53	NrCAM binds Neuropilin-2	Protein120	Complex78	
+BiochemicalReaction53	NrCAM binds Neuropilin-2	Protein50	Complex78	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	SmallMolecule4	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	Complex1	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	PhysicalEntity1	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	Protein1	
+BiochemicalReaction7	L1 binds to AP-2 Clathrin complex	Complex6	Complex9	
+BiochemicalReaction7	L1 binds to AP-2 Clathrin complex	Protein1	Complex9	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Protein16	SmallMolecule4	
+BiochemicalReaction8	Formation of clathrin coated vesicle	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Complex9	SmallMolecule4	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Complex9	Complex10	
+BiochemicalReaction8	Formation of clathrin coated vesicle	SmallMolecule5	Complex10	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Protein16	Complex10	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Complex9	SmallMolecule6	
+BiochemicalReaction8	Formation of clathrin coated vesicle	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Protein16	SmallMolecule6	
+BiochemicalReaction9	Interaction of NUMB with L1	Complex11	Complex12	
+BiochemicalReaction9	Interaction of NUMB with L1	Protein1	Complex12	

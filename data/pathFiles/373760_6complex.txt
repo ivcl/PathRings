@@ -1,0 +1,163 @@
+Complex1	ERM:PIP2	plasma membrane	Reactome DB_ID: 443660	Protein4	
+Complex1	ERM:PIP2	plasma membrane	Reactome DB_ID: 443660	SmallMolecule3	
+Complex10	L1:AP-2 Clathrin complex	clathrin-coated endocytic vesicle	Reactome DB_ID: 392743	Protein16	
+Complex10	L1:AP-2 Clathrin complex	clathrin-coated endocytic vesicle	Reactome DB_ID: 392743	Complex6	
+Complex10	L1:AP-2 Clathrin complex	clathrin-coated endocytic vesicle	Reactome DB_ID: 392743	Protein1	
+Complex11	CRMP-2:NUMB:alpha adaptin	plasma membrane	Reactome DB_ID: 443669	Protein9	
+Complex11	CRMP-2:NUMB:alpha adaptin	plasma membrane	Reactome DB_ID: 443669	Protein21	
+Complex11	CRMP-2:NUMB:alpha adaptin	plasma membrane	Reactome DB_ID: 443669	Protein22	
+Complex12	L1:NUMB:CRMP-2:alpha-adaptin	clathrin-coated endocytic vesicle	Reactome DB_ID: 443657	Complex11	
+Complex12	L1:NUMB:CRMP-2:alpha-adaptin	clathrin-coated endocytic vesicle	Reactome DB_ID: 443657	Protein1	
+Complex13	L1:AP-2 Clathrin complex	endosome	Reactome DB_ID: 392746	Protein16	
+Complex13	L1:AP-2 Clathrin complex	endosome	Reactome DB_ID: 392746	Complex6	
+Complex13	L1:AP-2 Clathrin complex	endosome	Reactome DB_ID: 392746	Protein1	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Protein16	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Complex6	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Protein23	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Protein30	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Protein16	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Complex6	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Protein32	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Protein31	
+Complex16	KIF4 dimer	cytosol	Reactome DB_ID: 445013	Protein33	
+Complex17	AP2 clathrin:L1:KIF4:microtubule	cytosol	Reactome DB_ID: 445022	Complex16	
+Complex17	AP2 clathrin:L1:KIF4:microtubule	cytosol	Reactome DB_ID: 445022	PhysicalEntity3	
+Complex17	AP2 clathrin:L1:KIF4:microtubule	cytosol	Reactome DB_ID: 445022	Complex13	
+Complex18	L1 homodimer	plasma membrane	Reactome DB_ID: 446623	Protein1	
+Complex19	L1 trans-homodimer:Ankyrin	plasma membrane	Reactome DB_ID: 374569	Complex18	
+Complex19	L1 trans-homodimer:Ankyrin	plasma membrane	Reactome DB_ID: 374569	Protein36	
+Complex2	pL1:Ezrin	plasma membrane	Reactome DB_ID: 374575	Complex1	
+Complex2	pL1:Ezrin	plasma membrane	Reactome DB_ID: 374575	Protein2	
+Complex20	spectrin based actin	cytosol	Reactome DB_ID: 392744	Complex21	
+Complex20	spectrin based actin	cytosol	Reactome DB_ID: 392744	PhysicalEntity1	
+Complex21	Spectrin heterodimer	cytosol	Reactome DB_ID: 391839	Protein40	
+Complex21	Spectrin heterodimer	cytosol	Reactome DB_ID: 391839	Protein43	
+Complex22	L1 dimer:Ankyrin:Spectrin:F-actin	plasma membrane	Reactome DB_ID: 443654	Complex20	
+Complex22	L1 dimer:Ankyrin:Spectrin:F-actin	plasma membrane	Reactome DB_ID: 443654	Complex19	
+Complex23	Neurofascin:NrCAM:Ankyrin:spectrin based actin	plasma membrane	Reactome DB_ID: 443650	Complex20	
+Complex23	Neurofascin:NrCAM:Ankyrin:spectrin based actin	plasma membrane	Reactome DB_ID: 443650	Protein36	
+Complex23	Neurofascin:NrCAM:Ankyrin:spectrin based actin	plasma membrane	Reactome DB_ID: 443650	Complex24	
+Complex24	Neurofascin:NrCAM complex	plasma membrane	Reactome DB_ID: 373686	Protein49	
+Complex24	Neurofascin:NrCAM complex	plasma membrane	Reactome DB_ID: 373686	Protein50	
+Complex25	Sodium channel subunits	plasma membrane	Reactome DB_ID: 443632	Protein54	
+Complex25	Sodium channel subunits	plasma membrane	Reactome DB_ID: 443632	Protein63	
+Complex26	Neurofascin:NrCAM:Ankyrin:spectrin based actin:Na+/K+ channel	plasma membrane	Reactome DB_ID: 373687	Complex23	
+Complex26	Neurofascin:NrCAM:Ankyrin:spectrin based actin:Na+/K+ channel	plasma membrane	Reactome DB_ID: 373687	PhysicalEntity4	
+Complex27	pL1 (Y1229):L1CAM	plasma membrane	Reactome DB_ID: 445008	Protein67	
+Complex27	pL1 (Y1229):L1CAM	plasma membrane	Reactome DB_ID: 445008	Protein1	
+Complex28	L1:NCAM1 complex	plasma membrane	Reactome DB_ID: 374576	Protein1	
+Complex28	L1:NCAM1 complex	plasma membrane	Reactome DB_ID: 374576	Protein68	
+Complex29	L1:FGFR1	plasma membrane	Reactome DB_ID: 443643	Protein69	
+Complex29	L1:FGFR1	plasma membrane	Reactome DB_ID: 443643	Complex18	
+Complex3	L1 trans-homodimer	plasma membrane	Reactome DB_ID: 191438	Protein1	
+Complex3	L1 trans-homodimer	plasma membrane	Reactome DB_ID: 191438	Complex2	
+Complex30	L1-EGFR trans-heterodimer	plasma membrane	Reactome DB_ID: 445016	Protein70	
+Complex30	L1-EGFR trans-heterodimer	plasma membrane	Reactome DB_ID: 445016	Protein1	
+Complex31	L1:NRP1	plasma membrane	Reactome DB_ID: 374580	Protein71	
+Complex31	L1:NRP1	plasma membrane	Reactome DB_ID: 374580	Protein1	
+Complex33	Integrin alphaVbeta1	plasma membrane	Reactome DB_ID: 216015	Protein72	
+Complex33	Integrin alphaVbeta1	plasma membrane	Reactome DB_ID: 216015	Protein73	
+Complex34	Integrin alphaVbeta3	plasma membrane	Reactome DB_ID: 210216	Protein74	
+Complex34	Integrin alphaVbeta3	plasma membrane	Reactome DB_ID: 210216	Protein73	
+Complex35	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein75	
+Complex35	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein72	
+Complex36	Integrin alpha2bbeta3	plasma membrane	Reactome DB_ID: 114514	Protein74	
+Complex36	Integrin alpha2bbeta3	plasma membrane	Reactome DB_ID: 114514	Protein76	
+Complex37	Integrin alpha9beta1	plasma membrane	Reactome DB_ID: 216011	Protein77	
+Complex37	Integrin alpha9beta1	plasma membrane	Reactome DB_ID: 216011	Protein72	
+Complex38	L1:Integrin complex	plasma membrane	Reactome DB_ID: 374579	Complex32	
+Complex38	L1:Integrin complex	plasma membrane	Reactome DB_ID: 374579	Protein1	
+Complex39	RAC1-GDP	cytosol	Reactome DB_ID: 445010	SmallMolecule6	
+Complex39	RAC1-GDP	cytosol	Reactome DB_ID: 445010	Protein80	
+Complex4	pL1:ERM:F-actin	plasma membrane	Reactome DB_ID: 443655	PhysicalEntity1	
+Complex4	pL1:ERM:F-actin	plasma membrane	Reactome DB_ID: 443655	Complex3	
+Complex40	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule5	
+Complex40	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein80	
+Complex41	PAK1 dimer	cytosol	Reactome DB_ID: 445002	Protein81	
+Complex42	pPAK1:Rac1-GTP	cytosol	Reactome DB_ID: 445001	Protein82	
+Complex42	pPAK1:Rac1-GTP	cytosol	Reactome DB_ID: 445001	Complex40	
+Complex43	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein83	
+Complex43	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein84	
+Complex44	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein83	
+Complex44	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein85	
+Complex45	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein89	
+Complex45	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein90	
+Complex46	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein89	
+Complex46	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein31	
+Complex47	CK2	cytosol	Reactome DB_ID: 201711	Protein91	
+Complex47	CK2	cytosol	Reactome DB_ID: 201711	Protein92	
+Complex47	CK2	cytosol	Reactome DB_ID: 201711	Protein93	
+Complex48	pL1:CK-II	plasma membrane	Reactome DB_ID: 392745	Complex47	
+Complex48	pL1:CK-II	plasma membrane	Reactome DB_ID: 392745	Protein94	
+Complex49	L1:Neurocan	plasma membrane	Reactome DB_ID: 443646	Protein95	
+Complex49	L1:Neurocan	plasma membrane	Reactome DB_ID: 443646	Protein1	
+Complex5	pL1:Shootin-1:F-actin	plasma membrane	Reactome DB_ID: 443668	PhysicalEntity1	
+Complex5	pL1:Shootin-1:F-actin	plasma membrane	Reactome DB_ID: 443668	Protein8	
+Complex5	pL1:Shootin-1:F-actin	plasma membrane	Reactome DB_ID: 443668	Protein2	
+Complex50	Laminin-1	extracellular region	Reactome DB_ID: 215989	Protein96	
+Complex50	Laminin-1	extracellular region	Reactome DB_ID: 215989	Protein97	
+Complex50	Laminin-1	extracellular region	Reactome DB_ID: 215989	Protein98	
+Complex51	L1:HNK-1	plasma membrane	Reactome DB_ID: 443641	SmallMolecule7	
+Complex51	L1:HNK-1	plasma membrane	Reactome DB_ID: 443641	Protein1	
+Complex52	L1:Laminin	plasma membrane	Reactome DB_ID: 443666	Complex50	
+Complex52	L1:Laminin	plasma membrane	Reactome DB_ID: 443666	Complex51	
+Complex53	L1:Axonin-1	plasma membrane	Reactome DB_ID: 374577	Protein99	
+Complex53	L1:Axonin-1	plasma membrane	Reactome DB_ID: 374577	Protein1	
+Complex54	L1:CNTN1	plasma membrane	Reactome DB_ID: 443653	Protein100	
+Complex54	L1:CNTN1	plasma membrane	Reactome DB_ID: 443653	Protein1	
+Complex55	L1:ALCAM	plasma membrane	Reactome DB_ID: 443658	Protein101	
+Complex55	L1:ALCAM	plasma membrane	Reactome DB_ID: 443658	Protein1	
+Complex56	L1:RanBPM	plasma membrane	Reactome DB_ID: 374585	Protein102	
+Complex56	L1:RanBPM	plasma membrane	Reactome DB_ID: 374585	Protein1	
+Complex57	L1:HSA	plasma membrane	Reactome DB_ID: 443648	Protein103	
+Complex57	L1:HSA	plasma membrane	Reactome DB_ID: 443648	Protein1	
+Complex58	Tyr phos L1:EPHB2	plasma membrane	Reactome DB_ID: 443816	Protein105	
+Complex58	Tyr phos L1:EPHB2	plasma membrane	Reactome DB_ID: 443816	Protein104	
+Complex59	CHL1:Ankyrin-G	plasma membrane	Reactome DB_ID: 447021	Protein37	
+Complex59	CHL1:Ankyrin-G	plasma membrane	Reactome DB_ID: 447021	Protein106	
+Complex6	Clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 177505	Complex7	
+Complex6	Clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 177505	Complex8	
+Complex60	CHL1:HSP7C	plasma membrane	Reactome DB_ID: 445018	SmallMolecule2	
+Complex60	CHL1:HSP7C	plasma membrane	Reactome DB_ID: 445018	Protein107	
+Complex60	CHL1:HSP7C	plasma membrane	Reactome DB_ID: 445018	Protein106	
+Complex61	CHL1:NRP1	plasma membrane	Reactome DB_ID: 445017	Protein71	
+Complex61	CHL1:NRP1	plasma membrane	Reactome DB_ID: 445017	Protein106	
+Complex63	Integrin alpha2beta1	plasma membrane	Reactome DB_ID: 114561	Protein72	
+Complex63	Integrin alpha2beta1	plasma membrane	Reactome DB_ID: 114561	Protein108	
+Complex64	Integrin alpha1beta1	plasma membrane	Reactome DB_ID: 215982	Protein109	
+Complex64	Integrin alpha1beta1	plasma membrane	Reactome DB_ID: 215982	Protein72	
+Complex65	Integrin alpha10beta1	plasma membrane	Reactome DB_ID: 215987	Protein110	
+Complex65	Integrin alpha10beta1	plasma membrane	Reactome DB_ID: 215987	Protein72	
+Complex66	CHL1:alpha1beta1/alpha2beta1 integrins	plasma membrane	Reactome DB_ID: 445009	Complex62	
+Complex66	CHL1:alpha1beta1/alpha2beta1 integrins	plasma membrane	Reactome DB_ID: 445009	Protein106	
+Complex67	CHL1:CNTN6	plasma membrane	Reactome DB_ID: 443670	Protein111	
+Complex67	CHL1:CNTN6	plasma membrane	Reactome DB_ID: 443670	Protein106	
+Complex68	Neurofascin:Ankyrin-G complex	plasma membrane	Reactome DB_ID: 373676	Protein37	
+Complex68	Neurofascin:Ankyrin-G complex	plasma membrane	Reactome DB_ID: 373676	Protein49	
+Complex69	Trans neurofascin dimer:ankyrin-G	plasma membrane	Reactome DB_ID: 443672	Protein49	
+Complex69	Trans neurofascin dimer:ankyrin-G	plasma membrane	Reactome DB_ID: 443672	Complex68	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein9	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein12	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein13	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein14	
+Complex70	NFASC:pNFASC	plasma membrane	Reactome DB_ID: 445011	Protein112	
+Complex70	NFASC:pNFASC	plasma membrane	Reactome DB_ID: 445011	Protein49	
+Complex71	pNFASC:Doublecortin	plasma membrane	Reactome DB_ID: 443664	Protein113	
+Complex71	pNFASC:Doublecortin	plasma membrane	Reactome DB_ID: 443664	Complex70	
+Complex72	Neurofascin:Syntenin-1 complex	plasma membrane	Reactome DB_ID: 373693	Protein114	
+Complex72	Neurofascin:Syntenin-1 complex	plasma membrane	Reactome DB_ID: 373693	Protein49	
+Complex73	Contactin1:CASPR complex	plasma membrane	Reactome DB_ID: 373655	Protein115	
+Complex73	Contactin1:CASPR complex	plasma membrane	Reactome DB_ID: 373655	Protein100	
+Complex74	Neurofascin:CNTN1:CASPR complex	plasma membrane	Reactome DB_ID: 373682	Protein49	
+Complex74	Neurofascin:CNTN1:CASPR complex	plasma membrane	Reactome DB_ID: 373682	Complex73	
+Complex75	NrCAM:Ankyrin-G	plasma membrane	Reactome DB_ID: 447023	Protein37	
+Complex75	NrCAM:Ankyrin-G	plasma membrane	Reactome DB_ID: 447023	Protein50	
+Complex76	NrCAM:Axonin-1	plasma membrane	Reactome DB_ID: 445006	Protein99	
+Complex76	NrCAM:Axonin-1	plasma membrane	Reactome DB_ID: 445006	Protein50	
+Complex77	NrCAM:SAP members	plasma membrane	Reactome DB_ID: 376023	Protein116	
+Complex77	NrCAM:SAP members	plasma membrane	Reactome DB_ID: 376023	Protein50	
+Complex78	NRP2:NrCAM	plasma membrane	Reactome DB_ID: 549047	Protein120	
+Complex78	NRP2:NrCAM	plasma membrane	Reactome DB_ID: 549047	Protein50	
+Complex8	Clathrin	plasma membrane	Reactome DB_ID: 177482	Protein15	
+Complex9	L1:clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 555064	Complex6	
+Complex9	L1:clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 555064	Protein1	

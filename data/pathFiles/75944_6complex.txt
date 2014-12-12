@@ -1,0 +1,8 @@
+Complex1	TFAM:mitochondrial promoter complex	mitochondrial matrix	Reactome DB_ID: 163298	Protein1	
+Complex1	TFAM:mitochondrial promoter complex	mitochondrial matrix	Reactome DB_ID: 163298	PhysicalEntity1	
+Complex2	POLRMT:TFB2M complex	mitochondrial matrix	Reactome DB_ID: 163306	Protein2	
+Complex2	POLRMT:TFB2M complex	mitochondrial matrix	Reactome DB_ID: 163306	Protein3	
+Complex3	POLRMT:TFB2M:TFAM:mitochondrial promoter complex	mitochondrial matrix	Reactome DB_ID: 163307	Complex1	
+Complex3	POLRMT:TFB2M:TFAM:mitochondrial promoter complex	mitochondrial matrix	Reactome DB_ID: 163307	Complex2	
+Complex4	mTERF:mitochondrial transcription termination sequence	mitochondrial matrix	Reactome DB_ID: 163321	Protein4	
+Complex4	mTERF:mitochondrial transcription termination sequence	mitochondrial matrix	Reactome DB_ID: 163321	PhysicalEntity2	

@@ -1,0 +1,191 @@
+BiochemicalReaction1	Binding of SHC to insulin receptor	Complex1	Complex4	
+BiochemicalReaction1	Binding of SHC to insulin receptor	Protein5	Complex4	
+BiochemicalReaction10	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein18	Complex15	
+BiochemicalReaction10	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex14	Complex15	
+BiochemicalReaction11	Activated RAF1 complex binds MEK	Protein20	Complex16	
+BiochemicalReaction11	Activated RAF1 complex binds MEK	Complex13	Complex16	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	SmallMolecule1	Protein23	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	Complex17	Protein23	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	Complex17	Complex13	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	SmallMolecule1	Complex13	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	Complex17	SmallMolecule2	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	Complex18	Complex13	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	SmallMolecule1	Complex13	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	Complex18	SmallMolecule2	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	SmallMolecule1	Protein24	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	Complex18	Protein24	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	Protein25	SmallMolecule2	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein26	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	Protein25	Protein26	
+BiochemicalReaction15	MEK1 binds ERK-1	Protein23	Complex19	
+BiochemicalReaction15	MEK1 binds ERK-1	Protein30	Complex19	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	Complex19	Complex20	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex20	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	Complex19	SmallMolecule2	
+BiochemicalReaction17	Dissociation of phospho-ERK-1:MEK1	Complex20	Protein23	
+BiochemicalReaction17	Dissociation of phospho-ERK-1:MEK1	Complex20	Protein31	
+BiochemicalReaction18	Dimerisation of phospho-ERK-1	Protein31	Complex21	
+BiochemicalReaction19	Nuclear translocation of phospho-ERK-1 dimer	Complex21	Complex22	
+BiochemicalReaction2	Phosphorylation of SHC	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of SHC	Complex4	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of SHC	Complex4	Complex5	
+BiochemicalReaction2	Phosphorylation of SHC	SmallMolecule1	Complex5	
+BiochemicalReaction20	MEK2 binds ERK-2	Protein24	Complex31	
+BiochemicalReaction20	MEK2 binds ERK-2	Protein42	Complex31	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	Complex31	SmallMolecule2	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex32	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	Complex31	Complex32	
+BiochemicalReaction22	Dissociation of phospho-ERK-2:MEK2	Complex32	Protein24	
+BiochemicalReaction22	Dissociation of phospho-ERK-2:MEK2	Complex32	Protein43	
+BiochemicalReaction23	Dimerisation of phospho-ERK-2	Protein43	Complex33	
+BiochemicalReaction24	Nuclear translocation of phospho-ERK-2 dimer	Complex33	Complex34	
+BiochemicalReaction25	Binding of IRS to insulin receptor	Complex1	Complex35	
+BiochemicalReaction25	Binding of IRS to insulin receptor	Protein45	Complex35	
+BiochemicalReaction26	Phosphorylation of IRS	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of IRS	Complex35	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of IRS	Complex35	Complex36	
+BiochemicalReaction26	Phosphorylation of IRS	SmallMolecule1	Complex36	
+BiochemicalReaction27	Dissociation of IRS-P from insulin receptor	Complex36	Protein49	
+BiochemicalReaction27	Dissociation of IRS-P from insulin receptor	Complex36	Complex1	
+BiochemicalReaction28	PI3K activation	Protein49	Complex38	
+BiochemicalReaction28	PI3K activation	Complex37	Complex38	
+BiochemicalReaction29	PIP2 conversion to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction29	PIP2 conversion to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	PIP2 conversion to PIP3	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction29	PIP2 conversion to PIP3	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	Dissociation of SHC-P from insulin receptor	Complex5	Protein6	
+BiochemicalReaction3	Dissociation of SHC-P from insulin receptor	Complex5	Complex1	
+BiochemicalReaction30	Phosphorylation of PDE3B	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of PDE3B	Protein99	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of PDE3B	Protein99	Protein100	
+BiochemicalReaction30	Phosphorylation of PDE3B	SmallMolecule1	Protein100	
+BiochemicalReaction31	Hydrolysis of cAMP to 5' AMP by Phosphorylated PDE3B	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction31	Hydrolysis of cAMP to 5' AMP by Phosphorylated PDE3B	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction32	Phosphorylation of TSC2 by PKB	Protein102	Protein103	
+BiochemicalReaction32	Phosphorylation of TSC2 by PKB	SmallMolecule1	Protein103	
+BiochemicalReaction32	Phosphorylation of TSC2 by PKB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction32	Phosphorylation of TSC2 by PKB	Protein102	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of complexed TSC2 by PKB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of complexed TSC2 by PKB	Complex66	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of complexed TSC2 by PKB	Complex66	Complex67	
+BiochemicalReaction33	Phosphorylation of complexed TSC2 by PKB	SmallMolecule1	Complex67	
+BiochemicalReaction34	GTP loading by Rheb	SmallMolecule3	Complex69	
+BiochemicalReaction34	GTP loading by Rheb	Complex68	Complex69	
+BiochemicalReaction34	GTP loading by Rheb	Complex68	SmallMolecule4	
+BiochemicalReaction34	GTP loading by Rheb	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction35	Formation of active mTORC1 complex	Protein106	Complex70	
+BiochemicalReaction35	Formation of active mTORC1 complex	Protein107	Complex70	
+BiochemicalReaction35	Formation of active mTORC1 complex	Complex69	Complex70	
+BiochemicalReaction35	Formation of active mTORC1 complex	Protein108	Complex70	
+BiochemicalReaction36	Activation of S6K1	SmallMolecule1	Protein110	
+BiochemicalReaction36	Activation of S6K1	Protein109	Protein110	
+BiochemicalReaction36	Activation of S6K1	Protein109	SmallMolecule2	
+BiochemicalReaction36	Activation of S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction37	Phosphorylation of Ribosomal protein S6 by activated S6K1	Protein112	SmallMolecule2	
+BiochemicalReaction37	Phosphorylation of Ribosomal protein S6 by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction37	Phosphorylation of Ribosomal protein S6 by activated S6K1	SmallMolecule1	Protein113	
+BiochemicalReaction37	Phosphorylation of Ribosomal protein S6 by activated S6K1	Protein112	Protein113	
+BiochemicalReaction38	Phosphorylation and inactivation of eEF2K by activated S6K1	Protein114	SmallMolecule2	
+BiochemicalReaction38	Phosphorylation and inactivation of eEF2K by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction38	Phosphorylation and inactivation of eEF2K by activated S6K1	SmallMolecule1	Protein115	
+BiochemicalReaction38	Phosphorylation and inactivation of eEF2K by activated S6K1	Protein114	Protein115	
+BiochemicalReaction39	Phosphorylation and activation of eIF4G by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction39	Phosphorylation and activation of eIF4G by activated S6K1	Protein116	SmallMolecule2	
+BiochemicalReaction39	Phosphorylation and activation of eIF4G by activated S6K1	Protein116	Protein117	
+BiochemicalReaction39	Phosphorylation and activation of eIF4G by activated S6K1	SmallMolecule1	Protein117	
+BiochemicalReaction4	GRB2:SOS binds to SHC-P	Protein7	Complex7	
+BiochemicalReaction4	GRB2:SOS binds to SHC-P	Complex6	Complex7	
+BiochemicalReaction40	Phosphorylation and activation of eIF4B by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction40	Phosphorylation and activation of eIF4B by activated S6K1	Protein118	SmallMolecule2	
+BiochemicalReaction40	Phosphorylation and activation of eIF4B by activated S6K1	Protein118	Protein119	
+BiochemicalReaction40	Phosphorylation and activation of eIF4B by activated S6K1	SmallMolecule1	Protein119	
+BiochemicalReaction41	Phosphorylation of 4E-BP1 by activated mTORC1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction41	Phosphorylation of 4E-BP1 by activated mTORC1	Complex71	SmallMolecule2	
+BiochemicalReaction41	Phosphorylation of 4E-BP1 by activated mTORC1	Complex71	Complex72	
+BiochemicalReaction41	Phosphorylation of 4E-BP1 by activated mTORC1	SmallMolecule1	Complex72	
+BiochemicalReaction42	Dissociation of phosphorylated 4EBP1 from eIF4E	Complex72	Protein121	
+BiochemicalReaction42	Dissociation of phosphorylated 4EBP1 from eIF4E	Complex72	Protein122	
+BiochemicalReaction43	LKB1 forms a trimeric complex with STRAD and MO25	Protein123	Complex73	
+BiochemicalReaction43	LKB1 forms a trimeric complex with STRAD and MO25	Protein126	Complex73	
+BiochemicalReaction43	LKB1 forms a trimeric complex with STRAD and MO25	Protein127	Complex73	
+BiochemicalReaction44	Activation of cytosolic AMPK by phosphorylation	Complex74	SmallMolecule2	
+BiochemicalReaction44	Activation of cytosolic AMPK by phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction44	Activation of cytosolic AMPK by phosphorylation	SmallMolecule1	Complex75	
+BiochemicalReaction44	Activation of cytosolic AMPK by phosphorylation	Complex74	Complex75	
+BiochemicalReaction45	AMPK is dephosphorylated	Complex75	SmallMolecule11	
+BiochemicalReaction45	AMPK is dephosphorylated	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction45	AMPK is dephosphorylated	SmallMolecule9	Complex74	
+BiochemicalReaction45	AMPK is dephosphorylated	Complex75	Complex74	
+BiochemicalReaction46	Phosphorylated AMPK binds AMP	Complex75	Complex76	
+BiochemicalReaction46	Phosphorylated AMPK binds AMP	SmallMolecule10	Complex76	
+BiochemicalReaction47	AMPK phosphorylates Raptor	Protein106	SmallMolecule2	
+BiochemicalReaction47	AMPK phosphorylates Raptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction47	AMPK phosphorylates Raptor	SmallMolecule1	Protein144	
+BiochemicalReaction47	AMPK phosphorylates Raptor	Protein106	Protein144	
+BiochemicalReaction48	p-AMPK phosphorylates TSC2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction48	p-AMPK phosphorylates TSC2	Complex66	SmallMolecule2	
+BiochemicalReaction48	p-AMPK phosphorylates TSC2	Complex66	Complex77	
+BiochemicalReaction48	p-AMPK phosphorylates TSC2	SmallMolecule1	Complex77	
+BiochemicalReaction49	TSC2 activates intrinsic GTPase activity of Rheb	Complex69	SmallMolecule11	
+BiochemicalReaction49	TSC2 activates intrinsic GTPase activity of Rheb	Complex69	Complex68	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule3	Complex9	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	Complex8	Complex9	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	Complex8	SmallMolecule4	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction50	PDK1 attachment to plasma membrane	Protein146	Complex78	
+BiochemicalReaction50	PDK1 attachment to plasma membrane	SmallMolecule6	Complex78	
+BiochemicalReaction51	PKB attachment to plasma membrane	Complex79	Complex80	
+BiochemicalReaction51	PKB attachment to plasma membrane	SmallMolecule6	Complex80	
+BiochemicalReaction51	PKB attachment to plasma membrane	SmallMolecule6	Protein148	
+BiochemicalReaction51	PKB attachment to plasma membrane	Complex79	Protein148	
+BiochemicalReaction52	Phosphorylation of AKT2 by PDK1	Complex80	SmallMolecule2	
+BiochemicalReaction52	Phosphorylation of AKT2 by PDK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction52	Phosphorylation of AKT2 by PDK1	SmallMolecule1	Complex65	
+BiochemicalReaction52	Phosphorylation of AKT2 by PDK1	Complex80	Complex65	
+BiochemicalReaction53	GRB2:SOS binds IRS-P	Protein151	Complex81	
+BiochemicalReaction53	GRB2:SOS binds IRS-P	Complex6	Complex81	
+BiochemicalReaction54	SOS mediated nucleotide exchange of RAS (IRS)	SmallMolecule3	Complex9	
+BiochemicalReaction54	SOS mediated nucleotide exchange of RAS (IRS)	Complex8	Complex9	
+BiochemicalReaction54	SOS mediated nucleotide exchange of RAS (IRS)	Complex8	SmallMolecule4	
+BiochemicalReaction54	SOS mediated nucleotide exchange of RAS (IRS)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction55	De-phosphorylation of IRS	Protein49	SmallMolecule11	
+BiochemicalReaction55	De-phosphorylation of IRS	Protein49	Protein45	
+BiochemicalReaction56	De-phosphorylation of SHC	Protein6	SmallMolecule11	
+BiochemicalReaction56	De-phosphorylation of SHC	Protein6	Protein5	
+BiochemicalReaction57	SOS phosphorylation and dissociation (SHC)	Complex7	SmallMolecule2	
+BiochemicalReaction57	SOS phosphorylation and dissociation (SHC)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction57	SOS phosphorylation and dissociation (SHC)	SmallMolecule1	Protein152	
+BiochemicalReaction57	SOS phosphorylation and dissociation (SHC)	Complex7	Protein152	
+BiochemicalReaction57	SOS phosphorylation and dissociation (SHC)	SmallMolecule1	Complex82	
+BiochemicalReaction57	SOS phosphorylation and dissociation (SHC)	Complex7	Complex82	
+BiochemicalReaction58	SOS phosphorylation and dissociation (IRS)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction58	SOS phosphorylation and dissociation (IRS)	Complex81	SmallMolecule2	
+BiochemicalReaction58	SOS phosphorylation and dissociation (IRS)	Complex81	Protein152	
+BiochemicalReaction58	SOS phosphorylation and dissociation (IRS)	SmallMolecule1	Protein152	
+BiochemicalReaction58	SOS phosphorylation and dissociation (IRS)	Complex81	Complex83	
+BiochemicalReaction58	SOS phosphorylation and dissociation (IRS)	SmallMolecule1	Complex83	
+BiochemicalReaction59	SOS phosphorylation and dissociation (IRS, Crk)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction59	SOS phosphorylation and dissociation (IRS, Crk)	Complex84	SmallMolecule2	
+BiochemicalReaction59	SOS phosphorylation and dissociation (IRS, Crk)	Complex84	Protein152	
+BiochemicalReaction59	SOS phosphorylation and dissociation (IRS, Crk)	SmallMolecule1	Protein152	
+BiochemicalReaction59	SOS phosphorylation and dissociation (IRS, Crk)	Complex84	Complex86	
+BiochemicalReaction59	SOS phosphorylation and dissociation (IRS, Crk)	SmallMolecule1	Complex86	
+BiochemicalReaction6	p-RAF binds 14-3-3 beta/alpha	Protein17	Complex10	
+BiochemicalReaction6	p-RAF binds 14-3-3 beta/alpha	Protein18	Complex10	
+BiochemicalReaction60	Binding of Grb10 to the insulin receptor	Complex1	Complex87	
+BiochemicalReaction60	Binding of Grb10 to the insulin receptor	Protein155	Complex87	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex10	Complex11	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex9	Complex11	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex9	Protein17	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex10	Protein17	
+BiochemicalReaction8	Stabilisation of RAS:RAF by 14-3-3	Complex11	Complex12	
+BiochemicalReaction8	Stabilisation of RAS:RAF by 14-3-3	Protein17	Complex12	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex13	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	Complex12	Complex13	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	Complex12	SmallMolecule2	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	

@@ -1,0 +1,41 @@
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule6	SmallMolecule2	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule7	SmallMolecule2	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule5	SmallMolecule3	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule8	SmallMolecule13	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	Complex13	SmallMolecule18	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	SmallMolecule17	Complex18	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	Complex13	Complex18	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	Complex18	SmallMolecule20	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	SmallMolecule19	Complex13	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	Complex18	Complex13	

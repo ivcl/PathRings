@@ -1,0 +1,77 @@
+BiochemicalReaction1	Formation of Cyclin E:Cdk2 complexes	Protein1	Complex1	
+BiochemicalReaction1	Formation of Cyclin E:Cdk2 complexes	Protein4	Complex1	
+BiochemicalReaction10	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex10	Complex8	
+BiochemicalReaction10	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex10	Complex5	
+BiochemicalReaction10	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex10	Protein24	
+BiochemicalReaction11	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	Complex2	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	SmallMolecule1	Complex12	
+BiochemicalReaction11	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	Complex2	Complex12	
+BiochemicalReaction12	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	Complex13	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	Complex13	Complex14	
+BiochemicalReaction12	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	SmallMolecule1	Complex14	
+BiochemicalReaction13	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	Complex15	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	SmallMolecule1	Complex16	
+BiochemicalReaction13	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	Complex15	Complex16	
+BiochemicalReaction14	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	Complex12	Complex2	
+BiochemicalReaction14	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	SmallMolecule3	Complex2	
+BiochemicalReaction14	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	Complex12	SmallMolecule4	
+BiochemicalReaction15	CAK-mediated phosphorylation of Cyclin E:Cdk2	Complex2	SmallMolecule2	
+BiochemicalReaction15	CAK-mediated phosphorylation of Cyclin E:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	CAK-mediated phosphorylation of Cyclin E:Cdk2	SmallMolecule1	Complex18	
+BiochemicalReaction15	CAK-mediated phosphorylation of Cyclin E:Cdk2	Complex2	Complex18	
+BiochemicalReaction16	Association of Rb with Cyclin E:Cdk2 complexes	Complex18	Complex20	
+BiochemicalReaction16	Association of Rb with Cyclin E:Cdk2 complexes	Protein91	Complex20	
+BiochemicalReaction17	Cyclin E:Cdk2-mediated phosphorylation of Rb	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	Cyclin E:Cdk2-mediated phosphorylation of Rb	Complex20	SmallMolecule2	
+BiochemicalReaction17	Cyclin E:Cdk2-mediated phosphorylation of Rb	Complex20	Complex21	
+BiochemicalReaction17	Cyclin E:Cdk2-mediated phosphorylation of Rb	SmallMolecule1	Complex21	
+BiochemicalReaction18	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Complex23	Complex29	
+BiochemicalReaction18	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Protein120	Complex29	
+BiochemicalReaction19	Cdt1 is displaced from the pre-replicative complex.	Complex29	Protein94	
+BiochemicalReaction19	Cdt1 is displaced from the pre-replicative complex.	Complex29	Complex30	
+BiochemicalReaction2	Translocation of Cyclin E:Cdk2 complex to the nucleus	Complex1	Complex2	
+BiochemicalReaction20	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex32	Complex34	
+BiochemicalReaction20	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex30	Complex34	
+BiochemicalReaction20	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex33	Complex34	
+BiochemicalReaction21	Mcm2-7 is phosphorylated by DDK	Complex24	SmallMolecule2	
+BiochemicalReaction21	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	Complex35	
+BiochemicalReaction21	Mcm2-7 is phosphorylated by DDK	Complex24	Complex35	
+BiochemicalReaction22	Cdc45 associates with the pre-replicative complex at the origin	Complex34	Complex36	
+BiochemicalReaction22	Cdc45 associates with the pre-replicative complex at the origin	Protein96	Complex36	
+BiochemicalReaction23	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex36	Complex38	
+BiochemicalReaction23	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex37	Complex38	
+BiochemicalReaction24	DNA polymerase alpha:primase binds at the origin	Complex39	Complex42	
+BiochemicalReaction24	DNA polymerase alpha:primase binds at the origin	Complex40	Complex42	
+BiochemicalReaction25	DNA polymerase epsilon binds at the origin	Complex41	Complex40	
+BiochemicalReaction25	DNA polymerase epsilon binds at the origin	PhysicalEntity2	Complex40	
+BiochemicalReaction26	Detection of damage during initiation of DNA synthesis in S-phase	Complex43	Complex45	
+BiochemicalReaction26	Detection of damage during initiation of DNA synthesis in S-phase	Complex43	Complex39	
+BiochemicalReaction27	PP2A mediated localization of RB1 protein in chromatin	Complex45	Complex46	
+BiochemicalReaction27	PP2A mediated localization of RB1 protein in chromatin	Protein132	Complex46	
+BiochemicalReaction28	Replication initiation regulation by Rb1/E2F1	Complex46	Complex48	
+BiochemicalReaction28	Replication initiation regulation by Rb1/E2F1	Complex22	Complex48	
+BiochemicalReaction29	Activation of Cyclin B/Cdk1 by Cdc25a (string) protein	NA	Complex49	
+BiochemicalReaction29	Activation of Cyclin B/Cdk1 by Cdc25a (string) protein	NA	Protein84	
+BiochemicalReaction3	Translocation of p21 to the nucleus	Protein9	Protein10	
+BiochemicalReaction30	Association of Cyclin B/Cdk1 with replicative origin inhibits pre-RC formation	Complex49	Complex50	
+BiochemicalReaction30	Association of Cyclin B/Cdk1 with replicative origin inhibits pre-RC formation	Complex27	Complex50	
+BiochemicalReaction4	Translocation of p27 to the nucleoplasm	Protein11	Protein12	
+BiochemicalReaction5	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex2	Complex3	
+BiochemicalReaction5	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein13	Complex3	
+BiochemicalReaction6	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex4	SmallMolecule2	
+BiochemicalReaction6	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	Complex6	
+BiochemicalReaction6	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex4	Complex6	
+BiochemicalReaction7	Association of Cks1 with SCF(Skp2) complex	Protein20	Complex8	
+BiochemicalReaction7	Association of Cks1 with SCF(Skp2) complex	Complex7	Complex8	
+BiochemicalReaction8	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex8	Complex9	
+BiochemicalReaction8	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex6	Complex9	
+BiochemicalReaction9	Ubiquitination of phospho-p27/p21	Complex9	Complex10	
+BiochemicalReaction9	Ubiquitination of phospho-p27/p21	Protein24	Complex10	
+TemplateReaction1	Activation of Cdc25A by c-myc	NA	Protein84	
+TemplateReaction2	Activation of E2F target genes at G1/S	NA	Protein93	

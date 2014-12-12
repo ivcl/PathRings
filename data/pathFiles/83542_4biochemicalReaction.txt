@@ -1,0 +1,21 @@
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	Complex1	SmallMolecule2	
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	Complex1	Complex2	
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	SmallMolecule1	Complex2	
+BiochemicalReaction2	Dissociation of dimeric phospho-ATM complexes	Complex2	Protein2	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	Protein3	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	Protein3	Protein4	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	SmallMolecule1	Protein4	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	Protein5	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	SmallMolecule1	Protein6	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	Protein5	Protein6	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	Protein8	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	Protein8	Protein9	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	SmallMolecule1	Protein9	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	SmallMolecule1	Protein10	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	Protein7	Protein10	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	Protein7	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	SmallMolecule1	SmallMolecule2	

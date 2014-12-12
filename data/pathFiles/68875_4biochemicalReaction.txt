@@ -1,0 +1,66 @@
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex1	SmallMolecule3	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule2	Complex4	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex1	Complex4	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule2	Complex5	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex1	Complex5	
+BiochemicalReaction10	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Protein32	Complex20	
+BiochemicalReaction10	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Complex19	Complex20	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	Complex21	SmallMolecule3	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	SmallMolecule2	Complex22	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	Complex21	Complex22	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	Complex22	SmallMolecule3	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	SmallMolecule2	Complex23	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	Complex22	Complex23	
+BiochemicalReaction13	NEK9 binds NEK6/NEK7 in the cytosol	Protein43	Complex24	
+BiochemicalReaction13	NEK9 binds NEK6/NEK7 in the cytosol	Complex23	Complex24	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	Complex24	SmallMolecule3	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	SmallMolecule2	Complex25	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	Complex24	Complex25	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	Complex26	SmallMolecule3	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	SmallMolecule2	Complex29	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	Complex26	Complex29	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	SmallMolecule3	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	Complex30	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	Complex30	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	Protein83	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	Protein83	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	Protein86	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	Protein86	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	SmallMolecule5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	PhysicalEntity5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	PhysicalEntity5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	Complex36	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	Complex36	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	Complex37	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	Complex37	
+BiochemicalReaction2	GOLGA2 phosphorylated by CDK1 is unable to promote fusion of ER to Golgi transport vesicles with cis-Golgi	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction3	Recruitment of PLK1 to phosphorylated GORASP1 (GRASP65)	Protein16	Complex10	
+BiochemicalReaction3	Recruitment of PLK1 to phosphorylated GORASP1 (GRASP65)	Complex5	Complex10	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	Complex10	SmallMolecule3	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	SmallMolecule2	Complex11	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	Complex10	Complex11	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	Complex12	SmallMolecule3	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	SmallMolecule2	Complex14	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	Complex12	Complex14	
+BiochemicalReaction6	GORASP1 phosphorylated by PLK1 and GORASP2 phosphorylated by MAPK3-3/MAPK1 are unable to promote Golgi cisternae stacking	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	SmallMolecule4	Protein25	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	Protein24	Protein25	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	Protein24	SmallMolecule5	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	Protein28	SmallMolecule5	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	SmallMolecule4	Protein29	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	Protein28	Protein29	
+BiochemicalReaction9	MASTL phosphorylates ENSA	Protein30	SmallMolecule5	
+BiochemicalReaction9	MASTL phosphorylates ENSA	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction9	MASTL phosphorylates ENSA	SmallMolecule4	Protein31	
+BiochemicalReaction9	MASTL phosphorylates ENSA	Protein30	Protein31	

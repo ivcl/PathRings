@@ -1,0 +1,11 @@
+BiochemicalReaction1	G alpha (i) inhibits adenylate cyclase	Complex1	Complex3	
+BiochemicalReaction1	G alpha (i) inhibits adenylate cyclase	Complex2	Complex3	
+BiochemicalReaction2	G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex	Complex4	Complex5	
+BiochemicalReaction2	G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex	Complex3	Complex5	
+BiochemicalReaction3	Adenylate cyclase increases the GTPase activity of G alpha-olf	Complex5	SmallMolecule4	
+BiochemicalReaction3	Adenylate cyclase increases the GTPase activity of G alpha-olf	Complex5	Complex6	
+BiochemicalReaction4	Adenylate cyclase increases the GTPase activity of Gi alpha	Complex5	SmallMolecule4	
+BiochemicalReaction4	Adenylate cyclase increases the GTPase activity of Gi alpha	Complex5	Complex8	
+BiochemicalReaction5	Dissociation of the Gi alpha:G olf complex	Complex8	Complex9	
+BiochemicalReaction5	Dissociation of the Gi alpha:G olf complex	Complex8	Complex1	
+BiochemicalReaction5	Dissociation of the Gi alpha:G olf complex	Complex8	Complex7	

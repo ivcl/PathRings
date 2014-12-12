@@ -1,0 +1,51 @@
+BiochemicalReaction1	Phosphorylation of L1 by SRC	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of L1 by SRC	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of L1 by SRC	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of L1 by SRC	SmallMolecule1	Protein2	
+BiochemicalReaction10	Transport of L1 into endosomes	Complex10	Complex13	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Protein23	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Complex13	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Complex13	Complex14	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	SmallMolecule1	Complex14	
+BiochemicalReaction11	Phosphorylation of L1 by p90rsk	Protein23	Complex14	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	SmallMolecule1	Complex15	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Protein31	Complex15	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Complex13	Complex15	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Complex13	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Protein31	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Transport of L1 from C-domain to P-domain	Complex16	Complex17	
+BiochemicalReaction13	Transport of L1 from C-domain to P-domain	PhysicalEntity3	Complex17	
+BiochemicalReaction13	Transport of L1 from C-domain to P-domain	Complex13	Complex17	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Protein16	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Complex6	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Complex16	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	PhysicalEntity3	
+BiochemicalReaction14	Reinsertion of L1 into the plasma membrane	Complex17	Protein1	
+BiochemicalReaction2	L1 binds ERM family members	Complex1	Complex2	
+BiochemicalReaction2	L1 binds ERM family members	Protein2	Complex2	
+BiochemicalReaction3	L1 trans-homophilic interaction	Protein1	Complex3	
+BiochemicalReaction3	L1 trans-homophilic interaction	Complex2	Complex3	
+BiochemicalReaction4	Linkage of L1 with treadmilling F-actin	PhysicalEntity1	Complex4	
+BiochemicalReaction4	Linkage of L1 with treadmilling F-actin	Complex3	Complex4	
+BiochemicalReaction5	Shootin-1 links L1 and retrograde actin flow	PhysicalEntity1	Complex5	
+BiochemicalReaction5	Shootin-1 links L1 and retrograde actin flow	Protein8	Complex5	
+BiochemicalReaction5	Shootin-1 links L1 and retrograde actin flow	Protein2	Complex5	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	SmallMolecule4	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	Complex1	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	PhysicalEntity1	
+BiochemicalReaction6	Dephosphorylation of pL1 (Y1176)	Complex4	Protein1	
+BiochemicalReaction7	L1 binds to AP-2 Clathrin complex	Complex6	Complex9	
+BiochemicalReaction7	L1 binds to AP-2 Clathrin complex	Protein1	Complex9	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Protein16	SmallMolecule4	
+BiochemicalReaction8	Formation of clathrin coated vesicle	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Complex9	SmallMolecule4	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Complex9	Complex10	
+BiochemicalReaction8	Formation of clathrin coated vesicle	SmallMolecule5	Complex10	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Protein16	Complex10	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Complex9	SmallMolecule6	
+BiochemicalReaction8	Formation of clathrin coated vesicle	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction8	Formation of clathrin coated vesicle	Protein16	SmallMolecule6	
+BiochemicalReaction9	Interaction of NUMB with L1	Complex11	Complex12	
+BiochemicalReaction9	Interaction of NUMB with L1	Protein1	Complex12	

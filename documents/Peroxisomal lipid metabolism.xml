@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pathway>
+	<Information>
+		<EdgeCrossing>-858993460</EdgeCrossing>
+		<UpwardsArrow>-858993460</UpwardsArrow>
+		<Nodes>215</Nodes>
+		<Edges>187</Edges>
+	</Information>
+	<Canvas>
+		<Size>(1920.000000,955.000000)</Size>
+	</Canvas>
+	<parentName>
+		<Name>()</Name>
+	</parentName>
+	<ChildrenName>
+		<Name>(Alpha-oxidation of phytanate,Beta-oxidation of pristanoyl-CoA,Beta-oxidation of very long chain fatty acids,Plasmalogen biosynthesis,NADPH regeneration)</Name>
+	</ChildrenName>
+	<compartmentBlock Num="4">
+		<compartment j="0">
+			<Name>peroxisomal matrix</Name>
+			<Position>(0.24092458621663634,0.36642828829234764,0.5181508275667273,0.6437874826780899)</Position>
+			<Contain>(C,1,0;C,10,3;C,12,4;C,2,0;C,4,1;C,5,1;C,6,1 2;C,8,2;E,1,0;P,10,1;P,11,1 2;P,12,1 2;P,15,2;P,16,3;P,17,3;P,22,;P,5,1;P,9,1;S,1,0;S,10,0 4;S,11,0;S,12,0;S,13,0 4;S,15,0;S,16,0;S,19,0 1 2;S,20,0;S,21,0 1 2;S,22,0 1 2;S,23,0;S,24,0 1 2 3 4;S,25,0 1;S,26,1;S,27,1;S,28,1 2;S,3,0;S,30,1;S,31,1;S,32,1;S,33,1;S,34,1;S,35,1 2;S,36,1 2;S,37,1;S,38,1 2;S,39,1 2;S,40,1;S,42,2;S,43,2;S,44,2;S,45,2;S,46,2;S,47,2;S,48,3 4;S,49,3;S,5,0;S,50,3;S,51,3 4;S,52,3;S,53,3;S,54,3;S,55,3;S,6,0 1 2 3;S,61,4;S,65,;S,7,0;S,8,0;S,9,0 1 2;S,66,1;S,67,1;S,68,1;S,69,0 1 2;S,70,0 1 2;S,71,0 1 2;S,72,1;S,73,0 1 2 3;S,74,0 1 2;S,75,1;S,76,1 2;S,77,0 1 2 3 4;S,78,1;S,79,0 1 2 3;S,80,1 2;S,81,1 2;S,82,0 1 2 3;S,83,1 2;S,84,0 1 2;S,85,0 1 2 3;S,86,1;S,87,1 2;S,88,0 1 2 3;S,89,0;S,90,0 1 2 3;S,91,0;S,92,2;S,93,0 1 2;S,94,1 2;S,95,0 1 2;S,96,2;S,97,0 1 2;S,98,2;S,99,0 1 2;S,100,0 1 2 3 4;S,101,2;S,102,0 1 2 3;S,103,1 2;S,104,0 1 2;S,105,0 1 2;S,106,2;S,107,0 1 2;S,108,0 1 2 3;S,109,0 1 2;S,110,1 2;S,111,1 2;S,112,0 1 2 3 4;S,113,0 1 2 3 4;S,114,0 1 2 3;S,115,3 4;S,116,3;S,117,0 1 2 3 4;S,118,3;S,119,3 4;S,120,0 1 2 3;S,121,3;S,122,0 1 2 3;S,123,3;S,124,3;S,125,3;S,126,0 1 2;S,127,0;S,129,3 4;S,130,3 4;S,131,0 4;S,132,0 1 2 3 4;S,133,0 4;S,137,0 4;S,139,4;S,141,1 2;S,142,0 4;S,143,0;S,144,0;S,145,0 1 2;S,146,0 1 2 3;S,147,0;S,148,0 1 2;S,149,0 1 2;S,150,0 1 2 3 4;S,151,0;S,152,0;S,153,0 1 2 3;S,154,0;S,155,0;S,156,0 1;S,157,1;S,158,1;S,159,0 1 2;S,160,1;S,161,1 2;R,11,;R,21,;R,34,;R,4,;R,1,;R,10,;R,12,;R,13,;R,14,;R,15,;R,16,;R,17,;R,18,;R,2,;R,20,;R,22,;R,23,;R,24,;R,25,;R,26,;R,27,;R,28,;R,29,;R,3,;R,31,;R,33,;R,5,;R,6,;R,7,;R,8,;R,9,;)</Contain>
+		</compartment>
+		<compartment j="1">
+			<Name>cytosol</Name>
+			<Position>(0.41364152873887877,0.13612565445026178,0.17271694252224243,0.21459582755936332)</Position>
+			<Contain>(C,13,4;S,2,0;S,4,0;S,41,2;S,56,3;S,57,3 4;S,58,3 4;S,59,3;S,60,3 4;S,62,4;S,63,4;S,64,4;S,128,3;S,134,3 4;S,135,3 4;S,136,3 4;S,138,4;S,140,4;R,19,;R,30,;R,32,;)</Contain>
+		</compartment>
+		<compartment j="2">
+			<Name>peroxisomal membrane</Name>
+			<Position>(0.457861380798274,0.015706806282722512,0.084277238403452,0.10471204188481675)</Position>
+			<Contain>(C,7,2;E,2,3;E,3,4;P,1,0;P,2,0;)</Contain>
+		</compartment>
+	</compartmentBlock>
+	<complexBlock Num="14">
+		<complex j="1">
+			<Name>PHYHFe++</Name>
+			<Position>(0.257688671631158,0.8617409016168348,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="10">
+			<Name>GNPATAGPS complex</Name>
+			<Position>(0.7207413722214698,0.7057133528327423,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="12">
+			<Name>IDH1 dimer</Name>
+			<Position>(0.6669317843291473,0.23537687405568553,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="2">
+			<Name>HACL1 tetramer</Name>
+			<Position>(0.6857627143165008,0.560836229325248,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="4">
+			<Name>ACOX2FAD</Name>
+			<Position>(0.660020105907761,0.821991873509376,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="5">
+			<Name>ACOX3FAD</Name>
+			<Position>(0.43355970734538046,0.7568938937190893,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="6">
+			<Name>HSD17B4 dimer</Name>
+			<Position>(0.2799536289648463,0.3549336086520175,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="8">
+			<Name>ACOX1 dimer</Name>
+			<Position>(0.7588243282063738,0.3311404774924281,0.015077656127054837,0.009759000729485332)</Position>
+		</complex>
+		<complex j="13">
+			<Name>IDH1 dimer</Name>
+			<Position>(0.28908156864866424,0.5485567739671898,0.04523296838116451,0.029277002188455994)</Position>
+		</complex>
+		<complex j="7">
+			<Name>ALDP</Name>
+			<Position>(0.7564774281464365,0.2819239584841546,0.0927,0.06)</Position>
+		</complex>
+	</complexBlock>
+	<physicalEntityBlock Num="4">
+		<physicalEntity j="1">
+			<Name>Pristanal dehydrogenase</Name>
+			<Position>(0.7312487806715638,0.2653796686825154,0.030155312254109674,0.02114450158055155)</Position>
+		</physicalEntity>
+		<physicalEntity j="2">
+			<Name>AADHAPR</Name>
+			<Position>(0.11657515957785033,0.4251298315988943,0.1854,0.13)</Position>
+		</physicalEntity>
+		<physicalEntity j="3">
+			<Name>isocitrate-oxoglutarate transporter</Name>
+			<Position>(0.30969708569814036,0.7466109847828895,0.1854,0.13)</Position>
+		</physicalEntity>
+	</physicalEntityBlock>
+	<proteinBlock Num="23">
+		<protein j="10">
+			<Name>CROT</Name>
+			<Position>(0.5863228379145313,0.46742242914862725,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="11">
+			<Name>CRAT</Name>
+			<Position>(0.3832833617956186,0.6148335342549671,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="12">
+			<Name>ACOT8</Name>
+			<Position>(0.3118837977734692,0.13933805952656006,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="15">
+			<Name>ACAA1</Name>
+			<Position>(0.8070319764789954,0.48496248516587454,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="16">
+			<Name>FAR1</Name>
+			<Position>(0.5213183208589073,0.312757379952394,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="17">
+			<Name>FAR2</Name>
+			<Position>(0.4972302338310095,0.5969414244238532,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="22">
+			<Name>MLYCD</Name>
+			<Position>(0.18421803854467783,0.8115478803778271,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="5">
+			<Name>AMACR</Name>
+			<Position>(0.8583090094442345,0.5269683002223191,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="9">
+			<Name>SCPx</Name>
+			<Position>(0.5439013615992109,0.7655302223441592,0.040207083005479566,0.02439750182371333)</Position>
+		</protein>
+		<protein j="1">
+			<Name>PMP34</Name>
+			<Position>(0.6566770267240485,0.6018543417944267,0.2472,0.15)</Position>
+		</protein>
+		<protein j="2">
+			<Name>VLCS</Name>
+			<Position>(0.29445262483221973,0.10518615167967113,0.2472,0.15)</Position>
+		</protein>
+	</proteinBlock>
+	<DnaBlock  Num="1"/>
+	<RnaBlock  Num="1"/>
+	<smallMoleculeBlock Num="162">
+		<smallMolecule j="1">
+			<Name>AMP</Name>
+			<Position>(0.9152431527893715,0.5636568771291076,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(1,91,154)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="10">
+			<Name>2OG</Name>
+			<Position>(0.30547033145197766,0.8186576102959618,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(10,131,137)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="11">
+			<Name>SUCCA</Name>
+			<Position>(0.41700888238307077,0.8647038556036005,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="12">
+			<Name>3S2HPhy-CoA</Name>
+			<Position>(0.36633409861336663,0.926283871288903,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(12,143)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="13">
+			<Name>CO2</Name>
+			<Position>(0.43241407951058625,0.8091684000700329,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(13,133,142)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="15">
+			<Name>Pristanal</Name>
+			<Position>(0.5979381049000138,0.6176305598574218,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(15,147)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="16">
+			<Name>FOR-CoA</Name>
+			<Position>(0.6180428202785571,0.6648867200151106,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(16,144)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="19">
+			<Name>H2O</Name>
+			<Position>(0.2639015414748264,0.24513131847630967,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(19,71,84,95,107,145)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="20">
+			<Name>HCOOH</Name>
+			<Position>(0.05002384311150812,0.4872559436053879,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="21">
+			<Name>NAD</Name>
+			<Position>(0.2650546890754546,0.4066381095414111,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(21,70,97,105,148)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="22">
+			<Name>NADH</Name>
+			<Position>(0.14610572305929678,0.3762142596307031,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(22,74,99,109,149)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="23">
+			<Name>Pristanic acid</Name>
+			<Position>(0.8483256322264067,0.23518989881852426,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(23,152)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="24">
+			<Name>H+</Name>
+			<Position>(0.2275945969712469,0.4554068316007576,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="25">
+			<Name>(2R) Pristanoyl-CoA</Name>
+			<Position>(0.7168244023718511,0.12105526768408464,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(25,156)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="26">
+			<Name>(2S) Pristanoyl-CoA</Name>
+			<Position>(0.3745108427765808,0.7289691486529282,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(26,157,158)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="27">
+			<Name>trans-23-dehydropristanoyl-CoA</Name>
+			<Position>(0.36952611623693926,0.7938651882034012,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(27,66,160)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="28">
+			<Name>H2O2</Name>
+			<Position>(0.250401946394568,0.7809585143914288,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(28,76,94,111,161)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="3">
+			<Name>ATP</Name>
+			<Position>(0.9159715304958788,0.4037714251260826,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(3,89,151)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="30">
+			<Name>3-hydroxypristanoyl-CoA</Name>
+			<Position>(0.4356397303322364,0.22112470331964248,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(30,67)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="31">
+			<Name>3-ketopristanoyl-CoA</Name>
+			<Position>(0.16290361903083272,0.4518417231423306,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(31,68)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="32">
+			<Name>propionyl CoA</Name>
+			<Position>(0.4840339198854221,0.8692041676032201,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(32,75,86)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="33">
+			<Name>4812-trimethyltridecanoyl-CoA</Name>
+			<Position>(0.6143684788461661,0.8680619342129785,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(33,72)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="34">
+			<Name>48-dimethylnonanoyl-CoA</Name>
+			<Position>(0.38768438146612444,0.40970492283630366,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(34,78)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="35">
+			<Name>Ac-CoA</Name>
+			<Position>(0.32183404190831577,0.35848651686064736,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(35,80,83,103,110,141)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="36">
+			<Name>CAR</Name>
+			<Position>(0.47278758182450376,0.473232051364204,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(36,81,87)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="37">
+			<Name>48-dimethylnonanoylcarnitine</Name>
+			<Position>(0.5332027541500398,0.5551113621752422,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="38">
+			<Name>ACAR</Name>
+			<Position>(0.48950027432876636,0.6515503811766815,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="39">
+			<Name>CH3COO-</Name>
+			<Position>(0.38771201758579615,0.05560635970519113,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="40">
+			<Name>Propionylcarnitine</Name>
+			<Position>(0.1495001857083309,0.6207296610249102,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="42">
+			<Name>C260 CoA</Name>
+			<Position>(0.46165275547384377,0.043523170257735284,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(42,92)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="43">
+			<Name>trans-23-dehydrohexacosanoyl-CoA</Name>
+			<Position>(0.7017839265865766,0.4446193492540111,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(43,96)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="44">
+			<Name>3-hydroxyhexacosanoyl-CoA</Name>
+			<Position>(0.31590684474822955,0.5059406593576645,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(44,98)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="45">
+			<Name>3-ketohexacosanoyl-CoA</Name>
+			<Position>(0.1678853140685234,0.1708472847383007,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(45,101)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="46">
+			<Name>lignoceryl-CoA</Name>
+			<Position>(0.7863492246054705,0.370212692696867,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(46,106)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="47">
+			<Name>Octanoyl-CoA</Name>
+			<Position>(0.3712636235046905,0.6693865175444603,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="48">
+			<Name>TPNH</Name>
+			<Position>(0.5447974295478181,0.36439237366941746,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(48,115,130)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="49">
+			<Name>PalmCoA</Name>
+			<Position>(0.6703522337167579,0.2860990337715182,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(49,116,121)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="5">
+			<Name>Phytanate</Name>
+			<Position>(0.35143859754614504,0.302240270942695,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="50">
+			<Name>HXOL</Name>
+			<Position>(0.5603795699762597,0.41650782197163994,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(50,118,124)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="51">
+			<Name>TPN</Name>
+			<Position>(0.5799623293622481,0.31359963399097635,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(51,119,129)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="52">
+			<Name>DHAP</Name>
+			<Position>(0.7437180150046866,0.6490634195443962,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="53">
+			<Name>Palmitoylglycerone phosphate</Name>
+			<Position>(0.7775601261735334,0.7072741170421871,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(53,123)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="54">
+			<Name>PALM</Name>
+			<Position>(0.48282220279015725,0.7575142644238767,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="55">
+			<Name>GO3P</Name>
+			<Position>(0.6478489901976806,0.7093797127400734,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(55,125)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="6">
+			<Name>CoA-SH</Name>
+			<Position>(0.5154529108695367,0.9322922561158802,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="61">
+			<Name>ISCIT</Name>
+			<Position>(0.5441816281467761,0.1735623477721997,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(61,139)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="65">
+			<Name>Malonyl-CoA</Name>
+			<Position>(0.16536320951633637,0.6820439876661846,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="7">
+			<Name>Phytanoyl-CoA</Name>
+			<Position>(0.21111953602721562,0.3499638877031113,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(7,127)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="8">
+			<Name>PPi</Name>
+			<Position>(0.37343035413649006,0.35062660482182567,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(8,155)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="9">
+			<Name>O2</Name>
+			<Position>(0.28182179153425146,0.6682380388107308,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(9,69,93,104,126,159)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="66">
+			<Name>trans-23-dehydropristanoyl-CoA</Name>
+			<Position>(0.3948539742751461,0.2548891983901346,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(27,66,160)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="67">
+			<Name>3-hydroxypristanoyl-CoA</Name>
+			<Position>(0.22675544553255206,0.29648944069061944,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(30,67)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="68">
+			<Name>3-ketopristanoyl-CoA</Name>
+			<Position>(0.5899349561892414,0.9276936226209702,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(31,68)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="69">
+			<Name>O2</Name>
+			<Position>(0.5064158799321329,0.4261185361979882,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(9,69,93,104,126,159)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="70">
+			<Name>NAD</Name>
+			<Position>(0.4155530872096689,0.3091243738572871,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(21,70,97,105,148)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="71">
+			<Name>H2O</Name>
+			<Position>(0.4146666904690792,0.4607377141934403,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(19,71,84,95,107,145)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="72">
+			<Name>4812-trimethyltridecanoyl-CoA</Name>
+			<Position>(0.4661750349033967,0.27479446702253923,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(33,72)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="73">
+			<Name>CoA-SH</Name>
+			<Position>(0.3313228511255568,0.4098651155836002,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="74">
+			<Name>NADH</Name>
+			<Position>(0.35905066454730894,0.45754773124520626,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(22,74,99,109,149)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="75">
+			<Name>propionyl CoA</Name>
+			<Position>(0.4659717927850085,0.32932622982292054,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(32,75,86)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="76">
+			<Name>H2O2</Name>
+			<Position>(0.4895601472254913,0.3747781523490563,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(28,76,94,111,161)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="77">
+			<Name>H+</Name>
+			<Position>(0.4514615875820988,0.41968727180788046,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="78">
+			<Name>48-dimethylnonanoyl-CoA</Name>
+			<Position>(0.43064148229784244,0.5134838089097018,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(34,78)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="79">
+			<Name>CoA-SH</Name>
+			<Position>(0.4570832986493998,0.560495630090839,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="80">
+			<Name>Ac-CoA</Name>
+			<Position>(0.5764904398171218,0.8069716741125897,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(35,80,83,103,110,141)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="81">
+			<Name>CAR</Name>
+			<Position>(0.5016470535690944,0.8096453287333354,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(36,81,87)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="82">
+			<Name>CoA-SH</Name>
+			<Position>(0.5500866938174606,0.6647812663516348,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="83">
+			<Name>Ac-CoA</Name>
+			<Position>(0.4449633162438678,0.111103714106469,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(35,80,83,103,110,141)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="84">
+			<Name>H2O</Name>
+			<Position>(0.3107467881659285,0.07448019108318144,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(19,71,84,95,107,145)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="85">
+			<Name>CoA-SH</Name>
+			<Position>(0.41588330941076507,0.16501094013461043,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="86">
+			<Name>propionyl CoA</Name>
+			<Position>(0.17127856323802876,0.5565699424654905,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(32,75,86)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="87">
+			<Name>CAR</Name>
+			<Position>(0.1944069716932591,0.5064170868150014,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(36,81,87)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="88">
+			<Name>CoA-SH</Name>
+			<Position>(0.20859588194014814,0.6134838079013036,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="89">
+			<Name>ATP</Name>
+			<Position>(0.3628898320535561,0.19733772819970882,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(3,89,151)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="90">
+			<Name>CoA-SH</Name>
+			<Position>(0.16623736142162923,0.30691799669464626,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="91">
+			<Name>AMP</Name>
+			<Position>(0.3010133161501127,0.19937260593240078,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(1,91,154)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="92">
+			<Name>C260 CoA</Name>
+			<Position>(0.697114635697323,0.3428195963331236,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(42,92)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="93">
+			<Name>O2</Name>
+			<Position>(0.6417561040009904,0.33293842078912184,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(9,69,93,104,126,159)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="94">
+			<Name>H2O2</Name>
+			<Position>(0.648602978680525,0.45812415760316466,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(28,76,94,111,161)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="95">
+			<Name>H2O</Name>
+			<Position>(0.2575506481703199,0.5049178657288302,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(19,71,84,95,107,145)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="96">
+			<Name>trans-23-dehydrohexacosanoyl-CoA</Name>
+			<Position>(0.369458134806245,0.5108760495915996,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(43,96)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="97">
+			<Name>NAD</Name>
+			<Position>(0.12355446799063775,0.2323450413604344,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(21,70,97,105,148)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="98">
+			<Name>3-hydroxyhexacosanoyl-CoA</Name>
+			<Position>(0.23518516707913015,0.12505029759492334,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(44,98)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="99">
+			<Name>NADH</Name>
+			<Position>(0.23483624793018198,0.18905452237821754,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(22,74,99,109,149)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="100">
+			<Name>H+</Name>
+			<Position>(0.10118779459428852,0.2945264254163232,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="101">
+			<Name>3-ketohexacosanoyl-CoA</Name>
+			<Position>(0.8593724986512448,0.4467834243236967,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(45,101)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="102">
+			<Name>CoA-SH</Name>
+			<Position>(0.7520877720199967,0.46638592186333466,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="103">
+			<Name>Ac-CoA</Name>
+			<Position>(0.8517772717923987,0.37478311030502953,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(35,80,83,103,110,141)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="104">
+			<Name>O2</Name>
+			<Position>(0.29202270196526464,0.5590075487979176,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(9,69,93,104,126,159)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="105">
+			<Name>NAD</Name>
+			<Position>(0.3975608802141386,0.5619901216914527,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(21,70,97,105,148)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="106">
+			<Name>lignoceryl-CoA</Name>
+			<Position>(0.2596373086741257,0.7222836464230071,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(46,106)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="107">
+			<Name>H2O</Name>
+			<Position>(0.22628962387029927,0.6698268317864964,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(19,71,84,95,107,145)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="108">
+			<Name>CoA-SH</Name>
+			<Position>(0.3429185276222831,0.5686916574559404,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="109">
+			<Name>NADH</Name>
+			<Position>(0.4371548963170233,0.614594045908624,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(22,74,99,109,149)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="110">
+			<Name>Ac-CoA</Name>
+			<Position>(0.27272619394890685,0.6111856934413223,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(35,80,83,103,110,141)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="111">
+			<Name>H2O2</Name>
+			<Position>(0.32440822443203216,0.6974210481168741,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(28,76,94,111,161)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="112">
+			<Name>H+</Name>
+			<Position>(0.42220175375588276,0.6690398084828444,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="113">
+			<Name>H+</Name>
+			<Position>(0.6168684399202646,0.41558037728577235,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="114">
+			<Name>CoA-SH</Name>
+			<Position>(0.7290086361453174,0.3952423340644559,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="115">
+			<Name>TPNH</Name>
+			<Position>(0.5716961542699269,0.519438961057091,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(48,115,130)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="116">
+			<Name>PalmCoA</Name>
+			<Position>(0.6299244044860964,0.5135219662732987,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(49,116,121)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="117">
+			<Name>H+</Name>
+			<Position>(0.5482852450057665,0.6085710211365218,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="118">
+			<Name>HXOL</Name>
+			<Position>(0.5338128233684565,0.4792403389338323,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(50,118,124)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="119">
+			<Name>TPN</Name>
+			<Position>(0.6894105255707331,0.5033566408342598,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(51,119,129)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="120">
+			<Name>CoA-SH</Name>
+			<Position>(0.6773370536397354,0.6449172347273816,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="121">
+			<Name>PalmCoA</Name>
+			<Position>(0.8423317657832775,0.5980429688893265,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(49,116,121)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="122">
+			<Name>CoA-SH</Name>
+			<Position>(0.8868297811558042,0.6450987432051207,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="123">
+			<Name>Palmitoylglycerone phosphate</Name>
+			<Position>(0.4630858548553581,0.702928384300423,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(53,123)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="124">
+			<Name>HXOL</Name>
+			<Position>(0.6161691476794654,0.7590789303904505,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(50,118,124)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="125">
+			<Name>GO3P</Name>
+			<Position>(0.821798553729753,0.768331765785714,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(55,125)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="126">
+			<Name>O2</Name>
+			<Position>(0.4373400403197605,0.929421957776234,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(9,69,93,104,126,159)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="127">
+			<Name>Phytanoyl-CoA</Name>
+			<Position>(0.2971164579460583,0.8967656483304353,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(7,127)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="129">
+			<Name>TPN</Name>
+			<Position>(0.4832371182548172,0.17616451264891125,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(51,119,129)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="130">
+			<Name>TPNH</Name>
+			<Position>(0.5465660997980062,0.2623223455133647,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(48,115,130)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="131">
+			<Name>2OG</Name>
+			<Position>(0.6720504770789005,0.17372482185848195,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(10,131,137)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="132">
+			<Name>H+</Name>
+			<Position>(0.6111237065210999,0.266562837128788,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="133">
+			<Name>CO2</Name>
+			<Position>(0.5045818407697387,0.22972649236942821,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(13,133,142)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="137">
+			<Name>2OG</Name>
+			<Position>(0.10583669037398995,0.43062909337698035,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(10,131,137)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="139">
+			<Name>ISCIT</Name>
+			<Position>(0.040804097001196325,0.41172976105129555,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(61,139)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="141">
+			<Name>Ac-CoA</Name>
+			<Position>(0.10159394641511475,0.692005665079574,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(35,80,83,103,110,141)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="142">
+			<Name>CO2</Name>
+			<Position>(0.12527096312504893,0.761164982349222,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(13,133,142)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="143">
+			<Name>3S2HPhy-CoA</Name>
+			<Position>(0.714140381139893,0.5918797556703995,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(12,143)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="144">
+			<Name>FOR-CoA</Name>
+			<Position>(0.11844128327974308,0.5045663587162672,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(16,144)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="145">
+			<Name>H2O</Name>
+			<Position>(0.11051273035523977,0.5719397837274303,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(19,71,84,95,107,145)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="146">
+			<Name>CoA-SH</Name>
+			<Position>(0.0645703519247772,0.6279358075249188,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="147">
+			<Name>Pristanal</Name>
+			<Position>(0.8761041409714441,0.3074417997731532,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(15,147)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="148">
+			<Name>NAD</Name>
+			<Position>(0.7308381837168564,0.2021363247908094,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(21,70,97,105,148)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="149">
+			<Name>NADH</Name>
+			<Position>(0.8091652605660736,0.30786759314107126,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(22,74,99,109,149)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="150">
+			<Name>H+</Name>
+			<Position>(0.7888148016214817,0.17099042407009654,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(24,77,100,112,113,117,132,150)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="151">
+			<Name>ATP</Name>
+			<Position>(0.601557975202442,0.049821523877740796,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(3,89,151)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="152">
+			<Name>Pristanic acid</Name>
+			<Position>(0.5144583206063568,0.11885522104672654,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(23,152)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="153">
+			<Name>CoA-SH</Name>
+			<Position>(0.5312462379598476,0.05775099013114844,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(6,73,79,82,85,88,90,102,108,114,120,122,146,153)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="154">
+			<Name>AMP</Name>
+			<Position>(0.6568063538283677,0.09665875467432963,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(1,91,154)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="155">
+			<Name>PPi</Name>
+			<Position>(0.6134966453628546,0.16643995616688886,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(8,155)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="156">
+			<Name>(2R) Pristanoyl-CoA</Name>
+			<Position>(0.7413863148383488,0.5306798123792043,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(25,156)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="157">
+			<Name>(2S) Pristanoyl-CoA</Name>
+			<Position>(0.7735276230261763,0.5948982678416366,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(26,157,158)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="158">
+			<Name>(2S) Pristanoyl-CoA</Name>
+			<Position>(0.6855880724667057,0.7594917274163465,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(26,157,158)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="159">
+			<Name>O2</Name>
+			<Position>(0.7480776280488578,0.7641132036179107,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(9,69,93,104,126,159)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="160">
+			<Name>trans-23-dehydropristanoyl-CoA</Name>
+			<Position>(0.7712877025336206,0.8348711287813569,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(27,66,160)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="161">
+			<Name>H2O2</Name>
+			<Position>(0.685319827362326,0.8887819321542638,0.040207083005479566,0.02439750182371333)</Position>
+			<Dumplicate>(28,76,94,111,161)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="2">
+			<Name>ATP</Name>
+			<Position>(0.8229597122648094,0.3692491362655372,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="4">
+			<Name>AMP</Name>
+			<Position>(0.7102586470847135,0.17306450687324024,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="41">
+			<Name>C260 CoA</Name>
+			<Position>(0.2878098496206981,0.3590375894902092,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="56">
+			<Name>GO3P</Name>
+			<Position>(0.7022717395932178,0.7631738835550376,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(56,128)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="57">
+			<Name>TPNH</Name>
+			<Position>(0.4369281031083197,0.4544604938237348,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(57,135)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="58">
+			<Name>H+</Name>
+			<Position>(0.6368007060734606,0.3803174607561372,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(58,136)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="59">
+			<Name>HXDG3P</Name>
+			<Position>(0.518902281659276,0.07642201631239258,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="60">
+			<Name>TPN</Name>
+			<Position>(0.16823070475784588,0.2060054984575737,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(60,134)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="62">
+			<Name>ISCIT</Name>
+			<Position>(0.1492319763653524,0.7273627126120427,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(62,138)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="63">
+			<Name>CO2</Name>
+			<Position>(0.2942327964110454,0.8458288184665099,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>()</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="64">
+			<Name>2OG</Name>
+			<Position>(0.5033194777526112,0.6899941945395565,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(64,140)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="128">
+			<Name>GO3P</Name>
+			<Position>(0.30240273518484884,0.06350177277083682,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(56,128)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="134">
+			<Name>TPN</Name>
+			<Position>(0.07923676144817006,0.5608220286716614,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(60,134)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="135">
+			<Name>TPNH</Name>
+			<Position>(0.4872420400756369,0.8615646534776812,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(57,135)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="136">
+			<Name>H+</Name>
+			<Position>(0.5887978070857958,0.5612402140010638,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(58,136)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="138">
+			<Name>ISCIT</Name>
+			<Position>(0.795379860518862,0.5758648584876289,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(62,138)</Dumplicate>
+		</smallMolecule>
+		<smallMolecule j="140">
+			<Name>2OG</Name>
+			<Position>(0.05171540435873061,0.36382157005473914,0.1206212490164387,0.07319250547113998)</Position>
+			<Dumplicate>(64,140)</Dumplicate>
+		</smallMolecule>
+	</smallMoleculeBlock>
+	<reactionBlock  Num="35">
+		<reaction j="11">
+			<Name>trans-23-dehydropristanoyl-CoA + H2O = 3-hydroxypristanoyl-CoA</Name>
+			<Type>B</Type>
+			<Position>(0.3525853672025069,0.25797516419640665,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="21">
+			<Name>trans-23-dehydrohexacosanoyl-CoA + H2O = 3-hydroxyhexacosanoyl-CoA</Name>
+			<Type>B</Type>
+			<Position>(0.31171522142739433,0.46257677754433946,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="34">
+			<Name>malonyl-CoA is decarboxylated to acetyl-CoA in peroxisome</Name>
+			<Type>K</Type>
+			<Position>(0.2030951635259105,0.7470705445568447,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="4">
+			<Name>2-hydroxyphytanoyl-CoA = pristanal + formyl-CoA</Name>
+			<Type>K</Type>
+			<Position>(0.6663242584262143,0.6077595688230099,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="1">
+			<Name>PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP</Name>
+			<Type>T</Type>
+			<Position>(0.9359921239617416,0.49212864189245753,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="10">
+			<Name>(2S)-pristanoyl-CoA + O2 = trans-23-dehydropristanoyl-CoA + H2O2 (ACOX3)</Name>
+			<Type>T</Type>
+			<Position>(0.33630001695071515,0.7632604646811144,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="12">
+			<Name>3-hydroxypristanoyl-CoA + NAD+ = 3-ketoxypristanoyl-CoA + NADH + H+</Name>
+			<Type>T</Type>
+			<Position>(0.22086797366686983,0.4098726675477168,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="13">
+			<Name>3-ketopristanoyl-CoA + CoASH = 4812-trimethyltridecanoyl-CoA + propionyl-CoA</Name>
+			<Type>T</Type>
+			<Position>(0.5647376974252785,0.8723581901340264,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="14">
+			<Name>4812-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH = 48-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA</Name>
+			<Type>T</Type>
+			<Position>(0.4417737084307339,0.38067366442282546,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="15">
+			<Name>48-dimethylnonanoyl-CoA + carnitine = 48-dimethylnonanoylcarnitine + CoASH</Name>
+			<Type>T</Type>
+			<Position>(0.5124947241884613,0.5270411626484228,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="16">
+			<Name>acetyl-CoA + carnitine = acetylcarnitine + CoASH</Name>
+			<Type>T</Type>
+			<Position>(0.5326343909137528,0.7163765670221374,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="17">
+			<Name>acetyl-CoA + H2O = acetate + CoASH</Name>
+			<Type>T</Type>
+			<Position>(0.39023514732709225,0.12694888430871315,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="18">
+			<Name>propionyl-CoA + carnitine = propionylcarnitine + CoASH</Name>
+			<Type>T</Type>
+			<Position>(0.2504350925114928,0.5699809131674652,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="2">
+			<Name>phytanate + CoA-SH + ATP = phytanoyl-CoA + AMP + pyrophosphate</Name>
+			<Type>T</Type>
+			<Position>(0.3095270803457211,0.3016786967367706,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="20">
+			<Name>hexacosanoyl-CoA + O2 = trans-23-dehydrohexacosanoyl-CoA + H2O2</Name>
+			<Type>T</Type>
+			<Position>(0.6872483770170229,0.3996008170287503,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="22">
+			<Name>3-hydroxyhexacosanoyl-CoA + NAD+ = 3-ketohexacosanoyl-CoA + NADH + H+</Name>
+			<Type>T</Type>
+			<Position>(0.20785376269094802,0.2471110351220339,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="23">
+			<Name>3-ketohexacosanoyl-CoA + CoASH = tetracosanoyl-CoA + acetyl-CoA</Name>
+			<Type>T</Type>
+			<Position>(0.8165516462157457,0.4322179827399931,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="24">
+			<Name>tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH = octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA</Name>
+			<Type>T</Type>
+			<Position>(0.34613506021217755,0.6356635212911017,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="25">
+			<Name>palmitoyl-CoA + 2 NADPH + 2 H+ = hexadecanol + 2 NADP+ [FAR1]</Name>
+			<Type>T</Type>
+			<Position>(0.6196114678674949,0.37205220854915777,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="26">
+			<Name>palmitoyl-CoA + 2 NADPH + 2 H+ = hexadecanol + 2 NADP+ [FAR2]</Name>
+			<Type>T</Type>
+			<Position>(0.6173928225624936,0.5697405822607791,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="27">
+			<Name>palmitoyl-CoA + DHAP = 1-palmitoylglycerone phosphate + CoASH</Name>
+			<Type>T</Type>
+			<Position>(0.8243185692472987,0.6617827118276679,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="28">
+			<Name>1-palmitoylglycerone phosphate + hexadecanol = O-hexadecylglycerone phosphate + palmitate</Name>
+			<Type>T</Type>
+			<Position>(0.5963655581745652,0.7221241880628991,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="29">
+			<Name>Movement of O-hexadecylglycerone phosphate from the peroxisomal matrix to the cytosol</Name>
+			<Type>T</Type>
+			<Position>(0.8739250813393491,0.7180115966817538,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="3">
+			<Name>phytanoyl-CoA + 2-oxoglutarate + O2 = 2-hydroxyphytanoyl-CoA + succinate + CO2</Name>
+			<Type>T</Type>
+			<Position>(0.3730479328836993,0.8664974040802579,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="31">
+			<Name>isocitrate + NADP+ = 2-oxoglutarate + CO2 + NADPH + H+</Name>
+			<Type>T</Type>
+			<Position>(0.5977795449244812,0.22338628441712555,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="33">
+			<Name>Exchange of isocitrate and 2-oxoglutarate across the peroxisomal membrane</Name>
+			<Type>T</Type>
+			<Position>(0.09712944065460268,0.36691116510577754,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="5">
+			<Name>formyl-CoA + H2O = formate + CoASH</Name>
+			<Type>T</Type>
+			<Position>(0.06993838511036723,0.5607407023372445,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="6">
+			<Name>pristanal + NAD+ = pristanate + NADH + H+</Name>
+			<Type>T</Type>
+			<Position>(0.8042735097235779,0.25487470357506725,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="7">
+			<Name>pristanate + CoA-SH + ATP = pristanoyl-CoA + AMP + pyrophosphate</Name>
+			<Type>T</Type>
+			<Position>(0.6059991173893198,0.12012552116030298,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="8">
+			<Name>Isomerization of (2R)-pristanoyl-CoA to (2S)-pristanoyl-CoA</Name>
+			<Type>T</Type>
+			<Position>(0.8152041938751085,0.551593933602881,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="9">
+			<Name>(2S)-pristanoyl-CoA + O2 = trans-23-dehydropristanoyl-CoA + H2O2 (ACOX2)</Name>
+			<Type>T</Type>
+			<Position>(0.7256966224602932,0.8298124382800602,0.006031062450821935,0.009759000729485332)</Position>
+		</reaction>
+		<reaction j="19">
+			<Name>Peroxisomal uptake of very long-chain fatty acyl CoA</Name>
+			<Type>T</Type>
+			<Position>(0.5670145717921663,0.31107019955679094,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+		<reaction j="30">
+			<Name>Conversion of acylated DHAP to lysophosphatidic acid acid</Name>
+			<Type>T</Type>
+			<Position>(0.4365808499019611,0.24448484368933548,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+		<reaction j="32">
+			<Name>isocitrate + NADP+ = 2-oxoglutarate + CO2 + NADPH + H+</Name>
+			<Type>T</Type>
+			<Position>(0.39282961030744923,0.6873457002012294,0.018093187352465803,0.029277002188455994)</Position>
+		</reaction>
+	</reactionBlock >
+	<edgeBlock Num="188">
+		<edge j="0">
+			<Name>A</Name>
+			<Ends>(P, 1, R, 1)</Ends>
+		</edge>
+		<edge j="1">
+			<Name>A</Name>
+			<Ends>(C, 6, R, 11)</Ends>
+		</edge>
+		<edge j="2">
+			<Name>A</Name>
+			<Ends>(C, 6, R, 12)</Ends>
+		</edge>
+		<edge j="3">
+			<Name>A</Name>
+			<Ends>(P, 9, R, 13)</Ends>
+		</edge>
+		<edge j="4">
+			<Name>A</Name>
+			<Ends>(P, 10, R, 15)</Ends>
+		</edge>
+		<edge j="5">
+			<Name>A</Name>
+			<Ends>(P, 11, R, 16)</Ends>
+		</edge>
+		<edge j="6">
+			<Name>A</Name>
+			<Ends>(P, 12, R, 17)</Ends>
+		</edge>
+		<edge j="7">
+			<Name>A</Name>
+			<Ends>(P, 11, R, 18)</Ends>
+		</edge>
+		<edge j="8">
+			<Name>A</Name>
+			<Ends>(C, 7, R, 19)</Ends>
+		</edge>
+		<edge j="9">
+			<Name>A</Name>
+			<Ends>(C, 8, R, 20)</Ends>
+		</edge>
+		<edge j="10">
+			<Name>A</Name>
+			<Ends>(C, 6, R, 21)</Ends>
+		</edge>
+		<edge j="11">
+			<Name>A</Name>
+			<Ends>(P, 2, R, 2)</Ends>
+		</edge>
+		<edge j="12">
+			<Name>A</Name>
+			<Ends>(C, 6, R, 22)</Ends>
+		</edge>
+		<edge j="13">
+			<Name>A</Name>
+			<Ends>(P, 15, R, 23)</Ends>
+		</edge>
+		<edge j="14">
+			<Name>A</Name>
+			<Ends>(P, 16, R, 25)</Ends>
+		</edge>
+		<edge j="15">
+			<Name>A</Name>
+			<Ends>(P, 17, R, 26)</Ends>
+		</edge>
+		<edge j="16">
+			<Name>A</Name>
+			<Ends>(C, 10, R, 27)</Ends>
+		</edge>
+		<edge j="17">
+			<Name>A</Name>
+			<Ends>(C, 10, R, 28)</Ends>
+		</edge>
+		<edge j="18">
+			<Name>A</Name>
+			<Ends>(E, 2, R, 30)</Ends>
+		</edge>
+		<edge j="19">
+			<Name>A</Name>
+			<Ends>(C, 12, R, 31)</Ends>
+		</edge>
+		<edge j="20">
+			<Name>A</Name>
+			<Ends>(C, 13, R, 32)</Ends>
+		</edge>
+		<edge j="21">
+			<Name>A</Name>
+			<Ends>(E, 3, R, 33)</Ends>
+		</edge>
+		<edge j="22">
+			<Name>A</Name>
+			<Ends>(C, 1, R, 3)</Ends>
+		</edge>
+		<edge j="23">
+			<Name>A</Name>
+			<Ends>(P, 22, R, 34)</Ends>
+		</edge>
+		<edge j="24">
+			<Name>A</Name>
+			<Ends>(C, 2, R, 4)</Ends>
+		</edge>
+		<edge j="25">
+			<Name>A</Name>
+			<Ends>(E, 1, R, 6)</Ends>
+		</edge>
+		<edge j="26">
+			<Name>A</Name>
+			<Ends>(P, 2, R, 7)</Ends>
+		</edge>
+		<edge j="27">
+			<Name>A</Name>
+			<Ends>(P, 5, R, 8)</Ends>
+		</edge>
+		<edge j="28">
+			<Name>A</Name>
+			<Ends>(C, 4, R, 9)</Ends>
+		</edge>
+		<edge j="29">
+			<Name>A</Name>
+			<Ends>(C, 5, R, 10)</Ends>
+		</edge>
+		<edge j="30">
+			<Name>J</Name>
+			<Ends>(S, 1, R, 1)</Ends>
+		</edge>
+		<edge j="31">
+			<Name>J</Name>
+			<Ends>(S, 2, R, 1)</Ends>
+		</edge>
+		<edge j="32">
+			<Name>J</Name>
+			<Ends>(R, 1, S, 3)</Ends>
+		</edge>
+		<edge j="33">
+			<Name>J</Name>
+			<Ends>(R, 1, S, 4)</Ends>
+		</edge>
+		<edge j="34">
+			<Name>J</Name>
+			<Ends>(S, 26, R, 10)</Ends>
+		</edge>
+		<edge j="35">
+			<Name>J</Name>
+			<Ends>(S, 9, R, 10)</Ends>
+		</edge>
+		<edge j="36">
+			<Name>J</Name>
+			<Ends>(R, 10, S, 27)</Ends>
+		</edge>
+		<edge j="37">
+			<Name>J</Name>
+			<Ends>(R, 10, S, 28)</Ends>
+		</edge>
+		<edge j="38">
+			<Name>J</Name>
+			<Ends>(S, 66, R, 11)</Ends>
+		</edge>
+		<edge j="39">
+			<Name>J</Name>
+			<Ends>(S, 19, R, 11)</Ends>
+		</edge>
+		<edge j="40">
+			<Name>J</Name>
+			<Ends>(R, 11, S, 30)</Ends>
+		</edge>
+		<edge j="41">
+			<Name>J</Name>
+			<Ends>(S, 21, R, 12)</Ends>
+		</edge>
+		<edge j="42">
+			<Name>J</Name>
+			<Ends>(S, 67, R, 12)</Ends>
+		</edge>
+		<edge j="43">
+			<Name>J</Name>
+			<Ends>(R, 12, S, 22)</Ends>
+		</edge>
+		<edge j="44">
+			<Name>J</Name>
+			<Ends>(R, 12, S, 31)</Ends>
+		</edge>
+		<edge j="45">
+			<Name>J</Name>
+			<Ends>(R, 12, S, 24)</Ends>
+		</edge>
+		<edge j="46">
+			<Name>J</Name>
+			<Ends>(S, 68, R, 13)</Ends>
+		</edge>
+		<edge j="47">
+			<Name>J</Name>
+			<Ends>(S, 6, R, 13)</Ends>
+		</edge>
+		<edge j="48">
+			<Name>J</Name>
+			<Ends>(R, 13, S, 32)</Ends>
+		</edge>
+		<edge j="49">
+			<Name>J</Name>
+			<Ends>(R, 13, S, 33)</Ends>
+		</edge>
+		<edge j="50">
+			<Name>J</Name>
+			<Ends>(S, 69, R, 14)</Ends>
+		</edge>
+		<edge j="51">
+			<Name>J</Name>
+			<Ends>(S, 70, R, 14)</Ends>
+		</edge>
+		<edge j="52">
+			<Name>J</Name>
+			<Ends>(S, 71, R, 14)</Ends>
+		</edge>
+		<edge j="53">
+			<Name>J</Name>
+			<Ends>(S, 72, R, 14)</Ends>
+		</edge>
+		<edge j="54">
+			<Name>J</Name>
+			<Ends>(S, 73, R, 14)</Ends>
+		</edge>
+		<edge j="55">
+			<Name>J</Name>
+			<Ends>(R, 14, S, 34)</Ends>
+		</edge>
+		<edge j="56">
+			<Name>J</Name>
+			<Ends>(R, 14, S, 74)</Ends>
+		</edge>
+		<edge j="57">
+			<Name>J</Name>
+			<Ends>(R, 14, S, 75)</Ends>
+		</edge>
+		<edge j="58">
+			<Name>J</Name>
+			<Ends>(R, 14, S, 35)</Ends>
+		</edge>
+		<edge j="59">
+			<Name>J</Name>
+			<Ends>(R, 14, S, 76)</Ends>
+		</edge>
+		<edge j="60">
+			<Name>J</Name>
+			<Ends>(R, 14, S, 77)</Ends>
+		</edge>
+		<edge j="61">
+			<Name>J</Name>
+			<Ends>(S, 78, R, 15)</Ends>
+		</edge>
+		<edge j="62">
+			<Name>J</Name>
+			<Ends>(S, 36, R, 15)</Ends>
+		</edge>
+		<edge j="63">
+			<Name>J</Name>
+			<Ends>(R, 15, S, 37)</Ends>
+		</edge>
+		<edge j="64">
+			<Name>J</Name>
+			<Ends>(R, 15, S, 79)</Ends>
+		</edge>
+		<edge j="65">
+			<Name>J</Name>
+			<Ends>(S, 80, R, 16)</Ends>
+		</edge>
+		<edge j="66">
+			<Name>J</Name>
+			<Ends>(S, 81, R, 16)</Ends>
+		</edge>
+		<edge j="67">
+			<Name>J</Name>
+			<Ends>(R, 16, S, 38)</Ends>
+		</edge>
+		<edge j="68">
+			<Name>J</Name>
+			<Ends>(R, 16, S, 82)</Ends>
+		</edge>
+		<edge j="69">
+			<Name>J</Name>
+			<Ends>(S, 83, R, 17)</Ends>
+		</edge>
+		<edge j="70">
+			<Name>J</Name>
+			<Ends>(S, 84, R, 17)</Ends>
+		</edge>
+		<edge j="71">
+			<Name>J</Name>
+			<Ends>(R, 17, S, 39)</Ends>
+		</edge>
+		<edge j="72">
+			<Name>J</Name>
+			<Ends>(R, 17, S, 85)</Ends>
+		</edge>
+		<edge j="73">
+			<Name>J</Name>
+			<Ends>(S, 86, R, 18)</Ends>
+		</edge>
+		<edge j="74">
+			<Name>J</Name>
+			<Ends>(S, 87, R, 18)</Ends>
+		</edge>
+		<edge j="75">
+			<Name>J</Name>
+			<Ends>(R, 18, S, 40)</Ends>
+		</edge>
+		<edge j="76">
+			<Name>J</Name>
+			<Ends>(R, 18, S, 88)</Ends>
+		</edge>
+		<edge j="77">
+			<Name>J</Name>
+			<Ends>(S, 41, R, 19)</Ends>
+		</edge>
+		<edge j="78">
+			<Name>J</Name>
+			<Ends>(R, 19, S, 42)</Ends>
+		</edge>
+		<edge j="79">
+			<Name>J</Name>
+			<Ends>(S, 5, R, 2)</Ends>
+		</edge>
+		<edge j="80">
+			<Name>J</Name>
+			<Ends>(S, 89, R, 2)</Ends>
+		</edge>
+		<edge j="81">
+			<Name>J</Name>
+			<Ends>(S, 90, R, 2)</Ends>
+		</edge>
+		<edge j="82">
+			<Name>J</Name>
+			<Ends>(R, 2, S, 91)</Ends>
+		</edge>
+		<edge j="83">
+			<Name>J</Name>
+			<Ends>(R, 2, S, 7)</Ends>
+		</edge>
+		<edge j="84">
+			<Name>J</Name>
+			<Ends>(R, 2, S, 8)</Ends>
+		</edge>
+		<edge j="85">
+			<Name>J</Name>
+			<Ends>(S, 92, R, 20)</Ends>
+		</edge>
+		<edge j="86">
+			<Name>J</Name>
+			<Ends>(S, 93, R, 20)</Ends>
+		</edge>
+		<edge j="87">
+			<Name>J</Name>
+			<Ends>(R, 20, S, 94)</Ends>
+		</edge>
+		<edge j="88">
+			<Name>J</Name>
+			<Ends>(R, 20, S, 43)</Ends>
+		</edge>
+		<edge j="89">
+			<Name>J</Name>
+			<Ends>(S, 95, R, 21)</Ends>
+		</edge>
+		<edge j="90">
+			<Name>J</Name>
+			<Ends>(S, 96, R, 21)</Ends>
+		</edge>
+		<edge j="91">
+			<Name>J</Name>
+			<Ends>(R, 21, S, 44)</Ends>
+		</edge>
+		<edge j="92">
+			<Name>J</Name>
+			<Ends>(S, 97, R, 22)</Ends>
+		</edge>
+		<edge j="93">
+			<Name>J</Name>
+			<Ends>(S, 98, R, 22)</Ends>
+		</edge>
+		<edge j="94">
+			<Name>J</Name>
+			<Ends>(R, 22, S, 99)</Ends>
+		</edge>
+		<edge j="95">
+			<Name>J</Name>
+			<Ends>(R, 22, S, 45)</Ends>
+		</edge>
+		<edge j="96">
+			<Name>J</Name>
+			<Ends>(R, 22, S, 100)</Ends>
+		</edge>
+		<edge j="97">
+			<Name>J</Name>
+			<Ends>(S, 101, R, 23)</Ends>
+		</edge>
+		<edge j="98">
+			<Name>J</Name>
+			<Ends>(S, 102, R, 23)</Ends>
+		</edge>
+		<edge j="99">
+			<Name>J</Name>
+			<Ends>(R, 23, S, 103)</Ends>
+		</edge>
+		<edge j="100">
+			<Name>J</Name>
+			<Ends>(R, 23, S, 46)</Ends>
+		</edge>
+		<edge j="101">
+			<Name>J</Name>
+			<Ends>(S, 104, R, 24)</Ends>
+		</edge>
+		<edge j="102">
+			<Name>J</Name>
+			<Ends>(S, 105, R, 24)</Ends>
+		</edge>
+		<edge j="103">
+			<Name>J</Name>
+			<Ends>(S, 106, R, 24)</Ends>
+		</edge>
+		<edge j="104">
+			<Name>J</Name>
+			<Ends>(S, 107, R, 24)</Ends>
+		</edge>
+		<edge j="105">
+			<Name>J</Name>
+			<Ends>(S, 108, R, 24)</Ends>
+		</edge>
+		<edge j="106">
+			<Name>J</Name>
+			<Ends>(R, 24, S, 109)</Ends>
+		</edge>
+		<edge j="107">
+			<Name>J</Name>
+			<Ends>(R, 24, S, 47)</Ends>
+		</edge>
+		<edge j="108">
+			<Name>J</Name>
+			<Ends>(R, 24, S, 110)</Ends>
+		</edge>
+		<edge j="109">
+			<Name>J</Name>
+			<Ends>(R, 24, S, 111)</Ends>
+		</edge>
+		<edge j="110">
+			<Name>J</Name>
+			<Ends>(R, 24, S, 112)</Ends>
+		</edge>
+		<edge j="111">
+			<Name>J</Name>
+			<Ends>(S, 48, R, 25)</Ends>
+		</edge>
+		<edge j="112">
+			<Name>J</Name>
+			<Ends>(S, 49, R, 25)</Ends>
+		</edge>
+		<edge j="113">
+			<Name>J</Name>
+			<Ends>(S, 113, R, 25)</Ends>
+		</edge>
+		<edge j="114">
+			<Name>J</Name>
+			<Ends>(R, 25, S, 50)</Ends>
+		</edge>
+		<edge j="115">
+			<Name>J</Name>
+			<Ends>(R, 25, S, 51)</Ends>
+		</edge>
+		<edge j="116">
+			<Name>J</Name>
+			<Ends>(R, 25, S, 114)</Ends>
+		</edge>
+		<edge j="117">
+			<Name>J</Name>
+			<Ends>(S, 115, R, 26)</Ends>
+		</edge>
+		<edge j="118">
+			<Name>J</Name>
+			<Ends>(S, 116, R, 26)</Ends>
+		</edge>
+		<edge j="119">
+			<Name>J</Name>
+			<Ends>(S, 117, R, 26)</Ends>
+		</edge>
+		<edge j="120">
+			<Name>J</Name>
+			<Ends>(R, 26, S, 118)</Ends>
+		</edge>
+		<edge j="121">
+			<Name>J</Name>
+			<Ends>(R, 26, S, 119)</Ends>
+		</edge>
+		<edge j="122">
+			<Name>J</Name>
+			<Ends>(R, 26, S, 120)</Ends>
+		</edge>
+		<edge j="123">
+			<Name>J</Name>
+			<Ends>(S, 52, R, 27)</Ends>
+		</edge>
+		<edge j="124">
+			<Name>J</Name>
+			<Ends>(S, 121, R, 27)</Ends>
+		</edge>
+		<edge j="125">
+			<Name>J</Name>
+			<Ends>(R, 27, S, 53)</Ends>
+		</edge>
+		<edge j="126">
+			<Name>J</Name>
+			<Ends>(R, 27, S, 122)</Ends>
+		</edge>
+		<edge j="127">
+			<Name>J</Name>
+			<Ends>(S, 123, R, 28)</Ends>
+		</edge>
+		<edge j="128">
+			<Name>J</Name>
+			<Ends>(S, 124, R, 28)</Ends>
+		</edge>
+		<edge j="129">
+			<Name>J</Name>
+			<Ends>(R, 28, S, 54)</Ends>
+		</edge>
+		<edge j="130">
+			<Name>J</Name>
+			<Ends>(R, 28, S, 55)</Ends>
+		</edge>
+		<edge j="131">
+			<Name>J</Name>
+			<Ends>(S, 125, R, 29)</Ends>
+		</edge>
+		<edge j="132">
+			<Name>J</Name>
+			<Ends>(R, 29, S, 56)</Ends>
+		</edge>
+		<edge j="133">
+			<Name>J</Name>
+			<Ends>(S, 126, R, 3)</Ends>
+		</edge>
+		<edge j="134">
+			<Name>J</Name>
+			<Ends>(S, 127, R, 3)</Ends>
+		</edge>
+		<edge j="135">
+			<Name>J</Name>
+			<Ends>(S, 10, R, 3)</Ends>
+		</edge>
+		<edge j="136">
+			<Name>J</Name>
+			<Ends>(R, 3, S, 11)</Ends>
+		</edge>
+		<edge j="137">
+			<Name>J</Name>
+			<Ends>(R, 3, S, 12)</Ends>
+		</edge>
+		<edge j="138">
+			<Name>J</Name>
+			<Ends>(R, 3, S, 13)</Ends>
+		</edge>
+		<edge j="139">
+			<Name>J</Name>
+			<Ends>(S, 57, R, 30)</Ends>
+		</edge>
+		<edge j="140">
+			<Name>J</Name>
+			<Ends>(S, 58, R, 30)</Ends>
+		</edge>
+		<edge j="141">
+			<Name>J</Name>
+			<Ends>(S, 128, R, 30)</Ends>
+		</edge>
+		<edge j="142">
+			<Name>J</Name>
+			<Ends>(R, 30, S, 59)</Ends>
+		</edge>
+		<edge j="143">
+			<Name>J</Name>
+			<Ends>(R, 30, S, 60)</Ends>
+		</edge>
+		<edge j="144">
+			<Name>J</Name>
+			<Ends>(S, 61, R, 31)</Ends>
+		</edge>
+		<edge j="145">
+			<Name>J</Name>
+			<Ends>(S, 129, R, 31)</Ends>
+		</edge>
+		<edge j="146">
+			<Name>J</Name>
+			<Ends>(R, 31, S, 130)</Ends>
+		</edge>
+		<edge j="147">
+			<Name>J</Name>
+			<Ends>(R, 31, S, 131)</Ends>
+		</edge>
+		<edge j="148">
+			<Name>J</Name>
+			<Ends>(R, 31, S, 132)</Ends>
+		</edge>
+		<edge j="149">
+			<Name>J</Name>
+			<Ends>(R, 31, S, 133)</Ends>
+		</edge>
+		<edge j="150">
+			<Name>J</Name>
+			<Ends>(S, 134, R, 32)</Ends>
+		</edge>
+		<edge j="151">
+			<Name>J</Name>
+			<Ends>(S, 62, R, 32)</Ends>
+		</edge>
+		<edge j="152">
+			<Name>J</Name>
+			<Ends>(R, 32, S, 135)</Ends>
+		</edge>
+		<edge j="153">
+			<Name>J</Name>
+			<Ends>(R, 32, S, 136)</Ends>
+		</edge>
+		<edge j="154">
+			<Name>J</Name>
+			<Ends>(R, 32, S, 63)</Ends>
+		</edge>
+		<edge j="155">
+			<Name>J</Name>
+			<Ends>(R, 32, S, 64)</Ends>
+		</edge>
+		<edge j="156">
+			<Name>J</Name>
+			<Ends>(S, 137, R, 33)</Ends>
+		</edge>
+		<edge j="157">
+			<Name>J</Name>
+			<Ends>(S, 138, R, 33)</Ends>
+		</edge>
+		<edge j="158">
+			<Name>J</Name>
+			<Ends>(R, 33, S, 139)</Ends>
+		</edge>
+		<edge j="159">
+			<Name>J</Name>
+			<Ends>(R, 33, S, 140)</Ends>
+		</edge>
+		<edge j="160">
+			<Name>J</Name>
+			<Ends>(S, 65, R, 34)</Ends>
+		</edge>
+		<edge j="161">
+			<Name>J</Name>
+			<Ends>(R, 34, S, 141)</Ends>
+		</edge>
+		<edge j="162">
+			<Name>J</Name>
+			<Ends>(R, 34, S, 142)</Ends>
+		</edge>
+		<edge j="163">
+			<Name>J</Name>
+			<Ends>(S, 143, R, 4)</Ends>
+		</edge>
+		<edge j="164">
+			<Name>J</Name>
+			<Ends>(R, 4, S, 15)</Ends>
+		</edge>
+		<edge j="165">
+			<Name>J</Name>
+			<Ends>(R, 4, S, 16)</Ends>
+		</edge>
+		<edge j="166">
+			<Name>J</Name>
+			<Ends>(S, 144, R, 5)</Ends>
+		</edge>
+		<edge j="167">
+			<Name>J</Name>
+			<Ends>(S, 145, R, 5)</Ends>
+		</edge>
+		<edge j="168">
+			<Name>J</Name>
+			<Ends>(R, 5, S, 20)</Ends>
+		</edge>
+		<edge j="169">
+			<Name>J</Name>
+			<Ends>(R, 5, S, 146)</Ends>
+		</edge>
+		<edge j="170">
+			<Name>J</Name>
+			<Ends>(S, 147, R, 6)</Ends>
+		</edge>
+		<edge j="171">
+			<Name>J</Name>
+			<Ends>(S, 148, R, 6)</Ends>
+		</edge>
+		<edge j="172">
+			<Name>J</Name>
+			<Ends>(R, 6, S, 149)</Ends>
+		</edge>
+		<edge j="173">
+			<Name>J</Name>
+			<Ends>(R, 6, S, 23)</Ends>
+		</edge>
+		<edge j="174">
+			<Name>J</Name>
+			<Ends>(R, 6, S, 150)</Ends>
+		</edge>
+		<edge j="175">
+			<Name>J</Name>
+			<Ends>(S, 151, R, 7)</Ends>
+		</edge>
+		<edge j="176">
+			<Name>J</Name>
+			<Ends>(S, 152, R, 7)</Ends>
+		</edge>
+		<edge j="177">
+			<Name>J</Name>
+			<Ends>(S, 153, R, 7)</Ends>
+		</edge>
+		<edge j="178">
+			<Name>J</Name>
+			<Ends>(R, 7, S, 154)</Ends>
+		</edge>
+		<edge j="179">
+			<Name>J</Name>
+			<Ends>(R, 7, S, 155)</Ends>
+		</edge>
+		<edge j="180">
+			<Name>J</Name>
+			<Ends>(R, 7, S, 25)</Ends>
+		</edge>
+		<edge j="181">
+			<Name>J</Name>
+			<Ends>(S, 156, R, 8)</Ends>
+		</edge>
+		<edge j="182">
+			<Name>J</Name>
+			<Ends>(R, 8, S, 157)</Ends>
+		</edge>
+		<edge j="183">
+			<Name>J</Name>
+			<Ends>(S, 158, R, 9)</Ends>
+		</edge>
+		<edge j="184">
+			<Name>J</Name>
+			<Ends>(S, 159, R, 9)</Ends>
+		</edge>
+		<edge j="185">
+			<Name>J</Name>
+			<Ends>(R, 9, S, 160)</Ends>
+		</edge>
+		<edge j="186">
+			<Name>J</Name>
+			<Ends>(R, 9, S, 161)</Ends>
+		</edge>
+	</edgeBlock>
+</Pathway>
+

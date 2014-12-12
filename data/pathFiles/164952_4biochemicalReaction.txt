@@ -1,0 +1,49 @@
+BiochemicalReaction1	Nef mediated activation of the T-cell receptor	PhysicalEntity1	Complex1	
+BiochemicalReaction1	Nef mediated activation of the T-cell receptor	Protein1	Complex1	
+BiochemicalReaction1	Nef mediated activation of the T-cell receptor	Protein2	Complex1	
+BiochemicalReaction1	Nef mediated activation of the T-cell receptor	Protein3	Complex1	
+BiochemicalReaction10	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex10	Complex12	
+BiochemicalReaction10	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex11	Complex12	
+BiochemicalReaction10	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Protein25	Complex12	
+BiochemicalReaction11	Transport of MHC I:Nef:AP-1:PACS-1 Complex	Complex12	Complex13	
+BiochemicalReaction12	Degradation of MHC I Complex	Complex13	Complex11	
+BiochemicalReaction12	Degradation of MHC I Complex	Complex13	Protein25	
+BiochemicalReaction12	Degradation of MHC I Complex	Complex13	Protein3	
+BiochemicalReaction13	Nef mediated disruption of CD4:Lck Complex	Complex15	Complex16	
+BiochemicalReaction13	Nef mediated disruption of CD4:Lck Complex	Protein3	Complex16	
+BiochemicalReaction13	Nef mediated disruption of CD4:Lck Complex	Protein3	Protein6	
+BiochemicalReaction13	Nef mediated disruption of CD4:Lck Complex	Complex15	Protein6	
+BiochemicalReaction14	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Protein29	Complex18	
+BiochemicalReaction14	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex16	Complex18	
+BiochemicalReaction14	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex17	Complex18	
+BiochemicalReaction15	Internalization of the CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex18	Complex19	
+BiochemicalReaction16	Formation of a Nef:ARF1:CD4 complex	Protein37	Complex20	
+BiochemicalReaction16	Formation of a Nef:ARF1:CD4 complex	Protein28	Complex20	
+BiochemicalReaction16	Formation of a Nef:ARF1:CD4 complex	Protein3	Complex20	
+BiochemicalReaction17	Degradation of CD4	Complex19	Protein35	
+BiochemicalReaction17	Degradation of CD4	Complex19	Complex17	
+BiochemicalReaction17	Degradation of CD4	Complex19	Protein3	
+BiochemicalReaction18	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Protein29	Complex22	
+BiochemicalReaction18	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex21	Complex22	
+BiochemicalReaction18	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex17	Complex22	
+BiochemicalReaction19	Internalization of the CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex22	Complex23	
+BiochemicalReaction2	Nef Binds and activates the Src-family tyrosine kinase Hck	Protein4	Complex2	
+BiochemicalReaction2	Nef Binds and activates the Src-family tyrosine kinase Hck	Protein3	Complex2	
+BiochemicalReaction20	Degradation of CD8	Complex23	Protein35	
+BiochemicalReaction20	Degradation of CD8	Complex23	Complex17	
+BiochemicalReaction20	Degradation of CD8	Complex23	Protein3	
+BiochemicalReaction3	Nef Binds and activates the Src-family tyrosine kinase Fyn	Protein5	Complex3	
+BiochemicalReaction3	Nef Binds and activates the Src-family tyrosine kinase Fyn	Protein3	Complex3	
+BiochemicalReaction4	Nef Binds and activates the Src-family tyrosine kinase Lck	Protein6	Complex4	
+BiochemicalReaction4	Nef Binds and activates the Src-family tyrosine kinase Lck	Protein3	Complex4	
+BiochemicalReaction5	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein7	Complex5	
+BiochemicalReaction5	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein8	Complex5	
+BiochemicalReaction5	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein9	Complex5	
+BiochemicalReaction5	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein3	Complex5	
+BiochemicalReaction6	Formation of Nef CD28 cytoplasmic tail complex	Protein10	Complex6	
+BiochemicalReaction6	Formation of Nef CD28 cytoplasmic tail complex	Protein3	Complex6	
+BiochemicalReaction7	Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex	Complex6	Complex7	
+BiochemicalReaction7	Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex	Protein11	Complex7	
+BiochemicalReaction8	Internalization of Nef:CD28:Clathrin-Coated Pit Adapter Protein Complex	Complex7	Complex8	
+BiochemicalReaction9	Formation of MHC I:Nef Complex	Complex9	Complex10	
+BiochemicalReaction9	Formation of MHC I:Nef Complex	Protein3	Complex10	

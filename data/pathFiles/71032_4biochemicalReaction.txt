@@ -1,0 +1,14 @@
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction1	propionyl-CoA + CO2 + ATP <=> D-methylmalonyl-CoA + ADP + orthophosphate	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction2	D-methylmalonyl-CoA <=> L-methylmalonyl-CoA	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	MUT isomerises L-MM-CoA to SUCC-CoA	SmallMolecule7	Complex6	
+BiochemicalReaction3	MUT isomerises L-MM-CoA to SUCC-CoA	Complex3	Complex6	
+BiochemicalReaction3	MUT isomerises L-MM-CoA to SUCC-CoA	Complex3	SmallMolecule9	
+BiochemicalReaction3	MUT isomerises L-MM-CoA to SUCC-CoA	SmallMolecule7	SmallMolecule9	

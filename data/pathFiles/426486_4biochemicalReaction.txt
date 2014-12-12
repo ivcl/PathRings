@@ -1,0 +1,14 @@
+BiochemicalReaction1	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein1	Complex1	
+BiochemicalReaction1	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein2	Complex1	
+BiochemicalReaction1	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	PhysicalEntity1	Complex1	
+BiochemicalReaction1	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein3	Complex1	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Complex1	Protein1	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Protein4	Protein1	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Protein4	Protein2	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Complex1	Protein2	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Protein4	Complex2	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Complex1	Complex2	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Protein4	Protein3	
+BiochemicalReaction2	Duplex siRNA is loaded into Argonaute	Complex1	Protein3	
+BiochemicalReaction3	Cleavage-based removal of the siRNA passenger strand by AGO2	Complex4	Complex7	
+BiochemicalReaction4	Removal of siRNA passenger strand	Complex2	Complex8	

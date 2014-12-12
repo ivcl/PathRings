@@ -1,0 +1,39 @@
+BiochemicalReaction1	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction10	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule3	SmallMolecule15	
+BiochemicalReaction10	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction10	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction11	DLCL transports from the IM to the ER	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction12	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule17	SmallMolecule11	
+BiochemicalReaction12	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction12	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction12	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule17	SmallMolecule14	
+BiochemicalReaction2	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction2	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction3	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction3	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction3	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule6	SmallMolecule3	
+BiochemicalReaction4	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction4	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule7	SmallMolecule1	
+BiochemicalReaction4	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction5	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule8	SmallMolecule3	
+BiochemicalReaction5	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction5	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction5	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction6	MLCL is acylated to CL by HADH (IM)	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction6	MLCL is acylated to CL by HADH (IM)	SmallMolecule9	SmallMolecule1	
+BiochemicalReaction6	MLCL is acylated to CL by HADH (IM)	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	MLCL is acylated to CL by HADH (IM)	SmallMolecule3	SmallMolecule10	
+BiochemicalReaction7	MLCL transports from the IM to the ER	SmallMolecule3	SmallMolecule11	
+BiochemicalReaction8	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction8	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction8	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction8	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction9	CL transports from the ER to the IM	SmallMolecule13	SmallMolecule1	

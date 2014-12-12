@@ -1,0 +1,199 @@
+BiochemicalReaction1	Ligand binds to TLR7 or TLR8	Complex1	Complex4	
+BiochemicalReaction1	Ligand binds to TLR7 or TLR8	PhysicalEntity1	Complex4	
+BiochemicalReaction10	Multiple IRAK1 autophosphorylation steps within the complex pIRAK4:MyD88:activated TLR7/8 or 9	Complex19	SmallMolecule8	
+BiochemicalReaction10	Multiple IRAK1 autophosphorylation steps within the complex pIRAK4:MyD88:activated TLR7/8 or 9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction10	Multiple IRAK1 autophosphorylation steps within the complex pIRAK4:MyD88:activated TLR7/8 or 9	SmallMolecule7	Complex20	
+BiochemicalReaction10	Multiple IRAK1 autophosphorylation steps within the complex pIRAK4:MyD88:activated TLR7/8 or 9	Complex19	Complex20	
+BiochemicalReaction11	TRAF6 binds to hp- IRAK1/or p-IRAK2:p-IRAK4:MyD88:activated TLR7/8 or 9  	Complex21	Complex22	
+BiochemicalReaction11	TRAF6 binds to hp- IRAK1/or p-IRAK2:p-IRAK4:MyD88:activated TLR7/8 or 9  	Protein20	Complex22	
+BiochemicalReaction12	Dissociation of hp-IRAK1/or IRAK2:TRAF6-oligomer from the p-IRAK4 :oligo-Myd88:activated TLR7/8 or 9 complex	Complex22	Complex13	
+BiochemicalReaction12	Dissociation of hp-IRAK1/or IRAK2:TRAF6-oligomer from the p-IRAK4 :oligo-Myd88:activated TLR7/8 or 9 complex	Complex22	Complex23	
+BiochemicalReaction13	Pellino binds hp-IRAK1:TRAF6 upon TLR7/8 or 9 activation	Protein22	Complex25	
+BiochemicalReaction13	Pellino binds hp-IRAK1:TRAF6 upon TLR7/8 or 9 activation	Complex24	Complex25	
+BiochemicalReaction14	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	Complex25	SmallMolecule8	
+BiochemicalReaction14	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction14	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	SmallMolecule7	Complex26	
+BiochemicalReaction14	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	Complex25	Complex26	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex27	Protein22	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex26	Protein22	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	PhysicalEntity6	Protein22	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	PhysicalEntity6	Complex28	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex26	Complex28	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex27	Complex28	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	PhysicalEntity6	Complex27	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex26	Complex27	
+BiochemicalReaction15	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex27	Complex27	
+BiochemicalReaction16	NEMO subunit of IKK complex binds to activated IRAK1 upon stimulation of TLR7/8 or 9.	Complex28	Complex30	
+BiochemicalReaction16	NEMO subunit of IKK complex binds to activated IRAK1 upon stimulation of TLR7/8 or 9.	Complex29	Complex30	
+BiochemicalReaction17	IRAK2 induces TRAF6 oligomerization initiated from endosomal compartments	Protein20	Complex32	
+BiochemicalReaction17	IRAK2 induces TRAF6 oligomerization initiated from endosomal compartments	Complex31	Complex32	
+BiochemicalReaction18	Auto ubiquitination of oligo-TRAF6 bound to p-IRAK2 at endosome membrane	Protein32	Complex33	
+BiochemicalReaction18	Auto ubiquitination of oligo-TRAF6 bound to p-IRAK2 at endosome membrane	Complex32	Complex33	
+BiochemicalReaction19	Activated TRAF6 synthesizes unanchored polyubiquitin chains upon TLR stimulation 	Protein32	PhysicalEntity6	
+BiochemicalReaction2	MyD88 interacts with the activated TLR receptor 7, 8 or 9 	Complex5	Complex8	
+BiochemicalReaction2	MyD88 interacts with the activated TLR receptor 7, 8 or 9 	Protein4	Complex8	
+BiochemicalReaction20	Activated TRAF6:p-IRAK2 interacts with TAK1 complex upon TLR7/8 or 9 stimulation	Complex34	Complex35	
+BiochemicalReaction20	Activated TRAF6:p-IRAK2 interacts with TAK1 complex upon TLR7/8 or 9 stimulation	Complex33	Complex35	
+BiochemicalReaction20	Activated TRAF6:p-IRAK2 interacts with TAK1 complex upon TLR7/8 or 9 stimulation	PhysicalEntity6	Complex35	
+BiochemicalReaction21	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction21	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	Complex35	SmallMolecule8	
+BiochemicalReaction21	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	Complex35	Complex37	
+BiochemicalReaction21	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	SmallMolecule7	Complex37	
+BiochemicalReaction22	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction22	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex29	SmallMolecule8	
+BiochemicalReaction22	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex29	Complex38	
+BiochemicalReaction22	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule7	Complex38	
+BiochemicalReaction23	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex54	Protein78	
+BiochemicalReaction23	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule7	Protein78	
+BiochemicalReaction23	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction23	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex54	SmallMolecule8	
+BiochemicalReaction23	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule7	Complex55	
+BiochemicalReaction23	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex54	Complex55	
+BiochemicalReaction24	Released NFkB complex is transported to nucleus	Complex55	Complex56	
+BiochemicalReaction25	TRAF6 binds MEKK1	Protein94	Complex63	
+BiochemicalReaction25	TRAF6 binds MEKK1	Protein20	Complex63	
+BiochemicalReaction26	Activated TAK1 phosphorylates MKK4/MKK7	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction26	Activated TAK1 phosphorylates MKK4/MKK7	Protein96	SmallMolecule8	
+BiochemicalReaction26	Activated TAK1 phosphorylates MKK4/MKK7	Protein96	Protein99	
+BiochemicalReaction26	Activated TAK1 phosphorylates MKK4/MKK7	SmallMolecule7	Protein99	
+BiochemicalReaction27	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein102	SmallMolecule8	
+BiochemicalReaction27	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction27	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule7	Protein106	
+BiochemicalReaction27	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein102	Protein106	
+BiochemicalReaction28	Activated human JNKs migrate to nucleoplasm	Protein106	Protein110	
+BiochemicalReaction29	activated human TAK1 phosphorylates MKK3/MKK6	Protein114	Protein117	
+BiochemicalReaction29	activated human TAK1 phosphorylates MKK3/MKK6	SmallMolecule7	Protein117	
+BiochemicalReaction29	activated human TAK1 phosphorylates MKK3/MKK6	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction29	activated human TAK1 phosphorylates MKK3/MKK6	Protein114	SmallMolecule8	
+BiochemicalReaction3	MyD88 oligomerization within the complex of activated TLR 7/8 or 9 : MyD88	Complex8	Complex10	
+BiochemicalReaction3	MyD88 oligomerization within the complex of activated TLR 7/8 or 9 : MyD88	Protein4	Complex10	
+BiochemicalReaction30	Phosphorylated MKK3/MKK6 migrates to nucleus	Protein117	Protein120	
+BiochemicalReaction31	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex64	Complex65	
+BiochemicalReaction31	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule15	Complex65	
+BiochemicalReaction31	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction31	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex64	SmallMolecule16	
+BiochemicalReaction32		Complex65	SmallMolecule16	
+BiochemicalReaction32		SmallMolecule15	SmallMolecule16	
+BiochemicalReaction32		SmallMolecule15	Complex66	
+BiochemicalReaction32		Complex65	Complex66	
+BiochemicalReaction33	Nuclear export of human p38 MAPK mediated by its substrate MAPKAPK2 or 3	Complex66	Complex67	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	Protein141	SmallMolecule8	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	SmallMolecule7	Protein144	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	Protein141	Protein144	
+BiochemicalReaction35	MEK1 binds ERK-1	Protein143	Complex68	
+BiochemicalReaction35	MEK1 binds ERK-1	Protein148	Complex68	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	Complex68	Complex69	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	SmallMolecule7	Complex69	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	Complex68	SmallMolecule8	
+BiochemicalReaction37	Dissociation of phospho-ERK-1:MEK1	Complex69	Protein143	
+BiochemicalReaction37	Dissociation of phospho-ERK-1:MEK1	Complex69	Protein149	
+BiochemicalReaction38	Dimerisation of phospho-ERK-1	Protein149	Complex70	
+BiochemicalReaction39	Nuclear translocation of phospho-ERK-1 dimer	Complex70	Complex71	
+BiochemicalReaction4	IRAK4 binds to the activated TLR7/8 or 9 receptor:MyD88 complex 	Complex10	Complex12	
+BiochemicalReaction4	IRAK4 binds to the activated TLR7/8 or 9 receptor:MyD88 complex 	Protein6	Complex12	
+BiochemicalReaction40	MEK2 binds ERK-2	Protein160	Complex80	
+BiochemicalReaction40	MEK2 binds ERK-2	Protein161	Complex80	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	Complex80	SmallMolecule8	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	SmallMolecule7	Complex81	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	Complex80	Complex81	
+BiochemicalReaction42	Dissociation of phospho-ERK-2:MEK2	Complex81	Protein160	
+BiochemicalReaction42	Dissociation of phospho-ERK-2:MEK2	Complex81	Protein162	
+BiochemicalReaction43	Dimerisation of phospho-ERK-2	Protein162	Complex82	
+BiochemicalReaction44	Nuclear translocation of phospho-ERK-2 dimer	Complex82	Complex83	
+BiochemicalReaction45	ERK1/2 activates ELK1	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction45	ERK1/2 activates ELK1	Protein164	SmallMolecule16	
+BiochemicalReaction45	ERK1/2 activates ELK1	Protein164	Protein165	
+BiochemicalReaction45	ERK1/2 activates ELK1	SmallMolecule15	Protein165	
+BiochemicalReaction46	ERK1/2 phosphorylates MSK1	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction46	ERK1/2 phosphorylates MSK1	Protein166	SmallMolecule16	
+BiochemicalReaction46	ERK1/2 phosphorylates MSK1	Protein166	Protein167	
+BiochemicalReaction46	ERK1/2 phosphorylates MSK1	SmallMolecule15	Protein167	
+BiochemicalReaction47	p38MAPK phosphorylates MSK1	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction47	p38MAPK phosphorylates MSK1	Protein166	SmallMolecule16	
+BiochemicalReaction47	p38MAPK phosphorylates MSK1	Protein166	Protein167	
+BiochemicalReaction47	p38MAPK phosphorylates MSK1	SmallMolecule15	Protein167	
+BiochemicalReaction48	ERK1/2/5 activate RSK1/2/3	SmallMolecule15	Protein172	
+BiochemicalReaction48	ERK1/2/5 activate RSK1/2/3	Protein168	Protein172	
+BiochemicalReaction48	ERK1/2/5 activate RSK1/2/3	Protein168	SmallMolecule16	
+BiochemicalReaction48	ERK1/2/5 activate RSK1/2/3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction49	ERK5 activates the transcription factor MEF2	Protein178	SmallMolecule16	
+BiochemicalReaction49	ERK5 activates the transcription factor MEF2	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction49	ERK5 activates the transcription factor MEF2	SmallMolecule15	Protein181	
+BiochemicalReaction49	ERK5 activates the transcription factor MEF2	Protein178	Protein181	
+BiochemicalReaction5	IRAK4 autophosphorylation in the complex with MyD88:activated TLR 7/8 or 9	Complex12	SmallMolecule8	
+BiochemicalReaction5	IRAK4 autophosphorylation in the complex with MyD88:activated TLR 7/8 or 9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction5	IRAK4 autophosphorylation in the complex with MyD88:activated TLR 7/8 or 9	SmallMolecule7	Complex13	
+BiochemicalReaction5	IRAK4 autophosphorylation in the complex with MyD88:activated TLR 7/8 or 9	Complex12	Complex13	
+BiochemicalReaction50	ERKs are inactivated by protein phosphatase 2A	Protein176	SmallMolecule18	
+BiochemicalReaction50	ERKs are inactivated by protein phosphatase 2A	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction50	ERKs are inactivated by protein phosphatase 2A	SmallMolecule17	Protein184	
+BiochemicalReaction50	ERKs are inactivated by protein phosphatase 2A	Protein176	Protein184	
+BiochemicalReaction51	ERKs are inactivated by dual-specific phosphatases (DUSPs)	Protein176	SmallMolecule18	
+BiochemicalReaction51	ERKs are inactivated by dual-specific phosphatases (DUSPs)	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction51	ERKs are inactivated by dual-specific phosphatases (DUSPs)	SmallMolecule17	Protein184	
+BiochemicalReaction51	ERKs are inactivated by dual-specific phosphatases (DUSPs)	Protein176	Protein184	
+BiochemicalReaction52	MSK1 activates CREB	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction52	MSK1 activates CREB	Protein200	SmallMolecule16	
+BiochemicalReaction52	MSK1 activates CREB	Protein200	Protein201	
+BiochemicalReaction52	MSK1 activates CREB	SmallMolecule15	Protein201	
+BiochemicalReaction53	MSK1 activates ATF1	Protein202	Protein203	
+BiochemicalReaction53	MSK1 activates ATF1	SmallMolecule15	Protein203	
+BiochemicalReaction53	MSK1 activates ATF1	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction53	MSK1 activates ATF1	Protein202	SmallMolecule16	
+BiochemicalReaction54	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction54	RSK1/2/3 phosphorylates CREB at Serine 133	Protein200	SmallMolecule16	
+BiochemicalReaction54	RSK1/2/3 phosphorylates CREB at Serine 133	Protein200	Protein201	
+BiochemicalReaction54	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule15	Protein201	
+BiochemicalReaction55	MAPKAPK2 phosphorylates CREB at Serine 133	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction55	MAPKAPK2 phosphorylates CREB at Serine 133	Protein200	SmallMolecule16	
+BiochemicalReaction55	MAPKAPK2 phosphorylates CREB at Serine 133	Protein200	Protein201	
+BiochemicalReaction55	MAPKAPK2 phosphorylates CREB at Serine 133	SmallMolecule15	Protein201	
+BiochemicalReaction56	Phosphorylated MAPKs phosphorylate ATF-2	Protein205	Protein206	
+BiochemicalReaction56	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule15	Protein206	
+BiochemicalReaction56	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction56	Phosphorylated MAPKs phosphorylate ATF-2	Protein205	SmallMolecule16	
+BiochemicalReaction57	Activated JNKs phosphorylate c-JUN	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction57	Activated JNKs phosphorylate c-JUN	Protein207	SmallMolecule16	
+BiochemicalReaction57	Activated JNKs phosphorylate c-JUN	Protein207	Protein208	
+BiochemicalReaction57	Activated JNKs phosphorylate c-JUN	SmallMolecule15	Protein208	
+BiochemicalReaction58	c-FOS activation by phospho ERK1/2	Protein209	SmallMolecule16	
+BiochemicalReaction58	c-FOS activation by phospho ERK1/2	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction58	c-FOS activation by phospho ERK1/2	SmallMolecule15	Protein210	
+BiochemicalReaction58	c-FOS activation by phospho ERK1/2	Protein209	Protein210	
+BiochemicalReaction59	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein206	Complex86	
+BiochemicalReaction59	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein208	Complex86	
+BiochemicalReaction6	IRAK1/or IRAK2 binds to the activated IRAK4 :MyD88:activated TLR 7/8 or 9.	Complex13	Complex14	
+BiochemicalReaction6	IRAK1/or IRAK2 binds to the activated IRAK4 :MyD88:activated TLR 7/8 or 9.	Protein9	Complex14	
+BiochemicalReaction60	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein208	Complex87	
+BiochemicalReaction60	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein210	Complex87	
+BiochemicalReaction61	TRAF6 interacts with IRF7 upon TLR7/8 or 9 activation	Protein211	Complex89	
+BiochemicalReaction61	TRAF6 interacts with IRF7 upon TLR7/8 or 9 activation	Complex88	Complex89	
+BiochemicalReaction62	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex27	Complex27	
+BiochemicalReaction62	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex89	Complex27	
+BiochemicalReaction62	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	PhysicalEntity6	Complex27	
+BiochemicalReaction62	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	PhysicalEntity6	Complex90	
+BiochemicalReaction62	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex89	Complex90	
+BiochemicalReaction62	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex27	Complex90	
+BiochemicalReaction63	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	Complex89	SmallMolecule8	
+BiochemicalReaction63	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction63	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	SmallMolecule7	Protein214	
+BiochemicalReaction63	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	Complex89	Protein214	
+BiochemicalReaction63	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	SmallMolecule7	Complex88	
+BiochemicalReaction63	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	Complex89	Complex88	
+BiochemicalReaction64	Dimerization of p-IRF7	Protein214	Complex91	
+BiochemicalReaction65	Translocation of p-IRF7:p-IRF7 to nucleus	Complex91	Complex92	
+BiochemicalReaction7	Phosphorylation of IRAK2 bound to the activated IRAK4:MyD88 oligomer:activated TLR 7/8 or 9	Complex15	Complex16	
+BiochemicalReaction7	Phosphorylation of IRAK2 bound to the activated IRAK4:MyD88 oligomer:activated TLR 7/8 or 9	SmallMolecule7	Complex16	
+BiochemicalReaction7	Phosphorylation of IRAK2 bound to the activated IRAK4:MyD88 oligomer:activated TLR 7/8 or 9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction7	Phosphorylation of IRAK2 bound to the activated IRAK4:MyD88 oligomer:activated TLR 7/8 or 9	Complex15	SmallMolecule8	
+BiochemicalReaction8	First phosphorylation of IRAK1 by IRAK4 bound to MyD88:activated TLR 7/8 or 9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction8	First phosphorylation of IRAK1 by IRAK4 bound to MyD88:activated TLR 7/8 or 9	Complex17	SmallMolecule8	
+BiochemicalReaction8	First phosphorylation of IRAK1 by IRAK4 bound to MyD88:activated TLR 7/8 or 9	Complex17	Complex18	
+BiochemicalReaction8	First phosphorylation of IRAK1 by IRAK4 bound to MyD88:activated TLR 7/8 or 9	SmallMolecule7	Complex18	
+BiochemicalReaction9	Second phosphorylation of IRAK1 by IRAK4 bound to MyD88: activated TLR 7/8 or 9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction9	Second phosphorylation of IRAK1 by IRAK4 bound to MyD88: activated TLR 7/8 or 9	Complex18	SmallMolecule8	
+BiochemicalReaction9	Second phosphorylation of IRAK1 by IRAK4 bound to MyD88: activated TLR 7/8 or 9	Complex18	Complex19	
+BiochemicalReaction9	Second phosphorylation of IRAK1 by IRAK4 bound to MyD88: activated TLR 7/8 or 9	SmallMolecule7	Complex19	

@@ -1,0 +1,10 @@
+Complex1	Adenylate cyclase (Mg2+ cofactor)	plasma membrane	Reactome DB_ID: 170665	Protein1	
+Complex1	Adenylate cyclase (Mg2+ cofactor)	plasma membrane	Reactome DB_ID: 170665	SmallMolecule1	
+Complex2	G alpha-olf:GTP	plasma membrane	Reactome DB_ID: 170661	SmallMolecule2	
+Complex2	G alpha-olf:GTP	plasma membrane	Reactome DB_ID: 170661	Protein11	
+Complex3	G alpha-olf:GTP:Adenylate cyclase (active) complex	plasma membrane	Reactome DB_ID: 170655	Complex1	
+Complex3	G alpha-olf:GTP:Adenylate cyclase (active) complex	plasma membrane	Reactome DB_ID: 170655	Complex2	
+Complex4	G alpha-olf:GDP:Adenylate cyclase (active) complex	plasma membrane	Reactome DB_ID: 170679	Complex1	
+Complex4	G alpha-olf:GDP:Adenylate cyclase (active) complex	plasma membrane	Reactome DB_ID: 170679	Complex5	
+Complex5	G alpha-olf:GDP complex	plasma membrane	Reactome DB_ID: 170669	Protein11	
+Complex5	G alpha-olf:GDP complex	plasma membrane	Reactome DB_ID: 170669	SmallMolecule7	

@@ -1,0 +1,13 @@
+BiochemicalReaction1	Interaction of particulate antigens with dendritic cell receptors	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Interaction of particulate antigens with dendritic cell receptors	PhysicalEntity2	Complex2	
+BiochemicalReaction2	Engulfment of particulate antigen into phagocytic vesicle	Complex2	PhysicalEntity3	
+BiochemicalReaction2	Engulfment of particulate antigen into phagocytic vesicle	Complex2	PhysicalEntity4	
+BiochemicalReaction3	Maturation of phagosome into phagolysosome	PhysicalEntity3	PhysicalEntity5	
+BiochemicalReaction4	Alkalization of the phagosomal lumen by NOX2	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Alkalization of the phagosomal lumen by NOX2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Alkalization of the phagosomal lumen by NOX2	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Alkalization of the phagosomal lumen by NOX2	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction4	Alkalization of the phagosomal lumen by NOX2	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction4	Alkalization of the phagosomal lumen by NOX2	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction5	Partial proteolysis of antigen in phagolysosomes	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction6	Escape of antigens from phagosome to cytosol	PhysicalEntity6	PhysicalEntity7	

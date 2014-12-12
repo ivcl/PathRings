@@ -1,0 +1,20 @@
+BiochemicalReaction1	Haldane Effect	Complex1	SmallMolecule3	
+BiochemicalReaction1	Haldane Effect	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Haldane Effect	SmallMolecule2	Complex4	
+BiochemicalReaction1	Haldane Effect	Complex1	Complex4	
+BiochemicalReaction1	Haldane Effect	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Haldane Effect	Complex1	SmallMolecule4	
+BiochemicalReaction2	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction3	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule7	SmallMolecule4	
+BiochemicalReaction3	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction3	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule3	SmallMolecule9	
+BiochemicalReaction4	Passive Transport of Carbon Dioxide out of the Cell by AQP1	SmallMolecule4	SmallMolecule11	
+BiochemicalReaction5	Passive Transport of Carbon Dioxide out of the Cell by RhAG	SmallMolecule4	SmallMolecule11	
+BiochemicalReaction6	H+ + HCO3- -> H2O + CO2	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction6	H+ + HCO3- -> H2O + CO2	SmallMolecule5	SmallMolecule11	
+BiochemicalReaction6	H+ + HCO3- -> H2O + CO2	SmallMolecule5	SmallMolecule13	
+BiochemicalReaction6	H+ + HCO3- -> H2O + CO2	SmallMolecule12	SmallMolecule13	

@@ -1,0 +1,117 @@
+BiochemicalReaction1	Binding of pro-NGF to p75NTR:sortilin	Complex1	Complex3	
+BiochemicalReaction1	Binding of pro-NGF to p75NTR:sortilin	Complex2	Complex3	
+BiochemicalReaction10	NRIF binds to p75NTR	Complex5	Complex10	
+BiochemicalReaction10	NRIF binds to p75NTR	Protein53	Complex10	
+BiochemicalReaction11	TRAF6 binds to p75NTR:NRIF	Complex11	Complex12	
+BiochemicalReaction11	TRAF6 binds to p75NTR:NRIF	Complex10	Complex12	
+BiochemicalReaction12	NRIF and TRAF6 may activate JNK	Protein7	SmallMolecule2	
+BiochemicalReaction12	NRIF and TRAF6 may activate JNK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	NRIF and TRAF6 may activate JNK	SmallMolecule1	Protein8	
+BiochemicalReaction12	NRIF and TRAF6 may activate JNK	Protein7	Protein8	
+BiochemicalReaction13	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex12	Complex11	
+BiochemicalReaction13	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex12	Complex5	
+BiochemicalReaction13	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex12	Protein53	
+BiochemicalReaction14	TRAF6 polyubiquitinates NRIF	Protein53	Complex16	
+BiochemicalReaction14	TRAF6 polyubiquitinates NRIF	Complex15	Complex16	
+BiochemicalReaction15	Polyubiquitinated NRIF binds to p62 (Sequestosome)	Protein76	Complex17	
+BiochemicalReaction15	Polyubiquitinated NRIF binds to p62 (Sequestosome)	Complex16	Complex17	
+BiochemicalReaction16	Polyubiquitinated NRIF migrates to the nucleus	Complex17	Complex18	
+BiochemicalReaction17	p75NTR binds to NADE	Complex5	Complex20	
+BiochemicalReaction17	p75NTR binds to NADE	Protein94	Complex20	
+BiochemicalReaction18	p75NTR:NADE promotes caspase2/3 activation	Protein95	Complex21	
+BiochemicalReaction19	14-3-3epsilon attentuates NADE-related apoptosis	Complex20	Complex27	
+BiochemicalReaction19	14-3-3epsilon attentuates NADE-related apoptosis	Complex26	Complex27	
+BiochemicalReaction2	NGF homodimer binds to p75NTR	Complex4	Complex5	
+BiochemicalReaction2	NGF homodimer binds to p75NTR	Protein2	Complex5	
+BiochemicalReaction20	PRDM4 (SC1) binds to p75NTR	Complex5	Complex28	
+BiochemicalReaction20	PRDM4 (SC1) binds to p75NTR	Protein103	Complex28	
+BiochemicalReaction21	PRDM4 translocates to the nucleus	Protein103	Protein104	
+BiochemicalReaction22	PRDM4 inhibits cyclin E transcription	Protein104	Complex29	
+BiochemicalReaction22	PRDM4 inhibits cyclin E transcription	Protein105	Complex29	
+BiochemicalReaction23	p75NTR interacts with RIP2	Complex5	Complex30	
+BiochemicalReaction23	p75NTR interacts with RIP2	Protein109	Complex30	
+BiochemicalReaction24	p75NTR interacts with IRAK:MYD88	Complex5	Complex33	
+BiochemicalReaction24	p75NTR interacts with IRAK:MYD88	Complex31	Complex33	
+BiochemicalReaction25	IRAK is activated	Complex33	SmallMolecule2	
+BiochemicalReaction25	IRAK is activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction25	IRAK is activated	SmallMolecule1	Complex34	
+BiochemicalReaction25	IRAK is activated	Complex33	Complex34	
+BiochemicalReaction26	IRAK interacts with TRAF6	Protein54	Complex35	
+BiochemicalReaction26	IRAK interacts with TRAF6	Complex34	Complex35	
+BiochemicalReaction27	MYD88 dissociates	Complex35	Complex36	
+BiochemicalReaction27	MYD88 dissociates	Complex35	Complex32	
+BiochemicalReaction28	p62 is recruited and forms a complex with TRAF6	Complex36	Complex37	
+BiochemicalReaction28	p62 is recruited and forms a complex with TRAF6	Protein76	Complex37	
+BiochemicalReaction29	TRAF6 is auto-ubiquitinated	Protein61	Complex38	
+BiochemicalReaction29	TRAF6 is auto-ubiquitinated	Complex37	Complex38	
+BiochemicalReaction3	NGF:p75NTR complex binds to NRAGE	Complex5	Complex6	
+BiochemicalReaction3	NGF:p75NTR complex binds to NRAGE	Protein5	Complex6	
+BiochemicalReaction30	p62 recruits an atypical PKC	Protein115	Complex39	
+BiochemicalReaction30	p62 recruits an atypical PKC	Complex37	Complex39	
+BiochemicalReaction31	IKK-beta is recruited	Complex40	Complex41	
+BiochemicalReaction31	IKK-beta is recruited	Complex37	Complex41	
+BiochemicalReaction32	IKKbeta is activated	Complex41	SmallMolecule2	
+BiochemicalReaction32	IKKbeta is activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction32	IKKbeta is activated	SmallMolecule1	Complex42	
+BiochemicalReaction32	IKKbeta is activated	Complex41	Complex42	
+BiochemicalReaction33	IKKbeta phosphorylates IkB causing NF-kB to dissociate	Complex44	Complex45	
+BiochemicalReaction33	IKKbeta phosphorylates IkB causing NF-kB to dissociate	SmallMolecule1	Complex45	
+BiochemicalReaction33	IKKbeta phosphorylates IkB causing NF-kB to dissociate	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction33	IKKbeta phosphorylates IkB causing NF-kB to dissociate	Complex44	SmallMolecule2	
+BiochemicalReaction33	IKKbeta phosphorylates IkB causing NF-kB to dissociate	SmallMolecule1	Protein121	
+BiochemicalReaction33	IKKbeta phosphorylates IkB causing NF-kB to dissociate	Complex44	Protein121	
+BiochemicalReaction34	IkB is ubiquitinated and degraded	Protein61	Complex46	
+BiochemicalReaction34	IkB is ubiquitinated and degraded	Protein121	Complex46	
+BiochemicalReaction35	NF-kB migrates to the nucleus and turns on transcription	Complex45	Complex47	
+BiochemicalReaction36	Sphingomyelinase is activated by the NGF:p75NTR complex	Protein124	Complex48	
+BiochemicalReaction36	Sphingomyelinase is activated by the NGF:p75NTR complex	SmallMolecule7	Complex48	
+BiochemicalReaction37	Production of ceramide which can activate JNK and other targets	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction37	Production of ceramide which can activate JNK and other targets	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction37	Production of ceramide which can activate JNK and other targets	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction37	Production of ceramide which can activate JNK and other targets	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction38	p75NTR and RHOA-GDI interact	Complex49	Complex51	
+BiochemicalReaction38	p75NTR and RHOA-GDI interact	Protein2	Complex51	
+BiochemicalReaction39	NGF binding to p75NTR inactivates RHOA	Complex51	Complex52	
+BiochemicalReaction39	NGF binding to p75NTR inactivates RHOA	Complex4	Complex52	
+BiochemicalReaction4	NRAGE sequesters CHE1 in the cytoplasm	Complex6	Complex7	
+BiochemicalReaction4	NRAGE sequesters CHE1 in the cytoplasm	Protein6	Complex7	
+BiochemicalReaction40	p75NTR interacts with the NOGO receptor	PhysicalEntity2	Complex53	
+BiochemicalReaction40	p75NTR interacts with the NOGO receptor	Protein2	Complex53	
+BiochemicalReaction41	p75NTR:NgR complex interacts with the axonal inhibitor LINGO1	Protein127	Complex54	
+BiochemicalReaction41	p75NTR:NgR complex interacts with the axonal inhibitor LINGO1	Complex53	Complex54	
+BiochemicalReaction42	Myelin components can interact with p75NTR:NgR:LINGO1	Protein128	Complex55	
+BiochemicalReaction42	Myelin components can interact with p75NTR:NgR:LINGO1	Complex54	Complex55	
+BiochemicalReaction43	The p75NTR:NgR:MDGI complex reduces RHOA-GDI activity, displacing RHOA	Complex56	Complex57	
+BiochemicalReaction43	The p75NTR:NgR:MDGI complex reduces RHOA-GDI activity, displacing RHOA	Complex56	Complex50	
+BiochemicalReaction44	RhoA is activated by nucleotide exchange and inhibits axonal growth	Complex50	Complex58	
+BiochemicalReaction45	alpha-secretase cleaves the p75NTR extracellular domain	Protein2	Protein133	
+BiochemicalReaction45	alpha-secretase cleaves the p75NTR extracellular domain	Protein2	Protein134	
+BiochemicalReaction46	The p75NTR C-terminal fragment enters endosomes	Protein133	Protein136	
+BiochemicalReaction47	gamma-secretase cleaves the p75NTR transmembrane domain	Protein133	Protein137	
+BiochemicalReaction47	gamma-secretase cleaves the p75NTR transmembrane domain	Protein133	Protein138	
+BiochemicalReaction48	p75NTR ICD signals to NF-kB	Complex45	Complex60	
+BiochemicalReaction48	p75NTR ICD signals to NF-kB	Protein54	Complex60	
+BiochemicalReaction48	p75NTR ICD signals to NF-kB	Protein138	Complex60	
+BiochemicalReaction49	Part of the ICD migrates to the nucleus	Protein138	Protein139	
+BiochemicalReaction5	NRAGE activates JNK	Protein7	SmallMolecule2	
+BiochemicalReaction5	NRAGE activates JNK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	NRAGE activates JNK	SmallMolecule1	Protein8	
+BiochemicalReaction5	NRAGE activates JNK	Protein7	Protein8	
+BiochemicalReaction6	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	SmallMolecule3	Complex9	
+BiochemicalReaction6	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	Complex8	Complex9	
+BiochemicalReaction6	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	Complex8	SmallMolecule6	
+BiochemicalReaction6	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction7	GTP-bound RAC contributes to JNK activation	Protein7	SmallMolecule2	
+BiochemicalReaction7	GTP-bound RAC contributes to JNK activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	GTP-bound RAC contributes to JNK activation	SmallMolecule1	Protein8	
+BiochemicalReaction7	GTP-bound RAC contributes to JNK activation	Protein7	Protein8	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	Protein48	SmallMolecule2	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	Protein49	SmallMolecule2	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	Protein49	Protein50	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	Protein50	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	Protein48	Protein50	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	Protein49	Protein51	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	Protein51	
+BiochemicalReaction8	JNK phosphorylates BIM, BAD and other targets	Protein48	Protein51	
+BiochemicalReaction9	Active JNK moves to the nucleus and phosphorylates different transcription factors	Protein8	Protein52	

@@ -1,0 +1,34 @@
+BiochemicalReaction1	Recruitment of TEC kinases to p-SLP-76	Complex1	Complex7	
+BiochemicalReaction1	Recruitment of TEC kinases to p-SLP-76	SmallMolecule1	Complex7	
+BiochemicalReaction1	Recruitment of TEC kinases to p-SLP-76	Protein14	Complex7	
+BiochemicalReaction10	Calcineurin binds and dephosphorylates NFAT	Complex26	SmallMolecule12	
+BiochemicalReaction10	Calcineurin binds and dephosphorylates NFAT	SmallMolecule5	SmallMolecule12	
+BiochemicalReaction10	Calcineurin binds and dephosphorylates NFAT	Protein201	SmallMolecule12	
+BiochemicalReaction10	Calcineurin binds and dephosphorylates NFAT	Protein201	Complex29	
+BiochemicalReaction10	Calcineurin binds and dephosphorylates NFAT	SmallMolecule5	Complex29	
+BiochemicalReaction10	Calcineurin binds and dephosphorylates NFAT	Complex26	Complex29	
+BiochemicalReaction11	Translocation of CaN:CaM:NFAT to nucleus	Complex29	Complex30	
+BiochemicalReaction2	Phosphorylation of TEC kinases by p-SYK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of TEC kinases by p-SYK	Complex7	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of TEC kinases by p-SYK	Complex7	Complex8	
+BiochemicalReaction2	Phosphorylation of TEC kinases by p-SYK	SmallMolecule2	Complex8	
+BiochemicalReaction3	Autophosphorylation of BTK/ITK	Complex8	SmallMolecule3	
+BiochemicalReaction3	Autophosphorylation of BTK/ITK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Autophosphorylation of BTK/ITK	SmallMolecule2	Complex17	
+BiochemicalReaction3	Autophosphorylation of BTK/ITK	Complex8	Complex17	
+BiochemicalReaction4	Phosphorylation of PLC-gamma	Complex17	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation of PLC-gamma	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation of PLC-gamma	SmallMolecule2	Complex18	
+BiochemicalReaction4	Phosphorylation of PLC-gamma	Complex17	Complex18	
+BiochemicalReaction5	Hydrolysis of PIP2 by PLCG	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction5	Hydrolysis of PIP2 by PLCG	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction5	Hydrolysis of PIP2 by PLCG	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	Hydrolysis of PIP2 by PLCG	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction6	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule6	Complex22	
+BiochemicalReaction6	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex21	Complex22	
+BiochemicalReaction7	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction8	Calcium binds calmodulin	SmallMolecule9	Complex23	
+BiochemicalReaction8	Calcium binds calmodulin	Protein196	Complex23	
+BiochemicalReaction9	Activation of Calcineurin	Complex23	Complex26	
+BiochemicalReaction9	Activation of Calcineurin	Complex24	Complex26	
+BiochemicalReaction9	Activation of Calcineurin	SmallMolecule9	Complex26	

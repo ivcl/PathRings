@@ -1,0 +1,20 @@
+Complex1	Metabotropic glutamate receptors:L-Glutamate	plasma membrane	Reactome DB_ID: 420519	PhysicalEntity1	
+Complex1	Metabotropic glutamate receptors:L-Glutamate	plasma membrane	Reactome DB_ID: 420519	SmallMolecule1	
+Complex10	T2Rs:Bitter-tasting compounds	plasma membrane	Reactome DB_ID: 3299631	SmallMolecule13	
+Complex10	T2Rs:Bitter-tasting compounds	plasma membrane	Reactome DB_ID: 3299631	Protein18	
+Complex2	CASR:Calcium	plasma membrane	Reactome DB_ID: 420743	SmallMolecule2	
+Complex2	CASR:Calcium	plasma membrane	Reactome DB_ID: 420743	Protein11	
+Complex3	GPRC6A receptor:GPRC6A ligands	plasma membrane	Reactome DB_ID: 420722	Protein12	
+Complex3	GPRC6A receptor:GPRC6A ligands	plasma membrane	Reactome DB_ID: 420722	PhysicalEntity2	
+Complex4	GABAB receptor	plasma membrane	Reactome DB_ID: 420748	Protein13	
+Complex4	GABAB receptor	plasma membrane	Reactome DB_ID: 420748	Protein14	
+Complex5	GABAB receptor:GABA	plasma membrane	Reactome DB_ID: 420698	Complex4	
+Complex5	GABAB receptor:GABA	plasma membrane	Reactome DB_ID: 420698	SmallMolecule7	
+Complex6	Umami taste receptor	plasma membrane	Reactome DB_ID: 444633	Protein15	
+Complex6	Umami taste receptor	plasma membrane	Reactome DB_ID: 444633	Protein16	
+Complex7	Umami taste receptor:L-glutamate	plasma membrane	Reactome DB_ID: 444655	Complex6	
+Complex7	Umami taste receptor:L-glutamate	plasma membrane	Reactome DB_ID: 444655	SmallMolecule1	
+Complex8	Sweet taste receptor	plasma membrane	Reactome DB_ID: 444621	Protein17	
+Complex8	Sweet taste receptor	plasma membrane	Reactome DB_ID: 444621	Protein16	
+Complex9	Sweet taste receptor:sweet taste stimuli	extracellular region	Reactome DB_ID: 444662	Complex8	
+Complex9	Sweet taste receptor:sweet taste stimuli	extracellular region	Reactome DB_ID: 444662	SmallMolecule8	

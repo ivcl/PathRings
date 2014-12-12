@@ -1,0 +1,71 @@
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	Complex1	Complex5	
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	SmallMolecule1	Complex5	
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	SmallMolecule1	Complex4	
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	Complex1	Complex4	
+BiochemicalReaction10	Ubiquitinated Cdc6 is degraded by the proteasome	Complex20	Protein47	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex8	Protein7	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex8	Protein8	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex8	Complex21	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex8	Protein10	
+BiochemicalReaction12	MCM2-7 mediated fork unwinding	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction13	MCM8 mediated fork unwinding	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction14	Formation of GINS complex	Protein111	Complex22	
+BiochemicalReaction14	Formation of GINS complex	Protein112	Complex22	
+BiochemicalReaction14	Formation of GINS complex	PhysicalEntity8	Complex22	
+BiochemicalReaction14	Formation of GINS complex	Protein113	Complex22	
+BiochemicalReaction15	Multiple proteins are localized at replication fork	PhysicalEntity6	Complex23	
+BiochemicalReaction15	Multiple proteins are localized at replication fork	Complex8	Complex23	
+BiochemicalReaction15	Multiple proteins are localized at replication fork	Protein114	Complex23	
+BiochemicalReaction15	Multiple proteins are localized at replication fork	Complex22	Complex23	
+BiochemicalReaction16	RFC binding displaces Pol Alpha	Complex6	Complex25	
+BiochemicalReaction16	RFC binding displaces Pol Alpha	Complex24	Complex25	
+BiochemicalReaction17	Loading of PCNA - Sliding Clamp Formation	Complex26	Complex27	
+BiochemicalReaction17	Loading of PCNA - Sliding Clamp Formation	SmallMolecule2	Complex27	
+BiochemicalReaction17	Loading of PCNA - Sliding Clamp Formation	Complex25	Complex27	
+BiochemicalReaction17	Loading of PCNA - Sliding Clamp Formation	Complex25	SmallMolecule10	
+BiochemicalReaction17	Loading of PCNA - Sliding Clamp Formation	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction17	Loading of PCNA - Sliding Clamp Formation	Complex26	SmallMolecule10	
+BiochemicalReaction18	RFC dissociates after sliding clamp formation	Complex27	Complex28	
+BiochemicalReaction18	RFC dissociates after sliding clamp formation	Complex27	Complex24	
+BiochemicalReaction19	Formation of Processive Complex	Complex29	Complex30	
+BiochemicalReaction19	Formation of Processive Complex	Complex28	Complex30	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	Complex5	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule6	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule7	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule8	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule9	Complex6	
+BiochemicalReaction20	Processive synthesis on the leading strand	Complex29	Complex30	
+BiochemicalReaction20	Processive synthesis on the leading strand	Complex28	Complex30	
+BiochemicalReaction21	Formation of Okazaki fragments	Complex30	Complex31	
+BiochemicalReaction22	Formation of the Flap Intermediate	Complex31	Complex32	
+BiochemicalReaction23	RPA binds to the Flap	Complex32	Complex34	
+BiochemicalReaction23	RPA binds to the Flap	Complex33	Complex34	
+BiochemicalReaction24	Recruitment of Dna2 endonuclease	Complex34	Complex35	
+BiochemicalReaction24	Recruitment of Dna2 endonuclease	Protein128	Complex35	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	Protein128	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	SmallMolecule12	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	SmallMolecule13	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	SmallMolecule14	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	Complex36	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	SmallMolecule15	
+BiochemicalReaction25	Removal of RNA primer and dissociation of RPA and Dna2	Complex35	Complex33	
+BiochemicalReaction26	Removal of remaining Flap	Complex36	Complex37	
+BiochemicalReaction27	Joining of adjacent Okazaki fragments	PhysicalEntity9	PhysicalEntity13	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	Complex7	SmallMolecule10	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule2	Complex13	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	Complex7	Complex13	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule2	Protein22	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	Complex7	Protein22	
+BiochemicalReaction4	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein32	Complex16	
+BiochemicalReaction4	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein22	Complex16	
+BiochemicalReaction5	Ubiquitinated Orc1 enters the cytosol	Complex16	Complex17	
+BiochemicalReaction6	Ubiquitinated Orc1 is degraded by the proteasome	Complex17	Protein47	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	Protein14	SmallMolecule10	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	Protein14	Protein107	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	SmallMolecule2	Protein107	
+BiochemicalReaction8	Phosphorylated Cdc6 is exported from the nucleus	Protein107	Protein109	
+BiochemicalReaction9	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein47	Complex20	
+BiochemicalReaction9	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein109	Complex20	
+BiochemicalReaction9	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule11	Complex20	

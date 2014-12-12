@@ -1,0 +1,123 @@
+BiochemicalReaction1	Formation of MHC II alpha beta heterodimer	Protein1	Complex1	
+BiochemicalReaction1	Formation of MHC II alpha beta heterodimer	Protein22	Complex1	
+BiochemicalReaction10	Transport of MHC II:Ii complex to plasma membrane	Complex17	Complex31	
+BiochemicalReaction11	Insertion of MHC II:Ii complex in to the plasma membrane	Complex31	Complex33	
+BiochemicalReaction12	Recruitment of clathrin coated vesicle by Ii	Complex36	Complex39	
+BiochemicalReaction12	Recruitment of clathrin coated vesicle by Ii	Complex33	Complex39	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	Protein235	SmallMolecule2	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	Complex39	SmallMolecule2	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule4	Complex40	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	Complex39	Complex40	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule1	Complex40	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	Protein235	Complex40	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	Complex39	SmallMolecule3	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction13	Internalization of MHC II:Ii clathrin coated vesicle	Protein235	SmallMolecule3	
+BiochemicalReaction14	Uncoating of clathrin-coated vesicles and fusion with endosomes	Complex40	Complex41	
+BiochemicalReaction14	Uncoating of clathrin-coated vesicles and fusion with endosomes	Complex40	Complex47	
+BiochemicalReaction14	Uncoating of clathrin-coated vesicles and fusion with endosomes	Complex40	Protein268	
+BiochemicalReaction15	Trafficking of nonameric complex in the endocytic pathway	Complex47	Complex28	
+BiochemicalReaction16	Initial proteolyis of Ii by aspartic proteases to lip22	Complex28	Complex50	
+BiochemicalReaction17	Cleavage of lip22 to lip10	Complex50	Complex52	
+BiochemicalReaction18	Generation of CLIP from lip10	Complex52	Complex54	
+BiochemicalReaction19	Disassociation of CLIP from MHC II	Complex55	Protein322	
+BiochemicalReaction19	Disassociation of CLIP from MHC II	Complex54	Protein322	
+BiochemicalReaction19	Disassociation of CLIP from MHC II	Complex54	Complex59	
+BiochemicalReaction19	Disassociation of CLIP from MHC II	Complex55	Complex59	
+BiochemicalReaction2	Interaction of invariant chain trimer and MHC II alpha beta dimer	Complex2	Complex3	
+BiochemicalReaction2	Interaction of invariant chain trimer and MHC II alpha beta dimer	Complex1	Complex3	
+BiochemicalReaction2	Interaction of invariant chain trimer and MHC II alpha beta dimer	Protein28	Complex3	
+BiochemicalReaction20	MHC class II antigen internalization	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction21	Reduction of disulphide bonds in MHC II antigens	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction22	MHC class II antigen processing	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction23	Loading of antigenic peptides	PhysicalEntity4	Complex55	
+BiochemicalReaction23	Loading of antigenic peptides	Complex59	Complex55	
+BiochemicalReaction23	Loading of antigenic peptides	Complex59	Complex60	
+BiochemicalReaction23	Loading of antigenic peptides	PhysicalEntity4	Complex60	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	Protein324	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	Protein327	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	Complex61	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	SmallMolecule7	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	Complex82	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	Complex88	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex60	Complex85	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex85	Complex85	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	SmallMolecule6	Complex85	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex82	Complex85	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Complex61	Complex85	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein327	Complex85	
+BiochemicalReaction24	Transport of antigen loaded MHC II molecules to surface	Protein324	Complex85	
+BiochemicalReaction3	Formation of nonameric complex	Complex1	Protein28	
+BiochemicalReaction3	Formation of nonameric complex	Complex3	Protein28	
+BiochemicalReaction3	Formation of nonameric complex	Complex3	Complex4	
+BiochemicalReaction3	Formation of nonameric complex	Complex1	Complex4	
+BiochemicalReaction4	Formation of COPII vesicle	Complex4	Complex10	
+BiochemicalReaction4	Formation of COPII vesicle	Complex5	Complex10	
+BiochemicalReaction5	Fusion of COPII vesicle with Golgi complex	Complex10	Complex14	
+BiochemicalReaction5	Fusion of COPII vesicle with Golgi complex	Complex10	Complex5	
+BiochemicalReaction6	Translocation of MHC II:Ii complex to TGN	Complex14	Complex17	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex20	SmallMolecule2	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Protein120	SmallMolecule2	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex17	SmallMolecule2	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex21	SmallMolecule2	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex22	SmallMolecule2	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex22	Complex23	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex21	Complex23	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex17	Complex23	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Protein120	Complex23	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex20	Complex23	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex22	Complex24	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex21	Complex24	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex17	Complex24	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Protein120	Complex24	
+BiochemicalReaction7	TGN-lysosomal vesicle coat assembly	Complex20	Complex24	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	Complex24	SmallMolecule2	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	Complex24	Protein120	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule1	Protein120	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	Complex24	Complex27	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule1	Complex27	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	Complex24	SmallMolecule3	
+BiochemicalReaction8	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction9	TGN-lysosome vesicle uncoating and release of nonameric complex to lysosome	Complex27	Complex28	
+BiochemicalReaction9	TGN-lysosome vesicle uncoating and release of nonameric complex to lysosome	Complex27	Complex21	
+BiochemicalReaction9	TGN-lysosome vesicle uncoating and release of nonameric complex to lysosome	Complex27	Complex22	

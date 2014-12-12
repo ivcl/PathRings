@@ -1,0 +1,173 @@
+BiochemicalReaction1	Binding of Adrenaline or Noradrenaline by Alpha-2A/2C Adrenergic Receptors	Protein1	Complex1	
+BiochemicalReaction1	Binding of Adrenaline or Noradrenaline by Alpha-2A/2C Adrenergic Receptors	SmallMolecule1	Complex1	
+BiochemicalReaction10	Activation of Phospholipase C Beta by Gq alpha	Complex17	Complex18	
+BiochemicalReaction10	Activation of Phospholipase C Beta by Gq alpha	Protein41	Complex18	
+BiochemicalReaction11	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction11	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction11	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction11	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction12	Activation of Protein kinase C, alpha type by Diacylglycerol	SmallMolecule13	Complex19	
+BiochemicalReaction12	Activation of Protein kinase C, alpha type by Diacylglycerol	Protein45	Complex19	
+BiochemicalReaction13	Phosphorylation of MARCKS by Protein kinase C, alpha type	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction13	Phosphorylation of MARCKS by Protein kinase C, alpha type	Protein47	SmallMolecule15	
+BiochemicalReaction13	Phosphorylation of MARCKS by Protein kinase C, alpha type	Protein47	Protein48	
+BiochemicalReaction13	Phosphorylation of MARCKS by Protein kinase C, alpha type	SmallMolecule14	Protein48	
+BiochemicalReaction14	Binding of fatty acid ligands by Free fatty acid receptor 1 (GPR40)	Protein49	Complex20	
+BiochemicalReaction14	Binding of fatty acid ligands by Free fatty acid receptor 1 (GPR40)	SmallMolecule16	Complex20	
+BiochemicalReaction15	Activation of Gq by Fatty Acid Receptor 1: Fatty Acid Complex	SmallMolecule4	Complex16	
+BiochemicalReaction15	Activation of Gq by Fatty Acid Receptor 1: Fatty Acid Complex	Complex13	Complex16	
+BiochemicalReaction15	Activation of Gq by Fatty Acid Receptor 1: Fatty Acid Complex	Complex13	SmallMolecule5	
+BiochemicalReaction15	Activation of Gq by Fatty Acid Receptor 1: Fatty Acid Complex	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction16	Binding of Glucagon-like Peptide-1 by Glucagon-like Peptide-1 Receptor	Protein50	Complex23	
+BiochemicalReaction16	Binding of Glucagon-like Peptide-1 by Glucagon-like Peptide-1 Receptor	Complex21	Complex23	
+BiochemicalReaction17	Activation of G(s) by GLP-1R	SmallMolecule4	Complex25	
+BiochemicalReaction17	Activation of G(s) by GLP-1R	Complex23	Complex25	
+BiochemicalReaction17	Activation of G(s) by GLP-1R	Complex23	SmallMolecule5	
+BiochemicalReaction17	Activation of G(s) by GLP-1R	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction18	Rearrangement of the heterotrimeric G(s) complex	Complex27	Complex26	
+BiochemicalReaction18	Rearrangement of the heterotrimeric G(s) complex	Complex27	Complex4	
+BiochemicalReaction19	Activation of Adenylyl Cyclase by G(s):GTP	Protein58	Complex28	
+BiochemicalReaction19	Activation of Adenylyl Cyclase by G(s):GTP	Complex26	Complex28	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	SmallMolecule4	Complex5	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	Complex2	Complex5	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	Complex2	SmallMolecule5	
+BiochemicalReaction2	Activation of Gi/o Heterotrimeric G Proteins by Alpha Adrenergic Receptors Alpha-2A/2C	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction20	Production of Cyclic AMP by Activated Adenylyl Cyclase	SmallMolecule14	SmallMolecule28	
+BiochemicalReaction20	Production of Cyclic AMP by Activated Adenylyl Cyclase	SmallMolecule14	SmallMolecule29	
+BiochemicalReaction21	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	SmallMolecule28	Protein65	
+BiochemicalReaction21	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	Complex29	Protein65	
+BiochemicalReaction21	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	Complex29	Complex31	
+BiochemicalReaction21	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	SmallMolecule28	Complex31	
+BiochemicalReaction22	Closing of Potassium voltage-gated channels by PKA	Protein71	Protein76	
+BiochemicalReaction23	Opening of ER calcium channels by activated PKA	Complex33	Complex37	
+BiochemicalReaction24	Activation of Epac1 by cAMP	SmallMolecule28	Complex41	
+BiochemicalReaction24	Activation of Epac1 by cAMP	Protein80	Complex41	
+BiochemicalReaction25	Activation of Epac2 by cAMP	SmallMolecule28	Complex42	
+BiochemicalReaction25	Activation of Epac2 by cAMP	Protein81	Complex42	
+BiochemicalReaction26	Exchange of GDP for GTP by Rap1A	SmallMolecule4	Complex44	
+BiochemicalReaction26	Exchange of GDP for GTP by Rap1A	Complex43	Complex44	
+BiochemicalReaction26	Exchange of GDP for GTP by Rap1A	Complex43	SmallMolecule5	
+BiochemicalReaction26	Exchange of GDP for GTP by Rap1A	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction27	Transport of Extracellular Glucose to the Cytosol by GLUT1 and GLUT2	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction28	ADP-ATP translocase maintains a high ADP:ATP ratio in the matrix	SmallMolecule15	SmallMolecule34	
+BiochemicalReaction28	ADP-ATP translocase maintains a high ADP:ATP ratio in the matrix	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction28	ADP-ATP translocase maintains a high ADP:ATP ratio in the matrix	SmallMolecule33	SmallMolecule14	
+BiochemicalReaction28	ADP-ATP translocase maintains a high ADP:ATP ratio in the matrix	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction29	Closing of Inward Rectifying, ATP-sensitive Potassium Channels (KATP channels)	SmallMolecule14	Complex53	
+BiochemicalReaction29	Closing of Inward Rectifying, ATP-sensitive Potassium Channels (KATP channels)	Complex52	Complex53	
+BiochemicalReaction3	Dissociation of Gi/o Heterotrimeric G-protein Complex	Complex5	Complex6	
+BiochemicalReaction3	Dissociation of Gi/o Heterotrimeric G-protein Complex	Complex5	Complex4	
+BiochemicalReaction30	Calcium Influx through Voltage-gated Calcium Channels	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction31	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule12	Complex59	
+BiochemicalReaction31	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex58	Complex59	
+BiochemicalReaction32	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule38	SmallMolecule37	
+BiochemicalReaction33	Exocytosis of Insulin	Protein95	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	Protein96	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	Complex60	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	Protein99	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	SmallMolecule37	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	Protein100	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	Complex61	Protein97	
+BiochemicalReaction33	Exocytosis of Insulin	Complex61	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	Protein100	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	SmallMolecule37	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	Protein99	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	Complex60	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	Protein96	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	Protein95	Complex63	
+BiochemicalReaction33	Exocytosis of Insulin	Complex61	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	Protein100	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	SmallMolecule37	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	Protein99	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	Complex60	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	Protein96	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	Protein95	Protein105	
+BiochemicalReaction33	Exocytosis of Insulin	Complex61	Complex65	
+BiochemicalReaction33	Exocytosis of Insulin	Protein100	Complex65	
+BiochemicalReaction33	Exocytosis of Insulin	SmallMolecule37	Complex65	
+BiochemicalReaction33	Exocytosis of Insulin	Protein99	Complex65	
+BiochemicalReaction33	Exocytosis of Insulin	Complex60	Complex65	
+BiochemicalReaction33	Exocytosis of Insulin	Protein96	Complex65	
+BiochemicalReaction33	Exocytosis of Insulin	Protein95	Complex65	
+BiochemicalReaction34	Glucagon binds to Glucagon receptor	Protein106	Complex67	
+BiochemicalReaction34	Glucagon binds to Glucagon receptor	Protein107	Complex67	
+BiochemicalReaction35	Glucagon:GCGR mediates GTP-GDP exchange	SmallMolecule4	Complex69	
+BiochemicalReaction35	Glucagon:GCGR mediates GTP-GDP exchange	Complex68	Complex69	
+BiochemicalReaction35	Glucagon:GCGR mediates GTP-GDP exchange	Complex68	Complex26	
+BiochemicalReaction35	Glucagon:GCGR mediates GTP-GDP exchange	SmallMolecule4	Complex26	
+BiochemicalReaction35	Glucagon:GCGR mediates GTP-GDP exchange	Complex68	SmallMolecule5	
+BiochemicalReaction35	Glucagon:GCGR mediates GTP-GDP exchange	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction36	G alpha (s) activates adenylate cyclase	Complex26	Complex71	
+BiochemicalReaction36	G alpha (s) activates adenylate cyclase	Complex70	Complex71	
+BiochemicalReaction37	Activated Adenylate cyclase catalyses cAMP synthesis	SmallMolecule14	SmallMolecule28	
+BiochemicalReaction37	Activated Adenylate cyclase catalyses cAMP synthesis	SmallMolecule14	SmallMolecule29	
+BiochemicalReaction38	cAMP induces dissociation of inactive PKA tetramers	Complex30	Protein65	
+BiochemicalReaction38	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule28	Protein65	
+BiochemicalReaction38	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule28	Complex32	
+BiochemicalReaction38	cAMP induces dissociation of inactive PKA tetramers	Complex30	Complex32	
+BiochemicalReaction39	Phosphorylation of ChREBP at Thr(666) by PKA	Protein117	SmallMolecule45	
+BiochemicalReaction39	Phosphorylation of ChREBP at Thr(666) by PKA	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction39	Phosphorylation of ChREBP at Thr(666) by PKA	SmallMolecule44	Protein118	
+BiochemicalReaction39	Phosphorylation of ChREBP at Thr(666) by PKA	Protein117	Protein118	
+BiochemicalReaction4	Closing (Inhibition) of L-type Calcium Channels in Pancreatic Beta Cells	Complex7	Complex10	
+BiochemicalReaction40	PhosphoChREBP (Thr 666)  is exported to cytosol	Protein118	Protein123	
+BiochemicalReaction41	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	Protein123	SmallMolecule15	
+BiochemicalReaction41	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction41	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	SmallMolecule14	Protein124	
+BiochemicalReaction41	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	Protein123	Protein124	
+BiochemicalReaction42	Nuclear transport of pChREBP (Thr 666) protein	Protein123	Protein118	
+BiochemicalReaction43	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction43	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex72	SmallMolecule15	
+BiochemicalReaction43	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex72	Complex73	
+BiochemicalReaction43	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule14	Complex73	
+BiochemicalReaction44	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule46	SmallMolecule48	
+BiochemicalReaction44	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule47	SmallMolecule48	
+BiochemicalReaction44	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule47	SmallMolecule49	
+BiochemicalReaction44	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule46	SmallMolecule49	
+BiochemicalReaction45	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule49	SmallMolecule46	
+BiochemicalReaction45	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule47	SmallMolecule46	
+BiochemicalReaction45	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule47	SmallMolecule50	
+BiochemicalReaction45	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction46	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule48	SmallMolecule50	
+BiochemicalReaction46	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction46	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule49	SmallMolecule53	
+BiochemicalReaction46	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule48	SmallMolecule53	
+BiochemicalReaction47	Activation of PP2A by Xylulose-5-phosphate	Complex75	Complex76	
+BiochemicalReaction48	AMP binds to gamma subunit of AMP kinase heterotrimer	Complex77	Complex78	
+BiochemicalReaction48	AMP binds to gamma subunit of AMP kinase heterotrimer	SmallMolecule54	Complex78	
+BiochemicalReaction49	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction49	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	Complex78	SmallMolecule45	
+BiochemicalReaction49	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	Complex78	Complex80	
+BiochemicalReaction49	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	SmallMolecule44	Complex80	
+BiochemicalReaction5	Opening of Potassium Channels in Pancreatic Beta Cells in Response to Epinephrine	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction50	Phosphorylation of ChREBP at Serine 568 by AMPK	Protein117	SmallMolecule45	
+BiochemicalReaction50	Phosphorylation of ChREBP at Serine 568 by AMPK	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction50	Phosphorylation of ChREBP at Serine 568 by AMPK	SmallMolecule44	Protein141	
+BiochemicalReaction50	Phosphorylation of ChREBP at Serine 568 by AMPK	Protein117	Protein141	
+BiochemicalReaction51	Dephosphorylation of pChREBP (Ser 196) by PP2A	Protein124	SmallMolecule56	
+BiochemicalReaction51	Dephosphorylation of pChREBP (Ser 196) by PP2A	Protein124	Protein123	
+BiochemicalReaction52	Dephosphorylation of pChREBP (Ser 568) by PP2A	Protein141	Protein117	
+BiochemicalReaction52	Dephosphorylation of pChREBP (Ser 568) by PP2A	Protein141	SmallMolecule57	
+BiochemicalReaction53	Dephosphorylation of pChREBP (Thr 666) by PP2A	Protein118	Protein117	
+BiochemicalReaction53	Dephosphorylation of pChREBP (Thr 666) by PP2A	Protein118	SmallMolecule57	
+BiochemicalReaction54	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex73	SmallMolecule56	
+BiochemicalReaction54	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule11	SmallMolecule56	
+BiochemicalReaction54	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule11	Complex72	
+BiochemicalReaction54	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex73	Complex72	
+BiochemicalReaction55	Formation of ChREBP:MLX heterodimer	Protein117	Complex82	
+BiochemicalReaction55	Formation of ChREBP:MLX heterodimer	Protein149	Complex82	
+BiochemicalReaction6	Inhibition of Adenylate Cyclase by G-beta:G-gamma	Protein32	Complex11	
+BiochemicalReaction6	Inhibition of Adenylate Cyclase by G-beta:G-gamma	Complex4	Complex11	
+BiochemicalReaction7	Binding of Acetylcholine by Muscarinic Acetylcholine Receptor M3	Protein35	Complex12	
+BiochemicalReaction7	Binding of Acetylcholine by Muscarinic Acetylcholine Receptor M3	SmallMolecule6	Complex12	
+BiochemicalReaction8	Activation of Gq by Muscarinic Acetylcholine Receptor M3	SmallMolecule4	Complex16	
+BiochemicalReaction8	Activation of Gq by Muscarinic Acetylcholine Receptor M3	Complex13	Complex16	
+BiochemicalReaction8	Activation of Gq by Muscarinic Acetylcholine Receptor M3	Complex13	SmallMolecule5	
+BiochemicalReaction8	Activation of Gq by Muscarinic Acetylcholine Receptor M3	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction9	Dissociation of Gq alpha:GTP Complex from G beta:G gamma Complex	Complex16	Complex14	
+BiochemicalReaction9	Dissociation of Gq alpha:GTP Complex from G beta:G gamma Complex	Complex16	Complex17	
+TemplateReaction1	Transcriptional activation of pyruvate kinase gene by ChREBP:MLX	NA	Protein150	
+TemplateReaction2	Transcriptional activation of Citrate lyase monomer gene by ChREBP:MLX	NA	Protein151	
+TemplateReaction3	Transcriptional activation of FAS monomer gene by ChREBP:MLX	NA	Protein152	
+TemplateReaction4	Transcriptional activation of Acetyl-CoA carboxylase by ChREBP:MLX	NA	Protein153	
+TemplateReaction5	Transcriptional activation of GP-acyl transferase gene by ChREBP:MLX	NA	Protein156	

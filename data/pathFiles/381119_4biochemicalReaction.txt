@@ -1,0 +1,89 @@
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	Complex1	Complex2	
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	Complex1	Protein2	
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	PhysicalEntity1	Protein2	
+BiochemicalReaction10	Cleavage of Xbp1 mRNA by IRE1alpha and Splicing of Cleaved Xbp1 mRNA	Rna1	Rna2	
+BiochemicalReaction11	Translation and translocation of XBP1(S) to the Nucleus	Rna2	Protein19	
+BiochemicalReaction12	Dissociation of PERK:BiP Heterodimer	Complex8	Complex2	
+BiochemicalReaction12	Dissociation of PERK:BiP Heterodimer	PhysicalEntity1	Complex2	
+BiochemicalReaction12	Dissociation of PERK:BiP Heterodimer	PhysicalEntity1	Protein67	
+BiochemicalReaction12	Dissociation of PERK:BiP Heterodimer	Complex8	Protein67	
+BiochemicalReaction13	Dimerization of PERK	Protein67	Complex9	
+BiochemicalReaction14	Phosphorylation of eIF2-alpha by PERK	Protein68	Protein69	
+BiochemicalReaction14	Phosphorylation of eIF2-alpha by PERK	SmallMolecule1	Protein69	
+BiochemicalReaction14	Phosphorylation of eIF2-alpha by PERK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	Phosphorylation of eIF2-alpha by PERK	Protein68	SmallMolecule2	
+BiochemicalReaction2	Translocation of ATF6-alpha to the Golgi	Protein2	Protein4	
+BiochemicalReaction3	Cleavage of ATF6-alpha by S1P	Protein4	Protein5	
+BiochemicalReaction3	Cleavage of ATF6-alpha by S1P	Protein4	Protein6	
+BiochemicalReaction4	Cleavage of ATF6-alpha by S2P	Protein5	Protein8	
+BiochemicalReaction4	Cleavage of ATF6-alpha by S2P	Protein5	Protein9	
+BiochemicalReaction5	Translocation of ATF6-alpha to the Nucleus	Protein8	Protein11	
+BiochemicalReaction6	Dissociation of IRE1:BiP heterodimer	Complex4	Complex2	
+BiochemicalReaction6	Dissociation of IRE1:BiP heterodimer	PhysicalEntity1	Complex2	
+BiochemicalReaction6	Dissociation of IRE1:BiP heterodimer	PhysicalEntity1	Protein20	
+BiochemicalReaction6	Dissociation of IRE1:BiP heterodimer	Complex4	Protein20	
+BiochemicalReaction7	Dimerization of IRE1	Protein20	Complex5	
+BiochemicalReaction8	Autophosphorylation of IRE1 dimer	Complex5	Complex6	
+BiochemicalReaction8	Autophosphorylation of IRE1 dimer	SmallMolecule1	Complex6	
+BiochemicalReaction8	Autophosphorylation of IRE1 dimer	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Autophosphorylation of IRE1 dimer	Complex5	SmallMolecule2	
+BiochemicalReaction9	ADP Binding by Phosphorylated IRE1 Homodimer	Complex6	Complex7	
+BiochemicalReaction9	ADP Binding by Phosphorylated IRE1 Homodimer	SmallMolecule2	Complex7	
+TemplateReaction1	Expression of BIP (78 kDa Glucose-regulated protein, GRP78, HSPA5)	NA	Protein1	
+TemplateReaction10	Expression of CTDSP2	NA	Protein26	
+TemplateReaction11	Expression of CXXC1	NA	Protein27	
+TemplateReaction12	Expression of Cullin-7	NA	Protein28	
+TemplateReaction13	Expression of DCTN1	NA	Protein29	
+TemplateReaction14	Expression of DDX11	NA	Protein30	
+TemplateReaction15	Expression of DNAJB11	NA	Protein31	
+TemplateReaction16	Expression of DNAJB9	NA	Protein32	
+TemplateReaction17	Expression of EDEM	NA	Protein33	
+TemplateReaction18	Expression of EXTL3	NA	Protein34	
+TemplateReaction19	Expression of FKBP14	NA	Protein35	
+TemplateReaction2	Expression of CHOP (DDIT3, GADD153)	NA	Protein16	
+TemplateReaction20	Expression of ARFGAP1 (GAP)	NA	Protein36	
+TemplateReaction21	Expression of GFPT1	NA	Protein37	
+TemplateReaction22	Expression of GOSR2	NA	Protein38	
+TemplateReaction23	Expression of GSK3A	NA	Protein39	
+TemplateReaction24	Expression of HDGF	NA	Protein40	
+TemplateReaction25	Expression of HYOU1	NA	Protein41	
+TemplateReaction26	Expression of KDELR3	NA	Protein42	
+TemplateReaction27	Expression of KLHDC3	NA	Protein43	
+TemplateReaction28	Expression of LMNA	NA	Protein44	
+TemplateReaction29	Expression of PDIA5	NA	Protein45	
+TemplateReaction3	Expression of Calreticulin	NA	Protein17	
+TemplateReaction30	Expression of PDIA6 (Protein disulfide-isomerase A6)	NA	Protein46	
+TemplateReaction31	Expression of PLA2G4B	NA	Protein47	
+TemplateReaction32	Expression of PPP2R5B	NA	Protein48	
+TemplateReaction33	Expression of SERP1 (RAMP4)	NA	Protein49	
+TemplateReaction34	Expression of SHC1	NA	Protein50	
+TemplateReaction35	Expression of SRPR (SRP Receptor subunit alpha)	NA	Protein51	
+TemplateReaction36	Expression of SRPRB (SRP Receptor subunit beta)	NA	Protein52	
+TemplateReaction37	Expression of SSR1 (Trap alpha)	NA	Protein53	
+TemplateReaction38	Expression of SULT1A3	NA	Protein54	
+TemplateReaction39	Expression of SYVN1 (HRD1)	NA	Protein55	
+TemplateReaction4	Expression of HSP90B1 (Endoplasmin)	NA	Protein18	
+TemplateReaction40	Expression of Sec12	NA	Protein56	
+TemplateReaction41	Expression of Sec31A	NA	Protein57	
+TemplateReaction42	Expression of TATDN2	NA	Protein58	
+TemplateReaction43	Expression of TPP1	NA	Protein59	
+TemplateReaction44	Expression of TSPYL2	NA	Protein60	
+TemplateReaction45	Expression of Talin-1	NA	Protein61	
+TemplateReaction46	Expression of WFS1	NA	Protein62	
+TemplateReaction47	Expression of WIPI1	NA	Protein63	
+TemplateReaction48	Expression of YIF1A	NA	Protein64	
+TemplateReaction49	Expression of ZBTB17	NA	Protein65	
+TemplateReaction5	Expression of Xbp1(S)	NA	Protein19	
+TemplateReaction50	Expression of DNAJC3 (p58IPK)	NA	Protein66	
+TemplateReaction51	Translation and translocation of ATF4 	NA	Protein15	
+TemplateReaction52	Expression of ATF3	NA	Protein70	
+TemplateReaction53	Expression of Asparagine Synthetase	NA	Protein71	
+TemplateReaction54	Expression of CCL2	NA	Protein72	
+TemplateReaction55	Expression of HERPUD	NA	Protein73	
+TemplateReaction56	Expression of IGFBP1	NA	Protein74	
+TemplateReaction57	Expression of IL-8	NA	Protein75	
+TemplateReaction6	Expression of ACADVL	NA	Protein22	
+TemplateReaction7	Expression of ADD1 (Adducin alpha)	NA	Protein23	
+TemplateReaction8	Expression of ATP6VOD1	NA	Protein24	
+TemplateReaction9	Expression of C19orf10	NA	Protein25	

@@ -1,0 +1,40 @@
+BiochemicalReaction1	Microprocessor complex cleaves pri-miRNA to pre-miRNA	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction10	Removal of siRNA passenger strand	Complex19	Complex25	
+BiochemicalReaction11	Cleavage of Target RNAs by Endonucleolytic RISC	PhysicalEntity9	PhysicalEntity10	
+BiochemicalReaction12	Binding of Inexactly Matching Target RNAs by RISC.	Complex30	Complex31	
+BiochemicalReaction12	Binding of Inexactly Matching Target RNAs by RISC.	PhysicalEntity11	Complex31	
+BiochemicalReaction12	Binding of Inexactly Matching Target RNAs by RISC.	Protein15	Complex31	
+BiochemicalReaction13	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	Complex33	Complex34	
+BiochemicalReaction13	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	PhysicalEntity9	Complex34	
+BiochemicalReaction13	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	Protein15	Complex34	
+BiochemicalReaction2	Exportin-5 recognizes 3' overhang of pre-miRNA 	Complex2	Complex4	
+BiochemicalReaction2	Exportin-5 recognizes 3' overhang of pre-miRNA 	PhysicalEntity2	Complex4	
+BiochemicalReaction3	Exportin complex translocates pre-miRNA to cytosol	Complex4	Complex5	
+BiochemicalReaction3	Exportin complex translocates pre-miRNA to cytosol	Complex4	PhysicalEntity3	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein7	Complex7	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	PhysicalEntity3	Complex7	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein8	Complex7	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein9	Complex7	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Protein7	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Protein7	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Protein8	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Protein8	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Protein9	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Protein9	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Complex8	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Complex8	
+BiochemicalReaction6	Removal of miRNA passenger strand	Complex8	Complex13	
+BiochemicalReaction7	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein7	Complex18	
+BiochemicalReaction7	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein8	Complex18	
+BiochemicalReaction7	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	PhysicalEntity6	Complex18	
+BiochemicalReaction7	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein9	Complex18	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Complex18	Protein7	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Protein10	Protein7	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Protein10	Protein8	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Complex18	Protein8	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Protein10	Complex19	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Complex18	Complex19	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Protein10	Protein9	
+BiochemicalReaction8	Duplex siRNA is loaded into Argonaute	Complex18	Protein9	
+BiochemicalReaction9	Cleavage-based removal of the siRNA passenger strand by AGO2	Complex21	Complex24	
+TemplateReaction1	Pol II mediated transcription of microRNA genes	NA	PhysicalEntity1	

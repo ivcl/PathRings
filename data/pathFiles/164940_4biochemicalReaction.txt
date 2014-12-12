@@ -1,0 +1,9 @@
+BiochemicalReaction1	Formation of MHC I:Nef Complex	Complex1	Complex2	
+BiochemicalReaction1	Formation of MHC I:Nef Complex	Protein3	Complex2	
+BiochemicalReaction2	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex2	Complex4	
+BiochemicalReaction2	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex3	Complex4	
+BiochemicalReaction2	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Protein13	Complex4	
+BiochemicalReaction3	Transport of MHC I:Nef:AP-1:PACS-1 Complex	Complex4	Complex5	
+BiochemicalReaction4	Degradation of MHC I Complex	Complex5	Complex3	
+BiochemicalReaction4	Degradation of MHC I Complex	Complex5	Protein13	
+BiochemicalReaction4	Degradation of MHC I Complex	Complex5	Protein3	

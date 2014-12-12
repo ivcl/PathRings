@@ -1,0 +1,55 @@
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Complex1	Protein1	
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Protein2	Protein1	
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Complex1	Complex2	
+BiochemicalReaction10	Recruitment of POL Beta to the AP site	Complex10	Complex11	
+BiochemicalReaction10	Recruitment of POL Beta to the AP site	Protein10	Complex11	
+BiochemicalReaction11	POL Beta mediated incorporation of the first replacement nucleotide	PhysicalEntity3	Complex12	
+BiochemicalReaction11	POL Beta mediated incorporation of the first replacement nucleotide	Complex11	Complex12	
+BiochemicalReaction11	POL Beta mediated incorporation of the first replacement nucleotide	Complex11	SmallMolecule1	
+BiochemicalReaction11	POL Beta mediated incorporation of the first replacement nucleotide	PhysicalEntity3	SmallMolecule1	
+BiochemicalReaction12	POL delta associates with AP site displacing POL Beta	Complex12	Protein10	
+BiochemicalReaction12	POL delta associates with AP site displacing POL Beta	Complex13	Protein10	
+BiochemicalReaction12	POL delta associates with AP site displacing POL Beta	Complex13	Complex14	
+BiochemicalReaction12	POL delta associates with AP site displacing POL Beta	Complex12	Complex14	
+BiochemicalReaction13	DNA strand displacement synthesis	SmallMolecule2	Complex15	
+BiochemicalReaction13	DNA strand displacement synthesis	Complex14	Complex15	
+BiochemicalReaction13	DNA strand displacement synthesis	Complex14	SmallMolecule1	
+BiochemicalReaction13	DNA strand displacement synthesis	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction14	Interaction of APE1 with DNA ligase I	Protein15	Complex16	
+BiochemicalReaction14	Interaction of APE1 with DNA ligase I	Protein2	Complex16	
+BiochemicalReaction15	Interaction of APE1 with FEN1	Protein2	Complex17	
+BiochemicalReaction15	Interaction of APE1 with FEN1	Protein16	Complex17	
+BiochemicalReaction16	Interaction between FEN1 and PCNA	Protein17	Complex18	
+BiochemicalReaction16	Interaction between FEN1 and PCNA	Protein16	Complex18	
+BiochemicalReaction17	Cleavage of  flap structures	Complex15	PhysicalEntity6	
+BiochemicalReaction17	Cleavage of  flap structures	Complex15	Complex19	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Complex3	Protein3	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Protein2	Protein3	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Complex3	Complex2	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Complex4	Complex2	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Protein2	Protein4	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Complex4	Protein4	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Complex5	Protein5	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Protein2	Protein5	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Complex5	Complex2	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Complex6	Protein6	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Protein2	Protein6	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Complex6	Complex2	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Complex7	Protein7	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Protein2	Protein7	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Complex7	Complex2	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Complex8	Protein8	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Protein2	Protein8	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Complex8	Complex2	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Complex9	Protein9	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Protein2	Protein9	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Complex9	Complex2	
+BiochemicalReaction9	APE1 mediated endonucleolytic cleavage at the 5' side of the base-free deoxyribose residue 	Complex2	Complex10	

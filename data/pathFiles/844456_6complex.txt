@@ -1,0 +1,31 @@
+Complex1	ATP:P2X7	plasma membrane	Reactome DB_ID: 877166	SmallMolecule1	
+Complex1	ATP:P2X7	plasma membrane	Reactome DB_ID: 877166	Protein1	
+Complex10	NLRP3 elicitor proteins:NLRP3	cytosol	Reactome DB_ID: 1306879	Complex5	
+Complex10	NLRP3 elicitor proteins:NLRP3	cytosol	Reactome DB_ID: 1306879	Protein9	
+Complex12	NLRP3 elicitors:NLRP3 oligomer:ASC	cytosol	Reactome DB_ID: 877381	Protein12	
+Complex12	NLRP3 elicitors:NLRP3 oligomer:ASC	cytosol	Reactome DB_ID: 877381	PhysicalEntity1	
+Complex13	NLRP3 elicitors:NLRP3 oligomer:ASC:Procaspase-1	cytosol	Reactome DB_ID: 925458	Complex12	
+Complex13	NLRP3 elicitors:NLRP3 oligomer:ASC:Procaspase-1	cytosol	Reactome DB_ID: 925458	Protein13	
+Complex14	Pyrin trimer	cytosol	Reactome DB_ID: 879202	Protein14	
+Complex15	PSTPIP1 trimer	cytosol	Reactome DB_ID: 879213	Protein15	
+Complex16	PSTPIP1 trimer:Pyrin trimer	cytosol	Reactome DB_ID: 879197	Complex14	
+Complex16	PSTPIP1 trimer:Pyrin trimer	cytosol	Reactome DB_ID: 879197	Complex15	
+Complex17	Pyrin trimer:ASC	cytosol	Reactome DB_ID: 877352	Protein12	
+Complex17	Pyrin trimer:ASC	cytosol	Reactome DB_ID: 877352	Complex14	
+Complex18	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein16	
+Complex18	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein17	
+Complex2	ATP:P2X7 oligomer	plasma membrane	Reactome DB_ID: 877257	Complex1	
+Complex3	ATP:P2X7 oligomer:Pannexin-1	plasma membrane	Reactome DB_ID: 877242	Protein2	
+Complex3	ATP:P2X7 oligomer:Pannexin-1	plasma membrane	Reactome DB_ID: 877242	Complex2	
+Complex4	SUGT1:HSP90	cytosol	Reactome DB_ID: 874112	Protein3	
+Complex4	SUGT1:HSP90	cytosol	Reactome DB_ID: 874112	Protein4	
+Complex5	NLRP3:SUGT1:HSP90	cytosol	Reactome DB_ID: 874086	Complex4	
+Complex5	NLRP3:SUGT1:HSP90	cytosol	Reactome DB_ID: 874086	Protein5	
+Complex6	Thioredoxin:TXNIP	cytosol	Reactome DB_ID: 1250277	Protein6	
+Complex6	Thioredoxin:TXNIP	cytosol	Reactome DB_ID: 1250277	Protein7	
+Complex7	Oxidized thioredoxin:TXNIP	cytosol	Reactome DB_ID: 1250249	Protein6	
+Complex7	Oxidized thioredoxin:TXNIP	cytosol	Reactome DB_ID: 1250249	Protein8	
+Complex8	TXNIP:NLRP3	cytosol	Reactome DB_ID: 1250285	Protein6	
+Complex8	TXNIP:NLRP3	cytosol	Reactome DB_ID: 1250285	Protein5	
+Complex9	NLRP3 elicitor small molecules:NLRP3	cytosol	Reactome DB_ID: 877226	SmallMolecule5	
+Complex9	NLRP3 elicitor small molecules:NLRP3	cytosol	Reactome DB_ID: 877226	Protein5	

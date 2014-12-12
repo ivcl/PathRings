@@ -1,0 +1,34 @@
+Complex1	DNA containing UNG2-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110188	Protein1	
+Complex1	DNA containing UNG2-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110188	PhysicalEntity1	
+Complex10	APE1-bound DNA strand break containing an incision 5' to an AP site	nucleoplasm	Reactome DB_ID: 110334	PhysicalEntity2	
+Complex10	APE1-bound DNA strand break containing an incision 5' to an AP site	nucleoplasm	Reactome DB_ID: 110334	Protein2	
+Complex11	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site 	nucleoplasm	Reactome DB_ID: 110335	Complex10	
+Complex11	POL Beta: APE1-bound DNA strand break containing incision 5' to AP site 	nucleoplasm	Reactome DB_ID: 110335	Protein10	
+Complex12	POL Beta-bound DNA strand break containing gap left by excised residue	nucleoplasm	Reactome DB_ID: 110337	PhysicalEntity3	
+Complex12	POL Beta-bound DNA strand break containing gap left by excised residue	nucleoplasm	Reactome DB_ID: 110337	Protein10	
+Complex13	LIG3:XRRC1 complex 	nucleoplasm	Reactome DB_ID: 110338	Protein11	
+Complex13	LIG3:XRRC1 complex 	nucleoplasm	Reactome DB_ID: 110338	Protein12	
+Complex14	LIG3:XRCC1:POL Beta complex at site of base repair	nucleoplasm	Reactome DB_ID: 110339	Complex12	
+Complex14	LIG3:XRCC1:POL Beta complex at site of base repair	nucleoplasm	Reactome DB_ID: 110339	Complex13	
+Complex15	LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue	nucleoplasm	Reactome DB_ID: 110341	PhysicalEntity4	
+Complex15	LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue	nucleoplasm	Reactome DB_ID: 110341	Protein10	
+Complex15	LIG3:XRCC1:POL Beta:DNA strand break containing replaced unligated residue	nucleoplasm	Reactome DB_ID: 110341	Complex13	
+Complex16	LIG3:XRRC1-bound DNA strand containing the ligated residue	nucleoplasm	Reactome DB_ID: 110343	PhysicalEntity5	
+Complex16	LIG3:XRRC1-bound DNA strand containing the ligated residue	nucleoplasm	Reactome DB_ID: 110343	Protein10	
+Complex16	LIG3:XRRC1-bound DNA strand containing the ligated residue	nucleoplasm	Reactome DB_ID: 110343	Complex13	
+Complex2	DNA containing an APE1-bound AP site	nucleoplasm	Reactome DB_ID: 110332	PhysicalEntity1	
+Complex2	DNA containing an APE1-bound AP site	nucleoplasm	Reactome DB_ID: 110332	Protein2	
+Complex3	DNA containing a TDG-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110191	PhysicalEntity1	
+Complex3	DNA containing a TDG-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110191	Protein3	
+Complex4	DNA containing an hSMUG1-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110192	PhysicalEntity1	
+Complex4	DNA containing an hSMUG1-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110192	Protein4	
+Complex5	DNA containing a hNTH1-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110193	PhysicalEntity1	
+Complex5	DNA containing a hNTH1-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110193	Protein5	
+Complex6	DNA containing an MBD4-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110194	PhysicalEntity1	
+Complex6	DNA containing an MBD4-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110194	Protein6	
+Complex7	DNA containing an hOGG1-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110195	Protein7	
+Complex7	DNA containing an hOGG1-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110195	PhysicalEntity1	
+Complex8	DNA containing an MYH-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110200	Protein8	
+Complex8	DNA containing an MYH-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110200	PhysicalEntity1	
+Complex9	DNA containing an MPG-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110207	Protein9	
+Complex9	DNA containing an MPG-bound apurinic/apyrimidinic site	nucleoplasm	Reactome DB_ID: 110207	PhysicalEntity1	

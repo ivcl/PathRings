@@ -1,0 +1,59 @@
+Complex1	Activated thrombin (factor IIa)	extracellular region	Reactome DB_ID: 156786	Protein3	
+Complex1	Activated thrombin (factor IIa)	extracellular region	Reactome DB_ID: 156786	SmallMolecule1	
+Complex1	Activated thrombin (factor IIa)	extracellular region	Reactome DB_ID: 156786	Protein4	
+Complex10	factor XIII	extracellular region	Reactome DB_ID: 140608	Protein22	
+Complex10	factor XIII	extracellular region	Reactome DB_ID: 140608	Protein23	
+Complex11	factor XIII cleaved tetramer	extracellular region	Reactome DB_ID: 140789	Protein23	
+Complex11	factor XIII cleaved tetramer	extracellular region	Reactome DB_ID: 140789	Protein25	
+Complex12	factor XIIIa	extracellular region	Reactome DB_ID: 140849	SmallMolecule1	
+Complex12	factor XIIIa	extracellular region	Reactome DB_ID: 140849	Protein25	
+Complex13	antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140799	PhysicalEntity2	
+Complex13	antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140799	Protein27	
+Complex14	thrombin:antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140812	PhysicalEntity2	
+Complex14	thrombin:antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140812	Complex15	
+Complex14	thrombin:antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140812	Protein27	
+Complex15	activated thrombin (factor IIa)	plasma membrane	Reactome DB_ID: 140811	Protein28	
+Complex15	activated thrombin (factor IIa)	plasma membrane	Reactome DB_ID: 140811	Protein29	
+Complex15	activated thrombin (factor IIa)	plasma membrane	Reactome DB_ID: 140811	SmallMolecule2	
+Complex16	thrombin:cleaved antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140871	PhysicalEntity2	
+Complex16	thrombin:cleaved antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140871	Complex15	
+Complex16	thrombin:cleaved antithrombin III:heparin	plasma membrane	Reactome DB_ID: 140871	Complex17	
+Complex17	cleaved antithrombin III	plasma membrane	Reactome DB_ID: 140822	Protein30	
+Complex17	cleaved antithrombin III	plasma membrane	Reactome DB_ID: 140822	Protein31	
+Complex18	thrombin:cleaved antithrombin III	extracellular region	Reactome DB_ID: 140874	Complex19	
+Complex18	thrombin:cleaved antithrombin III	extracellular region	Reactome DB_ID: 140874	Complex1	
+Complex19	cleaved antithrombin III	extracellular region	Reactome DB_ID: 140821	Protein32	
+Complex19	cleaved antithrombin III	extracellular region	Reactome DB_ID: 140821	Protein33	
+Complex2	factor Xa	plasma membrane	Reactome DB_ID: 140649	Protein5	
+Complex2	factor Xa	plasma membrane	Reactome DB_ID: 140649	Protein6	
+Complex2	factor Xa	plasma membrane	Reactome DB_ID: 140649	SmallMolecule2	
+Complex20	activated thrombin:thrombomodulin	plasma membrane	Reactome DB_ID: 141038	Complex15	
+Complex20	activated thrombin:thrombomodulin	plasma membrane	Reactome DB_ID: 141038	Protein34	
+Complex21	protein C	extracellular region	Reactome DB_ID: 141043	Protein35	
+Complex21	protein C	extracellular region	Reactome DB_ID: 141043	Protein36	
+Complex22	activated protein C	extracellular region	Reactome DB_ID: 141050	SmallMolecule1	
+Complex22	activated protein C	extracellular region	Reactome DB_ID: 141050	Protein37	
+Complex22	activated protein C	extracellular region	Reactome DB_ID: 141050	Protein36	
+Complex23	factor Vi	extracellular region	Reactome DB_ID: 141055	PhysicalEntity3	
+Complex23	factor Vi	extracellular region	Reactome DB_ID: 141055	Protein10	
+Complex24	activated protein C	plasma membrane	Reactome DB_ID: 141024	Protein42	
+Complex24	activated protein C	plasma membrane	Reactome DB_ID: 141024	SmallMolecule2	
+Complex24	activated protein C	plasma membrane	Reactome DB_ID: 141024	Protein43	
+Complex3	factor Va	extracellular region	Reactome DB_ID: 140692	SmallMolecule1	
+Complex3	factor Va	extracellular region	Reactome DB_ID: 140692	Protein9	
+Complex3	factor Va	extracellular region	Reactome DB_ID: 140692	Protein10	
+Complex4	factor Xa	extracellular region	Reactome DB_ID: 140689	Protein11	
+Complex4	factor Xa	extracellular region	Reactome DB_ID: 140689	SmallMolecule1	
+Complex4	factor Xa	extracellular region	Reactome DB_ID: 140689	Protein12	
+Complex5	Va:Xa complex (prothrombinase)	plasma membrane	Reactome DB_ID: 140662	Complex2	
+Complex5	Va:Xa complex (prothrombinase)	plasma membrane	Reactome DB_ID: 140662	Complex6	
+Complex6	factor Va	plasma membrane	Reactome DB_ID: 140661	Protein13	
+Complex6	factor Va	plasma membrane	Reactome DB_ID: 140661	Protein14	
+Complex6	factor Va	plasma membrane	Reactome DB_ID: 140661	SmallMolecule2	
+Complex7	Fibrinogen	extracellular region	Reactome DB_ID: 114618	Protein15	
+Complex7	Fibrinogen	extracellular region	Reactome DB_ID: 114618	Protein16	
+Complex7	Fibrinogen	extracellular region	Reactome DB_ID: 114618	Protein17	
+Complex8	fibrin monomer	extracellular region	Reactome DB_ID: 140586	Protein15	
+Complex8	fibrin monomer	extracellular region	Reactome DB_ID: 140586	Protein18	
+Complex8	fibrin monomer	extracellular region	Reactome DB_ID: 140586	Protein19	
+Complex9	fibrin multimer	extracellular region	Reactome DB_ID: 139933	Complex8	

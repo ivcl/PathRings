@@ -1,0 +1,66 @@
+BiochemicalReaction1	RAB4A:GTP Activates KIF3	Complex1	Complex3	
+BiochemicalReaction1	RAB4A:GTP Activates KIF3	Complex2	Complex3	
+BiochemicalReaction1	RAB4A:GTP Activates KIF3	PhysicalEntity1	Complex3	
+BiochemicalReaction10	RALA:GTP Activates MYO1C	Complex32	Complex34	
+BiochemicalReaction10	RALA:GTP Activates MYO1C	Complex33	Complex34	
+BiochemicalReaction10	RALA:GTP Activates MYO1C	PhysicalEntity2	Complex34	
+BiochemicalReaction11	RALA Hydrolyzes GTP	Complex32	Complex31	
+BiochemicalReaction11	RALA Hydrolyzes GTP	Complex32	SmallMolecule6	
+BiochemicalReaction12	AKT2 Phosphorylates Myosin 5A	Protein45	SmallMolecule3	
+BiochemicalReaction12	AKT2 Phosphorylates Myosin 5A	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction12	AKT2 Phosphorylates Myosin 5A	PhysicalEntity2	SmallMolecule3	
+BiochemicalReaction12	AKT2 Phosphorylates Myosin 5A	PhysicalEntity2	Complex35	
+BiochemicalReaction12	AKT2 Phosphorylates Myosin 5A	SmallMolecule2	Complex35	
+BiochemicalReaction12	AKT2 Phosphorylates Myosin 5A	Protein45	Complex35	
+BiochemicalReaction13	Translocation of GLUT4 Vesicle and Docking at the Plasma Membrane	Complex36	Complex37	
+BiochemicalReaction13	Translocation of GLUT4 Vesicle and Docking at the Plasma Membrane	Complex34	Complex37	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein70	Protein76	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex41	Protein76	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule2	Protein76	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein73	Protein76	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex42	Protein76	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex42	Protein71	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein73	Protein71	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule2	Protein71	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex41	Protein71	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein70	Protein71	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex42	SmallMolecule3	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein73	SmallMolecule3	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex41	SmallMolecule3	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein70	SmallMolecule3	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex42	Protein77	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein73	Protein77	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule2	Protein77	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex41	Protein77	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein70	Protein77	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex42	Complex43	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein73	Complex43	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule2	Complex43	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex41	Complex43	
+BiochemicalReaction14	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein70	Complex43	
+BiochemicalReaction2	AKT1/2 Phosphorylates AS160 (TBC1D4)	Complex4	Complex5	
+BiochemicalReaction2	AKT1/2 Phosphorylates AS160 (TBC1D4)	SmallMolecule2	Complex5	
+BiochemicalReaction2	AKT1/2 Phosphorylates AS160 (TBC1D4)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	AKT1/2 Phosphorylates AS160 (TBC1D4)	Complex4	SmallMolecule3	
+BiochemicalReaction3	14-3-3 Binds Phosphorylated AS160 (TBC1D4)	Complex5	Complex14	
+BiochemicalReaction3	14-3-3 Binds Phosphorylated AS160 (TBC1D4)	Complex6	Complex14	
+BiochemicalReaction4	AMPK-alpha2 Phosphorylates TBC1D1	Protein24	SmallMolecule3	
+BiochemicalReaction4	AMPK-alpha2 Phosphorylates TBC1D1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	AMPK-alpha2 Phosphorylates TBC1D1	SmallMolecule2	Protein25	
+BiochemicalReaction4	AMPK-alpha2 Phosphorylates TBC1D1	Protein24	Protein25	
+BiochemicalReaction5	14-3-3 Binds Phosphorylated TBC1D1	Complex6	Complex26	
+BiochemicalReaction5	14-3-3 Binds Phosphorylated TBC1D1	Protein25	Complex26	
+BiochemicalReaction6	RAB8A/10/13/14 Exchange GDP for GTP	SmallMolecule1	Complex28	
+BiochemicalReaction6	RAB8A/10/13/14 Exchange GDP for GTP	Complex27	Complex28	
+BiochemicalReaction6	RAB8A/10/13/14 Exchange GDP for GTP	Complex27	SmallMolecule5	
+BiochemicalReaction6	RAB8A/10/13/14 Exchange GDP for GTP	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction7	RAB8A/10/13/14 Hydrolyze GTP	Complex28	Complex27	
+BiochemicalReaction8	AKT2 Phosphorylates RGC2	Complex29	Complex30	
+BiochemicalReaction8	AKT2 Phosphorylates RGC2	SmallMolecule2	Complex30	
+BiochemicalReaction8	AKT2 Phosphorylates RGC2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	AKT2 Phosphorylates RGC2	Complex29	SmallMolecule3	
+BiochemicalReaction9	Activation of RALA	Complex31	SmallMolecule5	
+BiochemicalReaction9	Activation of RALA	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction9	Activation of RALA	SmallMolecule1	Complex32	
+BiochemicalReaction9	Activation of RALA	Complex31	Complex32	

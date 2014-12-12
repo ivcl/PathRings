@@ -1,0 +1,28 @@
+BiochemicalReaction1	RBP3 regulates atROL taken up by Muller cells	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	An atROL isomerase isomerises atROL to 11cROL	Complex1	Complex2	
+BiochemicalReaction3	A REH hydrolyses 11cRE to 11cROL	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	A REH hydrolyses 11cRE to 11cROL	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	A REH hydrolyses 11cRE to 11cROL	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	A REH hydrolyses 11cRE to 11cROL	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	A REH hydrolyses 11cRE to 11cROL	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction3	A REH hydrolyses 11cRE to 11cROL	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction4	11cROL translocates from Muller cells to cone photoreceptor cells	SmallMolecule6	SmallMolecule3	
+BiochemicalReaction5	RLBP1 binds atROL	Protein2	Complex2	
+BiochemicalReaction5	RLBP1 binds atROL	SmallMolecule3	Complex2	
+BiochemicalReaction6	11cRDH oxidises 11cROL to 11cRAL	SmallMolecule9	Complex3	
+BiochemicalReaction6	11cRDH oxidises 11cROL to 11cRAL	Complex2	Complex3	
+BiochemicalReaction6	11cRDH oxidises 11cROL to 11cRAL	Complex2	SmallMolecule11	
+BiochemicalReaction6	11cRDH oxidises 11cROL to 11cRAL	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	11cRDH oxidises 11cROL to 11cRAL	Complex2	SmallMolecule7	
+BiochemicalReaction6	11cRDH oxidises 11cROL to 11cRAL	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction7	Photons induce isomerisation of 11cRAL to atRAL	Complex4	Complex8	
+BiochemicalReaction8	atRAL is hydrolysed from R*	Complex8	SmallMolecule14	
+BiochemicalReaction8	atRAL is hydrolysed from R*	SmallMolecule5	SmallMolecule14	
+BiochemicalReaction8	atRAL is hydrolysed from R*	SmallMolecule5	Protein7	
+BiochemicalReaction8	atRAL is hydrolysed from R*	Complex8	Protein7	
+BiochemicalReaction9	atRAL is reduced to atROL	SmallMolecule14	SmallMolecule9	
+BiochemicalReaction9	atRAL is reduced to atROL	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction9	atRAL is reduced to atROL	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction9	atRAL is reduced to atROL	SmallMolecule7	SmallMolecule1	
+BiochemicalReaction9	atRAL is reduced to atROL	SmallMolecule11	SmallMolecule1	
+BiochemicalReaction9	atRAL is reduced to atROL	SmallMolecule14	SmallMolecule1	

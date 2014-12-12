@@ -1,0 +1,60 @@
+Complex1	Capped Intronless Histone pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 110758	Complex2	
+Complex1	Capped Intronless Histone pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 110758	PhysicalEntity1	
+Complex10	capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112159	PhysicalEntity4	
+Complex10	capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112159	Protein1	
+Complex10	capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112159	Protein2	
+Complex11	CPSF	nucleoplasm	Reactome DB_ID: 71995	Protein12	
+Complex11	CPSF	nucleoplasm	Reactome DB_ID: 71995	PhysicalEntity5	
+Complex11	CPSF	nucleoplasm	Reactome DB_ID: 71995	Protein13	
+Complex11	CPSF	nucleoplasm	Reactome DB_ID: 71995	Protein14	
+Complex12	CPSF:capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112160	Complex10	
+Complex12	CPSF:capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112160	Complex11	
+Complex13	CstF	nucleoplasm	Reactome DB_ID: 72006	Protein15	
+Complex13	CstF	nucleoplasm	Reactome DB_ID: 72006	Protein16	
+Complex13	CstF	nucleoplasm	Reactome DB_ID: 72006	Protein17	
+Complex14	CstF:CPSF:capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112161	Complex12	
+Complex14	CstF:CPSF:capped intronless pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 112161	Complex13	
+Complex15	CF I	nucleoplasm	Reactome DB_ID: 72015	Protein19	
+Complex15	CF I	nucleoplasm	Reactome DB_ID: 72015	PhysicalEntity6	
+Complex15	CF I	nucleoplasm	Reactome DB_ID: 72015	PhysicalEntity7	
+Complex15	CF I	nucleoplasm	Reactome DB_ID: 72015	Protein20	
+Complex16	CF II	nucleoplasm	Reactome DB_ID: 72020	Protein22	
+Complex16	CF II	nucleoplasm	Reactome DB_ID: 72020	Protein23	
+Complex17	intronless pre-mRNA cleavage complex	nucleoplasm	Reactome DB_ID: 112162	Protein18	
+Complex17	intronless pre-mRNA cleavage complex	nucleoplasm	Reactome DB_ID: 112162	Complex14	
+Complex17	intronless pre-mRNA cleavage complex	nucleoplasm	Reactome DB_ID: 112162	Complex15	
+Complex17	intronless pre-mRNA cleavage complex	nucleoplasm	Reactome DB_ID: 112162	Protein21	
+Complex17	intronless pre-mRNA cleavage complex	nucleoplasm	Reactome DB_ID: 112162	Complex16	
+Complex18	Mature intronless derived mRNA complex	nucleoplasm	Reactome DB_ID: 112167	PhysicalEntity8	
+Complex18	Mature intronless derived mRNA complex	nucleoplasm	Reactome DB_ID: 112167	Complex2	
+Complex18	Mature intronless derived mRNA complex	nucleoplasm	Reactome DB_ID: 112167	Complex11	
+Complex19	upstream mRNA fragment:CPSF:PAP:PABPN1 complex	nucleoplasm	Reactome DB_ID: 112164	Protein18	
+Complex19	upstream mRNA fragment:CPSF:PAP:PABPN1 complex	nucleoplasm	Reactome DB_ID: 112164	Protein1	
+Complex19	upstream mRNA fragment:CPSF:PAP:PABPN1 complex	nucleoplasm	Reactome DB_ID: 112164	PhysicalEntity9	
+Complex19	upstream mRNA fragment:CPSF:PAP:PABPN1 complex	nucleoplasm	Reactome DB_ID: 112164	Protein21	
+Complex19	upstream mRNA fragment:CPSF:PAP:PABPN1 complex	nucleoplasm	Reactome DB_ID: 112164	Protein2	
+Complex19	upstream mRNA fragment:CPSF:PAP:PABPN1 complex	nucleoplasm	Reactome DB_ID: 112164	Complex11	
+Complex2	Cap Binding Complex (CBC)	nucleoplasm	Reactome DB_ID: 77088	Protein1	
+Complex2	Cap Binding Complex (CBC)	nucleoplasm	Reactome DB_ID: 77088	Protein2	
+Complex3	Capped Intronless Histone pre-mRNA:CBP80:CBP20:SLBP	nucleoplasm	Reactome DB_ID: 110759	Complex1	
+Complex3	Capped Intronless Histone pre-mRNA:CBP80:CBP20:SLBP	nucleoplasm	Reactome DB_ID: 110759	Protein3	
+Complex4	U7 snRNP:ZNF473	nucleoplasm	Reactome DB_ID: 110765	Protein4	
+Complex4	U7 snRNP:ZNF473	nucleoplasm	Reactome DB_ID: 110765	Complex5	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein5	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein6	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein7	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	PhysicalEntity2	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein8	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein9	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein10	
+Complex5	U7 snRNP-specific Sm core complex	nucleoplasm	Reactome DB_ID: 110762	Protein11	
+Complex6	Capped Intronless Histone pre-mRNA:CBP80:CBP20:SLBP:ZFP100 Complex	nucleoplasm	Reactome DB_ID: 110766	Complex4	
+Complex6	Capped Intronless Histone pre-mRNA:CBP80:CBP20:SLBP:ZFP100 Complex	nucleoplasm	Reactome DB_ID: 110766	Complex3	
+Complex7	Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	nucleoplasm	Reactome DB_ID: 111682	PhysicalEntity3	
+Complex7	Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	nucleoplasm	Reactome DB_ID: 111682	Protein1	
+Complex7	Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	nucleoplasm	Reactome DB_ID: 111682	Protein3	
+Complex7	Mature Intronless transcript derived Histone mRNA:SLBP:CBP80:CBP20	nucleoplasm	Reactome DB_ID: 111682	Protein2	
+Complex8	Capped Intronless Histone pre-mRNA:CBC:ZFP100 Complex	nucleoplasm	Reactome DB_ID: 112045	Complex1	
+Complex8	Capped Intronless Histone pre-mRNA:CBC:ZFP100 Complex	nucleoplasm	Reactome DB_ID: 112045	Complex4	
+Complex9	Mature intronless transcript derived Histone pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 156959	PhysicalEntity3	
+Complex9	Mature intronless transcript derived Histone pre-mRNA:CBC complex	nucleoplasm	Reactome DB_ID: 156959	Complex2	

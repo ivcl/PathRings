@@ -1,0 +1,50 @@
+BiochemicalReaction1	Photolytic cleavage and thermal isomerization of 7-dehydrocholesterol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Vitamin D3 translocates to the cytosol and binds to IDBP	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule5	SmallMolecule12	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule6	SmallMolecule12	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction11	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule12	SmallMolecule7	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule6	SmallMolecule13	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule5	SmallMolecule13	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule4	SmallMolecule13	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction12	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule12	SmallMolecule8	
+BiochemicalReaction2	Vitamin D3 translocates to the blood serum and is transported to the liver	SmallMolecule2	Complex1	
+BiochemicalReaction2	Vitamin D3 translocates to the blood serum and is transported to the liver	Protein1	Complex1	
+BiochemicalReaction3	Vitamin D3 translocates into the cytosol	Complex1	SmallMolecule2	
+BiochemicalReaction3	Vitamin D3 translocates into the cytosol	Complex1	Protein1	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction4	25-Hydroxylation of vitamin D3 in liver	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction5	Calcidiol binds to DBP in the bloodstream and is delivered to the kidney	Protein1	Complex2	
+BiochemicalReaction5	Calcidiol binds to DBP in the bloodstream and is delivered to the kidney	SmallMolecule9	Complex2	
+BiochemicalReaction6	CUBN binds GC:CDL	Complex2	Complex3	
+BiochemicalReaction6	CUBN binds GC:CDL	Protein3	Complex3	
+BiochemicalReaction7	Megalin internalizes the cubilin-DBP:Calcidiol complex	Complex3	Complex4	
+BiochemicalReaction8	DBP:Calcidiol translocates into lysosomes	Complex4	Complex6	
+BiochemicalReaction9	Legumain degrades DBP	Complex6	SmallMolecule11	
+BiochemicalReaction9	Legumain degrades DBP	Complex6	Protein8	

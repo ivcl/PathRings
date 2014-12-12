@@ -1,0 +1,56 @@
+BiochemicalReaction1	Interaction of IFNG with IFNGR	Complex1	Complex5	
+BiochemicalReaction1	Interaction of IFNG with IFNGR	Complex4	Complex5	
+BiochemicalReaction10	GAF binds the GAS promoter elements in the IFNG-regulated genes	Complex22	Complex23	
+BiochemicalReaction10	GAF binds the GAS promoter elements in the IFNG-regulated genes	PhysicalEntity2	Complex23	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein24	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein97	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein100	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein108	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein118	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein119	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein120	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Complex24	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein147	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein148	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein149	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein154	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein159	
+BiochemicalReaction11	Expression of IFNG-stimulated genes	NA	Protein160	
+BiochemicalReaction12	SOCS-1 and SOCS-3 binds to p-JAK2	Protein9	Complex12	
+BiochemicalReaction12	SOCS-1 and SOCS-3 binds to p-JAK2	Complex6	Complex12	
+BiochemicalReaction13	Dephosphorylation of JAKs by PTPs	Complex9	SmallMolecule4	
+BiochemicalReaction13	Dephosphorylation of JAKs by PTPs	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	Dephosphorylation of JAKs by PTPs	SmallMolecule3	Complex5	
+BiochemicalReaction13	Dephosphorylation of JAKs by PTPs	Complex9	Complex5	
+BiochemicalReaction14	PIAS1 binds p-STAT1 dimer	Protein164	Complex25	
+BiochemicalReaction14	PIAS1 binds p-STAT1 dimer	Complex22	Complex25	
+BiochemicalReaction14	PIAS1 binds p-STAT1 dimer	Protein165	Complex25	
+BiochemicalReaction15	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	Complex22	Protein166	
+BiochemicalReaction15	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	SmallMolecule5	Protein166	
+BiochemicalReaction15	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction15	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	Complex22	SmallMolecule6	
+BiochemicalReaction2	Phosphorylation of JAK2	Complex5	Complex6	
+BiochemicalReaction2	Phosphorylation of JAK2	SmallMolecule1	Complex6	
+BiochemicalReaction2	Phosphorylation of JAK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of JAK2	Complex5	SmallMolecule2	
+BiochemicalReaction3	Transphosphorylation of JAK1	Complex6	Complex9	
+BiochemicalReaction3	Transphosphorylation of JAK1	SmallMolecule1	Complex9	
+BiochemicalReaction3	Transphosphorylation of JAK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Transphosphorylation of JAK1	Complex6	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of IFNGR1 by JAK kinases	Complex9	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of IFNGR1 by JAK kinases	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of IFNGR1 by JAK kinases	SmallMolecule1	Complex13	
+BiochemicalReaction4	Phosphorylation of IFNGR1 by JAK kinases	Complex9	Complex13	
+BiochemicalReaction5	Binding of STAT1 to p-IFNGR1	Protein13	Complex16	
+BiochemicalReaction5	Binding of STAT1 to p-IFNGR1	Complex13	Complex16	
+BiochemicalReaction6	Phoshorylation of STAT1 by JAK kinases	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phoshorylation of STAT1 by JAK kinases	Complex16	SmallMolecule2	
+BiochemicalReaction6	Phoshorylation of STAT1 by JAK kinases	Complex16	Complex17	
+BiochemicalReaction6	Phoshorylation of STAT1 by JAK kinases	SmallMolecule1	Complex17	
+BiochemicalReaction7	Phosphorylation of STAT1 at Ser727	Complex17	Complex19	
+BiochemicalReaction7	Phosphorylation of STAT1 at Ser727	SmallMolecule1	Complex19	
+BiochemicalReaction7	Phosphorylation of STAT1 at Ser727	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of STAT1 at Ser727	Complex17	SmallMolecule2	
+BiochemicalReaction8	Release of STAT1 dimer from active receptor unit	Complex19	Complex20	
+BiochemicalReaction8	Release of STAT1 dimer from active receptor unit	Complex19	Complex13	
+BiochemicalReaction9	Translocation of STAT1 dimer to nucleus	Complex20	Complex22	

@@ -1,0 +1,64 @@
+BiochemicalReaction1	GRB2:SOS1 complex binds phosphorylated EGFR:ERBB2 heterodimer	Complex1	Complex6	
+BiochemicalReaction1	GRB2:SOS1 complex binds phosphorylated EGFR:ERBB2 heterodimer	Complex5	Complex6	
+BiochemicalReaction10	Activated RAF1 complex binds MEK	Protein27	Complex24	
+BiochemicalReaction10	Activated RAF1 complex binds MEK	Complex21	Complex24	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule3	Protein30	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex25	Protein30	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex25	Complex21	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule3	Complex21	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex25	SmallMolecule4	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex26	Complex21	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule3	Complex21	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex26	SmallMolecule4	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule3	Protein31	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex26	Protein31	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	Protein32	SmallMolecule4	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	SmallMolecule3	Protein33	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	Protein32	Protein33	
+BiochemicalReaction14	MEK1 binds ERK-1	Protein30	Complex27	
+BiochemicalReaction14	MEK1 binds ERK-1	Protein37	Complex27	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	Complex27	Complex28	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	SmallMolecule3	Complex28	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	Complex27	SmallMolecule4	
+BiochemicalReaction16	Dissociation of phospho-ERK-1:MEK1	Complex28	Protein30	
+BiochemicalReaction16	Dissociation of phospho-ERK-1:MEK1	Complex28	Protein38	
+BiochemicalReaction17	Dimerisation of phospho-ERK-1	Protein38	Complex29	
+BiochemicalReaction18	Nuclear translocation of phospho-ERK-1 dimer	Complex29	Complex30	
+BiochemicalReaction19	MEK2 binds ERK-2	Protein31	Complex39	
+BiochemicalReaction19	MEK2 binds ERK-2	Protein49	Complex39	
+BiochemicalReaction2	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	SmallMolecule1	Complex8	
+BiochemicalReaction2	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	Complex7	Complex8	
+BiochemicalReaction2	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	Complex7	SmallMolecule2	
+BiochemicalReaction2	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	Complex39	SmallMolecule4	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	SmallMolecule3	Complex40	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	Complex39	Complex40	
+BiochemicalReaction21	Dissociation of phospho-ERK-2:MEK2	Complex40	Protein31	
+BiochemicalReaction21	Dissociation of phospho-ERK-2:MEK2	Complex40	Protein50	
+BiochemicalReaction22	Dimerisation of phospho-ERK-2	Protein50	Complex41	
+BiochemicalReaction23	Nuclear translocation of phospho-ERK-2 dimer	Complex41	Complex42	
+BiochemicalReaction3	GRB2:SOS1 complex binds phosphorylated ERBB4:ERBB2 heterodimers	PhysicalEntity1	Complex17	
+BiochemicalReaction3	GRB2:SOS1 complex binds phosphorylated ERBB4:ERBB2 heterodimers	Complex5	Complex17	
+BiochemicalReaction4	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	SmallMolecule1	Complex8	
+BiochemicalReaction4	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	Complex7	Complex8	
+BiochemicalReaction4	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	Complex7	SmallMolecule2	
+BiochemicalReaction4	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	p-RAF binds 14-3-3 beta/alpha	Protein24	Complex18	
+BiochemicalReaction5	p-RAF binds 14-3-3 beta/alpha	Protein25	Complex18	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex18	Complex19	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex8	Complex19	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex8	Protein24	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex18	Protein24	
+BiochemicalReaction7	Stabilisation of RAS:RAF by 14-3-3	Complex19	Complex20	
+BiochemicalReaction7	Stabilisation of RAS:RAF by 14-3-3	Protein24	Complex20	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	SmallMolecule3	Complex21	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	Complex20	Complex21	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	Complex20	SmallMolecule4	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein25	Complex23	
+BiochemicalReaction9	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex22	Complex23	

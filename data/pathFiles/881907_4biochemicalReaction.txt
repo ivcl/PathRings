@@ -1,0 +1,123 @@
+BiochemicalReaction1	Gastrin binds to CCK-B receptor	Protein1	Complex1	
+BiochemicalReaction1	Gastrin binds to CCK-B receptor	Protein2	Complex1	
+BiochemicalReaction10	PLC beta-mediated PIP2 hydrolysis	SmallMolecule52	SmallMolecule53	
+BiochemicalReaction10	PLC beta-mediated PIP2 hydrolysis	SmallMolecule52	SmallMolecule54	
+BiochemicalReaction11	Binding of IP3 to IP3 receptor	SmallMolecule53	Complex75	
+BiochemicalReaction11	Binding of IP3 to IP3 receptor	Complex74	Complex75	
+BiochemicalReaction12	Transport of Ca++ from platelet dense tubular system to cytoplasm	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction13	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule54	Complex76	
+BiochemicalReaction13	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule58	Complex76	
+BiochemicalReaction13	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	Protein210	Complex76	
+BiochemicalReaction14	Activation of Protein Kinase C novel isoforms	Protein213	Complex77	
+BiochemicalReaction14	Activation of Protein Kinase C novel isoforms	SmallMolecule54	Complex77	
+BiochemicalReaction15	DAG activation of TRPC channels	Protein218	Complex78	
+BiochemicalReaction15	DAG activation of TRPC channels	SmallMolecule54	Complex78	
+BiochemicalReaction16	DAG is metabolized by DAGL to 2-AG	SmallMolecule54	SmallMolecule59	
+BiochemicalReaction16	DAG is metabolized by DAGL to 2-AG	SmallMolecule54	SmallMolecule60	
+BiochemicalReaction17	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule60	SmallMolecule62	
+BiochemicalReaction17	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule61	SmallMolecule62	
+BiochemicalReaction17	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule61	SmallMolecule63	
+BiochemicalReaction17	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule60	SmallMolecule63	
+BiochemicalReaction17	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule61	SmallMolecule64	
+BiochemicalReaction17	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule60	SmallMolecule64	
+BiochemicalReaction18	DAG kinase produces phosphatidic acid from DAG	SmallMolecule54	SmallMolecule66	
+BiochemicalReaction18	DAG kinase produces phosphatidic acid from DAG	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction18	DAG kinase produces phosphatidic acid from DAG	SmallMolecule65	SmallMolecule67	
+BiochemicalReaction18	DAG kinase produces phosphatidic acid from DAG	SmallMolecule54	SmallMolecule67	
+BiochemicalReaction19	G alpha (q) auto-inactivates by hydrolysing GTP to GDP	Complex67	Complex3	
+BiochemicalReaction2	Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq	Complex2	Complex64	
+BiochemicalReaction2	Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq	Complex5	Complex64	
+BiochemicalReaction20	Inactive G alpha (q) reassociates with G beta:gamma	Complex3	Complex2	
+BiochemicalReaction20	Inactive G alpha (q) reassociates with G beta:gamma	Complex4	Complex2	
+BiochemicalReaction21	Activation of Protein kinase C, alpha type by Diacylglycerol	SmallMolecule54	Complex79	
+BiochemicalReaction21	Activation of Protein kinase C, alpha type by Diacylglycerol	Protein242	Complex79	
+BiochemicalReaction22	Active MMP3 can cleave pro-HBEGF to form active HBEGF	Protein245	Protein246	
+BiochemicalReaction22	Active MMP3 can cleave pro-HBEGF to form active HBEGF	Protein245	Protein247	
+BiochemicalReaction22	Active MMP3 can cleave pro-HBEGF to form active HBEGF	Protein245	Protein248	
+BiochemicalReaction23	Mature HBEGF binds to EGFR, triggering dimerisation and autophosphorylation of the receptor	Protein249	Complex80	
+BiochemicalReaction23	Mature HBEGF binds to EGFR, triggering dimerisation and autophosphorylation of the receptor	Protein248	Complex80	
+BiochemicalReaction24	GRB2:SOS1 binds to HBEGF:p-Y-EGFR	Complex80	Complex83	
+BiochemicalReaction24	GRB2:SOS1 binds to HBEGF:p-Y-EGFR	Complex82	Complex83	
+BiochemicalReaction25	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	SmallMolecule43	Complex85	
+BiochemicalReaction25	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	Complex84	Complex85	
+BiochemicalReaction25	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	Complex84	SmallMolecule45	
+BiochemicalReaction25	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	SmallMolecule43	SmallMolecule45	
+BiochemicalReaction26	p-RAF binds 14-3-3 beta/alpha	Protein257	Complex86	
+BiochemicalReaction26	p-RAF binds 14-3-3 beta/alpha	Protein258	Complex86	
+BiochemicalReaction27	Transient dissociation of 14-3-3 upon Ras binding	Complex86	Complex87	
+BiochemicalReaction27	Transient dissociation of 14-3-3 upon Ras binding	Complex85	Complex87	
+BiochemicalReaction27	Transient dissociation of 14-3-3 upon Ras binding	Complex85	Protein257	
+BiochemicalReaction27	Transient dissociation of 14-3-3 upon Ras binding	Complex86	Protein257	
+BiochemicalReaction28	Stabilisation of RAS:RAF by 14-3-3	Complex87	Complex88	
+BiochemicalReaction28	Stabilisation of RAS:RAF by 14-3-3	Protein257	Complex88	
+BiochemicalReaction29	Stabilisation of RAF by further phosphorylation	SmallMolecule65	Complex89	
+BiochemicalReaction29	Stabilisation of RAF by further phosphorylation	Complex88	Complex89	
+BiochemicalReaction29	Stabilisation of RAF by further phosphorylation	Complex88	SmallMolecule66	
+BiochemicalReaction29	Stabilisation of RAF by further phosphorylation	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction3	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	SmallMolecule43	Complex65	
+BiochemicalReaction3	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	Complex64	Complex65	
+BiochemicalReaction3	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	Complex64	SmallMolecule45	
+BiochemicalReaction3	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	SmallMolecule43	SmallMolecule45	
+BiochemicalReaction30	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein258	Complex91	
+BiochemicalReaction30	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex90	Complex91	
+BiochemicalReaction31	Activated RAF1 complex binds MEK	Protein260	Complex92	
+BiochemicalReaction31	Activated RAF1 complex binds MEK	Complex89	Complex92	
+BiochemicalReaction32	RAF1  phosphorylates MEK1	SmallMolecule65	Protein263	
+BiochemicalReaction32	RAF1  phosphorylates MEK1	Complex93	Protein263	
+BiochemicalReaction32	RAF1  phosphorylates MEK1	Complex93	Complex89	
+BiochemicalReaction32	RAF1  phosphorylates MEK1	SmallMolecule65	Complex89	
+BiochemicalReaction32	RAF1  phosphorylates MEK1	Complex93	SmallMolecule66	
+BiochemicalReaction32	RAF1  phosphorylates MEK1	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction33	RAF1 phosphorylates MEK2	Complex94	Complex89	
+BiochemicalReaction33	RAF1 phosphorylates MEK2	SmallMolecule65	Complex89	
+BiochemicalReaction33	RAF1 phosphorylates MEK2	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction33	RAF1 phosphorylates MEK2	Complex94	SmallMolecule66	
+BiochemicalReaction33	RAF1 phosphorylates MEK2	SmallMolecule65	Protein264	
+BiochemicalReaction33	RAF1 phosphorylates MEK2	Complex94	Protein264	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	Protein265	SmallMolecule66	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	SmallMolecule65	Protein266	
+BiochemicalReaction34	Inactivation of MEK1 by p34cdc2	Protein265	Protein266	
+BiochemicalReaction35	MEK1 binds ERK-1	Protein263	Complex95	
+BiochemicalReaction35	MEK1 binds ERK-1	Protein270	Complex95	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	Complex95	Complex96	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	SmallMolecule65	Complex96	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction36	MEK1 phosphorylates ERK-1	Complex95	SmallMolecule66	
+BiochemicalReaction37	Dissociation of phospho-ERK-1:MEK1	Complex96	Protein263	
+BiochemicalReaction37	Dissociation of phospho-ERK-1:MEK1	Complex96	Protein271	
+BiochemicalReaction38	Dimerisation of phospho-ERK-1	Protein271	Complex97	
+BiochemicalReaction39	Nuclear translocation of phospho-ERK-1 dimer	Complex97	Complex98	
+BiochemicalReaction4	The Ligand:GPCR:Gq complex dissociates	Complex65	PhysicalEntity4	
+BiochemicalReaction4	The Ligand:GPCR:Gq complex dissociates	Complex65	PhysicalEntity5	
+BiochemicalReaction4	The Ligand:GPCR:Gq complex dissociates	Complex65	Complex67	
+BiochemicalReaction4	The Ligand:GPCR:Gq complex dissociates	Complex65	Complex4	
+BiochemicalReaction40	MEK2 binds ERK-2	Protein264	Complex107	
+BiochemicalReaction40	MEK2 binds ERK-2	Protein282	Complex107	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	Complex107	SmallMolecule66	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	SmallMolecule65	Complex108	
+BiochemicalReaction41	MEK2 phosphorylates ERK-2	Complex107	Complex108	
+BiochemicalReaction42	Dissociation of phospho-ERK-2:MEK2	Complex108	Protein264	
+BiochemicalReaction42	Dissociation of phospho-ERK-2:MEK2	Complex108	Protein283	
+BiochemicalReaction43	Dimerisation of phospho-ERK-2	Protein283	Complex109	
+BiochemicalReaction44	Nuclear translocation of phospho-ERK-2 dimer	Complex109	Complex110	
+BiochemicalReaction45	ERK1/2/5 activate RSK1/2/3	SmallMolecule68	Protein289	
+BiochemicalReaction45	ERK1/2/5 activate RSK1/2/3	Protein285	Protein289	
+BiochemicalReaction45	ERK1/2/5 activate RSK1/2/3	Protein285	SmallMolecule69	
+BiochemicalReaction45	ERK1/2/5 activate RSK1/2/3	SmallMolecule68	SmallMolecule69	
+BiochemicalReaction46	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule68	SmallMolecule69	
+BiochemicalReaction46	RSK1/2/3 phosphorylates CREB at Serine 133	Protein295	SmallMolecule69	
+BiochemicalReaction46	RSK1/2/3 phosphorylates CREB at Serine 133	Protein295	Protein296	
+BiochemicalReaction46	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule68	Protein296	
+BiochemicalReaction5	GRK2 sequesters activated Gq	Protein190	Complex68	
+BiochemicalReaction5	GRK2 sequesters activated Gq	Complex67	Complex68	
+BiochemicalReaction6	GRK5 sequesters activated Gq	Protein191	Complex69	
+BiochemicalReaction6	GRK5 sequesters activated Gq	Complex67	Complex69	
+BiochemicalReaction7	G alpha (q) binds to Trio family RhoGEFs	Protein192	Complex70	
+BiochemicalReaction7	G alpha (q) binds to Trio family RhoGEFs	Complex67	Complex70	
+BiochemicalReaction8	PLC beta is activated by G alpha (q)	Protein196	Complex71	
+BiochemicalReaction8	PLC beta is activated by G alpha (q)	Complex67	Complex71	
+BiochemicalReaction9	G alpha (q) inhibits PI3K alpha	Complex72	Complex73	
+BiochemicalReaction9	G alpha (q) inhibits PI3K alpha	Complex67	Complex73	
+TemplateReaction1	Activated PKC-alpha can activate MMP3	NA	Protein244	

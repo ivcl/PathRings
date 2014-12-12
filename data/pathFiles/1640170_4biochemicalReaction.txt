@@ -1,0 +1,912 @@
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	Complex2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	Complex2	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex7	Complex8	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein73	Complex8	
+BiochemicalReaction100	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein224	Complex111	
+BiochemicalReaction100	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein319	Complex111	
+BiochemicalReaction101	Ubiquitinated Orc1 enters the cytosol	Complex111	Complex112	
+BiochemicalReaction102	Ubiquitinated Orc1 is degraded by the proteasome	Complex112	Protein9	
+BiochemicalReaction103	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction103	Cdc6 protein is phosphorylated by CDK	Protein119	SmallMolecule2	
+BiochemicalReaction103	Cdc6 protein is phosphorylated by CDK	Protein119	Protein321	
+BiochemicalReaction103	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	Protein321	
+BiochemicalReaction104	Phosphorylated Cdc6 is exported from the nucleus	Protein321	Protein322	
+BiochemicalReaction105	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein9	Complex113	
+BiochemicalReaction105	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein322	Complex113	
+BiochemicalReaction105	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule3	Complex113	
+BiochemicalReaction106	Ubiquitinated Cdc6 is degraded by the proteasome	Complex113	Protein9	
+BiochemicalReaction107	Rearrangement and mobilization of Mcm2-7	Complex28	Protein113	
+BiochemicalReaction107	Rearrangement and mobilization of Mcm2-7	Complex28	Protein114	
+BiochemicalReaction107	Rearrangement and mobilization of Mcm2-7	Complex28	Complex114	
+BiochemicalReaction107	Rearrangement and mobilization of Mcm2-7	Complex28	Protein116	
+BiochemicalReaction108	MCM2-7 mediated fork unwinding	PhysicalEntity14	PhysicalEntity15	
+BiochemicalReaction109	MCM8 mediated fork unwinding	PhysicalEntity14	PhysicalEntity15	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein75	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein75	Protein76	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	Protein76	
+BiochemicalReaction110	Formation of GINS complex	Protein324	Complex115	
+BiochemicalReaction110	Formation of GINS complex	Protein325	Complex115	
+BiochemicalReaction110	Formation of GINS complex	PhysicalEntity16	Complex115	
+BiochemicalReaction110	Formation of GINS complex	Protein326	Complex115	
+BiochemicalReaction111	Multiple proteins are localized at replication fork	PhysicalEntity14	Complex116	
+BiochemicalReaction111	Multiple proteins are localized at replication fork	Complex28	Complex116	
+BiochemicalReaction111	Multiple proteins are localized at replication fork	Protein128	Complex116	
+BiochemicalReaction111	Multiple proteins are localized at replication fork	Complex115	Complex116	
+BiochemicalReaction112	RFC binding displaces Pol Alpha	Complex94	Complex118	
+BiochemicalReaction112	RFC binding displaces Pol Alpha	Complex117	Complex118	
+BiochemicalReaction113	Loading of PCNA - Sliding Clamp Formation	Complex119	Complex120	
+BiochemicalReaction113	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	Complex120	
+BiochemicalReaction113	Loading of PCNA - Sliding Clamp Formation	Complex118	Complex120	
+BiochemicalReaction113	Loading of PCNA - Sliding Clamp Formation	Complex118	SmallMolecule2	
+BiochemicalReaction113	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction113	Loading of PCNA - Sliding Clamp Formation	Complex119	SmallMolecule2	
+BiochemicalReaction114	RFC dissociates after sliding clamp formation	Complex120	Complex121	
+BiochemicalReaction114	RFC dissociates after sliding clamp formation	Complex120	Complex117	
+BiochemicalReaction115	Formation of Processive Complex	Complex122	Complex123	
+BiochemicalReaction115	Formation of Processive Complex	Complex121	Complex123	
+BiochemicalReaction116	Processive synthesis on the leading strand	Complex122	Complex123	
+BiochemicalReaction116	Processive synthesis on the leading strand	Complex121	Complex123	
+BiochemicalReaction117	Formation of Okazaki fragments	Complex123	Complex124	
+BiochemicalReaction118	Formation of the Flap Intermediate	Complex124	Complex125	
+BiochemicalReaction119	RPA binds to the Flap	Complex125	Complex126	
+BiochemicalReaction119	RPA binds to the Flap	Complex16	Complex126	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein75	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein75	Protein76	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	Protein76	
+BiochemicalReaction120	Recruitment of Dna2 endonuclease	Complex126	Complex127	
+BiochemicalReaction120	Recruitment of Dna2 endonuclease	Protein332	Complex127	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	Protein332	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	SmallMolecule15	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	SmallMolecule16	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	SmallMolecule17	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	Complex128	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	SmallMolecule18	
+BiochemicalReaction121	Removal of RNA primer and dissociation of RPA and Dna2	Complex127	Complex16	
+BiochemicalReaction122	Removal of remaining Flap	Complex128	Complex129	
+BiochemicalReaction123	Joining of adjacent Okazaki fragments	PhysicalEntity17	PhysicalEntity21	
+BiochemicalReaction124	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction124	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	Complex130	SmallMolecule2	
+BiochemicalReaction124	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	Complex130	Complex131	
+BiochemicalReaction124	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	SmallMolecule1	Complex131	
+BiochemicalReaction125	Relocalization of nuclearly localized phospho-(T286):cyclin D1:Cdk4 to cytoplasm	Complex131	Complex132	
+BiochemicalReaction126	Relocalization of nuclearly localized Cyclin D1 to the cytoplasm	Protein335	Protein336	
+BiochemicalReaction127	Ubiquitination of Cyclin D1	Protein9	Complex133	
+BiochemicalReaction127	Ubiquitination of Cyclin D1	Protein336	Complex133	
+BiochemicalReaction128	Proteasome mediated degradation of Cyclin D1	Complex133	Protein9	
+BiochemicalReaction129	Acetylation of SMC3 subunit of chromosomal arm associated cohesin by ESCO1 or ESCO2	Complex134	Complex137	
+BiochemicalReaction129	Acetylation of SMC3 subunit of chromosomal arm associated cohesin by ESCO1 or ESCO2	SmallMolecule19	Complex137	
+BiochemicalReaction129	Acetylation of SMC3 subunit of chromosomal arm associated cohesin by ESCO1 or ESCO2	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction129	Acetylation of SMC3 subunit of chromosomal arm associated cohesin by ESCO1 or ESCO2	Complex134	SmallMolecule20	
+BiochemicalReaction13	Ubiquitination of phosphorylated Cdc25A	Protein9	Complex9	
+BiochemicalReaction13	Ubiquitination of phosphorylated Cdc25A	Protein78	Complex9	
+BiochemicalReaction130	Acetylation of SMC3 subunit of centromeric chromatin associated cohesin by ESCO1 or ESCO2	Complex140	Complex141	
+BiochemicalReaction130	Acetylation of SMC3 subunit of centromeric chromatin associated cohesin by ESCO1 or ESCO2	SmallMolecule19	Complex141	
+BiochemicalReaction130	Acetylation of SMC3 subunit of centromeric chromatin associated cohesin by ESCO1 or ESCO2	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction130	Acetylation of SMC3 subunit of centromeric chromatin associated cohesin by ESCO1 or ESCO2	Complex140	SmallMolecule20	
+BiochemicalReaction131	CDCA5 (Sororin) enables cohesion of sister chromosomal arms	Protein350	Complex142	
+BiochemicalReaction131	CDCA5 (Sororin) enables cohesion of sister chromosomal arms	Complex137	Complex142	
+BiochemicalReaction131	CDCA5 (Sororin) enables cohesion of sister chromosomal arms	PhysicalEntity23	Complex142	
+BiochemicalReaction132	CDCA5 (Sororin) enables cohesion of sister centromeres	Protein350	Complex145	
+BiochemicalReaction132	CDCA5 (Sororin) enables cohesion of sister centromeres	PhysicalEntity24	Complex145	
+BiochemicalReaction132	CDCA5 (Sororin) enables cohesion of sister centromeres	Complex141	Complex145	
+BiochemicalReaction133	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Complex149	Complex153	
+BiochemicalReaction133	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Protein126	Complex153	
+BiochemicalReaction134	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein9	Protein371	
+BiochemicalReaction134	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex154	Protein371	
+BiochemicalReaction134	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex154	Complex155	
+BiochemicalReaction134	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein9	Complex155	
+BiochemicalReaction135	Cdt1 associates with geminin	Protein373	Complex156	
+BiochemicalReaction135	Cdt1 associates with geminin	Protein295	Complex156	
+BiochemicalReaction136	Association of Cyclin A:phospho-Cdk2(Thr 160) with E2F1/E2F3	Complex105	Complex157	
+BiochemicalReaction136	Association of Cyclin A:phospho-Cdk2(Thr 160) with E2F1/E2F3	Protein374	Complex157	
+BiochemicalReaction137	Phosphorylation of E2F1/E2F3 by Cyclin A:phosph-Cdk2(Thr 160)	Complex157	Complex158	
+BiochemicalReaction137	Phosphorylation of E2F1/E2F3 by Cyclin A:phosph-Cdk2(Thr 160)	SmallMolecule1	Complex158	
+BiochemicalReaction137	Phosphorylation of E2F1/E2F3 by Cyclin A:phosph-Cdk2(Thr 160)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction137	Phosphorylation of E2F1/E2F3 by Cyclin A:phosph-Cdk2(Thr 160)	Complex157	SmallMolecule2	
+BiochemicalReaction138	Formation of Cyclin A:Cdc2 complexes	Protein309	Complex159	
+BiochemicalReaction138	Formation of Cyclin A:Cdc2 complexes	Protein92	Complex159	
+BiochemicalReaction139	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	Complex159	SmallMolecule4	
+BiochemicalReaction139	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction139	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	SmallMolecule3	Complex160	
+BiochemicalReaction139	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	Complex159	Complex160	
+BiochemicalReaction14	Proteolytic degradation of ubiquitinated-Cdc25A	Complex9	PhysicalEntity3	
+BiochemicalReaction140	Translocation of Cyclin A:phospho-Cdc2 (Thr 14) to the nucleus	Complex160	Complex161	
+BiochemicalReaction141	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction141	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	Complex161	SmallMolecule2	
+BiochemicalReaction141	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	Complex161	Complex162	
+BiochemicalReaction141	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	SmallMolecule1	Complex162	
+BiochemicalReaction142	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction142	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	Complex162	SmallMolecule2	
+BiochemicalReaction142	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	Complex162	Complex163	
+BiochemicalReaction142	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	SmallMolecule1	Complex163	
+BiochemicalReaction143	Translocation of active Cdc25C to the nucleus	Protein379	Protein84	
+BiochemicalReaction144	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	Complex163	Complex164	
+BiochemicalReaction144	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	SmallMolecule5	Complex164	
+BiochemicalReaction144	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction144	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	Complex163	SmallMolecule6	
+BiochemicalReaction145	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction145	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	PhysicalEntity25	SmallMolecule2	
+BiochemicalReaction145	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	PhysicalEntity25	PhysicalEntity26	
+BiochemicalReaction145	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	SmallMolecule1	PhysicalEntity26	
+BiochemicalReaction146	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction146	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	PhysicalEntity27	SmallMolecule2	
+BiochemicalReaction146	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	PhysicalEntity27	PhysicalEntity28	
+BiochemicalReaction146	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	SmallMolecule1	PhysicalEntity28	
+BiochemicalReaction146	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	PhysicalEntity27	PhysicalEntity29	
+BiochemicalReaction146	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	SmallMolecule1	PhysicalEntity29	
+BiochemicalReaction147	Formation of Cyclin B:Cdc2 complexes	Protein93	Complex14	
+BiochemicalReaction147	Formation of Cyclin B:Cdc2 complexes	Protein92	Complex14	
+BiochemicalReaction148	Translocation of Cyclin B1:phospho-Cdc2 complexes to the nucleus	Complex167	Complex171	
+BiochemicalReaction149	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction149	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	Complex172	SmallMolecule2	
+BiochemicalReaction149	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	Complex172	Complex12	
+BiochemicalReaction149	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	SmallMolecule1	Complex12	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	Protein80	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	Protein79	Protein80	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	Protein79	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction150	Translocation of Cyclin B1:phospho-Cdc2 to the cytoplasm	Complex13	Complex169	
+BiochemicalReaction151	Translocation of Cdc25B to the cytoplasm	Protein314	Protein388	
+BiochemicalReaction152	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	Complex169	SmallMolecule22	
+BiochemicalReaction152	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction152	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	SmallMolecule21	Complex174	
+BiochemicalReaction152	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	Complex169	Complex174	
+BiochemicalReaction153	Phosphorylation of Cyclin B1 in the CRS domain	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction153	Phosphorylation of Cyclin B1 in the CRS domain	Complex174	SmallMolecule4	
+BiochemicalReaction153	Phosphorylation of Cyclin B1 in the CRS domain	Complex174	Complex175	
+BiochemicalReaction153	Phosphorylation of Cyclin B1 in the CRS domain	SmallMolecule3	Complex175	
+BiochemicalReaction154	Translocation of CRS phosphorylated Cyclin B1:Cdc2 complexes	Complex170	Complex176	
+BiochemicalReaction155	Translocation of Cdc25 to the nucleus	Protein389	Protein392	
+BiochemicalReaction156	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	Complex13	SmallMolecule6	
+BiochemicalReaction156	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction156	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	SmallMolecule5	Complex177	
+BiochemicalReaction156	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	Complex13	Complex177	
+BiochemicalReaction157	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	SmallMolecule1	PhysicalEntity32	
+BiochemicalReaction157	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	PhysicalEntity31	PhysicalEntity32	
+BiochemicalReaction157	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	PhysicalEntity31	SmallMolecule2	
+BiochemicalReaction157	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction158	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction158	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	Protein393	SmallMolecule2	
+BiochemicalReaction158	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	Protein393	Protein394	
+BiochemicalReaction158	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	SmallMolecule1	Protein394	
+BiochemicalReaction159	PP2A-PPP2R2A dephosphorylates FOXM1	Protein394	SmallMolecule6	
+BiochemicalReaction159	PP2A-PPP2R2A dephosphorylates FOXM1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction159	PP2A-PPP2R2A dephosphorylates FOXM1	SmallMolecule5	Protein393	
+BiochemicalReaction159	PP2A-PPP2R2A dephosphorylates FOXM1	Protein394	Protein393	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein75	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein75	Protein76	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	Protein76	
+BiochemicalReaction160	Dephosphorylation of cyclin B2:phospho-Cdc2 (Thr 14) by Cdc25	Complex183	SmallMolecule22	
+BiochemicalReaction160	Dephosphorylation of cyclin B2:phospho-Cdc2 (Thr 14) by Cdc25	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction160	Dephosphorylation of cyclin B2:phospho-Cdc2 (Thr 14) by Cdc25	SmallMolecule21	Complex184	
+BiochemicalReaction160	Dephosphorylation of cyclin B2:phospho-Cdc2 (Thr 14) by Cdc25	Complex183	Complex184	
+BiochemicalReaction161	Phosphorylation of proteins involved in G2/M transition by active Cyclin B2:Cdc2 complexes	PhysicalEntity34	PhysicalEntity35	
+BiochemicalReaction161	Phosphorylation of proteins involved in G2/M transition by active Cyclin B2:Cdc2 complexes	SmallMolecule3	PhysicalEntity35	
+BiochemicalReaction161	Phosphorylation of proteins involved in G2/M transition by active Cyclin B2:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction161	Phosphorylation of proteins involved in G2/M transition by active Cyclin B2:Cdc2 complexes	PhysicalEntity34	SmallMolecule4	
+BiochemicalReaction162	AJUBA binds centrosome-associated AURKA	Complex185	Complex187	
+BiochemicalReaction162	AJUBA binds centrosome-associated AURKA	Protein458	Complex187	
+BiochemicalReaction163	AJUBA facilitates AURKA autophosphorylation	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction163	AJUBA facilitates AURKA autophosphorylation	Complex187	SmallMolecule4	
+BiochemicalReaction163	AJUBA facilitates AURKA autophosphorylation	Complex187	Protein459	
+BiochemicalReaction163	AJUBA facilitates AURKA autophosphorylation	SmallMolecule3	Protein459	
+BiochemicalReaction163	AJUBA facilitates AURKA autophosphorylation	Complex187	Complex188	
+BiochemicalReaction163	AJUBA facilitates AURKA autophosphorylation	SmallMolecule3	Complex188	
+BiochemicalReaction164	CDK1 phosphorylates BORA	Protein461	SmallMolecule4	
+BiochemicalReaction164	CDK1 phosphorylates BORA	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction164	CDK1 phosphorylates BORA	SmallMolecule3	Protein462	
+BiochemicalReaction164	CDK1 phosphorylates BORA	Protein461	Protein462	
+BiochemicalReaction165	BORA binds PLK1 and AURKA	Protein462	Complex190	
+BiochemicalReaction165	BORA binds PLK1 and AURKA	Protein391	Complex190	
+BiochemicalReaction165	BORA binds PLK1 and AURKA	Complex188	Complex190	
+BiochemicalReaction166	AURKA phosphorylates PLK1	SmallMolecule3	Complex192	
+BiochemicalReaction166	AURKA phosphorylates PLK1	Complex190	Complex192	
+BiochemicalReaction166	AURKA phosphorylates PLK1	Complex190	SmallMolecule4	
+BiochemicalReaction166	AURKA phosphorylates PLK1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction166	AURKA phosphorylates PLK1	Complex190	Complex188	
+BiochemicalReaction166	AURKA phosphorylates PLK1	SmallMolecule3	Complex188	
+BiochemicalReaction167	PLK1 phosphorylates BORA	Complex192	SmallMolecule4	
+BiochemicalReaction167	PLK1 phosphorylates BORA	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction167	PLK1 phosphorylates BORA	SmallMolecule3	Protein464	
+BiochemicalReaction167	PLK1 phosphorylates BORA	Complex192	Protein464	
+BiochemicalReaction167	PLK1 phosphorylates BORA	SmallMolecule3	Protein463	
+BiochemicalReaction167	PLK1 phosphorylates BORA	Complex192	Protein463	
+BiochemicalReaction168	Phosphorylated BORA binds SCF-beta-TrCp1/2	Protein464	Complex196	
+BiochemicalReaction168	Phosphorylated BORA binds SCF-beta-TrCp1/2	Complex193	Complex196	
+BiochemicalReaction169	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Protein9	Complex197	
+BiochemicalReaction169	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Complex196	Complex197	
+BiochemicalReaction169	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Complex196	Complex193	
+BiochemicalReaction169	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Protein9	Complex193	
+BiochemicalReaction17	Recruitment and activation of Chk1	SmallMolecule1	Protein80	
+BiochemicalReaction17	Recruitment and activation of Chk1	Protein79	Protein80	
+BiochemicalReaction17	Recruitment and activation of Chk1	Protein79	SmallMolecule2	
+BiochemicalReaction17	Recruitment and activation of Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction170	PLK1 phosphorylates OPTN	Complex198	SmallMolecule4	
+BiochemicalReaction170	PLK1 phosphorylates OPTN	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction170	PLK1 phosphorylates OPTN	SmallMolecule3	Complex199	
+BiochemicalReaction170	PLK1 phosphorylates OPTN	Complex198	Complex199	
+BiochemicalReaction170	PLK1 phosphorylates OPTN	SmallMolecule3	Protein471	
+BiochemicalReaction170	PLK1 phosphorylates OPTN	Complex198	Protein471	
+BiochemicalReaction171	Phosphorylated OPTN translocates to the nucleus	Protein471	Protein472	
+BiochemicalReaction172	Cytosolic PLK1 translocates to the nucleus	Protein463	Protein473	
+BiochemicalReaction173	Myosin phosphatase dephosphorylates PLK1	Protein473	SmallMolecule6	
+BiochemicalReaction173	Myosin phosphatase dephosphorylates PLK1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction173	Myosin phosphatase dephosphorylates PLK1	SmallMolecule5	Protein474	
+BiochemicalReaction173	Myosin phosphatase dephosphorylates PLK1	Protein473	Protein474	
+BiochemicalReaction174	Inactivation of Wee1 kinase	Protein87	Protein478	
+BiochemicalReaction175	Activation of Cdc25C	Protein84	SmallMolecule2	
+BiochemicalReaction175	Activation of Cdc25C	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction175	Activation of Cdc25C	SmallMolecule1	Protein382	
+BiochemicalReaction175	Activation of Cdc25C	Protein84	Protein382	
+BiochemicalReaction176	Inactivation of Myt1 kinase	Protein289	Protein479	
+BiochemicalReaction177	PLK1 binds FOXM1	Protein473	Complex201	
+BiochemicalReaction177	PLK1 binds FOXM1	Protein394	Complex201	
+BiochemicalReaction178	PLK1 phosphorylates FOXM1	SmallMolecule1	Protein473	
+BiochemicalReaction178	PLK1 phosphorylates FOXM1	Complex201	Protein473	
+BiochemicalReaction178	PLK1 phosphorylates FOXM1	Complex201	SmallMolecule2	
+BiochemicalReaction178	PLK1 phosphorylates FOXM1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction178	PLK1 phosphorylates FOXM1	Complex201	Protein480	
+BiochemicalReaction178	PLK1 phosphorylates FOXM1	SmallMolecule1	Protein480	
+BiochemicalReaction179	FOXM1 binds CDC25A promoter	Protein481	Complex202	
+BiochemicalReaction179	FOXM1 binds CDC25A promoter	Dna2	Complex202	
+BiochemicalReaction179	FOXM1 binds CDC25A promoter	Protein480	Complex202	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	SmallMolecule1	Protein83	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	Protein77	Protein83	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	Protein77	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction180	FOXM1 stimulates CDC25A transcription	Dna2	Protein75	
+BiochemicalReaction181	FOXM1 binds PLK1 promoter	Protein173	Complex203	
+BiochemicalReaction181	FOXM1 binds PLK1 promoter	Complex42	Complex203	
+BiochemicalReaction181	FOXM1 binds PLK1 promoter	Protein480	Complex203	
+BiochemicalReaction181	FOXM1 binds PLK1 promoter	Dna3	Complex203	
+BiochemicalReaction182	FOXM1 stimulates PLK1 transcription	Dna3	Protein391	
+BiochemicalReaction183	FOXM1 binds CCNB1 promoter	Protein173	Complex204	
+BiochemicalReaction183	FOXM1 binds CCNB1 promoter	Complex42	Complex204	
+BiochemicalReaction183	FOXM1 binds CCNB1 promoter	Dna4	Complex204	
+BiochemicalReaction183	FOXM1 binds CCNB1 promoter	Protein480	Complex204	
+BiochemicalReaction184	FOXM1 stimulates CCNB1 transcription	Dna4	Protein90	
+BiochemicalReaction185	FOXM1 binds CCNB2 promoter	Protein173	Complex205	
+BiochemicalReaction185	FOXM1 binds CCNB2 promoter	Complex42	Complex205	
+BiochemicalReaction185	FOXM1 binds CCNB2 promoter	Protein480	Complex205	
+BiochemicalReaction185	FOXM1 binds CCNB2 promoter	Dna5	Complex205	
+BiochemicalReaction186	FOXM1 stimulates CCNB2 transcription	Dna5	Protein395	
+BiochemicalReaction187	FOXM1 binds CENPF promoter	Dna6	Complex206	
+BiochemicalReaction187	FOXM1 binds CENPF promoter	Protein480	Complex206	
+BiochemicalReaction188	FOXM1 stimulates CENPF transcription	Dna6	Protein482	
+BiochemicalReaction189	Recruitment of CDK11p58 to the centrosomes	Protein483	Complex207	
+BiochemicalReaction189	Recruitment of CDK11p58 to the centrosomes	Complex186	Complex207	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	Protein84	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	Protein85	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	Protein84	Protein85	
+BiochemicalReaction190	Recruitment of Plk1 to centrosomes	Protein391	Complex208	
+BiochemicalReaction190	Recruitment of Plk1 to centrosomes	Complex186	Complex208	
+BiochemicalReaction191	Cyclin B/Cdk1 mediate phosphorylation of NuMA	Protein486	SmallMolecule2	
+BiochemicalReaction191	Cyclin B/Cdk1 mediate phosphorylation of NuMA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction191	Cyclin B/Cdk1 mediate phosphorylation of NuMA	SmallMolecule1	Protein487	
+BiochemicalReaction191	Cyclin B/Cdk1 mediate phosphorylation of NuMA	Protein486	Protein487	
+BiochemicalReaction192	Translocation of NuMA  to the centrosomes	Complex209	Complex213	
+BiochemicalReaction192	Translocation of NuMA  to the centrosomes	Complex212	Complex213	
+BiochemicalReaction193	Association of NuMA with microtubules	Complex209	Complex214	
+BiochemicalReaction193	Association of NuMA with microtubules	Complex212	Complex214	
+BiochemicalReaction194	Recruitment of additional gamma tubulin/ gamma TuRC to the centrosome	Complex186	Complex215	
+BiochemicalReaction194	Recruitment of additional gamma tubulin/ gamma TuRC to the centrosome	Complex210	Complex215	
+BiochemicalReaction195	Loss of C-Nap-1 from centrosomes	Complex186	Protein413	
+BiochemicalReaction195	Loss of C-Nap-1 from centrosomes	Complex186	Complex216	
+BiochemicalReaction196	Plk1-mediated phosphorylation of Nlp	Complex186	SmallMolecule4	
+BiochemicalReaction196	Plk1-mediated phosphorylation of Nlp	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction196	Plk1-mediated phosphorylation of Nlp	SmallMolecule3	Complex217	
+BiochemicalReaction196	Plk1-mediated phosphorylation of Nlp	Complex186	Complex217	
+BiochemicalReaction197	Dissociation of Phospho-Nlp from the centrosome	Complex217	Complex218	
+BiochemicalReaction197	Dissociation of Phospho-Nlp from the centrosome	Complex217	Protein495	
+BiochemicalReaction198	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex219	SmallMolecule4	
+BiochemicalReaction198	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction198	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule3	Complex222	
+BiochemicalReaction198	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex219	Complex222	
+BiochemicalReaction198	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule3	Complex223	
+BiochemicalReaction198	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex219	Complex223	
+BiochemicalReaction199	GOLGA2 phosphorylated by CDK1 is unable to promote fusion of ER to Golgi transport vesicles with cis-Golgi	PhysicalEntity37	PhysicalEntity38	
+BiochemicalReaction2	Phosphorylation of MDM2 at serine-395 by ATM kinase	Protein4	Protein5	
+BiochemicalReaction20	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	Protein86	Complex11	
+BiochemicalReaction20	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	PhysicalEntity4	Complex11	
+BiochemicalReaction200	Recruitment of PLK1 to phosphorylated GORASP1 (GRASP65)	Protein391	Complex225	
+BiochemicalReaction200	Recruitment of PLK1 to phosphorylated GORASP1 (GRASP65)	Complex223	Complex225	
+BiochemicalReaction201	PLK1 phosphorylates GORASP1	Complex225	SmallMolecule4	
+BiochemicalReaction201	PLK1 phosphorylates GORASP1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction201	PLK1 phosphorylates GORASP1	SmallMolecule3	Complex226	
+BiochemicalReaction201	PLK1 phosphorylates GORASP1	Complex225	Complex226	
+BiochemicalReaction202	MAPK3-3 or MAPK1 phosphorylate GORASP2	Complex227	SmallMolecule4	
+BiochemicalReaction202	MAPK3-3 or MAPK1 phosphorylate GORASP2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction202	MAPK3-3 or MAPK1 phosphorylate GORASP2	SmallMolecule3	Complex229	
+BiochemicalReaction202	MAPK3-3 or MAPK1 phosphorylate GORASP2	Complex227	Complex229	
+BiochemicalReaction203	GORASP1 phosphorylated by PLK1 and GORASP2 phosphorylated by MAPK3-3/MAPK1 are unable to promote Golgi cisternae stacking	PhysicalEntity39	PhysicalEntity40	
+BiochemicalReaction204	CDK1 phosphorylates MASTL	SmallMolecule1	Protein516	
+BiochemicalReaction204	CDK1 phosphorylates MASTL	Protein515	Protein516	
+BiochemicalReaction204	CDK1 phosphorylates MASTL	Protein515	SmallMolecule2	
+BiochemicalReaction204	CDK1 phosphorylates MASTL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction205	MASTL (GWL) phosphorylates ARPP19	Protein517	SmallMolecule2	
+BiochemicalReaction205	MASTL (GWL) phosphorylates ARPP19	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction205	MASTL (GWL) phosphorylates ARPP19	SmallMolecule1	Protein518	
+BiochemicalReaction205	MASTL (GWL) phosphorylates ARPP19	Protein517	Protein518	
+BiochemicalReaction206	MASTL phosphorylates ENSA	Protein519	SmallMolecule2	
+BiochemicalReaction206	MASTL phosphorylates ENSA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction206	MASTL phosphorylates ENSA	SmallMolecule1	Protein520	
+BiochemicalReaction206	MASTL phosphorylates ENSA	Protein519	Protein520	
+BiochemicalReaction207	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Protein521	Complex234	
+BiochemicalReaction207	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Complex233	Complex234	
+BiochemicalReaction208	CDK1:CCNB phosphorylates NEK9	Complex235	SmallMolecule4	
+BiochemicalReaction208	CDK1:CCNB phosphorylates NEK9	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction208	CDK1:CCNB phosphorylates NEK9	SmallMolecule3	Complex236	
+BiochemicalReaction208	CDK1:CCNB phosphorylates NEK9	Complex235	Complex236	
+BiochemicalReaction209	PLK1 phosphorylates NEK9	Complex236	SmallMolecule4	
+BiochemicalReaction209	PLK1 phosphorylates NEK9	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction209	PLK1 phosphorylates NEK9	SmallMolecule3	Complex237	
+BiochemicalReaction209	PLK1 phosphorylates NEK9	Complex236	Complex237	
+BiochemicalReaction21	Retention of phospho-Cdc25C:14-3-3 complexes within the cytoplasm	Complex11	Complex11	
+BiochemicalReaction210	NEK9 binds NEK6/NEK7 in the cytosol	Protein526	Complex238	
+BiochemicalReaction210	NEK9 binds NEK6/NEK7 in the cytosol	Complex237	Complex238	
+BiochemicalReaction211	NEK9 phosphorylates NEK6/NEK7	Complex238	SmallMolecule4	
+BiochemicalReaction211	NEK9 phosphorylates NEK6/NEK7	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction211	NEK9 phosphorylates NEK6/NEK7	SmallMolecule3	Complex239	
+BiochemicalReaction211	NEK9 phosphorylates NEK6/NEK7	Complex238	Complex239	
+BiochemicalReaction212	CDK1 phosphorylates NUP98	Complex240	SmallMolecule4	
+BiochemicalReaction212	CDK1 phosphorylates NUP98	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction212	CDK1 phosphorylates NUP98	SmallMolecule3	Complex243	
+BiochemicalReaction212	CDK1 phosphorylates NUP98	Complex240	Complex243	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	Complex243	SmallMolecule4	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	Complex243	Complex244	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	SmallMolecule3	Complex244	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	Complex243	Protein566	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	SmallMolecule3	Protein566	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	Complex243	Protein569	
+BiochemicalReaction213	NEK6/NEK7 phosphorylates NUP98	SmallMolecule3	Protein569	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	Complex245	SmallMolecule2	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	Complex245	PhysicalEntity41	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	SmallMolecule1	PhysicalEntity41	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	Complex245	Complex250	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	SmallMolecule1	Complex250	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	Complex245	Complex251	
+BiochemicalReaction214	VRK1/VRK2 phosphorylate BANF1	SmallMolecule1	Complex251	
+BiochemicalReaction215	Kinetochore capture of astral microtubules	Complex252	Complex264	
+BiochemicalReaction215	Kinetochore capture of astral microtubules	PhysicalEntity36	Complex264	
+BiochemicalReaction216	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction216	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex142	SmallMolecule4	
+BiochemicalReaction216	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex142	Complex265	
+BiochemicalReaction216	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule3	Complex265	
+BiochemicalReaction217	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex265	SmallMolecule4	
+BiochemicalReaction217	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction217	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule3	Complex267	
+BiochemicalReaction217	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex265	Complex267	
+BiochemicalReaction218	Resolution of sister chromatids	Complex267	Protein664	
+BiochemicalReaction218	Resolution of sister chromatids	Complex267	Complex270	
+BiochemicalReaction218	Resolution of sister chromatids	Complex267	PhysicalEntity23	
+BiochemicalReaction219	Deacetylation of cohesin	Complex270	SmallMolecule25	
+BiochemicalReaction219	Deacetylation of cohesin	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction219	Deacetylation of cohesin	SmallMolecule24	Complex272	
+BiochemicalReaction219	Deacetylation of cohesin	Complex270	Complex272	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	Protein88	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	Protein87	Protein88	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	Protein87	SmallMolecule2	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction220	Kinetochore assembly	Complex145	Complex274	
+BiochemicalReaction220	Kinetochore assembly	Complex264	Complex274	
+BiochemicalReaction221	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex274	SmallMolecule4	
+BiochemicalReaction221	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction221	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule3	Complex277	
+BiochemicalReaction221	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex274	Complex277	
+BiochemicalReaction222	Phosphorylation of cohesin by PLK1 at centromeres	Complex277	Complex278	
+BiochemicalReaction222	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule3	Complex278	
+BiochemicalReaction222	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction222	Phosphorylation of cohesin by PLK1 at centromeres	Complex277	SmallMolecule4	
+BiochemicalReaction223	PP2A-B56 dephosphorylates centromeric cohesin	Complex278	Complex280	
+BiochemicalReaction223	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule21	Complex280	
+BiochemicalReaction223	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction223	PP2A-B56 dephosphorylates centromeric cohesin	Complex278	SmallMolecule22	
+BiochemicalReaction224	CK2 phosphorylates condensin I subunits	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction224	CK2 phosphorylates condensin I subunits	Complex282	SmallMolecule4	
+BiochemicalReaction224	CK2 phosphorylates condensin I subunits	Complex282	Complex283	
+BiochemicalReaction224	CK2 phosphorylates condensin I subunits	SmallMolecule3	Complex283	
+BiochemicalReaction225	Dephosphorylation of CK2-modified condensin I	Complex283	SmallMolecule22	
+BiochemicalReaction225	Dephosphorylation of CK2-modified condensin I	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction225	Dephosphorylation of CK2-modified condensin I	SmallMolecule21	Complex282	
+BiochemicalReaction225	Dephosphorylation of CK2-modified condensin I	Complex283	Complex282	
+BiochemicalReaction226	CDK1 phosphorylates condensin I	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction226	CDK1 phosphorylates condensin I	Complex282	SmallMolecule4	
+BiochemicalReaction226	CDK1 phosphorylates condensin I	Complex282	Complex285	
+BiochemicalReaction226	CDK1 phosphorylates condensin I	SmallMolecule3	Complex285	
+BiochemicalReaction227	Phosphorylated condensin I promotes condensation of prometaphase chromosomes	PhysicalEntity44	PhysicalEntity45	
+BiochemicalReaction228	Down Regulation of Emi1 through Phosphorylation of Emi1	Protein298	Protein697	
+BiochemicalReaction229	Association of Securin with Cdc20:APC/C complex	Protein698	Complex287	
+BiochemicalReaction229	Association of Securin with Cdc20:APC/C complex	Complex286	Complex287	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex12	SmallMolecule2	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	Complex13	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex12	Complex13	
+BiochemicalReaction230	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Protein9	Complex288	
+BiochemicalReaction230	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Complex287	Complex288	
+BiochemicalReaction231	Degradation of multiubiquitinated Securin	Complex288	Protein9	
+BiochemicalReaction231	Degradation of multiubiquitinated Securin	Complex288	Complex286	
+BiochemicalReaction232	Securin sequesters Separase	Protein700	Complex289	
+BiochemicalReaction232	Securin sequesters Separase	Protein698	Complex289	
+BiochemicalReaction233	Autocleavage of Separin	Protein700	Complex290	
+BiochemicalReaction234	ESPL1 (Separase) cleaves centromeric cohesin	Complex280	Complex291	
+BiochemicalReaction235	Separation of sister chromatids	Complex291	Complex293	
+BiochemicalReaction235	Separation of sister chromatids	Complex291	Protein664	
+BiochemicalReaction235	Separation of sister chromatids	Complex291	Complex294	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	Protein707	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	Protein707	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	Protein707	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	Protein670	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	Protein670	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	Protein670	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	SmallMolecule25	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	SmallMolecule25	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	Protein673	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	Protein673	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	Protein673	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	Complex296	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	Complex296	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	Complex296	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	Protein708	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	Protein708	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	Protein708	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Protein711	Protein709	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	Complex294	Protein709	
+BiochemicalReaction236	Deacetylation of cleaved cohesin	SmallMolecule24	Protein709	
+BiochemicalReaction237	ANKLE2 binds VRK1 or VRK2	Protein712	Complex297	
+BiochemicalReaction237	ANKLE2 binds VRK1 or VRK2	Protein715	Complex297	
+BiochemicalReaction238	PP2A dephosphorylates BANF1	Complex298	SmallMolecule22	
+BiochemicalReaction238	PP2A dephosphorylates BANF1	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction238	PP2A dephosphorylates BANF1	SmallMolecule21	Complex299	
+BiochemicalReaction238	PP2A dephosphorylates BANF1	Complex298	Complex299	
+BiochemicalReaction239	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	PhysicalEntity41	Complex245	
+BiochemicalReaction239	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Complex301	Complex245	
+BiochemicalReaction239	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Complex299	Complex245	
+BiochemicalReaction239	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Protein576	Complex245	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex14	SmallMolecule4	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule3	Complex15	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex14	Complex15	
+BiochemicalReaction240	Regulation of KIF23 (MKLP1) by phosphorylation	Protein722	Protein723	
+BiochemicalReaction241	Regulation of KIF20A (MKL2) by phosphorylation	Protein724	Protein725	
+BiochemicalReaction242	Regulation of NUDC by phosphorylation	Protein726	Protein727	
+BiochemicalReaction243	Cohesin binds PDS5 and WAPAL	Complex136	Complex135	
+BiochemicalReaction243	Cohesin binds PDS5 and WAPAL	Protein342	Complex135	
+BiochemicalReaction243	Cohesin binds PDS5 and WAPAL	Protein343	Complex135	
+BiochemicalReaction244	Cohesin binding to decondensed chromatin is facilitated by NIPBL:MAU2	PhysicalEntity41	Complex305	
+BiochemicalReaction244	Cohesin binding to decondensed chromatin is facilitated by NIPBL:MAU2	Complex304	Complex305	
+BiochemicalReaction244	Cohesin binding to decondensed chromatin is facilitated by NIPBL:MAU2	Complex135	Complex305	
+BiochemicalReaction245	Orc3 associates with Orc2 constitutively bound at origins of replication	Protein120	Complex151	
+BiochemicalReaction245	Orc3 associates with Orc2 constitutively bound at origins of replication	Complex152	Complex151	
+BiochemicalReaction246	Orc5 associates with Orc3:Orc2:origin complexes	Complex151	Complex150	
+BiochemicalReaction246	Orc5 associates with Orc3:Orc2:origin complexes	Protein123	Complex150	
+BiochemicalReaction247	Orc4 associates with Orc5:Orc3:Orc2:origin complexes	Complex150	Complex149	
+BiochemicalReaction247	Orc4 associates with Orc5:Orc3:Orc2:origin complexes	Protein124	Complex149	
+BiochemicalReaction248	Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes	Protein125	Complex308	
+BiochemicalReaction248	Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes	Complex153	Complex308	
+BiochemicalReaction249	Association of MCM8 with ORC:origin complex	Protein121	Complex30	
+BiochemicalReaction249	Association of MCM8 with ORC:origin complex	Complex308	Complex30	
+BiochemicalReaction25	Stalling of DNA replication fork and RPA binding	Complex16	Complex17	
+BiochemicalReaction25	Stalling of DNA replication fork and RPA binding	PhysicalEntity5	Complex17	
+BiochemicalReaction250	CDC6 association with ORC:origin complexes mediated by MCM8	Protein119	Complex29	
+BiochemicalReaction250	CDC6 association with ORC:origin complexes mediated by MCM8	Complex30	Complex29	
+BiochemicalReaction251	Ubiquitinated geminin is degraded by the proteasome	Complex155	Protein9	
+BiochemicalReaction252	Free CDT1 associates with CDC6:ORC:origin complexes	Protein295	Complex85	
+BiochemicalReaction252	Free CDT1 associates with CDC6:ORC:origin complexes	Complex29	Complex85	
+BiochemicalReaction253	Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)	Complex28	Complex84	
+BiochemicalReaction253	Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)	Complex85	Complex84	
+BiochemicalReaction254	Association of Cyclin A:Cdk2 with Cdh1	Complex105	Complex311	
+BiochemicalReaction254	Association of Cyclin A:Cdk2 with Cdh1	Complex309	Complex311	
+BiochemicalReaction255	Phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex311	SmallMolecule2	
+BiochemicalReaction255	Phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction255	Phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule1	Complex312	
+BiochemicalReaction255	Phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex311	Complex312	
+BiochemicalReaction256	Dissociation of phospho-Cdh1 from the APC/C complex	Complex313	Protein318	
+BiochemicalReaction256	Dissociation of phospho-Cdh1 from the APC/C complex	Complex313	Complex310	
+BiochemicalReaction257	Association of Emi1 with Cdh1	Protein298	Complex314	
+BiochemicalReaction257	Association of Emi1 with Cdh1	Protein744	Complex314	
+BiochemicalReaction258	Association of Emi1 with Cdc20	Protein745	Complex315	
+BiochemicalReaction258	Association of Emi1 with Cdc20	Protein298	Complex315	
+BiochemicalReaction259	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction259	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	Complex316	SmallMolecule2	
+BiochemicalReaction259	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	Complex316	Complex317	
+BiochemicalReaction259	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	SmallMolecule1	Complex317	
+BiochemicalReaction26	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex10	Complex18	
+BiochemicalReaction26	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex17	Complex18	
+BiochemicalReaction260	Phosphorylation of the Emi1 DSGxxS degron by Plk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction260	Phosphorylation of the Emi1 DSGxxS degron by Plk1	Complex316	SmallMolecule2	
+BiochemicalReaction260	Phosphorylation of the Emi1 DSGxxS degron by Plk1	Complex316	Complex318	
+BiochemicalReaction260	Phosphorylation of the Emi1 DSGxxS degron by Plk1	SmallMolecule1	Complex318	
+BiochemicalReaction261	Phosphorylated Emi1 binds the beta-TrCP in the SCF complex	Complex319	Complex322	
+BiochemicalReaction261	Phosphorylated Emi1 binds the beta-TrCP in the SCF complex	Complex194	Complex322	
+BiochemicalReaction262	Ubiquitination of Emi1 by SCF-beta-TrCP	Protein9	Complex323	
+BiochemicalReaction262	Ubiquitination of Emi1 by SCF-beta-TrCP	Complex322	Complex323	
+BiochemicalReaction263	SCF-mediated degradation of Emi1	Complex323	Protein9	
+BiochemicalReaction263	SCF-mediated degradation of Emi1	Complex323	Protein749	
+BiochemicalReaction263	SCF-mediated degradation of Emi1	Complex323	Complex194	
+BiochemicalReaction264	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	Protein316	SmallMolecule2	
+BiochemicalReaction264	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction264	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	SmallMolecule1	Protein318	
+BiochemicalReaction264	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	Protein316	Protein318	
+BiochemicalReaction265	Free APC/C phosphorylated by Plk1	Complex324	Complex310	
+BiochemicalReaction266	Free APC/C phosphorylated by Cyclin B:Cdc2	Complex324	Complex310	
+BiochemicalReaction267	Activation of APC/C:Cdc20 by dissociation of Cdc20:phospho-APC/C from Cdc20:phospho-APC/C:Mad2:Bub3:BubR1	Complex41	Complex325	
+BiochemicalReaction267	Activation of APC/C:Cdc20 by dissociation of Cdc20:phospho-APC/C from Cdc20:phospho-APC/C:Mad2:Bub3:BubR1	Complex41	Complex286	
+BiochemicalReaction268	Association of Cyclin B:Cdc2 with Cdc20:APC/C complex	Complex286	Complex326	
+BiochemicalReaction268	Association of Cyclin B:Cdc2 with Cdc20:APC/C complex	Complex174	Complex326	
+BiochemicalReaction269	Ubiquitination of Cyclin B by phospho-APC/C:Cdc20 complex	Protein9	Complex327	
+BiochemicalReaction269	Ubiquitination of Cyclin B by phospho-APC/C:Cdc20 complex	Complex326	Complex327	
+BiochemicalReaction27	Recruitment of Rad17-RFC complex to DNA	Complex19	Complex20	
+BiochemicalReaction27	Recruitment of Rad17-RFC complex to DNA	Complex17	Complex20	
+BiochemicalReaction270	Degradation of multiubiquitinated Cyclin B	Complex327	Protein9	
+BiochemicalReaction270	Degradation of multiubiquitinated Cyclin B	Complex327	Protein384	
+BiochemicalReaction270	Degradation of multiubiquitinated Cyclin B	Complex327	Complex286	
+BiochemicalReaction271	Dephosphorylation of phospho-Cdh1	Protein753	Protein750	
+BiochemicalReaction271	Dephosphorylation of phospho-Cdh1	SmallMolecule21	Protein750	
+BiochemicalReaction271	Dephosphorylation of phospho-Cdh1	SmallMolecule21	SmallMolecule26	
+BiochemicalReaction271	Dephosphorylation of phospho-Cdh1	Protein753	SmallMolecule26	
+BiochemicalReaction272	Dissociation of Cdc20 from APC/C complex	Complex286	Protein134	
+BiochemicalReaction272	Dissociation of Cdc20 from APC/C complex	Complex286	Complex40	
+BiochemicalReaction273	Association of Cdh1 with the APC/C	Protein750	Complex328	
+BiochemicalReaction273	Association of Cdh1 with the APC/C	Complex40	Complex328	
+BiochemicalReaction274	Association of cell cycle proteins with the APC/C:Cdh1 complex	Protein756	Complex329	
+BiochemicalReaction274	Association of cell cycle proteins with the APC/C:Cdh1 complex	Complex328	Complex329	
+BiochemicalReaction275	Ubiquitination of cell cycle proteins targeted by the APC/C:Cdh1complex	Protein9	Complex330	
+BiochemicalReaction275	Ubiquitination of cell cycle proteins targeted by the APC/C:Cdh1complex	Complex329	Complex330	
+BiochemicalReaction276	Degradation of multiubiquitinated cell cycle proteins	Complex330	Protein9	
+BiochemicalReaction276	Degradation of multiubiquitinated cell cycle proteins	Complex330	Complex328	
+BiochemicalReaction277	APC/C:Cdh1-mediated degradation of Skp2	Complex331	Protein9	
+BiochemicalReaction277	APC/C:Cdh1-mediated degradation of Skp2	Complex331	Complex328	
+BiochemicalReaction278	Multiubiquitination of APC/C-associated Cdh1	Protein224	Complex332	
+BiochemicalReaction278	Multiubiquitination of APC/C-associated Cdh1	Complex313	Complex332	
+BiochemicalReaction279	Degradation of multiubiquitinated Cdh1	Complex332	Complex310	
+BiochemicalReaction279	Degradation of multiubiquitinated Cdh1	Complex332	Protein224	
+BiochemicalReaction28	Recruitment of the 9-1-1 complex to DNA	Complex21	Complex22	
+BiochemicalReaction28	Recruitment of the 9-1-1 complex to DNA	Complex20	Complex22	
+BiochemicalReaction280	Mis18 Complex Binds the Centromere.	Complex334	Complex336	
+BiochemicalReaction280	Mis18 Complex Binds the Centromere.	Complex335	Complex336	
+BiochemicalReaction281	HJURP:CENPA Complex Localizes to the Centromere.	Complex337	Complex339	
+BiochemicalReaction281	HJURP:CENPA Complex Localizes to the Centromere.	Complex336	Complex339	
+BiochemicalReaction282	Deposition of New CENPA-containing Nucleosomes at the Centromere.	Complex339	Complex340	
+BiochemicalReaction282	Deposition of New CENPA-containing Nucleosomes at the Centromere.	Protein777	Complex340	
+BiochemicalReaction282	Deposition of New CENPA-containing Nucleosomes at the Centromere.	Protein792	Complex340	
+BiochemicalReaction283	RSF Complex Binds the Centromere.	Complex340	Complex341	
+BiochemicalReaction283	RSF Complex Binds the Centromere.	Complex343	Complex341	
+BiochemicalReaction283	RSF Complex Binds the Centromere.	Complex343	Complex335	
+BiochemicalReaction283	RSF Complex Binds the Centromere.	Complex340	Complex335	
+BiochemicalReaction283	RSF Complex Binds the Centromere.	Complex343	Complex344	
+BiochemicalReaction283	RSF Complex Binds the Centromere.	Complex340	Complex344	
+BiochemicalReaction284	Biogenesis And Assembly Of The Telomerase RNP	Rna1	Complex345	
+BiochemicalReaction284	Biogenesis And Assembly Of The Telomerase RNP	Protein804	Complex345	
+BiochemicalReaction284	Biogenesis And Assembly Of The Telomerase RNP	Protein805	Complex345	
+BiochemicalReaction285	Recruitment of Telomerase RNP to the Telomeric Chromosome End	SmallMolecule27	Complex346	
+BiochemicalReaction285	Recruitment of Telomerase RNP to the Telomeric Chromosome End	Complex345	Complex346	
+BiochemicalReaction286	Alignment Of The RNA Template On The Telomeric Chromosome End	Complex346	Complex347	
+BiochemicalReaction287	Elongation Of The Telomeric Chromosome End	SmallMolecule11	Complex348	
+BiochemicalReaction287	Elongation Of The Telomeric Chromosome End	SmallMolecule12	Complex348	
+BiochemicalReaction287	Elongation Of The Telomeric Chromosome End	Complex347	Complex348	
+BiochemicalReaction287	Elongation Of The Telomeric Chromosome End	SmallMolecule13	Complex348	
+BiochemicalReaction287	Elongation Of The Telomeric Chromosome End	SmallMolecule14	Complex348	
+BiochemicalReaction288	Translocation Of Telomerase RNP And Alignment Of RNA Template (TERC) To Extended Single Stranded Telomeric Chromosome-End	Complex348	Complex349	
+BiochemicalReaction289	Elongation of Extended Telomeric Chromosome End	SmallMolecule11	Complex350	
+BiochemicalReaction289	Elongation of Extended Telomeric Chromosome End	Complex348	Complex350	
+BiochemicalReaction289	Elongation of Extended Telomeric Chromosome End	SmallMolecule12	Complex350	
+BiochemicalReaction289	Elongation of Extended Telomeric Chromosome End	SmallMolecule13	Complex350	
+BiochemicalReaction289	Elongation of Extended Telomeric Chromosome End	SmallMolecule14	Complex350	
+BiochemicalReaction29	Loading of claspin onto DNA during replication origin firing	Complex23	Complex33	
+BiochemicalReaction29	Loading of claspin onto DNA during replication origin firing	Protein129	Complex33	
+BiochemicalReaction290	Disassociation of Telomerase RNP and the Chromosome End	Complex350	SmallMolecule29	
+BiochemicalReaction290	Disassociation of Telomerase RNP and the Chromosome End	Complex350	Complex345	
+BiochemicalReaction291	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	SmallMolecule7	Complex92	
+BiochemicalReaction291	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	Complex351	Complex92	
+BiochemicalReaction291	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	Complex351	Complex353	
+BiochemicalReaction291	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	SmallMolecule7	Complex353	
+BiochemicalReaction292	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule11	Complex354	
+BiochemicalReaction292	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	Complex353	Complex354	
+BiochemicalReaction292	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule12	Complex354	
+BiochemicalReaction292	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule13	Complex354	
+BiochemicalReaction292	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule14	Complex354	
+BiochemicalReaction293	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex354	Complex355	
+BiochemicalReaction293	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex117	Complex355	
+BiochemicalReaction293	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex117	Complex90	
+BiochemicalReaction293	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex354	Complex90	
+BiochemicalReaction294	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex119	SmallMolecule2	
+BiochemicalReaction294	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex355	SmallMolecule2	
+BiochemicalReaction294	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction294	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	SmallMolecule1	Complex356	
+BiochemicalReaction294	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex355	Complex356	
+BiochemicalReaction294	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex119	Complex356	
+BiochemicalReaction295	RFC dissociates after sliding clamp formation on the C-strand of the telomere	Complex356	Complex357	
+BiochemicalReaction295	RFC dissociates after sliding clamp formation on the C-strand of the telomere	Complex356	Complex117	
+BiochemicalReaction296	Formation of Processive Complex on the C-strand of the telomere	Complex122	Complex358	
+BiochemicalReaction296	Formation of Processive Complex on the C-strand of the telomere	Complex357	Complex358	
+BiochemicalReaction297	Formation of C-strand Okazaki fragments	Complex358	Complex359	
+BiochemicalReaction297	Formation of C-strand Okazaki fragments	SmallMolecule11	Complex359	
+BiochemicalReaction297	Formation of C-strand Okazaki fragments	SmallMolecule12	Complex359	
+BiochemicalReaction297	Formation of C-strand Okazaki fragments	SmallMolecule13	Complex359	
+BiochemicalReaction297	Formation of C-strand Okazaki fragments	SmallMolecule14	Complex359	
+BiochemicalReaction298	Formation of the Flap Intermediate on the C-strand	Complex359	Complex360	
+BiochemicalReaction299	RPA binds to the Flap on the C-strand	Complex360	Complex361	
+BiochemicalReaction299	RPA binds to the Flap on the C-strand	Complex16	Complex361	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	Protein7	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	Protein7	
+BiochemicalReaction30	Activation of claspin	SmallMolecule1	Complex34	
+BiochemicalReaction30	Activation of claspin	Complex33	Complex34	
+BiochemicalReaction30	Activation of claspin	Complex33	SmallMolecule2	
+BiochemicalReaction30	Activation of claspin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction300	Recruitment of Dna2 endonuclease to the C strand	Protein332	Complex362	
+BiochemicalReaction300	Recruitment of Dna2 endonuclease to the C strand	Complex361	Complex362	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	Protein332	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	SmallMolecule15	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	SmallMolecule16	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	SmallMolecule17	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	Complex363	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	SmallMolecule18	
+BiochemicalReaction301	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex362	Complex16	
+BiochemicalReaction302	Removal of remaining Flap from the C-strand	Complex363	Complex364	
+BiochemicalReaction303	Joining of adjacent Okazaki fragments of the C-strand	Complex364	Complex365	
+BiochemicalReaction304	Disassociation of Processive Complex and Completed Telomere End	Complex365	Complex119	
+BiochemicalReaction304	Disassociation of Processive Complex and Completed Telomere End	Complex365	Complex122	
+BiochemicalReaction304	Disassociation of Processive Complex and Completed Telomere End	Complex365	Complex366	
+BiochemicalReaction305	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Protein809	Complex369	
+BiochemicalReaction305	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Complex367	Complex369	
+BiochemicalReaction305	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Complex368	Complex369	
+BiochemicalReaction305	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Complex366	Complex369	
+BiochemicalReaction306	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Protein809	Complex370	
+BiochemicalReaction306	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Complex367	Complex370	
+BiochemicalReaction306	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Complex368	Complex370	
+BiochemicalReaction306	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Complex366	Complex370	
+BiochemicalReaction307	Formation of Axial/Lateral Elements of Synaptonemal Complex	Protein816	Complex373	
+BiochemicalReaction307	Formation of Axial/Lateral Elements of Synaptonemal Complex	Protein817	Complex373	
+BiochemicalReaction307	Formation of Axial/Lateral Elements of Synaptonemal Complex	Complex372	Complex373	
+BiochemicalReaction308	Formation of the telomere bouquet	Complex373	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Complex370	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Protein821	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Protein822	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Protein823	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Protein824	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Protein825	Complex374	
+BiochemicalReaction308	Formation of the telomere bouquet	Protein826	Complex374	
+BiochemicalReaction309	Synapsis	Complex373	Complex375	
+BiochemicalReaction309	Synapsis	Protein827	Complex375	
+BiochemicalReaction309	Synapsis	Protein828	Complex375	
+BiochemicalReaction309	Synapsis	Protein829	Complex375	
+BiochemicalReaction309	Synapsis	Protein830	Complex375	
+BiochemicalReaction309	Synapsis	Protein831	Complex375	
+BiochemicalReaction309	Synapsis	Protein832	Complex375	
+BiochemicalReaction309	Synapsis	Protein833	Complex375	
+BiochemicalReaction309	Synapsis	Protein834	Complex375	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein84	SmallMolecule2	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	Protein85	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein84	Protein85	
+BiochemicalReaction310	Recruitment of BRCA1 to Unsynapsed Regions	Protein835	Complex380	
+BiochemicalReaction310	Recruitment of BRCA1 to Unsynapsed Regions	Complex378	Complex380	
+BiochemicalReaction311	Recruitment of ATR Kinase to Unsynapsed Regions	Complex380	Complex381	
+BiochemicalReaction311	Recruitment of ATR Kinase to Unsynapsed Regions	Protein81	Complex381	
+BiochemicalReaction312	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction312	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	Complex378	SmallMolecule2	
+BiochemicalReaction312	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	Complex378	Complex382	
+BiochemicalReaction312	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	SmallMolecule1	Complex382	
+BiochemicalReaction32	Mad1 binds kinetochore	Protein131	Complex35	
+BiochemicalReaction32	Mad1 binds kinetochore	PhysicalEntity8	Complex35	
+BiochemicalReaction33	MAD2 associates with the Mad1 kinetochore complex	Protein132	Complex36	
+BiochemicalReaction33	MAD2 associates with the Mad1 kinetochore complex	Complex35	Complex36	
+BiochemicalReaction34	MAD2 converted  to an inhibitory state via interaction with Mad1	Complex36	Complex37	
+BiochemicalReaction35	Release of activated MAD2 from kinetochores	Complex37	Protein133	
+BiochemicalReaction35	Release of activated MAD2 from kinetochores	Complex37	Complex35	
+BiochemicalReaction36	Inactivation of APC/C via CDC20 sequestration	Protein133	Complex38	
+BiochemicalReaction36	Inactivation of APC/C via CDC20 sequestration	Protein134	Complex38	
+BiochemicalReaction37	Formation of the MCC complex	Protein133	Complex39	
+BiochemicalReaction37	Formation of the MCC complex	Protein135	Complex39	
+BiochemicalReaction37	Formation of the MCC complex	Protein134	Complex39	
+BiochemicalReaction37	Formation of the MCC complex	Protein136	Complex39	
+BiochemicalReaction38	Binding of the MCC complex to the APC/C complex	Complex39	Complex41	
+BiochemicalReaction38	Binding of the MCC complex to the APC/C complex	Complex40	Complex41	
+BiochemicalReaction39	Phosphorylation of LIN52 component of MuvB by DYRK1A	Complex42	SmallMolecule2	
+BiochemicalReaction39	Phosphorylation of LIN52 component of MuvB by DYRK1A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction39	Phosphorylation of LIN52 component of MuvB by DYRK1A	SmallMolecule1	Complex43	
+BiochemicalReaction39	Phosphorylation of LIN52 component of MuvB by DYRK1A	Complex42	Complex43	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Protein7	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Complex2	
+BiochemicalReaction40	p130 (RBL2) associates with MuvB to form DREAM complex	Complex44	Complex45	
+BiochemicalReaction40	p130 (RBL2) associates with MuvB to form DREAM complex	Complex43	Complex45	
+BiochemicalReaction41	Transcription of E2F targets under negative control by DREAM complex	NA	Protein165	
+BiochemicalReaction41	Transcription of E2F targets under negative control by DREAM complex	NA	Protein75	
+BiochemicalReaction41	Transcription of E2F targets under negative control by DREAM complex	NA	Protein166	
+BiochemicalReaction41	Transcription of E2F targets under negative control by DREAM complex	NA	Protein119	
+BiochemicalReaction41	Transcription of E2F targets under negative control by DREAM complex	NA	Protein167	
+BiochemicalReaction41	Transcription of E2F targets under negative control by DREAM complex	NA	Protein168	
+BiochemicalReaction42	Recruitment of HDAC1 by p107 (RBL1)	Complex46	Complex47	
+BiochemicalReaction42	Recruitment of HDAC1 by p107 (RBL1)	Protein169	Complex47	
+BiochemicalReaction43	Recruitment of HDAC1 by p130 (RBL2)	Complex44	Complex48	
+BiochemicalReaction43	Recruitment of HDAC1 by p130 (RBL2)	Protein169	Complex48	
+BiochemicalReaction44	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein170	
+BiochemicalReaction44	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein165	
+BiochemicalReaction44	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein173	
+BiochemicalReaction44	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein174	
+BiochemicalReaction45	p107 (RBL1) binds CyclinE/A:CDK2	Complex49	Complex50	
+BiochemicalReaction45	p107 (RBL1) binds CyclinE/A:CDK2	Protein167	Complex50	
+BiochemicalReaction46	p107 (RBL1) in complex with E2F4:DP1/2 binds to cyclin E/A:CDK2	Complex46	Complex51	
+BiochemicalReaction46	p107 (RBL1) in complex with E2F4:DP1/2 binds to cyclin E/A:CDK2	Complex49	Complex51	
+BiochemicalReaction47	p130 (RBL2) binds Cyclin E/A:CDK2	Complex49	Complex52	
+BiochemicalReaction47	p130 (RBL2) binds Cyclin E/A:CDK2	Protein161	Complex52	
+BiochemicalReaction48	p130 (RBL2) in complex with E2F4/5:DP1/2 binds to cyclin E/A:CDK2	Complex49	Complex53	
+BiochemicalReaction48	p130 (RBL2) in complex with E2F4/5:DP1/2 binds to cyclin E/A:CDK2	Complex44	Complex53	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	Protein175	Complex54	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	Protein178	Complex54	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	SmallMolecule3	Complex54	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	Protein181	Complex54	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	Protein181	SmallMolecule4	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	Protein178	SmallMolecule4	
+BiochemicalReaction49	Formation of Cyclin D:Cdk4/6 complexes 	Protein175	SmallMolecule4	
+BiochemicalReaction5	Translocation of COP1 from the nucleus to the cytoplasm	Protein7	Protein8	
+BiochemicalReaction50	Translocation of Cyclin D:Cdk4/6 complexes from the cytoplasm to the nucleus	Complex54	Complex56	
+BiochemicalReaction51	Phosphorylation of Cyclin D:Cdk4/6 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction51	Phosphorylation of Cyclin D:Cdk4/6 complexes	Complex56	SmallMolecule2	
+BiochemicalReaction51	Phosphorylation of Cyclin D:Cdk4/6 complexes	Complex56	Complex57	
+BiochemicalReaction51	Phosphorylation of Cyclin D:Cdk4/6 complexes	SmallMolecule1	Complex57	
+BiochemicalReaction52	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	Complex59	Complex60	
+BiochemicalReaction52	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	SmallMolecule1	Complex60	
+BiochemicalReaction52	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction52	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	Complex59	SmallMolecule2	
+BiochemicalReaction52	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	SmallMolecule1	Protein208	
+BiochemicalReaction52	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	Complex59	Protein208	
+BiochemicalReaction53	Association of INK4A with Cdk4/6	Protein185	Complex55	
+BiochemicalReaction53	Association of INK4A with Cdk4/6	Protein190	Complex55	
+BiochemicalReaction54	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	Complex46	SmallMolecule2	
+BiochemicalReaction54	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction54	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	SmallMolecule1	Complex61	
+BiochemicalReaction54	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	Complex46	Complex61	
+BiochemicalReaction54	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	SmallMolecule1	Protein209	
+BiochemicalReaction54	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	Complex46	Protein209	
+BiochemicalReaction55	Dephosphorylation of p107 by PP2A	Protein209	SmallMolecule6	
+BiochemicalReaction55	Dephosphorylation of p107 by PP2A	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction55	Dephosphorylation of p107 by PP2A	SmallMolecule5	Protein167	
+BiochemicalReaction55	Dephosphorylation of p107 by PP2A	Protein209	Protein167	
+BiochemicalReaction56	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction56	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	Complex44	SmallMolecule2	
+BiochemicalReaction56	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	Complex44	Complex63	
+BiochemicalReaction56	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	SmallMolecule1	Complex63	
+BiochemicalReaction56	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	Complex44	Protein219	
+BiochemicalReaction56	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	SmallMolecule1	Protein219	
+BiochemicalReaction57	Dephosphorylation of p107 by PP2A	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction57	Dephosphorylation of p107 by PP2A	Protein219	SmallMolecule6	
+BiochemicalReaction57	Dephosphorylation of p107 by PP2A	Protein219	Protein161	
+BiochemicalReaction57	Dephosphorylation of p107 by PP2A	SmallMolecule5	Protein161	
+BiochemicalReaction58	Phosphorylated p130 (RBL2) binds SCF(Skp2):Cks1 complex	Complex64	Complex66	
+BiochemicalReaction58	Phosphorylated p130 (RBL2) binds SCF(Skp2):Cks1 complex	Protein219	Complex66	
+BiochemicalReaction59	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Complex66	Complex64	
+BiochemicalReaction59	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Protein224	Complex64	
+BiochemicalReaction59	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Protein224	Complex67	
+BiochemicalReaction59	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Complex66	Complex67	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein9	Complex4	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein8	Complex4	
+BiochemicalReaction60	Formation of Cyclin E:Cdk2 complexes	Protein239	Complex68	
+BiochemicalReaction60	Formation of Cyclin E:Cdk2 complexes	Protein242	Complex68	
+BiochemicalReaction61	Translocation of Cyclin E:Cdk2 complex to the nucleus	Complex68	Complex7	
+BiochemicalReaction62	Translocation of p21 to the nucleus	Protein179	Protein68	
+BiochemicalReaction63	Translocation of p27 to the nucleoplasm	Protein180	Protein74	
+BiochemicalReaction64	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex69	SmallMolecule2	
+BiochemicalReaction64	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction64	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	Complex70	
+BiochemicalReaction64	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex69	Complex70	
+BiochemicalReaction65	Association of Cks1 with SCF(Skp2) complex	Protein220	Complex64	
+BiochemicalReaction65	Association of Cks1 with SCF(Skp2) complex	Complex65	Complex64	
+BiochemicalReaction66	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex64	Complex71	
+BiochemicalReaction66	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex70	Complex71	
+BiochemicalReaction67	Ubiquitination of phospho-p27/p21	Complex71	Complex72	
+BiochemicalReaction67	Ubiquitination of phospho-p27/p21	Protein224	Complex72	
+BiochemicalReaction68	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex72	Complex64	
+BiochemicalReaction68	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex72	Complex49	
+BiochemicalReaction68	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex72	Protein224	
+BiochemicalReaction69	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	Complex7	SmallMolecule2	
+BiochemicalReaction69	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction69	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	SmallMolecule1	Complex74	
+BiochemicalReaction69	Phosphorylation of Cyclin E:Cdk2 complexes by Wee-1	Complex7	Complex74	
+BiochemicalReaction7	Proteasome mediated degradation of COP1	Complex4	Protein9	
+BiochemicalReaction70	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction70	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	Complex75	SmallMolecule2	
+BiochemicalReaction70	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	Complex75	Complex76	
+BiochemicalReaction70	Phosphorylation of Cyclin E1:Cdk2 complexes by Myt1	SmallMolecule1	Complex76	
+BiochemicalReaction71	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	Complex77	SmallMolecule2	
+BiochemicalReaction71	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction71	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	SmallMolecule1	Complex78	
+BiochemicalReaction71	Phosphorylation of Cyclin E2:Cdk2 complexes by Myt1	Complex77	Complex78	
+BiochemicalReaction72	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	Complex74	Complex7	
+BiochemicalReaction72	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	SmallMolecule5	Complex7	
+BiochemicalReaction72	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction72	Dephosphorylation of Cyclin E:Cdk2 complexes by Cdc25A	Complex74	SmallMolecule6	
+BiochemicalReaction73	CAK-mediated phosphorylation of Cyclin E:Cdk2	Complex7	SmallMolecule2	
+BiochemicalReaction73	CAK-mediated phosphorylation of Cyclin E:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction73	CAK-mediated phosphorylation of Cyclin E:Cdk2	SmallMolecule1	Complex80	
+BiochemicalReaction73	CAK-mediated phosphorylation of Cyclin E:Cdk2	Complex7	Complex80	
+BiochemicalReaction74	Association of Rb with Cyclin E:Cdk2 complexes	Complex80	Complex81	
+BiochemicalReaction74	Association of Rb with Cyclin E:Cdk2 complexes	Protein207	Complex81	
+BiochemicalReaction75	Cyclin E:Cdk2-mediated phosphorylation of Rb	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction75	Cyclin E:Cdk2-mediated phosphorylation of Rb	Complex81	SmallMolecule2	
+BiochemicalReaction75	Cyclin E:Cdk2-mediated phosphorylation of Rb	Complex81	Complex82	
+BiochemicalReaction75	Cyclin E:Cdk2-mediated phosphorylation of Rb	SmallMolecule1	Complex82	
+BiochemicalReaction76	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Complex84	Complex86	
+BiochemicalReaction76	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Protein127	Complex86	
+BiochemicalReaction77	Cdt1 is displaced from the pre-replicative complex.	Complex86	Protein295	
+BiochemicalReaction77	Cdt1 is displaced from the pre-replicative complex.	Complex86	Complex26	
+BiochemicalReaction78	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex25	Complex24	
+BiochemicalReaction78	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex26	Complex24	
+BiochemicalReaction78	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex32	Complex24	
+BiochemicalReaction79	Mcm2-7 is phosphorylated by DDK	Complex28	SmallMolecule2	
+BiochemicalReaction79	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction79	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	Complex87	
+BiochemicalReaction79	Mcm2-7 is phosphorylated by DDK	Complex28	Complex87	
+BiochemicalReaction8	TP53 binds CDKN1A promoter	Dna1	Complex6	
+BiochemicalReaction8	TP53 binds CDKN1A promoter	Complex2	Complex6	
+BiochemicalReaction80	Cdc45 associates with the pre-replicative complex at the origin	Complex24	Complex23	
+BiochemicalReaction80	Cdc45 associates with the pre-replicative complex at the origin	Protein128	Complex23	
+BiochemicalReaction81	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex23	Complex89	
+BiochemicalReaction81	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex88	Complex89	
+BiochemicalReaction82	DNA polymerase alpha:primase binds at the origin	Complex90	Complex93	
+BiochemicalReaction82	DNA polymerase alpha:primase binds at the origin	Complex91	Complex93	
+BiochemicalReaction83	DNA polymerase epsilon binds at the origin	Complex92	Complex91	
+BiochemicalReaction83	DNA polymerase epsilon binds at the origin	PhysicalEntity6	Complex91	
+BiochemicalReaction84	Detection of damage during initiation of DNA synthesis in S-phase	Complex94	Complex96	
+BiochemicalReaction84	Detection of damage during initiation of DNA synthesis in S-phase	Complex94	Complex90	
+BiochemicalReaction85	PP2A mediated localization of RB1 protein in chromatin	Complex96	Complex97	
+BiochemicalReaction85	PP2A mediated localization of RB1 protein in chromatin	Protein208	Complex97	
+BiochemicalReaction86	Replication initiation regulation by Rb1/E2F1	Complex97	Complex99	
+BiochemicalReaction86	Replication initiation regulation by Rb1/E2F1	Complex83	Complex99	
+BiochemicalReaction87	Activation of Cyclin B/Cdk1 by Cdc25a (string) protein	NA	Complex100	
+BiochemicalReaction87	Activation of Cyclin B/Cdk1 by Cdc25a (string) protein	NA	Protein75	
+BiochemicalReaction88	Association of Cyclin B/Cdk1 with replicative origin inhibits pre-RC formation	Complex100	Complex101	
+BiochemicalReaction88	Association of Cyclin B/Cdk1 with replicative origin inhibits pre-RC formation	Complex30	Complex101	
+BiochemicalReaction89	Formation of Cyclin A:Cdk2 complexes	Protein309	Complex102	
+BiochemicalReaction89	Formation of Cyclin A:Cdk2 complexes	Protein242	Complex102	
+BiochemicalReaction9	Transcriptional activation of p21 by p53 after DNA damage	Dna1	Protein68	
+BiochemicalReaction90	Translocation of Cyclin A:Cdk2 complexes to the nucleus	Complex102	Complex103	
+BiochemicalReaction91	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	Complex103	SmallMolecule2	
+BiochemicalReaction91	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction91	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	SmallMolecule1	Complex104	
+BiochemicalReaction91	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	Complex103	Complex104	
+BiochemicalReaction92	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	Complex104	Complex103	
+BiochemicalReaction92	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	SmallMolecule5	Complex103	
+BiochemicalReaction92	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction92	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	Complex104	SmallMolecule6	
+BiochemicalReaction93	CAK-mediated phosphorylation of Cyclin A:Cdk2	Complex103	Complex105	
+BiochemicalReaction93	CAK-mediated phosphorylation of Cyclin A:Cdk2	SmallMolecule1	Complex105	
+BiochemicalReaction93	CAK-mediated phosphorylation of Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction93	CAK-mediated phosphorylation of Cyclin A:Cdk2	Complex103	SmallMolecule2	
+BiochemicalReaction94	Cyclin A:Cdk2 mediated phosphorylation of p27/p21	Complex106	Complex107	
+BiochemicalReaction95	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Complex103	Complex106	
+BiochemicalReaction95	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Protein73	Complex106	
+BiochemicalReaction96	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	Complex108	SmallMolecule2	
+BiochemicalReaction96	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction96	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	SmallMolecule1	Complex109	
+BiochemicalReaction96	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	Complex108	Complex109	
+BiochemicalReaction97	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	Complex93	Complex95	
+BiochemicalReaction97	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	SmallMolecule7	Complex95	
+BiochemicalReaction97	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	SmallMolecule7	Complex92	
+BiochemicalReaction97	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	Complex93	Complex92	
+BiochemicalReaction98	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	Complex95	Complex94	
+BiochemicalReaction98	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule11	Complex94	
+BiochemicalReaction98	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule12	Complex94	
+BiochemicalReaction98	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule13	Complex94	
+BiochemicalReaction98	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule14	Complex94	
+BiochemicalReaction99	Orc1 is phosphorylated by cyclin A/CDK2	Complex84	SmallMolecule2	
+BiochemicalReaction99	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction99	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Complex110	
+BiochemicalReaction99	Orc1 is phosphorylated by cyclin A/CDK2	Complex84	Complex110	
+BiochemicalReaction99	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Protein319	
+BiochemicalReaction99	Orc1 is phosphorylated by cyclin A/CDK2	Complex84	Protein319	
+TemplateReaction1	Activation of Cdc25A by c-myc	NA	Protein75	
+TemplateReaction2	Activation of E2F target genes at G1/S	NA	Protein294	
+TemplateReaction3	CDC6 protein is synthesized under the control of E2F transcription factors	NA	Protein119	

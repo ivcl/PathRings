@@ -1,0 +1,40 @@
+BiochemicalReaction1	H2O + CO2 -> H+ + HCO3-	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	H2O + CO2 -> H+ + HCO3-	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	H2O + CO2 -> H+ + HCO3-	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	H2O + CO2 -> H+ + HCO3-	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	Passive Transport of Carbon Dioxide out of the Cell by AQP1	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction11	Passive Transport of Carbon Dioxide out of the Cell by RhAG	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction12	H+ + HCO3- -> H2O + CO2	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction12	H+ + HCO3- -> H2O + CO2	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction12	H+ + HCO3- -> H2O + CO2	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction12	H+ + HCO3- -> H2O + CO2	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	Passive Transport of Carbon Dioxide into the Cell by AQP1	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction3	Passive Transport of Carbon Dioxide into the Cell by RhAG	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction4	Carbonic Anhydrase I/II Hydrates Carbon Dioxide	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	Carbonic Anhydrase I/II Hydrates Carbon Dioxide	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	Carbonic Anhydrase I/II Hydrates Carbon Dioxide	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction4	Carbonic Anhydrase I/II Hydrates Carbon Dioxide	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction5	Exchange of Cytosolic Bicarbonate for Extracellular Chloride by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule9	SmallMolecule4	
+BiochemicalReaction5	Exchange of Cytosolic Bicarbonate for Extracellular Chloride by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule11	SmallMolecule4	
+BiochemicalReaction5	Exchange of Cytosolic Bicarbonate for Extracellular Chloride by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	Exchange of Cytosolic Bicarbonate for Extracellular Chloride by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction6	Bohr Effect	SmallMolecule8	Complex10	
+BiochemicalReaction6	Bohr Effect	Complex7	Complex10	
+BiochemicalReaction6	Bohr Effect	SmallMolecule6	Complex10	
+BiochemicalReaction6	Bohr Effect	SmallMolecule6	SmallMolecule13	
+BiochemicalReaction6	Bohr Effect	Complex7	SmallMolecule13	
+BiochemicalReaction6	Bohr Effect	SmallMolecule8	SmallMolecule13	
+BiochemicalReaction7	Haldane Effect	Complex10	SmallMolecule8	
+BiochemicalReaction7	Haldane Effect	SmallMolecule13	SmallMolecule8	
+BiochemicalReaction7	Haldane Effect	SmallMolecule13	Complex7	
+BiochemicalReaction7	Haldane Effect	Complex10	Complex7	
+BiochemicalReaction7	Haldane Effect	SmallMolecule13	SmallMolecule6	
+BiochemicalReaction7	Haldane Effect	Complex10	SmallMolecule6	
+BiochemicalReaction8	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction8	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule12	SmallMolecule9	
+BiochemicalReaction8	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction8	Exchange of Cytosolic Chloride for Extracellular Bicarbonate by Band 3 Anion Exchanger (AE1, SLC4A1)	SmallMolecule4	SmallMolecule11	
+BiochemicalReaction9	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction9	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule9	SmallMolecule6	
+BiochemicalReaction9	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction9	Carbonic Anhydrase I/II Dehydrates Bicarbonate	SmallMolecule8	SmallMolecule7	

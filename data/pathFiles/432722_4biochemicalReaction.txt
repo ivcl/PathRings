@@ -1,0 +1,72 @@
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein1	Complex1	
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein2	Complex1	
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein3	Complex1	
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein4	Complex1	
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein5	Complex1	
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein6	Complex1	
+BiochemicalReaction1	Formation Of Bloc-1 Complex	Protein7	Complex1	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein8	Protein8	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein12	Protein8	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein13	Protein8	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein14	Protein8	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Complex2	Protein8	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Complex2	PhysicalEntity1	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein14	PhysicalEntity1	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein13	PhysicalEntity1	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein12	PhysicalEntity1	
+BiochemicalReaction2	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein8	PhysicalEntity1	
+BiochemicalReaction3	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein18	Complex5	
+BiochemicalReaction3	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein40	Complex5	
+BiochemicalReaction3	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Complex3	Complex5	
+BiochemicalReaction3	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein45	Complex5	
+BiochemicalReaction3	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein49	Complex5	
+BiochemicalReaction3	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Complex4	Complex5	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Protein69	SmallMolecule2	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Complex7	SmallMolecule2	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Complex5	SmallMolecule2	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Protein72	SmallMolecule2	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Protein72	Complex8	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Complex5	Complex8	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Complex7	Complex8	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Protein69	Complex8	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Protein72	Complex10	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Complex5	Complex10	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Complex7	Complex10	
+BiochemicalReaction4	trans-Golgi Network Coat Assembly	Protein69	Complex10	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	SmallMolecule2	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	SmallMolecule2	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Protein76	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein76	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Protein76	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Protein8	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein8	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Protein8	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	SmallMolecule5	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	SmallMolecule5	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Protein49	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein49	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Protein49	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Protein108	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein108	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Protein108	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Complex7	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Complex7	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Complex7	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Complex4	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Complex4	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Complex4	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex13	Complex13	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Complex13	
+BiochemicalReaction5	trans-Golgi Network Derived Vesicle Uncoating	Complex11	Complex13	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	Complex8	SmallMolecule2	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	SmallMolecule1	Protein69	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	Complex8	Protein69	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	SmallMolecule1	Complex11	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	Complex8	Complex11	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	SmallMolecule1	Protein72	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	Complex8	Protein72	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	trans-Golgi Network Vesicle Scission	Complex8	SmallMolecule3	

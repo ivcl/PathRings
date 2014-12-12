@@ -1,0 +1,7 @@
+BiochemicalReaction1	Endosome acidification	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Dissociation of insulin from insulin receptor	Complex8	Complex9	
+BiochemicalReaction2	Dissociation of insulin from insulin receptor	Complex8	Complex10	
+BiochemicalReaction3	Insulin receptor de-phosphorylation	Complex9	SmallMolecule3	
+BiochemicalReaction3	Insulin receptor de-phosphorylation	Complex9	Complex11	
+BiochemicalReaction4	Re-integration of insulin receptor into plasma membrane	Complex11	Complex12	
+Degradation1	Insulin degradation	Complex10	NA	

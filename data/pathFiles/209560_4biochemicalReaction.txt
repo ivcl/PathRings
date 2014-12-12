@@ -1,0 +1,13 @@
+BiochemicalReaction1	IKKbeta is activated	Complex1	SmallMolecule2	
+BiochemicalReaction1	IKKbeta is activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	IKKbeta is activated	SmallMolecule1	Complex5	
+BiochemicalReaction1	IKKbeta is activated	Complex1	Complex5	
+BiochemicalReaction2	IKKbeta phosphorylates IkB causing NF-kB to dissociate	Complex7	Complex8	
+BiochemicalReaction2	IKKbeta phosphorylates IkB causing NF-kB to dissociate	SmallMolecule1	Complex8	
+BiochemicalReaction2	IKKbeta phosphorylates IkB causing NF-kB to dissociate	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	IKKbeta phosphorylates IkB causing NF-kB to dissociate	Complex7	SmallMolecule2	
+BiochemicalReaction2	IKKbeta phosphorylates IkB causing NF-kB to dissociate	SmallMolecule1	Protein11	
+BiochemicalReaction2	IKKbeta phosphorylates IkB causing NF-kB to dissociate	Complex7	Protein11	
+BiochemicalReaction3	IkB is ubiquitinated and degraded	Protein12	Complex9	
+BiochemicalReaction3	IkB is ubiquitinated and degraded	Protein11	Complex9	
+BiochemicalReaction4	NF-kB migrates to the nucleus and turns on transcription	Complex8	Complex10	

@@ -1,0 +1,30 @@
+BiochemicalReaction1	Syndecan-1 binds Integrin alphaVbeta3	Complex1	Complex2	
+BiochemicalReaction1	Syndecan-1 binds Integrin alphaVbeta3	Protein3	Complex2	
+BiochemicalReaction10	Syndecan-4 binds PI(4,5)P2	SmallMolecule1	Complex15	
+BiochemicalReaction10	Syndecan-4 binds PI(4,5)P2	Protein25	Complex15	
+BiochemicalReaction11	Syndecan-4:PI(4,5)P2 binds PKC alpha:DAG	Complex16	Complex17	
+BiochemicalReaction11	Syndecan-4:PI(4,5)P2 binds PKC alpha:DAG	Complex15	Complex17	
+BiochemicalReaction12	Syndecans 1, 2 & 4 bind VTN	PhysicalEntity6	Complex18	
+BiochemicalReaction12	Syndecans 1, 2 & 4 bind VTN	Protein34	Complex18	
+BiochemicalReaction13	Syndecans 1, 2, 4, (3) bind FGF2	PhysicalEntity7	Complex19	
+BiochemicalReaction13	Syndecans 1, 2, 4, (3) bind FGF2	Protein42	Complex19	
+BiochemicalReaction14	Syndecans 2, (4) bind TGFB1	Protein43	Complex20	
+BiochemicalReaction14	Syndecans 2, (4) bind TGFB1	PhysicalEntity8	Complex20	
+BiochemicalReaction15	TNC binds Syndecan-3	Protein44	Complex21	
+BiochemicalReaction15	TNC binds Syndecan-3	Protein35	Complex21	
+BiochemicalReaction2	Syndecan-1 binds Integrin alphaVBeta5	Complex3	Complex4	
+BiochemicalReaction2	Syndecan-1 binds Integrin alphaVBeta5	Protein3	Complex4	
+BiochemicalReaction3	Syndecan-1 binds Integrins alpha2beta1, (alpha6beta4)	Complex5	Complex8	
+BiochemicalReaction3	Syndecan-1 binds Integrins alpha2beta1, (alpha6beta4)	Protein3	Complex8	
+BiochemicalReaction4	Syndecan-1 binds THBS1	Protein15	Complex9	
+BiochemicalReaction4	Syndecan-1 binds THBS1	Protein3	Complex9	
+BiochemicalReaction5	Syndecan-1 binds collagen types I, III, V	PhysicalEntity1	Complex10	
+BiochemicalReaction5	Syndecan-1 binds collagen types I, III, V	Protein3	Complex10	
+BiochemicalReaction6	Syndecan-1 binds fibronectin	PhysicalEntity5	Complex11	
+BiochemicalReaction6	Syndecan-1 binds fibronectin	Protein3	Complex11	
+BiochemicalReaction7	Syndecan-2 binds CASK	Protein16	Complex12	
+BiochemicalReaction7	Syndecan-2 binds CASK	Protein23	Complex12	
+BiochemicalReaction8	Syndecan-2 binds TRAPPC4	Protein24	Complex13	
+BiochemicalReaction8	Syndecan-2 binds TRAPPC4	Protein16	Complex13	
+BiochemicalReaction9	Syndecan-4 binds ACTN1	Protein25	Complex14	
+BiochemicalReaction9	Syndecan-4 binds ACTN1	Protein32	Complex14	

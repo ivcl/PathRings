@@ -1,0 +1,86 @@
+Complex1	LEPR:JAK2	plasma membrane	Reactome DB_ID: 2586523	Complex2	
+Complex1	LEPR:JAK2	plasma membrane	Reactome DB_ID: 2586523	Protein2	
+Complex10	LEP:p-LEPR:p-JAK2:SHP2	plasma membrane	Reactome DB_ID: 2671758	Complex7	
+Complex10	LEP:p-LEPR:p-JAK2:SHP2	plasma membrane	Reactome DB_ID: 2671758	Protein7	
+Complex11	LEP:p-LEPR:p-JAK2:p-SHP2	plasma membrane	Reactome DB_ID: 2671749	Protein8	
+Complex11	LEP:p-LEPR:p-JAK2:p-SHP2	plasma membrane	Reactome DB_ID: 2671749	Complex7	
+Complex12	LEP:p-LEPR:p-JAK2:STAT5	plasma membrane	Reactome DB_ID: 2671867	Protein9	
+Complex12	LEP:p-LEPR:p-JAK2:STAT5	plasma membrane	Reactome DB_ID: 2671867	Complex7	
+Complex13	LEP:p-LEPR:p-JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 2671835	Protein12	
+Complex13	LEP:p-LEPR:p-JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 2671835	Complex7	
+Complex14	p-STAT5 dimer	cytosol	Reactome DB_ID: 507919	Protein12	
+Complex15	p-STAT5 dimer	nucleoplasm	Reactome DB_ID: 508012	Protein15	
+Complex16	LEP:p-LEPR:p-JAK2:STAT3	plasma membrane	Reactome DB_ID: 2671864	Complex7	
+Complex16	LEP:p-LEPR:p-JAK2:STAT3	plasma membrane	Reactome DB_ID: 2671864	Protein18	
+Complex17	LEP:p-LEPR:p-JAK2:p-STAT3	plasma membrane	Reactome DB_ID: 2671874	Complex7	
+Complex17	LEP:p-LEPR:p-JAK2:p-STAT3	plasma membrane	Reactome DB_ID: 2671874	Protein19	
+Complex18	p(Y705)-STAT3 dimer	cytosol	Reactome DB_ID: 1112526	Protein19	
+Complex19	p(Y705)-STAT3 dimer	nucleoplasm	Reactome DB_ID: 1112525	Protein20	
+Complex2	LEPR dimer	plasma membrane	Reactome DB_ID: 2586530	Protein1	
+Complex20	LEP:p-LEPR:p-JAK2:SH2B1	plasma membrane	Reactome DB_ID: 2671848	Protein21	
+Complex20	LEP:p-LEPR:p-JAK2:SH2B1	plasma membrane	Reactome DB_ID: 2671848	Complex7	
+Complex21	LEP:p-LEPR:p-JAK2:SH2B1:IRS1/2	plasma membrane	Reactome DB_ID: 2671846	Complex7	
+Complex21	LEP:p-LEPR:p-JAK2:SH2B1:IRS1/2	plasma membrane	Reactome DB_ID: 2671846	Protein21	
+Complex21	LEP:p-LEPR:p-JAK2:SH2B1:IRS1/2	plasma membrane	Reactome DB_ID: 2671846	Protein22	
+Complex22	LEP:p-LEPR:p-JAK2:SH2B1:p-IRS1/2	plasma membrane	Reactome DB_ID: 2671844	Complex7	
+Complex22	LEP:p-LEPR:p-JAK2:SH2B1:p-IRS1/2	plasma membrane	Reactome DB_ID: 2671844	Protein21	
+Complex22	LEP:p-LEPR:p-JAK2:SH2B1:p-IRS1/2	plasma membrane	Reactome DB_ID: 2671844	Protein25	
+Complex23	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein28	
+Complex23	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein29	
+Complex24	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule3	
+Complex24	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein30	
+Complex25	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein29	
+Complex25	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex24	
+Complex26	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex25	
+Complex26	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein28	
+Complex27	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein28	
+Complex27	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex24	
+Complex27	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein34	
+Complex28	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein31	
+Complex28	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule3	
+Complex29	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein29	
+Complex29	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex28	
+Complex3	LEP:LEPR:JAK2	plasma membrane	Reactome DB_ID: 2586512	Complex1	
+Complex3	LEP:LEPR:JAK2	plasma membrane	Reactome DB_ID: 2586512	Protein3	
+Complex30	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Protein35	
+Complex30	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Complex27	
+Complex31	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Complex27	
+Complex31	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Protein36	
+Complex32	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Protein37	
+Complex32	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Complex27	
+Complex33	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein38	
+Complex33	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein45	
+Complex34	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein38	
+Complex34	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein46	
+Complex35	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein46	
+Complex36	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein47	
+Complex37	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein8	
+Complex37	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex38	
+Complex38	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex39	
+Complex4	LEP:LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586521	Complex5	
+Complex4	LEP:LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586521	Protein3	
+Complex40	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex41	
+Complex40	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex42	
+Complex41	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein48	
+Complex41	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein49	
+Complex42	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein53	
+Complex42	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein54	
+Complex43	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex41	
+Complex43	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex44	
+Complex44	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein53	
+Complex44	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein55	
+Complex45	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein39	
+Complex45	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein56	
+Complex46	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein39	
+Complex46	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein57	
+Complex47	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein57	
+Complex48	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein58	
+Complex5	LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586545	Complex2	
+Complex5	LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586545	Protein4	
+Complex6	LEP:p-LEPR:p-JAK2:SOCS3	plasma membrane	Reactome DB_ID: 2672301	Protein5	
+Complex6	LEP:p-LEPR:p-JAK2:SOCS3	plasma membrane	Reactome DB_ID: 2672301	Complex7	
+Complex7	LEP:p-LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586541	Complex8	
+Complex7	LEP:p-LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586541	Protein3	
+Complex8	p-LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586531	Protein4	
+Complex8	p-LEPR:p-JAK2	plasma membrane	Reactome DB_ID: 2586531	Complex9	
+Complex9	p-Y986,Y1079,Y1141-LEPR dimer	plasma membrane	Reactome DB_ID: 2586520	Protein6	

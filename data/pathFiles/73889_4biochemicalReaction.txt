@@ -1,0 +1,19 @@
+BiochemicalReaction1	Association of Ku heterodimer with ends of DNA double-strand break	Complex1	Complex2	
+BiochemicalReaction1	Association of Ku heterodimer with ends of DNA double-strand break	PhysicalEntity1	Complex2	
+BiochemicalReaction2	Association of DNA-PKcs with Ku-bound ends of DNA double-strand breaks	Protein3	Complex3	
+BiochemicalReaction2	Association of DNA-PKcs with Ku-bound ends of DNA double-strand breaks	Complex2	Complex3	
+BiochemicalReaction3	Autophosphorylation of DNA-PKcs	Protein3	SmallMolecule2	
+BiochemicalReaction3	Autophosphorylation of DNA-PKcs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Autophosphorylation of DNA-PKcs	SmallMolecule1	Protein4	
+BiochemicalReaction3	Autophosphorylation of DNA-PKcs	Protein3	Protein4	
+BiochemicalReaction4	Synapsis, or interaction between two DNA-PK:DNA complexes at opposing ends of DNA DSB 	Complex3	Complex4	
+BiochemicalReaction5	Removal of 3'-phosphoglycolate (PG)  moiety from DSB ends	Complex4	Complex5	
+BiochemicalReaction6	Removal of  3'-phosphate moiety from DSB ends	Complex4	Complex5	
+BiochemicalReaction7	Association of  the XRCC4:DNA ligase IV complex with the DNA-PK:DNA synaptic complex	Complex6	Complex7	
+BiochemicalReaction7	Association of  the XRCC4:DNA ligase IV complex with the DNA-PK:DNA synaptic complex	Complex5	Complex7	
+BiochemicalReaction8	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex7	Protein7	
+BiochemicalReaction8	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex7	Protein3	
+BiochemicalReaction8	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex7	Protein1	
+BiochemicalReaction8	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex7	PhysicalEntity4	
+BiochemicalReaction8	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex7	Protein8	
+BiochemicalReaction8	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex7	Protein2	

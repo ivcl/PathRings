@@ -1,0 +1,20 @@
+BiochemicalReaction1	Recognition of AAUAAA sequence by CPSF	Complex1	Complex3	
+BiochemicalReaction1	Recognition of AAUAAA sequence by CPSF	Complex2	Complex3	
+BiochemicalReaction2	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex3	Complex5	
+BiochemicalReaction2	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex4	Complex5	
+BiochemicalReaction3	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein9	Complex8	
+BiochemicalReaction3	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex5	Complex8	
+BiochemicalReaction3	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex6	Complex8	
+BiochemicalReaction3	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein12	Complex8	
+BiochemicalReaction3	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex7	Complex8	
+BiochemicalReaction4	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex8	Protein9	
+BiochemicalReaction4	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex8	Complex9	
+BiochemicalReaction4	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex8	Complex6	
+BiochemicalReaction4	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex8	Complex4	
+BiochemicalReaction4	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex8	Protein12	
+BiochemicalReaction4	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex8	Complex7	
+BiochemicalReaction5	Cleavage of Intronless Pre-mRNA at 3'-end	Complex8	Complex4	
+BiochemicalReaction5	Cleavage of Intronless Pre-mRNA at 3'-end	Complex8	Complex6	
+BiochemicalReaction5	Cleavage of Intronless Pre-mRNA at 3'-end	Complex8	Complex7	
+BiochemicalReaction5	Cleavage of Intronless Pre-mRNA at 3'-end	Complex8	Complex11	
+BiochemicalReaction5	Cleavage of Intronless Pre-mRNA at 3'-end	Complex8	PhysicalEntity7	

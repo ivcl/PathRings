@@ -1,0 +1,36 @@
+BiochemicalReaction1	PRLR associates with JAK2	Protein1	Complex1	
+BiochemicalReaction1	PRLR associates with JAK2	Protein2	Complex1	
+BiochemicalReaction10	PRLR binds SHP2 (PTPN11)	Complex25	Complex30	
+BiochemicalReaction10	PRLR binds SHP2 (PTPN11)	Protein24	Complex30	
+BiochemicalReaction11	SHP2 is phosphorylated	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction11	SHP2 is phosphorylated	Complex30	SmallMolecule3	
+BiochemicalReaction11	SHP2 is phosphorylated	Complex30	Complex31	
+BiochemicalReaction11	SHP2 is phosphorylated	SmallMolecule2	Complex31	
+BiochemicalReaction12	PRLR is phosphorylated at Ser-349	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction12	PRLR is phosphorylated at Ser-349	Complex10	SmallMolecule3	
+BiochemicalReaction12	PRLR is phosphorylated at Ser-349	Complex10	Complex6	
+BiochemicalReaction12	PRLR is phosphorylated at Ser-349	SmallMolecule2	Complex6	
+BiochemicalReaction13	PRLR binds SCF beta-TrCP complex	Complex6	Complex5	
+BiochemicalReaction13	PRLR binds SCF beta-TrCP complex	Complex9	Complex5	
+BiochemicalReaction14	Prolactin receptor is internalized	Complex5	Complex32	
+BiochemicalReaction14	Prolactin receptor is internalized	Complex5	Complex9	
+BiochemicalReaction2	PRLR:JAK2 dimerizes	Complex1	Complex2	
+BiochemicalReaction3	Prolactin receptor ligands bind the prolactin receptor	PhysicalEntity1	Complex4	
+BiochemicalReaction3	Prolactin receptor ligands bind the prolactin receptor	Complex2	Complex4	
+BiochemicalReaction4	PRLR activation	Complex4	Complex10	
+BiochemicalReaction5	SH2B binds JAK2	Complex10	Complex13	
+BiochemicalReaction5	SH2B binds JAK2	Protein14	Complex13	
+BiochemicalReaction6	JAK2 phosphorylation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	JAK2 phosphorylation	Complex14	SmallMolecule3	
+BiochemicalReaction6	JAK2 phosphorylation	Complex14	Complex18	
+BiochemicalReaction6	JAK2 phosphorylation	SmallMolecule2	Complex18	
+BiochemicalReaction7	Tyrosine phosphorylation of PRLR	Complex22	SmallMolecule3	
+BiochemicalReaction7	Tyrosine phosphorylation of PRLR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction7	Tyrosine phosphorylation of PRLR	SmallMolecule2	Complex25	
+BiochemicalReaction7	Tyrosine phosphorylation of PRLR	Complex22	Complex25	
+BiochemicalReaction8	PRLR binds STAT5	Protein18	Complex28	
+BiochemicalReaction8	PRLR binds STAT5	Complex25	Complex28	
+BiochemicalReaction9	PRLR-bound STAT5 is phosphorylated	Complex28	SmallMolecule3	
+BiochemicalReaction9	PRLR-bound STAT5 is phosphorylated	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction9	PRLR-bound STAT5 is phosphorylated	SmallMolecule2	Complex29	
+BiochemicalReaction9	PRLR-bound STAT5 is phosphorylated	Complex28	Complex29	

@@ -1,0 +1,38 @@
+BiochemicalReaction1	Defective STRA6 does not transport atROL	Complex1	NA	
+BiochemicalReaction10	Defective RDH12 does not reduce atRAL to atROL and causes RP53	SmallMolecule10	NA	
+BiochemicalReaction10	Defective RDH12 does not reduce atRAL to atROL and causes RP53	SmallMolecule11	NA	
+BiochemicalReaction10	Defective RDH12 does not reduce atRAL to atROL and causes RP53	SmallMolecule12	NA	
+BiochemicalReaction11	Defective RDH5 does not oxidise 11cROL to 11cRAL and causes RPA	SmallMolecule13	NA	
+BiochemicalReaction11	Defective RDH5 does not oxidise 11cROL to 11cRAL and causes RPA	Complex5	NA	
+BiochemicalReaction12	Defective RBP4 does not bind atROL	SmallMolecule15	NA	
+BiochemicalReaction12	Defective RBP4 does not bind atROL	Protein19	NA	
+BiochemicalReaction13	atRAL can spontaneously react with PE to form NRPE	SmallMolecule16	SmallMolecule6	
+BiochemicalReaction13	atRAL can spontaneously react with PE to form NRPE	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule6	SmallMolecule17	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule7	SmallMolecule17	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule8	SmallMolecule18	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule8	SmallMolecule19	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction16	A2E is phagocytosed	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction17	A2E translocates to RPE cells	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction2	Defective LRAT does not esterify atROL and PALM to RPALM	Complex3	NA	
+BiochemicalReaction2	Defective LRAT does not esterify atROL and PALM to RPALM	SmallMolecule3	NA	
+BiochemicalReaction3	Defective ABCA4 does not transport atRAL or NRPE from disc membranes	SmallMolecule4	NA	
+BiochemicalReaction3	Defective ABCA4 does not transport atRAL or NRPE from disc membranes	SmallMolecule5	NA	
+BiochemicalReaction3	Defective ABCA4 does not transport atRAL or NRPE from disc membranes	SmallMolecule8	NA	
+BiochemicalReaction4	Defective OPN1SW causes tritanopia	Complex4	NA	
+BiochemicalReaction4	Defective OPN1SW causes tritanopia	Protein12	NA	
+BiochemicalReaction5	Defective OPN1MW causes DCB and BCM	Complex4	NA	
+BiochemicalReaction5	Defective OPN1MW causes DCB and BCM	Protein15	NA	
+BiochemicalReaction6	Defective OPN1MW causes COD5	Complex4	NA	
+BiochemicalReaction6	Defective OPN1MW causes COD5	Protein15	NA	
+BiochemicalReaction7	Defective OPN1LW causes BCM	Complex4	NA	
+BiochemicalReaction7	Defective OPN1LW causes BCM	Protein17	NA	
+BiochemicalReaction8	Defective OPN1LW causes CBP	Complex4	NA	
+BiochemicalReaction8	Defective OPN1LW causes CBP	Protein17	NA	
+BiochemicalReaction9	Defective RDH12 does not reduce atRAL to atROL and causes LCA13	SmallMolecule10	NA	
+BiochemicalReaction9	Defective RDH12 does not reduce atRAL to atROL and causes LCA13	SmallMolecule11	NA	
+BiochemicalReaction9	Defective RDH12 does not reduce atRAL to atROL and causes LCA13	SmallMolecule12	NA	

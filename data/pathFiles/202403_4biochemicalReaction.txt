@@ -1,0 +1,140 @@
+BiochemicalReaction1	Interaction of Csk with PAG	Protein1	Complex1	
+BiochemicalReaction1	Interaction of Csk with PAG	Protein2	Complex1	
+BiochemicalReaction10	Recruitment of Gads to LAT	Protein55	Complex19	
+BiochemicalReaction10	Recruitment of Gads to LAT	Protein56	Complex19	
+BiochemicalReaction11	Recruitment of SLP-76 to Gads	Complex19	Complex20	
+BiochemicalReaction11	Recruitment of SLP-76 to Gads	Protein57	Complex20	
+BiochemicalReaction12	Phosphorylation of SLP-76	Complex20	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of SLP-76	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of SLP-76	SmallMolecule1	Complex21	
+BiochemicalReaction12	Phosphorylation of SLP-76	Complex20	Complex21	
+BiochemicalReaction13	Recruitment of ITK to SLP-76	Complex21	Complex22	
+BiochemicalReaction13	Recruitment of ITK to SLP-76	Protein59	Complex22	
+BiochemicalReaction14	Recruitment of PLC-gamma1 to SLP-76	Protein60	Complex23	
+BiochemicalReaction14	Recruitment of PLC-gamma1 to SLP-76	Complex21	Complex23	
+BiochemicalReaction15	Recruitment of PLC-gamma1 to LAT	Protein55	Complex24	
+BiochemicalReaction15	Recruitment of PLC-gamma1 to LAT	Protein60	Complex24	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	Complex25	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	Complex25	Complex26	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	SmallMolecule1	Complex26	
+BiochemicalReaction17	Disassociation of PLC-gamma1 from LAT	Complex27	Protein55	
+BiochemicalReaction17	Disassociation of PLC-gamma1 from LAT	Complex27	Protein61	
+BiochemicalReaction18	Disassociation of PLC-gamma1 from SLP-76	Complex28	Complex21	
+BiochemicalReaction18	Disassociation of PLC-gamma1 from SLP-76	Complex28	Protein61	
+BiochemicalReaction19	Translocation of PLC-gamma1 to PIP2	SmallMolecule5	Complex30	
+BiochemicalReaction19	Translocation of PLC-gamma1 to PIP2	Protein61	Complex30	
+BiochemicalReaction2	Inactivation of Lck by Csk	Complex2	SmallMolecule2	
+BiochemicalReaction2	Inactivation of Lck by Csk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Inactivation of Lck by Csk	SmallMolecule1	Complex9	
+BiochemicalReaction2	Inactivation of Lck by Csk	Complex2	Complex9	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction21	p-SLP-76 binds ADAP	Protein58	Complex31	
+BiochemicalReaction21	p-SLP-76 binds ADAP	Protein63	Complex31	
+BiochemicalReaction22	p-SLP-76:ADAP binds Ena/VASP	Protein64	Complex32	
+BiochemicalReaction22	p-SLP-76:ADAP binds Ena/VASP	Complex31	Complex32	
+BiochemicalReaction23	p-SLP-76 binds NCK	Protein58	Complex33	
+BiochemicalReaction23	p-SLP-76 binds NCK	Protein68	Complex33	
+BiochemicalReaction24	NCK binds PAK	Protein69	Complex34	
+BiochemicalReaction24	NCK binds PAK	Complex33	Complex34	
+BiochemicalReaction25	NCK recruits WASP	Complex33	Complex35	
+BiochemicalReaction25	NCK recruits WASP	Protein72	Complex35	
+BiochemicalReaction26	Recruitment of PI3K to plasmamembrane	Complex36	Complex37	
+BiochemicalReaction26	Recruitment of PI3K to plasmamembrane	Protein79	Complex37	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction28	Hydrolysis of PIP3 to PI(3,4)P2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction28	Hydrolysis of PIP3 to PI(3,4)P2	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction29	Hydrolysis of PIP3 to PIP2	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction29	Hydrolysis of PIP3 to PIP2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	Complex9	SmallMolecule4	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	SmallMolecule3	Complex2	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	Complex9	Complex2	
+BiochemicalReaction30	Translocation of PDK1 to Plasma membrane	Protein82	Complex39	
+BiochemicalReaction30	Translocation of PDK1 to Plasma membrane	SmallMolecule12	Complex39	
+BiochemicalReaction31	Translocation of PKC theta to plasma membrane	Protein84	Complex40	
+BiochemicalReaction31	Translocation of PKC theta to plasma membrane	SmallMolecule7	Complex40	
+BiochemicalReaction32	Change of PKC theta conformation	Complex40	SmallMolecule2	
+BiochemicalReaction32	Change of PKC theta conformation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction32	Change of PKC theta conformation	SmallMolecule1	Complex41	
+BiochemicalReaction32	Change of PKC theta conformation	Complex40	Complex41	
+BiochemicalReaction33	Phosphorylation of PKC theta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of PKC theta	Complex41	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of PKC theta	Complex41	Complex42	
+BiochemicalReaction33	Phosphorylation of PKC theta	SmallMolecule1	Complex42	
+BiochemicalReaction34	Translocation of CARMA1 to Plasma membrane	Complex39	Complex43	
+BiochemicalReaction34	Translocation of CARMA1 to Plasma membrane	Protein88	Complex43	
+BiochemicalReaction35	Phosphorylation of CARMA1	Complex43	SmallMolecule2	
+BiochemicalReaction35	Phosphorylation of CARMA1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction35	Phosphorylation of CARMA1	SmallMolecule1	Complex44	
+BiochemicalReaction35	Phosphorylation of CARMA1	Complex43	Complex44	
+BiochemicalReaction36	Oligomerization of CARMA1	Protein89	Complex45	
+BiochemicalReaction36	Oligomerization of CARMA1	Complex44	Complex45	
+BiochemicalReaction37	Interaction of Bcl10 to CARMA1	Complex45	Complex46	
+BiochemicalReaction37	Interaction of Bcl10 to CARMA1	Protein90	Complex46	
+BiochemicalReaction38	Phosphorylation of Bcl10	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction38	Phosphorylation of Bcl10	Complex46	SmallMolecule2	
+BiochemicalReaction38	Phosphorylation of Bcl10	Complex46	Complex47	
+BiochemicalReaction38	Phosphorylation of Bcl10	SmallMolecule1	Complex47	
+BiochemicalReaction39	Oligomerization of Bcl10	Complex47	Complex48	
+BiochemicalReaction39	Oligomerization of Bcl10	Protein91	Complex48	
+BiochemicalReaction4	Activation of Lck	Complex2	SmallMolecule2	
+BiochemicalReaction4	Activation of Lck	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Activation of Lck	SmallMolecule1	Complex10	
+BiochemicalReaction4	Activation of Lck	Complex2	Complex10	
+BiochemicalReaction40	Interaction and oligomerization of MALT1 to Bcl10	Complex48	Complex50	
+BiochemicalReaction40	Interaction and oligomerization of MALT1 to Bcl10	Complex49	Complex50	
+BiochemicalReaction41	Translocation of TRAF6 to CBM complex	Protein94	Complex51	
+BiochemicalReaction41	Translocation of TRAF6 to CBM complex	Complex50	Complex51	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex51	Complex52	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex52	Complex52	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	PhysicalEntity2	Complex52	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	PhysicalEntity2	Complex53	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex52	Complex53	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex51	Complex53	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex54	SmallMolecule2	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex53	SmallMolecule2	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex53	Complex55	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	SmallMolecule1	Complex55	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex54	Complex55	
+BiochemicalReaction44	Activation of IKK complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction44	Activation of IKK complex	Complex57	SmallMolecule2	
+BiochemicalReaction44	Activation of IKK complex	Complex57	Complex58	
+BiochemicalReaction44	Activation of IKK complex	SmallMolecule1	Complex58	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex58	Complex52	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex52	Complex52	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	PhysicalEntity2	Complex52	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	PhysicalEntity2	Complex59	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex52	Complex59	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex58	Complex59	
+BiochemicalReaction46	Activation of NF-kB complex	Complex60	SmallMolecule2	
+BiochemicalReaction46	Activation of NF-kB complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	Activation of NF-kB complex	SmallMolecule1	Complex61	
+BiochemicalReaction46	Activation of NF-kB complex	Complex60	Complex61	
+BiochemicalReaction46	Activation of NF-kB complex	SmallMolecule1	Protein109	
+BiochemicalReaction46	Activation of NF-kB complex	Complex60	Protein109	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	Complex10	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	SmallMolecule1	Complex11	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	Complex10	Complex11	
+BiochemicalReaction6	Recruitment of ZAP-70 to phosphorylated ITAMs	Protein51	Complex16	
+BiochemicalReaction6	Recruitment of ZAP-70 to phosphorylated ITAMs	Complex11	Complex16	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	Complex16	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	SmallMolecule1	Complex17	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	Complex16	Complex17	
+BiochemicalReaction8	Activation of ZAP-70	Complex17	SmallMolecule2	
+BiochemicalReaction8	Activation of ZAP-70	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Activation of ZAP-70	SmallMolecule1	Complex18	
+BiochemicalReaction8	Activation of ZAP-70	Complex17	Complex18	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	SmallMolecule1	Protein55	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	Protein54	Protein55	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	Protein54	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	SmallMolecule1	SmallMolecule2	

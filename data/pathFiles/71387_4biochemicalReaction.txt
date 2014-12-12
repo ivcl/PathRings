@@ -1,0 +1,662 @@
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	PhysicalEntity1	SmallMolecule2	
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	PhysicalEntity1	SmallMolecule3	
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction10	trehalose + H2O => 2 D-glucose	SmallMolecule10	SmallMolecule5	
+BiochemicalReaction10	trehalose + H2O => 2 D-glucose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction100	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule16	SmallMolecule22	
+BiochemicalReaction100	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction100	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule20	SmallMolecule91	
+BiochemicalReaction100	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule16	SmallMolecule91	
+BiochemicalReaction101	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule91	SmallMolecule92	
+BiochemicalReaction101	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule85	SmallMolecule92	
+BiochemicalReaction101	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule85	SmallMolecule82	
+BiochemicalReaction101	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule91	SmallMolecule82	
+BiochemicalReaction102	UDP-galactose <=> UDP-glucose	SmallMolecule92	SmallMolecule85	
+BiochemicalReaction103	alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction103	alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+	SmallMolecule23	SmallMolecule94	
+BiochemicalReaction103	alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+	SmallMolecule23	SmallMolecule95	
+BiochemicalReaction103	alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+	SmallMolecule93	SmallMolecule95	
+BiochemicalReaction103	alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+	SmallMolecule23	SmallMolecule41	
+BiochemicalReaction103	alpha-D-glucose 6-phosphate + NADP+ => D-glucono-1,5-lactone 6-phosphate + NADPH + H+	SmallMolecule93	SmallMolecule41	
+BiochemicalReaction104	D-glucono-1,5-lactone 6-phosphate + H2O => 6-phospho-D-gluconate	SmallMolecule94	SmallMolecule96	
+BiochemicalReaction104	D-glucono-1,5-lactone 6-phosphate + H2O => 6-phospho-D-gluconate	SmallMolecule33	SmallMolecule96	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule96	SmallMolecule95	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule93	SmallMolecule95	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule93	SmallMolecule41	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule96	SmallMolecule41	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule93	SmallMolecule76	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule96	SmallMolecule76	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule93	SmallMolecule97	
+BiochemicalReaction105	6-phospho-D-gluconate + NADP+ => D-ribulose 5-phosphate + CO2 + NADPH + H+	SmallMolecule96	SmallMolecule97	
+BiochemicalReaction106	D-ribulose 5-phosphate <=> xylulose 5-phosphate	SmallMolecule97	SmallMolecule98	
+BiochemicalReaction107	xylulose 5-phosphate <=> D-ribulose 5-phosphate	SmallMolecule98	SmallMolecule97	
+BiochemicalReaction108	ribose 5-phosphate + xylulose 5-phosphate <=> sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule98	SmallMolecule100	
+BiochemicalReaction108	ribose 5-phosphate + xylulose 5-phosphate <=> sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule99	SmallMolecule100	
+BiochemicalReaction108	ribose 5-phosphate + xylulose 5-phosphate <=> sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule99	SmallMolecule38	
+BiochemicalReaction108	ribose 5-phosphate + xylulose 5-phosphate <=> sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule98	SmallMolecule38	
+BiochemicalReaction109	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule100	SmallMolecule98	
+BiochemicalReaction109	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule38	SmallMolecule98	
+BiochemicalReaction109	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule38	SmallMolecule99	
+BiochemicalReaction109	D-glyceraldehyde 3-phosphate + sedoheptulose 7-phosphate<=> xylulose 5-phosphate+ribose 5-phosphate 	SmallMolecule100	SmallMolecule99	
+BiochemicalReaction11	Transport (influx) of fructose by GLUT5	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction110	sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate <=> D-erythrose 4-phosphate + D-fructose 6-phosphate	SmallMolecule100	SmallMolecule102	
+BiochemicalReaction110	sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate <=> D-erythrose 4-phosphate + D-fructose 6-phosphate	SmallMolecule38	SmallMolecule102	
+BiochemicalReaction110	sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate <=> D-erythrose 4-phosphate + D-fructose 6-phosphate	SmallMolecule38	SmallMolecule25	
+BiochemicalReaction110	sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate <=> D-erythrose 4-phosphate + D-fructose 6-phosphate	SmallMolecule100	SmallMolecule25	
+BiochemicalReaction111	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule102	SmallMolecule100	
+BiochemicalReaction111	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule25	SmallMolecule100	
+BiochemicalReaction111	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule25	SmallMolecule38	
+BiochemicalReaction111	D-fructose 6-phosphate + D-erythrose 4-phosphate  <=>  sedoheptulose 7-phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule102	SmallMolecule38	
+BiochemicalReaction112	xylulose 5-phosphate + D-erythrose 4-phosphate <=> D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate	SmallMolecule102	SmallMolecule38	
+BiochemicalReaction112	xylulose 5-phosphate + D-erythrose 4-phosphate <=> D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate	SmallMolecule98	SmallMolecule38	
+BiochemicalReaction112	xylulose 5-phosphate + D-erythrose 4-phosphate <=> D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate	SmallMolecule98	SmallMolecule25	
+BiochemicalReaction112	xylulose 5-phosphate + D-erythrose 4-phosphate <=> D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate	SmallMolecule102	SmallMolecule25	
+BiochemicalReaction113	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule38	SmallMolecule102	
+BiochemicalReaction113	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule25	SmallMolecule102	
+BiochemicalReaction113	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule25	SmallMolecule98	
+BiochemicalReaction113	D-glyceraldehyde 3-phosphate + D-fructose 6-phosphate   <=> xylulose 5-phosphate + D-erythrose 4-phosphate	SmallMolecule38	SmallMolecule98	
+BiochemicalReaction114	D-ribulose 5-phosphate <=> ribose 5-phosphate	SmallMolecule97	SmallMolecule99	
+BiochemicalReaction115	ribose 5-phosphate <=> D-ribulose 5-phosphate	SmallMolecule99	SmallMolecule97	
+BiochemicalReaction116	D-ribose 5-phosphate + 2'-deoxyadenosine 5'-triphosphate (dATP) => 5-Phospho-alpha-D-ribose 1-diphosphate (PRPP) + 2'-deoxyadenosine 5'-monophosphate	SmallMolecule103	SmallMolecule104	
+BiochemicalReaction116	D-ribose 5-phosphate + 2'-deoxyadenosine 5'-triphosphate (dATP) => 5-Phospho-alpha-D-ribose 1-diphosphate (PRPP) + 2'-deoxyadenosine 5'-monophosphate	SmallMolecule99	SmallMolecule104	
+BiochemicalReaction116	D-ribose 5-phosphate + 2'-deoxyadenosine 5'-triphosphate (dATP) => 5-Phospho-alpha-D-ribose 1-diphosphate (PRPP) + 2'-deoxyadenosine 5'-monophosphate	SmallMolecule99	SmallMolecule105	
+BiochemicalReaction116	D-ribose 5-phosphate + 2'-deoxyadenosine 5'-triphosphate (dATP) => 5-Phospho-alpha-D-ribose 1-diphosphate (PRPP) + 2'-deoxyadenosine 5'-monophosphate	SmallMolecule103	SmallMolecule105	
+BiochemicalReaction117	D-ribose 5-phosphate + ATP => 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + adenosine 5'-monophosphate	SmallMolecule20	SmallMolecule105	
+BiochemicalReaction117	D-ribose 5-phosphate + ATP => 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + adenosine 5'-monophosphate	SmallMolecule99	SmallMolecule105	
+BiochemicalReaction117	D-ribose 5-phosphate + ATP => 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + adenosine 5'-monophosphate	SmallMolecule99	SmallMolecule36	
+BiochemicalReaction117	D-ribose 5-phosphate + ATP => 5-phospho-alpha-D-ribose 1-diphosphate (PRPP) + adenosine 5'-monophosphate	SmallMolecule20	SmallMolecule36	
+BiochemicalReaction118	HAS1,2,3 mediate the polymerisation of HA	SmallMolecule106	PhysicalEntity4	
+BiochemicalReaction119	Growing HA is extruded from the cell by ABCC5	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction12	Transport (influx) of glucose, galactose, and sodium ions by SGLT1	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction12	Transport (influx) of glucose, galactose, and sodium ions by SGLT1	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction12	Transport (influx) of glucose, galactose, and sodium ions by SGLT1	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction12	Transport (influx) of glucose, galactose, and sodium ions by SGLT1	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction120	Receptor-mediated uptake of HA	Protein191	Complex125	
+BiochemicalReaction120	Receptor-mediated uptake of HA	PhysicalEntity5	Complex125	
+BiochemicalReaction120	Receptor-mediated uptake of HA	Protein196	Complex125	
+BiochemicalReaction121	HYAL2 interacts with NHE1 to create an acidic environment	Protein197	Complex126	
+BiochemicalReaction121	HYAL2 interacts with NHE1 to create an acidic environment	Complex125	Complex126	
+BiochemicalReaction122	Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments	Complex126	Complex126	
+BiochemicalReaction122	Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments	Complex126	PhysicalEntity6	
+BiochemicalReaction123	20kDa HA fragments are translocated to lysosomes	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction124	Hyaluronidase 1 (HYAL1) hydrolyses HA from 20kDa to 800Da fragments	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction125	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	SmallMolecule107	PhysicalEntity9	
+BiochemicalReaction125	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	PhysicalEntity8	PhysicalEntity9	
+BiochemicalReaction125	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	PhysicalEntity8	SmallMolecule108	
+BiochemicalReaction125	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	SmallMolecule107	SmallMolecule108	
+BiochemicalReaction126	HEXA,B cleave the terminal GalNAc from small HA fragments	PhysicalEntity9	SmallMolecule109	
+BiochemicalReaction126	HEXA,B cleave the terminal GalNAc from small HA fragments	SmallMolecule107	SmallMolecule109	
+BiochemicalReaction126	HEXA,B cleave the terminal GalNAc from small HA fragments	SmallMolecule107	SmallMolecule110	
+BiochemicalReaction126	HEXA,B cleave the terminal GalNAc from small HA fragments	PhysicalEntity9	SmallMolecule110	
+BiochemicalReaction127	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule109	SmallMolecule108	
+BiochemicalReaction127	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule107	SmallMolecule108	
+BiochemicalReaction127	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule107	SmallMolecule110	
+BiochemicalReaction127	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule109	SmallMolecule110	
+BiochemicalReaction128	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule108	SmallMolecule111	
+BiochemicalReaction128	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule110	SmallMolecule111	
+BiochemicalReaction128	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule110	SmallMolecule112	
+BiochemicalReaction128	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule108	SmallMolecule112	
+BiochemicalReaction129	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule113	SmallMolecule41	
+BiochemicalReaction129	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule114	SmallMolecule41	
+BiochemicalReaction129	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule114	SmallMolecule115	
+BiochemicalReaction129	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule113	SmallMolecule115	
+BiochemicalReaction13	Transport (efflux) of fructose, galactose, and glucose by GLUT2	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction130	Activation of inorganic sulfate forms APS	SmallMolecule20	SmallMolecule116	
+BiochemicalReaction130	Activation of inorganic sulfate forms APS	SmallMolecule115	SmallMolecule116	
+BiochemicalReaction130	Activation of inorganic sulfate forms APS	SmallMolecule115	SmallMolecule84	
+BiochemicalReaction130	Activation of inorganic sulfate forms APS	SmallMolecule20	SmallMolecule84	
+BiochemicalReaction131	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule116	SmallMolecule22	
+BiochemicalReaction131	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction131	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule20	SmallMolecule117	
+BiochemicalReaction131	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule116	SmallMolecule117	
+BiochemicalReaction132	SLC35B2,3 transport cytosolic PAPS to Golgi lumen	SmallMolecule117	SmallMolecule118	
+BiochemicalReaction133	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule119	SmallMolecule87	
+BiochemicalReaction133	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule121	SmallMolecule87	
+BiochemicalReaction133	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule121	SmallMolecule122	
+BiochemicalReaction133	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule119	SmallMolecule122	
+BiochemicalReaction134	B4GALTs add galactose to the N-glycan precursor	Protein215	Protein223	
+BiochemicalReaction134	B4GALTs add galactose to the N-glycan precursor	SmallMolecule125	Protein223	
+BiochemicalReaction134	B4GALTs add galactose to the N-glycan precursor	SmallMolecule125	SmallMolecule126	
+BiochemicalReaction134	B4GALTs add galactose to the N-glycan precursor	Protein215	SmallMolecule126	
+BiochemicalReaction135	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein223	Protein237	
+BiochemicalReaction135	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule123	Protein237	
+BiochemicalReaction135	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule123	SmallMolecule126	
+BiochemicalReaction135	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein223	SmallMolecule126	
+BiochemicalReaction136	B4GALTs add another galactose to the chain	Protein237	SmallMolecule126	
+BiochemicalReaction136	B4GALTs add another galactose to the chain	SmallMolecule125	SmallMolecule126	
+BiochemicalReaction136	B4GALTs add another galactose to the chain	SmallMolecule125	Protein251	
+BiochemicalReaction136	B4GALTs add another galactose to the chain	Protein237	Protein251	
+BiochemicalReaction137	B4GALTs can add galactose to a branch of keratan	SmallMolecule125	Protein259	
+BiochemicalReaction137	B4GALTs can add galactose to a branch of keratan	Protein251	Protein259	
+BiochemicalReaction137	B4GALTs can add galactose to a branch of keratan	Protein251	SmallMolecule126	
+BiochemicalReaction137	B4GALTs can add galactose to a branch of keratan	SmallMolecule125	SmallMolecule126	
+BiochemicalReaction138	The keratan chain can be capped by N-acetylneuraminic acid	Protein259	Protein267	
+BiochemicalReaction138	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule127	Protein267	
+BiochemicalReaction138	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule127	SmallMolecule128	
+BiochemicalReaction138	The keratan chain can be capped by N-acetylneuraminic acid	Protein259	SmallMolecule128	
+BiochemicalReaction139	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein267	Protein281	
+BiochemicalReaction139	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule118	Protein281	
+BiochemicalReaction139	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction139	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein267	SmallMolecule129	
+BiochemicalReaction14	alpha-D-glucose (extracellular) <=> alpha-D-glucose (cytosol)	SmallMolecule5	SmallMolecule17	
+BiochemicalReaction140	Further sulfation on galactose residues produces KSPG	Protein281	Protein293	
+BiochemicalReaction140	Further sulfation on galactose residues produces KSPG	SmallMolecule118	Protein293	
+BiochemicalReaction140	Further sulfation on galactose residues produces KSPG	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction140	Further sulfation on galactose residues produces KSPG	Protein281	SmallMolecule129	
+BiochemicalReaction141	KSPG is secreted from the cell	Protein293	Protein302	
+BiochemicalReaction142	Extracellular KSPG translocates to the lysosome for degradation	Protein302	Protein310	
+BiochemicalReaction143	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	Protein310	SmallMolecule130	
+BiochemicalReaction143	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	SmallMolecule107	SmallMolecule130	
+BiochemicalReaction143	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	SmallMolecule107	Protein318	
+BiochemicalReaction143	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	Protein310	Protein318	
+BiochemicalReaction144	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule130	SmallMolecule131	
+BiochemicalReaction144	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction144	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule107	SmallMolecule132	
+BiochemicalReaction144	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule130	SmallMolecule132	
+BiochemicalReaction145	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule107	SmallMolecule133	
+BiochemicalReaction145	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule132	SmallMolecule133	
+BiochemicalReaction145	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule132	SmallMolecule134	
+BiochemicalReaction145	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule107	SmallMolecule134	
+BiochemicalReaction146	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule134	SmallMolecule131	
+BiochemicalReaction146	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction146	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule107	SmallMolecule135	
+BiochemicalReaction146	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule134	SmallMolecule135	
+BiochemicalReaction147	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule107	SmallMolecule136	
+BiochemicalReaction147	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule135	SmallMolecule136	
+BiochemicalReaction147	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule135	SmallMolecule137	
+BiochemicalReaction147	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule107	SmallMolecule137	
+BiochemicalReaction148	GXYLTs transfer Xyl to core protein	SmallMolecule138	Protein350	
+BiochemicalReaction148	GXYLTs transfer Xyl to core protein	Protein330	Protein350	
+BiochemicalReaction148	GXYLTs transfer Xyl to core protein	Protein330	SmallMolecule126	
+BiochemicalReaction148	GXYLTs transfer Xyl to core protein	SmallMolecule138	SmallMolecule126	
+BiochemicalReaction149	B4GALT7 transfers Gal group to tetrasaccharide linker	Protein350	Protein373	
+BiochemicalReaction149	B4GALT7 transfers Gal group to tetrasaccharide linker	SmallMolecule125	Protein373	
+BiochemicalReaction149	B4GALT7 transfers Gal group to tetrasaccharide linker	SmallMolecule125	SmallMolecule126	
+BiochemicalReaction149	B4GALT7 transfers Gal group to tetrasaccharide linker	Protein350	SmallMolecule126	
+BiochemicalReaction15	Glucose is secreted across the plasma membrane	SmallMolecule17	SmallMolecule5	
+BiochemicalReaction150	B3GALT6 transfers Gal to the tetrasaccharide linker	Protein373	Protein394	
+BiochemicalReaction150	B3GALT6 transfers Gal to the tetrasaccharide linker	SmallMolecule125	Protein394	
+BiochemicalReaction150	B3GALT6 transfers Gal to the tetrasaccharide linker	SmallMolecule125	SmallMolecule126	
+BiochemicalReaction150	B3GALT6 transfers Gal to the tetrasaccharide linker	Protein373	SmallMolecule126	
+BiochemicalReaction151	B3GATs transfer GlcA to tetrasaccharide linker	Protein394	Protein415	
+BiochemicalReaction151	B3GATs transfer GlcA to tetrasaccharide linker	SmallMolecule139	Protein415	
+BiochemicalReaction151	B3GATs transfer GlcA to tetrasaccharide linker	SmallMolecule139	SmallMolecule126	
+BiochemicalReaction151	B3GATs transfer GlcA to tetrasaccharide linker	Protein394	SmallMolecule126	
+BiochemicalReaction152	The addition of GlcNAc to the terminal glucuronate residue creates heparan	Protein438	SmallMolecule126	
+BiochemicalReaction152	The addition of GlcNAc to the terminal glucuronate residue creates heparan	SmallMolecule123	SmallMolecule126	
+BiochemicalReaction152	The addition of GlcNAc to the terminal glucuronate residue creates heparan	SmallMolecule123	Protein439	
+BiochemicalReaction152	The addition of GlcNAc to the terminal glucuronate residue creates heparan	Protein438	Protein439	
+BiochemicalReaction153	Glucuronate is added to the heparan chain	SmallMolecule139	Protein454	
+BiochemicalReaction153	Glucuronate is added to the heparan chain	Protein439	Protein454	
+BiochemicalReaction153	Glucuronate is added to the heparan chain	Protein439	SmallMolecule126	
+BiochemicalReaction153	Glucuronate is added to the heparan chain	SmallMolecule139	SmallMolecule126	
+BiochemicalReaction154	Another GlcNAc addition extends the heparan chain	Protein454	Protein467	
+BiochemicalReaction154	Another GlcNAc addition extends the heparan chain	SmallMolecule123	Protein467	
+BiochemicalReaction154	Another GlcNAc addition extends the heparan chain	SmallMolecule123	SmallMolecule126	
+BiochemicalReaction154	Another GlcNAc addition extends the heparan chain	Protein454	SmallMolecule126	
+BiochemicalReaction155	Another GlcA addition extends the heparan chain	SmallMolecule139	Protein480	
+BiochemicalReaction155	Another GlcA addition extends the heparan chain	Protein467	Protein480	
+BiochemicalReaction155	Another GlcA addition extends the heparan chain	Protein467	SmallMolecule126	
+BiochemicalReaction155	Another GlcA addition extends the heparan chain	SmallMolecule139	SmallMolecule126	
+BiochemicalReaction156	NDST1-4 N-deacetylates GlcNAc residues in heparan	Protein480	SmallMolecule142	
+BiochemicalReaction156	NDST1-4 N-deacetylates GlcNAc residues in heparan	SmallMolecule141	SmallMolecule142	
+BiochemicalReaction156	NDST1-4 N-deacetylates GlcNAc residues in heparan	SmallMolecule141	Protein493	
+BiochemicalReaction156	NDST1-4 N-deacetylates GlcNAc residues in heparan	Protein480	Protein493	
+BiochemicalReaction157	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	Protein493	Protein511	
+BiochemicalReaction157	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	SmallMolecule118	Protein511	
+BiochemicalReaction157	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction157	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	Protein493	SmallMolecule129	
+BiochemicalReaction158	GLCE epimerises GlcA to IdoA	Protein511	Protein524	
+BiochemicalReaction159	HS2ST1 sulfates IdoA at C2 in heparan sulfate	Protein524	SmallMolecule129	
+BiochemicalReaction159	HS2ST1 sulfates IdoA at C2 in heparan sulfate	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction159	HS2ST1 sulfates IdoA at C2 in heparan sulfate	SmallMolecule118	Protein538	
+BiochemicalReaction159	HS2ST1 sulfates IdoA at C2 in heparan sulfate	Protein524	Protein538	
+BiochemicalReaction16	GLUT1 + ATP <=> GLUT1:ATP	SmallMolecule20	Complex10	
+BiochemicalReaction16	GLUT1 + ATP <=> GLUT1:ATP	Complex7	Complex10	
+BiochemicalReaction160	HS3STs sulfate GlcN at C3 in heparan sulfate	SmallMolecule118	Protein552	
+BiochemicalReaction160	HS3STs sulfate GlcN at C3 in heparan sulfate	Protein538	Protein552	
+BiochemicalReaction160	HS3STs sulfate GlcN at C3 in heparan sulfate	Protein538	SmallMolecule129	
+BiochemicalReaction160	HS3STs sulfate GlcN at C3 in heparan sulfate	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction161	HS3ST1 sulfates GlcN at C3 in heparan sulfate	SmallMolecule118	Protein552	
+BiochemicalReaction161	HS3ST1 sulfates GlcN at C3 in heparan sulfate	Protein538	Protein552	
+BiochemicalReaction161	HS3ST1 sulfates GlcN at C3 in heparan sulfate	Protein538	SmallMolecule129	
+BiochemicalReaction161	HS3ST1 sulfates GlcN at C3 in heparan sulfate	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction162	GLCE epimerises more GlcA to IdoA as sulfate content rises	Protein552	Protein575	
+BiochemicalReaction163	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	Protein575	SmallMolecule129	
+BiochemicalReaction163	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction163	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	SmallMolecule118	Protein588	
+BiochemicalReaction163	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	Protein575	Protein588	
+BiochemicalReaction164	Some HSPGs are secreted to the plasma membrane	PhysicalEntity12	PhysicalEntity13	
+BiochemicalReaction165	HS-GAGs translocate to the lysosome for degradation	Protein670	Protein683	
+BiochemicalReaction166	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	SmallMolecule107	SmallMolecule143	
+BiochemicalReaction166	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	Protein683	SmallMolecule143	
+BiochemicalReaction166	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	Protein683	Protein696	
+BiochemicalReaction166	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	SmallMolecule107	Protein696	
+BiochemicalReaction167	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	Protein670	SmallMolecule144	
+BiochemicalReaction167	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	SmallMolecule1	SmallMolecule144	
+BiochemicalReaction167	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	SmallMolecule1	Protein711	
+BiochemicalReaction167	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	Protein670	Protein711	
+BiochemicalReaction168	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule143	SmallMolecule145	
+BiochemicalReaction168	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule107	SmallMolecule145	
+BiochemicalReaction168	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule107	SmallMolecule146	
+BiochemicalReaction168	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule143	SmallMolecule146	
+BiochemicalReaction169	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule145	SmallMolecule131	
+BiochemicalReaction169	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction169	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule107	SmallMolecule147	
+BiochemicalReaction169	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule145	SmallMolecule147	
+BiochemicalReaction17	GLUT1:ATP <=> GLUT1 + ATP	Complex10	SmallMolecule20	
+BiochemicalReaction17	GLUT1:ATP <=> GLUT1 + ATP	Complex10	Complex7	
+BiochemicalReaction170	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule147	SmallMolecule148	
+BiochemicalReaction170	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule51	SmallMolecule148	
+BiochemicalReaction170	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule51	SmallMolecule149	
+BiochemicalReaction170	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule147	SmallMolecule149	
+BiochemicalReaction171	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule148	SmallMolecule150	
+BiochemicalReaction171	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule107	SmallMolecule150	
+BiochemicalReaction171	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule107	SmallMolecule110	
+BiochemicalReaction171	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule148	SmallMolecule110	
+BiochemicalReaction172	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction172	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule150	SmallMolecule131	
+BiochemicalReaction172	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule150	SmallMolecule151	
+BiochemicalReaction172	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule107	SmallMolecule151	
+BiochemicalReaction173	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule107	SmallMolecule153	
+BiochemicalReaction173	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule151	SmallMolecule153	
+BiochemicalReaction173	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule151	SmallMolecule146	
+BiochemicalReaction173	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule107	SmallMolecule146	
+BiochemicalReaction174	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule153	SmallMolecule131	
+BiochemicalReaction174	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction174	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule107	SmallMolecule154	
+BiochemicalReaction174	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule153	SmallMolecule154	
+BiochemicalReaction175	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule154	SmallMolecule149	
+BiochemicalReaction175	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule51	SmallMolecule149	
+BiochemicalReaction175	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule51	SmallMolecule155	
+BiochemicalReaction175	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule154	SmallMolecule155	
+BiochemicalReaction176	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule107	SmallMolecule156	
+BiochemicalReaction176	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule155	SmallMolecule156	
+BiochemicalReaction176	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule155	SmallMolecule110	
+BiochemicalReaction176	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule107	SmallMolecule110	
+BiochemicalReaction177	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule156	SmallMolecule108	
+BiochemicalReaction177	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule107	SmallMolecule108	
+BiochemicalReaction177	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule107	SmallMolecule157	
+BiochemicalReaction177	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule156	SmallMolecule157	
+BiochemicalReaction178	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule107	SmallMolecule133	
+BiochemicalReaction178	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule157	SmallMolecule133	
+BiochemicalReaction178	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule157	SmallMolecule159	
+BiochemicalReaction178	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule107	SmallMolecule159	
+BiochemicalReaction179	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule160	Protein731	
+BiochemicalReaction179	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein730	Protein731	
+BiochemicalReaction179	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein730	SmallMolecule126	
+BiochemicalReaction179	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule160	SmallMolecule126	
+BiochemicalReaction18	alpha-D-Glucose + ATP => alpha-D-glucose 6-phosphate + ADP	SmallMolecule17	SmallMolecule22	
+BiochemicalReaction18	alpha-D-Glucose + ATP => alpha-D-glucose 6-phosphate + ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction18	alpha-D-Glucose + ATP => alpha-D-glucose 6-phosphate + ADP	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction18	alpha-D-Glucose + ATP => alpha-D-glucose 6-phosphate + ADP	SmallMolecule17	SmallMolecule23	
+BiochemicalReaction180	A glucuronate moiety is added to chondroitin	SmallMolecule139	Protein742	
+BiochemicalReaction180	A glucuronate moiety is added to chondroitin	Protein731	Protein742	
+BiochemicalReaction180	A glucuronate moiety is added to chondroitin	Protein731	SmallMolecule126	
+BiochemicalReaction180	A glucuronate moiety is added to chondroitin	SmallMolecule139	SmallMolecule126	
+BiochemicalReaction181	GalNAc is added to chondroitin	Protein742	Protein755	
+BiochemicalReaction181	GalNAc is added to chondroitin	SmallMolecule160	Protein755	
+BiochemicalReaction181	GalNAc is added to chondroitin	SmallMolecule160	SmallMolecule126	
+BiochemicalReaction181	GalNAc is added to chondroitin	Protein742	SmallMolecule126	
+BiochemicalReaction182	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein755	Protein764	
+BiochemicalReaction182	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule118	Protein764	
+BiochemicalReaction182	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction182	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein755	SmallMolecule129	
+BiochemicalReaction183	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein764	Protein777	
+BiochemicalReaction183	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule118	Protein777	
+BiochemicalReaction183	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction183	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein764	SmallMolecule129	
+BiochemicalReaction184	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein755	Protein786	
+BiochemicalReaction184	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule118	Protein786	
+BiochemicalReaction184	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction184	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein755	SmallMolecule129	
+BiochemicalReaction185	CSPG is secreted	PhysicalEntity15	PhysicalEntity16	
+BiochemicalReaction186	Dermatan-sulfate epimerase (DSE) converts chondroitin sulfate (CS) to dermatan sulfate (DS)	Protein764	Protein821	
+BiochemicalReaction187	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein821	Protein832	
+BiochemicalReaction187	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule118	Protein832	
+BiochemicalReaction187	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction187	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein821	SmallMolecule129	
+BiochemicalReaction188	CHST14 transfers SO4(2-) to DS	Protein832	SmallMolecule129	
+BiochemicalReaction188	CHST14 transfers SO4(2-) to DS	SmallMolecule118	SmallMolecule129	
+BiochemicalReaction188	CHST14 transfers SO4(2-) to DS	SmallMolecule118	Protein841	
+BiochemicalReaction188	CHST14 transfers SO4(2-) to DS	Protein832	Protein841	
+BiochemicalReaction189	DSPGs are secreted	PhysicalEntity17	PhysicalEntity18	
+BiochemicalReaction19	glucokinase (GCK1) + glucokinase regulatory protein (GKRP) <=> GCK1:GKRP complex	Protein23	Complex11	
+BiochemicalReaction19	glucokinase (GCK1) + glucokinase regulatory protein (GKRP) <=> GCK1:GKRP complex	Protein27	Complex11	
+BiochemicalReaction190	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity18	PhysicalEntity19	
+BiochemicalReaction190	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity16	PhysicalEntity19	
+BiochemicalReaction190	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity16	PhysicalEntity20	
+BiochemicalReaction190	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity18	PhysicalEntity20	
+BiochemicalReaction191	DS is cleaved from its proteoglycan	Protein906	SmallMolecule161	
+BiochemicalReaction191	DS is cleaved from its proteoglycan	SmallMolecule107	SmallMolecule161	
+BiochemicalReaction191	DS is cleaved from its proteoglycan	SmallMolecule107	Protein922	
+BiochemicalReaction191	DS is cleaved from its proteoglycan	Protein906	Protein922	
+BiochemicalReaction192	CS is cleaved from its proteoglycan	PhysicalEntity19	SmallMolecule162	
+BiochemicalReaction192	CS is cleaved from its proteoglycan	SmallMolecule107	SmallMolecule162	
+BiochemicalReaction192	CS is cleaved from its proteoglycan	SmallMolecule107	Protein922	
+BiochemicalReaction192	CS is cleaved from its proteoglycan	PhysicalEntity19	Protein922	
+BiochemicalReaction193	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule161	SmallMolecule131	
+BiochemicalReaction193	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction193	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule107	SmallMolecule165	
+BiochemicalReaction193	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule161	SmallMolecule165	
+BiochemicalReaction194	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule165	SmallMolecule131	
+BiochemicalReaction194	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction194	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule107	SmallMolecule166	
+BiochemicalReaction194	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule165	SmallMolecule166	
+BiochemicalReaction195	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule107	SmallMolecule167	
+BiochemicalReaction195	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule166	SmallMolecule167	
+BiochemicalReaction195	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule166	SmallMolecule137	
+BiochemicalReaction195	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule107	SmallMolecule137	
+BiochemicalReaction196	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule107	SmallMolecule168	
+BiochemicalReaction196	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule167	SmallMolecule168	
+BiochemicalReaction196	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule167	SmallMolecule146	
+BiochemicalReaction196	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule107	SmallMolecule146	
+BiochemicalReaction197	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule162	SmallMolecule131	
+BiochemicalReaction197	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule107	SmallMolecule131	
+BiochemicalReaction197	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule107	SmallMolecule169	
+BiochemicalReaction197	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule162	SmallMolecule169	
+BiochemicalReaction198	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule107	SmallMolecule156	
+BiochemicalReaction198	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule170	SmallMolecule156	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	PhysicalEntity2	SmallMolecule4	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	PhysicalEntity2	SmallMolecule2	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	PhysicalEntity2	SmallMolecule3	
+BiochemicalReaction20	cytosolic GCK1:GKRP complex <=> glucokinase (GCK1) + glucokinase regulatory protein (GKRP)	Complex11	Protein23	
+BiochemicalReaction20	cytosolic GCK1:GKRP complex <=> glucokinase (GCK1) + glucokinase regulatory protein (GKRP)	Complex11	Protein27	
+BiochemicalReaction21	GCK1:GKRP [cytosol] => GCK1:GKRP [nucleoplasm]	Complex11	Complex12	
+BiochemicalReaction22	Dissociation of the nucleoplasmic GCK1:GKRP complex	Complex12	Protein28	
+BiochemicalReaction22	Dissociation of the nucleoplasmic GCK1:GKRP complex	Complex12	Protein29	
+BiochemicalReaction23	glucokinase [nucleoplasm] => glucokinase [cytosol]	Protein28	Protein23	
+BiochemicalReaction24	Cytosolic glucose 6-phosphate is exchanged for orthophosphate from the endoplasmic reticulum lumen by SLC37A4	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction24	Cytosolic glucose 6-phosphate is exchanged for orthophosphate from the endoplasmic reticulum lumen by SLC37A4	SmallMolecule23	SmallMolecule29	
+BiochemicalReaction24	Cytosolic glucose 6-phosphate is exchanged for orthophosphate from the endoplasmic reticulum lumen by SLC37A4	SmallMolecule23	SmallMolecule30	
+BiochemicalReaction24	Cytosolic glucose 6-phosphate is exchanged for orthophosphate from the endoplasmic reticulum lumen by SLC37A4	SmallMolecule28	SmallMolecule30	
+BiochemicalReaction25	G6PC hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (liver)	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction25	G6PC hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (liver)	SmallMolecule30	SmallMolecule32	
+BiochemicalReaction25	G6PC hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (liver)	SmallMolecule30	SmallMolecule28	
+BiochemicalReaction25	G6PC hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (liver)	SmallMolecule31	SmallMolecule28	
+BiochemicalReaction26	G6PC2 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (islet)	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction26	G6PC2 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (islet)	SmallMolecule30	SmallMolecule32	
+BiochemicalReaction26	G6PC2 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (islet)	SmallMolecule30	SmallMolecule28	
+BiochemicalReaction26	G6PC2 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (islet)	SmallMolecule31	SmallMolecule28	
+BiochemicalReaction27	G6PC3 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (ubiquitous)	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction27	G6PC3 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (ubiquitous)	SmallMolecule30	SmallMolecule32	
+BiochemicalReaction27	G6PC3 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (ubiquitous)	SmallMolecule30	SmallMolecule28	
+BiochemicalReaction27	G6PC3 hydrolyzes glucose 6-phosphate to form glucose and orthophosphate (ubiquitous)	SmallMolecule31	SmallMolecule28	
+BiochemicalReaction28	Efflux of glucose from the endoplasmic reticulum	SmallMolecule32	SmallMolecule5	
+BiochemicalReaction29	alpha-D-glucose 6-phosphate <=> D-fructose 6-phosphate	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction30	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex17	SmallMolecule29	
+BiochemicalReaction30	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule33	SmallMolecule29	
+BiochemicalReaction30	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule33	Complex18	
+BiochemicalReaction30	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex17	Complex18	
+BiochemicalReaction31	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction31	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule25	SmallMolecule22	
+BiochemicalReaction31	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule25	SmallMolecule34	
+BiochemicalReaction31	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule20	SmallMolecule34	
+BiochemicalReaction32	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction32	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule25	SmallMolecule22	
+BiochemicalReaction32	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule25	SmallMolecule35	
+BiochemicalReaction32	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule20	SmallMolecule35	
+BiochemicalReaction33	D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule35	SmallMolecule38	
+BiochemicalReaction33	D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule35	SmallMolecule39	
+BiochemicalReaction34	dihydroxyacetone phosphate <=> D-glyceraldehyde 3-phosphate	SmallMolecule39	SmallMolecule38	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule29	SmallMolecule41	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule38	SmallMolecule41	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule40	SmallMolecule41	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule40	SmallMolecule42	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule38	SmallMolecule42	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule29	SmallMolecule42	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule40	SmallMolecule43	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule38	SmallMolecule43	
+BiochemicalReaction35	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule29	SmallMolecule43	
+BiochemicalReaction36	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule22	SmallMolecule44	
+BiochemicalReaction36	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule42	SmallMolecule44	
+BiochemicalReaction36	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule42	SmallMolecule20	
+BiochemicalReaction36	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule22	SmallMolecule20	
+BiochemicalReaction37	3-Phospho-D-glycerate <=> 2-Phospho-D-glycerate	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction38	2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction38	2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O	SmallMolecule46	SmallMolecule33	
+BiochemicalReaction39	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule22	SmallMolecule48	
+BiochemicalReaction39	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule47	SmallMolecule48	
+BiochemicalReaction39	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule47	SmallMolecule20	
+BiochemicalReaction39	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule22	SmallMolecule20	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule53	SmallMolecule56	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule54	SmallMolecule56	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule55	SmallMolecule57	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule54	SmallMolecule57	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule53	SmallMolecule57	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule55	SmallMolecule58	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule54	SmallMolecule58	
+BiochemicalReaction40	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule53	SmallMolecule58	
+BiochemicalReaction41	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule57	SmallMolecule64	
+BiochemicalReaction41	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule62	SmallMolecule64	
+BiochemicalReaction41	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule63	SmallMolecule64	
+BiochemicalReaction41	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule63	SmallMolecule65	
+BiochemicalReaction41	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule62	SmallMolecule65	
+BiochemicalReaction41	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule57	SmallMolecule65	
+BiochemicalReaction42	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule29	SmallMolecule66	
+BiochemicalReaction42	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction42	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule65	SmallMolecule58	
+BiochemicalReaction42	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule29	SmallMolecule58	
+BiochemicalReaction43	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule66	SmallMolecule41	
+BiochemicalReaction43	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule40	SmallMolecule41	
+BiochemicalReaction43	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule40	SmallMolecule67	
+BiochemicalReaction43	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule66	SmallMolecule67	
+BiochemicalReaction43	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule40	SmallMolecule43	
+BiochemicalReaction43	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule66	SmallMolecule43	
+BiochemicalReaction44	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule57	SmallMolecule69	
+BiochemicalReaction44	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule68	SmallMolecule69	
+BiochemicalReaction44	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule68	SmallMolecule70	
+BiochemicalReaction44	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule57	SmallMolecule70	
+BiochemicalReaction45	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule65	SmallMolecule69	
+BiochemicalReaction45	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule71	SmallMolecule69	
+BiochemicalReaction45	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule71	SmallMolecule66	
+BiochemicalReaction45	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction46	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule72	SmallMolecule73	
+BiochemicalReaction46	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule70	SmallMolecule73	
+BiochemicalReaction46	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule70	SmallMolecule68	
+BiochemicalReaction46	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule72	SmallMolecule68	
+BiochemicalReaction47	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule73	SmallMolecule72	
+BiochemicalReaction47	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule71	SmallMolecule72	
+BiochemicalReaction47	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule71	SmallMolecule67	
+BiochemicalReaction47	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule73	SmallMolecule67	
+BiochemicalReaction48	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction48	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule67	SmallMolecule76	
+BiochemicalReaction48	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule67	SmallMolecule47	
+BiochemicalReaction48	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule75	SmallMolecule47	
+BiochemicalReaction48	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule67	SmallMolecule77	
+BiochemicalReaction48	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule75	SmallMolecule77	
+BiochemicalReaction49	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule78	SmallMolecule79	
+BiochemicalReaction49	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule57	SmallMolecule79	
+BiochemicalReaction49	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule57	SmallMolecule53	
+BiochemicalReaction49	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule78	SmallMolecule53	
+BiochemicalReaction49	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule57	SmallMolecule80	
+BiochemicalReaction49	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule78	SmallMolecule80	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction50	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule79	SmallMolecule81	
+BiochemicalReaction50	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule37	SmallMolecule81	
+BiochemicalReaction50	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule37	SmallMolecule47	
+BiochemicalReaction50	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule79	SmallMolecule47	
+BiochemicalReaction51	Phosphoenolpyruvate + H2O <=> 2-Phospho-D-glycerate	SmallMolecule47	SmallMolecule46	
+BiochemicalReaction51	Phosphoenolpyruvate + H2O <=> 2-Phospho-D-glycerate	SmallMolecule33	SmallMolecule46	
+BiochemicalReaction52	2-Phospho-D-glycerate <=> 3-Phospho-D-glycerate	SmallMolecule46	SmallMolecule44	
+BiochemicalReaction53	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule44	SmallMolecule22	
+BiochemicalReaction53	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction53	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule20	SmallMolecule42	
+BiochemicalReaction53	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule44	SmallMolecule42	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule41	SmallMolecule29	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule42	SmallMolecule29	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule43	SmallMolecule29	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule43	SmallMolecule38	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule42	SmallMolecule38	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule41	SmallMolecule38	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule43	SmallMolecule40	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule42	SmallMolecule40	
+BiochemicalReaction54	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule41	SmallMolecule40	
+BiochemicalReaction55	D-glyceraldehyde 3-phosphate <=> dihydroxyacetone phosphate	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction56	dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate <=> D-fructose 1,6-bisphosphate	SmallMolecule38	SmallMolecule35	
+BiochemicalReaction56	dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate <=> D-fructose 1,6-bisphosphate	SmallMolecule39	SmallMolecule35	
+BiochemicalReaction57	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule35	SmallMolecule29	
+BiochemicalReaction57	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule33	SmallMolecule29	
+BiochemicalReaction57	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule33	SmallMolecule25	
+BiochemicalReaction57	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule35	SmallMolecule25	
+BiochemicalReaction58	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction58	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex18	SmallMolecule22	
+BiochemicalReaction58	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex18	Complex17	
+BiochemicalReaction58	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule20	Complex17	
+BiochemicalReaction59	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule34	SmallMolecule29	
+BiochemicalReaction59	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule33	SmallMolecule29	
+BiochemicalReaction59	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule33	SmallMolecule25	
+BiochemicalReaction59	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule34	SmallMolecule25	
+BiochemicalReaction6	maltose + H2O => 2 D-glucose (maltase-glucoamylase)	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction6	maltose + H2O => 2 D-glucose (maltase-glucoamylase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction60	D-fructose 6-phosphate <=> alpha-D-Glucose 6-phosphate	SmallMolecule25	SmallMolecule23	
+BiochemicalReaction61	alpha-D-Glucose 6-phosphate <=> D-Glucose 1-phosphate	SmallMolecule23	SmallMolecule82	
+BiochemicalReaction62	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule82	SmallMolecule84	
+BiochemicalReaction62	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule83	SmallMolecule84	
+BiochemicalReaction62	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule83	SmallMolecule85	
+BiochemicalReaction62	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule82	SmallMolecule85	
+BiochemicalReaction63	Autoglucosylation of GYG1 complexed with GYS1-a	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction63	Autoglucosylation of GYG1 complexed with GYS1-a	Complex67	SmallMolecule86	
+BiochemicalReaction63	Autoglucosylation of GYG1 complexed with GYS1-a	Complex67	Complex68	
+BiochemicalReaction63	Autoglucosylation of GYG1 complexed with GYS1-a	SmallMolecule85	Complex68	
+BiochemicalReaction64	Autoglucosylation of GYG1 complexed with GYS1-b	Complex69	SmallMolecule86	
+BiochemicalReaction64	Autoglucosylation of GYG1 complexed with GYS1-b	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction64	Autoglucosylation of GYG1 complexed with GYS1-b	SmallMolecule85	Complex70	
+BiochemicalReaction64	Autoglucosylation of GYG1 complexed with GYS1-b	Complex69	Complex70	
+BiochemicalReaction65	Autoglucosylation of GYG2 complexed with GYS2-a	Complex71	SmallMolecule86	
+BiochemicalReaction65	Autoglucosylation of GYG2 complexed with GYS2-a	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction65	Autoglucosylation of GYG2 complexed with GYS2-a	SmallMolecule85	Complex72	
+BiochemicalReaction65	Autoglucosylation of GYG2 complexed with GYS2-a	Complex71	Complex72	
+BiochemicalReaction66	Autoglucosylation of GYG2 complexed with GYS2-b	Complex73	SmallMolecule86	
+BiochemicalReaction66	Autoglucosylation of GYG2 complexed with GYS2-b	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction66	Autoglucosylation of GYG2 complexed with GYS2-b	SmallMolecule85	Complex74	
+BiochemicalReaction66	Autoglucosylation of GYG2 complexed with GYS2-b	Complex73	Complex74	
+BiochemicalReaction67	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex68	SmallMolecule86	
+BiochemicalReaction67	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction67	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule85	Complex75	
+BiochemicalReaction67	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex68	Complex75	
+BiochemicalReaction68	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex70	SmallMolecule86	
+BiochemicalReaction68	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction68	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule85	Complex76	
+BiochemicalReaction68	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex70	Complex76	
+BiochemicalReaction69	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	SmallMolecule85	Complex77	
+BiochemicalReaction69	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	Complex72	Complex77	
+BiochemicalReaction69	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	Complex72	SmallMolecule86	
+BiochemicalReaction69	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	SmallMolecule85	SmallMolecule86	
+BiochemicalReaction7	maltose + H2O => 2 D-glucose (sucrase-isomaltase)	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction7	maltose + H2O => 2 D-glucose (sucrase-isomaltase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction70	GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-a	Complex75	Complex78	
+BiochemicalReaction71	GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-b	Complex76	Complex79	
+BiochemicalReaction72	GBE1 catalyzes branch formation in polyGlc-GYG2 complexed with GYS2-a	Complex77	Complex80	
+BiochemicalReaction73	PPP1R3C binds to glycogen:GYG1:GYS1	Complex78	Complex81	
+BiochemicalReaction73	PPP1R3C binds to glycogen:GYG1:GYS1	Protein133	Complex81	
+BiochemicalReaction74	PPP1R3C binds to glycogen:GYG2:GYS2	Complex80	Complex82	
+BiochemicalReaction74	PPP1R3C binds to glycogen:GYG2:GYS2	Protein133	Complex82	
+BiochemicalReaction75	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	Complex81	SmallMolecule87	
+BiochemicalReaction75	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	SmallMolecule85	SmallMolecule87	
+BiochemicalReaction75	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	SmallMolecule85	Complex83	
+BiochemicalReaction75	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	Complex81	Complex83	
+BiochemicalReaction76	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	Complex82	SmallMolecule87	
+BiochemicalReaction76	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	SmallMolecule85	SmallMolecule87	
+BiochemicalReaction76	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	SmallMolecule85	Complex84	
+BiochemicalReaction76	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	Complex82	Complex84	
+BiochemicalReaction77	EPM2A binds PPP1R3C:phosphoglycogen-GYG1 complex	Protein136	Complex85	
+BiochemicalReaction77	EPM2A binds PPP1R3C:phosphoglycogen-GYG1 complex	Complex83	Complex85	
+BiochemicalReaction78	EPM2A binds PPP1R3C:phosphoglycogen-GYG2 complex	Protein136	Complex86	
+BiochemicalReaction78	EPM2A binds PPP1R3C:phosphoglycogen-GYG2 complex	Complex84	Complex86	
+BiochemicalReaction79	EPM2A dephosphorylates phosphoglycogen-GYG1	Complex85	SmallMolecule29	
+BiochemicalReaction79	EPM2A dephosphorylates phosphoglycogen-GYG1	SmallMolecule33	SmallMolecule29	
+BiochemicalReaction79	EPM2A dephosphorylates phosphoglycogen-GYG1	SmallMolecule33	Complex87	
+BiochemicalReaction79	EPM2A dephosphorylates phosphoglycogen-GYG1	Complex85	Complex87	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction80	EPM2A dephosphorylates phosphoglycogen-GYG2	Complex86	SmallMolecule29	
+BiochemicalReaction80	EPM2A dephosphorylates phosphoglycogen-GYG2	SmallMolecule33	SmallMolecule29	
+BiochemicalReaction80	EPM2A dephosphorylates phosphoglycogen-GYG2	SmallMolecule33	Complex88	
+BiochemicalReaction80	EPM2A dephosphorylates phosphoglycogen-GYG2	Complex86	Complex88	
+BiochemicalReaction81	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein137	Protein152	
+BiochemicalReaction81	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex87	Protein152	
+BiochemicalReaction81	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex87	Complex78	
+BiochemicalReaction81	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein137	Complex78	
+BiochemicalReaction81	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex87	Protein153	
+BiochemicalReaction81	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein137	Protein153	
+BiochemicalReaction82	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein137	Complex80	
+BiochemicalReaction82	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex88	Complex80	
+BiochemicalReaction82	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex88	Protein152	
+BiochemicalReaction82	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein137	Protein152	
+BiochemicalReaction82	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex88	Protein153	
+BiochemicalReaction82	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein137	Protein153	
+BiochemicalReaction83	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	Complex89	SmallMolecule22	
+BiochemicalReaction83	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction83	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	SmallMolecule20	Complex90	
+BiochemicalReaction83	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	Complex89	Complex90	
+BiochemicalReaction84	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	Complex92	SmallMolecule22	
+BiochemicalReaction84	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction84	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	SmallMolecule20	Complex93	
+BiochemicalReaction84	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	Complex92	Complex93	
+BiochemicalReaction85	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	Complex94	SmallMolecule22	
+BiochemicalReaction85	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction85	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	SmallMolecule20	Complex95	
+BiochemicalReaction85	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	Complex94	Complex95	
+BiochemicalReaction86	PGYB dimer, b form + 2 AMP <=> PGYB b dimer:AMP complex	Complex89	Complex97	
+BiochemicalReaction86	PGYB dimer, b form + 2 AMP <=> PGYB b dimer:AMP complex	SmallMolecule36	Complex97	
+BiochemicalReaction87	PGYB b dimer:AMP complex <=> PGYB dimer, b form + 2 AMP	Complex97	Complex89	
+BiochemicalReaction87	PGYB b dimer:AMP complex <=> PGYB dimer, b form + 2 AMP	Complex97	SmallMolecule36	
+BiochemicalReaction88	PGYM dimer, b form + 2 AMP <=> PGYM b dimer:AMP complex	Complex92	Complex98	
+BiochemicalReaction88	PGYM dimer, b form + 2 AMP <=> PGYM b dimer:AMP complex	SmallMolecule36	Complex98	
+BiochemicalReaction89	PGYM b dimer:AMP complex <=> PGYM dimer, b form + 2 AMP	Complex98	Complex92	
+BiochemicalReaction89	PGYM b dimer:AMP complex <=> PGYM dimer, b form + 2 AMP	Complex98	SmallMolecule36	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction90	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule29	SmallMolecule82	
+BiochemicalReaction90	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex99	SmallMolecule82	
+BiochemicalReaction90	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex99	Complex100	
+BiochemicalReaction90	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule29	Complex100	
+BiochemicalReaction91	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule29	SmallMolecule82	
+BiochemicalReaction91	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex102	SmallMolecule82	
+BiochemicalReaction91	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex102	Complex103	
+BiochemicalReaction91	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule29	Complex103	
+BiochemicalReaction92	limit dextrin-glycogenin => ((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl) glycogenin	Complex104	Complex105	
+BiochemicalReaction93	((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl)glycogenin => poly{(1,4)-alpha-glucosyl} glycogenin + alpha-D-glucose	Complex105	Complex108	
+BiochemicalReaction93	((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl)glycogenin => poly{(1,4)-alpha-glucosyl} glycogenin + alpha-D-glucose	Complex105	SmallMolecule17	
+BiochemicalReaction94	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule29	SmallMolecule82	
+BiochemicalReaction94	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex109	SmallMolecule82	
+BiochemicalReaction94	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex109	Complex111	
+BiochemicalReaction94	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule29	Complex111	
+BiochemicalReaction95	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule29	SmallMolecule82	
+BiochemicalReaction95	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex110	SmallMolecule82	
+BiochemicalReaction95	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex110	Complex112	
+BiochemicalReaction95	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule29	Complex112	
+BiochemicalReaction96	D-Glucose 1-phosphate <=> alpha-D-Glucose 6-phosphate	SmallMolecule82	SmallMolecule23	
+BiochemicalReaction97	ATP + beta-D-fructose => ADP + D-fructose 1-phosphate	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction97	ATP + beta-D-fructose => ADP + D-fructose 1-phosphate	SmallMolecule11	SmallMolecule22	
+BiochemicalReaction97	ATP + beta-D-fructose => ADP + D-fructose 1-phosphate	SmallMolecule11	SmallMolecule26	
+BiochemicalReaction97	ATP + beta-D-fructose => ADP + D-fructose 1-phosphate	SmallMolecule20	SmallMolecule26	
+BiochemicalReaction98	D-fructose 1-phosphate <=> D-glyceraldehyde + dihydroxyacetone phosphate	SmallMolecule26	SmallMolecule90	
+BiochemicalReaction98	D-fructose 1-phosphate <=> D-glyceraldehyde + dihydroxyacetone phosphate	SmallMolecule26	SmallMolecule39	
+BiochemicalReaction99	ATP + D-glyceraldehyde => ADP + D-glyceraldehyde 3-phosphate	SmallMolecule90	SmallMolecule22	
+BiochemicalReaction99	ATP + D-glyceraldehyde => ADP + D-glyceraldehyde 3-phosphate	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction99	ATP + D-glyceraldehyde => ADP + D-glyceraldehyde 3-phosphate	SmallMolecule20	SmallMolecule38	
+BiochemicalReaction99	ATP + D-glyceraldehyde => ADP + D-glyceraldehyde 3-phosphate	SmallMolecule90	SmallMolecule38	

@@ -1,0 +1,12 @@
+Complex1	NS1 Homodimer	nucleoplasm	Reactome DB_ID: 169145	Protein2	
+Complex2	CPSF:NS1 Complex	nucleoplasm	Reactome DB_ID: 169074	Protein1	
+Complex2	CPSF:NS1 Complex	nucleoplasm	Reactome DB_ID: 169074	Complex1	
+Complex3	NS1:PAB II Complex	nucleoplasm	Reactome DB_ID: 169102	Complex1	
+Complex3	NS1:PAB II Complex	nucleoplasm	Reactome DB_ID: 169102	Protein3	
+Complex4	NS1 Homodimer	cytosol	Reactome DB_ID: 169143	Protein4	
+Complex5	NS1:Viral dsRNA Complex	cytosol	Reactome DB_ID: 169075	Complex4	
+Complex5	NS1:Viral dsRNA Complex	cytosol	Reactome DB_ID: 169075	PhysicalEntity1	
+Complex6	NS1 Homodimer:PKR Complex	cytosol	Reactome DB_ID: 169142	Protein5	
+Complex6	NS1 Homodimer:PKR Complex	cytosol	Reactome DB_ID: 169142	Complex4	
+Complex7	PB1-F2: ANT 3 Complex	mitochondrial inner membrane	Reactome DB_ID: 169235	Protein9	
+Complex7	PB1-F2: ANT 3 Complex	mitochondrial inner membrane	Reactome DB_ID: 169235	Protein10	

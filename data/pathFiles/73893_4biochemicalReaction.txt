@@ -1,0 +1,18 @@
+BiochemicalReaction1	Binding of REV1 to lesioned DNA template	Protein1	Complex1	
+BiochemicalReaction1	Binding of REV1 to lesioned DNA template	PhysicalEntity1	Complex1	
+BiochemicalReaction2	Misinsertion of  bases opposite to the lesion by HREV1	Complex1	Complex2	
+BiochemicalReaction3	Elongation by REV1 protein	Complex2	Protein1	
+BiochemicalReaction3	Elongation by REV1 protein	Complex2	PhysicalEntity3	
+BiochemicalReaction4	Binding of Pol eta to lesioned DNA template	Protein2	Complex3	
+BiochemicalReaction4	Binding of Pol eta to lesioned DNA template	PhysicalEntity1	Complex3	
+BiochemicalReaction5	Insertion of correct bases opposite to the lesion by Pol eta	Complex3	Complex4	
+BiochemicalReaction6	Elongation by Pol eta 	Complex4	Protein2	
+BiochemicalReaction6	Elongation by Pol eta 	Complex4	PhysicalEntity3	
+BiochemicalReaction7	Binding of Pol zeta to lesioned DNA template	Complex5	Complex6	
+BiochemicalReaction7	Binding of Pol zeta to lesioned DNA template	PhysicalEntity1	Complex6	
+BiochemicalReaction8	Formation of Pol zeta complex	Protein3	Complex5	
+BiochemicalReaction8	Formation of Pol zeta complex	Protein4	Complex5	
+BiochemicalReaction9	Elongation by Pol zeta complex	Complex6	Complex5	
+BiochemicalReaction9	Elongation by Pol zeta complex	PhysicalEntity5	Complex5	
+BiochemicalReaction9	Elongation by Pol zeta complex	PhysicalEntity5	PhysicalEntity3	
+BiochemicalReaction9	Elongation by Pol zeta complex	Complex6	PhysicalEntity3	

@@ -1,0 +1,151 @@
+Complex1	Cadherin trans-homodimer	cell junction	Reactome DB_ID: 418999	Protein1	
+Complex10	Necl-3 dimer	plasma membrane	Reactome DB_ID: 433735	Protein31	
+Complex11	Necl-1/Necl-2/Necl-3 trans homodimer	cell junction	Reactome DB_ID: 420594	Complex7	
+Complex12	PVRL3 dimer	plasma membrane	Reactome DB_ID: 420590	Protein26	
+Complex13	Nectin-1 cis homodimer	plasma membrane	Reactome DB_ID: 420607	Protein25	
+Complex14	Nectin-1:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420601	Complex12	
+Complex14	Nectin-1:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420601	Complex13	
+Complex15	Nectin-4 cis homodimer	plasma membrane	Reactome DB_ID: 420606	Protein27	
+Complex16	Nectin-1:Nectin-4 trans heterodimer	cell junction	Reactome DB_ID: 420609	Complex15	
+Complex16	Nectin-1:Nectin-4 trans heterodimer	cell junction	Reactome DB_ID: 420609	Complex13	
+Complex17	Nectin-2 cis homodimer	plasma membrane	Reactome DB_ID: 420575	Protein28	
+Complex18	Nectin-2:PVRL3 transheterodimer	cell junction	Reactome DB_ID: 420605	Complex12	
+Complex18	Nectin-2:PVRL3 transheterodimer	cell junction	Reactome DB_ID: 420605	Complex17	
+Complex19	Necl-1:Nectin-1 trans heterodimer	cell junction	Reactome DB_ID: 420585	Protein29	
+Complex19	Necl-1:Nectin-1 trans heterodimer	cell junction	Reactome DB_ID: 420585	Protein25	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	Protein1	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	PhysicalEntity1	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	Protein21	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	Protein22	
+Complex20	Necl-1:Nectin-3 trans heterodimer	cell junction	Reactome DB_ID: 420577	Protein26	
+Complex20	Necl-1:Nectin-3 trans heterodimer	cell junction	Reactome DB_ID: 420577	Protein29	
+Complex21	Necl-1:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420587	Protein30	
+Complex21	Necl-1:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420587	Protein29	
+Complex22	Nectin-3:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420578	Protein26	
+Complex22	Nectin-3:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420578	Protein30	
+Complex23	PRV:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420579	Protein26	
+Complex23	PRV:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420579	Protein32	
+Complex24	claudin trans-homodimer	cell junction	Reactome DB_ID: 421252	Protein55	
+Complex25	Par3:Par6:aPKC complex	cytosol	Reactome DB_ID: 419976	Protein77	
+Complex25	Par3:Par6:aPKC complex	cytosol	Reactome DB_ID: 419976	Protein78	
+Complex25	Par3:Par6:aPKC complex	cytosol	Reactome DB_ID: 419976	Protein79	
+Complex26	JAM-A:PAR-aPKC complex	plasma membrane	Reactome DB_ID: 420006	Complex27	
+Complex26	JAM-A:PAR-aPKC complex	plasma membrane	Reactome DB_ID: 420006	Protein83	
+Complex27	Par3:Par6:aPKC complex	plasma membrane	Reactome DB_ID: 419984	Protein84	
+Complex27	Par3:Par6:aPKC complex	plasma membrane	Reactome DB_ID: 419984	Protein85	
+Complex27	Par3:Par6:aPKC complex	plasma membrane	Reactome DB_ID: 419984	Protein86	
+Complex28	CRB3:PALS1:PATJ complex	plasma membrane	Reactome DB_ID: 420663	Protein90	
+Complex28	CRB3:PALS1:PATJ complex	plasma membrane	Reactome DB_ID: 420663	Protein91	
+Complex28	CRB3:PALS1:PATJ complex	plasma membrane	Reactome DB_ID: 420663	Protein92	
+Complex29	PINCH-ILK-parvin complex	cytosol	Reactome DB_ID: 432932	Protein100	
+Complex29	PINCH-ILK-parvin complex	cytosol	Reactome DB_ID: 432932	Protein93	
+Complex29	PINCH-ILK-parvin complex	cytosol	Reactome DB_ID: 432932	Protein97	
+Complex3	Afadin:F-actin	cytosol	Reactome DB_ID: 433726	PhysicalEntity2	
+Complex3	Afadin:F-actin	cytosol	Reactome DB_ID: 433726	Protein23	
+Complex30	ILK:Integrin beta-1	plasma membrane	Reactome DB_ID: 446408	Protein93	
+Complex30	ILK:Integrin beta-1	plasma membrane	Reactome DB_ID: 446408	Protein101	
+Complex31	PARVA:Paxillin	plasma membrane	Reactome DB_ID: 446326	Protein102	
+Complex31	PARVA:Paxillin	plasma membrane	Reactome DB_ID: 446326	Protein98	
+Complex32	ParvB/Affixin:Alpha-Pix	cytosol	Reactome DB_ID: 446035	Protein99	
+Complex32	ParvB/Affixin:Alpha-Pix	cytosol	Reactome DB_ID: 446035	Protein103	
+Complex33	Rsu-1:Pinch1 complex	cytosol	Reactome DB_ID: 446302	Protein104	
+Complex33	Rsu-1:Pinch1 complex	cytosol	Reactome DB_ID: 446302	Protein95	
+Complex34	PARVA:TESK1	cytosol	Reactome DB_ID: 446404	Protein98	
+Complex34	PARVA:TESK1	cytosol	Reactome DB_ID: 446404	Protein105	
+Complex35	PARVB:alpha actinin	cytosol	Reactome DB_ID: 446335	Protein99	
+Complex35	PARVB:alpha actinin	cytosol	Reactome DB_ID: 446335	Protein106	
+Complex36	MIG-2:MIGFILIN	cytosol	Reactome DB_ID: 430295	Protein108	
+Complex36	MIG-2:MIGFILIN	cytosol	Reactome DB_ID: 430295	Protein107	
+Complex37	Migfilin:Filamin A:F-actin	cytosol	Reactome DB_ID: 430323	Protein109	
+Complex37	Migfilin:Filamin A:F-actin	cytosol	Reactome DB_ID: 430323	PhysicalEntity2	
+Complex37	Migfilin:Filamin A:F-actin	cytosol	Reactome DB_ID: 430323	Protein108	
+Complex38	MIGFILIN:VASP	cytosol	Reactome DB_ID: 446308	Protein112	
+Complex38	MIGFILIN:VASP	cytosol	Reactome DB_ID: 446308	Protein108	
+Complex39	Integrin alpha6beta4	plasma membrane	Reactome DB_ID: 215997	Protein113	
+Complex39	Integrin alpha6beta4	plasma membrane	Reactome DB_ID: 215997	Protein114	
+Complex4	Nectin:afadin complex	plasma membrane	Reactome DB_ID: 419013	Protein23	
+Complex4	Nectin:afadin complex	plasma membrane	Reactome DB_ID: 419013	Protein24	
+Complex40	Integrin alpha 6:beta 4:Plectin complex	plasma membrane	Reactome DB_ID: 445996	Complex39	
+Complex40	Integrin alpha 6:beta 4:Plectin complex	plasma membrane	Reactome DB_ID: 445996	Protein115	
+Complex41	Integrin alpha6:beta4:Plectin:BP180 complex	plasma membrane	Reactome DB_ID: 445993	Protein116	
+Complex41	Integrin alpha6:beta4:Plectin:BP180 complex	plasma membrane	Reactome DB_ID: 445993	Complex40	
+Complex42	Laminin-5	extracellular region	Reactome DB_ID: 216001	Protein117	
+Complex42	Laminin-5	extracellular region	Reactome DB_ID: 216001	Protein118	
+Complex42	Laminin-5	extracellular region	Reactome DB_ID: 216001	Protein119	
+Complex43	Integrin alpha 6:beta 4:Plectin:BP180:Laminin-322 complex	plasma membrane	Reactome DB_ID: 445997	Protein116	
+Complex43	Integrin alpha 6:beta 4:Plectin:BP180:Laminin-322 complex	plasma membrane	Reactome DB_ID: 445997	Complex42	
+Complex43	Integrin alpha 6:beta 4:Plectin:BP180:Laminin-322 complex	plasma membrane	Reactome DB_ID: 445997	Complex40	
+Complex44	BP230:BP180:Plectin:integrin alpha 6 beta 4:Laminin 332	plasma membrane	Reactome DB_ID: 446010	Protein120	
+Complex44	BP230:BP180:Plectin:integrin alpha 6 beta 4:Laminin 332	plasma membrane	Reactome DB_ID: 446010	Complex43	
+Complex45	CD151:BP230:BP180:Plectin:Integrin alpha 6 beta 4: Laminin	plasma membrane	Reactome DB_ID: 446066	Complex44	
+Complex45	CD151:BP230:BP180:Plectin:Integrin alpha 6 beta 4: Laminin	plasma membrane	Reactome DB_ID: 446066	Protein122	
+Complex46	Type II hemidesmosome	plasma membrane	Reactome DB_ID: 446086	Complex45	
+Complex46	Type II hemidesmosome	plasma membrane	Reactome DB_ID: 446086	PhysicalEntity3	
+Complex47	SIRPA:CD47	plasma membrane	Reactome DB_ID: 391111	Protein123	
+Complex47	SIRPA:CD47	plasma membrane	Reactome DB_ID: 391111	Protein124	
+Complex48	pSIRP alpha:CD47	plasma membrane	Reactome DB_ID: 391115	Protein125	
+Complex48	pSIRP alpha:CD47	plasma membrane	Reactome DB_ID: 391115	Protein124	
+Complex49	SHP2/SHP1:pSIRP alpha:CD47	plasma membrane	Reactome DB_ID: 391110	Complex48	
+Complex49	SHP2/SHP1:pSIRP alpha:CD47	plasma membrane	Reactome DB_ID: 391110	Protein129	
+Complex5	Nectin cis-homodimer	plasma membrane	Reactome DB_ID: 433730	Protein24	
+Complex50	pSIRP alpha:CD47:SCAP2	plasma membrane	Reactome DB_ID: 391118	Complex48	
+Complex50	pSIRP alpha:CD47:SCAP2	plasma membrane	Reactome DB_ID: 391118	Protein132	
+Complex51	pSIRP alpha:CD47:SCAP2:FYB	plasma membrane	Reactome DB_ID: 391116	Complex50	
+Complex51	pSIRP alpha:CD47:SCAP2:FYB	plasma membrane	Reactome DB_ID: 391116	Protein133	
+Complex52	pSIRP-A:PYK2	plasma membrane	Reactome DB_ID: 391113	Complex48	
+Complex52	pSIRP-A:PYK2	plasma membrane	Reactome DB_ID: 391113	Protein134	
+Complex53	pSIRP-A:Grb2	plasma membrane	Reactome DB_ID: 391112	Complex48	
+Complex53	pSIRP-A:Grb2	plasma membrane	Reactome DB_ID: 391112	Protein135	
+Complex54	SIRPA:SP-A/SP-D	plasma membrane	Reactome DB_ID: 391109	Protein123	
+Complex54	SIRPA:SP-A/SP-D	plasma membrane	Reactome DB_ID: 391109	PhysicalEntity4	
+Complex55	SIRP beta1:DAP12	plasma membrane	Reactome DB_ID: 210222	Protein136	
+Complex55	SIRP beta1:DAP12	plasma membrane	Reactome DB_ID: 210222	Protein137	
+Complex56	SIRP gamma:CD47	plasma membrane	Reactome DB_ID: 391166	Protein124	
+Complex56	SIRP gamma:CD47	plasma membrane	Reactome DB_ID: 391166	Protein138	
+Complex57	DSCAM/DSCAML1 homodimers	plasma membrane	Reactome DB_ID: 376016	Protein139	
+Complex58	DSCAM:DCC	plasma membrane	Reactome DB_ID: 451355	Protein140	
+Complex58	DSCAM:DCC	plasma membrane	Reactome DB_ID: 451355	Protein142	
+Complex59	DSCAM:netrin	plasma membrane	Reactome DB_ID: 376019	Protein140	
+Complex59	DSCAM:netrin	plasma membrane	Reactome DB_ID: 376019	Protein143	
+Complex6	Nectin trans homodimer	cell junction	Reactome DB_ID: 418972	Complex5	
+Complex60	pPAK(S144):Rac1-GTP	cytosol	Reactome DB_ID: 451352	Protein144	
+Complex60	pPAK(S144):Rac1-GTP	cytosol	Reactome DB_ID: 451352	Complex61	
+Complex61	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule4	
+Complex61	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein145	
+Complex62	DSCAM:pPAK(S144):Rac1-GTP	plasma membrane	Reactome DB_ID: 376009	Protein140	
+Complex62	DSCAM:pPAK(S144):Rac1-GTP	plasma membrane	Reactome DB_ID: 376009	Complex60	
+Complex63	MAP kinase p38 (Mg2+ cofactor)	cytosol	Reactome DB_ID: 189828	Protein148	
+Complex63	MAP kinase p38 (Mg2+ cofactor)	cytosol	Reactome DB_ID: 189828	SmallMolecule5	
+Complex64	Phospho-MAP kinase p38 (Mg2+ cofactor)	cytosol	Reactome DB_ID: 170993	Protein153	
+Complex64	Phospho-MAP kinase p38 (Mg2+ cofactor)	cytosol	Reactome DB_ID: 170993	SmallMolecule5	
+Complex65	Nephrin dimer	plasma membrane	Reactome DB_ID: 373670	Protein156	
+Complex66	Nephrin dimer:NEPH1	plasma membrane	Reactome DB_ID: 373679	Protein157	
+Complex66	Nephrin dimer:NEPH1	plasma membrane	Reactome DB_ID: 373679	Complex65	
+Complex67	Nephrin dimer:NEPH2/NEPH3	plasma membrane	Reactome DB_ID: 451719	Complex65	
+Complex67	Nephrin dimer:NEPH2/NEPH3	plasma membrane	Reactome DB_ID: 451719	Protein158	
+Complex68	NEPH1:p-Nephrin:Fyn	plasma membrane	Reactome DB_ID: 374555	Protein161	
+Complex68	NEPH1:p-Nephrin:Fyn	plasma membrane	Reactome DB_ID: 374555	Complex69	
+Complex69	NEPH1:p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451430	Protein157	
+Complex69	NEPH1:p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451430	Complex70	
+Complex70	p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451723	Protein156	
+Complex70	p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451723	Protein162	
+Complex71	NEPH1:p-Nephrin:Fyn:NCK	plasma membrane	Reactome DB_ID: 373677	Complex68	
+Complex71	NEPH1:p-Nephrin:Fyn:NCK	plasma membrane	Reactome DB_ID: 373677	Protein163	
+Complex72	NEPH1:p-Nephrin:Fyn:NCK:N-WASP	plasma membrane	Reactome DB_ID: 532605	Protein166	
+Complex72	NEPH1:p-Nephrin:Fyn:NCK:N-WASP	plasma membrane	Reactome DB_ID: 532605	Complex71	
+Complex73	Podocin:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373691	PhysicalEntity7	
+Complex73	Podocin:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373691	Complex68	
+Complex74	CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373680	Complex68	
+Complex74	CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373680	Protein167	
+Complex75	PI3K	cytosol	Reactome DB_ID: 74693	Protein168	
+Complex75	PI3K	cytosol	Reactome DB_ID: 74693	Protein171	
+Complex76	PI3K:CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 451720	Complex74	
+Complex76	PI3K:CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 451720	Complex75	
+Complex77	Nephrin dimer:CASK	plasma membrane	Reactome DB_ID: 373681	Complex66	
+Complex77	Nephrin dimer:CASK	plasma membrane	Reactome DB_ID: 373681	Protein174	
+Complex78	Nephrin dimer:IQGAP1	plasma membrane	Reactome DB_ID: 451398	Complex66	
+Complex78	Nephrin dimer:IQGAP1	plasma membrane	Reactome DB_ID: 451398	Protein175	
+Complex79	Nephrin dimer:adherins junction-associated proteins	plasma membrane	Reactome DB_ID: 451387	PhysicalEntity8	
+Complex79	Nephrin dimer:adherins junction-associated proteins	plasma membrane	Reactome DB_ID: 451387	Complex66	
+Complex8	Necl-1 dimer	plasma membrane	Reactome DB_ID: 433733	Protein29	
+Complex9	Necl-2 dimer	plasma membrane	Reactome DB_ID: 433737	Protein30	

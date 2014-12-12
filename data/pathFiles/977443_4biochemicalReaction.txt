@@ -1,0 +1,16 @@
+BiochemicalReaction1	2GABRA:2GABRB:GABRG:GABA transports extracellular Cl- to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	GABAB heterodimeric receptor binds GABA	Complex3	Complex4	
+BiochemicalReaction2	GABAB heterodimeric receptor binds GABA	SmallMolecule3	Complex4	
+BiochemicalReaction3	G alpha (i) inhibits adenylate cyclase	Complex5	Complex7	
+BiochemicalReaction3	G alpha (i) inhibits adenylate cyclase	Complex6	Complex7	
+BiochemicalReaction4	G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex	Complex8	Complex9	
+BiochemicalReaction4	G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex	Complex7	Complex9	
+BiochemicalReaction5	Adenylate cyclase increases the GTPase activity of G alpha-olf	Complex9	SmallMolecule7	
+BiochemicalReaction5	Adenylate cyclase increases the GTPase activity of G alpha-olf	Complex9	Complex10	
+BiochemicalReaction6	Adenylate cyclase increases the GTPase activity of Gi alpha	Complex9	SmallMolecule7	
+BiochemicalReaction6	Adenylate cyclase increases the GTPase activity of Gi alpha	Complex9	Complex12	
+BiochemicalReaction7	Dissociation of the Gi alpha:G olf complex	Complex12	Complex13	
+BiochemicalReaction7	Dissociation of the Gi alpha:G olf complex	Complex12	Complex5	
+BiochemicalReaction7	Dissociation of the Gi alpha:G olf complex	Complex12	Complex11	
+BiochemicalReaction8	Activation of GIRK/Kir3 Channels	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction9	GABRR pentamer:GABA transports extracellular Cl- to cytosol	SmallMolecule1	SmallMolecule2	

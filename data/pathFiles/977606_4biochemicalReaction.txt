@@ -1,0 +1,80 @@
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	Complex5	
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	Protein6	
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	Protein1	
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	PhysicalEntity2	
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	Complex7	
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	Complex3	
+BiochemicalReaction1	C3 convertases spontaneously dissociate	Complex1	Complex8	
+BiochemicalReaction10	Complement factor I binds to membrane-associated Factor H:C3b	Complex19	Complex22	
+BiochemicalReaction10	Complement factor I binds to membrane-associated Factor H:C3b	Complex17	Complex22	
+BiochemicalReaction11	Factor I inactivates Factor H-boundC3b	Complex22	Complex19	
+BiochemicalReaction11	Factor I inactivates Factor H-boundC3b	Complex22	Protein14	
+BiochemicalReaction11	Factor I inactivates Factor H-boundC3b	Complex22	Complex23	
+BiochemicalReaction11	Factor I inactivates Factor H-boundC3b	Complex22	Protein20	
+BiochemicalReaction12	iC3b proteolysis	Complex24	Protein24	
+BiochemicalReaction12	iC3b proteolysis	Complex24	Complex25	
+BiochemicalReaction12	iC3b proteolysis	Complex24	Protein26	
+BiochemicalReaction13	CR1 binds C3bBb/C4bC2a	Protein24	Complex27	
+BiochemicalReaction13	CR1 binds C3bBb/C4bC2a	Complex26	Complex27	
+BiochemicalReaction14	Displacement of C2a/Bb by CR1	Complex27	Complex30	
+BiochemicalReaction14	Displacement of C2a/Bb by CR1	Complex27	Protein6	
+BiochemicalReaction14	Displacement of C2a/Bb by CR1	Complex27	Complex31	
+BiochemicalReaction14	Displacement of C2a/Bb by CR1	Complex27	Protein1	
+BiochemicalReaction15	MCP binds C3b, C4b	Protein27	Complex33	
+BiochemicalReaction15	MCP binds C3b, C4b	Complex32	Complex33	
+BiochemicalReaction15	MCP binds C3b, C4b	Complex32	Complex34	
+BiochemicalReaction15	MCP binds C3b, C4b	Protein27	Complex34	
+BiochemicalReaction16	Complement factor I binds to MCP, CR1:C4b, C3b	Complex19	Complex36	
+BiochemicalReaction16	Complement factor I binds to MCP, CR1:C4b, C3b	Complex35	Complex36	
+BiochemicalReaction17	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex36	Complex19	
+BiochemicalReaction17	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex36	Protein28	
+BiochemicalReaction17	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex36	PhysicalEntity3	
+BiochemicalReaction17	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex36	PhysicalEntity4	
+BiochemicalReaction18	CD55 (DAF) binds C3bBb, C4bC2a	Protein36	Complex40	
+BiochemicalReaction18	CD55 (DAF) binds C3bBb, C4bC2a	Complex26	Complex40	
+BiochemicalReaction19	DAF accelerates C3bBb/C4bC2a dissociation	Complex40	Protein6	
+BiochemicalReaction19	DAF accelerates C3bBb/C4bC2a dissociation	Complex40	Protein1	
+BiochemicalReaction19	DAF accelerates C3bBb/C4bC2a dissociation	Complex40	Complex43	
+BiochemicalReaction19	DAF accelerates C3bBb/C4bC2a dissociation	Complex40	Complex44	
+BiochemicalReaction2	Factor H binds to C3b	Complex5	Complex14	
+BiochemicalReaction2	Factor H binds to C3b	Protein13	Complex14	
+BiochemicalReaction20	C4b-binding protein binds C4b	Complex45	Complex49	
+BiochemicalReaction20	C4b-binding protein binds C4b	Complex48	Complex49	
+BiochemicalReaction21	Complement factor I binds C4BP	Complex19	Complex50	
+BiochemicalReaction21	Complement factor I binds C4BP	Complex49	Complex50	
+BiochemicalReaction22	Complement factor I inactivates C4BP-bound C4b	Complex50	Complex19	
+BiochemicalReaction22	Complement factor I inactivates C4BP-bound C4b	Complex50	Complex37	
+BiochemicalReaction22	Complement factor I inactivates C4BP-bound C4b	Complex50	Protein29	
+BiochemicalReaction22	Complement factor I inactivates C4BP-bound C4b	Complex50	Complex48	
+BiochemicalReaction23	C4b binding protein binds C4bC2a	Complex7	Complex51	
+BiochemicalReaction23	C4b binding protein binds C4bC2a	Complex48	Complex51	
+BiochemicalReaction24	C4b binding protein displaces C2a	Complex51	Protein6	
+BiochemicalReaction24	C4b binding protein displaces C2a	Complex51	Complex49	
+BiochemicalReaction25	C4b binding protein binds Protein S	Protein41	Complex52	
+BiochemicalReaction25	C4b binding protein binds Protein S	Complex48	Complex52	
+BiochemicalReaction26	CD59 inhibits MAC formation	Protein42	Complex56	
+BiochemicalReaction26	CD59 inhibits MAC formation	Complex53	Complex56	
+BiochemicalReaction26	CD59 inhibits MAC formation	Protein50	Complex56	
+BiochemicalReaction27	Formation of soluble VTN:C5b-C9 	Complex54	Complex59	
+BiochemicalReaction27	Formation of soluble VTN:C5b-C9 	Protein42	Complex59	
+BiochemicalReaction27	Formation of soluble VTN:C5b-C9 	Complex57	Complex59	
+BiochemicalReaction28	Vitronectin(VTN) binds to C5b:C6:C7 	Complex58	Complex57	
+BiochemicalReaction28	Vitronectin(VTN) binds to C5b:C6:C7 	Protein51	Complex57	
+BiochemicalReaction29	Hydrolysis of internal thioester in C4b	Complex45	Complex60	
+BiochemicalReaction29	Hydrolysis of internal thioester in C4b	SmallMolecule3	Complex60	
+BiochemicalReaction3	Factor H binds host cell surface markers	Complex15	Complex16	
+BiochemicalReaction3	Factor H binds host cell surface markers	Protein13	Complex16	
+BiochemicalReaction4	Factor H binds to membrane-associated C3b	Protein14	Complex17	
+BiochemicalReaction4	Factor H binds to membrane-associated C3b	Complex13	Complex17	
+BiochemicalReaction5	Factor H binds to C3bBb	Complex4	Complex18	
+BiochemicalReaction5	Factor H binds to C3bBb	Protein14	Complex18	
+BiochemicalReaction6	Factor H displaces Bb	Complex18	Protein1	
+BiochemicalReaction6	Factor H displaces Bb	Complex18	Complex17	
+BiochemicalReaction7	Complement factor I complex formation	Protein16	Complex19	
+BiochemicalReaction7	Complement factor I complex formation	Protein17	Complex19	
+BiochemicalReaction8	Complement factor I binds to extracellular Factor H:C3b	Complex19	Complex20	
+BiochemicalReaction8	Complement factor I binds to extracellular Factor H:C3b	Complex14	Complex20	
+BiochemicalReaction9	Factor I inactivates plasma Factor H-bound C3b	Complex20	Complex19	
+BiochemicalReaction9	Factor I inactivates plasma Factor H-bound C3b	Complex20	Protein13	
+BiochemicalReaction9	Factor I inactivates plasma Factor H-bound C3b	Complex20	Complex21	
+BiochemicalReaction9	Factor I inactivates plasma Factor H-bound C3b	Complex20	Protein20	

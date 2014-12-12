@@ -1,0 +1,36 @@
+BiochemicalReaction1	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	PANK2 phosphorylates PanK	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	PANK2 phosphorylates PanK	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	PANK2 phosphorylates PanK	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction2	PANK2 phosphorylates PanK	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	PANK1/3/4 phosphorylate PanK	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	PANK1/3/4 phosphorylate PanK	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	PANK1/3/4 phosphorylate PanK	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	PANK1/3/4 phosphorylate PanK	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule5	SmallMolecule10	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule5	SmallMolecule11	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction4	2xPPCS ligates PPanK with Cys	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction5	3xPPCDC:3FMN decarboxylates PPC	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	3xPPCDC:3FMN decarboxylates PPC	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction6	Adenylation of phosphopantetheine	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction6	Adenylation of phosphopantetheine	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction6	Adenylation of phosphopantetheine	SmallMolecule5	SmallMolecule10	
+BiochemicalReaction6	Adenylation of phosphopantetheine	SmallMolecule12	SmallMolecule10	
+BiochemicalReaction7	COASY phosphorylates DP-CoA	SmallMolecule15	SmallMolecule6	
+BiochemicalReaction7	COASY phosphorylates DP-CoA	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7	COASY phosphorylates DP-CoA	SmallMolecule5	SmallMolecule16	
+BiochemicalReaction7	COASY phosphorylates DP-CoA	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction8	CoA transport across the inner mitochondrial membrane	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction9	Phosphopantetheine conjugation of the ACP domain of FAS	Protein11	Protein12	
+BiochemicalReaction9	Phosphopantetheine conjugation of the ACP domain of FAS	SmallMolecule16	Protein12	
+BiochemicalReaction9	Phosphopantetheine conjugation of the ACP domain of FAS	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction9	Phosphopantetheine conjugation of the ACP domain of FAS	Protein11	SmallMolecule18	

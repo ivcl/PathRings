@@ -1,0 +1,60 @@
+BiochemicalReaction1	ERK1/2 activates ELK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	ERK1/2 activates ELK1	Protein1	SmallMolecule2	
+BiochemicalReaction1	ERK1/2 activates ELK1	Protein1	Protein2	
+BiochemicalReaction1	ERK1/2 activates ELK1	SmallMolecule1	Protein2	
+BiochemicalReaction10	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	RSK1/2/3 phosphorylates CREB at Serine 133	Protein42	SmallMolecule2	
+BiochemicalReaction10	RSK1/2/3 phosphorylates CREB at Serine 133	Protein42	Protein43	
+BiochemicalReaction10	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule1	Protein43	
+BiochemicalReaction11	MAPKAPK2 phosphorylates CREB at Serine 133	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	MAPKAPK2 phosphorylates CREB at Serine 133	Protein42	SmallMolecule2	
+BiochemicalReaction11	MAPKAPK2 phosphorylates CREB at Serine 133	Protein42	Protein43	
+BiochemicalReaction11	MAPKAPK2 phosphorylates CREB at Serine 133	SmallMolecule1	Protein43	
+BiochemicalReaction12	Phosphorylated MAPKs phosphorylate ATF-2	Protein47	Protein48	
+BiochemicalReaction12	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule1	Protein48	
+BiochemicalReaction12	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylated MAPKs phosphorylate ATF-2	Protein47	SmallMolecule2	
+BiochemicalReaction13	Activated JNKs phosphorylate c-JUN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Activated JNKs phosphorylate c-JUN	Protein53	SmallMolecule2	
+BiochemicalReaction13	Activated JNKs phosphorylate c-JUN	Protein53	Protein54	
+BiochemicalReaction13	Activated JNKs phosphorylate c-JUN	SmallMolecule1	Protein54	
+BiochemicalReaction14	c-FOS activation by phospho ERK1/2	Protein55	SmallMolecule2	
+BiochemicalReaction14	c-FOS activation by phospho ERK1/2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	c-FOS activation by phospho ERK1/2	SmallMolecule1	Protein56	
+BiochemicalReaction14	c-FOS activation by phospho ERK1/2	Protein55	Protein56	
+BiochemicalReaction15	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein48	Complex5	
+BiochemicalReaction15	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein54	Complex5	
+BiochemicalReaction16	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein54	Complex6	
+BiochemicalReaction16	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein56	Complex6	
+BiochemicalReaction2	ERK1/2 phosphorylates MSK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	ERK1/2 phosphorylates MSK1	Protein5	SmallMolecule2	
+BiochemicalReaction2	ERK1/2 phosphorylates MSK1	Protein5	Protein6	
+BiochemicalReaction2	ERK1/2 phosphorylates MSK1	SmallMolecule1	Protein6	
+BiochemicalReaction3	p38MAPK phosphorylates MSK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	p38MAPK phosphorylates MSK1	Protein5	SmallMolecule2	
+BiochemicalReaction3	p38MAPK phosphorylates MSK1	Protein5	Protein6	
+BiochemicalReaction3	p38MAPK phosphorylates MSK1	SmallMolecule1	Protein6	
+BiochemicalReaction4	ERK1/2/5 activate RSK1/2/3	SmallMolecule1	Protein14	
+BiochemicalReaction4	ERK1/2/5 activate RSK1/2/3	Protein10	Protein14	
+BiochemicalReaction4	ERK1/2/5 activate RSK1/2/3	Protein10	SmallMolecule2	
+BiochemicalReaction4	ERK1/2/5 activate RSK1/2/3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	ERK5 activates the transcription factor MEF2	Protein20	SmallMolecule2	
+BiochemicalReaction5	ERK5 activates the transcription factor MEF2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	ERK5 activates the transcription factor MEF2	SmallMolecule1	Protein23	
+BiochemicalReaction5	ERK5 activates the transcription factor MEF2	Protein20	Protein23	
+BiochemicalReaction6	ERKs are inactivated by protein phosphatase 2A	Protein18	SmallMolecule4	
+BiochemicalReaction6	ERKs are inactivated by protein phosphatase 2A	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction6	ERKs are inactivated by protein phosphatase 2A	SmallMolecule3	Protein26	
+BiochemicalReaction6	ERKs are inactivated by protein phosphatase 2A	Protein18	Protein26	
+BiochemicalReaction7	ERKs are inactivated by dual-specific phosphatases (DUSPs)	Protein18	SmallMolecule4	
+BiochemicalReaction7	ERKs are inactivated by dual-specific phosphatases (DUSPs)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	ERKs are inactivated by dual-specific phosphatases (DUSPs)	SmallMolecule3	Protein26	
+BiochemicalReaction7	ERKs are inactivated by dual-specific phosphatases (DUSPs)	Protein18	Protein26	
+BiochemicalReaction8	MSK1 activates CREB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	MSK1 activates CREB	Protein42	SmallMolecule2	
+BiochemicalReaction8	MSK1 activates CREB	Protein42	Protein43	
+BiochemicalReaction8	MSK1 activates CREB	SmallMolecule1	Protein43	
+BiochemicalReaction9	MSK1 activates ATF1	Protein44	Protein45	
+BiochemicalReaction9	MSK1 activates ATF1	SmallMolecule1	Protein45	
+BiochemicalReaction9	MSK1 activates ATF1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	MSK1 activates ATF1	Protein44	SmallMolecule2	

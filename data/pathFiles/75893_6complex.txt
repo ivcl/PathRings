@@ -1,0 +1,19 @@
+Complex1	TNF-alpha trimer	plasma membrane	Reactome DB_ID: 3371351	Protein1	
+Complex10	TRADD:TRAF2:RIP1:FADD:procaspase-8 	cytosol	Reactome DB_ID: 140976	Complex9	
+Complex10	TRADD:TRAF2:RIP1:FADD:procaspase-8 	cytosol	Reactome DB_ID: 140976	Protein10	
+Complex2	TNF-alpha trimer	extracellular region	Reactome DB_ID: 3371370	Protein2	
+Complex3	ADAM17	plasma membrane	Reactome DB_ID: 1251963	Protein3	
+Complex3	ADAM17	plasma membrane	Reactome DB_ID: 1251963	SmallMolecule1	
+Complex4	soluble TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 3371397	Protein4	
+Complex4	soluble TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 3371397	Complex2	
+Complex5	TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 74277	Protein4	
+Complex5	TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 74277	Complex1	
+Complex7	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Protein5	
+Complex7	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Protein6	
+Complex7	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Protein7	
+Complex7	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Complex6	
+Complex8	TRAF2:TRADD:RIPK1	cytosol	Reactome DB_ID: 140935	Protein5	
+Complex8	TRAF2:TRADD:RIPK1	cytosol	Reactome DB_ID: 140935	Protein6	
+Complex8	TRAF2:TRADD:RIPK1	cytosol	Reactome DB_ID: 140935	Protein7	
+Complex9	TRADD:TRAF2:RIP1:FADD	cytosol	Reactome DB_ID: 140977	Complex8	
+Complex9	TRADD:TRAF2:RIP1:FADD	cytosol	Reactome DB_ID: 140977	Protein9	

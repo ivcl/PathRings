@@ -1,0 +1,12 @@
+BiochemicalReaction1	GEFs activate Rho GTPase:GDP	SmallMolecule1	Complex2	
+BiochemicalReaction1	GEFs activate Rho GTPase:GDP	Complex1	Complex2	
+BiochemicalReaction1	GEFs activate Rho GTPase:GDP	Complex1	SmallMolecule4	
+BiochemicalReaction1	GEFs activate Rho GTPase:GDP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Rho GTPase:GTP activates downstream effectors	Complex2	Complex3	
+BiochemicalReaction2	Rho GTPase:GTP activates downstream effectors	PhysicalEntity2	Complex3	
+BiochemicalReaction3	GAPs inactivate Rho GTPase:GTP by hydrolysis	Complex2	SmallMolecule5	
+BiochemicalReaction3	GAPs inactivate Rho GTPase:GTP by hydrolysis	Complex2	Complex1	
+BiochemicalReaction4	GDIs block activation of Rho GTPase:GDP	Protein122	Complex4	
+BiochemicalReaction4	GDIs block activation of Rho GTPase:GDP	Complex1	Complex4	
+BiochemicalReaction5	Dissociation of Rho GTP:GDP from GDI complex	Complex4	Protein122	
+BiochemicalReaction5	Dissociation of Rho GTP:GDP from GDI complex	Complex4	Complex5	

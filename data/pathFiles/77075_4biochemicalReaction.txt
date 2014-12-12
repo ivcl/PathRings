@@ -1,0 +1,8 @@
+BiochemicalReaction1	Extrusion of 5'-end of 30 nt long transcript through the pore in Pol II complex	Complex1	Complex7	
+BiochemicalReaction2	Phosphorylation (Ser5) of RNA pol II CTD	Complex7	Complex8	
+BiochemicalReaction3	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex8	Complex11	
+BiochemicalReaction3	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein25	Complex11	
+BiochemicalReaction4	Activation of GT	Complex11	Complex12	
+BiochemicalReaction5	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein26	Complex13	
+BiochemicalReaction5	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein27	Complex13	
+BiochemicalReaction5	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex12	Complex13	

@@ -1,0 +1,25 @@
+BiochemicalReaction1	Binding of TFIIIA To type 1 Promoter	Protein1	Complex1	
+BiochemicalReaction1	Binding of TFIIIA To type 1 Promoter	PhysicalEntity1	Complex1	
+BiochemicalReaction10	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	PhysicalEntity5	Complex17	
+BiochemicalReaction10	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	Protein29	Complex17	
+BiochemicalReaction10	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	Protein30	Complex17	
+BiochemicalReaction10	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	Complex16	Complex17	
+BiochemicalReaction11	Binding of TFIIIB to SNAPc:Oct-1:Staf:Type 3 Promoter Complex	Complex17	Complex19	
+BiochemicalReaction11	Binding of TFIIIB to SNAPc:Oct-1:Staf:Type 3 Promoter Complex	Complex18	Complex19	
+BiochemicalReaction12	Recruitment of RNA Polymerase III to TFIIIB:SNAPc:Type 3 Promoter Complex	Complex19	Complex20	
+BiochemicalReaction12	Recruitment of RNA Polymerase III to TFIIIB:SNAPc:Type 3 Promoter Complex	Complex6	Complex20	
+BiochemicalReaction13	RNA Polymerase III Promoter Opening at Type 3 Promoters	Complex20	Complex21	
+BiochemicalReaction2	Binding of TFIIIC to TFIIIA:Type I Promoter complex 	Complex2	Complex3	
+BiochemicalReaction2	Binding of TFIIIC to TFIIIA:Type I Promoter complex 	Complex1	Complex3	
+BiochemicalReaction3	Binding of TFIIIB to TFIIIC:TFIIIA:Type I Promoter complex	Complex4	Complex5	
+BiochemicalReaction3	Binding of TFIIIB to TFIIIC:TFIIIA:Type I Promoter complex	Complex3	Complex5	
+BiochemicalReaction4	Recruitment of  RNA polymerase III to TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	Complex5	Complex10	
+BiochemicalReaction4	Recruitment of  RNA polymerase III to TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	Complex6	Complex10	
+BiochemicalReaction5	RNA Polymerase III Promoter Opening at Type 1 Promoters	Complex10	Complex11	
+BiochemicalReaction6	Binding of TFIIIC to Type 2 promoter	Complex2	Complex12	
+BiochemicalReaction6	Binding of TFIIIC to Type 2 promoter	PhysicalEntity3	Complex12	
+BiochemicalReaction7	Binding of TFIIIB to TFIIC: Type 2 Promoter Complex	Complex4	Complex13	
+BiochemicalReaction7	Binding of TFIIIB to TFIIC: Type 2 Promoter Complex	Complex12	Complex13	
+BiochemicalReaction8	Recruitment of RNA Polymerase III to the TFIIIB:TFIIIC: Type 2 Promoter Complex	Complex13	Complex14	
+BiochemicalReaction8	Recruitment of RNA Polymerase III to the TFIIIB:TFIIIC: Type 2 Promoter Complex	Complex6	Complex14	
+BiochemicalReaction9	RNA Polymerase III Promoter Opening at Type 2 Promoters	Complex14	Complex15	

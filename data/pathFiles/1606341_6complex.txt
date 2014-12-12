@@ -1,0 +1,16 @@
+Complex1	dsDNA:ZBP1	cytosol	Reactome DB_ID: 1591233	PhysicalEntity1	
+Complex1	dsDNA:ZBP1	cytosol	Reactome DB_ID: 1591233	Complex2	
+Complex10	p-T,4S-IRF3:p-T,4S-IRF3	nucleoplasm	Reactome DB_ID: 177675	Protein9	
+Complex2	ZBP1:ZBP1	cytosol	Reactome DB_ID: 1591226	Protein1	
+Complex3	dsDNA:ZBP1:pS-172-TBK1	cytosol	Reactome DB_ID: 1606333	Protein3	
+Complex3	dsDNA:ZBP1:pS-172-TBK1	cytosol	Reactome DB_ID: 1606333	Complex1	
+Complex4	dsDNA:ZBP1:pS-172-TBK:IRF3	cytosol	Reactome DB_ID: 1606328	Protein4	
+Complex4	dsDNA:ZBP1:pS-172-TBK:IRF3	cytosol	Reactome DB_ID: 1606328	Complex3	
+Complex5	NLRP4:DTX4:p-S172-TBK1complexes	cytoplasmic vesicle membrane	Reactome DB_ID: 3249384	Protein6	
+Complex5	NLRP4:DTX4:p-S172-TBK1complexes	cytoplasmic vesicle membrane	Reactome DB_ID: 3249384	Protein7	
+Complex5	NLRP4:DTX4:p-S172-TBK1complexes	cytoplasmic vesicle membrane	Reactome DB_ID: 3249384	Complex6	
+Complex7	STING:p-S172-TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 2396004	Protein3	
+Complex7	STING:p-S172-TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 2396004	Complex8	
+Complex7	STING:p-S172-TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 2396004	Protein4	
+Complex8	STING:STING	cytoplasmic vesicle membrane	Reactome DB_ID: 3134799	Protein8	
+Complex9	p-T,4S-IRF3:p-T,4S-IRF3	cytosol	Reactome DB_ID: 166272	Protein5	

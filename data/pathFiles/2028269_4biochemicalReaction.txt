@@ -1,0 +1,85 @@
+BiochemicalReaction1	Phosphorylation of STK3 (MST2) and SAV1 by STK3	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of STK3 (MST2) and SAV1 by STK3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of STK3 (MST2) and SAV1 by STK3	SmallMolecule1	Complex4	
+BiochemicalReaction1	Phosphorylation of STK3 (MST2) and SAV1 by STK3	Complex1	Complex4	
+BiochemicalReaction10	Phosphorylation of LATS1 and 2 by p-STK4(MST1)/N	Complex18	SmallMolecule2	
+BiochemicalReaction10	Phosphorylation of LATS1 and 2 by p-STK4(MST1)/N	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Phosphorylation of LATS1 and 2 by p-STK4(MST1)/N	SmallMolecule1	Complex19	
+BiochemicalReaction10	Phosphorylation of LATS1 and 2 by p-STK4(MST1)/N	Complex18	Complex19	
+BiochemicalReaction11	Phosphorylation of MOB1A and B by p-STK3 (p-MST2)	Protein24	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of MOB1A and B by p-STK3 (p-MST2)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of MOB1A and B by p-STK3 (p-MST2)	SmallMolecule1	Protein18	
+BiochemicalReaction11	Phosphorylation of MOB1A and B by p-STK3 (p-MST2)	Protein24	Protein18	
+BiochemicalReaction12	Phosphorylation of MOB1A and B by p-STK3(MST2)/N	Protein24	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of MOB1A and B by p-STK3(MST2)/N	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of MOB1A and B by p-STK3(MST2)/N	SmallMolecule1	Protein18	
+BiochemicalReaction12	Phosphorylation of MOB1A and B by p-STK3(MST2)/N	Protein24	Protein18	
+BiochemicalReaction13	Phosphorylation of MOB1A and B by p-STK4 (p-MST1)	Protein24	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of MOB1A and B by p-STK4 (p-MST1)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of MOB1A and B by p-STK4 (p-MST1)	SmallMolecule1	Protein18	
+BiochemicalReaction13	Phosphorylation of MOB1A and B by p-STK4 (p-MST1)	Protein24	Protein18	
+BiochemicalReaction14	Phosphorylation of MOB1A and B by p-STK4(MST1)/N	Protein24	SmallMolecule2	
+BiochemicalReaction14	Phosphorylation of MOB1A and B by p-STK4(MST1)/N	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	Phosphorylation of MOB1A and B by p-STK4(MST1)/N	SmallMolecule1	Protein18	
+BiochemicalReaction14	Phosphorylation of MOB1A and B by p-STK4(MST1)/N	Protein24	Protein18	
+BiochemicalReaction15	Phosphorylated MOB1A proteins associate with LATS proteins	Protein14	Complex18	
+BiochemicalReaction15	Phosphorylated MOB1A proteins associate with LATS proteins	Protein18	Complex18	
+BiochemicalReaction16	Translocation of YAP1 to the nucleus	Protein27	Protein28	
+BiochemicalReaction17	YAP1 binds ZO-2 (TJP2)	Protein27	Complex20	
+BiochemicalReaction17	YAP1 binds ZO-2 (TJP2)	Protein29	Complex20	
+BiochemicalReaction18	Translocation of YAP1:ZO-2 (TJP2) to the nucleus	Complex20	Complex21	
+BiochemicalReaction19	AMOT proteins bind YAP1	Protein27	Complex22	
+BiochemicalReaction19	AMOT proteins bind YAP1	Protein31	Complex22	
+BiochemicalReaction2	Phosphorylation of STK4 (MST1) and SAV1 by STK4	Complex7	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of STK4 (MST1) and SAV1 by STK4	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of STK4 (MST1) and SAV1 by STK4	SmallMolecule1	Complex9	
+BiochemicalReaction2	Phosphorylation of STK4 (MST1) and SAV1 by STK4	Complex7	Complex9	
+BiochemicalReaction20	Phosphorylation of YAP by LATS1	Protein27	SmallMolecule2	
+BiochemicalReaction20	Phosphorylation of YAP by LATS1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	Phosphorylation of YAP by LATS1	SmallMolecule1	Protein35	
+BiochemicalReaction20	Phosphorylation of YAP by LATS1	Protein27	Protein35	
+BiochemicalReaction21	Phosphorylation of YAP by LATS2	Protein27	SmallMolecule2	
+BiochemicalReaction21	Phosphorylation of YAP by LATS2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	Phosphorylation of YAP by LATS2	SmallMolecule1	Protein36	
+BiochemicalReaction21	Phosphorylation of YAP by LATS2	Protein27	Protein36	
+BiochemicalReaction22	YWHAB (14-3-3 beta/alpha) dimer binds phosphorylated YAP1	Protein37	Complex26	
+BiochemicalReaction22	YWHAB (14-3-3 beta/alpha) dimer binds phosphorylated YAP1	Complex25	Complex26	
+BiochemicalReaction23	Translocation of WWTR1 (TAZ) to the nucleus	Protein39	Protein40	
+BiochemicalReaction24	WWTR1 (TAZ) binds ZO-1 (TJP1)	Protein41	Complex27	
+BiochemicalReaction24	WWTR1 (TAZ) binds ZO-1 (TJP1)	Protein39	Complex27	
+BiochemicalReaction25	WWTR1 (TAZ) binds ZO-2 (TJP2)	Protein29	Complex28	
+BiochemicalReaction25	WWTR1 (TAZ) binds ZO-2 (TJP2)	Protein39	Complex28	
+BiochemicalReaction26	AMOT proteins bind WWTR1 (TAZ)	Protein39	Complex29	
+BiochemicalReaction26	AMOT proteins bind WWTR1 (TAZ)	Protein31	Complex29	
+BiochemicalReaction27	Phosphorylation of WWTR1 (TAZ) by LATS1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	Phosphorylation of WWTR1 (TAZ) by LATS1	Protein39	SmallMolecule2	
+BiochemicalReaction27	Phosphorylation of WWTR1 (TAZ) by LATS1	Protein39	Protein42	
+BiochemicalReaction27	Phosphorylation of WWTR1 (TAZ) by LATS1	SmallMolecule1	Protein42	
+BiochemicalReaction28	Phosphorylation of WWTR1 (TAZ) by LATS2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	Phosphorylation of WWTR1 (TAZ) by LATS2	Protein39	SmallMolecule2	
+BiochemicalReaction28	Phosphorylation of WWTR1 (TAZ) by LATS2	Protein39	Protein42	
+BiochemicalReaction28	Phosphorylation of WWTR1 (TAZ) by LATS2	SmallMolecule1	Protein42	
+BiochemicalReaction29	DVL2 binds phosphorylated WWTR1 (TAZ)	Protein43	Complex30	
+BiochemicalReaction29	DVL2 binds phosphorylated WWTR1 (TAZ)	Protein42	Complex30	
+BiochemicalReaction3	Cleavage of p-STK3 (p-MST2) by caspase 3	Complex4	Protein7	
+BiochemicalReaction3	Cleavage of p-STK3 (p-MST2) by caspase 3	Complex4	Complex11	
+BiochemicalReaction30	YWHAE (14-3-3 epsilon) dimer binds phosphorylated WWTR1 (TAZ)	Protein42	Complex32	
+BiochemicalReaction30	YWHAE (14-3-3 epsilon) dimer binds phosphorylated WWTR1 (TAZ)	Complex31	Complex32	
+BiochemicalReaction4	Cleavage of p-STK4 (p-MST1) by caspase 3	Complex9	Protein11	
+BiochemicalReaction4	Cleavage of p-STK4 (p-MST1) by caspase 3	Complex9	Complex14	
+BiochemicalReaction5	KIBRA (WWC1) binds LATS proteins	Protein13	Complex16	
+BiochemicalReaction5	KIBRA (WWC1) binds LATS proteins	Protein14	Complex16	
+BiochemicalReaction6	NPHP4 protein binds LATS proteins	Protein17	Complex17	
+BiochemicalReaction6	NPHP4 protein binds LATS proteins	Protein14	Complex17	
+BiochemicalReaction7	Phosphorylation of LATS1 and 2 by p-STK3 (p-MST2)	Complex18	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of LATS1 and 2 by p-STK3 (p-MST2)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of LATS1 and 2 by p-STK3 (p-MST2)	SmallMolecule1	Complex19	
+BiochemicalReaction7	Phosphorylation of LATS1 and 2 by p-STK3 (p-MST2)	Complex18	Complex19	
+BiochemicalReaction8	Phosphorylation of LATS1 and 2 by p-STK3 (MST2)/N	Complex18	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of LATS1 and 2 by p-STK3 (MST2)/N	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of LATS1 and 2 by p-STK3 (MST2)/N	SmallMolecule1	Complex19	
+BiochemicalReaction8	Phosphorylation of LATS1 and 2 by p-STK3 (MST2)/N	Complex18	Complex19	
+BiochemicalReaction9	Phosphorylation of LATS1 and 2 by p-STK4 (p-MST1)	Complex18	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of LATS1 and 2 by p-STK4 (p-MST1)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of LATS1 and 2 by p-STK4 (p-MST1)	SmallMolecule1	Complex19	
+BiochemicalReaction9	Phosphorylation of LATS1 and 2 by p-STK4 (p-MST1)	Complex18	Complex19	

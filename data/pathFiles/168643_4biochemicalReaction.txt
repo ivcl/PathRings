@@ -1,0 +1,90 @@
+BiochemicalReaction1	iE-DAP elicits a NOD1 response	Protein1	Complex1	
+BiochemicalReaction1	iE-DAP elicits a NOD1 response	SmallMolecule1	Complex1	
+BiochemicalReaction10	A20 deubiquitinates RIP2	Complex12	PhysicalEntity1	
+BiochemicalReaction10	A20 deubiquitinates RIP2	Complex12	Complex7	
+BiochemicalReaction11	K63 polyubiquitinated RIP2 associates with the TAK1 complex	Complex14	Complex15	
+BiochemicalReaction11	K63 polyubiquitinated RIP2 associates with the TAK1 complex	Complex12	Complex15	
+BiochemicalReaction12	TAK1 is activated	Complex15	Complex16	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex17	SmallMolecule4	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex17	Complex18	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule3	Complex18	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	Protein31	SmallMolecule4	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	Protein31	Protein32	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	SmallMolecule3	Protein32	
+BiochemicalReaction15	NOD1 induced apoptosis is mediated by RIP2 and CARD8	Complex1	Complex26	
+BiochemicalReaction15	NOD1 induced apoptosis is mediated by RIP2 and CARD8	Protein33	Complex26	
+BiochemicalReaction16	CARD9 binds RIP2 (and NOD2)	Complex6	Complex27	
+BiochemicalReaction16	CARD9 binds RIP2 (and NOD2)	Protein39	Complex27	
+BiochemicalReaction17	Activation of p38 MAPK	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction17	Activation of p38 MAPK	Protein40	SmallMolecule4	
+BiochemicalReaction17	Activation of p38 MAPK	Protein40	Protein45	
+BiochemicalReaction17	Activation of p38 MAPK	SmallMolecule3	Protein45	
+BiochemicalReaction18	ATP binds to P2X7	SmallMolecule5	Complex28	
+BiochemicalReaction18	ATP binds to P2X7	Protein50	Complex28	
+BiochemicalReaction19	P2X7 forms oligomeric non-selective cation channels	Complex28	Complex29	
+BiochemicalReaction2	MDP elicits a NOD2 response	SmallMolecule2	Complex2	
+BiochemicalReaction2	MDP elicits a NOD2 response	Protein2	Complex2	
+BiochemicalReaction20	P2X7 mediates loss of intracellular K+	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction21	P2X7 mediates membrane pores that include pannexin-1	Complex29	Complex30	
+BiochemicalReaction21	P2X7 mediates membrane pores that include pannexin-1	Protein51	Complex30	
+BiochemicalReaction22	SGT1 binds HSP90	Protein52	Complex31	
+BiochemicalReaction22	SGT1 binds HSP90	Protein53	Complex31	
+BiochemicalReaction23	SGT1:HSP90 binds inactive NLRP3	Protein54	Complex32	
+BiochemicalReaction23	SGT1:HSP90 binds inactive NLRP3	Complex31	Complex32	
+BiochemicalReaction24	TXNIP binds reduced thioredoxin	Protein55	Complex33	
+BiochemicalReaction24	TXNIP binds reduced thioredoxin	Protein56	Complex33	
+BiochemicalReaction25	ROS oxidize thioredoxin	Protein56	Protein57	
+BiochemicalReaction25	ROS oxidize thioredoxin	SmallMolecule8	Protein57	
+BiochemicalReaction26	TXNIP is released from oxidized thioredoxin	Complex34	Protein57	
+BiochemicalReaction26	TXNIP is released from oxidized thioredoxin	Complex34	Protein55	
+BiochemicalReaction27	TXNIP binds NLRP3	Protein55	Complex35	
+BiochemicalReaction27	TXNIP binds NLRP3	Protein54	Complex35	
+BiochemicalReaction28	NLRP3 activation by small molecules	Complex32	Complex36	
+BiochemicalReaction28	NLRP3 activation by small molecules	SmallMolecule9	Complex36	
+BiochemicalReaction28	NLRP3 activation by small molecules	SmallMolecule9	Complex31	
+BiochemicalReaction28	NLRP3 activation by small molecules	Complex32	Complex31	
+BiochemicalReaction29	NLRP3 activation by elicitor proteins	Complex32	Complex31	
+BiochemicalReaction29	NLRP3 activation by elicitor proteins	Protein58	Complex31	
+BiochemicalReaction29	NLRP3 activation by elicitor proteins	Protein58	Complex37	
+BiochemicalReaction29	NLRP3 activation by elicitor proteins	Complex32	Complex37	
+BiochemicalReaction3	Activated NOD1 oligomerizes	Complex1	Complex3	
+BiochemicalReaction30	NLRP3 oligomerizes via NACHT domains	Complex38	PhysicalEntity3	
+BiochemicalReaction31	ASC is recruited via a PYD-PYD interaction	PhysicalEntity3	Complex39	
+BiochemicalReaction31	ASC is recruited via a PYD-PYD interaction	Protein61	Complex39	
+BiochemicalReaction32	The CARD domain of ASC recruits Procaspase-1	Complex39	Complex40	
+BiochemicalReaction32	The CARD domain of ASC recruits Procaspase-1	Protein35	Complex40	
+BiochemicalReaction33	PSTPIP1 binds Pyrin	Complex41	Complex43	
+BiochemicalReaction33	PSTPIP1 binds Pyrin	Complex42	Complex43	
+BiochemicalReaction34	Pyrin binds ASC	Complex41	Complex44	
+BiochemicalReaction34	Pyrin binds ASC	Protein61	Complex44	
+BiochemicalReaction35	Bcl-2 and Bcl-XL bind NLRP1	Protein68	Complex46	
+BiochemicalReaction35	Bcl-2 and Bcl-XL bind NLRP1	Protein69	Complex46	
+BiochemicalReaction36	NLRP1 senses MDP	Protein68	Complex47	
+BiochemicalReaction36	NLRP1 senses MDP	SmallMolecule2	Complex47	
+BiochemicalReaction37	MDP:NLRP1 binds ATP	SmallMolecule3	Complex48	
+BiochemicalReaction37	MDP:NLRP1 binds ATP	Complex47	Complex48	
+BiochemicalReaction38	NLRP1 oligomerizes	Complex48	PhysicalEntity4	
+BiochemicalReaction39	IPAF is activated	Protein72	Complex49	
+BiochemicalReaction39	IPAF is activated	PhysicalEntity5	Complex49	
+BiochemicalReaction4	Activated NOD2 oligomerizes	Complex2	Complex4	
+BiochemicalReaction40	IPAF binds procaspase-1	Complex49	Complex50	
+BiochemicalReaction40	IPAF binds procaspase-1	Protein35	Complex50	
+BiochemicalReaction41	AIM2 binds dsDNA	SmallMolecule13	Complex51	
+BiochemicalReaction41	AIM2 binds dsDNA	Protein77	Complex51	
+BiochemicalReaction42	AIM2 oligomerizes	Complex51	PhysicalEntity6	
+BiochemicalReaction43	dsDNA:AIM2 clusters bind ASC	PhysicalEntity6	Complex52	
+BiochemicalReaction43	dsDNA:AIM2 clusters bind ASC	Protein61	Complex52	
+BiochemicalReaction44	dsDNA:AIM2:ASC cluster binds procaspase-1	Complex52	Complex53	
+BiochemicalReaction44	dsDNA:AIM2:ASC cluster binds procaspase-1	Protein35	Complex53	
+BiochemicalReaction5	Activated NOD oligomer recruites RIP2 (RICK)	Complex5	Complex6	
+BiochemicalReaction5	Activated NOD oligomer recruites RIP2 (RICK)	Protein3	Complex6	
+BiochemicalReaction6	RIP2 binds NEMO	Complex6	Complex7	
+BiochemicalReaction6	RIP2 binds NEMO	Protein4	Complex7	
+BiochemicalReaction7	RIP2 induces K63-linked ubiquitination of NEMO	PhysicalEntity1	Complex8	
+BiochemicalReaction7	RIP2 induces K63-linked ubiquitination of NEMO	Complex7	Complex8	
+BiochemicalReaction8	CYLD deubiquitinates NEMO	Complex8	PhysicalEntity1	
+BiochemicalReaction8	CYLD deubiquitinates NEMO	Complex8	Complex7	
+BiochemicalReaction9	RIP2 is K63 polyubiquitinated	PhysicalEntity1	Complex12	
+BiochemicalReaction9	RIP2 is K63 polyubiquitinated	Complex7	Complex12	

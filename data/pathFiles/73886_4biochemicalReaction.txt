@@ -1,0 +1,113 @@
+BiochemicalReaction1	Mis18 Complex Binds the Centromere.	Complex1	Complex3	
+BiochemicalReaction1	Mis18 Complex Binds the Centromere.	Complex2	Complex3	
+BiochemicalReaction10	Elongation of Extended Telomeric Chromosome End	SmallMolecule2	Complex17	
+BiochemicalReaction10	Elongation of Extended Telomeric Chromosome End	Complex15	Complex17	
+BiochemicalReaction10	Elongation of Extended Telomeric Chromosome End	SmallMolecule3	Complex17	
+BiochemicalReaction10	Elongation of Extended Telomeric Chromosome End	SmallMolecule4	Complex17	
+BiochemicalReaction10	Elongation of Extended Telomeric Chromosome End	SmallMolecule5	Complex17	
+BiochemicalReaction11	Disassociation of Telomerase RNP and the Chromosome End	Complex17	SmallMolecule7	
+BiochemicalReaction11	Disassociation of Telomerase RNP and the Chromosome End	Complex17	Complex12	
+BiochemicalReaction12	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	SmallMolecule8	Complex21	
+BiochemicalReaction12	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	Complex18	Complex21	
+BiochemicalReaction12	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	Complex18	Complex22	
+BiochemicalReaction12	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	SmallMolecule8	Complex22	
+BiochemicalReaction13	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule2	Complex23	
+BiochemicalReaction13	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	Complex22	Complex23	
+BiochemicalReaction13	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule3	Complex23	
+BiochemicalReaction13	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule4	Complex23	
+BiochemicalReaction13	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule5	Complex23	
+BiochemicalReaction14	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex23	Complex25	
+BiochemicalReaction14	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex24	Complex25	
+BiochemicalReaction14	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex24	Complex19	
+BiochemicalReaction14	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex23	Complex19	
+BiochemicalReaction15	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex26	SmallMolecule13	
+BiochemicalReaction15	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex25	SmallMolecule13	
+BiochemicalReaction15	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction15	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	SmallMolecule9	Complex27	
+BiochemicalReaction15	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex25	Complex27	
+BiochemicalReaction15	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex26	Complex27	
+BiochemicalReaction16	RFC dissociates after sliding clamp formation on the C-strand of the telomere	Complex27	Complex28	
+BiochemicalReaction16	RFC dissociates after sliding clamp formation on the C-strand of the telomere	Complex27	Complex24	
+BiochemicalReaction17	Formation of Processive Complex on the C-strand of the telomere	Complex29	Complex30	
+BiochemicalReaction17	Formation of Processive Complex on the C-strand of the telomere	Complex28	Complex30	
+BiochemicalReaction18	Formation of C-strand Okazaki fragments	Complex30	Complex31	
+BiochemicalReaction18	Formation of C-strand Okazaki fragments	SmallMolecule2	Complex31	
+BiochemicalReaction18	Formation of C-strand Okazaki fragments	SmallMolecule3	Complex31	
+BiochemicalReaction18	Formation of C-strand Okazaki fragments	SmallMolecule4	Complex31	
+BiochemicalReaction18	Formation of C-strand Okazaki fragments	SmallMolecule5	Complex31	
+BiochemicalReaction19	Formation of the Flap Intermediate on the C-strand	Complex31	Complex32	
+BiochemicalReaction2	HJURP:CENPA Complex Localizes to the Centromere.	Complex4	Complex6	
+BiochemicalReaction2	HJURP:CENPA Complex Localizes to the Centromere.	Complex3	Complex6	
+BiochemicalReaction20	RPA binds to the Flap on the C-strand	Complex32	Complex34	
+BiochemicalReaction20	RPA binds to the Flap on the C-strand	Complex33	Complex34	
+BiochemicalReaction21	Recruitment of Dna2 endonuclease to the C strand	Protein72	Complex35	
+BiochemicalReaction21	Recruitment of Dna2 endonuclease to the C strand	Complex34	Complex35	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	Protein72	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	SmallMolecule14	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	SmallMolecule15	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	SmallMolecule16	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	Complex36	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	SmallMolecule17	
+BiochemicalReaction22	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex35	Complex33	
+BiochemicalReaction23	Removal of remaining Flap from the C-strand	Complex36	Complex37	
+BiochemicalReaction24	Joining of adjacent Okazaki fragments of the C-strand	Complex37	Complex38	
+BiochemicalReaction25	Disassociation of Processive Complex and Completed Telomere End	Complex38	Complex26	
+BiochemicalReaction25	Disassociation of Processive Complex and Completed Telomere End	Complex38	Complex29	
+BiochemicalReaction25	Disassociation of Processive Complex and Completed Telomere End	Complex38	Complex39	
+BiochemicalReaction26	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Protein75	Complex42	
+BiochemicalReaction26	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Complex40	Complex42	
+BiochemicalReaction26	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Complex41	Complex42	
+BiochemicalReaction26	Incorporation Of Extended And Processed Telomere End Into Associated Protein Structure	Complex39	Complex42	
+BiochemicalReaction27	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Protein75	Complex43	
+BiochemicalReaction27	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Complex40	Complex43	
+BiochemicalReaction27	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Complex41	Complex43	
+BiochemicalReaction27	Incorporation Of Extended And Processed Telomere End Into Higher Order T-Loop And Associated Protein Structure	Complex39	Complex43	
+BiochemicalReaction28	Formation of Axial/Lateral Elements of Synaptonemal Complex	Protein82	Complex46	
+BiochemicalReaction28	Formation of Axial/Lateral Elements of Synaptonemal Complex	Protein83	Complex46	
+BiochemicalReaction28	Formation of Axial/Lateral Elements of Synaptonemal Complex	Complex45	Complex46	
+BiochemicalReaction29	Formation of the telomere bouquet	Complex46	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Complex43	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Protein92	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Protein93	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Protein94	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Protein95	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Protein96	Complex47	
+BiochemicalReaction29	Formation of the telomere bouquet	Protein97	Complex47	
+BiochemicalReaction3	Deposition of New CENPA-containing Nucleosomes at the Centromere.	Complex6	Complex7	
+BiochemicalReaction3	Deposition of New CENPA-containing Nucleosomes at the Centromere.	Protein21	Complex7	
+BiochemicalReaction3	Deposition of New CENPA-containing Nucleosomes at the Centromere.	Protein36	Complex7	
+BiochemicalReaction30	Synapsis	Complex46	Complex48	
+BiochemicalReaction30	Synapsis	Protein98	Complex48	
+BiochemicalReaction30	Synapsis	Protein99	Complex48	
+BiochemicalReaction30	Synapsis	Protein100	Complex48	
+BiochemicalReaction30	Synapsis	Protein101	Complex48	
+BiochemicalReaction30	Synapsis	Protein102	Complex48	
+BiochemicalReaction30	Synapsis	Protein103	Complex48	
+BiochemicalReaction30	Synapsis	Protein104	Complex48	
+BiochemicalReaction30	Synapsis	Protein105	Complex48	
+BiochemicalReaction31	Recruitment of BRCA1 to Unsynapsed Regions	Protein106	Complex53	
+BiochemicalReaction31	Recruitment of BRCA1 to Unsynapsed Regions	Complex51	Complex53	
+BiochemicalReaction32	Recruitment of ATR Kinase to Unsynapsed Regions	Complex53	Complex54	
+BiochemicalReaction32	Recruitment of ATR Kinase to Unsynapsed Regions	Protein107	Complex54	
+BiochemicalReaction33	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction33	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	Complex51	SmallMolecule13	
+BiochemicalReaction33	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	Complex51	Complex55	
+BiochemicalReaction33	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	SmallMolecule9	Complex55	
+BiochemicalReaction4	RSF Complex Binds the Centromere.	Complex7	Complex8	
+BiochemicalReaction4	RSF Complex Binds the Centromere.	Complex10	Complex8	
+BiochemicalReaction4	RSF Complex Binds the Centromere.	Complex10	Complex2	
+BiochemicalReaction4	RSF Complex Binds the Centromere.	Complex7	Complex2	
+BiochemicalReaction4	RSF Complex Binds the Centromere.	Complex10	Complex11	
+BiochemicalReaction4	RSF Complex Binds the Centromere.	Complex7	Complex11	
+BiochemicalReaction5	Biogenesis And Assembly Of The Telomerase RNP	Rna1	Complex12	
+BiochemicalReaction5	Biogenesis And Assembly Of The Telomerase RNP	Protein48	Complex12	
+BiochemicalReaction5	Biogenesis And Assembly Of The Telomerase RNP	Protein49	Complex12	
+BiochemicalReaction6	Recruitment of Telomerase RNP to the Telomeric Chromosome End	SmallMolecule1	Complex13	
+BiochemicalReaction6	Recruitment of Telomerase RNP to the Telomeric Chromosome End	Complex12	Complex13	
+BiochemicalReaction7	Alignment Of The RNA Template On The Telomeric Chromosome End	Complex13	Complex14	
+BiochemicalReaction8	Elongation Of The Telomeric Chromosome End	SmallMolecule2	Complex15	
+BiochemicalReaction8	Elongation Of The Telomeric Chromosome End	SmallMolecule3	Complex15	
+BiochemicalReaction8	Elongation Of The Telomeric Chromosome End	Complex14	Complex15	
+BiochemicalReaction8	Elongation Of The Telomeric Chromosome End	SmallMolecule4	Complex15	
+BiochemicalReaction8	Elongation Of The Telomeric Chromosome End	SmallMolecule5	Complex15	
+BiochemicalReaction9	Translocation Of Telomerase RNP And Alignment Of RNA Template (TERC) To Extended Single Stranded Telomeric Chromosome-End	Complex15	Complex16	

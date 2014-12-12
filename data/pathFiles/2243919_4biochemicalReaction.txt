@@ -1,0 +1,40 @@
+BiochemicalReaction1	Prolysyl oxidase activation	Protein1	Protein7	
+BiochemicalReaction1	Prolysyl oxidase activation	Protein1	Protein13	
+BiochemicalReaction10	Formation of lysyl-pyrrole cross-links	Complex4	Complex9	
+BiochemicalReaction10	Formation of lysyl-pyrrole cross-links	Complex5	Complex9	
+BiochemicalReaction11	Formation of hydroxylysyl-pyrrole cross-links	Complex6	Complex10	
+BiochemicalReaction11	Formation of hydroxylysyl-pyrrole cross-links	Complex4	Complex10	
+BiochemicalReaction12	Formation of histidino-hydroxylysinonorleucine cross-links	PhysicalEntity2	Complex11	
+BiochemicalReaction12	Formation of histidino-hydroxylysinonorleucine cross-links	Complex4	Complex11	
+BiochemicalReaction2	Formation of allysine by LOX	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction2	Formation of allysine by LOX	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction2	Formation of allysine by LOX	SmallMolecule2	PhysicalEntity3	
+BiochemicalReaction2	Formation of allysine by LOX	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Formation of allysine by LOX	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Formation of allysine by LOX	PhysicalEntity2	SmallMolecule3	
+BiochemicalReaction2	Formation of allysine by LOX	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Formation of allysine by LOX	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Formation of allysine by LOX	PhysicalEntity2	SmallMolecule4	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	PhysicalEntity2	SmallMolecule3	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	PhysicalEntity4	SmallMolecule3	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	SmallMolecule2	PhysicalEntity5	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	SmallMolecule1	PhysicalEntity5	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	PhysicalEntity2	PhysicalEntity5	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	PhysicalEntity4	SmallMolecule4	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	Formation of hydroxyallysine by LOX	PhysicalEntity2	SmallMolecule4	
+BiochemicalReaction4	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity3	Complex3	
+BiochemicalReaction4	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity2	Complex3	
+BiochemicalReaction5	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity3	Complex4	
+BiochemicalReaction5	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity2	Complex4	
+BiochemicalReaction6	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity2	Complex5	
+BiochemicalReaction6	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity5	Complex5	
+BiochemicalReaction7	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity2	Complex6	
+BiochemicalReaction7	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity5	Complex6	
+BiochemicalReaction8	Formation of lysyl-pyridinoline cross-links	Complex6	Complex7	
+BiochemicalReaction8	Formation of lysyl-pyridinoline cross-links	Complex5	Complex7	
+BiochemicalReaction9	Formation of hydroxylysyl-pyridinoline cross-links	Complex6	Complex8	

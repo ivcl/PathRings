@@ -1,0 +1,12 @@
+BiochemicalReaction1	Initiation of cRNA Synthesis	Complex1	Complex3	
+BiochemicalReaction1	Initiation of cRNA Synthesis	SmallMolecule1	Complex3	
+BiochemicalReaction1	Initiation of cRNA Synthesis	Complex2	Complex3	
+BiochemicalReaction2	cRNA Extension	Complex3	Complex4	
+BiochemicalReaction2	cRNA Extension	Protein1	Complex4	
+BiochemicalReaction2	cRNA Extension	SmallMolecule1	Complex4	
+BiochemicalReaction2	cRNA Extension	SmallMolecule1	Complex1	
+BiochemicalReaction2	cRNA Extension	Protein1	Complex1	
+BiochemicalReaction2	cRNA Extension	Complex3	Complex1	
+BiochemicalReaction2	cRNA Extension	SmallMolecule1	Complex2	
+BiochemicalReaction2	cRNA Extension	Protein1	Complex2	
+BiochemicalReaction2	cRNA Extension	Complex3	Complex2	

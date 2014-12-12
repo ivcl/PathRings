@@ -1,0 +1,252 @@
+BiochemicalReaction1	IFN alpha/beta binds to IFNAR2	Complex1	Complex2	
+BiochemicalReaction1	IFN alpha/beta binds to IFNAR2	PhysicalEntity1	Complex2	
+BiochemicalReaction10	Translocation of ISGF3 complex to nucleus	Complex18	Complex19	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Protein25	SmallMolecule2	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Complex13	SmallMolecule2	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Complex13	Complex21	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	SmallMolecule1	Complex21	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Protein25	Complex21	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Complex13	Complex13	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	SmallMolecule1	Complex13	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Protein25	Complex13	
+BiochemicalReaction12	Translocation of p-STAT1:p-STAT1 dimer to nucleus	Complex21	Complex22	
+BiochemicalReaction13	ISGF3 binds the ISRE promoter elements in IFN-stimulated genes	Complex19	Complex23	
+BiochemicalReaction13	ISGF3 binds the ISRE promoter elements in IFN-stimulated genes	PhysicalEntity2	Complex23	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein39	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein112	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein113	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein114	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein115	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein116	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein117	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein126	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein127	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein130	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein131	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein132	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein133	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein134	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein135	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein136	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein137	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein138	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein139	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein144	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein145	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein146	
+BiochemicalReaction15	Inhibition of JAK kinase activity by SOCS1/3	Protein147	Complex24	
+BiochemicalReaction15	Inhibition of JAK kinase activity by SOCS1/3	Complex4	Complex24	
+BiochemicalReaction16	UBP43 binds IFNAR2 and prevents JAK1 interaction	Protein2	Complex26	
+BiochemicalReaction16	UBP43 binds IFNAR2 and prevents JAK1 interaction	Protein150	Complex26	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	Complex5	SmallMolecule4	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	SmallMolecule3	Complex27	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	Complex5	Complex27	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	Complex27	SmallMolecule4	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	SmallMolecule3	Complex4	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	Complex27	Complex4	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	Complex15	SmallMolecule4	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	SmallMolecule3	Complex28	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	Complex15	Complex28	
+BiochemicalReaction2	Recruitment of IFNAR1	Complex3	Complex4	
+BiochemicalReaction2	Recruitment of IFNAR1	Complex2	Complex4	
+BiochemicalReaction20	Interaction of IFNG with IFNGR	Complex31	Complex35	
+BiochemicalReaction20	Interaction of IFNG with IFNGR	Complex34	Complex35	
+BiochemicalReaction21	Phosphorylation of JAK2	Complex35	Complex36	
+BiochemicalReaction21	Phosphorylation of JAK2	SmallMolecule1	Complex36	
+BiochemicalReaction21	Phosphorylation of JAK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	Phosphorylation of JAK2	Complex35	SmallMolecule2	
+BiochemicalReaction22	Transphosphorylation of JAK1	Complex36	Complex39	
+BiochemicalReaction22	Transphosphorylation of JAK1	SmallMolecule1	Complex39	
+BiochemicalReaction22	Transphosphorylation of JAK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	Transphosphorylation of JAK1	Complex36	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of IFNGR1 by JAK kinases	Complex39	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of IFNGR1 by JAK kinases	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of IFNGR1 by JAK kinases	SmallMolecule1	Complex43	
+BiochemicalReaction23	Phosphorylation of IFNGR1 by JAK kinases	Complex39	Complex43	
+BiochemicalReaction24	Binding of STAT1 to p-IFNGR1	Protein25	Complex46	
+BiochemicalReaction24	Binding of STAT1 to p-IFNGR1	Complex43	Complex46	
+BiochemicalReaction25	Phoshorylation of STAT1 by JAK kinases	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction25	Phoshorylation of STAT1 by JAK kinases	Complex46	SmallMolecule2	
+BiochemicalReaction25	Phoshorylation of STAT1 by JAK kinases	Complex46	Complex47	
+BiochemicalReaction25	Phoshorylation of STAT1 by JAK kinases	SmallMolecule1	Complex47	
+BiochemicalReaction26	Phosphorylation of STAT1 at Ser727	Complex47	Complex48	
+BiochemicalReaction26	Phosphorylation of STAT1 at Ser727	SmallMolecule1	Complex48	
+BiochemicalReaction26	Phosphorylation of STAT1 at Ser727	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of STAT1 at Ser727	Complex47	SmallMolecule2	
+BiochemicalReaction27	Release of STAT1 dimer from active receptor unit	Complex48	Complex49	
+BiochemicalReaction27	Release of STAT1 dimer from active receptor unit	Complex48	Complex43	
+BiochemicalReaction28	Translocation of STAT1 dimer to nucleus	Complex49	Complex51	
+BiochemicalReaction29	GAF binds the GAS promoter elements in the IFNG-regulated genes	Complex51	Complex52	
+BiochemicalReaction29	GAF binds the GAS promoter elements in the IFNG-regulated genes	PhysicalEntity4	Complex52	
+BiochemicalReaction3	Activation of JAK kinases	SmallMolecule1	Complex5	
+BiochemicalReaction3	Activation of JAK kinases	Complex4	Complex5	
+BiochemicalReaction3	Activation of JAK kinases	Complex4	SmallMolecule2	
+BiochemicalReaction3	Activation of JAK kinases	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein39	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein167	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein170	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein117	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein177	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein178	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein179	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Complex53	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein206	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein207	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein139	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein208	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein213	
+BiochemicalReaction30	Expression of IFNG-stimulated genes	NA	Protein214	
+BiochemicalReaction31	SOCS-1 and SOCS-3 binds to p-JAK2	Protein147	Complex42	
+BiochemicalReaction31	SOCS-1 and SOCS-3 binds to p-JAK2	Complex36	Complex42	
+BiochemicalReaction32	Dephosphorylation of JAKs by PTPs	Complex39	SmallMolecule4	
+BiochemicalReaction32	Dephosphorylation of JAKs by PTPs	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction32	Dephosphorylation of JAKs by PTPs	SmallMolecule3	Complex35	
+BiochemicalReaction32	Dephosphorylation of JAKs by PTPs	Complex39	Complex35	
+BiochemicalReaction33	PIAS1 binds p-STAT1 dimer	Protein216	Complex54	
+BiochemicalReaction33	PIAS1 binds p-STAT1 dimer	Complex51	Complex54	
+BiochemicalReaction33	PIAS1 binds p-STAT1 dimer	Protein217	Complex54	
+BiochemicalReaction34	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	Complex51	Protein218	
+BiochemicalReaction34	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	SmallMolecule5	Protein218	
+BiochemicalReaction34	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction34	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	Complex51	SmallMolecule6	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	Protein145	SmallMolecule7	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	Protein220	SmallMolecule7	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	Protein220	SmallMolecule8	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	Protein145	SmallMolecule8	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	Protein220	Complex55	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	Protein145	Complex55	
+BiochemicalReaction35	Activation of ISG15 by UBE1L E1 ligase	SmallMolecule1	Complex55	
+BiochemicalReaction36	Transfer of ISG15 from E1 to E2 (UBCH8)	Protein221	Complex56	
+BiochemicalReaction36	Transfer of ISG15 from E1 to E2 (UBCH8)	Complex55	Complex56	
+BiochemicalReaction36	Transfer of ISG15 from E1 to E2 (UBCH8)	Complex55	Protein220	
+BiochemicalReaction36	Transfer of ISG15 from E1 to E2 (UBCH8)	Protein221	Protein220	
+BiochemicalReaction37	Interaction of E3 ligase with ISG15:E2 complex	Protein222	Complex57	
+BiochemicalReaction37	Interaction of E3 ligase with ISG15:E2 complex	Complex56	Complex57	
+BiochemicalReaction38	ISGylation of host proteins	PhysicalEntity5	Protein222	
+BiochemicalReaction38	ISGylation of host proteins	SmallMolecule1	Protein222	
+BiochemicalReaction38	ISGylation of host proteins	Complex57	Protein222	
+BiochemicalReaction38	ISGylation of host proteins	Complex57	Protein221	
+BiochemicalReaction38	ISGylation of host proteins	SmallMolecule1	Protein221	
+BiochemicalReaction38	ISGylation of host proteins	PhysicalEntity5	Protein221	
+BiochemicalReaction38	ISGylation of host proteins	Complex57	SmallMolecule7	
+BiochemicalReaction38	ISGylation of host proteins	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction38	ISGylation of host proteins	PhysicalEntity5	SmallMolecule7	
+BiochemicalReaction38	ISGylation of host proteins	Complex57	SmallMolecule8	
+BiochemicalReaction38	ISGylation of host proteins	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction38	ISGylation of host proteins	PhysicalEntity5	SmallMolecule8	
+BiochemicalReaction38	ISGylation of host proteins	Complex57	Complex58	
+BiochemicalReaction38	ISGylation of host proteins	SmallMolecule1	Complex58	
+BiochemicalReaction38	ISGylation of host proteins	PhysicalEntity5	Complex58	
+BiochemicalReaction39	ISGylation of host protein filamin B	Protein232	Complex59	
+BiochemicalReaction39	ISGylation of host protein filamin B	SmallMolecule1	Complex59	
+BiochemicalReaction39	ISGylation of host protein filamin B	Complex57	Complex59	
+BiochemicalReaction39	ISGylation of host protein filamin B	Complex57	Protein222	
+BiochemicalReaction39	ISGylation of host protein filamin B	SmallMolecule1	Protein222	
+BiochemicalReaction39	ISGylation of host protein filamin B	Protein232	Protein222	
+BiochemicalReaction39	ISGylation of host protein filamin B	Complex57	Protein221	
+BiochemicalReaction39	ISGylation of host protein filamin B	SmallMolecule1	Protein221	
+BiochemicalReaction39	ISGylation of host protein filamin B	Protein232	Protein221	
+BiochemicalReaction39	ISGylation of host protein filamin B	Complex57	SmallMolecule7	
+BiochemicalReaction39	ISGylation of host protein filamin B	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction39	ISGylation of host protein filamin B	Protein232	SmallMolecule7	
+BiochemicalReaction39	ISGylation of host protein filamin B	Complex57	SmallMolecule8	
+BiochemicalReaction39	ISGylation of host protein filamin B	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction39	ISGylation of host protein filamin B	Protein232	SmallMolecule8	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	Complex5	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	SmallMolecule1	Complex9	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	Complex5	Complex9	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein233	Complex60	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	Complex60	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex57	Complex60	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex57	Protein222	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	Protein222	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein233	Protein222	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex57	Protein221	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	Protein221	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein233	Protein221	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex57	SmallMolecule7	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein233	SmallMolecule7	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex57	SmallMolecule8	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction40	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein233	SmallMolecule8	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	SmallMolecule1	Protein222	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Complex57	Protein222	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Protein234	Protein222	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Protein234	Protein221	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Complex57	Protein221	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	SmallMolecule1	Protein221	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Protein234	SmallMolecule7	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Complex57	SmallMolecule7	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Protein234	SmallMolecule8	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Complex57	SmallMolecule8	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Protein234	Complex61	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	Complex57	Complex61	
+BiochemicalReaction41	ISGylation of E2 conjugating enzymes	SmallMolecule1	Complex61	
+BiochemicalReaction42	Interaction of ISG15 with NEDD4 and inhibition of Ebola virus budding	Protein145	Complex62	
+BiochemicalReaction42	Interaction of ISG15 with NEDD4 and inhibition of Ebola virus budding	Protein236	Complex62	
+BiochemicalReaction43	ISGylation of viral protein NS1	Protein237	Protein222	
+BiochemicalReaction43	ISGylation of viral protein NS1	SmallMolecule1	Protein222	
+BiochemicalReaction43	ISGylation of viral protein NS1	Complex57	Protein222	
+BiochemicalReaction43	ISGylation of viral protein NS1	Complex57	Protein221	
+BiochemicalReaction43	ISGylation of viral protein NS1	SmallMolecule1	Protein221	
+BiochemicalReaction43	ISGylation of viral protein NS1	Protein237	Protein221	
+BiochemicalReaction43	ISGylation of viral protein NS1	Complex57	SmallMolecule7	
+BiochemicalReaction43	ISGylation of viral protein NS1	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction43	ISGylation of viral protein NS1	Protein237	SmallMolecule7	
+BiochemicalReaction43	ISGylation of viral protein NS1	Complex57	SmallMolecule8	
+BiochemicalReaction43	ISGylation of viral protein NS1	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction43	ISGylation of viral protein NS1	Protein237	SmallMolecule8	
+BiochemicalReaction43	ISGylation of viral protein NS1	Complex57	Complex63	
+BiochemicalReaction43	ISGylation of viral protein NS1	SmallMolecule1	Complex63	
+BiochemicalReaction43	ISGylation of viral protein NS1	Protein237	Complex63	
+BiochemicalReaction44	Translocation of Influenza A virus nonstructural protein 1 (NS1A) into the nucleus	Complex64	Complex65	
+BiochemicalReaction44	Translocation of Influenza A virus nonstructural protein 1 (NS1A) into the nucleus	PhysicalEntity6	Complex65	
+BiochemicalReaction45	ISGylation of IRF3	SmallMolecule1	Protein222	
+BiochemicalReaction45	ISGylation of IRF3	Complex57	Protein222	
+BiochemicalReaction45	ISGylation of IRF3	Protein120	Protein222	
+BiochemicalReaction45	ISGylation of IRF3	Protein120	Protein221	
+BiochemicalReaction45	ISGylation of IRF3	Complex57	Protein221	
+BiochemicalReaction45	ISGylation of IRF3	SmallMolecule1	Protein221	
+BiochemicalReaction45	ISGylation of IRF3	Protein120	SmallMolecule7	
+BiochemicalReaction45	ISGylation of IRF3	Complex57	SmallMolecule7	
+BiochemicalReaction45	ISGylation of IRF3	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction45	ISGylation of IRF3	Protein120	SmallMolecule8	
+BiochemicalReaction45	ISGylation of IRF3	Complex57	SmallMolecule8	
+BiochemicalReaction45	ISGylation of IRF3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction45	ISGylation of IRF3	Protein120	Complex70	
+BiochemicalReaction45	ISGylation of IRF3	Complex57	Complex70	
+BiochemicalReaction45	ISGylation of IRF3	SmallMolecule1	Complex70	
+BiochemicalReaction46	ISGylation of protein translation regulator 4EHP	Protein286	Complex71	
+BiochemicalReaction46	ISGylation of protein translation regulator 4EHP	Complex57	Complex71	
+BiochemicalReaction47	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex72	Complex73	
+BiochemicalReaction47	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex71	Complex73	
+BiochemicalReaction47	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex71	Complex74	
+BiochemicalReaction47	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex72	Complex74	
+BiochemicalReaction48	PIN1 mediated IRF3 degradation	Complex75	Protein298	
+BiochemicalReaction49	Monoubiquitination of N-myristoyl GAG (P12493) protein	Protein300	Complex77	
+BiochemicalReaction49	Monoubiquitination of N-myristoyl GAG (P12493) protein	Protein315	Complex77	
+BiochemicalReaction5	Recruitment of STAT2 to p-IFNAR1	Protein3	Complex11	
+BiochemicalReaction5	Recruitment of STAT2 to p-IFNAR1	Complex9	Complex11	
+BiochemicalReaction50	Regulation of protein ISGylation by ISG15 deconjugating enzyme USP18	Complex58	PhysicalEntity5	
+BiochemicalReaction50	Regulation of protein ISGylation by ISG15 deconjugating enzyme USP18	Complex58	PhysicalEntity8	
+BiochemicalReaction6	Phosphorylation of STAT2	Complex11	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of STAT2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of STAT2	SmallMolecule1	Complex13	
+BiochemicalReaction6	Phosphorylation of STAT2	Complex11	Complex13	
+BiochemicalReaction7	Phosphorylation of STAT1	Protein24	Complex15	
+BiochemicalReaction7	Phosphorylation of STAT1	SmallMolecule1	Complex15	
+BiochemicalReaction7	Phosphorylation of STAT1	Complex13	Complex15	
+BiochemicalReaction8	Release of p-STAT2:p-STAT1 dimer	Complex15	Complex17	
+BiochemicalReaction8	Release of p-STAT2:p-STAT1 dimer	Complex15	Complex9	
+BiochemicalReaction9	Interaction of IRF9 with p-STAT2:p-STAT1	Complex17	Complex18	
+BiochemicalReaction9	Interaction of IRF9 with p-STAT2:p-STAT1	Protein33	Complex18	

@@ -1,0 +1,17 @@
+Complex1	TRAF6:p-IRAK2	plasma membrane	Reactome DB_ID: 936961	Protein1	
+Complex1	TRAF6:p-IRAK2	plasma membrane	Reactome DB_ID: 936961	Protein2	
+Complex2	p-IRAK2:oligo-TRAF6	plasma membrane	Reactome DB_ID: 936990	Complex1	
+Complex2	p-IRAK2:oligo-TRAF6	plasma membrane	Reactome DB_ID: 936990	Protein2	
+Complex3	p-IRAK2:K63-linked pUb oligo-TRAF6	plasma membrane	Reactome DB_ID: 936988	Protein19	
+Complex3	p-IRAK2:K63-linked pUb oligo-TRAF6	plasma membrane	Reactome DB_ID: 936988	Protein1	
+Complex4	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein20	
+Complex4	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein21	
+Complex4	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein22	
+Complex5	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	plasma membrane	Reactome DB_ID: 936953	Complex4	
+Complex5	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	plasma membrane	Reactome DB_ID: 936953	PhysicalEntity1	
+Complex5	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	plasma membrane	Reactome DB_ID: 936953	Complex3	
+Complex6	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Protein20	
+Complex6	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	PhysicalEntity1	
+Complex6	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Complex3	
+Complex6	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Protein25	
+Complex6	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Protein22	

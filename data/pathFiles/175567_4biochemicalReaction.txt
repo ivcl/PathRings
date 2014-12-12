@@ -1,0 +1,14 @@
+BiochemicalReaction1	Target DNA binding	Complex1	Complex4	
+BiochemicalReaction1	Target DNA binding	PhysicalEntity3	Complex4	
+BiochemicalReaction1	Target DNA binding	PhysicalEntity3	Complex5	
+BiochemicalReaction1	Target DNA binding	Complex1	Complex5	
+BiochemicalReaction2	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex4	Complex5	
+BiochemicalReaction2	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex5	Complex5	
+BiochemicalReaction2	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex5	Complex6	
+BiochemicalReaction2	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex4	Complex6	
+BiochemicalReaction3	Gap repair completes provirus integration	Complex5	Complex5	
+BiochemicalReaction3	Gap repair completes provirus integration	Complex6	Complex5	
+BiochemicalReaction3	Gap repair completes provirus integration	Complex6	Complex8	
+BiochemicalReaction3	Gap repair completes provirus integration	Complex5	Complex8	
+BiochemicalReaction3	Gap repair completes provirus integration	Complex6	Protein5	
+BiochemicalReaction3	Gap repair completes provirus integration	Complex5	Protein5	

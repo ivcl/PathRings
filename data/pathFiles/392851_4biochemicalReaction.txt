@@ -1,0 +1,12 @@
+BiochemicalReaction1	Prostacyclin binds the Prostacyclin receptor PTGIR	Protein1	Complex1	
+BiochemicalReaction1	Prostacyclin binds the Prostacyclin receptor PTGIR	SmallMolecule1	Complex1	
+BiochemicalReaction2	Activated prostacyclin receptor binds G-protein Gs	Complex2	Complex5	
+BiochemicalReaction2	Activated prostacyclin receptor binds G-protein Gs	Complex1	Complex5	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	Complex5	SmallMolecule2	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	Complex5	Complex6	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	SmallMolecule3	Complex6	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	Protein1	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	Complex8	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	SmallMolecule1	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	Complex3	

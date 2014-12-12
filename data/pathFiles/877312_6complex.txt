@@ -1,0 +1,27 @@
+Complex1	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873811	Complex2	
+Complex1	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873811	Complex5	
+Complex10	IFNG:IFNGR complex	plasma membrane	Reactome DB_ID: 873829	Complex11	
+Complex10	IFNG:IFNGR complex	plasma membrane	Reactome DB_ID: 873829	Complex5	
+Complex11	IFNGR1:JAK1:INFG2:JAK2	plasma membrane	Reactome DB_ID: 873810	Complex12	
+Complex11	IFNGR1:JAK1:INFG2:JAK2	plasma membrane	Reactome DB_ID: 873810	Complex4	
+Complex12	IFNGR2:JAK2	plasma membrane	Reactome DB_ID: 873808	Protein4	
+Complex12	IFNGR2:JAK2	plasma membrane	Reactome DB_ID: 873808	Protein10	
+Complex13	p-STAT1 homodimer	nucleoplasm	Reactome DB_ID: 873824	Protein16	
+Complex14	p-STAT1 dimer:PIAS:SUMO1	nucleoplasm	Reactome DB_ID: 877297	Protein15	
+Complex14	p-STAT1 dimer:PIAS:SUMO1	nucleoplasm	Reactome DB_ID: 877297	Complex13	
+Complex14	p-STAT1 dimer:PIAS:SUMO1	nucleoplasm	Reactome DB_ID: 877297	Protein17	
+Complex2	IFNGR complex with p-JAK2	plasma membrane	Reactome DB_ID: 873830	Complex3	
+Complex2	IFNGR complex with p-JAK2	plasma membrane	Reactome DB_ID: 873830	Complex4	
+Complex3	IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873819	Protein4	
+Complex3	IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873819	Protein5	
+Complex4	IFNGR1:JAK1	plasma membrane	Reactome DB_ID: 873803	Protein6	
+Complex4	IFNGR1:JAK1	plasma membrane	Reactome DB_ID: 873803	Protein7	
+Complex5	IFNG homodimer	extracellular region	Reactome DB_ID: 873823	Protein8	
+Complex6	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3	plasma membrane	Reactome DB_ID: 873821	Protein1	
+Complex6	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3	plasma membrane	Reactome DB_ID: 873821	Complex1	
+Complex7	IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873820	Complex8	
+Complex7	IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873820	Complex5	
+Complex8	IFNGR complex with p-JAK	plasma membrane	Reactome DB_ID: 873800	Complex9	
+Complex8	IFNGR complex with p-JAK	plasma membrane	Reactome DB_ID: 873800	Complex3	
+Complex9	IFNGR1:p-JAK1	plasma membrane	Reactome DB_ID: 873807	Protein9	
+Complex9	IFNGR1:p-JAK1	plasma membrane	Reactome DB_ID: 873807	Protein7	

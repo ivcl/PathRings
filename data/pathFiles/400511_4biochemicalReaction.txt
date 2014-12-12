@@ -1,0 +1,6 @@
+BiochemicalReaction1	Processing of preproGIP to proGIP	Protein1	Protein5	
+BiochemicalReaction2	Transit of ProGIP from the ER Lumen to Secretory Granules	Protein5	Protein11	
+BiochemicalReaction3	Processing of proGIP to GIP	Protein11	Protein12	
+BiochemicalReaction4	Secretion of Glucose-dependent Insulinotropic Polypeptide from Intestinal K Cells	Protein12	Protein14	
+BiochemicalReaction5	Proteolytic Cleavage of Glucose-dependent Insulinotropic Polypeptide (GIP)	Protein14	Protein17	
+TemplateReaction1	Synthesis of prepro-Glucose-dependent Insulinotropic Polypeptide (preproGIP) in Intestinal K Cells	NA	Protein1	

@@ -1,0 +1,16 @@
+BiochemicalReaction1	Phosphorylated MAPKs phosphorylate ATF-2	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylated MAPKs phosphorylate ATF-2	Protein1	SmallMolecule2	
+BiochemicalReaction2	Activated JNKs phosphorylate c-JUN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Activated JNKs phosphorylate c-JUN	Protein12	SmallMolecule2	
+BiochemicalReaction2	Activated JNKs phosphorylate c-JUN	Protein12	Protein13	
+BiochemicalReaction2	Activated JNKs phosphorylate c-JUN	SmallMolecule1	Protein13	
+BiochemicalReaction3	c-FOS activation by phospho ERK1/2	Protein14	SmallMolecule2	
+BiochemicalReaction3	c-FOS activation by phospho ERK1/2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	c-FOS activation by phospho ERK1/2	SmallMolecule1	Protein15	
+BiochemicalReaction3	c-FOS activation by phospho ERK1/2	Protein14	Protein15	
+BiochemicalReaction4	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein2	Complex4	
+BiochemicalReaction4	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein13	Complex4	
+BiochemicalReaction5	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein13	Complex5	
+BiochemicalReaction5	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein15	Complex5	

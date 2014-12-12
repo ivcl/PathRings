@@ -1,0 +1,11 @@
+BiochemicalReaction1	Recognition and Binding of Core Promoter Elements by TFIID	Complex1	Complex2	
+BiochemicalReaction1	Recognition and Binding of Core Promoter Elements by TFIID	PhysicalEntity1	Complex2	
+BiochemicalReaction2	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Protein12	Complex4	
+BiochemicalReaction2	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Complex2	Complex4	
+BiochemicalReaction2	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Complex3	Complex4	
+BiochemicalReaction3	Recruitment of RNA Polymerase II Holoenzyme by TFIIF to the pol II promoter:TFIID:TFIIA:TFIIB complex	Complex4	Complex8	
+BiochemicalReaction3	Recruitment of RNA Polymerase II Holoenzyme by TFIIF to the pol II promoter:TFIID:TFIIA:TFIIB complex	Complex5	Complex8	
+BiochemicalReaction4	Binding of TFIIE to the growing preinitiation complex	Complex9	Complex10	
+BiochemicalReaction4	Binding of TFIIE to the growing preinitiation complex	Complex8	Complex10	
+BiochemicalReaction5	Formation of the closed pre-initiation complex	Complex11	Complex13	
+BiochemicalReaction5	Formation of the closed pre-initiation complex	Complex10	Complex13	

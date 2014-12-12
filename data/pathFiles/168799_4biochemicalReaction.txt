@@ -1,0 +1,17 @@
+BiochemicalReaction1	Binding of BoNT toxins to gut epithelial membrane	Complex1	Complex11	
+BiochemicalReaction1	Binding of BoNT toxins to gut epithelial membrane	Complex2	Complex11	
+BiochemicalReaction10	BoNT Light Chain Type C1 cleaves SNAP-25	Protein70	Protein72	
+BiochemicalReaction11	BoNT Light Chain Type E cleaves SNAP-25	Protein70	Protein73	
+BiochemicalReaction12	BoNT Light Chain Type C1 cleaves Syntaxin	Protein74	Protein89	
+BiochemicalReaction2	Transcytosis and internalization of BoNT	Complex11	Complex21	
+BiochemicalReaction3	Conformational change in BoNT induced by pH	Complex21	Complex32	
+BiochemicalReaction4	Pore or channel formation in endosomal membrane	Complex32	Complex33	
+BiochemicalReaction4	Pore or channel formation in endosomal membrane	Complex32	Complex22	
+BiochemicalReaction5	Transportation of BoNT Light chain to cytosol	Complex33	Complex33	
+BiochemicalReaction5	Transportation of BoNT Light chain to cytosol	Complex33	Complex34	
+BiochemicalReaction5	Transportation of BoNT Light chain to cytosol	Complex33	Protein57	
+BiochemicalReaction5	Transportation of BoNT Light chain to cytosol	Complex33	Complex39	
+BiochemicalReaction6	BoNT Light Chain Type  B cleaves VAMP-2	Protein60	Protein61	
+BiochemicalReaction7	BoNT Light Chain Type  D cleaves VAMP	Protein62	Protein64	
+BiochemicalReaction8	BoNT Light Chain Type  F cleaves VAMP	Protein62	Protein67	
+BiochemicalReaction9	BoNT Light Chain Type A cleaves SNAP-25	Protein70	Protein71	

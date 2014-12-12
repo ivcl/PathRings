@@ -1,0 +1,35 @@
+BiochemicalReaction1	Formation of Nef CD28 cytoplasmic tail complex	Protein1	Complex1	
+BiochemicalReaction1	Formation of Nef CD28 cytoplasmic tail complex	Protein2	Complex1	
+BiochemicalReaction10	Internalization of the CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex13	Complex14	
+BiochemicalReaction11	Formation of a Nef:ARF1:CD4 complex	Protein30	Complex15	
+BiochemicalReaction11	Formation of a Nef:ARF1:CD4 complex	Protein20	Complex15	
+BiochemicalReaction11	Formation of a Nef:ARF1:CD4 complex	Protein2	Complex15	
+BiochemicalReaction12	Degradation of CD4	Complex14	Protein28	
+BiochemicalReaction12	Degradation of CD4	Complex14	Complex12	
+BiochemicalReaction12	Degradation of CD4	Complex14	Protein2	
+BiochemicalReaction13	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Protein22	Complex17	
+BiochemicalReaction13	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex16	Complex17	
+BiochemicalReaction13	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex12	Complex17	
+BiochemicalReaction14	Internalization of the CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex17	Complex18	
+BiochemicalReaction15	Degradation of CD8	Complex18	Protein28	
+BiochemicalReaction15	Degradation of CD8	Complex18	Complex12	
+BiochemicalReaction15	Degradation of CD8	Complex18	Protein2	
+BiochemicalReaction2	Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex	Complex1	Complex2	
+BiochemicalReaction2	Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex	Protein3	Complex2	
+BiochemicalReaction3	Internalization of Nef:CD28:Clathrin-Coated Pit Adapter Protein Complex	Complex2	Complex3	
+BiochemicalReaction4	Formation of MHC I:Nef Complex	Complex4	Complex5	
+BiochemicalReaction4	Formation of MHC I:Nef Complex	Protein2	Complex5	
+BiochemicalReaction5	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex5	Complex7	
+BiochemicalReaction5	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex6	Complex7	
+BiochemicalReaction5	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Protein17	Complex7	
+BiochemicalReaction6	Transport of MHC I:Nef:AP-1:PACS-1 Complex	Complex7	Complex8	
+BiochemicalReaction7	Degradation of MHC I Complex	Complex8	Complex6	
+BiochemicalReaction7	Degradation of MHC I Complex	Complex8	Protein17	
+BiochemicalReaction7	Degradation of MHC I Complex	Complex8	Protein2	
+BiochemicalReaction8	Nef mediated disruption of CD4:Lck Complex	Complex10	Complex11	
+BiochemicalReaction8	Nef mediated disruption of CD4:Lck Complex	Protein2	Complex11	
+BiochemicalReaction8	Nef mediated disruption of CD4:Lck Complex	Protein2	Protein21	
+BiochemicalReaction8	Nef mediated disruption of CD4:Lck Complex	Complex10	Protein21	
+BiochemicalReaction9	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Protein22	Complex13	
+BiochemicalReaction9	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex11	Complex13	
+BiochemicalReaction9	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex12	Complex13	

@@ -1,0 +1,8 @@
+Complex1	p75NTR:sortilin complex	plasma membrane	Reactome DB_ID: 193698	Protein1	
+Complex1	p75NTR:sortilin complex	plasma membrane	Reactome DB_ID: 193698	Protein2	
+Complex2	pro-beta-NGF homodimer	extracellular region	Reactome DB_ID: 187029	Protein3	
+Complex3	pro-beta NGF:p75NTR:sortilin	plasma membrane	Reactome DB_ID: 193678	Complex2	
+Complex3	pro-beta NGF:p75NTR:sortilin	plasma membrane	Reactome DB_ID: 193678	Complex1	
+Complex4	mature beta-NGF homodimer	extracellular region	Reactome DB_ID: 187031	Protein4	
+Complex5	mature NGF homodimer:p75NTR	plasma membrane	Reactome DB_ID: 205123	Complex4	
+Complex5	mature NGF homodimer:p75NTR	plasma membrane	Reactome DB_ID: 205123	Protein2	

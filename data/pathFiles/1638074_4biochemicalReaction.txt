@@ -1,0 +1,54 @@
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction10	Extracellular KSPG translocates to the lysosome for degradation	Protein89	Protein97	
+BiochemicalReaction11	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	Protein97	SmallMolecule16	
+BiochemicalReaction11	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction11	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	SmallMolecule15	Protein105	
+BiochemicalReaction11	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	Protein97	Protein105	
+BiochemicalReaction12	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction12	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction12	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction12	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction13	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule15	SmallMolecule19	
+BiochemicalReaction13	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction13	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction13	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction14	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule20	SmallMolecule17	
+BiochemicalReaction14	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction14	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction14	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction15	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule15	SmallMolecule22	
+BiochemicalReaction15	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction15	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction15	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule15	SmallMolecule23	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	Protein2	Protein10	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	SmallMolecule9	Protein10	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	Protein2	SmallMolecule10	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein10	Protein24	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule7	Protein24	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein10	SmallMolecule10	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	Protein24	SmallMolecule10	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	SmallMolecule9	Protein38	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	Protein24	Protein38	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	SmallMolecule9	Protein46	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	Protein38	Protein46	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	Protein38	SmallMolecule10	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	Protein46	Protein54	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule11	Protein54	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	Protein46	SmallMolecule12	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein54	Protein68	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule13	Protein68	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein54	SmallMolecule14	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	Protein68	Protein80	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	SmallMolecule13	Protein80	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	Protein68	SmallMolecule14	
+BiochemicalReaction9	KSPG is secreted from the cell	Protein80	Protein89	

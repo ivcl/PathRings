@@ -1,0 +1,66 @@
+BiochemicalReaction1	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction1	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction1	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction1	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction10	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule31	SmallMolecule62	
+BiochemicalReaction10	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule60	SmallMolecule62	
+BiochemicalReaction10	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule60	SmallMolecule63	
+BiochemicalReaction10	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule31	SmallMolecule63	
+BiochemicalReaction10	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule60	SmallMolecule64	
+BiochemicalReaction10	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule31	SmallMolecule64	
+BiochemicalReaction11	Mitochondrial uptake of beta-alanine	SmallMolecule62	SmallMolecule65	
+BiochemicalReaction12	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule65	SmallMolecule67	
+BiochemicalReaction12	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule66	SmallMolecule67	
+BiochemicalReaction12	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule66	SmallMolecule68	
+BiochemicalReaction12	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule65	SmallMolecule68	
+BiochemicalReaction13	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule53	SmallMolecule56	
+BiochemicalReaction13	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule54	SmallMolecule56	
+BiochemicalReaction13	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction13	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule55	SmallMolecule69	
+BiochemicalReaction13	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule54	SmallMolecule69	
+BiochemicalReaction13	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule53	SmallMolecule69	
+BiochemicalReaction14	5,6-dihydrothymine + H2O => beta-ureidoisobutyrate	SmallMolecule69	SmallMolecule70	
+BiochemicalReaction14	5,6-dihydrothymine + H2O => beta-ureidoisobutyrate	SmallMolecule31	SmallMolecule70	
+BiochemicalReaction15	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule70	SmallMolecule71	
+BiochemicalReaction15	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule31	SmallMolecule71	
+BiochemicalReaction15	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule31	SmallMolecule63	
+BiochemicalReaction15	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule70	SmallMolecule63	
+BiochemicalReaction15	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule31	SmallMolecule64	
+BiochemicalReaction15	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule70	SmallMolecule64	
+BiochemicalReaction16	Mitochondrial uptake of (R)-3-aminoisobutyric acid	SmallMolecule71	SmallMolecule72	
+BiochemicalReaction17	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule66	SmallMolecule67	
+BiochemicalReaction17	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule72	SmallMolecule67	
+BiochemicalReaction17	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule72	SmallMolecule73	
+BiochemicalReaction17	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule66	SmallMolecule73	
+BiochemicalReaction2	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule14	SmallMolecule19	
+BiochemicalReaction2	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule15	SmallMolecule19	
+BiochemicalReaction2	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction2	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule14	SmallMolecule20	
+BiochemicalReaction3	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule25	SmallMolecule32	
+BiochemicalReaction3	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction3	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule31	SmallMolecule33	
+BiochemicalReaction3	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule25	SmallMolecule33	
+BiochemicalReaction4	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule25	SmallMolecule32	
+BiochemicalReaction4	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction4	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule31	SmallMolecule33	
+BiochemicalReaction4	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule25	SmallMolecule33	
+BiochemicalReaction5	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule41	SmallMolecule32	
+BiochemicalReaction5	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction5	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule31	SmallMolecule45	
+BiochemicalReaction5	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule41	SmallMolecule45	
+BiochemicalReaction6	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule32	SmallMolecule47	
+BiochemicalReaction6	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction6	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule46	SmallMolecule50	
+BiochemicalReaction6	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule32	SmallMolecule50	
+BiochemicalReaction7	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule32	SmallMolecule52	
+BiochemicalReaction7	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule51	SmallMolecule52	
+BiochemicalReaction7	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule51	SmallMolecule49	
+BiochemicalReaction7	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule32	SmallMolecule49	
+BiochemicalReaction8	reduction of uracil to form dihydrouracil	SmallMolecule54	SmallMolecule56	
+BiochemicalReaction8	reduction of uracil to form dihydrouracil	SmallMolecule50	SmallMolecule56	
+BiochemicalReaction8	reduction of uracil to form dihydrouracil	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction8	reduction of uracil to form dihydrouracil	SmallMolecule55	SmallMolecule57	
+BiochemicalReaction8	reduction of uracil to form dihydrouracil	SmallMolecule50	SmallMolecule57	
+BiochemicalReaction8	reduction of uracil to form dihydrouracil	SmallMolecule54	SmallMolecule57	
+BiochemicalReaction9	5,6-dihydrouracil + H2O => beta-ureidopropionate	SmallMolecule31	SmallMolecule60	
+BiochemicalReaction9	5,6-dihydrouracil + H2O => beta-ureidopropionate	SmallMolecule57	SmallMolecule60	

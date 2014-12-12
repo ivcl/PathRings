@@ -1,0 +1,281 @@
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule1	Protein4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	Protein1	Protein4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule2	Protein4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	Protein1	SmallMolecule3	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	Protein1	SmallMolecule4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex8	Protein51	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex4	Protein51	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex4	Complex9	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex8	Complex9	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex7	Protein55	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex11	Protein55	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex11	Complex12	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex7	Complex12	
+BiochemicalReaction12	Nuclear Export of Ubiquitinated HIF-alpha:VHL:EloB/C:CUL2:RBX1 Complex	Complex12	Complex9	
+BiochemicalReaction13	Destruction of Ubiquitinated HIF-alpha by the Proteasome	Complex9	Protein36	
+BiochemicalReaction13	Destruction of Ubiquitinated HIF-alpha by the Proteasome	Complex9	Complex2	
+BiochemicalReaction14	Translocation of HIF-alpha from Cytosol to Nucleus	Protein74	Protein75	
+BiochemicalReaction15	Formation of HIF-alpha:ARNT (HIF-1beta) Heterodimer	Protein76	Complex14	
+BiochemicalReaction15	Formation of HIF-alpha:ARNT (HIF-1beta) Heterodimer	Protein75	Complex14	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	Protein77	Complex15	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	Protein78	Complex15	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	Complex14	Complex15	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	PhysicalEntity1	Complex15	
+BiochemicalReaction17	MAPKs phosphorylate ETS1 and ETS2	Protein82	SmallMolecule10	
+BiochemicalReaction17	MAPKs phosphorylate ETS1 and ETS2	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction17	MAPKs phosphorylate ETS1 and ETS2	SmallMolecule9	Protein85	
+BiochemicalReaction17	MAPKs phosphorylate ETS1 and ETS2	Protein82	Protein85	
+BiochemicalReaction18	Phosphorylated ETS1/ETS2 binds p16-INK4A promoter	Dna1	Complex19	
+BiochemicalReaction18	Phosphorylated ETS1/ETS2 binds p16-INK4A promoter	Protein85	Complex19	
+BiochemicalReaction19	p-T38-ETS1/p-T72-ETS2 stimulates transcription of p16-INK4A mRNA	Dna1	Rna1	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein2	Protein8	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule1	Protein8	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule2	Protein8	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein2	SmallMolecule3	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein2	SmallMolecule4	
+BiochemicalReaction20	ID1 sequesters ETS2	Protein87	Complex20	
+BiochemicalReaction20	ID1 sequesters ETS2	Protein90	Complex20	
+BiochemicalReaction21	ERF binds ETS2 promoter	Protein91	Complex21	
+BiochemicalReaction21	ERF binds ETS2 promoter	Dna2	Complex21	
+BiochemicalReaction22	ERF inhibits ETS2 expression	Dna2	Protein84	
+BiochemicalReaction23	Activated ERKs phosphorylate ERF	Protein91	Protein92	
+BiochemicalReaction23	Activated ERKs phosphorylate ERF	SmallMolecule9	Protein92	
+BiochemicalReaction23	Activated ERKs phosphorylate ERF	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction23	Activated ERKs phosphorylate ERF	Protein91	SmallMolecule10	
+BiochemicalReaction24	Phosphorylated ERF translocates to the cytosol	Protein92	Protein93	
+BiochemicalReaction25	Association of INK4A with Cdk4/6	Protein94	Complex22	
+BiochemicalReaction25	Association of INK4A with Cdk4/6	Protein99	Complex22	
+BiochemicalReaction26	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Complex23	Complex24	
+BiochemicalReaction26	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Dna1	Complex24	
+BiochemicalReaction26	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Protein107	Complex24	
+BiochemicalReaction27	E2F1/E2F2/E2F3 and SP1 stimulate transcription of p14-ARF mRNA	Dna1	Rna2	
+BiochemicalReaction28	miR-24 binds p16-INK4a and p14-ARF mRNAs	Rna3	Complex27	
+BiochemicalReaction28	miR-24 binds p16-INK4a and p14-ARF mRNAs	Complex25	Complex27	
+BiochemicalReaction29	Translation of p14-ARF mRNA is inhibited by miR-24	Rna2	Protein117	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	Protein3	Protein12	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule1	Protein12	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule2	Protein12	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	Protein3	SmallMolecule3	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	Protein3	SmallMolecule4	
+BiochemicalReaction30	Translation of p16-INK4a mRNA is inhibited by miR-24	Rna1	Protein96	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Complex28	Complex30	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Protein59	Complex30	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Protein59	Complex31	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Complex28	Complex31	
+BiochemicalReaction32	p14-ARF forms a ternary complex with MDM2 and TP53	Complex28	Complex32	
+BiochemicalReaction32	p14-ARF forms a ternary complex with MDM2 and TP53	Protein117	Complex32	
+BiochemicalReaction33	p14-ARF sequesters MDM2	Complex32	Complex33	
+BiochemicalReaction33	p14-ARF sequesters MDM2	Complex32	Complex29	
+BiochemicalReaction34	ROS oxidize thioredoxin and activate MAP3K5	Complex34	Protein122	
+BiochemicalReaction34	ROS oxidize thioredoxin and activate MAP3K5	SmallMolecule11	Protein122	
+BiochemicalReaction34	ROS oxidize thioredoxin and activate MAP3K5	SmallMolecule11	Protein121	
+BiochemicalReaction34	ROS oxidize thioredoxin and activate MAP3K5	Complex34	Protein121	
+BiochemicalReaction35	MAP3K5 phosphorylates MKK3 and MKK6	Protein127	Protein130	
+BiochemicalReaction35	MAP3K5 phosphorylates MKK3 and MKK6	SmallMolecule12	Protein130	
+BiochemicalReaction35	MAP3K5 phosphorylates MKK3 and MKK6	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction35	MAP3K5 phosphorylates MKK3 and MKK6	Protein127	SmallMolecule13	
+BiochemicalReaction36	Phosphorylated MKK3/MKK6 migrates to nucleus	Protein130	Protein133	
+BiochemicalReaction37	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex35	Complex36	
+BiochemicalReaction37	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule9	Complex36	
+BiochemicalReaction37	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction37	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex35	SmallMolecule10	
+BiochemicalReaction38		Complex36	SmallMolecule10	
+BiochemicalReaction38		SmallMolecule9	SmallMolecule10	
+BiochemicalReaction38		SmallMolecule9	Complex37	
+BiochemicalReaction38		Complex36	Complex37	
+BiochemicalReaction39	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	Protein148	SmallMolecule13	
+BiochemicalReaction39	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction39	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	SmallMolecule12	Protein149	
+BiochemicalReaction39	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	Protein148	Protein149	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	Protein13	SmallMolecule3	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule2	Protein14	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	Protein13	Protein14	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule1	Protein14	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	Protein13	SmallMolecule4	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction40	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein150	SmallMolecule13	
+BiochemicalReaction40	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction40	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule12	Protein154	
+BiochemicalReaction40	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein150	Protein154	
+BiochemicalReaction41	Activated human JNKs migrate to nucleoplasm	Protein154	Protein160	
+BiochemicalReaction42	Activated JNKs phosphorylate c-JUN	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction42	Activated JNKs phosphorylate c-JUN	Protein164	SmallMolecule10	
+BiochemicalReaction42	Activated JNKs phosphorylate c-JUN	Protein164	Protein165	
+BiochemicalReaction42	Activated JNKs phosphorylate c-JUN	SmallMolecule9	Protein165	
+BiochemicalReaction43	c-FOS activation by phospho ERK1/2	Protein166	SmallMolecule10	
+BiochemicalReaction43	c-FOS activation by phospho ERK1/2	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction43	c-FOS activation by phospho ERK1/2	SmallMolecule9	Protein167	
+BiochemicalReaction43	c-FOS activation by phospho ERK1/2	Protein166	Protein167	
+BiochemicalReaction44	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein165	Complex38	
+BiochemicalReaction44	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein167	Complex38	
+BiochemicalReaction45	E2F1/2/3:DP1/2 binds EED gene promoter	Complex23	Complex39	
+BiochemicalReaction45	E2F1/2/3:DP1/2 binds EED gene promoter	Dna3	Complex39	
+BiochemicalReaction46	E2F1/2/3 stimulates EED transcription	Dna3	Protein168	
+BiochemicalReaction47	E2F1/2/3:DP1/2 binds EZH2 gene promoter	Complex23	Complex40	
+BiochemicalReaction47	E2F1/2/3:DP1/2 binds EZH2 gene promoter	Dna4	Complex40	
+BiochemicalReaction48	E2F1/2/3 stimulates EZH2 transcription	Dna4	Protein169	
+BiochemicalReaction49	E2F1/2/3:DP1/2 binds SUZ12 gene promoter	Complex23	Complex41	
+BiochemicalReaction49	E2F1/2/3:DP1/2 binds SUZ12 gene promoter	Dna5	Complex41	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein15	SmallMolecule7	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein15	SmallMolecule8	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule6	Protein16	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein15	Protein16	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule5	Protein16	
+BiochemicalReaction50	E2F1/2/3 stimulates SUZ12 transcription	Dna5	Protein170	
+BiochemicalReaction51	Formation of PRC2-EZH2 complex	Protein168	Complex42	
+BiochemicalReaction51	Formation of PRC2-EZH2 complex	Protein171	Complex42	
+BiochemicalReaction51	Formation of PRC2-EZH2 complex	Protein172	Complex42	
+BiochemicalReaction51	Formation of PRC2-EZH2 complex	Protein169	Complex42	
+BiochemicalReaction51	Formation of PRC2-EZH2 complex	Protein170	Complex42	
+BiochemicalReaction52	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	Complex43	SmallMolecule15	
+BiochemicalReaction52	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction52	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	SmallMolecule14	Complex45	
+BiochemicalReaction52	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	Complex43	Complex45	
+BiochemicalReaction53	PRC1.4 complex binds H3K27Me3 nucleosomes on CDKN2A promoter	Complex45	Complex48	
+BiochemicalReaction53	PRC1.4 complex binds H3K27Me3 nucleosomes on CDKN2A promoter	Complex47	Complex48	
+BiochemicalReaction54	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule9	Complex45	
+BiochemicalReaction54	p-MAPKAPK3 phosphorylates BMI1	Complex48	Complex45	
+BiochemicalReaction54	p-MAPKAPK3 phosphorylates BMI1	Complex48	SmallMolecule10	
+BiochemicalReaction54	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction54	p-MAPKAPK3 phosphorylates BMI1	Complex48	Complex49	
+BiochemicalReaction54	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule9	Complex49	
+BiochemicalReaction55	MAPKAPK2/3-mediated removal of PRC1.4 complex stimulates p14-ARF transcription	Complex45	Rna2	
+BiochemicalReaction56	ERK1/2-activated AP1 complex binds KDM6B promoter	Dna6	Complex51	
+BiochemicalReaction56	ERK1/2-activated AP1 complex binds KDM6B promoter	Complex38	Complex51	
+BiochemicalReaction57	AP-1 complex stimulates KDM6B transcription	Dna6	Complex52	
+BiochemicalReaction58	KDM6B demethylates H3K27me3 on p16-INK4A promoter	Complex45	SmallMolecule7	
+BiochemicalReaction58	KDM6B demethylates H3K27me3 on p16-INK4A promoter	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction58	KDM6B demethylates H3K27me3 on p16-INK4A promoter	SmallMolecule6	Complex43	
+BiochemicalReaction58	KDM6B demethylates H3K27me3 on p16-INK4A promoter	Complex45	Complex43	
+BiochemicalReaction59	Demethylation of H3K27Me3 by KDM6B stimulates p16-INK4A transcription, while binding of PRC1.4 complex to H3K27Me3 represses p16-INK4A transcription	Complex43	Rna1	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	Protein20	SmallMolecule7	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	Protein20	SmallMolecule8	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule6	Protein21	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	Protein20	Protein21	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule5	Protein21	
+BiochemicalReaction60	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	SmallMolecule9	Complex54	
+BiochemicalReaction60	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	Complex53	Complex54	
+BiochemicalReaction60	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	Complex53	SmallMolecule10	
+BiochemicalReaction60	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction61		Complex54	SmallMolecule10	
+BiochemicalReaction61		SmallMolecule9	SmallMolecule10	
+BiochemicalReaction61		SmallMolecule9	Complex55	
+BiochemicalReaction61		Complex54	Complex55	
+BiochemicalReaction62	MAPKAPK5 phosphorylates TP53	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction62	MAPKAPK5 phosphorylates TP53	Complex29	SmallMolecule10	
+BiochemicalReaction62	MAPKAPK5 phosphorylates TP53	Complex29	Complex56	
+BiochemicalReaction62	MAPKAPK5 phosphorylates TP53	SmallMolecule9	Complex56	
+BiochemicalReaction63	ROS induce double strand DNA breaks	SmallMolecule17	PhysicalEntity2	
+BiochemicalReaction63	ROS induce double strand DNA breaks	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction64	Telomere shortening during replicative exhaustion	Complex57	PhysicalEntity5	
+BiochemicalReaction64	Telomere shortening during replicative exhaustion	Complex57	Complex58	
+BiochemicalReaction65	MRN complex binds DNA double strand breaks and shortened telomeres	Complex61	Complex62	
+BiochemicalReaction65	MRN complex binds DNA double strand breaks and shortened telomeres	PhysicalEntity6	Complex62	
+BiochemicalReaction66	MRN complex bound to DNA ends recruits ATM	Complex62	Complex64	
+BiochemicalReaction66	MRN complex bound to DNA ends recruits ATM	Complex63	Complex64	
+BiochemicalReaction67	MRN activates ATM	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction67	MRN activates ATM	Complex64	SmallMolecule10	
+BiochemicalReaction67	MRN activates ATM	Complex64	Complex62	
+BiochemicalReaction67	MRN activates ATM	SmallMolecule9	Complex62	
+BiochemicalReaction67	MRN activates ATM	Complex64	Protein234	
+BiochemicalReaction67	MRN activates ATM	SmallMolecule9	Protein234	
+BiochemicalReaction68	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction68	Phosphorylation of p53 at ser-15 by ATM kinase	Complex29	SmallMolecule10	
+BiochemicalReaction68	Phosphorylation of p53 at ser-15 by ATM kinase	Complex29	Complex65	
+BiochemicalReaction68	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule9	Complex65	
+BiochemicalReaction69	TP53 binds CDKN1A promoter	Dna7	Complex66	
+BiochemicalReaction69	TP53 binds CDKN1A promoter	Complex65	Complex66	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	Protein22	SmallMolecule7	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	Protein22	SmallMolecule8	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule6	Protein23	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	Protein22	Protein23	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule5	Protein23	
+BiochemicalReaction70	Transcriptional activation of p21 by p53 after DNA damage	Dna7	Protein236	
+BiochemicalReaction71	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Complex67	Complex68	
+BiochemicalReaction71	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Protein241	Complex68	
+BiochemicalReaction72	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex69	Complex70	
+BiochemicalReaction72	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein241	Complex70	
+BiochemicalReaction73	Initiation of SAHF formation	Protein246	Complex71	
+BiochemicalReaction73	Initiation of SAHF formation	Protein247	Complex71	
+BiochemicalReaction73	Initiation of SAHF formation	Protein248	Complex71	
+BiochemicalReaction73	Initiation of SAHF formation	Protein249	Complex71	
+BiochemicalReaction74	CDKN1A (p21) prevents association of Cyclin A:Cdk2 with Cdh1	Complex72	Complex75	
+BiochemicalReaction74	CDKN1A (p21) prevents association of Cyclin A:Cdk2 with Cdh1	Complex73	Complex75	
+BiochemicalReaction75	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex75	SmallMolecule10	
+BiochemicalReaction75	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction75	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule9	Complex76	
+BiochemicalReaction75	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex75	Complex76	
+BiochemicalReaction76	Cdh1:APC/C complex binds EHMT1:EHMT2	Complex73	Complex79	
+BiochemicalReaction76	Cdh1:APC/C complex binds EHMT1:EHMT2	Complex78	Complex79	
+BiochemicalReaction77	Cdh1:APC/C ubiquitinates EHMT1 and EHMT2	Complex79	Complex80	
+BiochemicalReaction77	Cdh1:APC/C ubiquitinates EHMT1 and EHMT2	Protein59	Complex80	
+BiochemicalReaction78	EHMT1:EHMT2 methylates IL6 promoter	Complex83	SmallMolecule15	
+BiochemicalReaction78	EHMT1:EHMT2 methylates IL6 promoter	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction78	EHMT1:EHMT2 methylates IL6 promoter	SmallMolecule14	Complex84	
+BiochemicalReaction78	EHMT1:EHMT2 methylates IL6 promoter	Complex83	Complex84	
+BiochemicalReaction79	EHMT1:EHMT2 methylates IL8 promoter	Complex86	SmallMolecule15	
+BiochemicalReaction79	EHMT1:EHMT2 methylates IL8 promoter	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction79	EHMT1:EHMT2 methylates IL8 promoter	SmallMolecule14	Complex87	
+BiochemicalReaction79	EHMT1:EHMT2 methylates IL8 promoter	Complex86	Complex87	
+BiochemicalReaction8	Cytosolic VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Complex2	Complex4	
+BiochemicalReaction8	Cytosolic VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Protein29	Complex4	
+BiochemicalReaction80	ERK1/2/5 activate RSK1/2/3	SmallMolecule9	Protein276	
+BiochemicalReaction80	ERK1/2/5 activate RSK1/2/3	Protein272	Protein276	
+BiochemicalReaction80	ERK1/2/5 activate RSK1/2/3	Protein272	SmallMolecule10	
+BiochemicalReaction80	ERK1/2/5 activate RSK1/2/3	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction81	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction81	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	Protein282	SmallMolecule10	
+BiochemicalReaction81	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	Protein282	Protein283	
+BiochemicalReaction81	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	SmallMolecule9	Protein283	
+BiochemicalReaction82	RPS6KA1/2/3 phosphorylates CEBPB on S321	Protein283	SmallMolecule10	
+BiochemicalReaction82	RPS6KA1/2/3 phosphorylates CEBPB on S321	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction82	RPS6KA1/2/3 phosphorylates CEBPB on S321	SmallMolecule9	Protein284	
+BiochemicalReaction82	RPS6KA1/2/3 phosphorylates CEBPB on S321	Protein283	Protein284	
+BiochemicalReaction83	CEBPB homodimerization	Protein284	Complex88	
+BiochemicalReaction84	Activated CEBPB binds IL6 promoter	Complex88	Complex89	
+BiochemicalReaction84	Activated CEBPB binds IL6 promoter	Complex83	Complex89	
+BiochemicalReaction85	Stimulation of IL6 transcription in senescent cells	Complex83	Protein285	
+BiochemicalReaction86	Activated STAT3 positively regulates CEBPB transcription	Dna10	Protein282	
+BiochemicalReaction87	Activated CEBPB binds IL8 promoter	Complex86	Complex91	
+BiochemicalReaction87	Activated CEBPB binds IL8 promoter	Complex88	Complex91	
+BiochemicalReaction88	Stimulation of IL8 transcription in senescent cells	Complex86	Protein287	
+BiochemicalReaction89	Activated CEBPB binds CDKN2B promoter	Complex88	Complex92	
+BiochemicalReaction89	Activated CEBPB binds CDKN2B promoter	Dna11	Complex92	
+BiochemicalReaction9	Nuclear VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Complex5	Complex7	
+BiochemicalReaction9	Nuclear VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Protein35	Complex7	
+BiochemicalReaction90	Activated CEBPB stimulates transcription of CDKN2B	Dna11	Protein95	
+BiochemicalReaction91	AP-1 transcription factor binds IGFBP7 promoter	Complex38	Complex93	
+BiochemicalReaction91	AP-1 transcription factor binds IGFBP7 promoter	Dna12	Complex93	
+BiochemicalReaction92	AP-1 stimulates transcription of IGFBP7	Dna12	Protein288	
+TemplateReaction1	Expression of Carbonic Anhydrase IX (CA9)	NA	Protein79	
+TemplateReaction2	Expression of VEGFA	NA	Protein80	
+TemplateReaction3	Expression of Erythropoietin (EPO)	NA	Protein81	
+TemplateReaction4	RAS signaling promotes generation of reactive oxygen species (ROS)	NA	SmallMolecule11	
+TemplateReaction5	Expression of MINK1/TNIK is positively regulated by ROS	NA	Protein123	

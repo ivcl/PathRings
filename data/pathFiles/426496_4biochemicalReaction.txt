@@ -1,0 +1,7 @@
+BiochemicalReaction1	Cleavage of Target RNAs by Endonucleolytic RISC	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	Binding of Inexactly Matching Target RNAs by RISC.	Complex4	Complex11	
+BiochemicalReaction2	Binding of Inexactly Matching Target RNAs by RISC.	PhysicalEntity5	Complex11	
+BiochemicalReaction2	Binding of Inexactly Matching Target RNAs by RISC.	Protein5	Complex11	
+BiochemicalReaction3	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	Complex13	Complex14	
+BiochemicalReaction3	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	PhysicalEntity1	Complex14	
+BiochemicalReaction3	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	Protein5	Complex14	

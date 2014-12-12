@@ -1,0 +1,64 @@
+Complex1	TGFB1:TGFBR2:p-TGFBR1	plasma membrane	Reactome DB_ID: 170841	Complex2	
+Complex1	TGFB1:TGFBR2:p-TGFBR1	plasma membrane	Reactome DB_ID: 170841	Complex3	
+Complex1	TGFB1:TGFBR2:p-TGFBR1	plasma membrane	Reactome DB_ID: 170841	Complex4	
+Complex10	TGFB1:p-TGFBR:I-SMAD7:GADD34:PP1:SARA	early endosome membrane	Reactome DB_ID: 2167884	Complex9	
+Complex10	TGFB1:p-TGFBR:I-SMAD7:GADD34:PP1:SARA	early endosome membrane	Reactome DB_ID: 2167884	Protein12	
+Complex10	TGFB1:p-TGFBR:I-SMAD7:GADD34:PP1:SARA	early endosome membrane	Reactome DB_ID: 2167884	Complex5	
+Complex11	TGFB1:TGFBR2:TGFBR1	early endosome membrane	Reactome DB_ID: 2167873	Complex2	
+Complex11	TGFB1:TGFBR2:TGFBR1	early endosome membrane	Reactome DB_ID: 2167873	Complex12	
+Complex11	TGFB1:TGFBR2:TGFBR1	early endosome membrane	Reactome DB_ID: 2167873	Complex4	
+Complex12	TGFBR1 homodimer	plasma membrane	Reactome DB_ID: 170864	Protein13	
+Complex13	SMAD7:SMURF2	nucleoplasm	Reactome DB_ID: 2167870	Protein14	
+Complex13	SMAD7:SMURF2	nucleoplasm	Reactome DB_ID: 2167870	Protein15	
+Complex14	SMAD7:SMURF2	cytosol	Reactome DB_ID: 2167883	Protein16	
+Complex14	SMAD7:SMURF2	cytosol	Reactome DB_ID: 2167883	Protein4	
+Complex15	SMAD7:SMURF1	nucleoplasm	Reactome DB_ID: 2167913	Protein14	
+Complex15	SMAD7:SMURF1	nucleoplasm	Reactome DB_ID: 2167913	Protein17	
+Complex16	SMAD7:SMURF1:XPO1	nucleoplasm	Reactome DB_ID: 2167923	Protein18	
+Complex16	SMAD7:SMURF1:XPO1	nucleoplasm	Reactome DB_ID: 2167923	Complex15	
+Complex17	SMAD7:SMURF1	cytosol	Reactome DB_ID: 2167927	Protein4	
+Complex17	SMAD7:SMURF1	cytosol	Reactome DB_ID: 2167927	Protein19	
+Complex18	SMAD7:NEDD4L	nucleoplasm	Reactome DB_ID: 2176418	Protein14	
+Complex18	SMAD7:NEDD4L	nucleoplasm	Reactome DB_ID: 2176418	Protein21	
+Complex19	SMAD7:NEDD4L	cytosol	Reactome DB_ID: 2176419	Protein4	
+Complex19	SMAD7:NEDD4L	cytosol	Reactome DB_ID: 2176419	Protein22	
+Complex2	Dimeric TGFB1	extracellular region	Reactome DB_ID: 170852	Protein1	
+Complex20	SMAD7:SMURF/NEDD4L	cytosol	Reactome DB_ID: 2169026	Protein4	
+Complex20	SMAD7:SMURF/NEDD4L	cytosol	Reactome DB_ID: 2169026	Protein23	
+Complex21	TGFB1:TGFBR2:p-TGFBR1:SMAD7:SMURF/NEDD4L	plasma membrane	Reactome DB_ID: 2169025	Complex1	
+Complex21	TGFB1:TGFBR2:p-TGFBR1:SMAD7:SMURF/NEDD4L	plasma membrane	Reactome DB_ID: 2169025	Complex20	
+Complex22	TGFB1:TGFBR2:Ub-p-TGFBR1:Ub-SMAD7	plasma membrane	Reactome DB_ID: 2169047	Protein24	
+Complex22	TGFB1:TGFBR2:Ub-p-TGFBR1:Ub-SMAD7	plasma membrane	Reactome DB_ID: 2169047	Complex5	
+Complex23	TGFB1:TGFBR2:Ub-p-TGFBR1:Ub-SMAD7:UCHL5/USP15	plasma membrane	Reactome DB_ID: 2179287	Protein39	
+Complex23	TGFB1:TGFBR2:Ub-p-TGFBR1:Ub-SMAD7:UCHL5/USP15	plasma membrane	Reactome DB_ID: 2179287	Complex22	
+Complex24	TGFB1:TGFBR2:p-TGFBR1:Ub-SMAD7	plasma membrane	Reactome DB_ID: 2179328	Protein24	
+Complex24	TGFB1:TGFBR2:p-TGFBR1:Ub-SMAD7	plasma membrane	Reactome DB_ID: 2179328	Complex5	
+Complex25	SMAD2:SMURF2	cytosol	Reactome DB_ID: 2176457	Protein16	
+Complex25	SMAD2:SMURF2	cytosol	Reactome DB_ID: 2176457	Protein42	
+Complex26	Ub-SMAD2	cytosol	Reactome DB_ID: 2176443	Protein24	
+Complex26	Ub-SMAD2	cytosol	Reactome DB_ID: 2176443	Protein42	
+Complex27	SMAD3:STUB1	cytosol	Reactome DB_ID: 2187365	Protein43	
+Complex27	SMAD3:STUB1	cytosol	Reactome DB_ID: 2187365	Protein44	
+Complex28	Ub-SMAD3	cytosol	Reactome DB_ID: 2187371	Protein24	
+Complex28	Ub-SMAD3	cytosol	Reactome DB_ID: 2187371	Protein44	
+Complex29	p-2S-SMAD2/3:PMEPA1	early endosome membrane	Reactome DB_ID: 2187343	Protein45	
+Complex29	p-2S-SMAD2/3:PMEPA1	early endosome membrane	Reactome DB_ID: 2187343	Protein48	
+Complex3	p-TGFBR1	plasma membrane	Reactome DB_ID: 170863	Protein2	
+Complex30	SMAD2/3:PMEPA1	plasma membrane	Reactome DB_ID: 2187341	Protein49	
+Complex30	SMAD2/3:PMEPA1	plasma membrane	Reactome DB_ID: 2187341	Protein50	
+Complex31	p-2S-SMAD2/3:MTMR4	early endosome membrane	Reactome DB_ID: 2187399	Protein45	
+Complex31	p-2S-SMAD2/3:MTMR4	early endosome membrane	Reactome DB_ID: 2187399	Protein51	
+Complex4	TGFBR2 homodimer	plasma membrane	Reactome DB_ID: 170866	Protein3	
+Complex5	TGFB1: p-TGFBR: I-SMAD7	plasma membrane	Reactome DB_ID: 173476	Complex2	
+Complex5	TGFB1: p-TGFBR: I-SMAD7	plasma membrane	Reactome DB_ID: 173476	Protein4	
+Complex5	TGFB1: p-TGFBR: I-SMAD7	plasma membrane	Reactome DB_ID: 173476	Complex3	
+Complex5	TGFB1: p-TGFBR: I-SMAD7	plasma membrane	Reactome DB_ID: 173476	Complex4	
+Complex6	TGFB1:p-TGFBR:STRAP	plasma membrane	Reactome DB_ID: 2127564	Complex1	
+Complex6	TGFB1:p-TGFBR:STRAP	plasma membrane	Reactome DB_ID: 2127564	Protein5	
+Complex7	TGFB1: p-TGFBR: STRAP: SMAD7	plasma membrane	Reactome DB_ID: 2128993	Complex6	
+Complex7	TGFB1: p-TGFBR: STRAP: SMAD7	plasma membrane	Reactome DB_ID: 2128993	Protein4	
+Complex8	TGFB1: TGFBR2: p-TGFBR1: BAMBI: SMAD7	plasma membrane	Reactome DB_ID: 173509	Complex1	
+Complex8	TGFB1: TGFBR2: p-TGFBR1: BAMBI: SMAD7	plasma membrane	Reactome DB_ID: 173509	Protein4	
+Complex8	TGFB1: TGFBR2: p-TGFBR1: BAMBI: SMAD7	plasma membrane	Reactome DB_ID: 173509	Protein6	
+Complex9	GADD34:PP1	cytosol	Reactome DB_ID: 2162158	Protein7	
+Complex9	GADD34:PP1	cytosol	Reactome DB_ID: 2162158	Protein8	

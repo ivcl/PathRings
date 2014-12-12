@@ -1,0 +1,32 @@
+BiochemicalReaction1	Fibrillin C-terminal processing	Protein1	Protein5	
+BiochemicalReaction1	Fibrillin C-terminal processing	Protein1	Protein9	
+BiochemicalReaction10	Emilin is found in elastic fibres	PhysicalEntity7	Complex13	
+BiochemicalReaction10	Emilin is found in elastic fibres	Complex12	Complex13	
+BiochemicalReaction11	LTBP1, LTBP3 bind TGF-Beta	Complex14	Complex18	
+BiochemicalReaction11	LTBP1, LTBP3 bind TGF-Beta	Protein42	Complex18	
+BiochemicalReaction12	LTBP4 binds TGF-Beta-1	Protein45	Complex19	
+BiochemicalReaction12	LTBP4 binds TGF-Beta-1	Complex15	Complex19	
+BiochemicalReaction13	Latent TGF-beta-1 binds integrins	Complex20	Complex25	
+BiochemicalReaction13	Latent TGF-beta-1 binds integrins	Complex15	Complex25	
+BiochemicalReaction14	Latent TGF-beta-3 binds integrins	Complex17	Complex27	
+BiochemicalReaction14	Latent TGF-beta-3 binds integrins	Complex26	Complex27	
+BiochemicalReaction15	Fibrillins bind BMPs	PhysicalEntity2	Complex28	
+BiochemicalReaction15	Fibrillins bind BMPs	Protein49	Complex28	
+BiochemicalReaction16	Fibrillin-1 binds latent TGF-beta	Protein55	Complex29	
+BiochemicalReaction16	Fibrillin-1 binds latent TGF-beta	PhysicalEntity1	Complex29	
+BiochemicalReaction17	Elastic fibres bind associated proteins	Protein57	Complex30	
+BiochemicalReaction17	Elastic fibres bind associated proteins	Complex13	Complex30	
+BiochemicalReaction2	Fibrillin-1 binds integrins	Complex1	Complex5	
+BiochemicalReaction2	Fibrillin-1 binds integrins	PhysicalEntity1	Complex5	
+BiochemicalReaction3	Fibrillin microfibril assembly	Protein9	PhysicalEntity2	
+BiochemicalReaction4	MFAP2, MFAP5 bind microfibrils	Protein19	Complex6	
+BiochemicalReaction4	MFAP2, MFAP5 bind microfibrils	PhysicalEntity2	Complex6	
+BiochemicalReaction5	Tropoelastin forms aggregate globules	Protein22	Complex7	
+BiochemicalReaction6	Tropoelastin associates with microfibrils	Complex6	Complex8	
+BiochemicalReaction6	Tropoelastin associates with microfibrils	Complex7	Complex8	
+BiochemicalReaction6	Tropoelastin associates with microfibrils	Protein23	Complex8	
+BiochemicalReaction7	Elastin cross-linking by lysyl oxidase	Complex8	Complex9	
+BiochemicalReaction8	FBLN1, FBLN2 bind fibronectin	PhysicalEntity6	Complex11	
+BiochemicalReaction8	FBLN1, FBLN2 bind fibronectin	Protein30	Complex11	
+BiochemicalReaction9	Fibulin binds elastic fibres	Protein33	Complex12	
+BiochemicalReaction9	Fibulin binds elastic fibres	Complex9	Complex12	

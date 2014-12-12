@@ -1,0 +1,76 @@
+BiochemicalReaction1	IFN alpha/beta binds to IFNAR2	Complex1	Complex2	
+BiochemicalReaction1	IFN alpha/beta binds to IFNAR2	PhysicalEntity1	Complex2	
+BiochemicalReaction10	Translocation of ISGF3 complex to nucleus	Complex18	Complex19	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Protein25	SmallMolecule2	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Complex13	SmallMolecule2	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Complex13	Complex21	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	SmallMolecule1	Complex21	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Protein25	Complex21	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Complex13	Complex13	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	SmallMolecule1	Complex13	
+BiochemicalReaction11	Formation of p-STAT1 homodimer	Protein25	Complex13	
+BiochemicalReaction12	Translocation of p-STAT1:p-STAT1 dimer to nucleus	Complex21	Complex22	
+BiochemicalReaction13	ISGF3 binds the ISRE promoter elements in IFN-stimulated genes	Complex19	Complex23	
+BiochemicalReaction13	ISGF3 binds the ISRE promoter elements in IFN-stimulated genes	PhysicalEntity2	Complex23	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein39	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein112	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein113	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein114	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein115	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein116	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein117	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein126	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein127	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein130	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein131	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein132	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein133	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein134	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein135	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein136	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein137	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein138	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein139	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein144	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein145	
+BiochemicalReaction14	Expression of IFN-induced genes	NA	Protein146	
+BiochemicalReaction15	Inhibition of JAK kinase activity by SOCS1/3	Protein147	Complex24	
+BiochemicalReaction15	Inhibition of JAK kinase activity by SOCS1/3	Complex4	Complex24	
+BiochemicalReaction16	UBP43 binds IFNAR2 and prevents JAK1 interaction	Protein2	Complex26	
+BiochemicalReaction16	UBP43 binds IFNAR2 and prevents JAK1 interaction	Protein150	Complex26	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	Complex5	SmallMolecule4	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	SmallMolecule3	Complex27	
+BiochemicalReaction17	Dephosphorylation of TYK2 by PTP1B	Complex5	Complex27	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	Complex27	SmallMolecule4	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	SmallMolecule3	Complex4	
+BiochemicalReaction18	Dephosphorylation of JAK1 by SHP1	Complex27	Complex4	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	Complex15	SmallMolecule4	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	SmallMolecule3	Complex28	
+BiochemicalReaction19	Dephosphorylation of STAT1 by SHP2	Complex15	Complex28	
+BiochemicalReaction2	Recruitment of IFNAR1	Complex3	Complex4	
+BiochemicalReaction2	Recruitment of IFNAR1	Complex2	Complex4	
+BiochemicalReaction3	Activation of JAK kinases	SmallMolecule1	Complex5	
+BiochemicalReaction3	Activation of JAK kinases	Complex4	Complex5	
+BiochemicalReaction3	Activation of JAK kinases	Complex4	SmallMolecule2	
+BiochemicalReaction3	Activation of JAK kinases	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	Complex5	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	SmallMolecule1	Complex9	
+BiochemicalReaction4	Phosphorylation of INFAR1 by TYK2	Complex5	Complex9	
+BiochemicalReaction5	Recruitment of STAT2 to p-IFNAR1	Protein3	Complex11	
+BiochemicalReaction5	Recruitment of STAT2 to p-IFNAR1	Complex9	Complex11	
+BiochemicalReaction6	Phosphorylation of STAT2	Complex11	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of STAT2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of STAT2	SmallMolecule1	Complex13	
+BiochemicalReaction6	Phosphorylation of STAT2	Complex11	Complex13	
+BiochemicalReaction7	Phosphorylation of STAT1	Protein24	Complex15	
+BiochemicalReaction7	Phosphorylation of STAT1	SmallMolecule1	Complex15	
+BiochemicalReaction7	Phosphorylation of STAT1	Complex13	Complex15	
+BiochemicalReaction8	Release of p-STAT2:p-STAT1 dimer	Complex15	Complex17	
+BiochemicalReaction8	Release of p-STAT2:p-STAT1 dimer	Complex15	Complex9	
+BiochemicalReaction9	Interaction of IRF9 with p-STAT2:p-STAT1	Complex17	Complex18	
+BiochemicalReaction9	Interaction of IRF9 with p-STAT2:p-STAT1	Protein33	Complex18	

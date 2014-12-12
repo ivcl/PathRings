@@ -1,0 +1,96 @@
+BiochemicalReaction1	PRDM9 Binds Recombination Hotspot Motifs in DNA	Protein1	Complex1	
+BiochemicalReaction1	PRDM9 Binds Recombination Hotspot Motifs in DNA	PhysicalEntity1	Complex1	
+BiochemicalReaction10	Formation of the telomere bouquet	Complex20	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Complex21	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Protein79	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Protein80	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Protein81	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Protein82	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Protein83	Complex25	
+BiochemicalReaction10	Formation of the telomere bouquet	Protein84	Complex25	
+BiochemicalReaction11	Synapsis	Complex20	Complex26	
+BiochemicalReaction11	Synapsis	Protein85	Complex26	
+BiochemicalReaction11	Synapsis	Protein86	Complex26	
+BiochemicalReaction11	Synapsis	Protein87	Complex26	
+BiochemicalReaction11	Synapsis	Protein88	Complex26	
+BiochemicalReaction11	Synapsis	Protein89	Complex26	
+BiochemicalReaction11	Synapsis	Protein90	Complex26	
+BiochemicalReaction11	Synapsis	Protein91	Complex26	
+BiochemicalReaction11	Synapsis	Protein92	Complex26	
+BiochemicalReaction12	Recruitment of BRCA1 to Unsynapsed Regions	Protein44	Complex30	
+BiochemicalReaction12	Recruitment of BRCA1 to Unsynapsed Regions	Complex29	Complex30	
+BiochemicalReaction13	Recruitment of ATR Kinase to Unsynapsed Regions	Complex30	Complex31	
+BiochemicalReaction13	Recruitment of ATR Kinase to Unsynapsed Regions	Protein93	Complex31	
+BiochemicalReaction14	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	Complex29	SmallMolecule4	
+BiochemicalReaction14	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	Complex29	Complex32	
+BiochemicalReaction14	ATR Phosphorylates Histone H2A.X at Unsynapsed Regions	SmallMolecule3	Complex32	
+BiochemicalReaction2	Trimethylation of Histone H3 by PRDM9	Complex2	SmallMolecule2	
+BiochemicalReaction2	Trimethylation of Histone H3 by PRDM9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Trimethylation of Histone H3 by PRDM9	SmallMolecule1	Complex3	
+BiochemicalReaction2	Trimethylation of Histone H3 by PRDM9	Complex2	Complex3	
+BiochemicalReaction3	Formation of Double-strand Break in DNA by SPO11	Complex4	Complex5	
+BiochemicalReaction3	Formation of Double-strand Break in DNA by SPO11	PhysicalEntity1	Complex5	
+BiochemicalReaction4	Removal of SPO11 and Resection of 5' Ends of DNA	Complex5	PhysicalEntity3	
+BiochemicalReaction4	Removal of SPO11 and Resection of 5' Ends of DNA	Complex5	Complex6	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Protein41	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	PhysicalEntity3	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Protein42	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Complex9	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Protein44	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Protein45	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Complex10	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Protein49	Complex11	
+BiochemicalReaction5	Formation of Early Recombination Nodule	Protein50	Complex11	
+BiochemicalReaction6	Meiotic Strand Invasion	Complex11	Complex13	
+BiochemicalReaction6	Meiotic Strand Invasion	PhysicalEntity1	Complex13	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein56	Complex15	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein57	Complex15	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein58	Complex15	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein59	Complex15	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Complex13	Complex15	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Complex13	Protein45	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein59	Protein45	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein58	Protein45	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein57	Protein45	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein56	Protein45	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Complex13	Protein49	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein59	Protein49	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein58	Protein49	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein57	Protein49	
+BiochemicalReaction7	Formation of Meiotic Holliday Junction	Protein56	Protein49	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Protein41	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Protein41	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Protein41	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Protein41	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Protein56	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Protein56	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Protein56	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Protein56	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Protein42	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Protein42	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Protein42	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Protein42	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Complex17	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Complex17	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Complex17	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Complex17	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Protein57	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Protein57	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Protein57	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Protein57	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Protein58	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Protein58	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Protein58	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Protein58	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Protein59	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Protein59	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Protein59	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Protein59	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein62	Complex10	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Complex15	Complex10	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein61	Complex10	
+BiochemicalReaction8	Resolution of Meiotic Holliday Junction	Protein60	Complex10	
+BiochemicalReaction9	Formation of Axial/Lateral Elements of Synaptonemal Complex	Protein63	Complex20	
+BiochemicalReaction9	Formation of Axial/Lateral Elements of Synaptonemal Complex	Protein64	Complex20	
+BiochemicalReaction9	Formation of Axial/Lateral Elements of Synaptonemal Complex	Complex19	Complex20	

@@ -1,0 +1,29 @@
+BiochemicalReaction1	AKT phosphorylates FOXO1A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates FOXO1A	Protein17	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates FOXO1A	Protein17	Protein18	
+BiochemicalReaction1	AKT phosphorylates FOXO1A	SmallMolecule1	Protein18	
+BiochemicalReaction2	Phosphorylated FOXO1A is excluded from the nucleus	Protein18	Protein23	
+TemplateReaction1	HNF1B-dependent synthesis of HNF6 protein	NA	Protein1	
+TemplateReaction10	RBPJ- and NOTCH1-dependent synthesis of HES1 protein during morphogenesis	NA	Protein10	
+TemplateReaction11	NEUROG3-dependent synthesis of PAX4 protein	NA	Protein13	
+TemplateReaction12	NEUROG3-dependent synthesis of NEUROD1	NA	Protein14	
+TemplateReaction13	NEUROG3-dependent synthesis of NKX2-2	NA	Protein15	
+TemplateReaction14	NEUROG3-dependent synthesis of INSM1	NA	Protein16	
+TemplateReaction15	FOXOA2-, MAFA-, and PAX6-dependent synthesis of PDX1 protein	NA	Protein6	
+TemplateReaction16	MAFA-, NKX2-2-, PAX6-, and PDX1-dependent synthesis of insulin precursor protein	NA	Protein27	
+TemplateReaction17	PDX1-dependent synthesis of IAPP protein	NA	Protein28	
+TemplateReaction18	PDX1-dependent synthesis of NKX6-1 protein	NA	Protein8	
+TemplateReaction19	NEUROD1- and PDX1-dependent synthesis of glucokinase (GCK) protein	NA	Protein29	
+TemplateReaction2	HNF1B- and FGF10-dependent synthesis of PTF1A protein	NA	Protein3	
+TemplateReaction20	HNF1A-dependent synthesis of GLUT2 protein	NA	Protein30	
+TemplateReaction21	HNF1A-dependent synthesis of the L isoform of PKLR protein	NA	Protein32	
+TemplateReaction22	HNF1A-dependent synthesis of HNF4A	NA	Protein33	
+TemplateReaction23	HNF1A-dependent synthesis of HNF4G protein	NA	Protein37	
+TemplateReaction24	HNF1A-dependent synthesis of FOXA3	NA	Protein38	
+TemplateReaction3	HNF6-dependent synthesis of ONECUT3 protein during early pancreas specification	NA	Protein5	
+TemplateReaction4	HNF6- and FGF10-dependent synthesis of PDX1 protein	NA	Protein6	
+TemplateReaction5	PDX1-dependent synthesis of NR5A2 protein	NA	Protein7	
+TemplateReaction6	PDX1-dependent synthesis of NKX6-1 protein	NA	Protein8	
+TemplateReaction7	HNF6-dependent synthesis of HNF1B protein	NA	Protein2	
+TemplateReaction8	HNF6-dependent synthesis of ONECUT3 protein during morphogenesis	NA	Protein5	
+TemplateReaction9	HNF6-dependent synthesis of NEUROG3 protein during morphogenesis	NA	Protein9	

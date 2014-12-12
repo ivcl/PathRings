@@ -1,0 +1,28 @@
+BiochemicalReaction1	Phosphorylation of LIN52 component of MuvB by DYRK1A	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of LIN52 component of MuvB by DYRK1A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of LIN52 component of MuvB by DYRK1A	SmallMolecule1	Complex2	
+BiochemicalReaction1	Phosphorylation of LIN52 component of MuvB by DYRK1A	Complex1	Complex2	
+BiochemicalReaction10	p130 (RBL2) in complex with E2F4/5:DP1/2 binds to cyclin E/A:CDK2	Complex8	Complex12	
+BiochemicalReaction10	p130 (RBL2) in complex with E2F4/5:DP1/2 binds to cyclin E/A:CDK2	Complex3	Complex12	
+BiochemicalReaction2	p130 (RBL2) associates with MuvB to form DREAM complex	Complex3	Complex4	
+BiochemicalReaction2	p130 (RBL2) associates with MuvB to form DREAM complex	Complex2	Complex4	
+BiochemicalReaction3	Transcription of E2F targets under negative control by DREAM complex	NA	Protein15	
+BiochemicalReaction3	Transcription of E2F targets under negative control by DREAM complex	NA	Protein16	
+BiochemicalReaction3	Transcription of E2F targets under negative control by DREAM complex	NA	Protein17	
+BiochemicalReaction3	Transcription of E2F targets under negative control by DREAM complex	NA	Protein18	
+BiochemicalReaction3	Transcription of E2F targets under negative control by DREAM complex	NA	Protein19	
+BiochemicalReaction3	Transcription of E2F targets under negative control by DREAM complex	NA	Protein20	
+BiochemicalReaction4	Recruitment of HDAC1 by p107 (RBL1)	Complex5	Complex6	
+BiochemicalReaction4	Recruitment of HDAC1 by p107 (RBL1)	Protein21	Complex6	
+BiochemicalReaction5	Recruitment of HDAC1 by p130 (RBL2)	Complex3	Complex7	
+BiochemicalReaction5	Recruitment of HDAC1 by p130 (RBL2)	Protein21	Complex7	
+BiochemicalReaction6	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein22	
+BiochemicalReaction6	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein15	
+BiochemicalReaction6	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein25	
+BiochemicalReaction6	Transcription of E2F targets under negative control by p107 (RBL1) and p130 (RBL2) in complex with HDAC1	NA	Protein26	
+BiochemicalReaction7	p107 (RBL1) binds CyclinE/A:CDK2	Complex8	Complex9	
+BiochemicalReaction7	p107 (RBL1) binds CyclinE/A:CDK2	Protein19	Complex9	
+BiochemicalReaction8	p107 (RBL1) in complex with E2F4:DP1/2 binds to cyclin E/A:CDK2	Complex5	Complex10	
+BiochemicalReaction8	p107 (RBL1) in complex with E2F4:DP1/2 binds to cyclin E/A:CDK2	Complex8	Complex10	
+BiochemicalReaction9	p130 (RBL2) binds Cyclin E/A:CDK2	Complex8	Complex11	
+BiochemicalReaction9	p130 (RBL2) binds Cyclin E/A:CDK2	Protein11	Complex11	

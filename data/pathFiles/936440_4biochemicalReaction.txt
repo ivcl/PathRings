@@ -1,0 +1,29 @@
+BiochemicalReaction1	RNF125 mediated ubiquitination of RIG-I, MDA5 and IPS-1	Protein1	Protein4	
+BiochemicalReaction1	RNF125 mediated ubiquitination of RIG-I, MDA5 and IPS-1	Protein1	Protein5	
+BiochemicalReaction1	RNF125 mediated ubiquitination of RIG-I, MDA5 and IPS-1	Protein1	Protein11	
+BiochemicalReaction10	TAX1BP1:A20 inhibit TBK1/IKKi K63-polyubiquitination	Complex17	Complex18	
+BiochemicalReaction10	TAX1BP1:A20 inhibit TBK1/IKKi K63-polyubiquitination	Protein67	Complex18	
+BiochemicalReaction11	NLRC5 interacts with RIG-I/MDA5 and inhibit IPS-1 binding	Complex7	Complex19	
+BiochemicalReaction11	NLRC5 interacts with RIG-I/MDA5 and inhibit IPS-1 binding	Protein70	Complex19	
+BiochemicalReaction12	Interaction of PCBP2 with MAVS/IPS-1	Protein71	Complex20	
+BiochemicalReaction12	Interaction of PCBP2 with MAVS/IPS-1	Complex12	Complex20	
+BiochemicalReaction13	Recruitment of AIP4 and K-48 ubiquitination of MAVS/IPS-1	Complex20	Complex21	
+BiochemicalReaction13	Recruitment of AIP4 and K-48 ubiquitination of MAVS/IPS-1	Protein72	Complex21	
+BiochemicalReaction13	Recruitment of AIP4 and K-48 ubiquitination of MAVS/IPS-1	PhysicalEntity2	Complex21	
+BiochemicalReaction2	Interaction of PIN1 with p-IRF3	Protein15	Complex3	
+BiochemicalReaction2	Interaction of PIN1 with p-IRF3	Complex2	Complex3	
+BiochemicalReaction3	PIN1 mediated IRF3 degradation	Complex3	Protein15	
+BiochemicalReaction4	Inhibition of RIG-I/MDA5 signaling by ATG5-ATG12 conjugate	Complex5	Complex10	
+BiochemicalReaction4	Inhibition of RIG-I/MDA5 signaling by ATG5-ATG12 conjugate	Complex7	Complex10	
+BiochemicalReaction5	CYLD mediated deubiquitination of RIG-I	Protein22	Protein26	
+BiochemicalReaction5	CYLD mediated deubiquitination of RIG-I	Protein22	Protein3	
+BiochemicalReaction6	Negative regulation of RIG-I/MDA5 signaling by DUBA	Complex11	Protein43	
+BiochemicalReaction6	Negative regulation of RIG-I/MDA5 signaling by DUBA	Complex11	Complex13	
+BiochemicalReaction7	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	Complex13	Protein60	
+BiochemicalReaction7	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	PhysicalEntity2	Protein60	
+BiochemicalReaction7	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	PhysicalEntity2	Complex12	
+BiochemicalReaction7	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	Complex13	Complex12	
+BiochemicalReaction8	NLRX1 inhibits IPS-1-RIG-I interaction.	Protein61	Complex14	
+BiochemicalReaction8	NLRX1 inhibits IPS-1-RIG-I interaction.	Protein21	Complex14	
+BiochemicalReaction9	ISGylation of RIG-I	Complex15	Complex16	
+BiochemicalReaction9	ISGylation of RIG-I	Protein3	Complex16	

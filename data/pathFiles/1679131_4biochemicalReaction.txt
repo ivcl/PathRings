@@ -1,0 +1,21 @@
+BiochemicalReaction1	TLR folding by chaperones GP96 and CNPY3	Protein1	Complex2	
+BiochemicalReaction1	TLR folding by chaperones GP96 and CNPY3	Protein2	Complex2	
+BiochemicalReaction1	TLR folding by chaperones GP96 and CNPY3	SmallMolecule1	Complex2	
+BiochemicalReaction1	TLR folding by chaperones GP96 and CNPY3	Complex1	Complex2	
+BiochemicalReaction2	Folded full-length TLR7/8/9 dissociates from the GP96:CNPY3 complex 	Complex2	Protein1	
+BiochemicalReaction2	Folded full-length TLR7/8/9 dissociates from the GP96:CNPY3 complex 	Complex2	Complex3	
+BiochemicalReaction2	Folded full-length TLR7/8/9 dissociates from the GP96:CNPY3 complex 	Complex2	SmallMolecule2	
+BiochemicalReaction2	Folded full-length TLR7/8/9 dissociates from the GP96:CNPY3 complex 	Complex2	Complex1	
+BiochemicalReaction3	Full-length TLR3/7/8/9 binds to UNC93B1	Protein7	Complex7	
+BiochemicalReaction3	Full-length TLR3/7/8/9 binds to UNC93B1	PhysicalEntity1	Complex7	
+BiochemicalReaction4	Endosomal TLRs pass through the Golgi	Complex7	Complex8	
+BiochemicalReaction5	UNC93B1 delivers endosomal full-length TLRs to endolysosome	Complex8	Protein14	
+BiochemicalReaction5	UNC93B1 delivers endosomal full-length TLRs to endolysosome	Complex8	Protein9	
+BiochemicalReaction5	UNC93B1 delivers endosomal full-length TLRs to endolysosome	Complex8	Complex12	
+BiochemicalReaction5	UNC93B1 delivers endosomal full-length TLRs to endolysosome	Complex8	Complex13	
+BiochemicalReaction5	UNC93B1 delivers endosomal full-length TLRs to endolysosome	Complex8	Complex14	
+BiochemicalReaction6	TLR processing at low pH	Complex13	Complex15	
+BiochemicalReaction6	TLR processing at low pH	Complex14	Complex15	
+BiochemicalReaction6	TLR processing at low pH	Complex14	Complex16	
+BiochemicalReaction6	TLR processing at low pH	Complex13	Complex16	
+BiochemicalReaction7	TLR9 processing at neutral pH	Complex14	Complex18	

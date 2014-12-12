@@ -1,0 +1,73 @@
+BiochemicalReaction1	Binding of ligand-responsive EGFR mutants to chaperoning proteins HSP90 and CDC37	Complex1	Complex3	
+BiochemicalReaction1	Binding of ligand-responsive EGFR mutants to chaperoning proteins HSP90 and CDC37	Complex2	Complex3	
+BiochemicalReaction1	Binding of ligand-responsive EGFR mutants to chaperoning proteins HSP90 and CDC37	PhysicalEntity1	Complex3	
+BiochemicalReaction10	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with p-EGFR mutants)	SmallMolecule3	Complex28	
+BiochemicalReaction10	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with p-EGFR mutants)	Complex27	Complex28	
+BiochemicalReaction10	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with p-EGFR mutants)	Complex27	SmallMolecule4	
+BiochemicalReaction10	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with p-EGFR mutants)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction11	Binding of SHC1 to p-EGFR mutants	PhysicalEntity2	Complex29	
+BiochemicalReaction11	Binding of SHC1 to p-EGFR mutants	Protein66	Complex29	
+BiochemicalReaction12	Phosphorylation of SHC1 by p-EGFR mutants	Complex29	Complex30	
+BiochemicalReaction12	Phosphorylation of SHC1 by p-EGFR mutants	SmallMolecule1	Complex30	
+BiochemicalReaction12	Phosphorylation of SHC1 by p-EGFR mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of SHC1 by p-EGFR mutants	Complex29	SmallMolecule2	
+BiochemicalReaction13	Phosphorylated SHC1 in complex with p-EGFR mutants recruits GRB2:SOS1 complex	Complex30	Complex31	
+BiochemicalReaction13	Phosphorylated SHC1 in complex with p-EGFR mutants recruits GRB2:SOS1 complex	Complex25	Complex31	
+BiochemicalReaction14	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with phosphorylated SHC1 and p-EGFR mutants)	SmallMolecule3	Complex28	
+BiochemicalReaction14	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with phosphorylated SHC1 and p-EGFR mutants)	Complex27	Complex28	
+BiochemicalReaction14	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with phosphorylated SHC1 and p-EGFR mutants)	Complex27	SmallMolecule4	
+BiochemicalReaction14	SOS-mediated nucleotide exchange of RAS (mediated by GRB2:SOS1 in complex with phosphorylated SHC1 and p-EGFR mutants)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction15	Binding of GRB2:GAB1:PIK3R1 complex to p-EGFR mutants	Complex32	Complex33	
+BiochemicalReaction15	Binding of GRB2:GAB1:PIK3R1 complex to p-EGFR mutants	PhysicalEntity2	Complex33	
+BiochemicalReaction16	Binding of PI3K p110 subunit alpha (PIK3CA) to complex of GRB2:GAB1:PIK3R1 and p-EGFR mutants	Protein70	Complex34	
+BiochemicalReaction16	Binding of PI3K p110 subunit alpha (PIK3CA) to complex of GRB2:GAB1:PIK3R1 and p-EGFR mutants	Complex33	Complex34	
+BiochemicalReaction17	Conversion of PIP2 to PIP3 by PI3K bound to phosphorylated EGFR mutants	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction17	Conversion of PIP2 to PIP3 by PI3K bound to phosphorylated EGFR mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	Conversion of PIP2 to PIP3 by PI3K bound to phosphorylated EGFR mutants	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction17	Conversion of PIP2 to PIP3 by PI3K bound to phosphorylated EGFR mutants	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction18	PLC-gamma 1 binds to p-EGFR mutants	PhysicalEntity2	Complex35	
+BiochemicalReaction18	PLC-gamma 1 binds to p-EGFR mutants	Protein71	Complex35	
+BiochemicalReaction19	Phosphorylation of PLC-gamma 1 by p-EGFR mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of PLC-gamma 1 by p-EGFR mutants	Complex35	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of PLC-gamma 1 by p-EGFR mutants	Complex35	Complex36	
+BiochemicalReaction19	Phosphorylation of PLC-gamma 1 by p-EGFR mutants	SmallMolecule1	Complex36	
+BiochemicalReaction2	Binding of EGF to ligand-responsive EGFR mutants	Protein30	Complex6	
+BiochemicalReaction2	Binding of EGF to ligand-responsive EGFR mutants	Complex3	Complex6	
+BiochemicalReaction20	Dissociation of phosphorylated PLC-gamma 1 from p-EGFR mutants	Complex36	Protein72	
+BiochemicalReaction20	Dissociation of phosphorylated PLC-gamma 1 from p-EGFR mutants	Complex36	PhysicalEntity2	
+BiochemicalReaction21	Binding of CBL to phosphorylated ligand-responsive EGFR mutants	Complex12	Complex37	
+BiochemicalReaction21	Binding of CBL to phosphorylated ligand-responsive EGFR mutants	Protein73	Complex37	
+BiochemicalReaction22	Phosphorylation of CBL by ligand-responsive p-6Y-EGFR mutants	Complex37	SmallMolecule2	
+BiochemicalReaction22	Phosphorylation of CBL by ligand-responsive p-6Y-EGFR mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	Phosphorylation of CBL by ligand-responsive p-6Y-EGFR mutants	SmallMolecule1	Complex38	
+BiochemicalReaction22	Phosphorylation of CBL by ligand-responsive p-6Y-EGFR mutants	Complex37	Complex38	
+BiochemicalReaction23	Inefficient ubiquitination of ligand-responsive EGFR mutants by phosphorylated CBL	Protein76	Complex39	
+BiochemicalReaction23	Inefficient ubiquitination of ligand-responsive EGFR mutants by phosphorylated CBL	Complex38	Complex39	
+BiochemicalReaction24	HSP90 is inactivated by binding to benzaquinoid ansamycins	Complex2	Complex40	
+BiochemicalReaction24	HSP90 is inactivated by binding to benzaquinoid ansamycins	SmallMolecule7	Complex40	
+BiochemicalReaction25	Non-covalent tyrosine kinase inhibitors bind and inactivate sensitive ligand-responsive EGFR cancer mutants	PhysicalEntity3	Complex41	
+BiochemicalReaction25	Non-covalent tyrosine kinase inhibitors bind and inactivate sensitive ligand-responsive EGFR cancer mutants	Complex11	Complex41	
+BiochemicalReaction25	Non-covalent tyrosine kinase inhibitors bind and inactivate sensitive ligand-responsive EGFR cancer mutants	Complex11	Complex44	
+BiochemicalReaction25	Non-covalent tyrosine kinase inhibitors bind and inactivate sensitive ligand-responsive EGFR cancer mutants	PhysicalEntity3	Complex44	
+BiochemicalReaction26	Covalent tyrosine kinase inhibitors bind and inactivate EGFR kinase domain mutant dimers resistant to non-covalent tyrosine kinase inhibitors	Complex41	Complex48	
+BiochemicalReaction26	Covalent tyrosine kinase inhibitors bind and inactivate EGFR kinase domain mutant dimers resistant to non-covalent tyrosine kinase inhibitors	PhysicalEntity4	Complex48	
+BiochemicalReaction27	Covalent tyrosine kinase inhibitors bind and inhibit wild-type EGF:EGFR dimers	Complex49	Complex51	
+BiochemicalReaction27	Covalent tyrosine kinase inhibitors bind and inhibit wild-type EGF:EGFR dimers	PhysicalEntity4	Complex51	
+BiochemicalReaction28	Inactivation of over-expressed wild type EGFR by Cetuximab recombinant antibody	Protein91	Complex52	
+BiochemicalReaction28	Inactivation of over-expressed wild type EGFR by Cetuximab recombinant antibody	PhysicalEntity5	Complex52	
+BiochemicalReaction3	EGF-induced dimerization of ligand-responsive EGFR mutants	Complex6	Complex9	
+BiochemicalReaction4	Spontaneous dimerization of ligand-responsive EGFR mutants	Complex3	Complex10	
+BiochemicalReaction5	Trans-autophosphorylation of activated ligand-responsive EGFR mutant dimers	Complex11	SmallMolecule2	
+BiochemicalReaction5	Trans-autophosphorylation of activated ligand-responsive EGFR mutant dimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Trans-autophosphorylation of activated ligand-responsive EGFR mutant dimers	SmallMolecule1	Complex12	
+BiochemicalReaction5	Trans-autophosphorylation of activated ligand-responsive EGFR mutant dimers	Complex11	Complex12	
+BiochemicalReaction6	EGFRvIII mutant binds chaperone proteins HSP90 and CDC37.	Protein58	Complex21	
+BiochemicalReaction6	EGFRvIII mutant binds chaperone proteins HSP90 and CDC37.	Complex1	Complex21	
+BiochemicalReaction6	EGFRvIII mutant binds chaperone proteins HSP90 and CDC37.	Complex2	Complex21	
+BiochemicalReaction7	Ligand-independent dimerization of EGFRvIII mutant	Complex21	Complex22	
+BiochemicalReaction8	Trans-autophosphorylation of EGFRvIII mutant dimers	Complex22	SmallMolecule2	
+BiochemicalReaction8	Trans-autophosphorylation of EGFRvIII mutant dimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Trans-autophosphorylation of EGFRvIII mutant dimers	SmallMolecule1	Complex23	
+BiochemicalReaction8	Trans-autophosphorylation of EGFRvIII mutant dimers	Complex22	Complex23	
+BiochemicalReaction9	Binding of GRB2:SOS1 to p-EGFR mutants	PhysicalEntity2	Complex26	
+BiochemicalReaction9	Binding of GRB2:SOS1 to p-EGFR mutants	Complex25	Complex26	

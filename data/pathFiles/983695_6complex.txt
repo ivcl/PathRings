@@ -1,0 +1,78 @@
+Complex1	BCR	plasma membrane	Reactome DB_ID: 983677	Protein1	
+Complex1	BCR	plasma membrane	Reactome DB_ID: 983677	Protein2	
+Complex1	BCR	plasma membrane	Reactome DB_ID: 983677	Complex2	
+Complex10	Antigen:BCR	plasma membrane	Reactome DB_ID: 983689	Complex1	
+Complex10	Antigen:BCR	plasma membrane	Reactome DB_ID: 983689	PhysicalEntity2	
+Complex11	Antigen:p-BCR	plasma membrane	Reactome DB_ID: 983691	Complex12	
+Complex11	Antigen:p-BCR	plasma membrane	Reactome DB_ID: 983691	PhysicalEntity2	
+Complex12	p-BCR	plasma membrane	Reactome DB_ID: 983684	Protein140	
+Complex12	p-BCR	plasma membrane	Reactome DB_ID: 983684	Complex2	
+Complex12	p-BCR	plasma membrane	Reactome DB_ID: 983684	Protein141	
+Complex13	Antigen:p-BCR:SYK	plasma membrane	Reactome DB_ID: 983693	Complex11	
+Complex13	Antigen:p-BCR:SYK	plasma membrane	Reactome DB_ID: 983693	Protein148	
+Complex14	Antigen:p-BCR:p-SYK	plasma membrane	Reactome DB_ID: 983690	Complex11	
+Complex14	Antigen:p-BCR:p-SYK	plasma membrane	Reactome DB_ID: 983690	Protein149	
+Complex15	BLNK:GRB2:SOS1:CIN85:CBL	cytosol	Reactome DB_ID: 983692	Protein150	
+Complex15	BLNK:GRB2:SOS1:CIN85:CBL	cytosol	Reactome DB_ID: 983692	Protein151	
+Complex15	BLNK:GRB2:SOS1:CIN85:CBL	cytosol	Reactome DB_ID: 983692	Protein152	
+Complex15	BLNK:GRB2:SOS1:CIN85:CBL	cytosol	Reactome DB_ID: 983692	Protein153	
+Complex15	BLNK:GRB2:SOS1:CIN85:CBL	cytosol	Reactome DB_ID: 983692	Protein154	
+Complex15	BLNK:GRB2:SOS1:CIN85:CBL	cytosol	Reactome DB_ID: 983692	Protein155	
+Complex16	Antigen:p-BCR:p-SYK:p-BLNK	plasma membrane	Reactome DB_ID: 983687	Complex14	
+Complex16	Antigen:p-BCR:p-SYK:p-BLNK	plasma membrane	Reactome DB_ID: 983687	Complex17	
+Complex17	p-BLNK:GRB2:SOS1:CIN85:CBL	plasma membrane	Reactome DB_ID: 983686	Protein156	
+Complex17	p-BLNK:GRB2:SOS1:CIN85:CBL	plasma membrane	Reactome DB_ID: 983686	Protein157	
+Complex17	p-BLNK:GRB2:SOS1:CIN85:CBL	plasma membrane	Reactome DB_ID: 983686	Protein158	
+Complex17	p-BLNK:GRB2:SOS1:CIN85:CBL	plasma membrane	Reactome DB_ID: 983686	Protein159	
+Complex17	p-BLNK:GRB2:SOS1:CIN85:CBL	plasma membrane	Reactome DB_ID: 983686	Protein160	
+Complex17	p-BLNK:GRB2:SOS1:CIN85:CBL	plasma membrane	Reactome DB_ID: 983686	Protein161	
+Complex18	PIK3CD:PIK3R1	cytosol	Reactome DB_ID: 1806213	Protein165	
+Complex18	PIK3CD:PIK3R1	cytosol	Reactome DB_ID: 1806213	Protein166	
+Complex19	CD19:VAV1	plasma membrane	Reactome DB_ID: 2076225	Protein168	
+Complex19	CD19:VAV1	plasma membrane	Reactome DB_ID: 2076225	Protein169	
+Complex20	BCAP Signalosome	plasma membrane	Reactome DB_ID: 2045909	Protein177	
+Complex20	BCAP Signalosome	plasma membrane	Reactome DB_ID: 2045909	Complex21	
+Complex21	PIK3CD:PIK3R1	plasma membrane	Reactome DB_ID: 1045152	Protein178	
+Complex21	PIK3CD:PIK3R1	plasma membrane	Reactome DB_ID: 1045152	Protein179	
+Complex22	CD19 Signalosome	plasma membrane	Reactome DB_ID: 2076233	Protein180	
+Complex22	CD19 Signalosome	plasma membrane	Reactome DB_ID: 2076233	Protein158	
+Complex22	CD19 Signalosome	plasma membrane	Reactome DB_ID: 2076233	Complex21	
+Complex22	CD19 Signalosome	plasma membrane	Reactome DB_ID: 2076233	Protein168	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Complex16	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Complex24	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Complex25	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Protein185	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Protein168	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Protein186	
+Complex23	BLNK (SLP-65) Signalosome	plasma membrane	Reactome DB_ID: 984818	Complex26	
+Complex24	p-PLC gamma1,2:PIP3	plasma membrane	Reactome DB_ID: 1168365	SmallMolecule4	
+Complex24	p-PLC gamma1,2:PIP3	plasma membrane	Reactome DB_ID: 1168365	Protein181	
+Complex25	p-BAM32:PIP3	plasma membrane	Reactome DB_ID: 1168366	Protein184	
+Complex25	p-BAM32:PIP3	plasma membrane	Reactome DB_ID: 1168366	SmallMolecule4	
+Complex26	p-BTK:PIP3	plasma membrane	Reactome DB_ID: 1168364	Protein189	
+Complex26	p-BTK:PIP3	plasma membrane	Reactome DB_ID: 1168364	SmallMolecule4	
+Complex27	IP3 receptor homotetramer	endoplasmic reticulum membrane	Reactome DB_ID: 169686	Protein190	
+Complex28	IP3 receptor:IP3 complex	endoplasmic reticulum membrane	Reactome DB_ID: 169696	SmallMolecule5	
+Complex28	IP3 receptor:IP3 complex	endoplasmic reticulum membrane	Reactome DB_ID: 169696	Complex27	
+Complex29	STIM1:Calcium	endoplasmic reticulum membrane	Reactome DB_ID: 1168371	SmallMolecule7	
+Complex29	STIM1:Calcium	endoplasmic reticulum membrane	Reactome DB_ID: 1168371	Protein194	
+Complex3	IgM	plasma membrane	Reactome DB_ID: 983673	Complex4	
+Complex3	IgM	plasma membrane	Reactome DB_ID: 983673	Complex7	
+Complex30	STIM1 Dimer	endoplasmic reticulum membrane	Reactome DB_ID: 1168370	Protein194	
+Complex31	Orai1 dimer	plasma membrane	Reactome DB_ID: 434696	Protein195	
+Complex32	CRAC channel	plasma membrane	Reactome DB_ID: 434679	Complex30	
+Complex32	CRAC channel	plasma membrane	Reactome DB_ID: 434679	Complex31	
+Complex33	STIM1:TRPC1	endoplasmic reticulum membrane	Reactome DB_ID: 2089954	Complex30	
+Complex33	STIM1:TRPC1	endoplasmic reticulum membrane	Reactome DB_ID: 2089954	Protein196	
+Complex34	Ca(4)CaM	cytosol	Reactome DB_ID: 74294	SmallMolecule8	
+Complex34	Ca(4)CaM	cytosol	Reactome DB_ID: 74294	Protein197	
+Complex5	Ig Kappa	plasma membrane	Reactome DB_ID: 2038750	Protein3	
+Complex5	Ig Kappa	plasma membrane	Reactome DB_ID: 2038750	Protein4	
+Complex6	Ig Lambda	plasma membrane	Reactome DB_ID: 2038790	Protein57	
+Complex6	Ig Lambda	plasma membrane	Reactome DB_ID: 2038790	Protein63	
+Complex7	IgM Heavy Chain	plasma membrane	Reactome DB_ID: 983669	Protein99	
+Complex7	IgM Heavy Chain	plasma membrane	Reactome DB_ID: 983669	Protein138	
+Complex8	IgD	plasma membrane	Reactome DB_ID: 983674	Complex9	
+Complex8	IgD	plasma membrane	Reactome DB_ID: 983674	Complex4	
+Complex9	IgD Heavy Chain	plasma membrane	Reactome DB_ID: 983675	Protein99	
+Complex9	IgD Heavy Chain	plasma membrane	Reactome DB_ID: 983675	Protein139	

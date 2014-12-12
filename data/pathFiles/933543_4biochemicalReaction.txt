@@ -1,0 +1,15 @@
+BiochemicalReaction1	IPS-1 interacts with RIP-1 and FADD	Protein1	Complex5	
+BiochemicalReaction1	IPS-1 interacts with RIP-1 and FADD	Complex1	Complex5	
+BiochemicalReaction1	IPS-1 interacts with RIP-1 and FADD	Protein8	Complex5	
+BiochemicalReaction2	Recruitment of caspase-8 and -10 to FADD complex	Complex5	Complex7	
+BiochemicalReaction2	Recruitment of caspase-8 and -10 to FADD complex	Protein9	Complex7	
+BiochemicalReaction3	Dimerzation of procaspase-8/10	Complex7	Complex10	
+BiochemicalReaction3	Dimerzation of procaspase-8/10	Protein9	Complex10	
+BiochemicalReaction4	Processing of caspases	Complex10	Protein12	
+BiochemicalReaction4	Processing of caspases	Complex10	Protein13	
+BiochemicalReaction4	Processing of caspases	Complex10	Protein14	
+BiochemicalReaction4	Processing of caspases	Complex10	Complex14	
+BiochemicalReaction4	Processing of caspases	Complex10	Protein18	
+BiochemicalReaction4	Processing of caspases	Complex10	Protein19	
+BiochemicalReaction5	Recruitment of IKK complex	Complex14	Complex18	
+BiochemicalReaction5	Recruitment of IKK complex	Complex17	Complex18	

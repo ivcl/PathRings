@@ -1,0 +1,7 @@
+BiochemicalReaction1	Antigen processing by cathepsin S in endosoytic vesicle	PhysicalEntity1	SmallMolecule1	
+BiochemicalReaction1	Antigen processing by cathepsin S in endosoytic vesicle	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	Trimming of peptides by IRAP in endocytic vesicles	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction2	Trimming of peptides by IRAP in endocytic vesicles	PhysicalEntity2	SmallMolecule1	
+BiochemicalReaction3	Loading of antigen peptide onto MHC class I molecule	PhysicalEntity3	Complex3	
+BiochemicalReaction3	Loading of antigen peptide onto MHC class I molecule	Complex2	Complex3	
+BiochemicalReaction4	Translocation of peptide bound MHC class I complex to cell surface	Complex3	Complex4	

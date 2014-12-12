@@ -1,0 +1,11 @@
+BiochemicalReaction1	Gbeta:gamma recruits PI3K gamma	Complex1	Complex3	
+BiochemicalReaction1	Gbeta:gamma recruits PI3K gamma	Complex2	Complex3	
+BiochemicalReaction2	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	PIP3 recruits PDK1 and AKT to the membrane	Protein24	Complex4	
+BiochemicalReaction3	PIP3 recruits PDK1 and AKT to the membrane	Protein25	Complex4	
+BiochemicalReaction3	PIP3 recruits PDK1 and AKT to the membrane	SmallMolecule4	Complex4	
+BiochemicalReaction4	PIP3 binds to RhoA and activates it	Protein34	Complex5	
+BiochemicalReaction4	PIP3 binds to RhoA and activates it	SmallMolecule4	Complex5	

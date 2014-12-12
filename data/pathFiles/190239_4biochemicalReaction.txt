@@ -1,0 +1,14 @@
+BiochemicalReaction1	FGFR3b binds to FGF	Protein1	Complex1	
+BiochemicalReaction1	FGFR3b binds to FGF	SmallMolecule1	Complex1	
+BiochemicalReaction1	FGFR3b binds to FGF	Protein8	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3b	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3b	Complex1	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3b	Complex1	Complex3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3b	SmallMolecule2	Complex3	
+BiochemicalReaction3	FGFR3c binds to FGF	SmallMolecule1	Complex4	
+BiochemicalReaction3	FGFR3c binds to FGF	Protein10	Complex4	
+BiochemicalReaction3	FGFR3c binds to FGF	Protein16	Complex4	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3c	Complex4	SmallMolecule3	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3c	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3c	SmallMolecule2	Complex6	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3c	Complex4	Complex6	

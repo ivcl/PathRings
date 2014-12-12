@@ -1,0 +1,14 @@
+BiochemicalReaction1	2 acetyl-CoA <=> acetoacetyl-CoA + CoA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	2 acetyl-CoA <=> acetoacetyl-CoA + CoA	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	acetoacetyl-CoA+acetyl-CoA => HMG-CoA + CoASH	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	acetoacetyl-CoA+acetyl-CoA => HMG-CoA + CoASH	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	acetoacetyl-CoA+acetyl-CoA => HMG-CoA + CoASH	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	acetoacetyl-CoA+acetyl-CoA => HMG-CoA + CoASH	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	HMG CoA => acetoacetic acid + acetyl CoA	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction3	HMG CoA => acetoacetic acid + acetyl CoA	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction4	Reduction of Acetoacetate to beta-Hydroxybutyrate 	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	Reduction of Acetoacetate to beta-Hydroxybutyrate 	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	Reduction of Acetoacetate to beta-Hydroxybutyrate 	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction4	Reduction of Acetoacetate to beta-Hydroxybutyrate 	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction4	Reduction of Acetoacetate to beta-Hydroxybutyrate 	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction4	Reduction of Acetoacetate to beta-Hydroxybutyrate 	SmallMolecule6	SmallMolecule9	

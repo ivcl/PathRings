@@ -1,0 +1,34 @@
+BiochemicalReaction1	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Complex1	Complex5	
+BiochemicalReaction1	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Protein5	Complex5	
+BiochemicalReaction10	Phosphorylated Cdc6 is exported from the nucleus	Protein109	Protein111	
+BiochemicalReaction11	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein11	Complex25	
+BiochemicalReaction11	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein111	Complex25	
+BiochemicalReaction11	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule3	Complex25	
+BiochemicalReaction12	Ubiquitinated Cdc6 is degraded by the proteasome	Complex25	Protein11	
+BiochemicalReaction13	Rearrangement and mobilization of Mcm2-7	Complex9	Protein28	
+BiochemicalReaction13	Rearrangement and mobilization of Mcm2-7	Complex9	Protein29	
+BiochemicalReaction13	Rearrangement and mobilization of Mcm2-7	Complex9	Complex26	
+BiochemicalReaction13	Rearrangement and mobilization of Mcm2-7	Complex9	Protein31	
+BiochemicalReaction2	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein11	Protein26	
+BiochemicalReaction2	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex6	Protein26	
+BiochemicalReaction2	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex6	Complex7	
+BiochemicalReaction2	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein11	Complex7	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	Complex8	SmallMolecule2	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Complex14	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	Complex8	Complex14	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Protein37	
+BiochemicalReaction3	Orc1 is phosphorylated by cyclin A/CDK2	Complex8	Protein37	
+BiochemicalReaction4	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein47	Complex17	
+BiochemicalReaction4	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein37	Complex17	
+BiochemicalReaction5	Ubiquitinated Orc1 enters the cytosol	Complex17	Complex18	
+BiochemicalReaction6	Ubiquitinated Orc1 is degraded by the proteasome	Complex18	Protein11	
+BiochemicalReaction7	Cdt1 is displaced from the pre-replicative complex.	Complex20	Protein34	
+BiochemicalReaction7	Cdt1 is displaced from the pre-replicative complex.	Complex20	Complex21	
+BiochemicalReaction8	Cdt1 associates with geminin	Protein108	Complex23	
+BiochemicalReaction8	Cdt1 associates with geminin	Protein34	Complex23	
+BiochemicalReaction9	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Cdc6 protein is phosphorylated by CDK	Protein6	SmallMolecule2	
+BiochemicalReaction9	Cdc6 protein is phosphorylated by CDK	Protein6	Protein109	
+BiochemicalReaction9	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	Protein109	
+TemplateReaction1	CDC6 protein is synthesized under the control of E2F transcription factors	NA	Protein6	

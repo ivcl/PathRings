@@ -1,0 +1,14 @@
+BiochemicalReaction1	Nef mediated disruption of CD4:Lck Complex	Complex1	Complex2	
+BiochemicalReaction1	Nef mediated disruption of CD4:Lck Complex	Protein3	Complex2	
+BiochemicalReaction1	Nef mediated disruption of CD4:Lck Complex	Protein3	Protein2	
+BiochemicalReaction1	Nef mediated disruption of CD4:Lck Complex	Complex1	Protein2	
+BiochemicalReaction2	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Protein4	Complex4	
+BiochemicalReaction2	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex2	Complex4	
+BiochemicalReaction2	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex3	Complex4	
+BiochemicalReaction3	Internalization of the CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex4	Complex5	
+BiochemicalReaction4	Formation of a Nef:ARF1:CD4 complex	Protein13	Complex6	
+BiochemicalReaction4	Formation of a Nef:ARF1:CD4 complex	Protein1	Complex6	
+BiochemicalReaction4	Formation of a Nef:ARF1:CD4 complex	Protein3	Complex6	
+BiochemicalReaction5	Degradation of CD4	Complex5	Protein11	
+BiochemicalReaction5	Degradation of CD4	Complex5	Complex3	
+BiochemicalReaction5	Degradation of CD4	Complex5	Protein3	

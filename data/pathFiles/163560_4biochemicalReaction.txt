@@ -1,0 +1,38 @@
+BiochemicalReaction1	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	Protein1	SmallMolecule2	
+BiochemicalReaction1	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	SmallMolecule1	Protein2	
+BiochemicalReaction1	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	Protein1	Protein2	
+BiochemicalReaction10	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule9	SmallMolecule5	
+BiochemicalReaction10	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction10	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule4	SmallMolecule10	
+BiochemicalReaction10	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction11	phosphorylated HSL + H2O -> HSL + orthophosphate	Protein2	SmallMolecule11	
+BiochemicalReaction11	phosphorylated HSL + H2O -> HSL + orthophosphate	SmallMolecule4	SmallMolecule11	
+BiochemicalReaction11	phosphorylated HSL + H2O -> HSL + orthophosphate	SmallMolecule4	Protein1	
+BiochemicalReaction11	phosphorylated HSL + H2O -> HSL + orthophosphate	Protein2	Protein1	
+BiochemicalReaction12	phosphorylated perilipin + H2O -> perilipin + orthophosphate	Protein10	SmallMolecule11	
+BiochemicalReaction12	phosphorylated perilipin + H2O -> perilipin + orthophosphate	SmallMolecule4	SmallMolecule11	
+BiochemicalReaction12	phosphorylated perilipin + H2O -> perilipin + orthophosphate	SmallMolecule4	Protein8	
+BiochemicalReaction12	phosphorylated perilipin + H2O -> perilipin + orthophosphate	Protein10	Protein8	
+BiochemicalReaction2	2 phosphorylated HSL monomers -> phosphorylated HSL dimer	Protein2	Complex1	
+BiochemicalReaction3	perilipin:CGI-58 complex -> perilipin + CGI-58	Complex2	Protein9	
+BiochemicalReaction3	perilipin:CGI-58 complex -> perilipin + CGI-58	Complex2	Protein8	
+BiochemicalReaction4	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	Protein8	SmallMolecule2	
+BiochemicalReaction4	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	Protein8	Protein10	
+BiochemicalReaction4	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	SmallMolecule1	Protein10	
+BiochemicalReaction5	Phosphorylated HSL dimer translocates from the cytosol to the lipid particle	Complex1	Complex3	
+BiochemicalReaction6	phosphorylated HSL dimer + FABP4 -> phosphorylated HSL dimer:FABP4 complex	Protein13	Complex4	
+BiochemicalReaction6	phosphorylated HSL dimer + FABP4 -> phosphorylated HSL dimer:FABP4 complex	Complex3	Complex4	
+BiochemicalReaction7	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction7	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction7	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction7	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction8	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction8	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction8	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction8	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction9	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction9	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction9	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction9	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule4	SmallMolecule5	

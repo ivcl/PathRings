@@ -1,0 +1,74 @@
+Complex1	TFIIIA:Type 1 Promoter complex	nucleoplasm	Reactome DB_ID: 76051	Protein1	
+Complex1	TFIIIA:Type 1 Promoter complex	nucleoplasm	Reactome DB_ID: 76051	PhysicalEntity1	
+Complex10	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	nucleoplasm	Reactome DB_ID: 83717	Complex5	
+Complex10	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	nucleoplasm	Reactome DB_ID: 83717	Complex6	
+Complex11	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112147	Complex2	
+Complex11	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112147	Protein1	
+Complex11	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112147	Complex4	
+Complex11	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112147	Complex6	
+Complex11	RNA polymerase III:TFIIIB:TFIIIC:TFIIIA:Type 1 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112147	PhysicalEntity2	
+Complex12	TFIIIC:Type 2 Promoter Complex	nucleoplasm	Reactome DB_ID: 83748	Complex2	
+Complex12	TFIIIC:Type 2 Promoter Complex	nucleoplasm	Reactome DB_ID: 83748	PhysicalEntity3	
+Complex13	TFIIIB:TFIIIC:Type 2 Promoter Complex	nucleoplasm	Reactome DB_ID: 83749	Complex4	
+Complex13	TFIIIB:TFIIIC:Type 2 Promoter Complex	nucleoplasm	Reactome DB_ID: 83749	Complex12	
+Complex14	RNA Polymerase III:TFIIIB:TFIIIC:Type 2 Promoter Complex	nucleoplasm	Reactome DB_ID: 83750	Complex13	
+Complex14	RNA Polymerase III:TFIIIB:TFIIIC:Type 2 Promoter Complex	nucleoplasm	Reactome DB_ID: 83750	Complex6	
+Complex15	RNA Polymerase III:TFIIIB:TFIIIC:Type 2 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112148	Complex2	
+Complex15	RNA Polymerase III:TFIIIB:TFIIIC:Type 2 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112148	PhysicalEntity4	
+Complex15	RNA Polymerase III:TFIIIB:TFIIIC:Type 2 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112148	Complex4	
+Complex15	RNA Polymerase III:TFIIIB:TFIIIC:Type 2 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112148	Complex6	
+Complex16	SNAPc	nucleoplasm	Reactome DB_ID: 83730	Protein31	
+Complex16	SNAPc	nucleoplasm	Reactome DB_ID: 83730	Protein32	
+Complex16	SNAPc	nucleoplasm	Reactome DB_ID: 83730	Protein33	
+Complex16	SNAPc	nucleoplasm	Reactome DB_ID: 83730	Protein34	
+Complex16	SNAPc	nucleoplasm	Reactome DB_ID: 83730	Protein35	
+Complex17	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83753	PhysicalEntity5	
+Complex17	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83753	Protein29	
+Complex17	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83753	Protein30	
+Complex17	SNAPc:Oct-1:Staf:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83753	Complex16	
+Complex18	TFIIIB-Type 3 Promoter Selective Complex	nucleoplasm	Reactome DB_ID: 83722	Protein8	
+Complex18	TFIIIB-Type 3 Promoter Selective Complex	nucleoplasm	Reactome DB_ID: 83722	Protein36	
+Complex18	TFIIIB-Type 3 Promoter Selective Complex	nucleoplasm	Reactome DB_ID: 83722	Protein9	
+Complex19	TFIIIB:SNAPc:Oct-1:Staf:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83754	Complex17	
+Complex19	TFIIIB:SNAPc:Oct-1:Staf:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83754	Complex18	
+Complex2	TFIIIC	nucleoplasm	Reactome DB_ID: 83698	Protein2	
+Complex2	TFIIIC	nucleoplasm	Reactome DB_ID: 83698	Protein3	
+Complex2	TFIIIC	nucleoplasm	Reactome DB_ID: 83698	Protein4	
+Complex2	TFIIIC	nucleoplasm	Reactome DB_ID: 83698	Protein5	
+Complex2	TFIIIC	nucleoplasm	Reactome DB_ID: 83698	Protein6	
+Complex20	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83755	Complex19	
+Complex20	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Promoter Complex	nucleoplasm	Reactome DB_ID: 83755	Complex6	
+Complex21	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112151	PhysicalEntity6	
+Complex21	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112151	Protein29	
+Complex21	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112151	Complex6	
+Complex21	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112151	Protein30	
+Complex21	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112151	Complex18	
+Complex21	RNA Polymerase III:TFIIIB:SNAPc:Type 3 Open Promoter Complex	nucleoplasm	Reactome DB_ID: 112151	Complex16	
+Complex3	TFIIIC:TFIIIA:Type I Promoter Complex	nucleoplasm	Reactome DB_ID: 76053	Complex2	
+Complex3	TFIIIC:TFIIIA:Type I Promoter Complex	nucleoplasm	Reactome DB_ID: 76053	Protein1	
+Complex3	TFIIIC:TFIIIA:Type I Promoter Complex	nucleoplasm	Reactome DB_ID: 76053	PhysicalEntity1	
+Complex4	TFIIIB-Type 1 and 2 Promoter Selective Complex	nucleoplasm	Reactome DB_ID: 83719	Protein7	
+Complex4	TFIIIB-Type 1 and 2 Promoter Selective Complex	nucleoplasm	Reactome DB_ID: 83719	Protein8	
+Complex4	TFIIIB-Type 1 and 2 Promoter Selective Complex	nucleoplasm	Reactome DB_ID: 83719	Protein9	
+Complex5	TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	nucleoplasm	Reactome DB_ID: 76055	Complex4	
+Complex5	TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	nucleoplasm	Reactome DB_ID: 76055	Complex3	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein10	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein11	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Complex7	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein14	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein15	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Complex8	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein18	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Complex9	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein24	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein25	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein26	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein27	
+Complex6	RNA Polymerase III Holoenzyme	nucleoplasm	Reactome DB_ID: 83716	Protein28	
+Complex7	HsRPC4:HsRPC5	nucleoplasm	Reactome DB_ID: 1964428	Protein12	
+Complex7	HsRPC4:HsRPC5	nucleoplasm	Reactome DB_ID: 1964428	Protein13	
+Complex8	HsRPC8:HsRPC9	nucleoplasm	Reactome DB_ID: 1964452	Protein16	
+Complex8	HsRPC8:HsRPC9	nucleoplasm	Reactome DB_ID: 1964452	Protein17	
+Complex9	HsRPC6:HsRPC3:HsRPC7	nucleoplasm	Reactome DB_ID: 1964442	Protein19	
+Complex9	HsRPC6:HsRPC3:HsRPC7	nucleoplasm	Reactome DB_ID: 1964442	Protein22	
+Complex9	HsRPC6:HsRPC3:HsRPC7	nucleoplasm	Reactome DB_ID: 1964442	Protein23	

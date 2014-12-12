@@ -1,0 +1,43 @@
+BiochemicalReaction1	Ficolin-1 binds to molecular patterns on the target cell surface 	Complex1	Complex6	
+BiochemicalReaction1	Ficolin-1 binds to molecular patterns on the target cell surface 	SmallMolecule1	Complex6	
+BiochemicalReaction1	Ficolin-1 binds to molecular patterns on the target cell surface 	SmallMolecule2	Complex6	
+BiochemicalReaction10	Conversion of C2 into C2a and C2b	Protein196	Protein197	
+BiochemicalReaction10	Conversion of C2 into C2a and C2b	Protein196	Protein198	
+BiochemicalReaction11	Formation of Classical C3 convertase (C4b:C2a complex)	Protein197	Complex60	
+BiochemicalReaction11	Formation of Classical C3 convertase (C4b:C2a complex)	Complex56	Complex60	
+BiochemicalReaction12	Spontaneous hydrolysis of C3 thioester	SmallMolecule12	Complex62	
+BiochemicalReaction12	Spontaneous hydrolysis of C3 thioester	Complex61	Complex62	
+BiochemicalReaction13	Factor B binds to C3(H2O)	Complex62	Complex63	
+BiochemicalReaction13	Factor B binds to C3(H2O)	Protein202	Complex63	
+BiochemicalReaction14	Factor D cleaves C3(H2O)-bound Factor B	Complex63	Protein203	
+BiochemicalReaction14	Factor D cleaves C3(H2O)-bound Factor B	Complex63	Complex64	
+BiochemicalReaction15	C3(H2O):Factor Bb cleaves C3 to C3b and C3a	Complex61	Complex65	
+BiochemicalReaction15	C3(H2O):Factor Bb cleaves C3 to C3b and C3a	Complex61	Protein209	
+BiochemicalReaction16	C3b binds to cell surface	Complex65	Complex66	
+BiochemicalReaction16	C3b binds to cell surface	PhysicalEntity4	Complex66	
+BiochemicalReaction17	Factor B binds to surface-associated C3b	Complex66	Complex67	
+BiochemicalReaction17	Factor B binds to surface-associated C3b	Protein202	Complex67	
+BiochemicalReaction18	Factor D cleaves C3b-bound Factor B	Complex67	Protein203	
+BiochemicalReaction18	Factor D cleaves C3b-bound Factor B	Complex67	Complex68	
+BiochemicalReaction19	Properdin stabilizes C3b:Bb bound to cell surfaces	Complex68	Complex69	
+BiochemicalReaction19	Properdin stabilizes C3b:Bb bound to cell surfaces	PhysicalEntity5	Complex69	
+BiochemicalReaction2	Ficolin-2 binds to molecular patterns on the target cell surface 	Complex7	Complex10	
+BiochemicalReaction2	Ficolin-2 binds to molecular patterns on the target cell surface 	SmallMolecule6	Complex10	
+BiochemicalReaction2	Ficolin-2 binds to molecular patterns on the target cell surface 	SmallMolecule1	Complex10	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex61	Protein209	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex69	Protein209	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex69	Complex70	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex61	Complex70	
+BiochemicalReaction3	Ficolin-3 binds to molecular patterns on the target cell surface 	SmallMolecule1	Complex14	
+BiochemicalReaction3	Ficolin-3 binds to molecular patterns on the target cell surface 	SmallMolecule9	Complex14	
+BiochemicalReaction3	Ficolin-3 binds to molecular patterns on the target cell surface 	Complex11	Complex14	
+BiochemicalReaction4	MBL binds to repetitive carbohydrate structures on the surfaces of viruses, bacteria, fungi, and protozoa	PhysicalEntity1	Complex18	
+BiochemicalReaction4	MBL binds to repetitive carbohydrate structures on the surfaces of viruses, bacteria, fungi, and protozoa	SmallMolecule1	Complex18	
+BiochemicalReaction4	MBL binds to repetitive carbohydrate structures on the surfaces of viruses, bacteria, fungi, and protozoa	Complex15	Complex18	
+BiochemicalReaction5	Activation of MASPs	Complex19	Complex20	
+BiochemicalReaction6	Activation of C1R	Complex28	Complex39	
+BiochemicalReaction7	Activation of C1S	Complex39	Complex46	
+BiochemicalReaction8	Conversion of C4 into C4a and C4b	Complex50	Protein189	
+BiochemicalReaction8	Conversion of C4 into C4a and C4b	Complex50	Complex53	
+BiochemicalReaction9	C4b binds to cell surface	Complex53	Complex56	
+BiochemicalReaction9	C4b binds to cell surface	PhysicalEntity4	Complex56	

@@ -1,0 +1,574 @@
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule11	SmallMolecule19	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule18	SmallMolecule10	
+BiochemicalReaction100	MLCL transports from the IM to the ER	SmallMolecule107	SmallMolecule111	
+BiochemicalReaction101	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule111	SmallMolecule112	
+BiochemicalReaction101	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule6	SmallMolecule112	
+BiochemicalReaction101	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction101	MLCL is acylated to CL by LCLAT1 (ER)	SmallMolecule111	SmallMolecule7	
+BiochemicalReaction102	CL transports from the ER to the IM	SmallMolecule112	SmallMolecule106	
+BiochemicalReaction103	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule94	SmallMolecule113	
+BiochemicalReaction103	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule107	SmallMolecule113	
+BiochemicalReaction103	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule107	SmallMolecule100	
+BiochemicalReaction103	MLCL is hydrolyzed to DLCL by PLA2G4A (IM)	SmallMolecule94	SmallMolecule100	
+BiochemicalReaction104	DLCL transports from the IM to the ER	SmallMolecule113	SmallMolecule115	
+BiochemicalReaction105	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule115	SmallMolecule111	
+BiochemicalReaction105	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule6	SmallMolecule111	
+BiochemicalReaction105	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction105	DLCL is acylated to MLCL by LCLAT1 (ER)	SmallMolecule115	SmallMolecule7	
+BiochemicalReaction106	PG transports from the ER membrane to the late endosome membrane	SmallMolecule86	SmallMolecule116	
+BiochemicalReaction107	PG is converted to BMP	SmallMolecule116	SmallMolecule117	
+BiochemicalReaction108	PI is phosphorylated to PI4P by PI4KA/2B at the ER membrane	SmallMolecule68	SmallMolecule118	
+BiochemicalReaction108	PI is phosphorylated to PI4P by PI4KA/2B at the ER membrane	SmallMolecule31	SmallMolecule118	
+BiochemicalReaction108	PI is phosphorylated to PI4P by PI4KA/2B at the ER membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction108	PI is phosphorylated to PI4P by PI4KA/2B at the ER membrane	SmallMolecule68	SmallMolecule32	
+BiochemicalReaction109	PI4P is dephosphorylated to PI by SACM1L at the ER membrane	SmallMolecule118	SmallMolecule34	
+BiochemicalReaction109	PI4P is dephosphorylated to PI by SACM1L at the ER membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction109	PI4P is dephosphorylated to PI by SACM1L at the ER membrane	SmallMolecule11	SmallMolecule68	
+BiochemicalReaction109	PI4P is dephosphorylated to PI by SACM1L at the ER membrane	SmallMolecule118	SmallMolecule68	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction110	PI is phosphorylated to PI4P by PI4KA/2A/2B at the Golgi membrane	SmallMolecule69	SmallMolecule32	
+BiochemicalReaction110	PI is phosphorylated to PI4P by PI4KA/2A/2B at the Golgi membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction110	PI is phosphorylated to PI4P by PI4KA/2A/2B at the Golgi membrane	SmallMolecule31	SmallMolecule119	
+BiochemicalReaction110	PI is phosphorylated to PI4P by PI4KA/2A/2B at the Golgi membrane	SmallMolecule69	SmallMolecule119	
+BiochemicalReaction111	PI4KB binds to ARF1/3:GTP at the Golgi membrane	Complex45	Complex48	
+BiochemicalReaction111	PI4KB binds to ARF1/3:GTP at the Golgi membrane	Protein121	Complex48	
+BiochemicalReaction112	PI is phosphorylated to PI4P by PI4KB at the Golgi membrane	SmallMolecule69	SmallMolecule32	
+BiochemicalReaction112	PI is phosphorylated to PI4P by PI4KB at the Golgi membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction112	PI is phosphorylated to PI4P by PI4KB at the Golgi membrane	SmallMolecule31	SmallMolecule119	
+BiochemicalReaction112	PI is phosphorylated to PI4P by PI4KB at the Golgi membrane	SmallMolecule69	SmallMolecule119	
+BiochemicalReaction113	PI4P is dephosphorylated to PI by SACM1L at the Golgi membrane	SmallMolecule119	SmallMolecule34	
+BiochemicalReaction113	PI4P is dephosphorylated to PI by SACM1L at the Golgi membrane	SmallMolecule119	SmallMolecule69	
+BiochemicalReaction114	PI is phosphorylated to PI3P by PIK3C2A/3 at the Golgi membrane	SmallMolecule69	SmallMolecule32	
+BiochemicalReaction114	PI is phosphorylated to PI3P by PIK3C2A/3 at the Golgi membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction114	PI is phosphorylated to PI3P by PIK3C2A/3 at the Golgi membrane	SmallMolecule31	SmallMolecule121	
+BiochemicalReaction114	PI is phosphorylated to PI3P by PIK3C2A/3 at the Golgi membrane	SmallMolecule69	SmallMolecule121	
+BiochemicalReaction115	PI3P is dephosphorylated to PI by SACM1L at the Golgi membrane	SmallMolecule121	SmallMolecule34	
+BiochemicalReaction115	PI3P is dephosphorylated to PI by SACM1L at the Golgi membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction115	PI3P is dephosphorylated to PI by SACM1L at the Golgi membrane	SmallMolecule11	SmallMolecule69	
+BiochemicalReaction115	PI3P is dephosphorylated to PI by SACM1L at the Golgi membrane	SmallMolecule121	SmallMolecule69	
+BiochemicalReaction116	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the Golgi membrane	SmallMolecule121	SmallMolecule32	
+BiochemicalReaction116	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the Golgi membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction116	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the Golgi membrane	SmallMolecule31	SmallMolecule124	
+BiochemicalReaction116	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the Golgi membrane	SmallMolecule121	SmallMolecule124	
+BiochemicalReaction117	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the Golgi membrane	SmallMolecule124	SmallMolecule34	
+BiochemicalReaction117	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the Golgi membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction117	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the Golgi membrane	SmallMolecule11	SmallMolecule121	
+BiochemicalReaction117	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the Golgi membrane	SmallMolecule124	SmallMolecule121	
+BiochemicalReaction118	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A/G at the Golgi membrane	SmallMolecule119	SmallMolecule32	
+BiochemicalReaction118	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A/G at the Golgi membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction118	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A/G at the Golgi membrane	SmallMolecule31	SmallMolecule125	
+BiochemicalReaction118	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A/G at the Golgi membrane	SmallMolecule119	SmallMolecule125	
+BiochemicalReaction119	PI(3,4)P2 is dephosphorylated to PI4P by TPTE2 at the Golgi membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction119	PI(3,4)P2 is dephosphorylated to PI4P by TPTE2 at the Golgi membrane	SmallMolecule125	SmallMolecule34	
+BiochemicalReaction119	PI(3,4)P2 is dephosphorylated to PI4P by TPTE2 at the Golgi membrane	SmallMolecule125	SmallMolecule119	
+BiochemicalReaction119	PI(3,4)P2 is dephosphorylated to PI4P by TPTE2 at the Golgi membrane	SmallMolecule11	SmallMolecule119	
+BiochemicalReaction12	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule25	SmallMolecule12	
+BiochemicalReaction12	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction12	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule11	SmallMolecule26	
+BiochemicalReaction12	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction120	PI(4,5)P2 is dephosphorylated to PI4P by OCRL/INPP5E at the Golgi membrane	SmallMolecule126	SmallMolecule34	
+BiochemicalReaction120	PI(4,5)P2 is dephosphorylated to PI4P by OCRL/INPP5E at the Golgi membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction120	PI(4,5)P2 is dephosphorylated to PI4P by OCRL/INPP5E at the Golgi membrane	SmallMolecule11	SmallMolecule119	
+BiochemicalReaction120	PI(4,5)P2 is dephosphorylated to PI4P by OCRL/INPP5E at the Golgi membrane	SmallMolecule126	SmallMolecule119	
+BiochemicalReaction121	PI4P transports from the Golgi membrane to the plasma membrane	SmallMolecule119	SmallMolecule127	
+BiochemicalReaction122	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction122	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane	SmallMolecule127	SmallMolecule32	
+BiochemicalReaction122	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane	SmallMolecule127	SmallMolecule128	
+BiochemicalReaction122	PI4P is phosphorylated to PI(4,5)P2 by PIP5K1A-C at the plasma membrane	SmallMolecule31	SmallMolecule128	
+BiochemicalReaction123	PI(4,5)P2 is dephosphorylated to PI4P by SYNJ/INPP5[1] at the plasma membrane	SmallMolecule128	SmallMolecule34	
+BiochemicalReaction123	PI(4,5)P2 is dephosphorylated to PI4P by SYNJ/INPP5[1] at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction123	PI(4,5)P2 is dephosphorylated to PI4P by SYNJ/INPP5[1] at the plasma membrane	SmallMolecule11	SmallMolecule127	
+BiochemicalReaction123	PI(4,5)P2 is dephosphorylated to PI4P by SYNJ/INPP5[1] at the plasma membrane	SmallMolecule128	SmallMolecule127	
+BiochemicalReaction124	PI(4,5)P2 is phosphorylated to PI(3,4,5)P3 by PIK3C[1] at the plasma membrane	SmallMolecule128	SmallMolecule32	
+BiochemicalReaction124	PI(4,5)P2 is phosphorylated to PI(3,4,5)P3 by PIK3C[1] at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction124	PI(4,5)P2 is phosphorylated to PI(3,4,5)P3 by PIK3C[1] at the plasma membrane	SmallMolecule31	SmallMolecule129	
+BiochemicalReaction124	PI(4,5)P2 is phosphorylated to PI(3,4,5)P3 by PIK3C[1] at the plasma membrane	SmallMolecule128	SmallMolecule129	
+BiochemicalReaction125	PI(3,4,5)P3 is dephosphorylated to PI (4,5)P2 by PTEN at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction125	PI(3,4,5)P3 is dephosphorylated to PI (4,5)P2 by PTEN at the plasma membrane	SmallMolecule129	SmallMolecule34	
+BiochemicalReaction125	PI(3,4,5)P3 is dephosphorylated to PI (4,5)P2 by PTEN at the plasma membrane	SmallMolecule129	SmallMolecule128	
+BiochemicalReaction125	PI(3,4,5)P3 is dephosphorylated to PI (4,5)P2 by PTEN at the plasma membrane	SmallMolecule11	SmallMolecule128	
+BiochemicalReaction126	PI(3,4)P2 is phosphorylated to PI(3,4,5)P3 by PIP5K1A-C at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction126	PI(3,4)P2 is phosphorylated to PI(3,4,5)P3 by PIP5K1A-C at the plasma membrane	SmallMolecule130	SmallMolecule32	
+BiochemicalReaction126	PI(3,4)P2 is phosphorylated to PI(3,4,5)P3 by PIP5K1A-C at the plasma membrane	SmallMolecule130	SmallMolecule129	
+BiochemicalReaction126	PI(3,4)P2 is phosphorylated to PI(3,4,5)P3 by PIP5K1A-C at the plasma membrane	SmallMolecule31	SmallMolecule129	
+BiochemicalReaction127	PI(3,4,5)P3 is dephosphorylated to PI(3,4)P2 by INPP5[2] at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction127	PI(3,4,5)P3 is dephosphorylated to PI(3,4)P2 by INPP5[2] at the plasma membrane	SmallMolecule129	SmallMolecule34	
+BiochemicalReaction127	PI(3,4,5)P3 is dephosphorylated to PI(3,4)P2 by INPP5[2] at the plasma membrane	SmallMolecule129	SmallMolecule130	
+BiochemicalReaction127	PI(3,4,5)P3 is dephosphorylated to PI(3,4)P2 by INPP5[2] at the plasma membrane	SmallMolecule11	SmallMolecule130	
+BiochemicalReaction128	PI4P is phosphorylated to PI(3,4)P2 by PI3K3C[2] at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction128	PI4P is phosphorylated to PI(3,4)P2 by PI3K3C[2] at the plasma membrane	SmallMolecule127	SmallMolecule32	
+BiochemicalReaction128	PI4P is phosphorylated to PI(3,4)P2 by PI3K3C[2] at the plasma membrane	SmallMolecule127	SmallMolecule130	
+BiochemicalReaction128	PI4P is phosphorylated to PI(3,4)P2 by PI3K3C[2] at the plasma membrane	SmallMolecule31	SmallMolecule130	
+BiochemicalReaction129	PI(3,4)P2 is dephosphorylated to PI4P by PTEN at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction129	PI(3,4)P2 is dephosphorylated to PI4P by PTEN at the plasma membrane	SmallMolecule130	SmallMolecule34	
+BiochemicalReaction129	PI(3,4)P2 is dephosphorylated to PI4P by PTEN at the plasma membrane	SmallMolecule130	SmallMolecule127	
+BiochemicalReaction129	PI(3,4)P2 is dephosphorylated to PI4P by PTEN at the plasma membrane	SmallMolecule11	SmallMolecule127	
+BiochemicalReaction13	DAG is acylated to TAG by DGAT1/2	SmallMolecule26	SmallMolecule7	
+BiochemicalReaction13	DAG is acylated to TAG by DGAT1/2	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction13	DAG is acylated to TAG by DGAT1/2	SmallMolecule6	SmallMolecule25	
+BiochemicalReaction13	DAG is acylated to TAG by DGAT1/2	SmallMolecule26	SmallMolecule25	
+BiochemicalReaction130	PI3P is phosphorylated to PI(3,4)P2 by PIP4K2/5K1 at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction130	PI3P is phosphorylated to PI(3,4)P2 by PIP4K2/5K1 at the plasma membrane	SmallMolecule132	SmallMolecule32	
+BiochemicalReaction130	PI3P is phosphorylated to PI(3,4)P2 by PIP4K2/5K1 at the plasma membrane	SmallMolecule132	SmallMolecule130	
+BiochemicalReaction130	PI3P is phosphorylated to PI(3,4)P2 by PIP4K2/5K1 at the plasma membrane	SmallMolecule31	SmallMolecule130	
+BiochemicalReaction131	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction131	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the plasma membrane	SmallMolecule130	SmallMolecule34	
+BiochemicalReaction131	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the plasma membrane	SmallMolecule130	SmallMolecule132	
+BiochemicalReaction131	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the plasma membrane	SmallMolecule11	SmallMolecule132	
+BiochemicalReaction132	PI3P is dephosphorylated to PI by SYNJ/MTM[1] at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction132	PI3P is dephosphorylated to PI by SYNJ/MTM[1] at the plasma membrane	SmallMolecule132	SmallMolecule34	
+BiochemicalReaction132	PI3P is dephosphorylated to PI by SYNJ/MTM[1] at the plasma membrane	SmallMolecule132	SmallMolecule84	
+BiochemicalReaction132	PI3P is dephosphorylated to PI by SYNJ/MTM[1] at the plasma membrane	SmallMolecule11	SmallMolecule84	
+BiochemicalReaction133	PI is phosphorylated to PI5P by PIP5K1A/B at the plasma membrane	SmallMolecule84	SmallMolecule32	
+BiochemicalReaction133	PI is phosphorylated to PI5P by PIP5K1A/B at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction133	PI is phosphorylated to PI5P by PIP5K1A/B at the plasma membrane	SmallMolecule31	SmallMolecule133	
+BiochemicalReaction133	PI is phosphorylated to PI5P by PIP5K1A/B at the plasma membrane	SmallMolecule84	SmallMolecule133	
+BiochemicalReaction134	PI3P is phosphorylated to PI(3,5)P2 by PIP5K1A/B at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction134	PI3P is phosphorylated to PI(3,5)P2 by PIP5K1A/B at the plasma membrane	SmallMolecule132	SmallMolecule32	
+BiochemicalReaction134	PI3P is phosphorylated to PI(3,5)P2 by PIP5K1A/B at the plasma membrane	SmallMolecule132	SmallMolecule134	
+BiochemicalReaction134	PI3P is phosphorylated to PI(3,5)P2 by PIP5K1A/B at the plasma membrane	SmallMolecule31	SmallMolecule134	
+BiochemicalReaction135	PI(3,5)P2 is dephosphorylated to PI3P by SYNJ at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction135	PI(3,5)P2 is dephosphorylated to PI3P by SYNJ at the plasma membrane	SmallMolecule134	SmallMolecule34	
+BiochemicalReaction135	PI(3,5)P2 is dephosphorylated to PI3P by SYNJ at the plasma membrane	SmallMolecule134	SmallMolecule132	
+BiochemicalReaction135	PI(3,5)P2 is dephosphorylated to PI3P by SYNJ at the plasma membrane	SmallMolecule11	SmallMolecule132	
+BiochemicalReaction136	PI(3,5)P2 is dephosphorylated to PI5P by SYNJ/MTM[1] at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction136	PI(3,5)P2 is dephosphorylated to PI5P by SYNJ/MTM[1] at the plasma membrane	SmallMolecule134	SmallMolecule34	
+BiochemicalReaction136	PI(3,5)P2 is dephosphorylated to PI5P by SYNJ/MTM[1] at the plasma membrane	SmallMolecule134	SmallMolecule133	
+BiochemicalReaction136	PI(3,5)P2 is dephosphorylated to PI5P by SYNJ/MTM[1] at the plasma membrane	SmallMolecule11	SmallMolecule133	
+BiochemicalReaction137	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2A/B at the plasma membrane	SmallMolecule133	SmallMolecule32	
+BiochemicalReaction137	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2A/B at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction137	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2A/B at the plasma membrane	SmallMolecule31	SmallMolecule128	
+BiochemicalReaction137	PI5P is phosphorylated to PI(4,5)P2 by PIP4K2A/B at the plasma membrane	SmallMolecule133	SmallMolecule128	
+BiochemicalReaction138	PI is phosphorylated to PI4P by PI4K2A/B at the plasma membrane	SmallMolecule84	SmallMolecule32	
+BiochemicalReaction138	PI is phosphorylated to PI4P by PI4K2A/B at the plasma membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction138	PI is phosphorylated to PI4P by PI4K2A/B at the plasma membrane	SmallMolecule31	SmallMolecule127	
+BiochemicalReaction138	PI is phosphorylated to PI4P by PI4K2A/B at the plasma membrane	SmallMolecule84	SmallMolecule127	
+BiochemicalReaction139	PI4P is dephosphorylated to PI by SYNJ at the plasma membrane	SmallMolecule127	SmallMolecule34	
+BiochemicalReaction139	PI4P is dephosphorylated to PI by SYNJ at the plasma membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction139	PI4P is dephosphorylated to PI by SYNJ at the plasma membrane	SmallMolecule11	SmallMolecule84	
+BiochemicalReaction139	PI4P is dephosphorylated to PI by SYNJ at the plasma membrane	SmallMolecule127	SmallMolecule84	
+BiochemicalReaction14	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule11	SmallMolecule27	
+BiochemicalReaction14	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction14	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule26	SmallMolecule12	
+BiochemicalReaction14	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction140	PI(3,4)P2 is transported from the plasma membrane to the early endosome membrane	SmallMolecule130	SmallMolecule135	
+BiochemicalReaction141	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the early endosome membrane	SmallMolecule135	SmallMolecule34	
+BiochemicalReaction141	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the early endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction141	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the early endosome membrane	SmallMolecule11	SmallMolecule136	
+BiochemicalReaction141	PI(3,4)P2 is dephosphorylated to PI3P by INPP4A/B at the early endosome membrane	SmallMolecule135	SmallMolecule136	
+BiochemicalReaction142	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the early endosome membrane	SmallMolecule136	SmallMolecule137	
+BiochemicalReaction142	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the early endosome membrane	SmallMolecule31	SmallMolecule137	
+BiochemicalReaction142	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the early endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction142	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the early endosome membrane	SmallMolecule136	SmallMolecule32	
+BiochemicalReaction143	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the early endosome membrane	SmallMolecule137	SmallMolecule34	
+BiochemicalReaction143	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the early endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction143	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the early endosome membrane	SmallMolecule11	SmallMolecule136	
+BiochemicalReaction143	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the early endosome membrane	SmallMolecule137	SmallMolecule136	
+BiochemicalReaction144	PI(3,5)P2 is dephosphorylated to PI5P by MTM[2] at the early endosome membrane	SmallMolecule137	SmallMolecule34	
+BiochemicalReaction144	PI(3,5)P2 is dephosphorylated to PI5P by MTM[2] at the early endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction144	PI(3,5)P2 is dephosphorylated to PI5P by MTM[2] at the early endosome membrane	SmallMolecule11	SmallMolecule138	
+BiochemicalReaction144	PI(3,5)P2 is dephosphorylated to PI5P by MTM[2] at the early endosome membrane	SmallMolecule137	SmallMolecule138	
+BiochemicalReaction145	PI is phosphorylated to PI3P by PIK3C2A/3 at the early endosome membrane	SmallMolecule139	SmallMolecule136	
+BiochemicalReaction145	PI is phosphorylated to PI3P by PIK3C2A/3 at the early endosome membrane	SmallMolecule31	SmallMolecule136	
+BiochemicalReaction145	PI is phosphorylated to PI3P by PIK3C2A/3 at the early endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction145	PI is phosphorylated to PI3P by PIK3C2A/3 at the early endosome membrane	SmallMolecule139	SmallMolecule32	
+BiochemicalReaction146	PI3P is dephosphorylated to PI by MTM[2] at the early endosome membrane	SmallMolecule136	SmallMolecule34	
+BiochemicalReaction146	PI3P is dephosphorylated to PI by MTM[2] at the early endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction146	PI3P is dephosphorylated to PI by MTM[2] at the early endosome membrane	SmallMolecule11	SmallMolecule139	
+BiochemicalReaction146	PI3P is dephosphorylated to PI by MTM[2] at the early endosome membrane	SmallMolecule136	SmallMolecule139	
+BiochemicalReaction147	PI is phosphorylated to PI4P by PI4K2A/B at the early endosome membrane	SmallMolecule139	SmallMolecule32	
+BiochemicalReaction147	PI is phosphorylated to PI4P by PI4K2A/B at the early endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction147	PI is phosphorylated to PI4P by PI4K2A/B at the early endosome membrane	SmallMolecule31	SmallMolecule140	
+BiochemicalReaction147	PI is phosphorylated to PI4P by PI4K2A/B at the early endosome membrane	SmallMolecule139	SmallMolecule140	
+BiochemicalReaction148	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A at the early endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction148	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A at the early endosome membrane	SmallMolecule140	SmallMolecule32	
+BiochemicalReaction148	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A at the early endosome membrane	SmallMolecule140	SmallMolecule135	
+BiochemicalReaction148	PI4P is phosphorylated to PI(3,4)P2 by PIK3C2A at the early endosome membrane	SmallMolecule31	SmallMolecule135	
+BiochemicalReaction149	PI(3,5)P2 transports from the early endosome membrane to the Golgi membrane	SmallMolecule137	SmallMolecule124	
+BiochemicalReaction15	2-MAG is transacylated to DAG by PNPLA2/3	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction15	2-MAG is transacylated to DAG by PNPLA2/3	SmallMolecule27	SmallMolecule26	
+BiochemicalReaction150	Presence of PI(3,5)P2 stimulates the maturation of the early endosome into the late endosome	SmallMolecule137	SmallMolecule141	
+BiochemicalReaction151	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the late endosome membrane	SmallMolecule142	SmallMolecule32	
+BiochemicalReaction151	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the late endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction151	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the late endosome membrane	SmallMolecule31	SmallMolecule141	
+BiochemicalReaction151	PI3P is phosphorylated to PI(3,5)P2 by PIKFYVE at the late endosome membrane	SmallMolecule142	SmallMolecule141	
+BiochemicalReaction152	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the late endosome membrane	SmallMolecule141	SmallMolecule34	
+BiochemicalReaction152	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the late endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction152	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the late endosome membrane	SmallMolecule11	SmallMolecule142	
+BiochemicalReaction152	PI(3,5)P2 is dephosphorylated to PI3P by FIG4 at the late endosome membrane	SmallMolecule141	SmallMolecule142	
+BiochemicalReaction153	PI(3,5)P2 is dephosphorylated to PI5P by MTM[3] at the late endosome membrane	SmallMolecule141	SmallMolecule34	
+BiochemicalReaction153	PI(3,5)P2 is dephosphorylated to PI5P by MTM[3] at the late endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction153	PI(3,5)P2 is dephosphorylated to PI5P by MTM[3] at the late endosome membrane	SmallMolecule11	SmallMolecule143	
+BiochemicalReaction153	PI(3,5)P2 is dephosphorylated to PI5P by MTM[3] at the late endosome membrane	SmallMolecule141	SmallMolecule143	
+BiochemicalReaction154	PI is phosphorylated to PI5P by PIKFYVE at the late endosome membrane	SmallMolecule144	SmallMolecule32	
+BiochemicalReaction154	PI is phosphorylated to PI5P by PIKFYVE at the late endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction154	PI is phosphorylated to PI5P by PIKFYVE at the late endosome membrane	SmallMolecule31	SmallMolecule143	
+BiochemicalReaction154	PI is phosphorylated to PI5P by PIKFYVE at the late endosome membrane	SmallMolecule144	SmallMolecule143	
+BiochemicalReaction155	PI is phosphorylated to PI3P by PIK3C2A/3 at the late endosome membrane	SmallMolecule144	SmallMolecule32	
+BiochemicalReaction155	PI is phosphorylated to PI3P by PIK3C2A/3 at the late endosome membrane	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction155	PI is phosphorylated to PI3P by PIK3C2A/3 at the late endosome membrane	SmallMolecule31	SmallMolecule142	
+BiochemicalReaction155	PI is phosphorylated to PI3P by PIK3C2A/3 at the late endosome membrane	SmallMolecule144	SmallMolecule142	
+BiochemicalReaction156	PI3P is dephosphorylated to PI by MTM[3] at the late endosome membrane	SmallMolecule142	SmallMolecule34	
+BiochemicalReaction156	PI3P is dephosphorylated to PI by MTM[3] at the late endosome membrane	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction156	PI3P is dephosphorylated to PI by MTM[3] at the late endosome membrane	SmallMolecule11	SmallMolecule144	
+BiochemicalReaction156	PI3P is dephosphorylated to PI by MTM[3] at the late endosome membrane	SmallMolecule142	SmallMolecule144	
+BiochemicalReaction157	PI(3,5)P2 transports from the late endosome membrane to the Golgi membrane	SmallMolecule141	SmallMolecule124	
+BiochemicalReaction16	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction16	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction16	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule26	SmallMolecule25	
+BiochemicalReaction16	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule27	SmallMolecule25	
+BiochemicalReaction17	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction17	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule11	SmallMolecule28	
+BiochemicalReaction17	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule11	SmallMolecule29	
+BiochemicalReaction17	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction18	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule30	SmallMolecule32	
+BiochemicalReaction18	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction18	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule31	SmallMolecule33	
+BiochemicalReaction18	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule30	SmallMolecule33	
+BiochemicalReaction19	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction19	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction19	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule33	SmallMolecule30	
+BiochemicalReaction19	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction20	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction20	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule33	SmallMolecule37	
+BiochemicalReaction20	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule33	SmallMolecule38	
+BiochemicalReaction20	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction21	PA is dephosphorylated to DAG by LPIN	SmallMolecule10	SmallMolecule34	
+BiochemicalReaction21	PA is dephosphorylated to DAG by LPIN	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction21	PA is dephosphorylated to DAG by LPIN	SmallMolecule11	SmallMolecule26	
+BiochemicalReaction21	PA is dephosphorylated to DAG by LPIN	SmallMolecule10	SmallMolecule26	
+BiochemicalReaction22	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule37	SmallMolecule40	
+BiochemicalReaction22	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule26	SmallMolecule40	
+BiochemicalReaction22	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule26	SmallMolecule41	
+BiochemicalReaction22	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule37	SmallMolecule41	
+BiochemicalReaction23	PS transports from the ER membrane to the IM membrane	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction24	PS is decarboxylated to PE by PISD	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction24	PS is decarboxylated to PE by PISD	SmallMolecule45	SmallMolecule47	
+BiochemicalReaction25	PE transports from the mitochondrial membrane to the ER	SmallMolecule47	SmallMolecule40	
+BiochemicalReaction26	PE is hydrolyzed to 1-acyl LPE by PLA2[2]	SmallMolecule40	SmallMolecule12	
+BiochemicalReaction26	PE is hydrolyzed to 1-acyl LPE by PLA2[2]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction26	PE is hydrolyzed to 1-acyl LPE by PLA2[2]	SmallMolecule11	SmallMolecule49	
+BiochemicalReaction26	PE is hydrolyzed to 1-acyl LPE by PLA2[2]	SmallMolecule40	SmallMolecule49	
+BiochemicalReaction27	PE is hydrolyzed to 1-acyl LPE by PLA2[3]	SmallMolecule40	SmallMolecule12	
+BiochemicalReaction27	PE is hydrolyzed to 1-acyl LPE by PLA2[3]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction27	PE is hydrolyzed to 1-acyl LPE by PLA2[3]	SmallMolecule11	SmallMolecule49	
+BiochemicalReaction27	PE is hydrolyzed to 1-acyl LPE by PLA2[3]	SmallMolecule40	SmallMolecule49	
+BiochemicalReaction28	1-acyl LPE is acylated to PE by LPEAT	SmallMolecule49	SmallMolecule40	
+BiochemicalReaction28	1-acyl LPE is acylated to PE by LPEAT	SmallMolecule6	SmallMolecule40	
+BiochemicalReaction28	1-acyl LPE is acylated to PE by LPEAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction28	1-acyl LPE is acylated to PE by LPEAT	SmallMolecule49	SmallMolecule7	
+BiochemicalReaction29	PE is hydrolyzed to 2-acyl LPE by PLA2[4]	SmallMolecule40	SmallMolecule50	
+BiochemicalReaction29	PE is hydrolyzed to 2-acyl LPE by PLA2[4]	SmallMolecule11	SmallMolecule50	
+BiochemicalReaction29	PE is hydrolyzed to 2-acyl LPE by PLA2[4]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction29	PE is hydrolyzed to 2-acyl LPE by PLA2[4]	SmallMolecule40	SmallMolecule12	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction30	PE is hydrolyzed to 2-acyl LPE by PLA2G4C	SmallMolecule40	SmallMolecule50	
+BiochemicalReaction30	PE is hydrolyzed to 2-acyl LPE by PLA2G4C	SmallMolecule11	SmallMolecule50	
+BiochemicalReaction30	PE is hydrolyzed to 2-acyl LPE by PLA2G4C	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction30	PE is hydrolyzed to 2-acyl LPE by PLA2G4C	SmallMolecule40	SmallMolecule12	
+BiochemicalReaction31	2-acyl LPE is acylated to PE by LPEAT	SmallMolecule50	SmallMolecule40	
+BiochemicalReaction31	2-acyl LPE is acylated to PE by LPEAT	SmallMolecule6	SmallMolecule40	
+BiochemicalReaction31	2-acyl LPE is acylated to PE by LPEAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction31	2-acyl LPE is acylated to PE by LPEAT	SmallMolecule50	SmallMolecule7	
+BiochemicalReaction32	PE is hydrolyzed to 1-acyl LPE by PLA2[16]	SmallMolecule51	SmallMolecule22	
+BiochemicalReaction32	PE is hydrolyzed to 1-acyl LPE by PLA2[16]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction32	PE is hydrolyzed to 1-acyl LPE by PLA2[16]	SmallMolecule21	SmallMolecule52	
+BiochemicalReaction32	PE is hydrolyzed to 1-acyl LPE by PLA2[16]	SmallMolecule51	SmallMolecule52	
+BiochemicalReaction33	1-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule49	SmallMolecule53	
+BiochemicalReaction33	1-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule11	SmallMolecule53	
+BiochemicalReaction33	1-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction33	1-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule49	SmallMolecule12	
+BiochemicalReaction34	2-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule50	SmallMolecule53	
+BiochemicalReaction34	2-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule11	SmallMolecule53	
+BiochemicalReaction34	2-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction34	2-acyl LPE is hydrolyzed to GPETA by PLA2G4C	SmallMolecule50	SmallMolecule12	
+BiochemicalReaction35	GPETA is hydrolyzed to ETA and G3P by GPCPD1	SmallMolecule53	SmallMolecule30	
+BiochemicalReaction35	GPETA is hydrolyzed to ETA and G3P by GPCPD1	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction35	GPETA is hydrolyzed to ETA and G3P by GPCPD1	SmallMolecule11	SmallMolecule5	
+BiochemicalReaction35	GPETA is hydrolyzed to ETA and G3P by GPCPD1	SmallMolecule53	SmallMolecule5	
+BiochemicalReaction36	PE is methylated to PC by PEMT	SmallMolecule54	SmallMolecule18	
+BiochemicalReaction36	PE is methylated to PC by PEMT	SmallMolecule40	SmallMolecule18	
+BiochemicalReaction36	PE is methylated to PC by PEMT	SmallMolecule40	SmallMolecule55	
+BiochemicalReaction36	PE is methylated to PC by PEMT	SmallMolecule54	SmallMolecule55	
+BiochemicalReaction37	Acetylcholine clearance from synaptic cleft	SmallMolecule21	SmallMolecule57	
+BiochemicalReaction37	Acetylcholine clearance from synaptic cleft	SmallMolecule56	SmallMolecule57	
+BiochemicalReaction37	Acetylcholine clearance from synaptic cleft	SmallMolecule56	SmallMolecule58	
+BiochemicalReaction37	Acetylcholine clearance from synaptic cleft	SmallMolecule21	SmallMolecule58	
+BiochemicalReaction38	CTL1-5 can mediate the uptake of choline	SmallMolecule57	SmallMolecule19	
+BiochemicalReaction39	Cho is phosphorylated to PCho by CHK dimer	SmallMolecule19	SmallMolecule32	
+BiochemicalReaction39	Cho is phosphorylated to PCho by CHK dimer	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction39	Cho is phosphorylated to PCho by CHK dimer	SmallMolecule31	SmallMolecule59	
+BiochemicalReaction39	Cho is phosphorylated to PCho by CHK dimer	SmallMolecule19	SmallMolecule59	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction40	PCho is dephosphorylated to Cho by PHOSPHO1	SmallMolecule11	SmallMolecule34	
+BiochemicalReaction40	PCho is dephosphorylated to Cho by PHOSPHO1	SmallMolecule59	SmallMolecule34	
+BiochemicalReaction40	PCho is dephosphorylated to Cho by PHOSPHO1	SmallMolecule59	SmallMolecule19	
+BiochemicalReaction40	PCho is dephosphorylated to Cho by PHOSPHO1	SmallMolecule11	SmallMolecule19	
+BiochemicalReaction41	Synthesis of o-acetylcholine	SmallMolecule19	SmallMolecule61	
+BiochemicalReaction41	Synthesis of o-acetylcholine	SmallMolecule60	SmallMolecule61	
+BiochemicalReaction41	Synthesis of o-acetylcholine	SmallMolecule60	SmallMolecule7	
+BiochemicalReaction41	Synthesis of o-acetylcholine	SmallMolecule19	SmallMolecule7	
+BiochemicalReaction42	PCho and CTP are condensed to CDP-Cho by PCYT1 dimer	SmallMolecule36	SmallMolecule62	
+BiochemicalReaction42	PCho and CTP are condensed to CDP-Cho by PCYT1 dimer	SmallMolecule59	SmallMolecule62	
+BiochemicalReaction42	PCho and CTP are condensed to CDP-Cho by PCYT1 dimer	SmallMolecule59	SmallMolecule38	
+BiochemicalReaction42	PCho and CTP are condensed to CDP-Cho by PCYT1 dimer	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction43	CDP-Cho and DAG are converted to PC by CEPT1 at the ER membrane	SmallMolecule62	SmallMolecule41	
+BiochemicalReaction43	CDP-Cho and DAG are converted to PC by CEPT1 at the ER membrane	SmallMolecule26	SmallMolecule41	
+BiochemicalReaction43	CDP-Cho and DAG are converted to PC by CEPT1 at the ER membrane	SmallMolecule26	SmallMolecule18	
+BiochemicalReaction43	CDP-Cho and DAG are converted to PC by CEPT1 at the ER membrane	SmallMolecule62	SmallMolecule18	
+BiochemicalReaction44	CDP-Cho and DAG are converted to PC by CHPT1 at the Golgi membrane	SmallMolecule62	SmallMolecule41	
+BiochemicalReaction44	CDP-Cho and DAG are converted to PC by CHPT1 at the Golgi membrane	SmallMolecule63	SmallMolecule41	
+BiochemicalReaction44	CDP-Cho and DAG are converted to PC by CHPT1 at the Golgi membrane	SmallMolecule63	SmallMolecule64	
+BiochemicalReaction44	CDP-Cho and DAG are converted to PC by CHPT1 at the Golgi membrane	SmallMolecule62	SmallMolecule64	
+BiochemicalReaction45	PI:PITPNB is transported from the ER membrane to the Golgi membrane	Complex37	Complex38	
+BiochemicalReaction46	PI is exchanged with PC by PITPNB	Complex38	SmallMolecule69	
+BiochemicalReaction46	PI is exchanged with PC by PITPNB	SmallMolecule64	SmallMolecule69	
+BiochemicalReaction46	PI is exchanged with PC by PITPNB	SmallMolecule64	Complex39	
+BiochemicalReaction46	PI is exchanged with PC by PITPNB	Complex38	Complex39	
+BiochemicalReaction47	PC:PITPNB is transported from the Golgi membrane to the ER membrane	Complex39	Complex40	
+BiochemicalReaction48	PC is exchanged with PI by PITPNB	SmallMolecule68	Complex37	
+BiochemicalReaction48	PC is exchanged with PI by PITPNB	Complex40	Complex37	
+BiochemicalReaction48	PC is exchanged with PI by PITPNB	Complex40	SmallMolecule18	
+BiochemicalReaction48	PC is exchanged with PI by PITPNB	SmallMolecule68	SmallMolecule18	
+BiochemicalReaction49	PC is hydrolyzed to 1-acyl LPC by PLA2[5]	SmallMolecule18	SmallMolecule70	
+BiochemicalReaction49	PC is hydrolyzed to 1-acyl LPC by PLA2[5]	SmallMolecule11	SmallMolecule70	
+BiochemicalReaction49	PC is hydrolyzed to 1-acyl LPC by PLA2[5]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction49	PC is hydrolyzed to 1-acyl LPC by PLA2[5]	SmallMolecule18	SmallMolecule12	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction50	PC is hydrolyzed to 1-acyl LPC by PLA2[6]	SmallMolecule18	SmallMolecule70	
+BiochemicalReaction50	PC is hydrolyzed to 1-acyl LPC by PLA2[6]	SmallMolecule11	SmallMolecule70	
+BiochemicalReaction50	PC is hydrolyzed to 1-acyl LPC by PLA2[6]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction50	PC is hydrolyzed to 1-acyl LPC by PLA2[6]	SmallMolecule18	SmallMolecule12	
+BiochemicalReaction51	1-acyl LPC is acylated to PC by LPCAT	SmallMolecule70	SmallMolecule18	
+BiochemicalReaction51	1-acyl LPC is acylated to PC by LPCAT	SmallMolecule6	SmallMolecule18	
+BiochemicalReaction51	1-acyl LPC is acylated to PC by LPCAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction51	1-acyl LPC is acylated to PC by LPCAT	SmallMolecule70	SmallMolecule7	
+BiochemicalReaction52	PC is hydrolysed to 2-acyl LPC by PLA2[7]	SmallMolecule18	SmallMolecule12	
+BiochemicalReaction52	PC is hydrolysed to 2-acyl LPC by PLA2[7]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction52	PC is hydrolysed to 2-acyl LPC by PLA2[7]	SmallMolecule11	SmallMolecule71	
+BiochemicalReaction52	PC is hydrolysed to 2-acyl LPC by PLA2[7]	SmallMolecule18	SmallMolecule71	
+BiochemicalReaction53	PC is hydrolyzed to 2-acyl LPC by PLA2G4C	SmallMolecule18	SmallMolecule12	
+BiochemicalReaction53	PC is hydrolyzed to 2-acyl LPC by PLA2G4C	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction53	PC is hydrolyzed to 2-acyl LPC by PLA2G4C	SmallMolecule11	SmallMolecule71	
+BiochemicalReaction53	PC is hydrolyzed to 2-acyl LPC by PLA2G4C	SmallMolecule18	SmallMolecule71	
+BiochemicalReaction54	2-acyl LPC is acylated to PC by LPCAT	SmallMolecule71	SmallMolecule18	
+BiochemicalReaction54	2-acyl LPC is acylated to PC by LPCAT	SmallMolecule6	SmallMolecule18	
+BiochemicalReaction54	2-acyl LPC is acylated to PC by LPCAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction54	2-acyl LPC is acylated to PC by LPCAT	SmallMolecule71	SmallMolecule7	
+BiochemicalReaction55	PC is hydrolyzed to 1-acyl LPC by PLA2[16]	SmallMolecule72	SmallMolecule22	
+BiochemicalReaction55	PC is hydrolyzed to 1-acyl LPC by PLA2[16]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction55	PC is hydrolyzed to 1-acyl LPC by PLA2[16]	SmallMolecule21	SmallMolecule73	
+BiochemicalReaction55	PC is hydrolyzed to 1-acyl LPC by PLA2[16]	SmallMolecule72	SmallMolecule73	
+BiochemicalReaction56	PC is hydrolyzed to 1-acyl LPC by PLB1	SmallMolecule72	SmallMolecule22	
+BiochemicalReaction56	PC is hydrolyzed to 1-acyl LPC by PLB1	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction56	PC is hydrolyzed to 1-acyl LPC by PLB1	SmallMolecule21	SmallMolecule73	
+BiochemicalReaction56	PC is hydrolyzed to 1-acyl LPC by PLB1	SmallMolecule72	SmallMolecule73	
+BiochemicalReaction57	1-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule70	SmallMolecule12	
+BiochemicalReaction57	1-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction57	1-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule11	SmallMolecule74	
+BiochemicalReaction57	1-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule70	SmallMolecule74	
+BiochemicalReaction58	1-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule70	SmallMolecule12	
+BiochemicalReaction58	1-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction58	1-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule11	SmallMolecule74	
+BiochemicalReaction58	1-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule70	SmallMolecule74	
+BiochemicalReaction59	2-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule71	SmallMolecule12	
+BiochemicalReaction59	2-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction59	2-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule11	SmallMolecule74	
+BiochemicalReaction59	2-acyl LPC is hydrolyzed to GPCho by PLA2[8]	SmallMolecule71	SmallMolecule74	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction60	2-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule71	SmallMolecule12	
+BiochemicalReaction60	2-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction60	2-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule11	SmallMolecule74	
+BiochemicalReaction60	2-acyl LPC is hydrolyzed to GPCho by PLA2G4C	SmallMolecule71	SmallMolecule74	
+BiochemicalReaction61	GPCho is hydrolyzed to Cho and G3P by GPCPD1	SmallMolecule74	SmallMolecule19	
+BiochemicalReaction61	GPCho is hydrolyzed to Cho and G3P by GPCPD1	SmallMolecule11	SmallMolecule19	
+BiochemicalReaction61	GPCho is hydrolyzed to Cho and G3P by GPCPD1	SmallMolecule11	SmallMolecule5	
+BiochemicalReaction61	GPCho is hydrolyzed to Cho and G3P by GPCPD1	SmallMolecule74	SmallMolecule5	
+BiochemicalReaction62	PC is converted to PS by PTDSS1	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction62	PC is converted to PS by PTDSS1	SmallMolecule75	SmallMolecule19	
+BiochemicalReaction62	PC is converted to PS by PTDSS1	SmallMolecule75	SmallMolecule44	
+BiochemicalReaction62	PC is converted to PS by PTDSS1	SmallMolecule18	SmallMolecule44	
+BiochemicalReaction63	PE is converted to PS by PTDSS2	SmallMolecule40	SmallMolecule30	
+BiochemicalReaction63	PE is converted to PS by PTDSS2	SmallMolecule75	SmallMolecule30	
+BiochemicalReaction63	PE is converted to PS by PTDSS2	SmallMolecule75	SmallMolecule44	
+BiochemicalReaction63	PE is converted to PS by PTDSS2	SmallMolecule40	SmallMolecule44	
+BiochemicalReaction64	PS is hydrolyzed to 1-acyl LPS by PLA2[9]	SmallMolecule44	SmallMolecule76	
+BiochemicalReaction64	PS is hydrolyzed to 1-acyl LPS by PLA2[9]	SmallMolecule11	SmallMolecule76	
+BiochemicalReaction64	PS is hydrolyzed to 1-acyl LPS by PLA2[9]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction64	PS is hydrolyzed to 1-acyl LPS by PLA2[9]	SmallMolecule44	SmallMolecule12	
+BiochemicalReaction65	PS is hydrolyzed to 1-acyl LPS by PLA2G2A	SmallMolecule44	SmallMolecule76	
+BiochemicalReaction65	PS is hydrolyzed to 1-acyl LPS by PLA2G2A	SmallMolecule11	SmallMolecule76	
+BiochemicalReaction65	PS is hydrolyzed to 1-acyl LPS by PLA2G2A	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction65	PS is hydrolyzed to 1-acyl LPS by PLA2G2A	SmallMolecule44	SmallMolecule12	
+BiochemicalReaction66	1-acyl LPS is acylated to PS by LPSAT	SmallMolecule76	SmallMolecule7	
+BiochemicalReaction66	1-acyl LPS is acylated to PS by LPSAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction66	1-acyl LPS is acylated to PS by LPSAT	SmallMolecule6	SmallMolecule44	
+BiochemicalReaction66	1-acyl LPS is acylated to PS by LPSAT	SmallMolecule76	SmallMolecule44	
+BiochemicalReaction67	PS is hydrolyzed to 2-acyl LPS by PLA2[10]	SmallMolecule44	SmallMolecule77	
+BiochemicalReaction67	PS is hydrolyzed to 2-acyl LPS by PLA2[10]	SmallMolecule11	SmallMolecule77	
+BiochemicalReaction67	PS is hydrolyzed to 2-acyl LPS by PLA2[10]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction67	PS is hydrolyzed to 2-acyl LPS by PLA2[10]	SmallMolecule44	SmallMolecule12	
+BiochemicalReaction68	2-acyl LPS is acylated to PS by LPSAT	SmallMolecule77	SmallMolecule7	
+BiochemicalReaction68	2-acyl LPS is acylated to PS by LPSAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction68	2-acyl LPS is acylated to PS by LPSAT	SmallMolecule6	SmallMolecule44	
+BiochemicalReaction68	2-acyl LPS is acylated to PS by LPSAT	SmallMolecule77	SmallMolecule44	
+BiochemicalReaction69	PS is hydrolyzed to 1-acyl LPS by PLA2[15]	SmallMolecule21	SmallMolecule79	
+BiochemicalReaction69	PS is hydrolyzed to 1-acyl LPS by PLA2[15]	SmallMolecule78	SmallMolecule79	
+BiochemicalReaction69	PS is hydrolyzed to 1-acyl LPS by PLA2[15]	SmallMolecule78	SmallMolecule22	
+BiochemicalReaction69	PS is hydrolyzed to 1-acyl LPS by PLA2[15]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule6	SmallMolecule15	
+BiochemicalReaction70	PA is converted to CDP-DAG by CDS1	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction70	PA is converted to CDP-DAG by CDS1	SmallMolecule10	SmallMolecule38	
+BiochemicalReaction70	PA is converted to CDP-DAG by CDS1	SmallMolecule10	SmallMolecule80	
+BiochemicalReaction70	PA is converted to CDP-DAG by CDS1	SmallMolecule36	SmallMolecule80	
+BiochemicalReaction71	CDP-DAG is converted to PI by CDIPT	SmallMolecule81	SmallMolecule68	
+BiochemicalReaction71	CDP-DAG is converted to PI by CDIPT	SmallMolecule80	SmallMolecule68	
+BiochemicalReaction71	CDP-DAG is converted to PI by CDIPT	SmallMolecule80	SmallMolecule41	
+BiochemicalReaction71	CDP-DAG is converted to PI by CDIPT	SmallMolecule81	SmallMolecule41	
+BiochemicalReaction72	PI is hydrolyzed to 1-acyl LPI by PLA2[11]	SmallMolecule68	SmallMolecule82	
+BiochemicalReaction72	PI is hydrolyzed to 1-acyl LPI by PLA2[11]	SmallMolecule11	SmallMolecule82	
+BiochemicalReaction72	PI is hydrolyzed to 1-acyl LPI by PLA2[11]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction72	PI is hydrolyzed to 1-acyl LPI by PLA2[11]	SmallMolecule68	SmallMolecule12	
+BiochemicalReaction73	PI is hydrolyzed to 1-acyl LPI by PLA2[12]	SmallMolecule68	SmallMolecule82	
+BiochemicalReaction73	PI is hydrolyzed to 1-acyl LPI by PLA2[12]	SmallMolecule11	SmallMolecule82	
+BiochemicalReaction73	PI is hydrolyzed to 1-acyl LPI by PLA2[12]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction73	PI is hydrolyzed to 1-acyl LPI by PLA2[12]	SmallMolecule68	SmallMolecule12	
+BiochemicalReaction74	1-acyl LPI is acylated to PI by MBOAT7	SmallMolecule82	SmallMolecule68	
+BiochemicalReaction74	1-acyl LPI is acylated to PI by MBOAT7	SmallMolecule6	SmallMolecule68	
+BiochemicalReaction74	1-acyl LPI is acylated to PI by MBOAT7	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction74	1-acyl LPI is acylated to PI by MBOAT7	SmallMolecule82	SmallMolecule7	
+BiochemicalReaction75	PI is hydrolyzed to 2-acyl LPI by PLA2[13]	SmallMolecule68	SmallMolecule83	
+BiochemicalReaction75	PI is hydrolyzed to 2-acyl LPI by PLA2[13]	SmallMolecule11	SmallMolecule83	
+BiochemicalReaction75	PI is hydrolyzed to 2-acyl LPI by PLA2[13]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction75	PI is hydrolyzed to 2-acyl LPI by PLA2[13]	SmallMolecule68	SmallMolecule12	
+BiochemicalReaction76	2-acyl LPI is acylated to PI by MBOAT7	SmallMolecule83	SmallMolecule68	
+BiochemicalReaction76	2-acyl LPI is acylated to PI by MBOAT7	SmallMolecule6	SmallMolecule68	
+BiochemicalReaction76	2-acyl LPI is acylated to PI by MBOAT7	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction76	2-acyl LPI is acylated to PI by MBOAT7	SmallMolecule83	SmallMolecule7	
+BiochemicalReaction77	PI is hydrolyzed to 1-acyl LPI by PLA2[15]	SmallMolecule84	SmallMolecule85	
+BiochemicalReaction77	PI is hydrolyzed to 1-acyl LPI by PLA2[15]	SmallMolecule21	SmallMolecule85	
+BiochemicalReaction77	PI is hydrolyzed to 1-acyl LPI by PLA2[15]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction77	PI is hydrolyzed to 1-acyl LPI by PLA2[15]	SmallMolecule84	SmallMolecule22	
+BiochemicalReaction78	PC is transphosphatidylated to PG by PLD1-4/6	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction78	PC is transphosphatidylated to PG by PLD1-4/6	SmallMolecule28	SmallMolecule19	
+BiochemicalReaction78	PC is transphosphatidylated to PG by PLD1-4/6	SmallMolecule28	SmallMolecule86	
+BiochemicalReaction78	PC is transphosphatidylated to PG by PLD1-4/6	SmallMolecule18	SmallMolecule86	
+BiochemicalReaction79	PA transports from the outer to the inner mitochondrial membrane	SmallMolecule16	SmallMolecule87	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule15	SmallMolecule7	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule6	SmallMolecule16	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction80	PA is converted to CDP-DAG by CDS2	SmallMolecule87	SmallMolecule89	
+BiochemicalReaction80	PA is converted to CDP-DAG by CDS2	SmallMolecule88	SmallMolecule89	
+BiochemicalReaction80	PA is converted to CDP-DAG by CDS2	SmallMolecule88	SmallMolecule90	
+BiochemicalReaction80	PA is converted to CDP-DAG by CDS2	SmallMolecule87	SmallMolecule90	
+BiochemicalReaction81	CDP-DAG is converted to PGP by PGS1	SmallMolecule91	SmallMolecule92	
+BiochemicalReaction81	CDP-DAG is converted to PGP by PGS1	SmallMolecule89	SmallMolecule92	
+BiochemicalReaction81	CDP-DAG is converted to PGP by PGS1	SmallMolecule89	SmallMolecule93	
+BiochemicalReaction81	CDP-DAG is converted to PGP by PGS1	SmallMolecule91	SmallMolecule93	
+BiochemicalReaction82	PTPMT1 dephosphorylates PGP to PG	SmallMolecule94	SmallMolecule95	
+BiochemicalReaction82	PTPMT1 dephosphorylates PGP to PG	SmallMolecule93	SmallMolecule95	
+BiochemicalReaction82	PTPMT1 dephosphorylates PGP to PG	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction82	PTPMT1 dephosphorylates PGP to PG	SmallMolecule94	SmallMolecule96	
+BiochemicalReaction83	PG is hydrolyzed to 1-acyl LPG by PLA2[1]	SmallMolecule86	SmallMolecule12	
+BiochemicalReaction83	PG is hydrolyzed to 1-acyl LPG by PLA2[1]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction83	PG is hydrolyzed to 1-acyl LPG by PLA2[1]	SmallMolecule11	SmallMolecule97	
+BiochemicalReaction83	PG is hydrolyzed to 1-acyl LPG by PLA2[1]	SmallMolecule86	SmallMolecule97	
+BiochemicalReaction84	PG is hydrolyzed to 1-acyl LPG by PLA2G2A	SmallMolecule86	SmallMolecule12	
+BiochemicalReaction84	PG is hydrolyzed to 1-acyl LPG by PLA2G2A	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction84	PG is hydrolyzed to 1-acyl LPG by PLA2G2A	SmallMolecule11	SmallMolecule97	
+BiochemicalReaction84	PG is hydrolyzed to 1-acyl LPG by PLA2G2A	SmallMolecule86	SmallMolecule97	
+BiochemicalReaction85	1-acyl LPG is acylated to PG by LPGAT	SmallMolecule6	SmallMolecule86	
+BiochemicalReaction85	1-acyl LPG is acylated to PG by LPGAT	SmallMolecule97	SmallMolecule86	
+BiochemicalReaction85	1-acyl LPG is acylated to PG by LPGAT	SmallMolecule97	SmallMolecule7	
+BiochemicalReaction85	1-acyl LPG is acylated to PG by LPGAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction86	PG is hydrolyzed to 2-acyl LPG by PLA2[14]	SmallMolecule86	SmallMolecule98	
+BiochemicalReaction86	PG is hydrolyzed to 2-acyl LPG by PLA2[14]	SmallMolecule11	SmallMolecule98	
+BiochemicalReaction86	PG is hydrolyzed to 2-acyl LPG by PLA2[14]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction86	PG is hydrolyzed to 2-acyl LPG by PLA2[14]	SmallMolecule86	SmallMolecule12	
+BiochemicalReaction87	2-acyl LPG is acylated to PG by LPGAT	SmallMolecule98	SmallMolecule86	
+BiochemicalReaction87	2-acyl LPG is acylated to PG by LPGAT	SmallMolecule6	SmallMolecule86	
+BiochemicalReaction87	2-acyl LPG is acylated to PG by LPGAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction87	2-acyl LPG is acylated to PG by LPGAT	SmallMolecule98	SmallMolecule7	
+BiochemicalReaction88	PG is hydrolyzed to 1-acyl LPG by PLA2G4B (IM)	SmallMolecule94	SmallMolecule99	
+BiochemicalReaction88	PG is hydrolyzed to 1-acyl LPG by PLA2G4B (IM)	SmallMolecule96	SmallMolecule99	
+BiochemicalReaction88	PG is hydrolyzed to 1-acyl LPG by PLA2G4B (IM)	SmallMolecule96	SmallMolecule100	
+BiochemicalReaction88	PG is hydrolyzed to 1-acyl LPG by PLA2G4B (IM)	SmallMolecule94	SmallMolecule100	
+BiochemicalReaction89	1-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule99	SmallMolecule102	
+BiochemicalReaction89	1-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction89	1-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule101	SmallMolecule96	
+BiochemicalReaction89	1-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule99	SmallMolecule96	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule11	SmallMolecule17	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule11	SmallMolecule15	
+BiochemicalReaction90	PG is hydrolysed to 2-acyl LPG by PLA2G4B (IM)	SmallMolecule94	SmallMolecule103	
+BiochemicalReaction90	PG is hydrolysed to 2-acyl LPG by PLA2G4B (IM)	SmallMolecule96	SmallMolecule103	
+BiochemicalReaction90	PG is hydrolysed to 2-acyl LPG by PLA2G4B (IM)	SmallMolecule96	SmallMolecule100	
+BiochemicalReaction90	PG is hydrolysed to 2-acyl LPG by PLA2G4B (IM)	SmallMolecule94	SmallMolecule100	
+BiochemicalReaction91	2-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction91	2-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule103	SmallMolecule102	
+BiochemicalReaction91	2-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule103	SmallMolecule96	
+BiochemicalReaction91	2-acyl LPG is acylated to PG by CRLS1 (IM)	SmallMolecule101	SmallMolecule96	
+BiochemicalReaction92	PG is hydrolyzed to 1-acyl LPG by PLA2[16]	SmallMolecule104	SmallMolecule22	
+BiochemicalReaction92	PG is hydrolyzed to 1-acyl LPG by PLA2[16]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction92	PG is hydrolyzed to 1-acyl LPG by PLA2[16]	SmallMolecule21	SmallMolecule105	
+BiochemicalReaction92	PG is hydrolyzed to 1-acyl LPG by PLA2[16]	SmallMolecule104	SmallMolecule105	
+BiochemicalReaction93	PG and CDP-DAG are converted to CL by CRLS1	SmallMolecule96	SmallMolecule92	
+BiochemicalReaction93	PG and CDP-DAG are converted to CL by CRLS1	SmallMolecule89	SmallMolecule92	
+BiochemicalReaction93	PG and CDP-DAG are converted to CL by CRLS1	SmallMolecule89	SmallMolecule106	
+BiochemicalReaction93	PG and CDP-DAG are converted to CL by CRLS1	SmallMolecule96	SmallMolecule106	
+BiochemicalReaction94	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule106	SmallMolecule107	
+BiochemicalReaction94	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule94	SmallMolecule107	
+BiochemicalReaction94	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule94	SmallMolecule100	
+BiochemicalReaction94	CL is hydrolyzed to MLCL by PLA2G6 (IM)	SmallMolecule106	SmallMolecule100	
+BiochemicalReaction95	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule108	SmallMolecule109	
+BiochemicalReaction95	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule107	SmallMolecule109	
+BiochemicalReaction95	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule107	SmallMolecule106	
+BiochemicalReaction95	MLCL and PC are converted to CL and 1-acyl LPC by TAZ (IM) (Reversible)	SmallMolecule108	SmallMolecule106	
+BiochemicalReaction96	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule109	SmallMolecule108	
+BiochemicalReaction96	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule106	SmallMolecule108	
+BiochemicalReaction96	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule106	SmallMolecule107	
+BiochemicalReaction96	CL and 1-acyl LPC are converted to MLCL and PC by TAZ (IM) (Reversible)	SmallMolecule109	SmallMolecule107	
+BiochemicalReaction97	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule107	SmallMolecule110	
+BiochemicalReaction97	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule47	SmallMolecule110	
+BiochemicalReaction97	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule47	SmallMolecule106	
+BiochemicalReaction97	MLCL and PE are converted to CL and 1-acyl LPE by TAZ (IM) (Reversible)	SmallMolecule107	SmallMolecule106	
+BiochemicalReaction98	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule110	SmallMolecule107	
+BiochemicalReaction98	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule106	SmallMolecule107	
+BiochemicalReaction98	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule106	SmallMolecule47	
+BiochemicalReaction98	CL and 1-acyl LPE are converted to MLCL and PE by TAZ (IM) (Reversible)	SmallMolecule110	SmallMolecule47	
+BiochemicalReaction99	MLCL is acylated to CL by HADH (IM)	SmallMolecule107	SmallMolecule106	
+BiochemicalReaction99	MLCL is acylated to CL by HADH (IM)	SmallMolecule101	SmallMolecule106	
+BiochemicalReaction99	MLCL is acylated to CL by HADH (IM)	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction99	MLCL is acylated to CL by HADH (IM)	SmallMolecule107	SmallMolecule102	

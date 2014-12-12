@@ -1,0 +1,19 @@
+BiochemicalReaction1	STING recruits TBK1 and STAT6	Protein1	Complex2	
+BiochemicalReaction1	STING recruits TBK1 and STAT6	Complex1	Complex2	
+BiochemicalReaction1	STING recruits TBK1 and STAT6	Protein3	Complex2	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	Complex2	SmallMolecule2	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	SmallMolecule1	Complex3	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	Complex2	Complex3	
+BiochemicalReaction3	TBK1 phosphorylates STAT6 at Ser407	Complex3	SmallMolecule2	
+BiochemicalReaction3	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule1	Protein5	
+BiochemicalReaction3	TBK1 phosphorylates STAT6 at Ser407	Complex3	Protein5	
+BiochemicalReaction3	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule1	Complex4	
+BiochemicalReaction3	TBK1 phosphorylates STAT6 at Ser407	Complex3	Complex4	
+BiochemicalReaction4	p-S407-STAT6 is phosphorylated at Tyr641	Protein5	SmallMolecule2	
+BiochemicalReaction4	p-S407-STAT6 is phosphorylated at Tyr641	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	p-S407-STAT6 is phosphorylated at Tyr641	SmallMolecule1	Protein6	
+BiochemicalReaction4	p-S407-STAT6 is phosphorylated at Tyr641	Protein5	Protein6	
+BiochemicalReaction5	p-S407,Y641-STAT6 is dimerized	Protein6	Complex5	
+BiochemicalReaction6	p-S407,Y641-STAT6 dimer migrates to the nucleus	Complex5	Complex6	

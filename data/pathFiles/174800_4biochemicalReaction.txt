@@ -1,0 +1,31 @@
+BiochemicalReaction1	ApoB-48 + 40 triacylglycerol + 60 phospholipid => ApoB-48:TG:PL complex	SmallMolecule1	Complex1	
+BiochemicalReaction1	ApoB-48 + 40 triacylglycerol + 60 phospholipid => ApoB-48:TG:PL complex	Protein1	Complex1	
+BiochemicalReaction1	ApoB-48 + 40 triacylglycerol + 60 phospholipid => ApoB-48:TG:PL complex	SmallMolecule2	Complex1	
+BiochemicalReaction10	chylomicron remnant:apoE:LDLR complex [coated vesicle membrane] => chylomicron remnant:apoE:LDLR complex [endosome membrane]	Complex20	Complex24	
+BiochemicalReaction11	chylomicron remnant:apoE:LDLR complex => chylomicron remnant:apoE + LDLR	Complex24	Protein31	
+BiochemicalReaction11	chylomicron remnant:apoE:LDLR complex => chylomicron remnant:apoE + LDLR	Complex24	Complex28	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	SmallMolecule3	Complex4	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	SmallMolecule5	Complex4	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Protein5	Complex4	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Protein6	Complex4	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	SmallMolecule6	Complex4	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Complex3	Complex4	
+BiochemicalReaction2	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Protein7	Complex4	
+BiochemicalReaction3	Exocytosis of nascent chylomicrons	Complex4	Complex5	
+BiochemicalReaction4	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex5	Complex9	
+BiochemicalReaction4	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex7	Complex9	
+BiochemicalReaction4	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex7	Complex8	
+BiochemicalReaction4	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex5	Complex8	
+BiochemicalReaction5	chylomicron => TG-depleted chylomicron + 50 long-chain fatty acids + 50 diacylglycerols	Complex9	SmallMolecule11	
+BiochemicalReaction5	chylomicron => TG-depleted chylomicron + 50 long-chain fatty acids + 50 diacylglycerols	Complex9	SmallMolecule12	
+BiochemicalReaction5	chylomicron => TG-depleted chylomicron + 50 long-chain fatty acids + 50 diacylglycerols	Complex9	Complex10	
+BiochemicalReaction6	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex8	Complex13	
+BiochemicalReaction6	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex10	Complex13	
+BiochemicalReaction6	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex10	Complex14	
+BiochemicalReaction6	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex8	Complex14	
+BiochemicalReaction7	chylomicron remnant + apoE => chylomicron remnant:apoE complex	Complex13	Complex15	
+BiochemicalReaction7	chylomicron remnant + apoE => chylomicron remnant:apoE complex	Protein15	Complex15	
+BiochemicalReaction8	chylomicron remnant:apoE complex + LDLR => chylomicron remnant:apoE:LDLR complex	Protein21	Complex16	
+BiochemicalReaction8	chylomicron remnant:apoE complex + LDLR => chylomicron remnant:apoE:LDLR complex	Complex15	Complex16	
+BiochemicalReaction9	chylomicron remnant:apoE:LDLR complex [plasma membrane] => chylomicron remnant:apoE:LDLR complex [clathrin-coated vesicle] (LDLRAP1-dependent)	Complex16	Complex20	
+Degradation1	Degradation of newly synthesized ApoB-48	Protein4	NA	

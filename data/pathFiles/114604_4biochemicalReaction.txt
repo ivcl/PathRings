@@ -1,0 +1,67 @@
+BiochemicalReaction1	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	Complex1	Complex5	
+BiochemicalReaction1	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	SmallMolecule1	Complex5	
+BiochemicalReaction1	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	Complex1	SmallMolecule2	
+BiochemicalReaction10	Syk/Lck phosphorylate LAT	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Syk/Lck phosphorylate LAT	Protein25	SmallMolecule2	
+BiochemicalReaction10	Syk/Lck phosphorylate LAT	Protein25	Protein26	
+BiochemicalReaction10	Syk/Lck phosphorylate LAT	SmallMolecule1	Protein26	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	Protein6	Protein30	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	SmallMolecule1	Protein30	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	Protein29	Protein30	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	Protein29	SmallMolecule2	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	Protein6	SmallMolecule2	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	Protein29	Protein6	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	SmallMolecule1	Protein6	
+BiochemicalReaction11	Syk activation leads to SLP-76 activation	Protein6	Protein6	
+BiochemicalReaction12	SLP-76 stimulates PLC gamma 2	Protein30	Protein30	
+BiochemicalReaction12	SLP-76 stimulates PLC gamma 2	Protein31	Protein30	
+BiochemicalReaction12	SLP-76 stimulates PLC gamma 2	Protein31	Protein32	
+BiochemicalReaction12	SLP-76 stimulates PLC gamma 2	Protein30	Protein32	
+BiochemicalReaction13	p-SLP-76 binds VAV	Protein30	Complex18	
+BiochemicalReaction13	p-SLP-76 binds VAV	Protein33	Complex18	
+BiochemicalReaction14	PLC gamma 2-mediated PIP2 hydrolysis	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction14	PLC gamma 2-mediated PIP2 hydrolysis	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction15	PIP3 stimulates Vav	Protein8	Complex19	
+BiochemicalReaction15	PIP3 stimulates Vav	SmallMolecule8	Complex19	
+BiochemicalReaction16	PIP2 inhibits Vav	SmallMolecule5	Complex20	
+BiochemicalReaction16	PIP2 inhibits Vav	Protein8	Complex20	
+BiochemicalReaction17	GPVI stimulates PI3K beta, gamma	Complex8	Complex21	
+BiochemicalReaction17	GPVI stimulates PI3K beta, gamma	Complex8	Complex22	
+BiochemicalReaction18	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction18	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction18	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction19	PIP3 recruits PDK1 and AKT to the membrane	Protein44	Complex25	
+BiochemicalReaction19	PIP3 recruits PDK1 and AKT to the membrane	Protein45	Complex25	
+BiochemicalReaction19	PIP3 recruits PDK1 and AKT to the membrane	SmallMolecule8	Complex25	
+BiochemicalReaction2	Binding of Syk tyrosine kinase	Complex5	Complex8	
+BiochemicalReaction2	Binding of Syk tyrosine kinase	Protein6	Complex8	
+BiochemicalReaction20	PDK1 binds PKC zeta	Complex25	Complex26	
+BiochemicalReaction20	PDK1 binds PKC zeta	Protein54	Complex26	
+BiochemicalReaction21	PDK1 activates PKC zeta	Complex26	Complex27	
+BiochemicalReaction21	PDK1 activates PKC zeta	SmallMolecule1	Complex27	
+BiochemicalReaction21	PDK1 activates PKC zeta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	PDK1 activates PKC zeta	Complex26	SmallMolecule2	
+BiochemicalReaction3	Syk autophosphorylates	Complex8	SmallMolecule2	
+BiochemicalReaction3	Syk autophosphorylates	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Syk autophosphorylates	SmallMolecule1	Complex9	
+BiochemicalReaction3	Syk autophosphorylates	Complex8	Complex9	
+BiochemicalReaction4	Syk is released	Complex9	Complex5	
+BiochemicalReaction4	Syk is released	Complex9	Protein7	
+BiochemicalReaction5	Syk binds Vav	Protein8	Complex10	
+BiochemicalReaction5	Syk binds Vav	Protein7	Complex10	
+BiochemicalReaction6	Syk phosphorylates Vav	Complex10	Complex11	
+BiochemicalReaction7	VAV1 is a GEF for Rho/Rac family kinases	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	VAV1 is a GEF for Rho/Rac family kinases	Complex12	SmallMolecule4	
+BiochemicalReaction7	VAV1 is a GEF for Rho/Rac family kinases	Complex12	Complex13	
+BiochemicalReaction7	VAV1 is a GEF for Rho/Rac family kinases	SmallMolecule3	Complex13	
+BiochemicalReaction8	VAV2 is a GEF for Rho/Rac family kinases	SmallMolecule3	Complex15	
+BiochemicalReaction8	VAV2 is a GEF for Rho/Rac family kinases	Complex14	Complex15	
+BiochemicalReaction8	VAV2 is a GEF for Rho/Rac family kinases	Complex14	SmallMolecule4	
+BiochemicalReaction8	VAV2 is a GEF for Rho/Rac family kinases	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	VAV3 is a GEF for Rho/Rac family kinases	SmallMolecule3	Complex17	
+BiochemicalReaction9	VAV3 is a GEF for Rho/Rac family kinases	Complex16	Complex17	
+BiochemicalReaction9	VAV3 is a GEF for Rho/Rac family kinases	Complex16	SmallMolecule4	
+BiochemicalReaction9	VAV3 is a GEF for Rho/Rac family kinases	SmallMolecule3	SmallMolecule4	

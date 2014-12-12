@@ -1,0 +1,23 @@
+BiochemicalReaction1	ERBB3 binds RNF41 ubiquitin ligase	Protein1	Complex1	
+BiochemicalReaction1	ERBB3 binds RNF41 ubiquitin ligase	Protein2	Complex1	
+BiochemicalReaction2	RNF41 ubiquitinates ERBB3	Protein3	Complex2	
+BiochemicalReaction2	RNF41 ubiquitinates ERBB3	Complex1	Complex2	
+BiochemicalReaction2	RNF41 ubiquitinates ERBB3	Complex1	Protein2	
+BiochemicalReaction2	RNF41 ubiquitinates ERBB3	Protein3	Protein2	
+BiochemicalReaction3	Self-ubiquitination of RNF41	Protein3	Complex3	
+BiochemicalReaction3	Self-ubiquitination of RNF41	Protein2	Complex3	
+BiochemicalReaction4	Phosphorylation of USP8 by P-AKT	Protein18	Protein19	
+BiochemicalReaction4	Phosphorylation of USP8 by P-AKT	SmallMolecule1	Protein19	
+BiochemicalReaction4	Phosphorylation of USP8 by P-AKT	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of USP8 by P-AKT	Protein18	SmallMolecule2	
+BiochemicalReaction5	Ubiquitinated RNF41 binds P-USP8	Protein19	Complex4	
+BiochemicalReaction5	Ubiquitinated RNF41 binds P-USP8	Complex3	Complex4	
+BiochemicalReaction6	Deubiquitination of RNF41 by P-USP8	Complex4	Protein3	
+BiochemicalReaction6	Deubiquitination of RNF41 by P-USP8	Complex4	Protein19	
+BiochemicalReaction6	Deubiquitination of RNF41 by P-USP8	Complex4	Protein2	
+BiochemicalReaction7	RNF41 binds neuregulin-activated ERBB3	Complex5	Complex9	
+BiochemicalReaction7	RNF41 binds neuregulin-activated ERBB3	Protein2	Complex9	
+BiochemicalReaction8	RNF41 ubiquitinates activated ERBB3	Protein3	Complex10	
+BiochemicalReaction8	RNF41 ubiquitinates activated ERBB3	Complex9	Complex10	
+BiochemicalReaction8	RNF41 ubiquitinates activated ERBB3	Complex9	Protein2	
+BiochemicalReaction8	RNF41 ubiquitinates activated ERBB3	Protein3	Protein2	

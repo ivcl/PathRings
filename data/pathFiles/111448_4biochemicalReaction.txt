@@ -1,0 +1,7 @@
+BiochemicalReaction1	TP53 binds PMAIP1 (NOXA) promoter	Dna1	Complex2	
+BiochemicalReaction1	TP53 binds PMAIP1 (NOXA) promoter	Complex1	Complex2	
+BiochemicalReaction2	Transactivation of PMAIP1 (NOXA) by p53	Dna1	Protein2	
+BiochemicalReaction3	E2F1 binds PMAIP1 (NOXA) promoter	Dna1	Complex4	
+BiochemicalReaction3	E2F1 binds PMAIP1 (NOXA) promoter	Complex3	Complex4	
+BiochemicalReaction4	Transactivation of PMAIP1 (NOXA) by E2F1	Dna1	Protein2	
+BiochemicalReaction5	Translocation of PMAIP1 (NOXA) to mitochondria	Protein2	Protein5	

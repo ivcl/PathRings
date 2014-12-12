@@ -1,0 +1,244 @@
+BiochemicalReaction1	Activated FGFR binds FRS2alpha	PhysicalEntity1	Complex19	
+BiochemicalReaction1	Activated FGFR binds FRS2alpha	Protein36	Complex19	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex31	Complex32	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex30	Complex32	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex30	Protein49	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex31	Protein49	
+BiochemicalReaction11	Stabilisation of RAS:RAF by 14-3-3	Complex32	Complex33	
+BiochemicalReaction11	Stabilisation of RAS:RAF by 14-3-3	Protein49	Complex33	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	SmallMolecule2	Complex34	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	Complex33	Complex34	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	Complex33	SmallMolecule3	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction13	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein50	Complex36	
+BiochemicalReaction13	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex35	Complex36	
+BiochemicalReaction14	Activated RAF1 complex binds MEK	Protein52	Complex37	
+BiochemicalReaction14	Activated RAF1 complex binds MEK	Complex34	Complex37	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	SmallMolecule2	Protein55	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	Complex38	Protein55	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	Complex38	Complex34	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	SmallMolecule2	Complex34	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	Complex38	SmallMolecule3	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	Complex39	Complex34	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	SmallMolecule2	Complex34	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	Complex39	SmallMolecule3	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	SmallMolecule2	Protein56	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	Complex39	Protein56	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	Protein57	SmallMolecule3	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	SmallMolecule2	Protein58	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	Protein57	Protein58	
+BiochemicalReaction18	MEK1 binds ERK-1	Protein55	Complex40	
+BiochemicalReaction18	MEK1 binds ERK-1	Protein62	Complex40	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	Complex40	Complex41	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	SmallMolecule2	Complex41	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	Complex40	SmallMolecule3	
+BiochemicalReaction2	Activated FGFR binds FRS2beta	Protein37	Complex20	
+BiochemicalReaction2	Activated FGFR binds FRS2beta	PhysicalEntity1	Complex20	
+BiochemicalReaction20	Dissociation of phospho-ERK-1:MEK1	Complex41	Protein55	
+BiochemicalReaction20	Dissociation of phospho-ERK-1:MEK1	Complex41	Protein63	
+BiochemicalReaction21	Dimerisation of phospho-ERK-1	Protein63	Complex42	
+BiochemicalReaction22	Nuclear translocation of phospho-ERK-1 dimer	Complex42	Complex43	
+BiochemicalReaction23	MEK2 binds ERK-2	Protein56	Complex52	
+BiochemicalReaction23	MEK2 binds ERK-2	Protein73	Complex52	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	Complex52	SmallMolecule3	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	SmallMolecule2	Complex53	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	Complex52	Complex53	
+BiochemicalReaction25	Dissociation of phospho-ERK-2:MEK2	Complex53	Protein56	
+BiochemicalReaction25	Dissociation of phospho-ERK-2:MEK2	Complex53	Protein74	
+BiochemicalReaction26	Dimerisation of phospho-ERK-2	Protein74	Complex54	
+BiochemicalReaction27	Nuclear translocation of phospho-ERK-2 dimer	Complex54	Complex55	
+BiochemicalReaction28	Activated FGFR binds PLC-gamma	PhysicalEntity1	Complex56	
+BiochemicalReaction28	Activated FGFR binds PLC-gamma	Protein76	Complex56	
+BiochemicalReaction28	Activated FGFR binds PLC-gamma	SmallMolecule6	Complex56	
+BiochemicalReaction29	PLC-gamma phosphorylation by FGFR	Complex56	SmallMolecule3	
+BiochemicalReaction29	PLC-gamma phosphorylation by FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction29	PLC-gamma phosphorylation by FGFR	SmallMolecule2	Complex57	
+BiochemicalReaction29	PLC-gamma phosphorylation by FGFR	Complex56	Complex57	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	Complex19	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	Complex19	Complex21	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	SmallMolecule2	Complex21	
+BiochemicalReaction30	Activated PLC gamma release by activated FGFR	Complex57	PhysicalEntity1	
+BiochemicalReaction30	Activated PLC gamma release by activated FGFR	Complex57	Protein77	
+BiochemicalReaction31	Active PLCG1 hydrolyses PIP2	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction31	Active PLCG1 hydrolyses PIP2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction31	Active PLCG1 hydrolyses PIP2	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction31	Active PLCG1 hydrolyses PIP2	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction32	DAG stimulates protein kinase C-delta	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction32	DAG stimulates protein kinase C-delta	Protein78	SmallMolecule3	
+BiochemicalReaction32	DAG stimulates protein kinase C-delta	Protein78	Protein81	
+BiochemicalReaction32	DAG stimulates protein kinase C-delta	SmallMolecule2	Protein81	
+BiochemicalReaction33	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule9	Complex59	
+BiochemicalReaction33	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex58	Complex59	
+BiochemicalReaction34	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction35	Calcium binds calmodulin	SmallMolecule12	Complex60	
+BiochemicalReaction35	Calcium binds calmodulin	Protein88	Complex60	
+BiochemicalReaction36	Adenylate cyclase produces cAMP	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction36	Adenylate cyclase produces cAMP	SmallMolecule2	SmallMolecule14	
+BiochemicalReaction37	cAMP induces dissociation of inactive PKA tetramers	Complex63	Protein104	
+BiochemicalReaction37	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule13	Protein104	
+BiochemicalReaction37	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule13	Complex64	
+BiochemicalReaction37	cAMP induces dissociation of inactive PKA tetramers	Complex63	Complex64	
+BiochemicalReaction38	PKA catalytic subunit translocates to the nucleus	Protein104	Protein108	
+BiochemicalReaction39	PKA phosphorylates CREB	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction39	PKA phosphorylates CREB	Protein112	SmallMolecule17	
+BiochemicalReaction39	PKA phosphorylates CREB	Protein112	Protein113	
+BiochemicalReaction39	PKA phosphorylates CREB	SmallMolecule16	Protein113	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	Complex20	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	SmallMolecule2	Complex23	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	Complex20	Complex23	
+BiochemicalReaction40	Dimerisation of CREB	Protein113	Complex65	
+BiochemicalReaction41	Calmodulin binds CaMK IV	Complex60	Complex66	
+BiochemicalReaction41	Calmodulin binds CaMK IV	Protein114	Complex66	
+BiochemicalReaction42	CamKIV enters the nucleus	Complex66	Complex67	
+BiochemicalReaction43	CaMK IV autophosphorylation	Complex67	Complex69	
+BiochemicalReaction43	CaMK IV autophosphorylation	SmallMolecule16	Complex69	
+BiochemicalReaction43	CaMK IV autophosphorylation	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction43	CaMK IV autophosphorylation	Complex67	SmallMolecule17	
+BiochemicalReaction44	CaMK IV phosphorylates CREB	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction44	CaMK IV phosphorylates CREB	Protein112	SmallMolecule17	
+BiochemicalReaction44	CaMK IV phosphorylates CREB	Protein112	Protein113	
+BiochemicalReaction44	CaMK IV phosphorylates CREB	SmallMolecule16	Protein113	
+BiochemicalReaction45	Calmodulin activates Cam-PDE 1	Complex71	Complex75	
+BiochemicalReaction46	cAMP hydrolysis by Cam-PDE 1	SmallMolecule13	SmallMolecule19	
+BiochemicalReaction46	cAMP hydrolysis by Cam-PDE 1	SmallMolecule8	SmallMolecule19	
+BiochemicalReaction47	Inhibition of GRK2 by calmodulin	Protein121	Complex76	
+BiochemicalReaction47	Inhibition of GRK2 by calmodulin	Protein88	Complex76	
+BiochemicalReaction48	PKC phosphorylates GRK2	Protein121	SmallMolecule3	
+BiochemicalReaction48	PKC phosphorylates GRK2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction48	PKC phosphorylates GRK2	SmallMolecule2	Protein122	
+BiochemicalReaction48	PKC phosphorylates GRK2	Protein121	Protein122	
+BiochemicalReaction49	Activated FGFR recruits SHC1	PhysicalEntity1	Complex78	
+BiochemicalReaction49	Activated FGFR recruits SHC1	Protein126	Complex78	
+BiochemicalReaction5	Activated FGFR and FRS2 bind to SHP2	Complex24	Complex25	
+BiochemicalReaction5	Activated FGFR and FRS2 bind to SHP2	Protein41	Complex25	
+BiochemicalReaction50	SHC1 is phosphorylated	Complex78	SmallMolecule3	
+BiochemicalReaction50	SHC1 is phosphorylated	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction50	SHC1 is phosphorylated	SmallMolecule2	Complex79	
+BiochemicalReaction50	SHC1 is phosphorylated	Complex78	Complex79	
+BiochemicalReaction51	GRB2:SOS1 is recruited to activated FGFR through p-SHC1	Complex79	Complex80	
+BiochemicalReaction51	GRB2:SOS1 is recruited to activated FGFR through p-SHC1	Complex27	Complex80	
+BiochemicalReaction52	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	SmallMolecule4	Complex30	
+BiochemicalReaction52	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	Complex29	Complex30	
+BiochemicalReaction52	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	Complex29	SmallMolecule5	
+BiochemicalReaction52	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction53	Binding of PIK3 regulatory alpha subunit to GRB2:GAB1	Protein132	Complex82	
+BiochemicalReaction53	Binding of PIK3 regulatory alpha subunit to GRB2:GAB1	Complex81	Complex82	
+BiochemicalReaction54	GRB2:GAB1:PI3Kreg binds directly to p-FRS2:activated FGFR	Complex82	Complex83	
+BiochemicalReaction54	GRB2:GAB1:PI3Kreg binds directly to p-FRS2:activated FGFR	Complex21	Complex83	
+BiochemicalReaction55	GRB2:GAB1:PI3Kreg binds to p-SHP2 on p-FRS2:activated FGFR 	Complex84	Complex85	
+BiochemicalReaction55	GRB2:GAB1:PI3Kreg binds to p-SHP2 on p-FRS2:activated FGFR 	Complex82	Complex85	
+BiochemicalReaction56	PI3K catalytic subunit is recruited by FGFR-associated PI3KR1	Complex83	Complex86	
+BiochemicalReaction56	PI3K catalytic subunit is recruited by FGFR-associated PI3KR1	Protein134	Complex86	
+BiochemicalReaction57	PI3K catalytic subunit binds to GRB2:GAB1:PI3Kreg (indirect)	Complex85	Complex87	
+BiochemicalReaction57	PI3K catalytic subunit binds to GRB2:GAB1:PI3Kreg (indirect)	Protein134	Complex87	
+BiochemicalReaction58	FGFR-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction58	FGFR-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction58	FGFR-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction58	FGFR-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction59	FGFR associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction59	FGFR associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction59	FGFR associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction59	FGFR associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	Complex25	SmallMolecule3	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	Complex25	Complex26	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	SmallMolecule2	Complex26	
+BiochemicalReaction60	PI3K phosphorylates PIP2 to PIP3	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction60	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction60	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction60	PI3K phosphorylates PIP2 to PIP3	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction61	PIP3 recruits AKT to the membrane	Protein187	Complex140	
+BiochemicalReaction61	PIP3 recruits AKT to the membrane	SmallMolecule6	Complex140	
+BiochemicalReaction62	PIP3 recruits PDPK1 to the membrane	Protein195	Complex141	
+BiochemicalReaction62	PIP3 recruits PDPK1 to the membrane	SmallMolecule6	Complex141	
+BiochemicalReaction63	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction63	TORC2 (mTOR) phosphorylates AKT at S473	Complex140	SmallMolecule3	
+BiochemicalReaction63	TORC2 (mTOR) phosphorylates AKT at S473	Complex140	Complex142	
+BiochemicalReaction63	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule2	Complex142	
+BiochemicalReaction64	AKT binds PDPK1	Complex141	Complex145	
+BiochemicalReaction64	AKT binds PDPK1	Complex142	Complex145	
+BiochemicalReaction65	PDPK1 phosphorylates AKT at T308	Complex145	Complex141	
+BiochemicalReaction65	PDPK1 phosphorylates AKT at T308	SmallMolecule2	Complex141	
+BiochemicalReaction65	PDPK1 phosphorylates AKT at T308	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction65	PDPK1 phosphorylates AKT at T308	Complex145	SmallMolecule3	
+BiochemicalReaction65	PDPK1 phosphorylates AKT at T308	SmallMolecule2	Protein208	
+BiochemicalReaction65	PDPK1 phosphorylates AKT at T308	Complex145	Protein208	
+BiochemicalReaction66	AKT phosphorylates BAD	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction66	AKT phosphorylates BAD	Protein212	SmallMolecule3	
+BiochemicalReaction66	AKT phosphorylates BAD	Protein212	Protein213	
+BiochemicalReaction66	AKT phosphorylates BAD	SmallMolecule2	Protein213	
+BiochemicalReaction67	AKT phosphorylates GSK3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction67	AKT phosphorylates GSK3	Protein214	SmallMolecule3	
+BiochemicalReaction67	AKT phosphorylates GSK3	Protein214	Protein217	
+BiochemicalReaction67	AKT phosphorylates GSK3	SmallMolecule2	Protein217	
+BiochemicalReaction68	AKT phosphorylates caspase-9	Protein220	SmallMolecule3	
+BiochemicalReaction68	AKT phosphorylates caspase-9	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction68	AKT phosphorylates caspase-9	SmallMolecule2	Protein221	
+BiochemicalReaction68	AKT phosphorylates caspase-9	Protein220	Protein221	
+BiochemicalReaction69	AKT phosphorylates MDM2	SmallMolecule2	Protein223	
+BiochemicalReaction69	AKT phosphorylates MDM2	Protein222	Protein223	
+BiochemicalReaction69	AKT phosphorylates MDM2	Protein222	SmallMolecule3	
+BiochemicalReaction69	AKT phosphorylates MDM2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction7	GRB2:SOS1 binds to p-FRS2:activated FGFR	Complex24	Complex28	
+BiochemicalReaction7	GRB2:SOS1 binds to p-FRS2:activated FGFR	Complex27	Complex28	
+BiochemicalReaction70	AKT phosphorylates IKKalpha	Protein224	SmallMolecule3	
+BiochemicalReaction70	AKT phosphorylates IKKalpha	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction70	AKT phosphorylates IKKalpha	SmallMolecule2	Protein225	
+BiochemicalReaction70	AKT phosphorylates IKKalpha	Protein224	Protein225	
+BiochemicalReaction71	AKT phosphorylates p21Cip1 and p27Kip1	Protein226	Protein229	
+BiochemicalReaction71	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule2	Protein229	
+BiochemicalReaction71	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction71	AKT phosphorylates p21Cip1 and p27Kip1	Protein226	SmallMolecule3	
+BiochemicalReaction72	AKT phosphorylates TSC2, inhibiting it	Protein232	SmallMolecule3	
+BiochemicalReaction72	AKT phosphorylates TSC2, inhibiting it	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction72	AKT phosphorylates TSC2, inhibiting it	SmallMolecule2	Protein233	
+BiochemicalReaction72	AKT phosphorylates TSC2, inhibiting it	Protein232	Protein233	
+BiochemicalReaction73	AKT phosphorylates AKT1S1 (PRAS40)	Protein234	Protein235	
+BiochemicalReaction73	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule2	Protein235	
+BiochemicalReaction73	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction73	AKT phosphorylates AKT1S1 (PRAS40)	Protein234	SmallMolecule3	
+BiochemicalReaction74	AKT translocates to the nucleus	Protein208	Protein236	
+BiochemicalReaction75	AKT phosphorylates CREB1	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction75	AKT phosphorylates CREB1	Protein112	SmallMolecule17	
+BiochemicalReaction75	AKT phosphorylates CREB1	Protein112	Protein113	
+BiochemicalReaction75	AKT phosphorylates CREB1	SmallMolecule16	Protein113	
+BiochemicalReaction76	AKT can phosphorylate forkhead box transcription factors	Protein240	SmallMolecule17	
+BiochemicalReaction76	AKT can phosphorylate forkhead box transcription factors	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction76	AKT can phosphorylate forkhead box transcription factors	SmallMolecule16	Protein245	
+BiochemicalReaction76	AKT can phosphorylate forkhead box transcription factors	Protein240	Protein245	
+BiochemicalReaction77	AKT can phosphorylate RSK	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction77	AKT can phosphorylate RSK	Protein250	SmallMolecule17	
+BiochemicalReaction77	AKT can phosphorylate RSK	Protein250	Protein251	
+BiochemicalReaction77	AKT can phosphorylate RSK	SmallMolecule16	Protein251	
+BiochemicalReaction78	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule16	Protein253	
+BiochemicalReaction78	AKT can phosphorylate NR4A1 (NUR77)	Protein252	Protein253	
+BiochemicalReaction78	AKT can phosphorylate NR4A1 (NUR77)	Protein252	SmallMolecule17	
+BiochemicalReaction78	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction79	PTEN dephosphorylates PIP3	SmallMolecule8	SmallMolecule20	
+BiochemicalReaction79	PTEN dephosphorylates PIP3	SmallMolecule6	SmallMolecule20	
+BiochemicalReaction79	PTEN dephosphorylates PIP3	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction79	PTEN dephosphorylates PIP3	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	SmallMolecule4	Complex30	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	Complex29	Complex30	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	Complex29	SmallMolecule5	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction80	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Protein205	Complex144	
+BiochemicalReaction80	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Complex140	Complex144	
+BiochemicalReaction81	PHLPP dephosphorylates S473 in AKT	Protein208	SmallMolecule20	
+BiochemicalReaction81	PHLPP dephosphorylates S473 in AKT	SmallMolecule8	SmallMolecule20	
+BiochemicalReaction81	PHLPP dephosphorylates S473 in AKT	SmallMolecule8	Protein255	
+BiochemicalReaction81	PHLPP dephosphorylates S473 in AKT	Protein208	Protein255	
+BiochemicalReaction82	PDPK1 binds PIP2	SmallMolecule7	Complex148	
+BiochemicalReaction82	PDPK1 binds PIP2	Protein195	Complex148	
+BiochemicalReaction83	MIR26A microRNAs bind PTEN mRNA	Complex149	Complex154	
+BiochemicalReaction83	MIR26A microRNAs bind PTEN mRNA	Rna4	Complex154	
+BiochemicalReaction84	PTEN mRNA translation negatively regulated by microRNAs	Rna4	Complex146	
+BiochemicalReaction9	p-RAF binds 14-3-3 beta/alpha	Protein49	Complex31	
+BiochemicalReaction9	p-RAF binds 14-3-3 beta/alpha	Protein50	Complex31	

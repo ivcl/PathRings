@@ -1,0 +1,27 @@
+BiochemicalReaction1	Plexin-A1-4 binds NRP1	Protein1	Complex2	
+BiochemicalReaction1	Plexin-A1-4 binds NRP1	Protein2	Complex2	
+BiochemicalReaction1	Plexin-A1-4 binds NRP1	Complex1	Complex2	
+BiochemicalReaction2	Sema3A binds Nrp-1 bound to PlexinA	Complex4	Protein2	
+BiochemicalReaction2	Sema3A binds Nrp-1 bound to PlexinA	Complex2	Protein2	
+BiochemicalReaction2	Sema3A binds Nrp-1 bound to PlexinA	Complex2	Complex5	
+BiochemicalReaction2	Sema3A binds Nrp-1 bound to PlexinA	Complex4	Complex5	
+BiochemicalReaction3	Phosphorylation of Plexin-A	Protein10	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Plexin-A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Plexin-A	Complex5	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Plexin-A	Complex5	Complex7	
+BiochemicalReaction3	Phosphorylation of Plexin-A	SmallMolecule1	Complex7	
+BiochemicalReaction3	Phosphorylation of Plexin-A	Protein10	Complex7	
+BiochemicalReaction4	Activation of Rac1 by FARP2	SmallMolecule3	Complex11	
+BiochemicalReaction4	Activation of Rac1 by FARP2	Complex10	Complex11	
+BiochemicalReaction4	Activation of Rac1 by FARP2	Complex10	SmallMolecule4	
+BiochemicalReaction4	Activation of Rac1 by FARP2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Rac1 binds PlexinA	Complex7	Complex12	
+BiochemicalReaction5	Rac1 binds PlexinA	Complex11	Complex12	
+BiochemicalReaction6	Recruitment of Rnd1 to Plexin A	Complex13	Complex14	
+BiochemicalReaction6	Recruitment of Rnd1 to Plexin A	Complex12	Complex14	
+BiochemicalReaction7	Inactivation of R-Ras by Sema3A-Plexin-A GAP activity	Complex15	SmallMolecule6	
+BiochemicalReaction7	Inactivation of R-Ras by Sema3A-Plexin-A GAP activity	Complex15	Complex16	
+BiochemicalReaction8	Inhibition of integrin activation by sequestering PIP5KIgamma	Complex17	Complex18	
+BiochemicalReaction8	Inhibition of integrin activation by sequestering PIP5KIgamma	Protein2	Complex18	
+BiochemicalReaction8	Inhibition of integrin activation by sequestering PIP5KIgamma	Protein2	Protein19	
+BiochemicalReaction8	Inhibition of integrin activation by sequestering PIP5KIgamma	Complex17	Protein19	

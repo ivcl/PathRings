@@ -1,0 +1,238 @@
+Complex1	FASL:FAS Receptor monomer	plasma membrane	Reactome DB_ID: 76564	Protein1	
+Complex1	FASL:FAS Receptor monomer	plasma membrane	Reactome DB_ID: 76564	Protein2	
+Complex10	TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 74277	Protein10	
+Complex10	TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 74277	Complex6	
+Complex100	perinuclear PAK-2p34:RHG10 complex	cytosol	Reactome DB_ID: 211729	Protein295	
+Complex100	perinuclear PAK-2p34:RHG10 complex	cytosol	Reactome DB_ID: 211729	Protein229	
+Complex101	Active Caspase-3 heterotetramer	cytosol	Reactome DB_ID: 350870	Complex102	
+Complex102	Caspase-3 heterodimer	cytosol	Reactome DB_ID: 350888	Protein83	
+Complex102	Caspase-3 heterodimer	cytosol	Reactome DB_ID: 350888	Protein84	
+Complex103	DCC:DIP13alpha	plasma membrane	Reactome DB_ID: 373668	Protein299	
+Complex103	DCC:DIP13alpha	plasma membrane	Reactome DB_ID: 373668	Protein298	
+Complex104	DCC:DIP13alpha:Caspase-9	plasma membrane	Reactome DB_ID: 373664	Complex103	
+Complex104	DCC:DIP13alpha:Caspase-9	plasma membrane	Reactome DB_ID: 373664	Complex67	
+Complex105	Unc5B with death domain:DAPK	cytosol	Reactome DB_ID: 418842	Protein301	
+Complex105	Unc5B with death domain:DAPK	cytosol	Reactome DB_ID: 418842	Protein303	
+Complex106	UNC5A:NRAGE	cytosol	Reactome DB_ID: 374596	Protein310	
+Complex106	UNC5A:NRAGE	cytosol	Reactome DB_ID: 374596	Protein308	
+Complex12	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Protein11	
+Complex12	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Protein12	
+Complex12	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Protein13	
+Complex12	TNF-alpha:TNF-R1:TRADD:RIPK1:TRAF2	plasma membrane	Reactome DB_ID: 140946	Complex11	
+Complex13	TRAF2:TRADD:RIPK1	cytosol	Reactome DB_ID: 140935	Protein11	
+Complex13	TRAF2:TRADD:RIPK1	cytosol	Reactome DB_ID: 140935	Protein12	
+Complex13	TRAF2:TRADD:RIPK1	cytosol	Reactome DB_ID: 140935	Protein13	
+Complex14	TRADD:TRAF2:RIP1:FADD	cytosol	Reactome DB_ID: 140977	Complex13	
+Complex14	TRADD:TRAF2:RIP1:FADD	cytosol	Reactome DB_ID: 140977	Protein3	
+Complex15	TRADD:TRAF2:RIP1:FADD:procaspase-8 	cytosol	Reactome DB_ID: 140976	Complex14	
+Complex15	TRADD:TRAF2:RIP1:FADD:procaspase-8 	cytosol	Reactome DB_ID: 140976	Protein4	
+Complex16	TRAIL receptor-2:TRAIL complex	plasma membrane	Reactome DB_ID: 141118	Protein14	
+Complex16	TRAIL receptor-2:TRAIL complex	plasma membrane	Reactome DB_ID: 141118	Protein15	
+Complex17	TRAIL receptor-2:TRAIL Trimer	plasma membrane	Reactome DB_ID: 141126	Complex16	
+Complex18	TRAIL:TRAIL receptor-2:FADD	plasma membrane	Reactome DB_ID: 141137	Complex17	
+Complex18	TRAIL:TRAIL receptor-2:FADD	plasma membrane	Reactome DB_ID: 141137	Protein3	
+Complex19	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8	plasma membrane	Reactome DB_ID: 141133	Protein4	
+Complex19	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8	plasma membrane	Reactome DB_ID: 141133	Complex18	
+Complex2	FASL:FAS Receptor Trimer	plasma membrane	Reactome DB_ID: 76195	Complex1	
+Complex20	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex	plasma membrane	Reactome DB_ID: 141304	Protein6	
+Complex20	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex	plasma membrane	Reactome DB_ID: 141304	Complex18	
+Complex21	FASL:FAS receptor trimer:FADD:procaspase-8-dimer 	plasma membrane	Reactome DB_ID: 2671811	Complex22	
+Complex21	FASL:FAS receptor trimer:FADD:procaspase-8-dimer 	plasma membrane	Reactome DB_ID: 2671811	Complex3	
+Complex22	procaspase-8 dimer	cytosol	Reactome DB_ID: 2671817	Protein4	
+Complex23	TRAIL:TRAIL receptor-2:FADD:procaspase-8-dimer	plasma membrane	Reactome DB_ID: 2671816	Complex22	
+Complex23	TRAIL:TRAIL receptor-2:FADD:procaspase-8-dimer	plasma membrane	Reactome DB_ID: 2671816	Complex18	
+Complex24	TRAF2:TRADD:RIP1:FADD:procaspase-8-dimer	cytosol	Reactome DB_ID: 2671812	Complex14	
+Complex24	TRAF2:TRADD:RIP1:FADD:procaspase-8-dimer	cytosol	Reactome DB_ID: 2671812	Complex22	
+Complex27	active caspase-8 	cytosol	Reactome DB_ID: 2562550	Complex28	
+Complex28	Caspase-8 dimer	cytosol	Reactome DB_ID: 139950	Protein18	
+Complex28	Caspase-8 dimer	cytosol	Reactome DB_ID: 139950	Protein19	
+Complex29	TRADD:TRAF2:RIP1:FADD:procaspase-8:FLIP(L)	cytosol	Reactome DB_ID: 3465532	Complex14	
+Complex29	TRADD:TRAF2:RIP1:FADD:procaspase-8:FLIP(L)	cytosol	Reactome DB_ID: 3465532	Protein23	
+Complex29	TRADD:TRAF2:RIP1:FADD:procaspase-8:FLIP(L)	cytosol	Reactome DB_ID: 3465532	Protein4	
+Complex3	FASL:FAS Receptor Trimer:FADD	plasma membrane	Reactome DB_ID: 43124	Complex2	
+Complex3	FASL:FAS Receptor Trimer:FADD	plasma membrane	Reactome DB_ID: 43124	Protein3	
+Complex30	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8:FLIP-L	plasma membrane	Reactome DB_ID: 3371390	Protein23	
+Complex30	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8:FLIP-L	plasma membrane	Reactome DB_ID: 3371390	Protein4	
+Complex30	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8:FLIP-L	plasma membrane	Reactome DB_ID: 3371390	Complex18	
+Complex31	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8:FLIP(L)	plasma membrane	Reactome DB_ID: 3465499	Complex3	
+Complex31	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8:FLIP(L)	plasma membrane	Reactome DB_ID: 3465499	Protein23	
+Complex31	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8:FLIP(L)	plasma membrane	Reactome DB_ID: 3465499	Protein4	
+Complex32	DISC:procaspase-8:FLIP(L)	plasma membrane	Reactome DB_ID: 3371381	Complex33	
+Complex32	DISC:procaspase-8:FLIP(L)	plasma membrane	Reactome DB_ID: 3371381	Protein23	
+Complex33	DISC:procaspase-8	plasma membrane	Reactome DB_ID: 3465443	Complex26	
+Complex33	DISC:procaspase-8	plasma membrane	Reactome DB_ID: 3465443	Protein4	
+Complex34	DISC:p43/p41CASP8:p43 FLIP(L)	plasma membrane	Reactome DB_ID: 3465431	Protein25	
+Complex34	DISC:p43/p41CASP8:p43 FLIP(L)	plasma membrane	Reactome DB_ID: 3465431	Protein26	
+Complex34	DISC:p43/p41CASP8:p43 FLIP(L)	plasma membrane	Reactome DB_ID: 3465431	Complex26	
+Complex35	DISC:procaspase-8:FLIP(S)	plasma membrane	Reactome DB_ID: 3465352	Complex33	
+Complex35	DISC:procaspase-8:FLIP(S)	plasma membrane	Reactome DB_ID: 3465352	Protein17	
+Complex37	14-3-3 eta dimer	cytosol	Reactome DB_ID: 2262715	Protein39	
+Complex38	14-3-3 gamma dimer	cytosol	Reactome DB_ID: 2262713	Protein40	
+Complex39	14-3-3 sigma dimer	cytosol	Reactome DB_ID: 2262716	Protein41	
+Complex4	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	plasma membrane	Reactome DB_ID: 75114	Complex3	
+Complex4	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	plasma membrane	Reactome DB_ID: 75114	Protein4	
+Complex40	14-3-3 theta dimer	cytosol	Reactome DB_ID: 2262714	Protein42	
+Complex41	14-3-3zeta dimer	cytosol	Reactome DB_ID: 206751	Protein43	
+Complex42	YWHAB dimer	cytosol	Reactome DB_ID: 2028645	Protein44	
+Complex43	YWHAE dimer	cytosol	Reactome DB_ID: 194364	Protein45	
+Complex44	14-3-3 proteins:p-S99-BAD complex	cytosol	Reactome DB_ID: 139904	Complex36	
+Complex44	14-3-3 proteins:p-S99-BAD complex	cytosol	Reactome DB_ID: 139904	Protein34	
+Complex45	Calcineurin B complex	cytosol	Reactome DB_ID: 140202	Protein46	
+Complex45	Calcineurin B complex	cytosol	Reactome DB_ID: 140202	Protein47	
+Complex46	tBID:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114339	Protein49	
+Complex46	tBID:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114339	Protein32	
+Complex47	BAD:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114268	Protein48	
+Complex47	BAD:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114268	Protein49	
+Complex48	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein50	
+Complex49	p-S15-TP53 Tetramer:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331332	Dna1	
+Complex49	p-S15-TP53 Tetramer:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331332	Complex48	
+Complex5	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10	plasma membrane	Reactome DB_ID: 141315	Protein6	
+Complex5	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10	plasma membrane	Reactome DB_ID: 141315	Complex3	
+Complex50	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein52	
+Complex50	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein53	
+Complex51	E2F1:TFDP1:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331338	Dna1	
+Complex51	E2F1:TFDP1:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331338	Complex50	
+Complex52	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Dna2	
+Complex52	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Complex48	
+Complex53	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Dna2	
+Complex53	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Complex50	
+Complex54	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	Protein57	
+Complex54	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	PhysicalEntity1	
+Complex54	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	Protein58	
+Complex55	DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140526	PhysicalEntity1	
+Complex55	DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140526	Protein58	
+Complex56	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	Protein62	
+Complex56	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	Protein63	
+Complex56	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	PhysicalEntity1	
+Complex57	Dynein (DLC2) on microtubules	plasma membrane	Reactome DB_ID: 140530	Protein63	
+Complex57	Dynein (DLC2) on microtubules	plasma membrane	Reactome DB_ID: 140530	PhysicalEntity1	
+Complex58	Bcl2:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508158	Protein66	
+Complex58	Bcl2:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508158	Protein49	
+Complex59	Bcl-XL:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508159	Protein67	
+Complex59	Bcl-XL:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508159	Protein68	
+Complex6	TNF-alpha trimer	plasma membrane	Reactome DB_ID: 3371351	Protein7	
+Complex60	tBID bound to inactive BAX	cytosol	Reactome DB_ID: 168850	Protein28	
+Complex60	tBID bound to inactive BAX	cytosol	Reactome DB_ID: 168850	Protein69	
+Complex61	Activated BAX	mitochondrial outer membrane	Reactome DB_ID: 114269	Protein71	
+Complex62	tBID bound to inactive BAK	mitochondrial outer membrane	Reactome DB_ID: 168847	Protein72	
+Complex62	tBID bound to inactive BAK	mitochondrial outer membrane	Reactome DB_ID: 168847	Protein32	
+Complex63	Active oligomeric BAK	mitochondrial outer membrane	Reactome DB_ID: 114262	Protein73	
+Complex64	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein78	
+Complex64	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein75	
+Complex65	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Protein79	
+Complex65	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Complex64	
+Complex65	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	SmallMolecule2	
+Complex66	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex64	
+Complex66	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex67	
+Complex67	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein80	
+Complex67	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein81	
+Complex68	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein83	
+Complex68	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein84	
+Complex69	active caspase-7	cytosol	Reactome DB_ID: 141643	Protein86	
+Complex69	active caspase-7	cytosol	Reactome DB_ID: 141643	Protein87	
+Complex7	TNF-alpha trimer	extracellular region	Reactome DB_ID: 3371370	Protein8	
+Complex70	XIAP:Caspase-3	cytosol	Reactome DB_ID: 114304	Protein88	
+Complex70	XIAP:Caspase-3	cytosol	Reactome DB_ID: 114304	Complex68	
+Complex71	SMAC:XIAP:Caspase-3	cytosol	Reactome DB_ID: 114305	Complex70	
+Complex71	SMAC:XIAP:Caspase-3	cytosol	Reactome DB_ID: 114305	Protein77	
+Complex72	XIAP:Caspase-7	cytosol	Reactome DB_ID: 114308	Protein88	
+Complex72	XIAP:Caspase-7	cytosol	Reactome DB_ID: 114308	Complex69	
+Complex73	SMAC:XIAP:Caspase-7	cytosol	Reactome DB_ID: 114353	Complex72	
+Complex73	SMAC:XIAP:Caspase-7	cytosol	Reactome DB_ID: 114353	Protein77	
+Complex74	XIAP:Caspase-9	cytosol	Reactome DB_ID: 114317	Protein88	
+Complex74	XIAP:Caspase-9	cytosol	Reactome DB_ID: 114317	Complex67	
+Complex75	SMAC:XIAP:Caspase-9	cytosol	Reactome DB_ID: 114318	Protein77	
+Complex75	SMAC:XIAP:Caspase-9	cytosol	Reactome DB_ID: 114318	Complex74	
+Complex76	SMAC:XIAP	cytosol	Reactome DB_ID: 114391	Protein88	
+Complex76	SMAC:XIAP	cytosol	Reactome DB_ID: 114391	Protein77	
+Complex78	active caspase-6	cytosol	Reactome DB_ID: 350324	Protein108	
+Complex78	active caspase-6	cytosol	Reactome DB_ID: 350324	Protein109	
+Complex79	active caspase 3	plasma membrane	Reactome DB_ID: 202920	Protein122	
+Complex79	active caspase 3	plasma membrane	Reactome DB_ID: 202920	Protein123	
+Complex8	ADAM17	plasma membrane	Reactome DB_ID: 1251963	Protein9	
+Complex8	ADAM17	plasma membrane	Reactome DB_ID: 1251963	SmallMolecule1	
+Complex80	active caspase-6	nucleoplasm	Reactome DB_ID: 352255	Protein150	
+Complex80	active caspase-6	nucleoplasm	Reactome DB_ID: 352255	Protein151	
+Complex81	active caspase-8 	mitochondrial outer membrane	Reactome DB_ID: 2671818	Complex82	
+Complex82	Caspase-8 dimer	mitochondrial outer membrane	Reactome DB_ID: 351836	Protein183	
+Complex82	Caspase-8 dimer	mitochondrial outer membrane	Reactome DB_ID: 351836	Protein184	
+Complex83	active caspase-7	nucleoplasm	Reactome DB_ID: 351937	Protein197	
+Complex83	active caspase-7	nucleoplasm	Reactome DB_ID: 351937	Protein198	
+Complex84	DFFA:DFFB	cytosol	Reactome DB_ID: 211192	Protein202	
+Complex84	DFFA:DFFB	cytosol	Reactome DB_ID: 211192	Protein203	
+Complex85	importin-alpha:importin-beta	cytosol	Reactome DB_ID: 350277	Protein204	
+Complex85	importin-alpha:importin-beta	cytosol	Reactome DB_ID: 350277	Protein205	
+Complex86	DFF:associated with the importin-alpha:importin-beta complex	cytosol	Reactome DB_ID: 350304	Complex84	
+Complex86	DFF:associated with the importin-alpha:importin-beta complex	cytosol	Reactome DB_ID: 350304	Complex85	
+Complex87	DFF:associated with the importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350287	Complex88	
+Complex87	DFF:associated with the importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350287	Complex89	
+Complex88	DFF45:DFF40 complex	nucleoplasm	Reactome DB_ID: 211225	Protein206	
+Complex88	DFF45:DFF40 complex	nucleoplasm	Reactome DB_ID: 211225	Protein207	
+Complex89	importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350267	Protein208	
+Complex89	importin-alpha:importin-beta complex	nucleoplasm	Reactome DB_ID: 350267	Protein209	
+Complex9	soluble TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 3371397	Protein10	
+Complex9	soluble TNF-alpha:TNF-R1	plasma membrane	Reactome DB_ID: 3371397	Complex7	
+Complex90	active caspase-3	nucleoplasm	Reactome DB_ID: 211223	Protein210	
+Complex90	active caspase-3	nucleoplasm	Reactome DB_ID: 211223	Protein211	
+Complex91	Caspase cleaved DFF45 (117)	nucleoplasm	Reactome DB_ID: 211208	Protein212	
+Complex91	Caspase cleaved DFF45 (117)	nucleoplasm	Reactome DB_ID: 211208	Protein206	
+Complex91	Caspase cleaved DFF45 (117)	nucleoplasm	Reactome DB_ID: 211208	Protein213	
+Complex92	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein214	
+Complex92	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein206	
+Complex92	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein213	
+Complex92	caspase-3-cleaved DFF45 (117,224):DFF40 complex	nucleoplasm	Reactome DB_ID: 211196	Protein215	
+Complex93	DFF40 homodimer	nucleoplasm	Reactome DB_ID: 350273	Protein206	
+Complex94	Histone H1 bound chromatin DNA	nucleoplasm	Reactome DB_ID: 211238	Protein216	
+Complex94	Histone H1 bound chromatin DNA	nucleoplasm	Reactome DB_ID: 211238	PhysicalEntity10	
+Complex95	DFF40 associated with chromatin	nucleoplasm	Reactome DB_ID: 211253	PhysicalEntity8	
+Complex95	DFF40 associated with chromatin	nucleoplasm	Reactome DB_ID: 211253	Complex94	
+Complex96	HMGB1/HMGB2- bound chromatin	nucleoplasm	Reactome DB_ID: 266207	Protein223	
+Complex96	HMGB1/HMGB2- bound chromatin	nucleoplasm	Reactome DB_ID: 266207	PhysicalEntity10	
+Complex97	DFF cleaved DNA	nucleoplasm	Reactome DB_ID: 211254	PhysicalEntity11	
+Complex97	DFF cleaved DNA	nucleoplasm	Reactome DB_ID: 211254	Protein216	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein251	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein252	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein253	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein254	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein255	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein256	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein257	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein258	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein259	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein260	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein261	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein262	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein263	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein264	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein265	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein266	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein267	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein268	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein269	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein270	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein271	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein272	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein273	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein274	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein275	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein276	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein277	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein278	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein279	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein280	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein281	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein282	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein283	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein284	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein285	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein286	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein287	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein288	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein289	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein290	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein291	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein292	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein293	
+Complex98	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein294	
+Complex99	PAK-2p34:RHG10 complex	cytosol	Reactome DB_ID: 211701	Protein295	
+Complex99	PAK-2p34:RHG10 complex	cytosol	Reactome DB_ID: 211701	Protein229	

@@ -1,0 +1,16 @@
+BiochemicalReaction1	Newly synthesized vRNP for export	Complex1	Complex3	
+BiochemicalReaction1	Newly synthesized vRNP for export	Protein2	Complex3	
+BiochemicalReaction1	Newly synthesized vRNP for export	Protein3	Complex3	
+BiochemicalReaction1	Newly synthesized vRNP for export	Protein4	Complex3	
+BiochemicalReaction2	Binding of M1 to vRNP	Protein5	Complex4	
+BiochemicalReaction2	Binding of M1 to vRNP	Complex3	Complex4	
+BiochemicalReaction3	Binding of NEP/NS2 to vRNP:M1	Complex4	Complex5	
+BiochemicalReaction3	Binding of NEP/NS2 to vRNP:M1	Protein7	Complex5	
+BiochemicalReaction4	Binding of vRNP:M1:NEP complex to CRM1 export receptor	Protein8	Complex6	
+BiochemicalReaction4	Binding of vRNP:M1:NEP complex to CRM1 export receptor	Complex5	Complex6	
+BiochemicalReaction5	vRNP Export through the nuclear pore	Complex6	SmallMolecule2	
+BiochemicalReaction5	vRNP Export through the nuclear pore	Complex7	SmallMolecule2	
+BiochemicalReaction5	vRNP Export through the nuclear pore	Complex7	Complex8	
+BiochemicalReaction5	vRNP Export through the nuclear pore	Complex6	Complex8	
+BiochemicalReaction5	vRNP Export through the nuclear pore	Complex7	Complex9	
+BiochemicalReaction5	vRNP Export through the nuclear pore	Complex6	Complex9	

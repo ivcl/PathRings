@@ -1,0 +1,17 @@
+BiochemicalReaction1	Association of multimerized Rev with beta-importin	Protein1	Complex1	
+BiochemicalReaction1	Association of multimerized Rev with beta-importin	PhysicalEntity1	Complex1	
+BiochemicalReaction2	Rev associates with B23	Protein2	Complex2	
+BiochemicalReaction2	Rev associates with B23	Complex1	Complex2	
+BiochemicalReaction3	Rev:importin beta:B23 recruited to the nuclear pore	Complex3	Complex6	
+BiochemicalReaction3	Rev:importin beta:B23 recruited to the nuclear pore	Complex2	Complex6	
+BiochemicalReaction4	Translocation of Rev:importin-beta:B23 to the nucleus	Complex6	Complex3	
+BiochemicalReaction4	Translocation of Rev:importin-beta:B23 to the nucleus	Complex6	Complex7	
+BiochemicalReaction5	Conversion of Ran-GDP to Ran-GTP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Conversion of Ran-GDP to Ran-GTP	Complex9	SmallMolecule2	
+BiochemicalReaction5	Conversion of Ran-GDP to Ran-GTP	Complex9	Complex10	
+BiochemicalReaction5	Conversion of Ran-GDP to Ran-GTP	SmallMolecule1	Complex10	
+BiochemicalReaction6	Association of Ran-GTP with importin-beta	Complex10	Complex11	
+BiochemicalReaction6	Association of Ran-GTP with importin-beta	Complex7	Complex11	
+BiochemicalReaction7	Disassembly of the Rev-importin beta-B23:Ran-GTP complex	Complex11	PhysicalEntity2	
+BiochemicalReaction7	Disassembly of the Rev-importin beta-B23:Ran-GTP complex	Complex11	Complex12	
+BiochemicalReaction7	Disassembly of the Rev-importin beta-B23:Ran-GTP complex	Complex11	Protein34	

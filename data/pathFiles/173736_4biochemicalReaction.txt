@@ -1,0 +1,20 @@
+BiochemicalReaction1	Spontaneous hydrolysis of C3 thioester	SmallMolecule1	Complex2	
+BiochemicalReaction1	Spontaneous hydrolysis of C3 thioester	Complex1	Complex2	
+BiochemicalReaction2	Factor B binds to C3(H2O)	Complex2	Complex3	
+BiochemicalReaction2	Factor B binds to C3(H2O)	Protein4	Complex3	
+BiochemicalReaction3	Factor D cleaves C3(H2O)-bound Factor B	Complex3	Protein5	
+BiochemicalReaction3	Factor D cleaves C3(H2O)-bound Factor B	Complex3	Complex4	
+BiochemicalReaction4	C3(H2O):Factor Bb cleaves C3 to C3b and C3a	Complex1	Complex5	
+BiochemicalReaction4	C3(H2O):Factor Bb cleaves C3 to C3b and C3a	Complex1	Protein11	
+BiochemicalReaction5	C3b binds to cell surface	Complex5	Complex6	
+BiochemicalReaction5	C3b binds to cell surface	PhysicalEntity1	Complex6	
+BiochemicalReaction6	Factor B binds to surface-associated C3b	Complex6	Complex7	
+BiochemicalReaction6	Factor B binds to surface-associated C3b	Protein4	Complex7	
+BiochemicalReaction7	Factor D cleaves C3b-bound Factor B	Complex7	Protein5	
+BiochemicalReaction7	Factor D cleaves C3b-bound Factor B	Complex7	Complex8	
+BiochemicalReaction8	Properdin stabilizes C3b:Bb bound to cell surfaces	Complex8	Complex9	
+BiochemicalReaction8	Properdin stabilizes C3b:Bb bound to cell surfaces	PhysicalEntity2	Complex9	
+BiochemicalReaction9	Formation of alternative pathway C5 convertase	Complex1	Protein11	
+BiochemicalReaction9	Formation of alternative pathway C5 convertase	Complex9	Protein11	
+BiochemicalReaction9	Formation of alternative pathway C5 convertase	Complex9	Complex10	
+BiochemicalReaction9	Formation of alternative pathway C5 convertase	Complex1	Complex10	

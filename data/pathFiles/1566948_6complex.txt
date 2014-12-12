@@ -1,0 +1,52 @@
+Complex10	Lysyl oxidases:Cu2+	extracellular region	Reactome DB_ID: 2022132	Protein24	
+Complex10	Lysyl oxidases:Cu2+	extracellular region	Reactome DB_ID: 2022132	SmallMolecule1	
+Complex11	FBLN1, FBLN2:Fibronectin matrix	extracellular region	Reactome DB_ID: 2537655	PhysicalEntity6	
+Complex11	FBLN1, FBLN2:Fibronectin matrix	extracellular region	Reactome DB_ID: 2537655	Protein30	
+Complex12	Elastic fibre:Fibulins	extracellular region	Reactome DB_ID: 2395337	Protein33	
+Complex12	Elastic fibre:Fibulins	extracellular region	Reactome DB_ID: 2395337	Complex9	
+Complex13	Elastic fibre:Fibulins:Emilins	extracellular region	Reactome DB_ID: 2396077	PhysicalEntity7	
+Complex13	Elastic fibre:Fibulins:Emilins	extracellular region	Reactome DB_ID: 2396077	Complex12	
+Complex15	TGF-beta-1:LAP1	extracellular region	Reactome DB_ID: 2395236	Protein36	
+Complex15	TGF-beta-1:LAP1	extracellular region	Reactome DB_ID: 2395236	Protein37	
+Complex16	TGF-beta-2:LAP2	extracellular region	Reactome DB_ID: 2395253	Protein38	
+Complex16	TGF-beta-2:LAP2	extracellular region	Reactome DB_ID: 2395253	Protein39	
+Complex17	TGF-beta-3:LAP3	extracellular region	Reactome DB_ID: 2395241	Protein40	
+Complex17	TGF-beta-3:LAP3	extracellular region	Reactome DB_ID: 2395241	Protein41	
+Complex18	LTBP1, LTBP3:TGF betas:LAPs	extracellular region	Reactome DB_ID: 2395250	Complex14	
+Complex18	LTBP1, LTBP3:TGF betas:LAPs	extracellular region	Reactome DB_ID: 2395250	Protein42	
+Complex19	LTBP4:TGF-beta-1:LAP1	extracellular region	Reactome DB_ID: 2395326	Protein45	
+Complex19	LTBP4:TGF-beta-1:LAP1	extracellular region	Reactome DB_ID: 2395326	Complex15	
+Complex2	Integrin alphaVbeta3	plasma membrane	Reactome DB_ID: 210216	Protein14	
+Complex2	Integrin alphaVbeta3	plasma membrane	Reactome DB_ID: 210216	Protein15	
+Complex21	Integrin alphaVbeta1	plasma membrane	Reactome DB_ID: 216015	Protein18	
+Complex21	Integrin alphaVbeta1	plasma membrane	Reactome DB_ID: 216015	Protein15	
+Complex22	Integrin alphaVbeta5	plasma membrane	Reactome DB_ID: 1299497	Protein46	
+Complex22	Integrin alphaVbeta5	plasma membrane	Reactome DB_ID: 1299497	Protein15	
+Complex23	Integrin alphaVbeta8	plasma membrane	Reactome DB_ID: 216307	Protein47	
+Complex23	Integrin alphaVbeta8	plasma membrane	Reactome DB_ID: 216307	Protein15	
+Complex24	Integrin alpha8beta1	plasma membrane	Reactome DB_ID: 216012	Protein48	
+Complex24	Integrin alpha8beta1	plasma membrane	Reactome DB_ID: 216012	Protein18	
+Complex25	TGF-beta-1:LAP1:LAP1-binding integrins	plasma membrane	Reactome DB_ID: 2396201	Complex20	
+Complex25	TGF-beta-1:LAP1:LAP1-binding integrins	plasma membrane	Reactome DB_ID: 2396201	Complex15	
+Complex27	TGF-beta-3:LAP3:LAP3-binding integrins	plasma membrane	Reactome DB_ID: 2396121	Complex17	
+Complex27	TGF-beta-3:LAP3:LAP3-binding integrins	plasma membrane	Reactome DB_ID: 2396121	Complex26	
+Complex28	Fibrillins:BMP2,4,7,10,GF5	extracellular region	Reactome DB_ID: 2396217	PhysicalEntity2	
+Complex28	Fibrillins:BMP2,4,7,10,GF5	extracellular region	Reactome DB_ID: 2396217	Protein49	
+Complex29	LTBPs:Fibrillin-1	extracellular region	Reactome DB_ID: 2396177	Protein55	
+Complex29	LTBPs:Fibrillin-1	extracellular region	Reactome DB_ID: 2396177	PhysicalEntity1	
+Complex3	Integrin alphaVbeta6	plasma membrane	Reactome DB_ID: 216024	Protein15	
+Complex3	Integrin alphaVbeta6	plasma membrane	Reactome DB_ID: 216024	Protein16	
+Complex30	Elastic fibre with associated proteins	extracellular region	Reactome DB_ID: 2161325	Protein57	
+Complex30	Elastic fibre with associated proteins	extracellular region	Reactome DB_ID: 2161325	Complex13	
+Complex4	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein17	
+Complex4	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein18	
+Complex5	Fibrilin-1:Fibrilin-binding integrins	plasma membrane	Reactome DB_ID: 2396200	Complex1	
+Complex5	Fibrilin-1:Fibrilin-binding integrins	plasma membrane	Reactome DB_ID: 2396200	PhysicalEntity1	
+Complex6	Fibrilins:MFAP2,MFAP5	extracellular region	Reactome DB_ID: 2396329	Protein19	
+Complex6	Fibrilins:MFAP2,MFAP5	extracellular region	Reactome DB_ID: 2396329	PhysicalEntity2	
+Complex7	Tropoelastin aggregate	extracellular region	Reactome DB_ID: 2161342	Protein22	
+Complex8	Fibrillins:MFAP2,MFAP5:Tropoelastin aggregate	extracellular region	Reactome DB_ID: 2161254	Complex6	
+Complex8	Fibrillins:MFAP2,MFAP5:Tropoelastin aggregate	extracellular region	Reactome DB_ID: 2161254	Complex7	
+Complex8	Fibrillins:MFAP2,MFAP5:Tropoelastin aggregate	extracellular region	Reactome DB_ID: 2161254	Protein23	
+Complex9	Elastic fibre	extracellular region	Reactome DB_ID: 2161360	Complex6	
+Complex9	Elastic fibre	extracellular region	Reactome DB_ID: 2161360	PhysicalEntity5	

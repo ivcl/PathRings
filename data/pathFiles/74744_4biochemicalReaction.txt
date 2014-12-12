@@ -1,0 +1,8 @@
+BiochemicalReaction1	Binding of SHC to insulin receptor	Complex1	Complex4	
+BiochemicalReaction1	Binding of SHC to insulin receptor	Protein5	Complex4	
+BiochemicalReaction2	Phosphorylation of SHC	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of SHC	Complex4	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of SHC	Complex4	Complex5	
+BiochemicalReaction2	Phosphorylation of SHC	SmallMolecule1	Complex5	
+BiochemicalReaction3	Dissociation of SHC-P from insulin receptor	Complex5	Protein6	
+BiochemicalReaction3	Dissociation of SHC-P from insulin receptor	Complex5	Complex1	

@@ -1,0 +1,56 @@
+BiochemicalReaction1	NOTCH1 PEST domain mutants bind DLL1 	Complex1	Complex6	
+BiochemicalReaction1	NOTCH1 PEST domain mutants bind DLL1 	Protein6	Complex6	
+BiochemicalReaction10	NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML	Protein78	Complex21	
+BiochemicalReaction10	NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML	Protein79	Complex21	
+BiochemicalReaction10	NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML	Complex19	Complex21	
+BiochemicalReaction10	NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML	Protein84	Complex21	
+BiochemicalReaction10	NICD1 PEST domain mutants in complex with RBPJ (CSL) bind MAML	Protein85	Complex21	
+BiochemicalReaction11	NOTCH1 PEST domain mutants bind HES1 promoter	Dna1	Complex22	
+BiochemicalReaction11	NOTCH1 PEST domain mutants bind HES1 promoter	Complex21	Complex22	
+BiochemicalReaction12	NOTCH1 PEST domain mutants stimulate HES1 transcription	Dna1	Protein88	
+BiochemicalReaction13	NOTCH1 PEST domain mutants bind HES5 promoter	Complex21	Complex23	
+BiochemicalReaction13	NOTCH1 PEST domain mutants bind HES5 promoter	Dna2	Complex23	
+BiochemicalReaction14	NOTCH1 PEST domain mutants stimulate HES5 transcription	Dna2	Protein89	
+BiochemicalReaction15	NOTCH1 PEST domain mutants bind promoters of HEY genes	Complex21	Complex24	
+BiochemicalReaction15	NOTCH1 PEST domain mutants bind promoters of HEY genes	Dna3	Complex24	
+BiochemicalReaction16	NOTCH1 PEST domain mutants stimulate HEY transcription	Dna3	Protein90	
+BiochemicalReaction17	NOTCH1 PEST domain mutants bind MYC promoter	Complex21	Complex25	
+BiochemicalReaction17	NOTCH1 PEST domain mutants bind MYC promoter	Dna7	Complex25	
+BiochemicalReaction18	NOTCH1 PEST domain mutants stimulate MYC transcription	Dna7	Protein94	
+BiochemicalReaction19	NOTCH1 PEST domain mutants coactivator complex binds CDK8:CCNC	Complex21	Complex27	
+BiochemicalReaction19	NOTCH1 PEST domain mutants coactivator complex binds CDK8:CCNC	Complex26	Complex27	
+BiochemicalReaction2	NOTCH1 PEST domain mutants bind DLL4	Complex1	Complex7	
+BiochemicalReaction2	NOTCH1 PEST domain mutants bind DLL4	Protein7	Complex7	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Protein78	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Protein78	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Protein79	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Protein79	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	SmallMolecule3	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Protein97	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Protein97	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Protein84	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Protein84	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Complex28	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Complex28	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Protein85	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Protein85	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	SmallMolecule2	Complex26	
+BiochemicalReaction20	CDK8 phosphorylates NICD1 PEST domain mutants 	Complex27	Complex26	
+BiochemicalReaction21	p-NICD1 PEST domain mutants do not bind FBXW7	Protein97	NA	
+BiochemicalReaction21	p-NICD1 PEST domain mutants do not bind FBXW7	Complex29	NA	
+BiochemicalReaction3	NOTCH1 PEST domain mutants bind JAG1	Complex1	Complex8	
+BiochemicalReaction3	NOTCH1 PEST domain mutants bind JAG1	Protein8	Complex8	
+BiochemicalReaction4	NOTCH1 PEST domain mutants bind JAG2	Complex1	Complex9	
+BiochemicalReaction4	NOTCH1 PEST domain mutants bind JAG2	Protein9	Complex9	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 PEST domain mutants	Protein10	Complex11	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 PEST domain mutants	Complex10	Complex11	
+BiochemicalReaction6	ADAM10/17 cleaves ligand-bound NOTCH1 PEST domain mutants to produce NEXT1 PEST domain mutants	Complex11	Complex12	
+BiochemicalReaction6	ADAM10/17 cleaves ligand-bound NOTCH1 PEST domain mutants to produce NEXT1 PEST domain mutants	Complex11	Protein32	
+BiochemicalReaction7	NEXT1 PEST domain mutants are cleaved to produce NICD1 PEST domain mutants	Protein32	Protein40	
+BiochemicalReaction7	NEXT1 PEST domain mutants are cleaved to produce NICD1 PEST domain mutants	Protein32	Protein45	
+BiochemicalReaction8	NICD1 PEST domain mutants translocate from cytosol to nucleus	Protein40	Protein52	
+BiochemicalReaction9	NICD1 PEST domain mutants displace co-repressor complex from RBPJ (CSL)	Protein52	Complex19	
+BiochemicalReaction9	NICD1 PEST domain mutants displace co-repressor complex from RBPJ (CSL)	Complex18	Complex19	
+BiochemicalReaction9	NICD1 PEST domain mutants displace co-repressor complex from RBPJ (CSL)	Complex18	Complex20	
+BiochemicalReaction9	NICD1 PEST domain mutants displace co-repressor complex from RBPJ (CSL)	Protein52	Complex20	

@@ -1,0 +1,22 @@
+BiochemicalReaction1	TP receptor can bind thromboxane	SmallMolecule1	Complex1	
+BiochemicalReaction1	TP receptor can bind thromboxane	Protein1	Complex1	
+BiochemicalReaction2	Activated TP receptor binds G-proten Gq	Complex2	Complex5	
+BiochemicalReaction2	Activated TP receptor binds G-proten Gq	Complex1	Complex5	
+BiochemicalReaction3	Activated TP receptor binds G-protein  G13	Complex1	Complex8	
+BiochemicalReaction3	Activated TP receptor binds G-protein  G13	Complex6	Complex8	
+BiochemicalReaction4	Gq activation by TP receptor	SmallMolecule3	Complex9	
+BiochemicalReaction4	Gq activation by TP receptor	Complex5	Complex9	
+BiochemicalReaction4	Gq activation by TP receptor	Complex5	SmallMolecule5	
+BiochemicalReaction4	Gq activation by TP receptor	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction5	G13 activation by TP receptor	SmallMolecule3	Complex12	
+BiochemicalReaction5	G13 activation by TP receptor	Complex8	Complex12	
+BiochemicalReaction5	G13 activation by TP receptor	Complex8	SmallMolecule5	
+BiochemicalReaction5	G13 activation by TP receptor	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction6	Dissociation of the TP:Gq complex	Complex9	SmallMolecule1	
+BiochemicalReaction6	Dissociation of the TP:Gq complex	Complex9	Protein1	
+BiochemicalReaction6	Dissociation of the TP:Gq complex	Complex9	Complex11	
+BiochemicalReaction6	Dissociation of the TP:Gq complex	Complex9	Complex4	
+BiochemicalReaction7	Dissociation of the TP:G13 complex	Complex12	SmallMolecule1	
+BiochemicalReaction7	Dissociation of the TP:G13 complex	Complex12	Protein1	
+BiochemicalReaction7	Dissociation of the TP:G13 complex	Complex12	Complex14	
+BiochemicalReaction7	Dissociation of the TP:G13 complex	Complex12	Complex4	

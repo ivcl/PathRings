@@ -1,0 +1,37 @@
+BiochemicalReaction1	DLL1 binds NOTCH2	Protein1	Complex4	
+BiochemicalReaction1	DLL1 binds NOTCH2	Complex1	Complex4	
+BiochemicalReaction10	Gamma-secretase cleaves CNTN1:NOTCH2 to release NICD2	Complex14	Protein33	
+BiochemicalReaction11	NOTCH2 binds MDK	Complex2	Complex16	
+BiochemicalReaction11	NOTCH2 binds MDK	Complex15	Complex16	
+BiochemicalReaction12	NICD2 binds RBPJ and MAML in the nucleus	Protein43	Complex17	
+BiochemicalReaction12	NICD2 binds RBPJ and MAML in the nucleus	Protein40	Complex17	
+BiochemicalReaction12	NICD2 binds RBPJ and MAML in the nucleus	Protein48	Complex17	
+BiochemicalReaction13	NOTCH2 coactivator complex binds HES1 promoter	Dna1	Complex18	
+BiochemicalReaction13	NOTCH2 coactivator complex binds HES1 promoter	Complex17	Complex18	
+BiochemicalReaction14	NOTCH2 stimulates HES1 transcription	Dna1	Protein49	
+BiochemicalReaction15	NOTCH2 coactivator complex binds HES5 promoter	Complex17	Complex19	
+BiochemicalReaction15	NOTCH2 coactivator complex binds HES5 promoter	Dna2	Complex19	
+BiochemicalReaction16	NOTCH2 stimulates transcription of HES5	Dna2	Protein50	
+BiochemicalReaction17	NOTCH2 coactivator complex binds FCER2 promoter	Complex17	Complex20	
+BiochemicalReaction17	NOTCH2 coactivator complex binds FCER2 promoter	Dna3	Complex20	
+BiochemicalReaction18	NOTCH2 stimulates transcription of FCER2 (CD23A)	Dna3	Protein51	
+BiochemicalReaction19	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Protein52	Complex21	
+BiochemicalReaction19	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Complex17	Complex21	
+BiochemicalReaction19	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Protein53	Complex21	
+BiochemicalReaction19	NOTCH2 coactivator complex and phosphorylated CREB1 bind GZMB promoter	Dna4	Complex21	
+BiochemicalReaction2	JAG1 binds NOTCH2	Protein5	Complex5	
+BiochemicalReaction2	JAG1 binds NOTCH2	Complex1	Complex5	
+BiochemicalReaction20	NOTCH2 stimulates GZMB transcription	Dna4	Protein54	
+BiochemicalReaction3	JAG2 binds NOTCH2	Complex2	Complex6	
+BiochemicalReaction3	JAG2 binds NOTCH2	Protein6	Complex6	
+BiochemicalReaction4	DLL4 binds NOTCH2	Complex2	Complex7	
+BiochemicalReaction4	DLL4 binds NOTCH2	Protein7	Complex7	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH2	Protein8	Complex9	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH2	Complex8	Complex9	
+BiochemicalReaction6	NOTCH2-ligand complex is cleaved to produce NEXT2	Complex9	Protein28	
+BiochemicalReaction6	NOTCH2-ligand complex is cleaved to produce NEXT2	Complex9	Complex10	
+BiochemicalReaction7	NEXT2 is cleaved to produce NICD2	Protein28	Protein32	
+BiochemicalReaction7	NEXT2 is cleaved to produce NICD2	Protein28	Protein33	
+BiochemicalReaction8	NICD2 traffics to the nucleus	Protein33	Protein40	
+BiochemicalReaction9	NOTCH2 binds CNTN1	Protein41	Complex14	
+BiochemicalReaction9	NOTCH2 binds CNTN1	Complex2	Complex14	

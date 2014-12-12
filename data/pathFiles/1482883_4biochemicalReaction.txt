@@ -1,0 +1,22 @@
+BiochemicalReaction1	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	TAG is hydrolyzed to DAG by PNPLA2/3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	DAG is acylated to TAG by DGAT1/2	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	DAG is acylated to TAG by DGAT1/2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	DAG is acylated to TAG by DGAT1/2	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction2	DAG is acylated to TAG by DGAT1/2	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction3	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction3	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction3	DAG is hydrolyzed to 2-MAG by PNPLA2/3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	2-MAG is transacylated to DAG by PNPLA2/3	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	2-MAG is transacylated to DAG by PNPLA2/3	SmallMolecule7	SmallMolecule4	
+BiochemicalReaction5	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction5	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction5	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction5	2-MAG and DAG are transacylated to TAG by PNPLA2/3	SmallMolecule7	SmallMolecule1	
+BiochemicalReaction6	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction6	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction6	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction6	2-MAG is hydrolyzed to fatty acid and glycerol by MGLL	SmallMolecule7	SmallMolecule9	

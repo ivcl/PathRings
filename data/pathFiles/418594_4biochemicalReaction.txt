@@ -1,0 +1,23 @@
+BiochemicalReaction1	Liganded Gi-activating GPCRs bind inactive heterotrimeric G-protein Gi	Complex1	Complex70	
+BiochemicalReaction1	Liganded Gi-activating GPCRs bind inactive heterotrimeric G-protein Gi	Complex67	Complex70	
+BiochemicalReaction2	Liganded Gi-activating GPCR acts as a GEF for Gi	SmallMolecule83	Complex71	
+BiochemicalReaction2	Liganded Gi-activating GPCR acts as a GEF for Gi	Complex70	Complex71	
+BiochemicalReaction2	Liganded Gi-activating GPCR acts as a GEF for Gi	Complex70	SmallMolecule85	
+BiochemicalReaction2	Liganded Gi-activating GPCR acts as a GEF for Gi	SmallMolecule83	SmallMolecule85	
+BiochemicalReaction3	The Ligand:GPCR:Gi complex dissociates	Complex71	PhysicalEntity4	
+BiochemicalReaction3	The Ligand:GPCR:Gi complex dissociates	Complex71	PhysicalEntity5	
+BiochemicalReaction3	The Ligand:GPCR:Gi complex dissociates	Complex71	Complex73	
+BiochemicalReaction3	The Ligand:GPCR:Gi complex dissociates	Complex71	Complex69	
+BiochemicalReaction4	G alpha (i) inhibits adenylate cyclase	Complex74	Complex75	
+BiochemicalReaction4	G alpha (i) inhibits adenylate cyclase	Complex73	Complex75	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule87	SmallMolecule88	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule87	SmallMolecule89	
+BiochemicalReaction6	Opsins that act as GEFs for G alpha-t	SmallMolecule83	Complex82	
+BiochemicalReaction6	Opsins that act as GEFs for G alpha-t	Complex80	Complex82	
+BiochemicalReaction6	Opsins that act as GEFs for G alpha-t	Complex80	SmallMolecule85	
+BiochemicalReaction6	Opsins that act as GEFs for G alpha-t	SmallMolecule83	SmallMolecule85	
+BiochemicalReaction6	Opsins that act as GEFs for G alpha-t	Complex80	Complex69	
+BiochemicalReaction6	Opsins that act as GEFs for G alpha-t	SmallMolecule83	Complex69	
+BiochemicalReaction7	G alpha (i) auto-inactivates by hydrolysing GTP to GDP	Complex73	Complex68	
+BiochemicalReaction8	Inactive G alpha (i) reassociates with G beta:gamma	Complex68	Complex67	
+BiochemicalReaction8	Inactive G alpha (i) reassociates with G beta:gamma	Complex69	Complex67	

@@ -1,0 +1,155 @@
+Complex1	Antigen-antibody complex	plasma membrane	Reactome DB_ID: 173552	Complex2	
+Complex1	Antigen-antibody complex	plasma membrane	Reactome DB_ID: 173552	PhysicalEntity1	
+Complex10	IgG-Ag:FCGRIIA	plasma membrane	Reactome DB_ID: 1861689	Complex1	
+Complex10	IgG-Ag:FCGRIIA	plasma membrane	Reactome DB_ID: 1861689	Protein165	
+Complex11	FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029097	Protein166	
+Complex11	FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029097	Complex12	
+Complex13	CD3G:CD3Z heterodimer	plasma membrane	Reactome DB_ID: 1861602	Protein167	
+Complex13	CD3G:CD3Z heterodimer	plasma membrane	Reactome DB_ID: 1861602	Protein163	
+Complex14	CD3Z homodimer	plasma membrane	Reactome DB_ID: 1861695	Protein167	
+Complex15	IgG-Ag:FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029163	Complex1	
+Complex15	IgG-Ag:FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029163	Complex11	
+Complex16	clustered IgG-Ag:FCGRs	plasma membrane	Reactome DB_ID: 2029146	Complex1	
+Complex16	clustered IgG-Ag:FCGRs	plasma membrane	Reactome DB_ID: 2029146	PhysicalEntity2	
+Complex17	clustered IgG-Ag:p-FCGRs	plasma membrane	Reactome DB_ID: 2029128	Complex1	
+Complex17	clustered IgG-Ag:p-FCGRs	plasma membrane	Reactome DB_ID: 2029128	PhysicalEntity3	
+Complex18	FCGRIA:p-Y160,Y171-CD3G dimer	plasma membrane	Reactome DB_ID: 2029117	Protein164	
+Complex18	FCGRIA:p-Y160,Y171-CD3G dimer	plasma membrane	Reactome DB_ID: 2029117	Complex19	
+Complex19	p-Y160,Y171-CD3G dimer	plasma membrane	Reactome DB_ID: 1861560	Protein168	
+Complex2	IgG	extracellular region	Reactome DB_ID: 182629	Complex3	
+Complex2	IgG	extracellular region	Reactome DB_ID: 182629	Complex6	
+Complex20	FCGRIIIA:p-2Y-CD3G/p-6Y-CD3Z dimers	plasma membrane	Reactome DB_ID: 2029118	Protein166	
+Complex20	FCGRIIIA:p-2Y-CD3G/p-6Y-CD3Z dimers	plasma membrane	Reactome DB_ID: 2029118	Complex21	
+Complex22	p-Y160,Y171-CD3G:p-6Y-CD3Z	plasma membrane	Reactome DB_ID: 1861710	Protein169	
+Complex22	p-Y160,Y171-CD3G:p-6Y-CD3Z	plasma membrane	Reactome DB_ID: 1861710	Protein168	
+Complex23	CD3 zeta dimer with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202303	Protein169	
+Complex24	clustered IgG-Ag:p-FCGRs:SYK	plasma membrane	Reactome DB_ID: 2029129	Protein178	
+Complex24	clustered IgG-Ag:p-FCGRs:SYK	plasma membrane	Reactome DB_ID: 2029129	Complex17	
+Complex25	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	plasma membrane	Reactome DB_ID: 2029158	Protein179	
+Complex25	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	plasma membrane	Reactome DB_ID: 2029158	Complex17	
+Complex26	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:VAV	plasma membrane	Reactome DB_ID: 2029133	Protein180	
+Complex26	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:VAV	plasma membrane	Reactome DB_ID: 2029133	Complex25	
+Complex26	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:VAV	plasma membrane	Reactome DB_ID: 2029133	SmallMolecule3	
+Complex27	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-VAV	plasma membrane	Reactome DB_ID: 2029131	Protein184	
+Complex27	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-VAV	plasma membrane	Reactome DB_ID: 2029131	Complex25	
+Complex28	RAC1-GDP	cytosol	Reactome DB_ID: 445010	SmallMolecule5	
+Complex28	RAC1-GDP	cytosol	Reactome DB_ID: 445010	Protein188	
+Complex29	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule4	
+Complex29	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein188	
+Complex30	CRK:DOCK180:ELMO	cytosol	Reactome DB_ID: 2029141	Protein189	
+Complex30	CRK:DOCK180:ELMO	cytosol	Reactome DB_ID: 2029141	Protein190	
+Complex30	CRK:DOCK180:ELMO	cytosol	Reactome DB_ID: 2029141	Protein191	
+Complex31	CRKII:DOCK180:ELMO complex recruited to phagocytic cup	plasma membrane	Reactome DB_ID: 2029130	Complex25	
+Complex31	CRKII:DOCK180:ELMO complex recruited to phagocytic cup	plasma membrane	Reactome DB_ID: 2029130	Complex30	
+Complex32	WRC	cytosol	Reactome DB_ID: 2029154	Protein194	
+Complex32	WRC	cytosol	Reactome DB_ID: 2029154	Protein197	
+Complex32	WRC	cytosol	Reactome DB_ID: 2029154	Protein198	
+Complex32	WRC	cytosol	Reactome DB_ID: 2029154	Protein202	
+Complex32	WRC	cytosol	Reactome DB_ID: 2029154	Protein203	
+Complex33	WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029147	Complex32	
+Complex33	WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029147	Complex29	
+Complex33	WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029147	SmallMolecule3	
+Complex33	WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029147	Protein204	
+Complex34	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029148	Complex35	
+Complex34	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029148	Complex29	
+Complex34	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029148	SmallMolecule3	
+Complex34	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2029148	Protein204	
+Complex35	p-WRC	cytosol	Reactome DB_ID: 2029134	Protein205	
+Complex35	p-WRC	cytosol	Reactome DB_ID: 2029134	Protein197	
+Complex35	p-WRC	cytosol	Reactome DB_ID: 2029134	Protein202	
+Complex35	p-WRC	cytosol	Reactome DB_ID: 2029134	Protein209	
+Complex35	p-WRC	cytosol	Reactome DB_ID: 2029134	Protein203	
+Complex36	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2130182	Complex29	
+Complex36	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2130182	SmallMolecule3	
+Complex36	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2130182	Protein204	
+Complex36	p-WRC:IRSp53/58:RAC1-GTP:PIP3	cytosol	Reactome DB_ID: 2130182	Complex37	
+Complex37	p-WRC	cytosol	Reactome DB_ID: 2130185	Protein194	
+Complex37	p-WRC	cytosol	Reactome DB_ID: 2130185	Protein197	
+Complex37	p-WRC	cytosol	Reactome DB_ID: 2130185	Protein215	
+Complex37	p-WRC	cytosol	Reactome DB_ID: 2130185	Protein202	
+Complex37	p-WRC	cytosol	Reactome DB_ID: 2130185	Protein203	
+Complex38	CDC42:GDP	cytosol	Reactome DB_ID: 418830	Protein218	
+Complex38	CDC42:GDP	cytosol	Reactome DB_ID: 418830	SmallMolecule5	
+Complex39	CDC42:GTP	cytosol	Reactome DB_ID: 182921	Protein218	
+Complex39	CDC42:GTP	cytosol	Reactome DB_ID: 182921	SmallMolecule4	
+Complex4	Ig Kappa	extracellular region	Reactome DB_ID: 983670	Protein1	
+Complex4	Ig Kappa	extracellular region	Reactome DB_ID: 983670	Protein54	
+Complex40	CDC42-GTP:WASP/N-WASP	cytosol	Reactome DB_ID: 442584	Protein219	
+Complex40	CDC42-GTP:WASP/N-WASP	cytosol	Reactome DB_ID: 442584	SmallMolecule6	
+Complex40	CDC42-GTP:WASP/N-WASP	cytosol	Reactome DB_ID: 442584	Complex39	
+Complex41	CDC42-GTP:WASP/N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197683	Protein219	
+Complex41	CDC42-GTP:WASP/N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197683	Protein222	
+Complex41	CDC42-GTP:WASP/N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197683	SmallMolecule6	
+Complex41	CDC42-GTP:WASP/N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197683	Complex39	
+Complex41	CDC42-GTP:WASP/N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197683	Protein226	
+Complex42	CDC42-GTP:p-WASP/p-N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197680	Protein222	
+Complex42	CDC42-GTP:p-WASP/p-N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197680	Protein230	
+Complex42	CDC42-GTP:p-WASP/p-N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197680	SmallMolecule6	
+Complex42	CDC42-GTP:p-WASP/p-N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197680	Complex39	
+Complex42	CDC42-GTP:p-WASP/p-N-WASP:WIP:SH3 proteins	cytosol	Reactome DB_ID: 2197680	Protein226	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Protein236	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Protein237	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Complex44	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Protein239	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Complex45	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Protein241	
+Complex43	ARP2/3 complex (ATP bound)	cytosol	Reactome DB_ID: 1861670	Protein242	
+Complex44	ARP2:ATP	cytosol	Reactome DB_ID: 201855	SmallMolecule1	
+Complex44	ARP2:ATP	cytosol	Reactome DB_ID: 201855	Protein238	
+Complex45	ARP3:ATP	cytosol	Reactome DB_ID: 201854	Protein240	
+Complex45	ARP3:ATP	cytosol	Reactome DB_ID: 201854	SmallMolecule1	
+Complex46	G-actin	cytosol	Reactome DB_ID: 201857	SmallMolecule1	
+Complex46	G-actin	cytosol	Reactome DB_ID: 201857	Protein243	
+Complex48	Activated WAVE2 and WASP/N-WASP:ARP2/3 complex:G-actin	cytosol	Reactome DB_ID: 442565	Complex43	
+Complex48	Activated WAVE2 and WASP/N-WASP:ARP2/3 complex:G-actin	cytosol	Reactome DB_ID: 442565	Complex46	
+Complex48	Activated WAVE2 and WASP/N-WASP:ARP2/3 complex:G-actin	cytosol	Reactome DB_ID: 442565	Complex47	
+Complex49	Mother filament:branching complex	cytosol	Reactome DB_ID: 2029140	Complex48	
+Complex49	Mother filament:branching complex	cytosol	Reactome DB_ID: 2029140	PhysicalEntity4	
+Complex5	Ig Lambda	extracellular region	Reactome DB_ID: 983672	Protein55	
+Complex5	Ig Lambda	extracellular region	Reactome DB_ID: 983672	Protein113	
+Complex50	Mother filament:ARP2/3:actin:GDP	cytosol	Reactome DB_ID: 2197686	Complex51	
+Complex50	Mother filament:ARP2/3:actin:GDP	cytosol	Reactome DB_ID: 2197686	PhysicalEntity4	
+Complex50	Mother filament:ARP2/3:actin:GDP	cytosol	Reactome DB_ID: 2197686	Complex43	
+Complex51	Actin:ADP	cytosol	Reactome DB_ID: 202994	SmallMolecule2	
+Complex51	Actin:ADP	cytosol	Reactome DB_ID: 202994	Protein243	
+Complex52	Mother filament:branching complex:daughter filament	cytosol	Reactome DB_ID: 1861699	Complex48	
+Complex52	Mother filament:branching complex:daughter filament	cytosol	Reactome DB_ID: 1861699	PhysicalEntity4	
+Complex54	PAK1 dimer	cytosol	Reactome DB_ID: 445002	Protein246	
+Complex55	RAC1/CDC42:PAK dimer	cytosol	Reactome DB_ID: 2029159	Complex53	
+Complex55	RAC1/CDC42:PAK dimer	cytosol	Reactome DB_ID: 2029159	Complex54	
+Complex56	RAC1/CDC42:p-S144,T423-PAK	cytosol	Reactome DB_ID: 2029155	Complex53	
+Complex56	RAC1/CDC42:p-S144,T423-PAK	cytosol	Reactome DB_ID: 2029155	Protein247	
+Complex57	pLIMK dimer:HSP-90	cytosol	Reactome DB_ID: 419632	Protein250	
+Complex57	pLIMK dimer:HSP-90	cytosol	Reactome DB_ID: 419632	Protein249	
+Complex58	Active LIMK1	cytosol	Reactome DB_ID: 419630	Protein253	
+Complex59	pCofilin: Active LIMK-1	cytosol	Reactome DB_ID: 399878	Protein255	
+Complex59	pCofilin: Active LIMK-1	cytosol	Reactome DB_ID: 399878	Complex58	
+Complex6	IgG Heavy Chain	extracellular region	Reactome DB_ID: 1591203	Protein119	
+Complex6	IgG Heavy Chain	extracellular region	Reactome DB_ID: 1591203	Protein124	
+Complex60	Myosin-X dimer	cytosol	Reactome DB_ID: 1861665	Protein256	
+Complex61	Actin filament bound Myosin-X	plasma membrane	Reactome DB_ID: 1861625	SmallMolecule2	
+Complex61	Actin filament bound Myosin-X	plasma membrane	Reactome DB_ID: 1861625	Complex60	
+Complex61	Actin filament bound Myosin-X	plasma membrane	Reactome DB_ID: 1861625	Complex52	
+Complex61	Actin filament bound Myosin-X	plasma membrane	Reactome DB_ID: 1861625	SmallMolecule8	
+Complex62	Myosin-Actin filaments	cytosol	Reactome DB_ID: 2029139	SmallMolecule2	
+Complex62	Myosin-Actin filaments	cytosol	Reactome DB_ID: 2029139	Protein257	
+Complex62	Myosin-Actin filaments	cytosol	Reactome DB_ID: 2029139	Complex52	
+Complex63	clustered IgG-Ag:p-FCGRs	phagocytic cup	Reactome DB_ID: 2029151	Complex1	
+Complex63	clustered IgG-Ag:p-FCGRs	phagocytic cup	Reactome DB_ID: 2029151	PhysicalEntity3	
+Complex64	PI3K	cytosol	Reactome DB_ID: 74693	Protein263	
+Complex64	PI3K	cytosol	Reactome DB_ID: 74693	Protein266	
+Complex65	PI3K:p-6Y-SYK	plasma membrane	Reactome DB_ID: 2029149	Complex25	
+Complex65	PI3K:p-6Y-SYK	plasma membrane	Reactome DB_ID: 2029149	Complex64	
+Complex66	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG	plasma membrane	Reactome DB_ID: 2029137	Protein269	
+Complex66	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:PLCG	plasma membrane	Reactome DB_ID: 2029137	Complex25	
+Complex67	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	plasma membrane	Reactome DB_ID: 2029156	Complex25	
+Complex67	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	plasma membrane	Reactome DB_ID: 2029156	Protein272	
+Complex67	clustered IgG-Ag:p-FCGRs:p-6Y-SYK:p-3Y-PLCG	plasma membrane	Reactome DB_ID: 2029156	SmallMolecule3	
+Complex68	IP3 receptor homotetramer	endoplasmic reticulum membrane	Reactome DB_ID: 169686	Protein275	
+Complex69	IP3 receptor:IP3 complex	endoplasmic reticulum membrane	Reactome DB_ID: 169696	SmallMolecule10	
+Complex69	IP3 receptor:IP3 complex	endoplasmic reticulum membrane	Reactome DB_ID: 169696	Complex68	
+Complex7	FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029093	Complex8	
+Complex7	FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029093	Protein164	
+Complex8	CD3G homodimer	plasma membrane	Reactome DB_ID: 1861690	Protein163	
+Complex9	IgG-Ag:FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029132	Complex1	
+Complex9	IgG-Ag:FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029132	Complex7	

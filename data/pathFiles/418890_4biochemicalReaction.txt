@@ -1,0 +1,27 @@
+BiochemicalReaction1	PITPalpha binds DCC	Complex1	Complex3	
+BiochemicalReaction1	PITPalpha binds DCC	Protein3	Complex3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	Complex4	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule2	Complex4	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	Complex3	Complex4	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	Protein4	Complex4	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	Protein4	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	Complex3	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	Protein4	Complex3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	Complex3	Complex3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule2	Complex3	
+BiochemicalReaction2	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	Complex3	
+BiochemicalReaction3	PIP2 hydrolysis	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction3	PIP2 hydrolysis	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	PIP2 hydrolysis	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	PIP2 hydrolysis	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	SmallMolecule5	Complex7	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	Complex5	Complex7	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	SmallMolecule6	Complex7	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	Complex5	SmallMolecule5	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	SmallMolecule5	SmallMolecule5	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	SmallMolecule6	SmallMolecule6	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	Complex5	SmallMolecule6	
+BiochemicalReaction4	Activation of TRPC channels by Netrin-1	SmallMolecule5	SmallMolecule6	

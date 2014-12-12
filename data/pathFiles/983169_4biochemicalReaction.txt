@@ -1,0 +1,167 @@
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	SmallMolecule4	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	SmallMolecule4	
+BiochemicalReaction10	Interaction of Erp57 with MHC class I HC	Complex19	Complex20	
+BiochemicalReaction10	Interaction of Erp57 with MHC class I HC	Protein307	Complex20	
+BiochemicalReaction11	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Protein308	Complex21	
+BiochemicalReaction11	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Complex20	Complex21	
+BiochemicalReaction11	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Complex20	Protein304	
+BiochemicalReaction11	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Protein308	Protein304	
+BiochemicalReaction12	Formation of peptide loading complex (PLC)	Protein309	Complex23	
+BiochemicalReaction12	Formation of peptide loading complex (PLC)	Complex22	Complex23	
+BiochemicalReaction12	Formation of peptide loading complex (PLC)	Protein312	Complex23	
+BiochemicalReaction12	Formation of peptide loading complex (PLC)	Complex21	Complex23	
+BiochemicalReaction12	Formation of peptide loading complex (PLC)	PhysicalEntity6	Complex23	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	PhysicalEntity5	SmallMolecule28	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	SmallMolecule2	SmallMolecule28	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	SmallMolecule27	PhysicalEntity7	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	SmallMolecule2	PhysicalEntity7	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	PhysicalEntity5	PhysicalEntity7	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	SmallMolecule2	SmallMolecule29	
+BiochemicalReaction13	Transport of Antigen peptide in to ER	PhysicalEntity5	SmallMolecule29	
+BiochemicalReaction14	Trimming of peptides in ER	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction14	Trimming of peptides in ER	PhysicalEntity7	SmallMolecule30	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	PhysicalEntity8	Protein309	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	Complex23	Protein309	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	Complex23	Complex22	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	PhysicalEntity8	Complex22	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	Complex23	Protein312	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	PhysicalEntity8	Protein312	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	Complex23	Protein307	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	PhysicalEntity8	Protein307	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	Complex23	Complex24	
+BiochemicalReaction15	Loading of antigenic peptides on to class I MHC	PhysicalEntity8	Complex24	
+BiochemicalReaction16	Transport of MHC heterotrimer to ER exit site	Complex24	PhysicalEntity6	
+BiochemicalReaction16	Transport of MHC heterotrimer to ER exit site	Complex24	Complex26	
+BiochemicalReaction17	Capturing cargo and formation of prebudding complex	Complex27	Complex30	
+BiochemicalReaction17	Capturing cargo and formation of prebudding complex	Complex26	Complex30	
+BiochemicalReaction18	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Protein323	Complex31	
+BiochemicalReaction18	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Complex30	Complex31	
+BiochemicalReaction18	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Protein324	Complex31	
+BiochemicalReaction19	Budding of COPII coated vesicle	Complex31	Complex33	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Complex1	Protein16	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Protein23	Protein16	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Protein23	Complex2	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Complex1	Complex2	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	Protein323	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	Protein323	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	Protein323	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	SmallMolecule51	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	SmallMolecule51	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	SmallMolecule51	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	Protein324	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	Protein324	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	Protein324	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	Protein410	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	Protein410	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	Protein410	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	Complex36	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	Complex36	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	Complex36	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	Protein415	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	Protein415	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	Protein415	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule54	Complex39	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	SmallMolecule27	Complex39	
+BiochemicalReaction20	Disassembly of COPII coated vesicle	Complex33	Complex39	
+BiochemicalReaction21	Journey of cargo through Golgi complex	Complex36	Complex41	
+BiochemicalReaction22	Expression of peptide bound class I MHC on cell surface	Complex41	Complex43	
+BiochemicalReaction23	Interaction of particulate antigens with dendritic cell receptors	PhysicalEntity12	Complex46	
+BiochemicalReaction23	Interaction of particulate antigens with dendritic cell receptors	PhysicalEntity13	Complex46	
+BiochemicalReaction24	Engulfment of particulate antigen into phagocytic vesicle	Complex46	PhysicalEntity14	
+BiochemicalReaction24	Engulfment of particulate antigen into phagocytic vesicle	Complex46	PhysicalEntity15	
+BiochemicalReaction25	Maturation of phagosome into phagolysosome	PhysicalEntity14	PhysicalEntity16	
+BiochemicalReaction26	Alkalization of the phagosomal lumen by NOX2	SmallMolecule56	SmallMolecule58	
+BiochemicalReaction26	Alkalization of the phagosomal lumen by NOX2	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction26	Alkalization of the phagosomal lumen by NOX2	SmallMolecule57	SmallMolecule59	
+BiochemicalReaction26	Alkalization of the phagosomal lumen by NOX2	SmallMolecule56	SmallMolecule59	
+BiochemicalReaction26	Alkalization of the phagosomal lumen by NOX2	SmallMolecule57	SmallMolecule60	
+BiochemicalReaction26	Alkalization of the phagosomal lumen by NOX2	SmallMolecule56	SmallMolecule60	
+BiochemicalReaction27	Partial proteolysis of antigen in phagolysosomes	PhysicalEntity16	PhysicalEntity17	
+BiochemicalReaction28	Escape of antigens from phagosome to cytosol	PhysicalEntity17	PhysicalEntity18	
+BiochemicalReaction29	Egress of internalized antigen to the cytosol via sec61	PhysicalEntity17	PhysicalEntity18	
+BiochemicalReaction3	Interaction of E3 with substrate and E2-Ub complex	PhysicalEntity1	Complex13	
+BiochemicalReaction3	Interaction of E3 with substrate and E2-Ub complex	PhysicalEntity2	Complex13	
+BiochemicalReaction3	Interaction of E3 with substrate and E2-Ub complex	Complex2	Complex13	
+BiochemicalReaction30	Proteasomal cleavage of substrate	PhysicalEntity19	Protein1	
+BiochemicalReaction30	Proteasomal cleavage of substrate	PhysicalEntity19	SmallMolecule5	
+BiochemicalReaction30	Proteasomal cleavage of substrate	PhysicalEntity19	PhysicalEntity5	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity5	SmallMolecule28	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule2	SmallMolecule28	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule2	SmallMolecule29	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity5	SmallMolecule29	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule27	PhysicalEntity20	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule2	PhysicalEntity20	
+BiochemicalReaction31	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity5	PhysicalEntity20	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	Complex52	Protein583	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	PhysicalEntity20	Protein583	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	PhysicalEntity20	Protein659	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	Complex52	Protein659	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	PhysicalEntity20	Protein658	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	Complex52	Protein658	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	PhysicalEntity20	Complex54	
+BiochemicalReaction32	Peptide loading on MHC class I in phagosome	Complex52	Complex54	
+BiochemicalReaction33	Export of peptide loaded MHC class I complex to PM	Complex54	Complex43	
+BiochemicalReaction34	Antigen processing by cathepsin S in endosoytic vesicle	PhysicalEntity21	SmallMolecule61	
+BiochemicalReaction34	Antigen processing by cathepsin S in endosoytic vesicle	PhysicalEntity21	PhysicalEntity22	
+BiochemicalReaction35	Trimming of peptides by IRAP in endocytic vesicles	PhysicalEntity22	PhysicalEntity23	
+BiochemicalReaction35	Trimming of peptides by IRAP in endocytic vesicles	PhysicalEntity22	SmallMolecule61	
+BiochemicalReaction36	Loading of antigen peptide onto MHC class I molecule	PhysicalEntity23	Complex58	
+BiochemicalReaction36	Loading of antigen peptide onto MHC class I molecule	Complex57	Complex58	
+BiochemicalReaction37	Translocation of peptide bound MHC class I complex to cell surface	Complex58	Complex43	
+BiochemicalReaction38	Interaction of exogenous soluble antigen with its corresponding receptor	PhysicalEntity24	Complex59	
+BiochemicalReaction38	Interaction of exogenous soluble antigen with its corresponding receptor	PhysicalEntity25	Complex59	
+BiochemicalReaction39	Internalization of receptor bound antigen into clathrin coted vesicles	Complex59	Complex60	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	SmallMolecule3	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	SmallMolecule4	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	Protein23	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	Protein23	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	Complex14	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	Complex14	
+BiochemicalReaction40	Movement of clathrin coated vesicles into early endosome	Complex60	Complex61	
+BiochemicalReaction41	Exogenous soluble antigen targeted to more stable early endosome	Complex61	PhysicalEntity21	
+BiochemicalReaction41	Exogenous soluble antigen targeted to more stable early endosome	Complex61	PhysicalEntity29	
+BiochemicalReaction42	Egress of internalized antigen into cytosol from early endosome	PhysicalEntity21	PhysicalEntity30	
+BiochemicalReaction43	Proteasomal clevage of exogenous antigen	PhysicalEntity30	SmallMolecule5	
+BiochemicalReaction43	Proteasomal clevage of exogenous antigen	PhysicalEntity30	PhysicalEntity4	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	SmallMolecule3	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	SmallMolecule3	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	SmallMolecule4	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	SmallMolecule4	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	Protein23	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	Protein23	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	Protein23	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	Complex16	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	Complex16	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	Complex16	
+BiochemicalReaction6	Release of E3 from polyubiquitinated substrate	Complex16	PhysicalEntity3	
+BiochemicalReaction6	Release of E3 from polyubiquitinated substrate	Complex16	PhysicalEntity2	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	Protein1	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	SmallMolecule5	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	PhysicalEntity5	
+BiochemicalReaction8	Trimming of N-ter extended precursor fragments by cytosolic aminopeptidases	PhysicalEntity4	SmallMolecule5	
+BiochemicalReaction8	Trimming of N-ter extended precursor fragments by cytosolic aminopeptidases	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction9	Binding of newly synthesized MHC class I heavy chain (HC) with calnexin	Complex18	Complex19	
+BiochemicalReaction9	Binding of newly synthesized MHC class I heavy chain (HC) with calnexin	Protein304	Complex19	

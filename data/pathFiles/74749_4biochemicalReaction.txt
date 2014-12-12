@@ -1,0 +1,24 @@
+BiochemicalReaction1	De-phosphorylation of IRS	Protein1	SmallMolecule1	
+BiochemicalReaction1	De-phosphorylation of IRS	Protein1	Protein5	
+BiochemicalReaction2	De-phosphorylation of SHC	Protein9	SmallMolecule1	
+BiochemicalReaction2	De-phosphorylation of SHC	Protein9	Protein10	
+BiochemicalReaction3	SOS phosphorylation and dissociation (SHC)	Complex1	SmallMolecule3	
+BiochemicalReaction3	SOS phosphorylation and dissociation (SHC)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	SOS phosphorylation and dissociation (SHC)	SmallMolecule2	Protein17	
+BiochemicalReaction3	SOS phosphorylation and dissociation (SHC)	Complex1	Protein17	
+BiochemicalReaction3	SOS phosphorylation and dissociation (SHC)	SmallMolecule2	Complex3	
+BiochemicalReaction3	SOS phosphorylation and dissociation (SHC)	Complex1	Complex3	
+BiochemicalReaction4	SOS phosphorylation and dissociation (IRS)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	SOS phosphorylation and dissociation (IRS)	Complex4	SmallMolecule3	
+BiochemicalReaction4	SOS phosphorylation and dissociation (IRS)	Complex4	Protein17	
+BiochemicalReaction4	SOS phosphorylation and dissociation (IRS)	SmallMolecule2	Protein17	
+BiochemicalReaction4	SOS phosphorylation and dissociation (IRS)	Complex4	Complex5	
+BiochemicalReaction4	SOS phosphorylation and dissociation (IRS)	SmallMolecule2	Complex5	
+BiochemicalReaction5	SOS phosphorylation and dissociation (IRS, Crk)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	SOS phosphorylation and dissociation (IRS, Crk)	Complex6	SmallMolecule3	
+BiochemicalReaction5	SOS phosphorylation and dissociation (IRS, Crk)	Complex6	Protein17	
+BiochemicalReaction5	SOS phosphorylation and dissociation (IRS, Crk)	SmallMolecule2	Protein17	
+BiochemicalReaction5	SOS phosphorylation and dissociation (IRS, Crk)	Complex6	Complex8	
+BiochemicalReaction5	SOS phosphorylation and dissociation (IRS, Crk)	SmallMolecule2	Complex8	
+BiochemicalReaction6	Binding of Grb10 to the insulin receptor	Complex9	Complex12	
+BiochemicalReaction6	Binding of Grb10 to the insulin receptor	Protein27	Complex12	

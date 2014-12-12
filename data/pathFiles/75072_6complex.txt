@@ -1,0 +1,18 @@
+Complex1	Stem-looped mRNA:ACF complex	nucleoplasm	Reactome DB_ID: 77605	Protein1	
+Complex1	Stem-looped mRNA:ACF complex	nucleoplasm	Reactome DB_ID: 77605	PhysicalEntity2	
+Complex2	Editosome for C to U editing	nucleoplasm	Reactome DB_ID: 77606	Protein1	
+Complex2	Editosome for C to U editing	nucleoplasm	Reactome DB_ID: 77606	Protein2	
+Complex2	Editosome for C to U editing	nucleoplasm	Reactome DB_ID: 77606	PhysicalEntity2	
+Complex3	C to U edited ApoB RNA:Editosome complex	nucleoplasm	Reactome DB_ID: 83676	PhysicalEntity3	
+Complex3	C to U edited ApoB RNA:Editosome complex	nucleoplasm	Reactome DB_ID: 83676	Protein1	
+Complex3	C to U edited ApoB RNA:Editosome complex	nucleoplasm	Reactome DB_ID: 83676	Protein2	
+Complex4	ADAR1 homodimer 	nucleoplasm	Reactome DB_ID: 111236	Protein3	
+Complex5	Editosome (ADAR1) complex	nucleoplasm	Reactome DB_ID: 75087	PhysicalEntity5	
+Complex5	Editosome (ADAR1) complex	nucleoplasm	Reactome DB_ID: 75087	Complex4	
+Complex6	ADAR2 homodimer	nucleoplasm	Reactome DB_ID: 111235	Protein4	
+Complex7	Editosome (ADAR2) complex	nucleoplasm	Reactome DB_ID: 77610	PhysicalEntity5	
+Complex7	Editosome (ADAR2) complex	nucleoplasm	Reactome DB_ID: 77610	Complex6	
+Complex8	A to I edited RNA:Editosome (ADAR1) complex	nucleoplasm	Reactome DB_ID: 75089	PhysicalEntity6	
+Complex8	A to I edited RNA:Editosome (ADAR1) complex	nucleoplasm	Reactome DB_ID: 75089	Complex4	
+Complex9	A to I edited RNA:Editosome (ADAR2) complex	nucleoplasm	Reactome DB_ID: 77611	PhysicalEntity6	
+Complex9	A to I edited RNA:Editosome (ADAR2) complex	nucleoplasm	Reactome DB_ID: 77611	Complex6	

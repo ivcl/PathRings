@@ -1,0 +1,61 @@
+Complex1	DGCR8:Drosha	nucleoplasm	Reactome DB_ID: 203817	Protein1	
+Complex1	DGCR8:Drosha	nucleoplasm	Reactome DB_ID: 203817	Protein2	
+Complex10	AGO2:duplex miRNA	cytosol	Reactome DB_ID: 2106619	PhysicalEntity4	
+Complex10	AGO2:duplex miRNA	cytosol	Reactome DB_ID: 2106619	Protein11	
+Complex11	AGO3:duplex miRNA	cytosol	Reactome DB_ID: 2106606	PhysicalEntity4	
+Complex11	AGO3:duplex miRNA	cytosol	Reactome DB_ID: 2106606	Protein13	
+Complex12	AGO4:duplex miRNA	cytosol	Reactome DB_ID: 2106602	PhysicalEntity4	
+Complex12	AGO4:duplex miRNA	cytosol	Reactome DB_ID: 2106602	Protein14	
+Complex14	AGO1:miRNA	cytosol	Reactome DB_ID: 2106629	Protein12	
+Complex14	AGO1:miRNA	cytosol	Reactome DB_ID: 2106629	PhysicalEntity5	
+Complex15	AGO2:miRNA	cytosol	Reactome DB_ID: 2106621	Protein11	
+Complex15	AGO2:miRNA	cytosol	Reactome DB_ID: 2106621	PhysicalEntity5	
+Complex16	AGO3:miRNA	cytosol	Reactome DB_ID: 2106613	Protein13	
+Complex16	AGO3:miRNA	cytosol	Reactome DB_ID: 2106613	PhysicalEntity5	
+Complex17	AGO4:miRNA	cytosol	Reactome DB_ID: 2106626	Protein14	
+Complex17	AGO4:miRNA	cytosol	Reactome DB_ID: 2106626	PhysicalEntity5	
+Complex18	DICER:TRBP:duplex siRNA	cytosol	Reactome DB_ID: 629637	Protein7	
+Complex18	DICER:TRBP:duplex siRNA	cytosol	Reactome DB_ID: 629637	PhysicalEntity7	
+Complex18	DICER:TRBP:duplex siRNA	cytosol	Reactome DB_ID: 629637	Protein8	
+Complex18	DICER:TRBP:duplex siRNA	cytosol	Reactome DB_ID: 629637	Protein9	
+Complex2	Ran:GTP:Exportin-5	nucleoplasm	Reactome DB_ID: 203870	Complex3	
+Complex2	Ran:GTP:Exportin-5	nucleoplasm	Reactome DB_ID: 203870	Protein4	
+Complex20	AGO1:duplex siRNA	cytosol	Reactome DB_ID: 2106607	Protein12	
+Complex20	AGO1:duplex siRNA	cytosol	Reactome DB_ID: 2106607	PhysicalEntity7	
+Complex21	AGO2:duplex siRNA	cytosol	Reactome DB_ID: 2106605	PhysicalEntity7	
+Complex21	AGO2:duplex siRNA	cytosol	Reactome DB_ID: 2106605	Protein11	
+Complex22	AGO3:duplex siRNA	cytosol	Reactome DB_ID: 2106618	PhysicalEntity7	
+Complex22	AGO3:duplex siRNA	cytosol	Reactome DB_ID: 2106618	Protein13	
+Complex23	AGO4:duplex siRNA	cytosol	Reactome DB_ID: 2106600	Protein14	
+Complex23	AGO4:duplex siRNA	cytosol	Reactome DB_ID: 2106600	PhysicalEntity7	
+Complex24	AGO2:siRNA	cytosol	Reactome DB_ID: 2106601	PhysicalEntity8	
+Complex24	AGO2:siRNA	cytosol	Reactome DB_ID: 2106601	Protein11	
+Complex26	AGO1:siRNA	cytosol	Reactome DB_ID: 2106624	Protein12	
+Complex26	AGO1:siRNA	cytosol	Reactome DB_ID: 2106624	PhysicalEntity8	
+Complex27	AGO3:siRNA	cytosol	Reactome DB_ID: 2106622	PhysicalEntity8	
+Complex27	AGO3:siRNA	cytosol	Reactome DB_ID: 2106622	Protein13	
+Complex28	AGO4:siRNA	cytosol	Reactome DB_ID: 2106627	Protein14	
+Complex28	AGO4:siRNA	cytosol	Reactome DB_ID: 2106627	PhysicalEntity8	
+Complex3	Ran-GTP	nucleoplasm	Reactome DB_ID: 180738	SmallMolecule1	
+Complex3	Ran-GTP	nucleoplasm	Reactome DB_ID: 180738	Protein3	
+Complex31	RISC:Target RNA (inexact match)	cytosol	Reactome DB_ID: 426501	Complex32	
+Complex31	RISC:Target RNA (inexact match)	cytosol	Reactome DB_ID: 426501	PhysicalEntity11	
+Complex32	RISC	cytosol	Reactome DB_ID: 2106609	Complex30	
+Complex32	RISC	cytosol	Reactome DB_ID: 2106609	Protein15	
+Complex34	Nonendonucleolytic RISC:Target RNA (exact match)	cytosol	Reactome DB_ID: 426510	Complex35	
+Complex34	Nonendonucleolytic RISC:Target RNA (exact match)	cytosol	Reactome DB_ID: 426510	PhysicalEntity9	
+Complex35	Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 427774	Complex33	
+Complex35	Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 427774	Protein15	
+Complex4	pre-miRNA:Ran:GTP:Exportin-5	nucleoplasm	Reactome DB_ID: 209660	Complex3	
+Complex4	pre-miRNA:Ran:GTP:Exportin-5	nucleoplasm	Reactome DB_ID: 209660	Protein4	
+Complex4	pre-miRNA:Ran:GTP:Exportin-5	nucleoplasm	Reactome DB_ID: 209660	PhysicalEntity2	
+Complex5	Ran:GTP:Exportin-5	cytosol	Reactome DB_ID: 209672	Protein5	
+Complex5	Ran:GTP:Exportin-5	cytosol	Reactome DB_ID: 209672	Complex6	
+Complex6	Ran:GTP	cytosol	Reactome DB_ID: 180686	SmallMolecule2	
+Complex6	Ran:GTP	cytosol	Reactome DB_ID: 180686	Protein6	
+Complex7	Dicer:TRBP:duplex miRNA	cytosol	Reactome DB_ID: 629638	PhysicalEntity4	
+Complex7	Dicer:TRBP:duplex miRNA	cytosol	Reactome DB_ID: 629638	Protein7	
+Complex7	Dicer:TRBP:duplex miRNA	cytosol	Reactome DB_ID: 629638	Protein8	
+Complex7	Dicer:TRBP:duplex miRNA	cytosol	Reactome DB_ID: 629638	Protein9	
+Complex9	AGO1:duplex miRNA	cytosol	Reactome DB_ID: 2106620	PhysicalEntity4	
+Complex9	AGO1:duplex miRNA	cytosol	Reactome DB_ID: 2106620	Protein12	

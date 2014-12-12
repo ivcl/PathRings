@@ -1,0 +1,15 @@
+Complex1	TRAF6:hp-IRAK1	endosome membrane	Reactome DB_ID: 975150	Protein5	
+Complex1	TRAF6:hp-IRAK1	endosome membrane	Reactome DB_ID: 975150	Protein6	
+Complex2	TRAF6:hp-IRAK1:Pellino	endosome membrane	Reactome DB_ID: 975143	Protein1	
+Complex2	TRAF6:hp-IRAK1:Pellino	endosome membrane	Reactome DB_ID: 975143	Complex1	
+Complex3	p-Pellino:hp-IRAK1:TRAF6	endosome membrane	Reactome DB_ID: 975166	Protein1	
+Complex3	p-Pellino:hp-IRAK1:TRAF6	endosome membrane	Reactome DB_ID: 975166	Complex1	
+Complex4	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein7	
+Complex4	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein8	
+Complex5	K63-linked poly-Ub-p-3S,3T-IRAK1:TRAF6	endosome membrane	Reactome DB_ID: 975172	Protein5	
+Complex5	K63-linked poly-Ub-p-3S,3T-IRAK1:TRAF6	endosome membrane	Reactome DB_ID: 975172	Protein9	
+Complex6	IKK complex	cytosol	Reactome DB_ID: 168113	Protein10	
+Complex6	IKK complex	cytosol	Reactome DB_ID: 168113	Protein11	
+Complex6	IKK complex	cytosol	Reactome DB_ID: 168113	Protein12	
+Complex7	TRAF6:K63-linked polyUb p-IRAK1:IKK complex	endosome membrane	Reactome DB_ID: 975121	Complex5	
+Complex7	TRAF6:K63-linked polyUb p-IRAK1:IKK complex	endosome membrane	Reactome DB_ID: 975121	Complex6	

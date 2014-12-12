@@ -1,0 +1,31 @@
+Complex1	CDO:BOC	plasma membrane	Reactome DB_ID: 375094	Protein1	
+Complex1	CDO:BOC	plasma membrane	Reactome DB_ID: 375094	Protein2	
+Complex10	p38 alpha/beta/gamma:ABL1:JLP:CDO complex	plasma membrane	Reactome DB_ID: 448887	Complex9	
+Complex10	p38 alpha/beta/gamma:ABL1:JLP:CDO complex	plasma membrane	Reactome DB_ID: 448887	Protein15	
+Complex11	pp38 alpha/beta/gamma:ABL1:JLP:CDO complex	plasma membrane	Reactome DB_ID: 448881	Complex9	
+Complex11	pp38 alpha/beta/gamma:ABL1:JLP:CDO complex	plasma membrane	Reactome DB_ID: 448881	Protein19	
+Complex12	Myod:phospho-E heterodimers	nucleoplasm	Reactome DB_ID: 448886	Protein30	
+Complex12	Myod:phospho-E heterodimers	nucleoplasm	Reactome DB_ID: 448886	Protein35	
+Complex13	phospho p38:phospho MEF2	nucleoplasm	Reactome DB_ID: 448874	Protein24	
+Complex13	phospho p38:phospho MEF2	nucleoplasm	Reactome DB_ID: 448874	Protein43	
+Complex14	MyoD:phospho-E:phospho MEF2	nucleoplasm	Reactome DB_ID: 448877	Protein43	
+Complex14	MyoD:phospho-E:phospho MEF2	nucleoplasm	Reactome DB_ID: 448877	Complex12	
+Complex15	Netrin-3:Neogenin	plasma membrane	Reactome DB_ID: 448880	Protein46	
+Complex15	Netrin-3:Neogenin	plasma membrane	Reactome DB_ID: 448880	Protein47	
+Complex16	CDO:BOC:Neogenin:Netrin-3	plasma membrane	Reactome DB_ID: 375091	Complex1	
+Complex16	CDO:BOC:Neogenin:Netrin-3	plasma membrane	Reactome DB_ID: 375091	Complex15	
+Complex2	Trans-cadherin homodimers	plasma membrane	Reactome DB_ID: 448888	Complex3	
+Complex3	Cadherin:Catenin	plasma membrane	Reactome DB_ID: 448876	Protein3	
+Complex3	Cadherin:Catenin	plasma membrane	Reactome DB_ID: 448876	Protein7	
+Complex4	CDO:BOC:Trans-cadherin homodimer:catenin	plasma membrane	Reactome DB_ID: 375092	Complex1	
+Complex4	CDO:BOC:Trans-cadherin homodimer:catenin	plasma membrane	Reactome DB_ID: 375092	Complex2	
+Complex5	Cadherin-catenin:CDO:BOC:Bnip2	plasma membrane	Reactome DB_ID: 376008	Protein11	
+Complex5	Cadherin-catenin:CDO:BOC:Bnip2	plasma membrane	Reactome DB_ID: 376008	Complex4	
+Complex6	CDC42:GTP	cytosol	Reactome DB_ID: 182921	Protein12	
+Complex6	CDC42:GTP	cytosol	Reactome DB_ID: 182921	SmallMolecule1	
+Complex7	Cadherin-catenin:CDO:BOC:Bnip2:CDC42-GTP	plasma membrane	Reactome DB_ID: 448875	Complex5	
+Complex7	Cadherin-catenin:CDO:BOC:Bnip2:CDC42-GTP	plasma membrane	Reactome DB_ID: 448875	Complex6	
+Complex8	Cadherin-catenin:JLP:CDO:BOC:Bnip2-Cdc42	plasma membrane	Reactome DB_ID: 376011	Protein13	
+Complex8	Cadherin-catenin:JLP:CDO:BOC:Bnip2-Cdc42	plasma membrane	Reactome DB_ID: 376011	Complex7	
+Complex9	ABL1:JLP:CDO complex	plasma membrane	Reactome DB_ID: 449191	Protein14	
+Complex9	ABL1:JLP:CDO complex	plasma membrane	Reactome DB_ID: 449191	Complex8	

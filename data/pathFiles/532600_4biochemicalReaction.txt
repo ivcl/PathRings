@@ -1,0 +1,191 @@
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	Complex1	Complex2	
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	SmallMolecule1	Complex2	
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	Complex1	SmallMolecule2	
+BiochemicalReaction10	Association of AUF1 with Translation and Heat Shock Proteins	Protein55	Complex19	
+BiochemicalReaction10	Association of AUF1 with Translation and Heat Shock Proteins	Complex15	Complex19	
+BiochemicalReaction10	Association of AUF1 with Translation and Heat Shock Proteins	Protein56	Complex19	
+BiochemicalReaction10	Association of AUF1 with Translation and Heat Shock Proteins	Protein6	Complex19	
+BiochemicalReaction10	Association of AUF1 with Translation and Heat Shock Proteins	Protein8	Complex19	
+BiochemicalReaction10	Association of AUF1 with Translation and Heat Shock Proteins	Protein57	Complex19	
+BiochemicalReaction11	Ubiquitination of AUF1 (hnRNP D0)	Protein58	Complex20	
+BiochemicalReaction11	Ubiquitination of AUF1 (hnRNP D0)	Complex19	Complex20	
+BiochemicalReaction12	Destruction of AUF1 and mRNA	Complex20	NA	
+BiochemicalReaction13	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	Protein120	Complex23	
+BiochemicalReaction13	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity8	Complex23	
+BiochemicalReaction14	BRF1 Complex Recruits RNA Degradation Activities	Protein52	Complex24	
+BiochemicalReaction14	BRF1 Complex Recruits RNA Degradation Activities	Complex6	Complex24	
+BiochemicalReaction14	BRF1 Complex Recruits RNA Degradation Activities	Protein49	Complex24	
+BiochemicalReaction14	BRF1 Complex Recruits RNA Degradation Activities	Protein50	Complex24	
+BiochemicalReaction14	BRF1 Complex Recruits RNA Degradation Activities	Complex23	Complex24	
+BiochemicalReaction15	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction15	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex23	SmallMolecule9	
+BiochemicalReaction15	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex23	Complex25	
+BiochemicalReaction15	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule8	Complex25	
+BiochemicalReaction16	Phosphorylation of BRF1 by MK2	SmallMolecule8	Complex26	
+BiochemicalReaction16	Phosphorylation of BRF1 by MK2	Complex23	Complex26	
+BiochemicalReaction16	Phosphorylation of BRF1 by MK2	Complex23	SmallMolecule9	
+BiochemicalReaction16	Phosphorylation of BRF1 by MK2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction17	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Complex25	Complex27	
+BiochemicalReaction17	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Protein125	Complex27	
+BiochemicalReaction18	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Complex26	Complex28	
+BiochemicalReaction18	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Protein125	Complex28	
+BiochemicalReaction19	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein126	Complex29	
+BiochemicalReaction19	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein127	Complex29	
+BiochemicalReaction19	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	PhysicalEntity9	Complex29	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein1	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein1	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein5	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein5	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein6	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein6	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	SmallMolecule2	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein7	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein7	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	PhysicalEntity3	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein8	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein8	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein9	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein9	
+BiochemicalReaction20	TTP Recruits RNA Degradation Activities	Protein52	Complex30	
+BiochemicalReaction20	TTP Recruits RNA Degradation Activities	Complex29	Complex30	
+BiochemicalReaction20	TTP Recruits RNA Degradation Activities	Complex6	Complex30	
+BiochemicalReaction20	TTP Recruits RNA Degradation Activities	Protein49	Complex30	
+BiochemicalReaction20	TTP Recruits RNA Degradation Activities	Protein50	Complex30	
+BiochemicalReaction21	Phosphorylation of Tristetraproline (TTP) by MK2	Complex29	SmallMolecule9	
+BiochemicalReaction21	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction21	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule8	Complex31	
+BiochemicalReaction21	Phosphorylation of Tristetraproline (TTP) by MK2	Complex29	Complex31	
+BiochemicalReaction22	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Complex31	Complex32	
+BiochemicalReaction22	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Protein125	Complex32	
+BiochemicalReaction23	KSRP Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity10	Complex33	
+BiochemicalReaction23	KSRP Binds AU-rich Element in 3' UTR of mRNA	Protein129	Complex33	
+BiochemicalReaction24	KSRP Recruits RNA Degradation Activities	Complex6	Complex34	
+BiochemicalReaction24	KSRP Recruits RNA Degradation Activities	Protein49	Complex34	
+BiochemicalReaction24	KSRP Recruits RNA Degradation Activities	Complex33	Complex34	
+BiochemicalReaction24	KSRP Recruits RNA Degradation Activities	Protein12	Complex34	
+BiochemicalReaction25	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction25	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein129	SmallMolecule9	
+BiochemicalReaction25	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein129	Protein130	
+BiochemicalReaction25	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule8	Protein130	
+BiochemicalReaction26	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein130	Complex35	
+BiochemicalReaction26	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein131	Complex35	
+BiochemicalReaction27	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction27	Phosphorylation of KSRP by MAP kinase p38	Protein129	SmallMolecule9	
+BiochemicalReaction27	Phosphorylation of KSRP by MAP kinase p38	Protein129	Protein133	
+BiochemicalReaction27	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule8	Protein133	
+BiochemicalReaction28	Phosphorylation of HuR by PKCalpha	Protein137	SmallMolecule12	
+BiochemicalReaction28	Phosphorylation of HuR by PKCalpha	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction28	Phosphorylation of HuR by PKCalpha	SmallMolecule11	Protein138	
+BiochemicalReaction28	Phosphorylation of HuR by PKCalpha	Protein137	Protein138	
+BiochemicalReaction29	Phosphorylation of HuR by PKCdelta	Protein137	SmallMolecule12	
+BiochemicalReaction29	Phosphorylation of HuR by PKCdelta	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction29	Phosphorylation of HuR by PKCdelta	SmallMolecule11	Protein140	
+BiochemicalReaction29	Phosphorylation of HuR by PKCdelta	Protein137	Protein140	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein1	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein1	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein5	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein5	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein6	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein6	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	SmallMolecule2	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein7	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein7	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	PhysicalEntity3	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein8	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein8	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein9	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein9	
+BiochemicalReaction30	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	PhysicalEntity11	Complex37	
+BiochemicalReaction30	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	Protein138	Complex37	
+BiochemicalReaction31	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	PhysicalEntity12	Complex38	
+BiochemicalReaction31	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	Protein140	Complex38	
+BiochemicalReaction32	HuR Binds mRNAs in the Nucleus	Protein137	Complex39	
+BiochemicalReaction32	HuR Binds mRNAs in the Nucleus	PhysicalEntity13	Complex39	
+BiochemicalReaction33	Association of HuR with the CRM1 Nuclear Export Machinery	Protein142	Complex41	
+BiochemicalReaction33	Association of HuR with the CRM1 Nuclear Export Machinery	Protein143	Complex41	
+BiochemicalReaction33	Association of HuR with the CRM1 Nuclear Export Machinery	Protein144	Complex41	
+BiochemicalReaction33	Association of HuR with the CRM1 Nuclear Export Machinery	Complex40	Complex41	
+BiochemicalReaction33	Association of HuR with the CRM1 Nuclear Export Machinery	Protein145	Complex41	
+BiochemicalReaction33	Association of HuR with the CRM1 Nuclear Export Machinery	Protein146	Complex41	
+BiochemicalReaction34	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex41	Complex42	
+BiochemicalReaction34	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex41	Protein150	
+BiochemicalReaction35	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Complex46	Complex57	
+BiochemicalReaction35	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Protein154	Complex57	
+BiochemicalReaction35	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Complex47	Complex57	
+BiochemicalReaction36	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	Complex57	SmallMolecule9	
+BiochemicalReaction36	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction36	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	SmallMolecule8	Complex58	
+BiochemicalReaction36	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	Complex57	Complex58	
+BiochemicalReaction37	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein250	Complex60	
+BiochemicalReaction37	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Complex58	Complex60	
+BiochemicalReaction37	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein251	Complex60	
+BiochemicalReaction37	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Complex59	Complex60	
+BiochemicalReaction37	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein255	Complex60	
+BiochemicalReaction38	SMG6 Cleaves mRNA with Premature Termination Codon	Complex60	Complex61	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Protein250	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Protein251	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Complex49	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Protein6	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Protein154	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Protein8	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Complex59	
+BiochemicalReaction39	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex61	Protein255	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule3	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule5	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	PhysicalEntity4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule2	
+BiochemicalReaction40	Formation of UPF1:eRF3 Complex on mRNA with a Premature Termination Codon and No Exon Junction Complex	Complex62	Complex64	
+BiochemicalReaction40	Formation of UPF1:eRF3 Complex on mRNA with a Premature Termination Codon and No Exon Junction Complex	Protein154	Complex64	
+BiochemicalReaction41	Nuclear export of snRNA transcripts	Complex65	Complex67	
+BiochemicalReaction41	Nuclear export of snRNA transcripts	Complex65	Protein260	
+BiochemicalReaction41	Nuclear export of snRNA transcripts	Complex65	Complex49	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	SmallMolecule17	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein292	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein293	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Complex71	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein301	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein302	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein303	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein304	Complex72	
+BiochemicalReaction42	Loading and methylation of Sm proteins onto SMN Complexes	Protein305	Complex72	
+BiochemicalReaction43	snRNP complex assembly	Complex67	Complex75	
+BiochemicalReaction43	snRNP complex assembly	Complex72	Complex75	
+BiochemicalReaction44	snRNA Cap hypermethylation	Complex75	Complex76	
+BiochemicalReaction45	snRNP:Snurportin complex formation	Complex76	Complex78	
+BiochemicalReaction45	snRNP:Snurportin complex formation	Protein312	Complex78	
+BiochemicalReaction46	snRNP nuclear import and release	Complex78	Complex79	
+BiochemicalReaction46	snRNP nuclear import and release	Complex78	Complex80	
+BiochemicalReaction46	snRNP nuclear import and release	Complex78	Protein312	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	SmallMolecule1	PhysicalEntity5	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	PhysicalEntity4	SmallMolecule6	
+BiochemicalReaction6	Binding of Lsm1-7 Complex to Deadenylated mRNA	Complex8	Complex9	
+BiochemicalReaction6	Binding of Lsm1-7 Complex to Deadenylated mRNA	PhysicalEntity3	Complex9	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	Complex9	Complex10	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	SmallMolecule1	Complex10	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	Complex9	SmallMolecule7	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	Complex8	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	Complex8	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule3	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule4	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule5	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule2	
+BiochemicalReaction9	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	Complex12	Complex15	
+BiochemicalReaction9	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	PhysicalEntity7	Complex15	

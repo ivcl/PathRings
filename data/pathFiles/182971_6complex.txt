@@ -1,0 +1,107 @@
+Complex1	EGF:p-6Y-EGFR	plasma membrane	Reactome DB_ID: 179882	Complex2	
+Complex10	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182948	Protein4	
+Complex10	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182948	Protein1	
+Complex10	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182948	Protein2	
+Complex10	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182948	Protein27	
+Complex11	EGF:Ub-p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182945	Protein5	
+Complex11	EGF:Ub-p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182945	Protein1	
+Complex11	EGF:Ub-p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182945	Complex12	
+Complex11	EGF:Ub-p-6Y-EGFR:p-Y371-CBL:GRB2	plasma membrane	Reactome DB_ID: 182945	Protein2	
+Complex12	Phospho-CBL:GRB2	cytosol	Reactome DB_ID: 182964	Protein28	
+Complex12	Phospho-CBL:GRB2	cytosol	Reactome DB_ID: 182964	Protein27	
+Complex13	CBL:SPRY1/2	cytosol	Reactome DB_ID: 182914	Protein26	
+Complex13	CBL:SPRY1/2	cytosol	Reactome DB_ID: 182914	Protein20	
+Complex14	CBL:SPRY1/2	plasma membrane	Reactome DB_ID: 182938	Protein30	
+Complex14	CBL:SPRY1/2	plasma membrane	Reactome DB_ID: 182938	Protein3	
+Complex15	CBL:Beta-Pix	cytosol	Reactome DB_ID: 182942	Protein26	
+Complex15	CBL:Beta-Pix	cytosol	Reactome DB_ID: 182942	Protein33	
+Complex16	CDC42:GTP	cytosol	Reactome DB_ID: 182921	Protein34	
+Complex16	CDC42:GTP	cytosol	Reactome DB_ID: 182921	SmallMolecule3	
+Complex17	CBL:Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182956	Complex15	
+Complex17	CBL:Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182956	Complex16	
+Complex18	EGF:p-6Y-EGFR:CBL:CIN85	plasma membrane	Reactome DB_ID: 182943	Protein35	
+Complex18	EGF:p-6Y-EGFR:CBL:CIN85	plasma membrane	Reactome DB_ID: 182943	Protein1	
+Complex18	EGF:p-6Y-EGFR:CBL:CIN85	plasma membrane	Reactome DB_ID: 182943	Protein2	
+Complex18	EGF:p-6Y-EGFR:CBL:CIN85	plasma membrane	Reactome DB_ID: 182943	Protein3	
+Complex19	Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182917	Complex16	
+Complex19	Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182917	Protein33	
+Complex2	EGF:Phospho-EGFR	plasma membrane	Reactome DB_ID: 179860	Protein1	
+Complex2	EGF:Phospho-EGFR	plasma membrane	Reactome DB_ID: 179860	Protein2	
+Complex20	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	plasma membrane	Reactome DB_ID: 182932	Protein1	
+Complex20	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	plasma membrane	Reactome DB_ID: 182932	Protein2	
+Complex20	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	plasma membrane	Reactome DB_ID: 182932	Protein3	
+Complex20	EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP	plasma membrane	Reactome DB_ID: 182932	Complex19	
+Complex21	Ub-Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182915	Protein5	
+Complex21	Ub-Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182915	Complex16	
+Complex21	Ub-Beta-Pix:CDC42:GTP	cytosol	Reactome DB_ID: 182915	Protein33	
+Complex22	CIN85:Endophilin	cytosol	Reactome DB_ID: 182934	Protein36	
+Complex22	CIN85:Endophilin	cytosol	Reactome DB_ID: 182934	Protein37	
+Complex23	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	plasma membrane	Reactome DB_ID: 182946	Complex22	
+Complex23	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	plasma membrane	Reactome DB_ID: 182946	Protein4	
+Complex23	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	plasma membrane	Reactome DB_ID: 182946	Protein1	
+Complex23	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	plasma membrane	Reactome DB_ID: 182946	Protein2	
+Complex23	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin	plasma membrane	Reactome DB_ID: 182946	Protein27	
+Complex24	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein38	
+Complex24	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein41	
+Complex24	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein42	
+Complex24	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein43	
+Complex25	Eps15:HGS:STAM	cytosol	Reactome DB_ID: 182947	Protein44	
+Complex25	Eps15:HGS:STAM	cytosol	Reactome DB_ID: 182947	Protein47	
+Complex25	Eps15:HGS:STAM	cytosol	Reactome DB_ID: 182947	Protein48	
+Complex26	Clathrin	plasma membrane	Reactome DB_ID: 177482	Protein49	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Complex22	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Complex28	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Protein4	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Complex25	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Protein1	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Protein50	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Protein51	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Protein2	
+Complex27	EGF:p-6Y-EGFR:p-Y371-CBL:GRB2:CIN85:Endophilin:Epsin:Eps15R:Eps15:Clathrin	plasma membrane	Reactome DB_ID: 182941	Protein27	
+Complex28	Clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 177505	Complex24	
+Complex28	Clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 177505	Complex26	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Complex22	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Protein4	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Complex25	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Protein1	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Protein50	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Protein51	
+Complex29	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182961	Protein2	
+Complex3	EGF:p-6Y-EGFR:CBL	plasma membrane	Reactome DB_ID: 182960	Protein1	
+Complex3	EGF:p-6Y-EGFR:CBL	plasma membrane	Reactome DB_ID: 182960	Protein2	
+Complex3	EGF:p-6Y-EGFR:CBL	plasma membrane	Reactome DB_ID: 182960	Protein3	
+Complex30	EGF:p-6Y-EGFR:CBL:p-Y53/55-SPRY1/2	plasma membrane	Reactome DB_ID: 182935	Protein23	
+Complex30	EGF:p-6Y-EGFR:CBL:p-Y53/55-SPRY1/2	plasma membrane	Reactome DB_ID: 182935	Complex3	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Protein4	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Complex25	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Protein1	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Protein50	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Protein51	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Protein2	
+Complex31	EGF:p-6Y-EGFR:p-Y371-CBL:Ub-CIN85:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182936	Complex32	
+Complex32	CIN85 ubiquitinated:Endophilin	cytosol	Reactome DB_ID: 187073	Protein36	
+Complex32	CIN85 ubiquitinated:Endophilin	cytosol	Reactome DB_ID: 187073	Protein52	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Complex22	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Protein4	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Complex25	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Protein1	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Protein30	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Protein50	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Protein51	
+Complex33	EGF:p-6Y-EGFR:p-Y371-CBL:CIN85:SPRY1/2:Endophilin:Epsin:Eps15R:Eps15	plasma membrane	Reactome DB_ID: 182931	Protein2	
+Complex4	EGF:p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182953	Protein4	
+Complex4	EGF:p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182953	Protein1	
+Complex4	EGF:p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182953	Protein2	
+Complex5	EGF:p-6Y-EGFR:CBL:Ub-p-Y53/55-SPRY1/2	plasma membrane	Reactome DB_ID: 182939	Complex3	
+Complex5	EGF:p-6Y-EGFR:CBL:Ub-p-Y53/55-SPRY1/2	plasma membrane	Reactome DB_ID: 182939	Complex6	
+Complex6	Ub-p-Y53/55-SPRY1/2	cytosol	Reactome DB_ID: 182967	Protein5	
+Complex6	Ub-p-Y53/55-SPRY1/2	cytosol	Reactome DB_ID: 182967	Protein23	
+Complex7	EGF:Ub-p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182930	Protein5	
+Complex7	EGF:Ub-p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182930	Protein4	
+Complex7	EGF:Ub-p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182930	Protein1	
+Complex7	EGF:Ub-p-6Y-EGFR:p-Y371-CBL	plasma membrane	Reactome DB_ID: 182930	Protein2	
+Complex8	CBL:GRB2	cytosol	Reactome DB_ID: 182910	Protein26	
+Complex8	CBL:GRB2	cytosol	Reactome DB_ID: 182910	Protein27	
+Complex9	EGF:p-6Y-EGFR:CBL:GRB2	plasma membrane	Reactome DB_ID: 182928	Complex8	
+Complex9	EGF:p-6Y-EGFR:CBL:GRB2	plasma membrane	Reactome DB_ID: 182928	Protein1	
+Complex9	EGF:p-6Y-EGFR:CBL:GRB2	plasma membrane	Reactome DB_ID: 182928	Protein2	

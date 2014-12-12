@@ -1,0 +1,10 @@
+Complex1	GRIK 3 homomer	plasma membrane	Reactome DB_ID: 450196	Protein1	
+Complex1	GRIK 3 homomer	plasma membrane	Reactome DB_ID: 450196	SmallMolecule1	
+Complex2	GRIK3 homomer glutamate complex	plasma membrane	Reactome DB_ID: 500705	Complex1	
+Complex2	GRIK3 homomer glutamate complex	plasma membrane	Reactome DB_ID: 500705	SmallMolecule2	
+Complex3	G-protein beta-gamma:PLC beta 1/2/3	plasma membrane	Reactome DB_ID: 398037	Protein2	
+Complex3	G-protein beta-gamma:PLC beta 1/2/3	plasma membrane	Reactome DB_ID: 398037	Complex4	
+Complex4	G-protein beta-gamma complex	plasma membrane	Reactome DB_ID: 167434	Protein6	
+Complex4	G-protein beta-gamma complex	plasma membrane	Reactome DB_ID: 167434	Protein12	
+Complex5	Kainate receptor-glutamate-Gprotein complex	plasma membrane	Reactome DB_ID: 500703	Complex3	
+Complex5	Kainate receptor-glutamate-Gprotein complex	plasma membrane	Reactome DB_ID: 500703	Complex2	

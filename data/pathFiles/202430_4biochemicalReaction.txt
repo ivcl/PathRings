@@ -1,0 +1,10 @@
+BiochemicalReaction1	Recruitment of ZAP-70 to phosphorylated ITAMs	Protein1	Complex9	
+BiochemicalReaction1	Recruitment of ZAP-70 to phosphorylated ITAMs	Complex1	Complex9	
+BiochemicalReaction2	Phosphorylation of ZAP-70 by Lck	Complex9	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of ZAP-70 by Lck	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of ZAP-70 by Lck	SmallMolecule1	Complex10	
+BiochemicalReaction2	Phosphorylation of ZAP-70 by Lck	Complex9	Complex10	
+BiochemicalReaction3	Activation of ZAP-70	Complex10	SmallMolecule2	
+BiochemicalReaction3	Activation of ZAP-70	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Activation of ZAP-70	SmallMolecule1	Complex15	
+BiochemicalReaction3	Activation of ZAP-70	Complex10	Complex15	

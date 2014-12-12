@@ -1,0 +1,27 @@
+BiochemicalReaction1	Cytochrome C Binds to Apaf-1	Protein1	Complex1	
+BiochemicalReaction1	Cytochrome C Binds to Apaf-1	Protein2	Complex1	
+BiochemicalReaction10	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex10	Complex6	
+BiochemicalReaction10	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex10	Complex13	
+BiochemicalReaction11	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex12	Complex4	
+BiochemicalReaction11	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex12	Complex13	
+BiochemicalReaction2	Cytochrome C:Apaf-1 binds Procaspase-9	Protein3	Complex2	
+BiochemicalReaction2	Cytochrome C:Apaf-1 binds Procaspase-9	Complex1	Complex2	
+BiochemicalReaction2	Cytochrome C:Apaf-1 binds Procaspase-9	SmallMolecule1	Complex2	
+BiochemicalReaction3	Cleavage of Procaspase-9 to Caspase-9	Complex2	SmallMolecule2	
+BiochemicalReaction3	Cleavage of Procaspase-9 to Caspase-9	Complex2	Complex3	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	Protein6	SmallMolecule2	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule1	Complex5	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	Protein6	Complex5	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	Protein9	SmallMolecule2	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	Protein9	Complex6	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule1	Complex6	
+BiochemicalReaction6	SMAC binds XIAP:Caspase-3	Complex7	Complex8	
+BiochemicalReaction6	SMAC binds XIAP:Caspase-3	Protein13	Complex8	
+BiochemicalReaction7	SMAC binds XIAP:Caspase-7	Complex9	Complex10	
+BiochemicalReaction7	SMAC binds XIAP:Caspase-7	Protein13	Complex10	
+BiochemicalReaction8	SMAC binds XIAP:Caspase-9	Protein13	Complex12	
+BiochemicalReaction8	SMAC binds XIAP:Caspase-9	Complex11	Complex12	
+BiochemicalReaction9	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex8	Complex5	
+BiochemicalReaction9	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex8	Complex13	

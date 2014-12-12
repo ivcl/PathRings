@@ -1,0 +1,47 @@
+BiochemicalReaction1	NGF:p75NTR complex binds to NRAGE	Complex1	Complex3	
+BiochemicalReaction1	NGF:p75NTR complex binds to NRAGE	Protein3	Complex3	
+BiochemicalReaction10	NRIF and TRAF6 may activate JNK	Protein5	SmallMolecule2	
+BiochemicalReaction10	NRIF and TRAF6 may activate JNK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	NRIF and TRAF6 may activate JNK	SmallMolecule1	Protein6	
+BiochemicalReaction10	NRIF and TRAF6 may activate JNK	Protein5	Protein6	
+BiochemicalReaction11	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex9	Complex8	
+BiochemicalReaction11	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex9	Complex1	
+BiochemicalReaction11	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex9	Protein51	
+BiochemicalReaction12	TRAF6 polyubiquitinates NRIF	Protein51	Complex13	
+BiochemicalReaction12	TRAF6 polyubiquitinates NRIF	Complex12	Complex13	
+BiochemicalReaction13	Polyubiquitinated NRIF binds to p62 (Sequestosome)	Protein74	Complex14	
+BiochemicalReaction13	Polyubiquitinated NRIF binds to p62 (Sequestosome)	Complex13	Complex14	
+BiochemicalReaction14	Polyubiquitinated NRIF migrates to the nucleus	Complex14	Complex15	
+BiochemicalReaction15	p75NTR binds to NADE	Complex1	Complex17	
+BiochemicalReaction15	p75NTR binds to NADE	Protein92	Complex17	
+BiochemicalReaction16	p75NTR:NADE promotes caspase2/3 activation	Protein93	Complex18	
+BiochemicalReaction17	14-3-3epsilon attentuates NADE-related apoptosis	Complex17	Complex24	
+BiochemicalReaction17	14-3-3epsilon attentuates NADE-related apoptosis	Complex23	Complex24	
+BiochemicalReaction2	NRAGE sequesters CHE1 in the cytoplasm	Complex3	Complex4	
+BiochemicalReaction2	NRAGE sequesters CHE1 in the cytoplasm	Protein4	Complex4	
+BiochemicalReaction3	NRAGE activates JNK	Protein5	SmallMolecule2	
+BiochemicalReaction3	NRAGE activates JNK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	NRAGE activates JNK	SmallMolecule1	Protein6	
+BiochemicalReaction3	NRAGE activates JNK	Protein5	Protein6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	SmallMolecule3	Complex6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	Complex5	Complex6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	Complex5	SmallMolecule6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	Protein5	SmallMolecule2	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	SmallMolecule1	Protein6	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	Protein5	Protein6	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein46	SmallMolecule2	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein47	SmallMolecule2	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein47	Protein48	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	Protein48	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein46	Protein48	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein47	Protein49	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	Protein49	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein46	Protein49	
+BiochemicalReaction7	Active JNK moves to the nucleus and phosphorylates different transcription factors	Protein6	Protein50	
+BiochemicalReaction8	NRIF binds to p75NTR	Complex1	Complex7	
+BiochemicalReaction8	NRIF binds to p75NTR	Protein51	Complex7	
+BiochemicalReaction9	TRAF6 binds to p75NTR:NRIF	Complex8	Complex9	
+BiochemicalReaction9	TRAF6 binds to p75NTR:NRIF	Complex7	Complex9	

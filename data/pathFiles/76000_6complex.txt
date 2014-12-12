@@ -1,0 +1,13 @@
+Complex1	RAD52:DNA double-strand break	nucleoplasm	Reactome DB_ID: 109778	PhysicalEntity1	
+Complex1	RAD52:DNA double-strand break	nucleoplasm	Reactome DB_ID: 109778	Protein2	
+Complex2	RAD51:RAD52:DNA double strand break end  complex	nucleoplasm	Reactome DB_ID: 83619	Protein1	
+Complex2	RAD51:RAD52:DNA double strand break end  complex	nucleoplasm	Reactome DB_ID: 83619	Protein2	
+Complex3	RPA-coated 3'-ends of DNA double strand break	nucleoplasm	Reactome DB_ID: 75993	PhysicalEntity2	
+Complex3	RPA-coated 3'-ends of DNA double strand break	nucleoplasm	Reactome DB_ID: 75993	Complex4	
+Complex4	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein3	
+Complex4	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein4	
+Complex4	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein5	
+Complex5	RAD51:RPA complex	nucleoplasm	Reactome DB_ID: 83618	Protein1	
+Complex5	RAD51:RPA complex	nucleoplasm	Reactome DB_ID: 83618	Complex4	
+Complex6	RAD51:resected ends of DNA double-strand break	nucleoplasm	Reactome DB_ID: 109777	PhysicalEntity1	
+Complex6	RAD51:resected ends of DNA double-strand break	nucleoplasm	Reactome DB_ID: 109777	Protein1	

@@ -1,0 +1,69 @@
+Complex1	Food proteins:Cbl	extracellular region	Reactome DB_ID: 3132775	SmallMolecule1	
+Complex1	Food proteins:Cbl	extracellular region	Reactome DB_ID: 3132775	PhysicalEntity1	
+Complex10	GIF:Cbl	lysosomal lumen	Reactome DB_ID: 3000280	Protein16	
+Complex10	GIF:Cbl	lysosomal lumen	Reactome DB_ID: 3000280	SmallMolecule3	
+Complex11	MMACHC:cob(II)alamin	cytosol	Reactome DB_ID: 3095903	SmallMolecule8	
+Complex11	MMACHC:cob(II)alamin	cytosol	Reactome DB_ID: 3095903	Protein18	
+Complex12	MMACHC:MMADHC:B12r	cytosol	Reactome DB_ID: 3149533	Protein18	
+Complex12	MMACHC:MMADHC:B12r	cytosol	Reactome DB_ID: 3149533	SmallMolecule8	
+Complex12	MMACHC:MMADHC:B12r	cytosol	Reactome DB_ID: 3149533	Protein19	
+Complex13	MMACHC:MMADHC	cytosol	Reactome DB_ID: 3149532	Protein18	
+Complex13	MMACHC:MMADHC	cytosol	Reactome DB_ID: 3149532	Protein19	
+Complex14	MTRR:MTR	cytosol	Reactome DB_ID: 3204322	Complex15	
+Complex14	MTRR:MTR	cytosol	Reactome DB_ID: 3204322	Complex16	
+Complex15	MTR:Zn2+	cytosol	Reactome DB_ID: 3204327	SmallMolecule11	
+Complex15	MTR:Zn2+	cytosol	Reactome DB_ID: 3204327	Protein20	
+Complex16	MTRR:FMN:FAD	cytosol	Reactome DB_ID: 3149530	Protein21	
+Complex16	MTRR:FMN:FAD	cytosol	Reactome DB_ID: 3149530	SmallMolecule12	
+Complex16	MTRR:FMN:FAD	cytosol	Reactome DB_ID: 3149530	SmallMolecule13	
+Complex17	MTRR:MTR(cob(II)alamin)	cytosol	Reactome DB_ID: 3149544	Complex18	
+Complex17	MTRR:MTR(cob(II)alamin)	cytosol	Reactome DB_ID: 3149544	Complex16	
+Complex18	MTR:Zn2+:cob(II)alamin	cytosol	Reactome DB_ID: 3149527	SmallMolecule8	
+Complex18	MTR:Zn2+:cob(II)alamin	cytosol	Reactome DB_ID: 3149527	SmallMolecule11	
+Complex18	MTR:Zn2+:cob(II)alamin	cytosol	Reactome DB_ID: 3149527	Protein20	
+Complex19	MTRR:MTR(MeCbl)	cytosol	Reactome DB_ID: 3149551	Complex20	
+Complex19	MTRR:MTR(MeCbl)	cytosol	Reactome DB_ID: 3149551	Complex16	
+Complex2	TCN1:Cbl	extracellular region	Reactome DB_ID: 3132765	SmallMolecule1	
+Complex2	TCN1:Cbl	extracellular region	Reactome DB_ID: 3132765	Protein1	
+Complex20	MTR:Zn2+:MeCbl	cytosol	Reactome DB_ID: 3149506	SmallMolecule11	
+Complex20	MTR:Zn2+:MeCbl	cytosol	Reactome DB_ID: 3149506	SmallMolecule15	
+Complex20	MTR:Zn2+:MeCbl	cytosol	Reactome DB_ID: 3149506	Protein20	
+Complex21	MTRR:MTR(cob(I)alamin)	cytosol	Reactome DB_ID: 3149516	Complex22	
+Complex21	MTRR:MTR(cob(I)alamin)	cytosol	Reactome DB_ID: 3149516	Complex16	
+Complex22	MTR:Zn2+:cob(I)alamin	cytosol	Reactome DB_ID: 3149497	SmallMolecule11	
+Complex22	MTR:Zn2+:cob(I)alamin	cytosol	Reactome DB_ID: 3149497	SmallMolecule18	
+Complex22	MTR:Zn2+:cob(I)alamin	cytosol	Reactome DB_ID: 3149497	Protein20	
+Complex23	3xMMAB	mitochondrial matrix	Reactome DB_ID: 3159285	Protein22	
+Complex24	2xMMAA:2xMUT	mitochondrial matrix	Reactome DB_ID: 3159295	Complex25	
+Complex24	2xMMAA:2xMUT	mitochondrial matrix	Reactome DB_ID: 3159295	Complex26	
+Complex25	2xMMAA	mitochondrial matrix	Reactome DB_ID: 3159270	Protein23	
+Complex26	2xMUT	mitochondrial matrix	Reactome DB_ID: 3159252	Protein24	
+Complex27	2xMMAA:2xMUT:AdoCbl	mitochondrial matrix	Reactome DB_ID: 3159272	Complex25	
+Complex27	2xMMAA:2xMUT:AdoCbl	mitochondrial matrix	Reactome DB_ID: 3159272	Complex28	
+Complex28	2xMUT:AdoCbl	mitochondrial matrix	Reactome DB_ID: 70999	Protein24	
+Complex28	2xMUT:AdoCbl	mitochondrial matrix	Reactome DB_ID: 70999	SmallMolecule29	
+Complex29	TCII:Cbl	extracellular region	Reactome DB_ID: 3000123	SmallMolecule1	
+Complex29	TCII:Cbl	extracellular region	Reactome DB_ID: 3000123	Protein26	
+Complex3	CTRB1	extracellular region	Reactome DB_ID: 1604751	Protein4	
+Complex3	CTRB1	extracellular region	Reactome DB_ID: 1604751	Protein5	
+Complex3	CTRB1	extracellular region	Reactome DB_ID: 1604751	Protein6	
+Complex30	TCII:Cbl:CD320	endosome membrane	Reactome DB_ID: 3000089	SmallMolecule2	
+Complex30	TCII:Cbl:CD320	endosome membrane	Reactome DB_ID: 3000089	Protein28	
+Complex30	TCII:Cbl:CD320	endosome membrane	Reactome DB_ID: 3000089	Protein29	
+Complex31	TCII:Cbl	endosome	Reactome DB_ID: 3000111	SmallMolecule2	
+Complex31	TCII:Cbl	endosome	Reactome DB_ID: 3000111	Protein28	
+Complex32	TCII:Cbl	lysosomal lumen	Reactome DB_ID: 3000242	Protein30	
+Complex32	TCII:Cbl	lysosomal lumen	Reactome DB_ID: 3000242	SmallMolecule3	
+Complex4	CTRB2	extracellular region	Reactome DB_ID: 1604683	Protein7	
+Complex4	CTRB2	extracellular region	Reactome DB_ID: 1604683	Protein8	
+Complex4	CTRB2	extracellular region	Reactome DB_ID: 1604683	Protein9	
+Complex5	GIF:Cbl	extracellular region	Reactome DB_ID: 3000147	SmallMolecule1	
+Complex5	GIF:Cbl	extracellular region	Reactome DB_ID: 3000147	Protein10	
+Complex6	CUBN:AMN	plasma membrane	Reactome DB_ID: 264830	Protein11	
+Complex6	CUBN:AMN	plasma membrane	Reactome DB_ID: 264830	Protein12	
+Complex7	CUBN:AMN:GIF:Cbl	plasma membrane	Reactome DB_ID: 3000141	Complex5	
+Complex7	CUBN:AMN:GIF:Cbl	plasma membrane	Reactome DB_ID: 3000141	Complex6	
+Complex8	GIF:Cbl	endosome	Reactome DB_ID: 3000295	Protein13	
+Complex8	GIF:Cbl	endosome	Reactome DB_ID: 3000295	SmallMolecule2	
+Complex9	CUBN:AMN	endosome membrane	Reactome DB_ID: 3000138	Protein14	
+Complex9	CUBN:AMN	endosome membrane	Reactome DB_ID: 3000138	Protein15	

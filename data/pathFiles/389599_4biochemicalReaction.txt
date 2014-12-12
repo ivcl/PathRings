@@ -1,0 +1,43 @@
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule7	SmallMolecule12	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule7	SmallMolecule13	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction4	2-hydroxyphytanoyl-CoA => pristanal + formyl-CoA	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction4	2-hydroxyphytanoyl-CoA => pristanal + formyl-CoA	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule16	SmallMolecule20	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule19	SmallMolecule6	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule16	SmallMolecule6	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule15	SmallMolecule22	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule15	SmallMolecule23	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule15	SmallMolecule24	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule23	SmallMolecule1	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule23	SmallMolecule8	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule25	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule25	

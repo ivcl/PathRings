@@ -1,0 +1,24 @@
+BiochemicalReaction1	Formation of stem-loop structure in ApoB mRNA	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction10	Deamination at C6 position of adenosine in Editosome (ADAR1)	Complex5	Complex8	
+BiochemicalReaction10	Deamination at C6 position of adenosine in Editosome (ADAR1)	SmallMolecule1	Complex8	
+BiochemicalReaction10	Deamination at C6 position of adenosine in Editosome (ADAR1)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Deamination at C6 position of adenosine in Editosome (ADAR1)	Complex5	SmallMolecule2	
+BiochemicalReaction11	Deamination at C6 position of adenosine in Editosome (ADAR2)	SmallMolecule1	Complex9	
+BiochemicalReaction11	Deamination at C6 position of adenosine in Editosome (ADAR2)	Complex7	Complex9	
+BiochemicalReaction11	Deamination at C6 position of adenosine in Editosome (ADAR2)	Complex7	SmallMolecule2	
+BiochemicalReaction11	Deamination at C6 position of adenosine in Editosome (ADAR2)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Binding of A1CF to stem-looped RNA	Protein1	Complex1	
+BiochemicalReaction2	Binding of A1CF to stem-looped RNA	PhysicalEntity2	Complex1	
+BiochemicalReaction3	Binding of APOBEC-1 to form editosome	Protein2	Complex2	
+BiochemicalReaction3	Binding of APOBEC-1 to form editosome	Complex1	Complex2	
+BiochemicalReaction4	C4 deamination of cytidine	Complex2	SmallMolecule2	
+BiochemicalReaction4	C4 deamination of cytidine	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	C4 deamination of cytidine	SmallMolecule1	Complex3	
+BiochemicalReaction4	C4 deamination of cytidine	Complex2	Complex3	
+BiochemicalReaction5	Formation of dsRNA structure by looping 	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction6	Formation of ADAR1 homodimer	Protein3	Complex4	
+BiochemicalReaction7	Binding of ADAR1 homodimer to dsRNA duplex	PhysicalEntity5	Complex5	
+BiochemicalReaction7	Binding of ADAR1 homodimer to dsRNA duplex	Complex4	Complex5	
+BiochemicalReaction8	Formation of ADAR2  homodimer	Protein4	Complex6	
+BiochemicalReaction9	Binding of ADAR2 homodimer to dsRNA duplex	PhysicalEntity5	Complex7	
+BiochemicalReaction9	Binding of ADAR2 homodimer to dsRNA duplex	Complex6	Complex7	

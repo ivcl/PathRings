@@ -1,0 +1,10 @@
+BiochemicalReaction1	RNA Polymerase III Transcriptional Pause at Terminator Sequence	Complex1	PhysicalEntity3	
+BiochemicalReaction1	RNA Polymerase III Transcriptional Pause at Terminator Sequence	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction1	RNA Polymerase III Transcriptional Pause at Terminator Sequence	PhysicalEntity2	Complex6	
+BiochemicalReaction1	RNA Polymerase III Transcriptional Pause at Terminator Sequence	Complex1	Complex6	
+BiochemicalReaction2	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity3	PhysicalEntity5	
+BiochemicalReaction2	RNA Polymerase III Termination and release of transcribed mRNA	Complex6	PhysicalEntity5	
+BiochemicalReaction2	RNA Polymerase III Termination and release of transcribed mRNA	Complex6	Complex2	
+BiochemicalReaction2	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity3	Complex2	
+BiochemicalReaction2	RNA Polymerase III Termination and release of transcribed mRNA	Complex6	PhysicalEntity4	
+BiochemicalReaction2	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity3	PhysicalEntity4	

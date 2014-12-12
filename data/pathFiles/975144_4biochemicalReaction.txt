@@ -1,0 +1,17 @@
+BiochemicalReaction1	Pellino binds hp-IRAK1:TRAF6 upon TLR7/8 or 9 activation	Protein1	Complex2	
+BiochemicalReaction1	Pellino binds hp-IRAK1:TRAF6 upon TLR7/8 or 9 activation	Complex1	Complex2	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	Complex2	SmallMolecule2	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	SmallMolecule1	Complex3	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino upon TLR7/8 or 9 activation 	Complex2	Complex3	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex4	Protein1	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex3	Protein1	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	PhysicalEntity1	Protein1	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	PhysicalEntity1	Complex5	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex3	Complex5	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex4	Complex5	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	PhysicalEntity1	Complex4	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex3	Complex4	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1 upon TLR7/8 or 9 activation<br>	Complex4	Complex4	
+BiochemicalReaction4	NEMO subunit of IKK complex binds to activated IRAK1 upon stimulation of TLR7/8 or 9.	Complex5	Complex7	
+BiochemicalReaction4	NEMO subunit of IKK complex binds to activated IRAK1 upon stimulation of TLR7/8 or 9.	Complex6	Complex7	

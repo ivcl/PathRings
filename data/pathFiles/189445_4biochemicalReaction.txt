@@ -1,0 +1,76 @@
+BiochemicalReaction1	ALAS condenses SUCC-CoA and Gly to form dALA	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	ALAS condenses SUCC-CoA and Gly to form dALA	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	ALAS condenses SUCC-CoA and Gly to form dALA	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	ALAS condenses SUCC-CoA and Gly to form dALA	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	ALAS condenses SUCC-CoA and Gly to form dALA	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	ALAS condenses SUCC-CoA and Gly to form dALA	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction10	Cytosolic COPRO3 translocates to mitochondrial intermembrane space	SmallMolecule17	SmallMolecule20	
+BiochemicalReaction11	CPO transforms COPRO3 to PPGEN9	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction11	CPO transforms COPRO3 to PPGEN9	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction11	CPO transforms COPRO3 to PPGEN9	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction11	CPO transforms COPRO3 to PPGEN9	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction11	CPO transforms COPRO3 to PPGEN9	SmallMolecule20	SmallMolecule24	
+BiochemicalReaction11	CPO transforms COPRO3 to PPGEN9	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction12	PPO oxidises PPGEN9 to PRIN9	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction12	PPO oxidises PPGEN9 to PRIN9	SmallMolecule23	SmallMolecule22	
+BiochemicalReaction12	PPO oxidises PPGEN9 to PRIN9	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction12	PPO oxidises PPGEN9 to PRIN9	SmallMolecule21	SmallMolecule25	
+BiochemicalReaction13	Mitochondrial intermembrane PRIN9 translocates to mitochondrial matrix	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction14	FECH binds Fe2+ to PRIN9 to form heme	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction14	FECH binds Fe2+ to PRIN9 to form heme	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction14	FECH binds Fe2+ to PRIN9 to form heme	SmallMolecule28	SmallMolecule6	
+BiochemicalReaction14	FECH binds Fe2+ to PRIN9 to form heme	SmallMolecule27	SmallMolecule6	
+BiochemicalReaction15	COX10 transforms heme to heme O	SmallMolecule31	SmallMolecule33	
+BiochemicalReaction15	COX10 transforms heme to heme O	SmallMolecule6	SmallMolecule33	
+BiochemicalReaction15	COX10 transforms heme to heme O	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction15	COX10 transforms heme to heme O	SmallMolecule32	SmallMolecule34	
+BiochemicalReaction15	COX10 transforms heme to heme O	SmallMolecule6	SmallMolecule34	
+BiochemicalReaction15	COX10 transforms heme to heme O	SmallMolecule31	SmallMolecule34	
+BiochemicalReaction16	COX15 transforms heme O to heme A	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule36	SmallMolecule39	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule37	SmallMolecule39	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule38	SmallMolecule40	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule37	SmallMolecule40	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule36	SmallMolecule40	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule38	SmallMolecule41	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule37	SmallMolecule41	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule36	SmallMolecule41	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule38	SmallMolecule11	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule37	SmallMolecule11	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule36	SmallMolecule11	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule38	SmallMolecule42	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule37	SmallMolecule42	
+BiochemicalReaction17	The heme ring is cleaved by heme oxygenase	SmallMolecule36	SmallMolecule42	
+BiochemicalReaction18	Biliverdin is reduced to bilirubin	SmallMolecule36	SmallMolecule39	
+BiochemicalReaction18	Biliverdin is reduced to bilirubin	SmallMolecule40	SmallMolecule39	
+BiochemicalReaction18	Biliverdin is reduced to bilirubin	SmallMolecule40	SmallMolecule43	
+BiochemicalReaction18	Biliverdin is reduced to bilirubin	SmallMolecule36	SmallMolecule43	
+BiochemicalReaction19	Bilirubin translocates from the cytosol to the ER lumen	SmallMolecule43	SmallMolecule44	
+BiochemicalReaction2	Mitochondrial dALA translocates to cytosol	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction20	Bilirubin forms a monoglucuronide	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction20	Bilirubin forms a monoglucuronide	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction20	Bilirubin forms a monoglucuronide	SmallMolecule44	SmallMolecule47	
+BiochemicalReaction20	Bilirubin forms a monoglucuronide	SmallMolecule45	SmallMolecule47	
+BiochemicalReaction21	Bilirubin monoglucuronide is conjugated to bilirubin diglucuronide	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction21	Bilirubin monoglucuronide is conjugated to bilirubin diglucuronide	SmallMolecule47	SmallMolecule46	
+BiochemicalReaction21	Bilirubin monoglucuronide is conjugated to bilirubin diglucuronide	SmallMolecule47	SmallMolecule48	
+BiochemicalReaction21	Bilirubin monoglucuronide is conjugated to bilirubin diglucuronide	SmallMolecule45	SmallMolecule48	
+BiochemicalReaction3	ALAD binds to Pb2+	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	ALAD binds to Pb2+	Complex4	SmallMolecule9	
+BiochemicalReaction3	ALAD binds to Pb2+	Complex4	Complex5	
+BiochemicalReaction3	ALAD binds to Pb2+	SmallMolecule8	Complex5	
+BiochemicalReaction4	ALAD condenses 2 dALAs to form PBG	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction4	ALAD condenses 2 dALAs to form PBG	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction5	4 PBGs bind to form HMB	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction5	4 PBGs bind to form HMB	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	4 PBGs bind to form HMB	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction5	4 PBGs bind to form HMB	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction6	UROS transforms HMB to URO3	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction6	UROS transforms HMB to URO3	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction7	HMBL spontaneously transforms to URO1	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction7	HMBL spontaneously transforms to URO1	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction8	UROD decarboxylates URO3 to COPRO3	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction8	UROD decarboxylates URO3 to COPRO3	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction9	UROD decarboxylates URO1 to COPRO1	SmallMolecule16	SmallMolecule19	
+BiochemicalReaction9	UROD decarboxylates URO1 to COPRO1	SmallMolecule16	SmallMolecule18	

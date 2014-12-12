@@ -1,0 +1,121 @@
+BiochemicalReaction1	Phosphorylation of SHC by SYK kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of SHC by SYK kinase	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of SHC by SYK kinase	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of SHC by SYK kinase	SmallMolecule1	Protein2	
+BiochemicalReaction10	Activated RAF1 complex binds MEK	Protein173	Complex20	
+BiochemicalReaction10	Activated RAF1 complex binds MEK	Complex17	Complex20	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule1	Protein176	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex21	Protein176	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex21	Complex17	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule1	Complex17	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex21	SmallMolecule2	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex22	Complex17	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule1	Complex17	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex22	SmallMolecule2	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule1	Protein177	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex22	Protein177	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	Protein178	SmallMolecule2	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein179	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	Protein178	Protein179	
+BiochemicalReaction14	MEK1 binds ERK-1	Protein176	Complex23	
+BiochemicalReaction14	MEK1 binds ERK-1	Protein183	Complex23	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	Complex23	Complex24	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex24	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	Complex23	SmallMolecule2	
+BiochemicalReaction16	Dissociation of phospho-ERK-1:MEK1	Complex24	Protein176	
+BiochemicalReaction16	Dissociation of phospho-ERK-1:MEK1	Complex24	Protein184	
+BiochemicalReaction17	Dimerisation of phospho-ERK-1	Protein184	Complex25	
+BiochemicalReaction18	Nuclear translocation of phospho-ERK-1 dimer	Complex25	Complex26	
+BiochemicalReaction19	MEK2 binds ERK-2	Protein177	Complex35	
+BiochemicalReaction19	MEK2 binds ERK-2	Protein195	Complex35	
+BiochemicalReaction2	Interaction of GRB2:SOS complex with p-SHC1	Complex9	Complex10	
+BiochemicalReaction2	Interaction of GRB2:SOS complex with p-SHC1	Protein2	Complex10	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	Complex35	SmallMolecule2	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex36	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	Complex35	Complex36	
+BiochemicalReaction21	Dissociation of phospho-ERK-2:MEK2	Complex36	Protein177	
+BiochemicalReaction21	Dissociation of phospho-ERK-2:MEK2	Complex36	Protein196	
+BiochemicalReaction22	Dimerisation of phospho-ERK-2	Protein196	Complex37	
+BiochemicalReaction23	Nuclear translocation of phospho-ERK-2 dimer	Complex37	Complex38	
+BiochemicalReaction24	Recruitment of GADS:SLP-76 to p-5Y-LAT	Complex39	Complex40	
+BiochemicalReaction24	Recruitment of GADS:SLP-76 to p-5Y-LAT	Complex11	Complex40	
+BiochemicalReaction25	Recruitment of PLC-gamma to SLP-76 and p-5Y-LAT	Protein200	Complex41	
+BiochemicalReaction25	Recruitment of PLC-gamma to SLP-76 and p-5Y-LAT	Complex40	Complex41	
+BiochemicalReaction26	Phosphorylation of SLP-76 by p-SYK	Complex41	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of SLP-76 by p-SYK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of SLP-76 by p-SYK	SmallMolecule1	Complex42	
+BiochemicalReaction26	Phosphorylation of SLP-76 by p-SYK	Complex41	Complex42	
+BiochemicalReaction27	Recruitment of VAV to p-SLP-76	Complex42	Complex44	
+BiochemicalReaction27	Recruitment of VAV to p-SLP-76	Protein204	Complex44	
+BiochemicalReaction28	Phosphorylation and activation of VAV	Complex44	SmallMolecule2	
+BiochemicalReaction28	Phosphorylation and activation of VAV	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	Phosphorylation and activation of VAV	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction28	Phosphorylation and activation of VAV	SmallMolecule5	Complex45	
+BiochemicalReaction28	Phosphorylation and activation of VAV	SmallMolecule1	Complex45	
+BiochemicalReaction28	Phosphorylation and activation of VAV	Complex44	Complex45	
+BiochemicalReaction29	Activation of RAC1 by VAV	SmallMolecule3	Complex47	
+BiochemicalReaction29	Activation of RAC1 by VAV	Complex46	Complex47	
+BiochemicalReaction29	Activation of RAC1 by VAV	Complex45	Complex47	
+BiochemicalReaction29	Activation of RAC1 by VAV	Complex45	SmallMolecule4	
+BiochemicalReaction29	Activation of RAC1 by VAV	Complex46	SmallMolecule4	
+BiochemicalReaction29	Activation of RAC1 by VAV	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Recruitment of GRB2:SOS to p-5Y-LAT	Protein165	Complex11	
+BiochemicalReaction3	Recruitment of GRB2:SOS to p-5Y-LAT	Complex10	Complex11	
+BiochemicalReaction30	Recruitment of PAK to the membrane by binding active RAC1	Complex47	Complex52	
+BiochemicalReaction30	Recruitment of PAK to the membrane by binding active RAC1	Complex49	Complex52	
+BiochemicalReaction31	Autophosphorylation of PAK	Complex52	SmallMolecule2	
+BiochemicalReaction31	Autophosphorylation of PAK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Autophosphorylation of PAK	SmallMolecule1	Complex47	
+BiochemicalReaction31	Autophosphorylation of PAK	Complex52	Complex47	
+BiochemicalReaction31	Autophosphorylation of PAK	SmallMolecule1	Protein215	
+BiochemicalReaction31	Autophosphorylation of PAK	Complex52	Protein215	
+BiochemicalReaction32	Autophosphorylation and activation of MEKK1	Protein218	SmallMolecule2	
+BiochemicalReaction32	Autophosphorylation and activation of MEKK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction32	Autophosphorylation and activation of MEKK1	SmallMolecule1	Protein219	
+BiochemicalReaction32	Autophosphorylation and activation of MEKK1	Protein218	Protein219	
+BiochemicalReaction33	Phosphorylation of MEK4 by MEKK1	Protein220	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of MEK4 by MEKK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of MEK4 by MEKK1	SmallMolecule1	Protein221	
+BiochemicalReaction33	Phosphorylation of MEK4 by MEKK1	Protein220	Protein221	
+BiochemicalReaction34	Phosphorylation of MEK7 by MEKK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction34	Phosphorylation of MEK7 by MEKK1	Protein222	SmallMolecule2	
+BiochemicalReaction34	Phosphorylation of MEK7 by MEKK1	Protein222	Protein223	
+BiochemicalReaction34	Phosphorylation of MEK7 by MEKK1	SmallMolecule1	Protein223	
+BiochemicalReaction35	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein224	SmallMolecule2	
+BiochemicalReaction35	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction35	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule1	Protein228	
+BiochemicalReaction35	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein224	Protein228	
+BiochemicalReaction36	Activated human JNKs migrate to nucleoplasm	Protein228	Protein233	
+BiochemicalReaction37	Activated JNKs phosphorylate c-JUN	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction37	Activated JNKs phosphorylate c-JUN	Protein237	SmallMolecule7	
+BiochemicalReaction37	Activated JNKs phosphorylate c-JUN	Protein237	Protein238	
+BiochemicalReaction37	Activated JNKs phosphorylate c-JUN	SmallMolecule6	Protein238	
+BiochemicalReaction38	c-FOS activation by phospho ERK1/2	Protein239	SmallMolecule7	
+BiochemicalReaction38	c-FOS activation by phospho ERK1/2	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction38	c-FOS activation by phospho ERK1/2	SmallMolecule6	Protein240	
+BiochemicalReaction38	c-FOS activation by phospho ERK1/2	Protein239	Protein240	
+BiochemicalReaction39	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein238	Complex54	
+BiochemicalReaction39	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein240	Complex54	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule3	Complex13	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	Complex12	Complex13	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	Complex12	SmallMolecule4	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	p-RAF binds 14-3-3 beta/alpha	Protein170	Complex14	
+BiochemicalReaction5	p-RAF binds 14-3-3 beta/alpha	Protein171	Complex14	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex14	Complex15	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex13	Complex15	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex13	Protein170	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex14	Protein170	
+BiochemicalReaction7	Stabilisation of RAS:RAF by 14-3-3	Complex15	Complex16	
+BiochemicalReaction7	Stabilisation of RAS:RAF by 14-3-3	Protein170	Complex16	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex17	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	Complex16	Complex17	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	Complex16	SmallMolecule2	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein171	Complex19	
+BiochemicalReaction9	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex18	Complex19	

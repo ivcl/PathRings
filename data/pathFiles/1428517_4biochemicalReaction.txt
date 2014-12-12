@@ -1,0 +1,202 @@
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	Pyruvate + NADH + H+ <=> (S)-Lactate + NAD+	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction10	citrate <=> isocitrate	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction11	isocitrate <=> citrate	SmallMolecule24	SmallMolecule23	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule10	SmallMolecule25	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule24	SmallMolecule12	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule24	SmallMolecule13	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction12	isocitrate + NAD+ => alpha-ketoglutarate + CO2 + NADH + H+ [IDH3]	SmallMolecule24	SmallMolecule9	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule27	SmallMolecule25	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule24	SmallMolecule28	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule27	SmallMolecule12	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule24	SmallMolecule12	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule27	SmallMolecule9	
+BiochemicalReaction13	isocitrate + NADP+ => alpha-ketoglutarate + CO2 + NADPH + H+ [IDH2]	SmallMolecule24	SmallMolecule9	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule2	SmallMolecule27	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule10	SmallMolecule27	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule28	SmallMolecule27	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule28	SmallMolecule13	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule28	SmallMolecule9	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction14	NADPH + NAD+ + H+ [cytosol] => NADP+ + NADH + H+ [mitochondrial matrix]	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule25	SmallMolecule12	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule25	SmallMolecule13	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule29	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule29	
+BiochemicalReaction15	alpha-ketoglutarate + CoASH + NAD+ => succinyl-CoA + CO2 + NADH + H+	SmallMolecule25	SmallMolecule29	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule20	SmallMolecule32	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule29	SmallMolecule32	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule31	SmallMolecule33	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule29	SmallMolecule33	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule20	SmallMolecule33	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule31	SmallMolecule11	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule29	SmallMolecule11	
+BiochemicalReaction16	GDP + Orthophosphate + Succinyl-CoA <=> GTP + Succinate + CoA	SmallMolecule20	SmallMolecule11	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule18	SmallMolecule32	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule20	SmallMolecule32	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule29	SmallMolecule32	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule29	SmallMolecule11	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule20	SmallMolecule11	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule18	SmallMolecule11	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule29	SmallMolecule17	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule20	SmallMolecule17	
+BiochemicalReaction17	ADP + Orthophosphate + Succinyl-CoA <=> ATP + Succinate + CoA	SmallMolecule18	SmallMolecule17	
+BiochemicalReaction18	Succinate <=> Fumarate (with FAD redox reaction on enzyme)	SmallMolecule32	SmallMolecule34	
+BiochemicalReaction19	Fumarate + H2O <=> (S)-Malate	SmallMolecule19	SmallMolecule36	
+BiochemicalReaction19	Fumarate + H2O <=> (S)-Malate	SmallMolecule34	SmallMolecule36	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	lactate + H+ [cytosol] <=> lactate + H+ [extracellular]	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction20	(S)-Malate <=> Fumarate + H2O	SmallMolecule36	SmallMolecule19	
+BiochemicalReaction20	(S)-Malate <=> Fumarate + H2O	SmallMolecule36	SmallMolecule34	
+BiochemicalReaction21	(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+	SmallMolecule10	SmallMolecule22	
+BiochemicalReaction21	(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+	SmallMolecule36	SmallMolecule22	
+BiochemicalReaction21	(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+	SmallMolecule36	SmallMolecule13	
+BiochemicalReaction21	(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction21	(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+	SmallMolecule36	SmallMolecule9	
+BiochemicalReaction21	(S)-Malate + NAD+ <=> Oxaloacetate + NADH + H+	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction22	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule22	SmallMolecule10	
+BiochemicalReaction22	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction22	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction22	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule9	SmallMolecule36	
+BiochemicalReaction22	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule13	SmallMolecule36	
+BiochemicalReaction22	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule22	SmallMolecule36	
+BiochemicalReaction23	(S)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule16	SmallMolecule25	
+BiochemicalReaction23	(S)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule37	SmallMolecule25	
+BiochemicalReaction23	(S)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule37	SmallMolecule38	
+BiochemicalReaction23	(S)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule16	SmallMolecule38	
+BiochemicalReaction24	(R)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule16	SmallMolecule25	
+BiochemicalReaction24	(R)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule39	SmallMolecule25	
+BiochemicalReaction24	(R)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule39	SmallMolecule38	
+BiochemicalReaction24	(R)-2-hydroxyglutarate + FAD => 2-oxoglutarate + FADH2	SmallMolecule16	SmallMolecule38	
+BiochemicalReaction25	(R)-2-hydroxyglutarate + succinate semialdehyde <=> 2-oxoglutarate + 4-hydroxybutyrate	SmallMolecule42	SmallMolecule25	
+BiochemicalReaction25	(R)-2-hydroxyglutarate + succinate semialdehyde <=> 2-oxoglutarate + 4-hydroxybutyrate	SmallMolecule39	SmallMolecule25	
+BiochemicalReaction25	(R)-2-hydroxyglutarate + succinate semialdehyde <=> 2-oxoglutarate + 4-hydroxybutyrate	SmallMolecule39	SmallMolecule43	
+BiochemicalReaction25	(R)-2-hydroxyglutarate + succinate semialdehyde <=> 2-oxoglutarate + 4-hydroxybutyrate	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction26	2-oxoglutarate + 4-hydroxybutyrate <=> (R)-2-hydroxyglutarate + succinate semialdehyde	SmallMolecule25	SmallMolecule42	
+BiochemicalReaction26	2-oxoglutarate + 4-hydroxybutyrate <=> (R)-2-hydroxyglutarate + succinate semialdehyde	SmallMolecule43	SmallMolecule42	
+BiochemicalReaction26	2-oxoglutarate + 4-hydroxybutyrate <=> (R)-2-hydroxyglutarate + succinate semialdehyde	SmallMolecule43	SmallMolecule39	
+BiochemicalReaction26	2-oxoglutarate + 4-hydroxybutyrate <=> (R)-2-hydroxyglutarate + succinate semialdehyde	SmallMolecule25	SmallMolecule39	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule13	SmallMolecule45	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule9	SmallMolecule45	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule44	SmallMolecule10	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule9	SmallMolecule46	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction27	NADH enters the respiratory chain at Complex I	SmallMolecule13	SmallMolecule46	
+BiochemicalReaction28	Transfer of electrons through the succinate dehydrogenase complex	Complex50	Complex34	
+BiochemicalReaction28	Transfer of electrons through the succinate dehydrogenase complex	SmallMolecule44	Complex34	
+BiochemicalReaction28	Transfer of electrons through the succinate dehydrogenase complex	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction28	Transfer of electrons through the succinate dehydrogenase complex	Complex50	SmallMolecule46	
+BiochemicalReaction29	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	SmallMolecule38	Complex53	
+BiochemicalReaction29	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	Complex52	Complex53	
+BiochemicalReaction29	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	Complex52	SmallMolecule16	
+BiochemicalReaction29	Reducing equivalents from beta-oxidation of fatty acids transfer to ETF	SmallMolecule38	SmallMolecule16	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule6	SmallMolecule2	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule7	SmallMolecule2	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction3	lactate + H+ [extracellular] <=> lactate + H+ [cytosol]	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction30	Transfer of electrons from ETF to ubiquinone by ETF-QO	Complex53	SmallMolecule46	
+BiochemicalReaction30	Transfer of electrons from ETF to ubiquinone by ETF-QO	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction30	Transfer of electrons from ETF to ubiquinone by ETF-QO	SmallMolecule44	Complex52	
+BiochemicalReaction30	Transfer of electrons from ETF to ubiquinone by ETF-QO	Complex53	Complex52	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule9	SmallMolecule45	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	Complex54	SmallMolecule45	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule46	SmallMolecule45	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule46	Complex55	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	Complex54	Complex55	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule44	Complex55	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule9	Complex55	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule46	SmallMolecule44	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	Complex54	SmallMolecule44	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule44	SmallMolecule44	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule9	SmallMolecule44	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule46	SmallMolecule46	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	Complex54	SmallMolecule46	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction31	Electron transfer from ubiquinol to cytochrome c of complex III	SmallMolecule9	SmallMolecule46	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule52	SmallMolecule45	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	Complex55	SmallMolecule45	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule9	SmallMolecule45	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule9	SmallMolecule19	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	Complex55	SmallMolecule19	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule52	SmallMolecule19	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule9	Complex54	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	Complex55	Complex54	
+BiochemicalReaction32	Electron transfer from reduced cytochrome c to molecular oxygen	SmallMolecule52	Complex54	
+BiochemicalReaction33	ADP and Pi bind to ATPase	Complex62	Complex65	
+BiochemicalReaction33	ADP and Pi bind to ATPase	SmallMolecule18	Complex65	
+BiochemicalReaction33	ADP and Pi bind to ATPase	SmallMolecule20	Complex65	
+BiochemicalReaction34	ATP is synthesized from ADP and Pi by ATPase	Complex65	Complex66	
+BiochemicalReaction34	ATP is synthesized from ADP and Pi by ATPase	Complex65	SmallMolecule19	
+BiochemicalReaction35	Enzyme-bound ATP is released	SmallMolecule45	Complex62	
+BiochemicalReaction35	Enzyme-bound ATP is released	Complex66	Complex62	
+BiochemicalReaction35	Enzyme-bound ATP is released	Complex66	SmallMolecule9	
+BiochemicalReaction35	Enzyme-bound ATP is released	SmallMolecule45	SmallMolecule9	
+BiochemicalReaction35	Enzyme-bound ATP is released	Complex66	SmallMolecule17	
+BiochemicalReaction35	Enzyme-bound ATP is released	SmallMolecule45	SmallMolecule17	
+BiochemicalReaction36	FA anion diffuses laterally to UCP	Complex67	Complex68	
+BiochemicalReaction36	FA anion diffuses laterally to UCP	SmallMolecule54	Complex68	
+BiochemicalReaction37	FA anion flip-flops to the opposite surface	Complex68	Complex69	
+BiochemicalReaction38	The FA anion diffuses away laterally from UCP	Complex69	SmallMolecule55	
+BiochemicalReaction38	The FA anion diffuses away laterally from UCP	Complex69	Complex67	
+BiochemicalReaction39	FA anion picks up a proton	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction39	FA anion picks up a proton	SmallMolecule45	SmallMolecule56	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule5	SmallMolecule3	
+BiochemicalReaction4	(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction40	FA spontaneously flip-flops back to the matrix side	SmallMolecule56	SmallMolecule57	
+BiochemicalReaction41	The proton is delivered to the matrix side	SmallMolecule57	SmallMolecule54	
+BiochemicalReaction41	The proton is delivered to the matrix side	SmallMolecule57	SmallMolecule9	
+BiochemicalReaction42	Protons are translocated from the intermembrane space to the matrix	SmallMolecule45	SmallMolecule9	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction5	PYR + H+ (cytosol) => PYR + H+ (mitochondrial matrix)	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule8	SmallMolecule13	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction6	pyruvate + CoASH + NAD+ => acetylCoA + CO2 + NADH + H+	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	Complex13	SmallMolecule18	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	SmallMolecule17	Complex18	
+BiochemicalReaction7	Inactivation of PDC by phosphorylation of PDC E1 alpha component	Complex13	Complex18	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	Complex18	SmallMolecule20	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	SmallMolecule19	Complex13	
+BiochemicalReaction8	Activation of PDC by dephosphorylation of phospho-E1 alpha component	Complex18	Complex13	
+BiochemicalReaction9	Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction9	Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA	SmallMolecule19	SmallMolecule23	
+BiochemicalReaction9	Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA	SmallMolecule14	SmallMolecule23	
+BiochemicalReaction9	Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA	SmallMolecule14	SmallMolecule11	
+BiochemicalReaction9	Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA	SmallMolecule19	SmallMolecule11	
+BiochemicalReaction9	Acetyl-CoA + H2O + Oxaloacetate => Citrate + CoA	SmallMolecule22	SmallMolecule11	

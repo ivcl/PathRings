@@ -1,0 +1,25 @@
+BiochemicalReaction1	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule1	Protein9	
+BiochemicalReaction1	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein1	Protein9	
+BiochemicalReaction1	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein1	SmallMolecule2	
+BiochemicalReaction1	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	A glucuronate moiety is added to chondroitin	SmallMolecule3	Protein20	
+BiochemicalReaction2	A glucuronate moiety is added to chondroitin	Protein9	Protein20	
+BiochemicalReaction2	A glucuronate moiety is added to chondroitin	Protein9	SmallMolecule2	
+BiochemicalReaction2	A glucuronate moiety is added to chondroitin	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	GalNAc is added to chondroitin	Protein20	Protein33	
+BiochemicalReaction3	GalNAc is added to chondroitin	SmallMolecule1	Protein33	
+BiochemicalReaction3	GalNAc is added to chondroitin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	GalNAc is added to chondroitin	Protein20	SmallMolecule2	
+BiochemicalReaction4	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein33	Protein42	
+BiochemicalReaction4	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule4	Protein42	
+BiochemicalReaction4	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction4	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein33	SmallMolecule5	
+BiochemicalReaction5	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein42	Protein55	
+BiochemicalReaction5	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule4	Protein55	
+BiochemicalReaction5	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction5	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein42	SmallMolecule5	
+BiochemicalReaction6	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein33	Protein64	
+BiochemicalReaction6	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule4	Protein64	
+BiochemicalReaction6	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction6	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein33	SmallMolecule5	
+BiochemicalReaction7	CSPG is secreted	PhysicalEntity1	PhysicalEntity2	

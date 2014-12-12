@@ -1,0 +1,26 @@
+BiochemicalReaction1	arginine + glycine => ornithine + guanidoacetate	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	arginine + glycine => ornithine + guanidoacetate	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	arginine + glycine => ornithine + guanidoacetate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	arginine + glycine => ornithine + guanidoacetate	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction2	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction2	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction3	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction3	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction3	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction3	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction4	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction4	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction4	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction4	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction5	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction5	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction5	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction5	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule11	SmallMolecule15	
+BiochemicalReaction6	Creatine transport across the plasma membrane	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction6	Creatine transport across the plasma membrane	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction6	Creatine transport across the plasma membrane	SmallMolecule17	SmallMolecule9	
+BiochemicalReaction6	Creatine transport across the plasma membrane	SmallMolecule16	SmallMolecule9	

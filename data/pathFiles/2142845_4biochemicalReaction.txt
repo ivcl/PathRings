@@ -1,0 +1,27 @@
+BiochemicalReaction1	HAS1,2,3 mediate the polymerisation of HA	SmallMolecule1	PhysicalEntity1	
+BiochemicalReaction10	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction10	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction10	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction10	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction11	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction11	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction11	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction11	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction2	Growing HA is extruded from the cell by ABCC5	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction3	Receptor-mediated uptake of HA	Protein6	Complex1	
+BiochemicalReaction3	Receptor-mediated uptake of HA	PhysicalEntity2	Complex1	
+BiochemicalReaction3	Receptor-mediated uptake of HA	Protein11	Complex1	
+BiochemicalReaction4	HYAL2 interacts with NHE1 to create an acidic environment	Protein12	Complex2	
+BiochemicalReaction4	HYAL2 interacts with NHE1 to create an acidic environment	Complex1	Complex2	
+BiochemicalReaction5	Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments	Complex2	Complex2	
+BiochemicalReaction5	Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments	Complex2	PhysicalEntity3	
+BiochemicalReaction6	20kDa HA fragments are translocated to lysosomes	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction7	Hyaluronidase 1 (HYAL1) hydrolyses HA from 20kDa to 800Da fragments	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction8	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	SmallMolecule2	PhysicalEntity6	
+BiochemicalReaction8	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction8	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	PhysicalEntity5	SmallMolecule3	
+BiochemicalReaction8	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction9	HEXA,B cleave the terminal GalNAc from small HA fragments	PhysicalEntity6	SmallMolecule4	
+BiochemicalReaction9	HEXA,B cleave the terminal GalNAc from small HA fragments	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction9	HEXA,B cleave the terminal GalNAc from small HA fragments	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction9	HEXA,B cleave the terminal GalNAc from small HA fragments	PhysicalEntity6	SmallMolecule5	

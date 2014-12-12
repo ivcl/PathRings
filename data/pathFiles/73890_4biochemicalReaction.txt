@@ -1,0 +1,81 @@
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	Complex1	SmallMolecule2	
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	Complex1	Complex2	
+BiochemicalReaction1	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	SmallMolecule1	Complex2	
+BiochemicalReaction10	Association of gamma-H2AX with NBS1 	Complex3	Complex8	
+BiochemicalReaction10	Association of gamma-H2AX with NBS1 	Protein8	Complex8	
+BiochemicalReaction11	Formation of RAD50:MRE11 complex	Protein12	Complex9	
+BiochemicalReaction11	Formation of RAD50:MRE11 complex	Protein13	Complex9	
+BiochemicalReaction12	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Complex9	Complex10	
+BiochemicalReaction12	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Protein8	Complex10	
+BiochemicalReaction13	Association of MRN with sites of DSB 	Complex8	Complex11	
+BiochemicalReaction13	Association of MRN with sites of DSB 	Complex10	Complex11	
+BiochemicalReaction14	BRCA1 associates with 53BP1at the site of DNA double-strand break	Protein5	Complex12	
+BiochemicalReaction14	BRCA1 associates with 53BP1at the site of DNA double-strand break	Complex7	Complex12	
+BiochemicalReaction15	Resection of double-strand break ends	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction16	Association of  RPA complexes with ssDNA	PhysicalEntity3	Complex14	
+BiochemicalReaction16	Association of  RPA complexes with ssDNA	Complex13	Complex14	
+BiochemicalReaction17	Association of RAD51 with BRCA2	Protein17	Complex15	
+BiochemicalReaction17	Association of RAD51 with BRCA2	Protein18	Complex15	
+BiochemicalReaction18	Formation of RAD52 heptameric ring structure complexes on ssDNA	Complex14	Complex16	
+BiochemicalReaction18	Formation of RAD52 heptameric ring structure complexes on ssDNA	Protein19	Complex16	
+BiochemicalReaction19	Association of RAD52 with the RPA complex	Complex13	Complex18	
+BiochemicalReaction19	Association of RAD52 with the RPA complex	Protein19	Complex18	
+BiochemicalReaction2	Dissociation of dimeric phospho-ATM complexes	Complex2	Protein2	
+BiochemicalReaction20	Association of RAD52 with ssDNA at resected ends of double-strand break 	PhysicalEntity2	Complex19	
+BiochemicalReaction20	Association of RAD52 with ssDNA at resected ends of double-strand break 	Protein19	Complex19	
+BiochemicalReaction21	Association of RAD51 with RAD52:DNA double-strand break ends	Protein18	Complex20	
+BiochemicalReaction21	Association of RAD51 with RAD52:DNA double-strand break ends	Complex19	Complex20	
+BiochemicalReaction22	Association of RAD51 with the RPA complex	Complex14	Complex21	
+BiochemicalReaction22	Association of RAD51 with the RPA complex	Protein18	Complex21	
+BiochemicalReaction23	Association of RAD51 with the resected ends of the DNA double-strand break	PhysicalEntity2	Complex22	
+BiochemicalReaction23	Association of RAD51 with the resected ends of the DNA double-strand break	Protein18	Complex22	
+BiochemicalReaction24	Strand exchange/Branch migration	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction25	DNA repair synthesis 	PhysicalEntity5	PhysicalEntity7	
+BiochemicalReaction25	DNA repair synthesis 	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction26	Ligation of DNA and formation of Holliday structures following repair synthesis	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction27	Cleavage of Holliday junctions	PhysicalEntity8	PhysicalEntity9	
+BiochemicalReaction28	Dissociation of the extended strands 	PhysicalEntity7	PhysicalEntity10	
+BiochemicalReaction28	Dissociation of the extended strands 	PhysicalEntity7	PhysicalEntity11	
+BiochemicalReaction29	Fill-in DNA synthesis	PhysicalEntity10	PhysicalEntity12	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	Protein3	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	Protein3	Protein4	
+BiochemicalReaction3	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	SmallMolecule1	Protein4	
+BiochemicalReaction30	Association of Ku heterodimer with ends of DNA double-strand break	Complex23	Complex24	
+BiochemicalReaction30	Association of Ku heterodimer with ends of DNA double-strand break	PhysicalEntity1	Complex24	
+BiochemicalReaction31	Association of DNA-PKcs with Ku-bound ends of DNA double-strand breaks	Protein24	Complex25	
+BiochemicalReaction31	Association of DNA-PKcs with Ku-bound ends of DNA double-strand breaks	Complex24	Complex25	
+BiochemicalReaction32	Autophosphorylation of DNA-PKcs	Protein24	SmallMolecule2	
+BiochemicalReaction32	Autophosphorylation of DNA-PKcs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction32	Autophosphorylation of DNA-PKcs	SmallMolecule1	Protein25	
+BiochemicalReaction32	Autophosphorylation of DNA-PKcs	Protein24	Protein25	
+BiochemicalReaction33	Synapsis, or interaction between two DNA-PK:DNA complexes at opposing ends of DNA DSB 	Complex25	Complex26	
+BiochemicalReaction34	Removal of 3'-phosphoglycolate (PG)  moiety from DSB ends	Complex26	Complex27	
+BiochemicalReaction35	Removal of  3'-phosphate moiety from DSB ends	Complex26	Complex27	
+BiochemicalReaction36	Association of  the XRCC4:DNA ligase IV complex with the DNA-PK:DNA synaptic complex	Complex28	Complex29	
+BiochemicalReaction36	Association of  the XRCC4:DNA ligase IV complex with the DNA-PK:DNA synaptic complex	Complex27	Complex29	
+BiochemicalReaction37	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex29	Protein28	
+BiochemicalReaction37	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex29	Protein24	
+BiochemicalReaction37	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex29	Protein22	
+BiochemicalReaction37	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex29	PhysicalEntity15	
+BiochemicalReaction37	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex29	Protein29	
+BiochemicalReaction37	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex29	Protein23	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	Protein5	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	SmallMolecule1	Protein6	
+BiochemicalReaction4	Phosphorylation of  BRCA1 at multiple sites by ATM	Protein5	Protein6	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	Protein8	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	Protein8	Protein9	
+BiochemicalReaction5	Phosphorylation of  NBS1 by ATM	SmallMolecule1	Protein9	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	SmallMolecule1	Protein10	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	Protein7	Protein10	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	Protein7	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	MDC1/NFBD1 associates with gamma H2AX at nuclear foci	Complex3	Complex4	
+BiochemicalReaction7	MDC1/NFBD1 associates with gamma H2AX at nuclear foci	Protein7	Complex4	
+BiochemicalReaction8	phospho-ATM (Serine 1981) associates with DNA at the site of double-strand breaks	Protein2	Complex6	
+BiochemicalReaction8	phospho-ATM (Serine 1981) associates with DNA at the site of double-strand breaks	Complex5	Complex6	
+BiochemicalReaction9	53BP1 associates with gamma H2AX at nuclear foci	Protein11	Complex7	
+BiochemicalReaction9	53BP1 associates with gamma H2AX at nuclear foci	Complex4	Complex7	

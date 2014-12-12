@@ -1,0 +1,38 @@
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex2	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex2	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	SmallMolecule1	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex1	Complex3	
+BiochemicalReaction10	ROCK activation by Rho	Protein22	Complex22	
+BiochemicalReaction10	ROCK activation by Rho	Complex21	Complex22	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	Complex24	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	Complex23	Complex24	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	Complex23	SmallMolecule2	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	Protein37	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	Protein37	Protein40	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	SmallMolecule1	Protein40	
+BiochemicalReaction2	Active Rac1 interacts with Plexin-B1:Sema4D	Complex5	Complex6	
+BiochemicalReaction2	Active Rac1 interacts with Plexin-B1:Sema4D	Complex3	Complex6	
+BiochemicalReaction3	Rnd1 interacts with Plexin-B1:Sema4D	Complex7	Complex8	
+BiochemicalReaction3	Rnd1 interacts with Plexin-B1:Sema4D	Complex3	Complex8	
+BiochemicalReaction4	Inactivation of R-Ras by Sema4D-Plexin-B1 GAP activity	Complex9	SmallMolecule5	
+BiochemicalReaction4	Inactivation of R-Ras by Sema4D-Plexin-B1 GAP activity	Complex9	Complex10	
+BiochemicalReaction5	p190RhoGAP binds Plexin-B1	Complex8	Complex11	
+BiochemicalReaction5	p190RhoGAP binds Plexin-B1	Protein8	Complex11	
+BiochemicalReaction6	Inactivation of Rho-GTP by p190RhoGAP	Complex12	SmallMolecule5	
+BiochemicalReaction6	Inactivation of Rho-GTP by p190RhoGAP	Complex12	Complex13	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex14	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex14	Complex15	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	Complex15	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	Complex15	
+BiochemicalReaction8	LARG and PDZ-RhoGEF binds to Plexin-B1	Complex17	Complex19	
+BiochemicalReaction8	LARG and PDZ-RhoGEF binds to Plexin-B1	Protein16	Complex19	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	Complex21	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	Complex20	Complex21	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	Complex20	SmallMolecule8	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	SmallMolecule8	

@@ -1,0 +1,9 @@
+Complex1	FASL:FAS Receptor monomer	plasma membrane	Reactome DB_ID: 76564	Protein1	
+Complex1	FASL:FAS Receptor monomer	plasma membrane	Reactome DB_ID: 76564	Protein2	
+Complex2	FASL:FAS Receptor Trimer	plasma membrane	Reactome DB_ID: 76195	Complex1	
+Complex3	FASL:FAS Receptor Trimer:FADD	plasma membrane	Reactome DB_ID: 43124	Complex2	
+Complex3	FASL:FAS Receptor Trimer:FADD	plasma membrane	Reactome DB_ID: 43124	Protein3	
+Complex4	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	plasma membrane	Reactome DB_ID: 75114	Complex3	
+Complex4	FASL:FAS Receptor Trimer:FADD:pro-Caspase-8 DISC	plasma membrane	Reactome DB_ID: 75114	Protein4	
+Complex5	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10	plasma membrane	Reactome DB_ID: 141315	Protein6	
+Complex5	FASL:FAS Receptor Trimer:FADD:pro-Caspase-10	plasma membrane	Reactome DB_ID: 141315	Complex3	

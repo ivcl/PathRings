@@ -1,0 +1,19 @@
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	SmallMolecule1	Complex2	
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	Complex1	Complex2	
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	Complex1	SmallMolecule2	
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Coat Assembly	Complex2	Complex4	
+BiochemicalReaction2	Coat Assembly	Complex3	Complex4	
+BiochemicalReaction3	Loss of Sar1b GTPase	Complex4	SmallMolecule3	
+BiochemicalReaction3	Loss of Sar1b GTPase	Complex4	Complex3	
+BiochemicalReaction3	Loss of Sar1b GTPase	Complex4	Complex1	
+BiochemicalReaction4	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein16	Complex6	
+BiochemicalReaction4	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Complex4	Complex6	
+BiochemicalReaction4	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein17	Complex6	
+BiochemicalReaction5	Vesicle Budding	Complex6	Complex8	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	SmallMolecule3	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein16	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein10	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein1	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein17	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein4	

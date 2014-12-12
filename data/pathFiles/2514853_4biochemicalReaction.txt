@@ -1,0 +1,13 @@
+BiochemicalReaction1	CK2 phosphorylates condensin I subunits	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	CK2 phosphorylates condensin I subunits	Complex1	SmallMolecule2	
+BiochemicalReaction1	CK2 phosphorylates condensin I subunits	Complex1	Complex2	
+BiochemicalReaction1	CK2 phosphorylates condensin I subunits	SmallMolecule1	Complex2	
+BiochemicalReaction2	Dephosphorylation of CK2-modified condensin I	Complex2	SmallMolecule4	
+BiochemicalReaction2	Dephosphorylation of CK2-modified condensin I	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Dephosphorylation of CK2-modified condensin I	SmallMolecule3	Complex1	
+BiochemicalReaction2	Dephosphorylation of CK2-modified condensin I	Complex2	Complex1	
+BiochemicalReaction3	CDK1 phosphorylates condensin I	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	CDK1 phosphorylates condensin I	Complex1	SmallMolecule2	
+BiochemicalReaction3	CDK1 phosphorylates condensin I	Complex1	Complex4	
+BiochemicalReaction3	CDK1 phosphorylates condensin I	SmallMolecule1	Complex4	
+BiochemicalReaction4	Phosphorylated condensin I promotes condensation of prometaphase chromosomes	PhysicalEntity2	PhysicalEntity3	

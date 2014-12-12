@@ -1,0 +1,70 @@
+BiochemicalReaction1	Recruitment of PI3K to plasmamembrane	Complex1	Complex2	
+BiochemicalReaction1	Recruitment of PI3K to plasmamembrane	Protein7	Complex2	
+BiochemicalReaction10	Phosphorylation of CARMA1	Complex15	SmallMolecule3	
+BiochemicalReaction10	Phosphorylation of CARMA1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction10	Phosphorylation of CARMA1	SmallMolecule2	Complex16	
+BiochemicalReaction10	Phosphorylation of CARMA1	Complex15	Complex16	
+BiochemicalReaction11	Oligomerization of CARMA1	Protein58	Complex17	
+BiochemicalReaction11	Oligomerization of CARMA1	Complex16	Complex17	
+BiochemicalReaction12	Interaction of Bcl10 to CARMA1	Complex17	Complex18	
+BiochemicalReaction12	Interaction of Bcl10 to CARMA1	Protein59	Complex18	
+BiochemicalReaction13	Phosphorylation of Bcl10	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction13	Phosphorylation of Bcl10	Complex18	SmallMolecule3	
+BiochemicalReaction13	Phosphorylation of Bcl10	Complex18	Complex19	
+BiochemicalReaction13	Phosphorylation of Bcl10	SmallMolecule2	Complex19	
+BiochemicalReaction14	Oligomerization of Bcl10	Complex19	Complex20	
+BiochemicalReaction14	Oligomerization of Bcl10	Protein60	Complex20	
+BiochemicalReaction15	Interaction and oligomerization of MALT1 to Bcl10	Complex20	Complex22	
+BiochemicalReaction15	Interaction and oligomerization of MALT1 to Bcl10	Complex21	Complex22	
+BiochemicalReaction16	Translocation of TRAF6 to CBM complex	Protein63	Complex23	
+BiochemicalReaction16	Translocation of TRAF6 to CBM complex	Complex22	Complex23	
+BiochemicalReaction17	Auto-ubiquitination of TRAF6	Complex23	Complex24	
+BiochemicalReaction17	Auto-ubiquitination of TRAF6	Complex24	Complex24	
+BiochemicalReaction17	Auto-ubiquitination of TRAF6	PhysicalEntity2	Complex24	
+BiochemicalReaction17	Auto-ubiquitination of TRAF6	PhysicalEntity2	Complex25	
+BiochemicalReaction17	Auto-ubiquitination of TRAF6	Complex24	Complex25	
+BiochemicalReaction17	Auto-ubiquitination of TRAF6	Complex23	Complex25	
+BiochemicalReaction18	Activation of TAK1-TAB2 complex	Complex26	SmallMolecule3	
+BiochemicalReaction18	Activation of TAK1-TAB2 complex	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction18	Activation of TAK1-TAB2 complex	Complex25	SmallMolecule3	
+BiochemicalReaction18	Activation of TAK1-TAB2 complex	Complex25	Complex27	
+BiochemicalReaction18	Activation of TAK1-TAB2 complex	SmallMolecule2	Complex27	
+BiochemicalReaction18	Activation of TAK1-TAB2 complex	Complex26	Complex27	
+BiochemicalReaction19	Activation of IKK complex	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction19	Activation of IKK complex	Complex29	SmallMolecule3	
+BiochemicalReaction19	Activation of IKK complex	Complex29	Complex30	
+BiochemicalReaction19	Activation of IKK complex	SmallMolecule2	Complex30	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction20	Ubiquitination of NEMO by TRAF6	Complex30	Complex24	
+BiochemicalReaction20	Ubiquitination of NEMO by TRAF6	Complex24	Complex24	
+BiochemicalReaction20	Ubiquitination of NEMO by TRAF6	PhysicalEntity2	Complex24	
+BiochemicalReaction20	Ubiquitination of NEMO by TRAF6	PhysicalEntity2	Complex31	
+BiochemicalReaction20	Ubiquitination of NEMO by TRAF6	Complex24	Complex31	
+BiochemicalReaction20	Ubiquitination of NEMO by TRAF6	Complex30	Complex31	
+BiochemicalReaction21	Activation of NF-kB complex	Complex32	SmallMolecule3	
+BiochemicalReaction21	Activation of NF-kB complex	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction21	Activation of NF-kB complex	SmallMolecule2	Complex33	
+BiochemicalReaction21	Activation of NF-kB complex	Complex32	Complex33	
+BiochemicalReaction21	Activation of NF-kB complex	SmallMolecule2	Protein78	
+BiochemicalReaction21	Activation of NF-kB complex	Complex32	Protein78	
+BiochemicalReaction3	Hydrolysis of PIP3 to PI(3,4)P2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	Hydrolysis of PIP3 to PI(3,4)P2	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction4	Hydrolysis of PIP3 to PIP2	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction4	Hydrolysis of PIP3 to PIP2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction5	Translocation of PDK1 to Plasma membrane	Protein10	Complex4	
+BiochemicalReaction5	Translocation of PDK1 to Plasma membrane	SmallMolecule8	Complex4	
+BiochemicalReaction6	Translocation of PKC theta to plasma membrane	Protein12	Complex5	
+BiochemicalReaction6	Translocation of PKC theta to plasma membrane	SmallMolecule9	Complex5	
+BiochemicalReaction7	Change of PKC theta conformation	Complex5	SmallMolecule3	
+BiochemicalReaction7	Change of PKC theta conformation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction7	Change of PKC theta conformation	SmallMolecule2	Complex6	
+BiochemicalReaction7	Change of PKC theta conformation	Complex5	Complex6	
+BiochemicalReaction8	Phosphorylation of PKC theta	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	Phosphorylation of PKC theta	Complex6	SmallMolecule3	
+BiochemicalReaction8	Phosphorylation of PKC theta	Complex6	Complex14	
+BiochemicalReaction8	Phosphorylation of PKC theta	SmallMolecule2	Complex14	
+BiochemicalReaction9	Translocation of CARMA1 to Plasma membrane	Complex4	Complex15	
+BiochemicalReaction9	Translocation of CARMA1 to Plasma membrane	Protein57	Complex15	

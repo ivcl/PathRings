@@ -1,0 +1,7 @@
+BiochemicalReaction1	eNOS:Caveolin-1 complex binds to Nostrin	Complex1	Complex4	
+BiochemicalReaction1	eNOS:Caveolin-1 complex binds to Nostrin	Complex2	Complex4	
+BiochemicalReaction2	eNOS:Caveolin-1:NOSTRIN complex binds dynamin-2	Complex4	Complex5	
+BiochemicalReaction2	eNOS:Caveolin-1:NOSTRIN complex binds dynamin-2	Protein4	Complex5	
+BiochemicalReaction3	eNOS:Caveolin-1:NOSTRIN:dynamin-2 complex binds N-WASP	Protein5	Complex6	
+BiochemicalReaction3	eNOS:Caveolin-1:NOSTRIN:dynamin-2 complex binds N-WASP	Complex5	Complex6	
+BiochemicalReaction4	NOSTRIN mediated translocation of eNOS from plasma membrane	Complex6	Complex7	

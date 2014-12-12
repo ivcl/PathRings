@@ -1,0 +1,99 @@
+BiochemicalReaction1	ROS oxidize thioredoxin and activate MAP3K5	Complex4	Protein5	
+BiochemicalReaction1	ROS oxidize thioredoxin and activate MAP3K5	SmallMolecule1	Protein5	
+BiochemicalReaction1	ROS oxidize thioredoxin and activate MAP3K5	SmallMolecule1	Protein4	
+BiochemicalReaction1	ROS oxidize thioredoxin and activate MAP3K5	Complex4	Protein4	
+BiochemicalReaction10	c-FOS activation by phospho ERK1/2	Protein49	SmallMolecule5	
+BiochemicalReaction10	c-FOS activation by phospho ERK1/2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction10	c-FOS activation by phospho ERK1/2	SmallMolecule4	Protein50	
+BiochemicalReaction10	c-FOS activation by phospho ERK1/2	Protein49	Protein50	
+BiochemicalReaction11	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein48	Complex8	
+BiochemicalReaction11	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein50	Complex8	
+BiochemicalReaction12	E2F1/2/3:DP1/2 binds EED gene promoter	Complex9	Complex10	
+BiochemicalReaction12	E2F1/2/3:DP1/2 binds EED gene promoter	Dna1	Complex10	
+BiochemicalReaction13	E2F1/2/3 stimulates EED transcription	Dna1	Protein56	
+BiochemicalReaction14	E2F1/2/3:DP1/2 binds EZH2 gene promoter	Complex9	Complex11	
+BiochemicalReaction14	E2F1/2/3:DP1/2 binds EZH2 gene promoter	Dna2	Complex11	
+BiochemicalReaction15	E2F1/2/3 stimulates EZH2 transcription	Dna2	Protein57	
+BiochemicalReaction16	E2F1/2/3:DP1/2 binds SUZ12 gene promoter	Complex9	Complex12	
+BiochemicalReaction16	E2F1/2/3:DP1/2 binds SUZ12 gene promoter	Dna3	Complex12	
+BiochemicalReaction17	E2F1/2/3 stimulates SUZ12 transcription	Dna3	Protein58	
+BiochemicalReaction18	Formation of PRC2-EZH2 complex	Protein56	Complex13	
+BiochemicalReaction18	Formation of PRC2-EZH2 complex	Protein59	Complex13	
+BiochemicalReaction18	Formation of PRC2-EZH2 complex	Protein60	Complex13	
+BiochemicalReaction18	Formation of PRC2-EZH2 complex	Protein57	Complex13	
+BiochemicalReaction18	Formation of PRC2-EZH2 complex	Protein58	Complex13	
+BiochemicalReaction19	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	Complex14	SmallMolecule7	
+BiochemicalReaction19	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction19	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	SmallMolecule6	Complex16	
+BiochemicalReaction19	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	Complex14	Complex16	
+BiochemicalReaction2	MAP3K5 phosphorylates MKK3 and MKK6	Protein10	Protein13	
+BiochemicalReaction2	MAP3K5 phosphorylates MKK3 and MKK6	SmallMolecule2	Protein13	
+BiochemicalReaction2	MAP3K5 phosphorylates MKK3 and MKK6	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	MAP3K5 phosphorylates MKK3 and MKK6	Protein10	SmallMolecule3	
+BiochemicalReaction20	PRC1.4 complex binds H3K27Me3 nucleosomes on CDKN2A promoter	Complex16	Complex19	
+BiochemicalReaction20	PRC1.4 complex binds H3K27Me3 nucleosomes on CDKN2A promoter	Complex18	Complex19	
+BiochemicalReaction21	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule4	Complex16	
+BiochemicalReaction21	p-MAPKAPK3 phosphorylates BMI1	Complex19	Complex16	
+BiochemicalReaction21	p-MAPKAPK3 phosphorylates BMI1	Complex19	SmallMolecule5	
+BiochemicalReaction21	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction21	p-MAPKAPK3 phosphorylates BMI1	Complex19	Complex20	
+BiochemicalReaction21	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule4	Complex20	
+BiochemicalReaction22	MAPKAPK2/3-mediated removal of PRC1.4 complex stimulates p14-ARF transcription	Complex16	Rna1	
+BiochemicalReaction23	ERK1/2-activated AP1 complex binds KDM6B promoter	Dna5	Complex22	
+BiochemicalReaction23	ERK1/2-activated AP1 complex binds KDM6B promoter	Complex8	Complex22	
+BiochemicalReaction24	AP-1 complex stimulates KDM6B transcription	Dna5	Complex23	
+BiochemicalReaction25	KDM6B demethylates H3K27me3 on p16-INK4A promoter	Complex16	SmallMolecule10	
+BiochemicalReaction25	KDM6B demethylates H3K27me3 on p16-INK4A promoter	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction25	KDM6B demethylates H3K27me3 on p16-INK4A promoter	SmallMolecule9	Complex14	
+BiochemicalReaction25	KDM6B demethylates H3K27me3 on p16-INK4A promoter	Complex16	Complex14	
+BiochemicalReaction26	Demethylation of H3K27Me3 by KDM6B stimulates p16-INK4A transcription, while binding of PRC1.4 complex to H3K27Me3 represses p16-INK4A transcription	Complex14	Rna2	
+BiochemicalReaction27	Translation of p16-INK4a mRNA is inhibited by miR-24	Rna2	Protein108	
+BiochemicalReaction28	Association of INK4A with Cdk4/6	Protein118	Complex27	
+BiochemicalReaction28	Association of INK4A with Cdk4/6	Protein122	Complex27	
+BiochemicalReaction29	Translation of p14-ARF mRNA is inhibited by miR-24	Rna1	Protein125	
+BiochemicalReaction3	Phosphorylated MKK3/MKK6 migrates to nucleus	Protein13	Protein16	
+BiochemicalReaction30	miR-24 binds p16-INK4a and p14-ARF mRNAs	Rna3	Complex24	
+BiochemicalReaction30	miR-24 binds p16-INK4a and p14-ARF mRNAs	Complex25	Complex24	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Complex28	Complex30	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Protein128	Complex30	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Protein128	Complex31	
+BiochemicalReaction31	MDM2 ubiquitinates TP53	Complex28	Complex31	
+BiochemicalReaction32	p14-ARF forms a ternary complex with MDM2 and TP53	Complex28	Complex32	
+BiochemicalReaction32	p14-ARF forms a ternary complex with MDM2 and TP53	Protein125	Complex32	
+BiochemicalReaction33	p14-ARF sequesters MDM2	Complex32	Complex33	
+BiochemicalReaction33	p14-ARF sequesters MDM2	Complex32	Complex29	
+BiochemicalReaction34	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	SmallMolecule4	Complex35	
+BiochemicalReaction34	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	Complex34	Complex35	
+BiochemicalReaction34	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	Complex34	SmallMolecule5	
+BiochemicalReaction34	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction35		Complex35	SmallMolecule5	
+BiochemicalReaction35		SmallMolecule4	SmallMolecule5	
+BiochemicalReaction35		SmallMolecule4	Complex36	
+BiochemicalReaction35		Complex35	Complex36	
+BiochemicalReaction36	MAPKAPK5 phosphorylates TP53	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction36	MAPKAPK5 phosphorylates TP53	Complex29	SmallMolecule5	
+BiochemicalReaction36	MAPKAPK5 phosphorylates TP53	Complex29	Complex37	
+BiochemicalReaction36	MAPKAPK5 phosphorylates TP53	SmallMolecule4	Complex37	
+BiochemicalReaction4	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex5	Complex6	
+BiochemicalReaction4	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule4	Complex6	
+BiochemicalReaction4	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction4	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex5	SmallMolecule5	
+BiochemicalReaction5		Complex6	SmallMolecule5	
+BiochemicalReaction5		SmallMolecule4	SmallMolecule5	
+BiochemicalReaction5		SmallMolecule4	Complex7	
+BiochemicalReaction5		Complex6	Complex7	
+BiochemicalReaction6	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	Protein31	SmallMolecule3	
+BiochemicalReaction6	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	SmallMolecule2	Protein32	
+BiochemicalReaction6	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	Protein31	Protein32	
+BiochemicalReaction7	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein33	SmallMolecule3	
+BiochemicalReaction7	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction7	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule2	Protein37	
+BiochemicalReaction7	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein33	Protein37	
+BiochemicalReaction8	Activated human JNKs migrate to nucleoplasm	Protein37	Protein43	
+BiochemicalReaction9	Activated JNKs phosphorylate c-JUN	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction9	Activated JNKs phosphorylate c-JUN	Protein47	SmallMolecule5	
+BiochemicalReaction9	Activated JNKs phosphorylate c-JUN	Protein47	Protein48	
+BiochemicalReaction9	Activated JNKs phosphorylate c-JUN	SmallMolecule4	Protein48	
+TemplateReaction1	RAS signaling promotes generation of reactive oxygen species (ROS)	NA	SmallMolecule1	
+TemplateReaction2	Expression of MINK1/TNIK is positively regulated by ROS	NA	Protein6	

@@ -1,0 +1,76 @@
+BiochemicalReaction1	Rhodopsin activation	Complex1	Complex2	
+BiochemicalReaction10	NMT1/2 transfer MYS to GNAT1	SmallMolecule16	Protein6	
+BiochemicalReaction10	NMT1/2 transfer MYS to GNAT1	Protein16	Protein6	
+BiochemicalReaction10	NMT1/2 transfer MYS to GNAT1	Protein16	SmallMolecule17	
+BiochemicalReaction10	NMT1/2 transfer MYS to GNAT1	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction11	FNTA:FNTB transfers FARN to GNGT1	SmallMolecule18	Protein7	
+BiochemicalReaction11	FNTA:FNTB transfers FARN to GNGT1	Protein22	Protein7	
+BiochemicalReaction11	FNTA:FNTB transfers FARN to GNGT1	Protein22	SmallMolecule19	
+BiochemicalReaction11	FNTA:FNTB transfers FARN to GNGT1	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction12	Unknown NAT N-acylates Gly in GNAT1	SmallMolecule20	SmallMolecule17	
+BiochemicalReaction12	Unknown NAT N-acylates Gly in GNAT1	Protein16	SmallMolecule17	
+BiochemicalReaction12	Unknown NAT N-acylates Gly in GNAT1	Protein16	Protein25	
+BiochemicalReaction12	Unknown NAT N-acylates Gly in GNAT1	SmallMolecule20	Protein25	
+BiochemicalReaction13	GRK1 phosphorylates MII to p-MII	Complex2	SmallMolecule25	
+BiochemicalReaction13	GRK1 phosphorylates MII to p-MII	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction13	GRK1 phosphorylates MII to p-MII	SmallMolecule24	Complex16	
+BiochemicalReaction13	GRK1 phosphorylates MII to p-MII	Complex2	Complex16	
+BiochemicalReaction14	RCVRN:Ca2+ binds to and inhibits GRK1	Protein27	Complex18	
+BiochemicalReaction14	RCVRN:Ca2+ binds to and inhibits GRK1	Complex17	Complex18	
+BiochemicalReaction15	SAG binds p-MII to form p-MII:SAG	Complex16	Complex19	
+BiochemicalReaction15	SAG binds p-MII to form p-MII:SAG	Protein29	Complex19	
+BiochemicalReaction16	atRAL dissociates from p-MII:SAG	Complex19	Complex20	
+BiochemicalReaction16	atRAL dissociates from p-MII:SAG	Complex19	SmallMolecule2	
+BiochemicalReaction17	p-MII:SAG dissociates to p-RHO and SAG	Complex20	Protein26	
+BiochemicalReaction17	p-MII:SAG dissociates to p-RHO and SAG	Complex20	Protein29	
+BiochemicalReaction18	PP2A dephosphorylates p-RHO to RHO	Protein26	SmallMolecule26	
+BiochemicalReaction18	PP2A dephosphorylates p-RHO to RHO	SmallMolecule5	SmallMolecule26	
+BiochemicalReaction18	PP2A dephosphorylates p-RHO to RHO	SmallMolecule5	Protein1	
+BiochemicalReaction18	PP2A dephosphorylates p-RHO to RHO	Protein26	Protein1	
+BiochemicalReaction19	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule5	SmallMolecule26	
+BiochemicalReaction19	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex9	SmallMolecule26	
+BiochemicalReaction19	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex9	Complex8	
+BiochemicalReaction19	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule5	Complex8	
+BiochemicalReaction19	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex9	Complex4	
+BiochemicalReaction19	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule5	Complex4	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	Complex3	SmallMolecule4	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	Complex3	Complex6	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	SmallMolecule3	Complex6	
+BiochemicalReaction20	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction20	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	Complex22	SmallMolecule25	
+BiochemicalReaction20	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	Complex22	Complex23	
+BiochemicalReaction20	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	SmallMolecule24	Complex23	
+BiochemicalReaction21	GNAT1-GDP binds to GNB1:GNGT1	Complex4	Complex3	
+BiochemicalReaction21	GNAT1-GDP binds to GNB1:GNGT1	Complex5	Complex3	
+BiochemicalReaction22	GUCA binds Ca2+ to form GUCA:Ca2+	Protein38	Complex24	
+BiochemicalReaction22	GUCA binds Ca2+ to form GUCA:Ca2+	SmallMolecule11	Complex24	
+BiochemicalReaction23	GUCYs converts GTP to cGMP	SmallMolecule3	SmallMolecule19	
+BiochemicalReaction23	GUCYs converts GTP to cGMP	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction24	cGMP binds CNG channel to form cGMP:CNG channel	Complex11	Complex10	
+BiochemicalReaction24	cGMP binds CNG channel to form cGMP:CNG channel	SmallMolecule6	Complex10	
+BiochemicalReaction25	CALM1:Ca2+ binds CNG channel	Complex11	Complex31	
+BiochemicalReaction25	CALM1:Ca2+ binds CNG channel	Complex30	Complex31	
+BiochemicalReaction3	Gt-GTP dissociates to GNAT1-GTP and GNB1:GNGT1	Complex6	Complex7	
+BiochemicalReaction3	Gt-GTP dissociates to GNAT1-GTP and GNB1:GNGT1	Complex6	Complex5	
+BiochemicalReaction4	GNAT1-GTP binds PDE6 and activates it	Complex8	Complex9	
+BiochemicalReaction4	GNAT1-GTP binds PDE6 and activates it	Complex7	Complex9	
+BiochemicalReaction5	PDE hydrolyses cGMP to GMP	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	PDE hydrolyses cGMP to GMP	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule12	SmallMolecule10	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule12	SmallMolecule8	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule11	SmallMolecule8	
+BiochemicalReaction8	cGMP dissociates from CNG channels	Complex10	Complex11	
+BiochemicalReaction8	cGMP dissociates from CNG channels	Complex10	SmallMolecule6	
+BiochemicalReaction9	METAP1/2 demethylates GNAT1	Protein15	SmallMolecule14	
+BiochemicalReaction9	METAP1/2 demethylates GNAT1	Protein15	Protein16	

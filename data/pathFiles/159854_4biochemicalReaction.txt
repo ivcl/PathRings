@@ -1,0 +1,122 @@
+BiochemicalReaction1	vitamin K epoxide -> vitamin K hydroquinone	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	vitamin K epoxide -> vitamin K hydroquinone	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction10	Pro-factor IX is transported from the endoplasmic reticulum to the Golgi apparatus	Protein3	Protein21	
+BiochemicalReaction11	Pro-factor VII is transported from the endoplasmic reticulum to the Golgi apparatus	Protein6	Protein22	
+BiochemicalReaction12	Pro-factor X is transported from the endoplasmic reticulum to the Golgi apparatus	Complex2	Complex5	
+BiochemicalReaction13	Pro-prothrombin is transported from the endoplasmic reticulum to the Golgi apparatus	Protein11	Protein25	
+BiochemicalReaction14	Pro-protein C is transported from the endoplasmic reticulum to the Golgi apparatus	Complex4	Complex6	
+BiochemicalReaction15	Pro-protein S is transported from the endoplasmic reticulum to the Golgi apparatus	Protein16	Protein28	
+BiochemicalReaction16	Pro-protein Z is transported from the endoplasmic reticulum to the Golgi apparatus	Protein18	Protein29	
+BiochemicalReaction17	Pro-GAS6 is transported from the endoplasmic reticulum to the Golgi apparatus	Protein20	Protein30	
+BiochemicalReaction18	pro-factor IX -> factor IX + factor IX propeptide	Protein21	Protein31	
+BiochemicalReaction18	pro-factor IX -> factor IX + factor IX propeptide	Protein21	Protein32	
+BiochemicalReaction19	pro-factor VII -> factor VII + factor VII propeptide	Protein22	Protein34	
+BiochemicalReaction19	pro-factor VII -> factor VII + factor VII propeptide	Protein22	Protein35	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	Protein2	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule5	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule4	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	Protein2	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule3	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	Protein2	SmallMolecule6	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction20	pro-factor X -> factor X + factor X propeptide	Complex5	Complex7	
+BiochemicalReaction20	pro-factor X -> factor X + factor X propeptide	Complex5	Protein37	
+BiochemicalReaction21	pro-prothrombin -> prothrombin + prothrombin propeptide	Protein25	Protein38	
+BiochemicalReaction21	pro-prothrombin -> prothrombin + prothrombin propeptide	Protein25	Protein39	
+BiochemicalReaction22	pro-protein C -> protein C + protein C propeptide	Complex6	Protein40	
+BiochemicalReaction22	pro-protein C -> protein C + protein C propeptide	Complex6	Complex8	
+BiochemicalReaction23	pro-protein S -> protein S + protein S propeptide	Protein28	Protein42	
+BiochemicalReaction23	pro-protein S -> protein S + protein S propeptide	Protein28	Protein43	
+BiochemicalReaction24	pro-protein Z -> protein Z + protein Z propeptide	Protein29	Protein44	
+BiochemicalReaction24	pro-protein Z -> protein Z + protein Z propeptide	Protein29	Protein45	
+BiochemicalReaction25	pro-GAS6 -> GAS6 + GAS6 propeptide	Protein30	Protein46	
+BiochemicalReaction25	pro-GAS6 -> GAS6 + GAS6 propeptide	Protein30	Protein47	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	Protein5	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	Protein5	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	Protein5	SmallMolecule6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	Complex1	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	Complex1	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	Complex2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	Complex2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	Complex1	Complex2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	Complex2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	Protein10	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	Protein10	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	Protein11	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	Protein11	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	Protein10	Protein11	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	Protein11	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	Complex3	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule5	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule4	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	Complex3	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule3	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	Complex3	SmallMolecule6	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	Protein15	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	Protein15	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	Protein16	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	Protein16	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	Protein15	Protein16	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	Protein16	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	Protein17	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule5	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule4	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	Protein17	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule3	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	Protein17	SmallMolecule6	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	Protein19	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	Protein19	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	Protein19	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule6	

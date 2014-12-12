@@ -1,0 +1,12 @@
+BiochemicalReaction1	RPA binds to the Flap	Complex1	Complex11	
+BiochemicalReaction1	RPA binds to the Flap	Complex10	Complex11	
+BiochemicalReaction2	Recruitment of Dna2 endonuclease	Complex11	Complex12	
+BiochemicalReaction2	Recruitment of Dna2 endonuclease	Protein13	Complex12	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	Protein13	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule1	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule2	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule3	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	Complex13	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule4	
+BiochemicalReaction3	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	Complex10	
+BiochemicalReaction4	Removal of remaining Flap	Complex13	Complex14	

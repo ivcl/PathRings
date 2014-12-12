@@ -1,0 +1,116 @@
+BiochemicalReaction1	Orc3 associates with Orc2 constitutively bound at origins of replication	Protein1	Complex2	
+BiochemicalReaction1	Orc3 associates with Orc2 constitutively bound at origins of replication	Complex1	Complex2	
+BiochemicalReaction10	Free CDT1 associates with CDC6:ORC:origin complexes	Protein74	Complex13	
+BiochemicalReaction10	Free CDT1 associates with CDC6:ORC:origin complexes	Complex9	Complex13	
+BiochemicalReaction11	Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)	Complex14	Complex15	
+BiochemicalReaction11	Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)	Complex13	Complex15	
+BiochemicalReaction12	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Complex15	Complex16	
+BiochemicalReaction12	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Protein81	Complex16	
+BiochemicalReaction13	Cdt1 is displaced from the pre-replicative complex.	Complex16	Protein74	
+BiochemicalReaction13	Cdt1 is displaced from the pre-replicative complex.	Complex16	Complex17	
+BiochemicalReaction14	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex19	Complex21	
+BiochemicalReaction14	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex17	Complex21	
+BiochemicalReaction14	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex20	Complex21	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	Complex14	SmallMolecule2	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	Complex22	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	Complex14	Complex22	
+BiochemicalReaction16	Cdc45 associates with the pre-replicative complex at the origin	Complex21	Complex23	
+BiochemicalReaction16	Cdc45 associates with the pre-replicative complex at the origin	Protein85	Complex23	
+BiochemicalReaction17	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex23	Complex25	
+BiochemicalReaction17	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex24	Complex25	
+BiochemicalReaction18	DNA polymerase alpha:primase binds at the origin	Complex26	Complex29	
+BiochemicalReaction18	DNA polymerase alpha:primase binds at the origin	Complex27	Complex29	
+BiochemicalReaction19	DNA polymerase epsilon binds at the origin	Complex28	Complex27	
+BiochemicalReaction19	DNA polymerase epsilon binds at the origin	PhysicalEntity1	Complex27	
+BiochemicalReaction2	Orc5 associates with Orc3:Orc2:origin complexes	Complex2	Complex3	
+BiochemicalReaction2	Orc5 associates with Orc3:Orc2:origin complexes	Protein3	Complex3	
+BiochemicalReaction20	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	Complex29	Complex30	
+BiochemicalReaction20	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	SmallMolecule4	Complex30	
+BiochemicalReaction20	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	SmallMolecule4	Complex28	
+BiochemicalReaction20	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer at the origin	Complex29	Complex28	
+BiochemicalReaction21	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	Complex30	Complex31	
+BiochemicalReaction21	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule8	Complex31	
+BiochemicalReaction21	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule9	Complex31	
+BiochemicalReaction21	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule10	Complex31	
+BiochemicalReaction21	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer at the origin	SmallMolecule11	Complex31	
+BiochemicalReaction22	Orc1 is phosphorylated by cyclin A/CDK2	Complex15	SmallMolecule2	
+BiochemicalReaction22	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Complex32	
+BiochemicalReaction22	Orc1 is phosphorylated by cyclin A/CDK2	Complex15	Complex32	
+BiochemicalReaction22	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Protein96	
+BiochemicalReaction22	Orc1 is phosphorylated by cyclin A/CDK2	Complex15	Protein96	
+BiochemicalReaction23	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein106	Complex35	
+BiochemicalReaction23	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein96	Complex35	
+BiochemicalReaction24	Ubiquitinated Orc1 enters the cytosol	Complex35	Complex36	
+BiochemicalReaction25	Ubiquitinated Orc1 is degraded by the proteasome	Complex36	Protein13	
+BiochemicalReaction26	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Cdc6 protein is phosphorylated by CDK	Protein8	SmallMolecule2	
+BiochemicalReaction26	Cdc6 protein is phosphorylated by CDK	Protein8	Protein122	
+BiochemicalReaction26	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	Protein122	
+BiochemicalReaction27	Phosphorylated Cdc6 is exported from the nucleus	Protein122	Protein123	
+BiochemicalReaction28	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein13	Complex37	
+BiochemicalReaction28	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein123	Complex37	
+BiochemicalReaction28	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule12	Complex37	
+BiochemicalReaction29	Ubiquitinated Cdc6 is degraded by the proteasome	Complex37	Protein13	
+BiochemicalReaction3	Orc4 associates with Orc5:Orc3:Orc2:origin complexes	Complex3	Complex4	
+BiochemicalReaction3	Orc4 associates with Orc5:Orc3:Orc2:origin complexes	Protein4	Complex4	
+BiochemicalReaction30	Rearrangement and mobilization of Mcm2-7	Complex14	Protein75	
+BiochemicalReaction30	Rearrangement and mobilization of Mcm2-7	Complex14	Protein76	
+BiochemicalReaction30	Rearrangement and mobilization of Mcm2-7	Complex14	Complex38	
+BiochemicalReaction30	Rearrangement and mobilization of Mcm2-7	Complex14	Protein78	
+BiochemicalReaction31	MCM2-7 mediated fork unwinding	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction32	MCM8 mediated fork unwinding	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction33	Formation of GINS complex	Protein125	Complex39	
+BiochemicalReaction33	Formation of GINS complex	Protein126	Complex39	
+BiochemicalReaction33	Formation of GINS complex	PhysicalEntity8	Complex39	
+BiochemicalReaction33	Formation of GINS complex	Protein127	Complex39	
+BiochemicalReaction34	Multiple proteins are localized at replication fork	PhysicalEntity6	Complex40	
+BiochemicalReaction34	Multiple proteins are localized at replication fork	Complex14	Complex40	
+BiochemicalReaction34	Multiple proteins are localized at replication fork	Protein85	Complex40	
+BiochemicalReaction34	Multiple proteins are localized at replication fork	Complex39	Complex40	
+BiochemicalReaction35	RFC binding displaces Pol Alpha	Complex31	Complex42	
+BiochemicalReaction35	RFC binding displaces Pol Alpha	Complex41	Complex42	
+BiochemicalReaction36	Loading of PCNA - Sliding Clamp Formation	Complex43	Complex44	
+BiochemicalReaction36	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	Complex44	
+BiochemicalReaction36	Loading of PCNA - Sliding Clamp Formation	Complex42	Complex44	
+BiochemicalReaction36	Loading of PCNA - Sliding Clamp Formation	Complex42	SmallMolecule2	
+BiochemicalReaction36	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction36	Loading of PCNA - Sliding Clamp Formation	Complex43	SmallMolecule2	
+BiochemicalReaction37	RFC dissociates after sliding clamp formation	Complex44	Complex45	
+BiochemicalReaction37	RFC dissociates after sliding clamp formation	Complex44	Complex41	
+BiochemicalReaction38	Formation of Processive Complex	Complex46	Complex47	
+BiochemicalReaction38	Formation of Processive Complex	Complex45	Complex47	
+BiochemicalReaction39	Processive synthesis on the leading strand	Complex46	Complex47	
+BiochemicalReaction39	Processive synthesis on the leading strand	Complex45	Complex47	
+BiochemicalReaction4	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Complex4	Complex5	
+BiochemicalReaction4	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Protein5	Complex5	
+BiochemicalReaction40	Formation of Okazaki fragments	Complex47	Complex48	
+BiochemicalReaction41	Formation of the Flap Intermediate	Complex48	Complex49	
+BiochemicalReaction42	RPA binds to the Flap	Complex49	Complex51	
+BiochemicalReaction42	RPA binds to the Flap	Complex50	Complex51	
+BiochemicalReaction43	Recruitment of Dna2 endonuclease	Complex51	Complex52	
+BiochemicalReaction43	Recruitment of Dna2 endonuclease	Protein138	Complex52	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	Protein138	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	SmallMolecule13	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	SmallMolecule14	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	SmallMolecule15	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	Complex53	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	SmallMolecule16	
+BiochemicalReaction44	Removal of RNA primer and dissociation of RPA and Dna2	Complex52	Complex50	
+BiochemicalReaction45	Removal of remaining Flap	Complex53	Complex54	
+BiochemicalReaction46	Joining of adjacent Okazaki fragments	PhysicalEntity9	PhysicalEntity13	
+BiochemicalReaction47	Cdt1 associates with geminin	Protein141	Complex55	
+BiochemicalReaction47	Cdt1 associates with geminin	Protein74	Complex55	
+BiochemicalReaction5	Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes	Protein6	Complex6	
+BiochemicalReaction5	Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes	Complex5	Complex6	
+BiochemicalReaction6	Association of MCM8 with ORC:origin complex	Protein7	Complex7	
+BiochemicalReaction6	Association of MCM8 with ORC:origin complex	Complex6	Complex7	
+BiochemicalReaction7	CDC6 association with ORC:origin complexes mediated by MCM8	Protein8	Complex9	
+BiochemicalReaction7	CDC6 association with ORC:origin complexes mediated by MCM8	Complex7	Complex9	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein13	Protein28	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex10	Protein28	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex10	Complex11	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein13	Complex11	
+BiochemicalReaction9	Ubiquitinated geminin is degraded by the proteasome	Complex11	Protein13	
+TemplateReaction1	CDC6 protein is synthesized under the control of E2F transcription factors	NA	Protein8	

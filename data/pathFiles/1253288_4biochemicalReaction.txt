@@ -1,0 +1,8 @@
+BiochemicalReaction1	ERBB4 binds WWP1/ITCH ubiquitin ligases	PhysicalEntity1	Complex7	
+BiochemicalReaction1	ERBB4 binds WWP1/ITCH ubiquitin ligases	Protein9	Complex7	
+BiochemicalReaction2	ERBB4 ubiquitination by WWP1/ITCH	Protein12	Complex8	
+BiochemicalReaction2	ERBB4 ubiquitination by WWP1/ITCH	Complex7	Complex8	
+BiochemicalReaction3	NEDD4 binds ERBB4jmAcyt1s80 dimer	Complex5	Complex9	
+BiochemicalReaction3	NEDD4 binds ERBB4jmAcyt1s80 dimer	Protein27	Complex9	
+BiochemicalReaction4	NEDD4 ubiquitinates ERBB4jmAcyt1s80 dimer	Protein12	Complex10	
+BiochemicalReaction4	NEDD4 ubiquitinates ERBB4jmAcyt1s80 dimer	Complex9	Complex10	

@@ -1,0 +1,29 @@
+BiochemicalReaction1	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex1	SmallMolecule2	
+BiochemicalReaction1	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex1	Complex4	
+BiochemicalReaction1	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule1	Complex4	
+BiochemicalReaction2	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex4	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule1	Complex9	
+BiochemicalReaction2	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex4	Complex9	
+BiochemicalReaction3	Resolution of sister chromatids	Complex9	Protein18	
+BiochemicalReaction3	Resolution of sister chromatids	Complex9	Complex12	
+BiochemicalReaction3	Resolution of sister chromatids	Complex9	PhysicalEntity1	
+BiochemicalReaction4	Deacetylation of cohesin	Complex12	SmallMolecule4	
+BiochemicalReaction4	Deacetylation of cohesin	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	Deacetylation of cohesin	SmallMolecule3	Complex14	
+BiochemicalReaction4	Deacetylation of cohesin	Complex12	Complex14	
+BiochemicalReaction5	Kinetochore assembly	Complex16	Complex33	
+BiochemicalReaction5	Kinetochore assembly	Complex20	Complex33	
+BiochemicalReaction6	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex33	SmallMolecule2	
+BiochemicalReaction6	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule1	Complex36	
+BiochemicalReaction6	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex33	Complex36	
+BiochemicalReaction7	Phosphorylation of cohesin by PLK1 at centromeres	Complex36	Complex37	
+BiochemicalReaction7	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule1	Complex37	
+BiochemicalReaction7	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of cohesin by PLK1 at centromeres	Complex36	SmallMolecule2	
+BiochemicalReaction8	PP2A-B56 dephosphorylates centromeric cohesin	Complex37	Complex39	
+BiochemicalReaction8	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule5	Complex39	
+BiochemicalReaction8	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction8	PP2A-B56 dephosphorylates centromeric cohesin	Complex37	SmallMolecule6	

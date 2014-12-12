@@ -1,0 +1,16 @@
+BiochemicalReaction1	NRIF binds to p75NTR	Complex1	Complex3	
+BiochemicalReaction1	NRIF binds to p75NTR	Protein3	Complex3	
+BiochemicalReaction2	TRAF6 binds to p75NTR:NRIF	Complex4	Complex5	
+BiochemicalReaction2	TRAF6 binds to p75NTR:NRIF	Complex3	Complex5	
+BiochemicalReaction3	NRIF and TRAF6 may activate JNK	Protein5	SmallMolecule2	
+BiochemicalReaction3	NRIF and TRAF6 may activate JNK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	NRIF and TRAF6 may activate JNK	SmallMolecule1	Protein6	
+BiochemicalReaction3	NRIF and TRAF6 may activate JNK	Protein5	Protein6	
+BiochemicalReaction4	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex5	Complex4	
+BiochemicalReaction4	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex5	Complex1	
+BiochemicalReaction4	gamma-secretase cleaves p75NTR, releasing NRIF and TRAF6	Complex5	Protein3	
+BiochemicalReaction5	TRAF6 polyubiquitinates NRIF	Protein3	Complex9	
+BiochemicalReaction5	TRAF6 polyubiquitinates NRIF	Complex8	Complex9	
+BiochemicalReaction6	Polyubiquitinated NRIF binds to p62 (Sequestosome)	Protein28	Complex10	
+BiochemicalReaction6	Polyubiquitinated NRIF binds to p62 (Sequestosome)	Complex9	Complex10	
+BiochemicalReaction7	Polyubiquitinated NRIF migrates to the nucleus	Complex10	Complex11	

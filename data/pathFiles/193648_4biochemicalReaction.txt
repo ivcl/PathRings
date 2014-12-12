@@ -1,0 +1,26 @@
+BiochemicalReaction1	NGF:p75NTR complex binds to NRAGE	Complex1	Complex3	
+BiochemicalReaction1	NGF:p75NTR complex binds to NRAGE	Protein3	Complex3	
+BiochemicalReaction2	NRAGE sequesters CHE1 in the cytoplasm	Complex3	Complex4	
+BiochemicalReaction2	NRAGE sequesters CHE1 in the cytoplasm	Protein4	Complex4	
+BiochemicalReaction3	NRAGE activates JNK	Protein5	SmallMolecule2	
+BiochemicalReaction3	NRAGE activates JNK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	NRAGE activates JNK	SmallMolecule1	Protein6	
+BiochemicalReaction3	NRAGE activates JNK	Protein5	Protein6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	SmallMolecule3	Complex6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	Complex5	Complex6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	Complex5	SmallMolecule6	
+BiochemicalReaction4	p75NTR indirectly activates RAC and Cdc42 via a guanyl-nucleotide exchange factor	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	Protein5	SmallMolecule2	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	SmallMolecule1	Protein6	
+BiochemicalReaction5	GTP-bound RAC contributes to JNK activation	Protein5	Protein6	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein46	SmallMolecule2	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein47	SmallMolecule2	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein47	Protein48	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	Protein48	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein46	Protein48	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein47	Protein49	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	SmallMolecule1	Protein49	
+BiochemicalReaction6	JNK phosphorylates BIM, BAD and other targets	Protein46	Protein49	
+BiochemicalReaction7	Active JNK moves to the nucleus and phosphorylates different transcription factors	Protein6	Protein50	

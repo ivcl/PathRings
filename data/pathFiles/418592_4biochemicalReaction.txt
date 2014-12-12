@@ -1,0 +1,21 @@
+BiochemicalReaction1	ADP binds to P2Y purinoceptor 1	SmallMolecule1	Complex1	
+BiochemicalReaction1	ADP binds to P2Y purinoceptor 1	Protein1	Complex1	
+BiochemicalReaction2	Activated P2Y purinoceptor 1 binds G-protein Gq	Complex2	Complex5	
+BiochemicalReaction2	Activated P2Y purinoceptor 1 binds G-protein Gq	Complex1	Complex5	
+BiochemicalReaction3	Gq activation by P2Y purinoceptor 1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	Gq activation by P2Y purinoceptor 1	Complex5	SmallMolecule5	
+BiochemicalReaction3	Gq activation by P2Y purinoceptor 1	Complex5	Complex6	
+BiochemicalReaction3	Gq activation by P2Y purinoceptor 1	SmallMolecule4	Complex6	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex6	SmallMolecule1	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex6	Protein1	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex6	Complex8	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex6	Complex4	
+BiochemicalReaction5	Src activation following P2Y purinoceptor activation	Protein26	Protein27	
+BiochemicalReaction6	P2Y purinoceptor 1 activates MAP kinase p38 alpha	SmallMolecule7	Protein29	
+BiochemicalReaction6	P2Y purinoceptor 1 activates MAP kinase p38 alpha	Protein28	Protein29	
+BiochemicalReaction6	P2Y purinoceptor 1 activates MAP kinase p38 alpha	Protein28	SmallMolecule8	
+BiochemicalReaction6	P2Y purinoceptor 1 activates MAP kinase p38 alpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction7	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein30	Protein31	
+BiochemicalReaction7	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule7	Protein31	
+BiochemicalReaction7	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction7	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein30	SmallMolecule8	

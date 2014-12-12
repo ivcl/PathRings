@@ -1,0 +1,26 @@
+BiochemicalReaction1	Activation of S6K1	SmallMolecule1	Protein2	
+BiochemicalReaction1	Activation of S6K1	Protein1	Protein2	
+BiochemicalReaction1	Activation of S6K1	Protein1	SmallMolecule2	
+BiochemicalReaction1	Activation of S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Ribosomal protein S6 by activated S6K1	Protein8	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Ribosomal protein S6 by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Ribosomal protein S6 by activated S6K1	SmallMolecule1	Protein9	
+BiochemicalReaction2	Phosphorylation of Ribosomal protein S6 by activated S6K1	Protein8	Protein9	
+BiochemicalReaction3	Phosphorylation and inactivation of eEF2K by activated S6K1	Protein10	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation and inactivation of eEF2K by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation and inactivation of eEF2K by activated S6K1	SmallMolecule1	Protein11	
+BiochemicalReaction3	Phosphorylation and inactivation of eEF2K by activated S6K1	Protein10	Protein11	
+BiochemicalReaction4	Phosphorylation and activation of eIF4G by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation and activation of eIF4G by activated S6K1	Protein12	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation and activation of eIF4G by activated S6K1	Protein12	Protein13	
+BiochemicalReaction4	Phosphorylation and activation of eIF4G by activated S6K1	SmallMolecule1	Protein13	
+BiochemicalReaction5	Phosphorylation and activation of eIF4B by activated S6K1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation and activation of eIF4B by activated S6K1	Protein14	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation and activation of eIF4B by activated S6K1	Protein14	Protein15	
+BiochemicalReaction5	Phosphorylation and activation of eIF4B by activated S6K1	SmallMolecule1	Protein15	
+BiochemicalReaction6	Phosphorylation of 4E-BP1 by activated mTORC1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of 4E-BP1 by activated mTORC1	Complex3	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of 4E-BP1 by activated mTORC1	Complex3	Complex4	
+BiochemicalReaction6	Phosphorylation of 4E-BP1 by activated mTORC1	SmallMolecule1	Complex4	
+BiochemicalReaction7	Dissociation of phosphorylated 4EBP1 from eIF4E	Complex4	Protein17	
+BiochemicalReaction7	Dissociation of phosphorylated 4EBP1 from eIF4E	Complex4	Protein18	

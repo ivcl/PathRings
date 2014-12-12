@@ -1,0 +1,17 @@
+BiochemicalReaction1	Dissociation of PERK:BiP Heterodimer	Complex1	Complex2	
+BiochemicalReaction1	Dissociation of PERK:BiP Heterodimer	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Dissociation of PERK:BiP Heterodimer	PhysicalEntity1	Protein1	
+BiochemicalReaction1	Dissociation of PERK:BiP Heterodimer	Complex1	Protein1	
+BiochemicalReaction2	Dimerization of PERK	Protein1	Complex3	
+BiochemicalReaction3	Phosphorylation of eIF2-alpha by PERK	Protein4	Protein5	
+BiochemicalReaction3	Phosphorylation of eIF2-alpha by PERK	SmallMolecule1	Protein5	
+BiochemicalReaction3	Phosphorylation of eIF2-alpha by PERK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of eIF2-alpha by PERK	Protein4	SmallMolecule2	
+TemplateReaction1	Translation and translocation of ATF4 	NA	Protein6	
+TemplateReaction2	Expression of ATF3	NA	Protein7	
+TemplateReaction3	Expression of Asparagine Synthetase	NA	Protein8	
+TemplateReaction4	Expression of CCL2	NA	Protein9	
+TemplateReaction5	Expression of CHOP (DDIT3, GADD153)	NA	Protein10	
+TemplateReaction6	Expression of HERPUD	NA	Protein15	
+TemplateReaction7	Expression of IGFBP1	NA	Protein16	
+TemplateReaction8	Expression of IL-8	NA	Protein17	

@@ -1,0 +1,20 @@
+BiochemicalReaction1	p75NTR interacts with RIP2	Complex1	Complex3	
+BiochemicalReaction1	p75NTR interacts with RIP2	Protein3	Complex3	
+BiochemicalReaction2	p75NTR interacts with IRAK:MYD88	Complex1	Complex6	
+BiochemicalReaction2	p75NTR interacts with IRAK:MYD88	Complex4	Complex6	
+BiochemicalReaction3	IRAK is activated	Complex6	SmallMolecule2	
+BiochemicalReaction3	IRAK is activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	IRAK is activated	SmallMolecule1	Complex7	
+BiochemicalReaction3	IRAK is activated	Complex6	Complex7	
+BiochemicalReaction4	IRAK interacts with TRAF6	Protein7	Complex8	
+BiochemicalReaction4	IRAK interacts with TRAF6	Complex7	Complex8	
+BiochemicalReaction5	MYD88 dissociates	Complex8	Complex9	
+BiochemicalReaction5	MYD88 dissociates	Complex8	Complex5	
+BiochemicalReaction6	p62 is recruited and forms a complex with TRAF6	Complex9	Complex10	
+BiochemicalReaction6	p62 is recruited and forms a complex with TRAF6	Protein8	Complex10	
+BiochemicalReaction7	TRAF6 is auto-ubiquitinated	Protein9	Complex11	
+BiochemicalReaction7	TRAF6 is auto-ubiquitinated	Complex10	Complex11	
+BiochemicalReaction8	p62 recruits an atypical PKC	Protein26	Complex12	
+BiochemicalReaction8	p62 recruits an atypical PKC	Complex10	Complex12	
+BiochemicalReaction9	IKK-beta is recruited	Complex13	Complex14	
+BiochemicalReaction9	IKK-beta is recruited	Complex10	Complex14	

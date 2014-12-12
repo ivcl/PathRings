@@ -1,0 +1,15 @@
+BiochemicalReaction1	TNF-alpha cleavage by TACE	Complex1	Complex2	
+BiochemicalReaction2	Soluble TNF-alpha binds TNF-R1	Protein4	Complex4	
+BiochemicalReaction2	Soluble TNF-alpha binds TNF-R1	Complex2	Complex4	
+BiochemicalReaction3	Membrane-anchored TNF-alpha binds TNF-R1	Protein4	Complex5	
+BiochemicalReaction3	Membrane-anchored TNF-alpha binds TNF-R1	Complex1	Complex5	
+BiochemicalReaction4	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein5	Complex7	
+BiochemicalReaction4	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein6	Complex7	
+BiochemicalReaction4	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein7	Complex7	
+BiochemicalReaction4	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Complex6	Complex7	
+BiochemicalReaction5	TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.	Complex7	Complex8	
+BiochemicalReaction5	TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.	Complex7	Complex6	
+BiochemicalReaction6	TRADD:TRAF2:RIP1 complex binds FADD	Complex8	Complex9	
+BiochemicalReaction6	TRADD:TRAF2:RIP1 complex binds FADD	Protein9	Complex9	
+BiochemicalReaction7	TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  	Complex9	Complex10	
+BiochemicalReaction7	TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  	Protein10	Complex10	

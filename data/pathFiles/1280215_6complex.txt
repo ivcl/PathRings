@@ -1,0 +1,707 @@
+Complex1	IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918193	Protein1	
+Complex1	IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918193	Protein2	
+Complex1	IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918193	Protein3	
+Complex10	p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909694	Protein22	
+Complex10	p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909694	Protein20	
+Complex100	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein355	
+Complex100	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein363	
+Complex101	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein364	
+Complex101	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein365	
+Complex101	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein366	
+Complex102	hp-IRAK1:K6-poly-Ub oligo-TRAF6:TAK1 complex	cytosol	Reactome DB_ID: 450185	Complex101	
+Complex102	hp-IRAK1:K6-poly-Ub oligo-TRAF6:TAK1 complex	cytosol	Reactome DB_ID: 450185	Complex99	
+Complex103	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex101	
+Complex103	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex99	
+Complex105	hp-IRAK1: Pellino-1,2,3	cytosol	Reactome DB_ID: 451420	Protein369	
+Complex105	hp-IRAK1: Pellino-1,2,3	cytosol	Reactome DB_ID: 451420	Protein355	
+Complex106	IRAK4: Pellino-1,2,3	cytosol	Reactome DB_ID: 451416	Protein369	
+Complex106	IRAK4: Pellino-1,2,3	cytosol	Reactome DB_ID: 451416	Protein350	
+Complex108	hp-IRAK1: p-Pellino-1,2,(3)	cytosol	Reactome DB_ID: 451411	Protein374	
+Complex108	hp-IRAK1: p-Pellino-1,2,(3)	cytosol	Reactome DB_ID: 451411	Protein355	
+Complex109	IRAK4: p-Pellino-1,2,3	cytosol	Reactome DB_ID: 451410	Protein374	
+Complex109	IRAK4: p-Pellino-1,2,3	cytosol	Reactome DB_ID: 451410	Protein350	
+Complex11	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2	plasma membrane	Reactome DB_ID: 909696	Complex12	
+Complex11	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2	plasma membrane	Reactome DB_ID: 909696	PhysicalEntity1	
+Complex11	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2	plasma membrane	Reactome DB_ID: 909696	Complex8	
+Complex110	IKK complex	cytosol	Reactome DB_ID: 168113	Protein379	
+Complex110	IKK complex	cytosol	Reactome DB_ID: 168113	Protein380	
+Complex110	IKK complex	cytosol	Reactome DB_ID: 168113	Protein381	
+Complex111	Poly-K6-Ub-hp-IRAK1:IKK complex	plasma membrane	Reactome DB_ID: 451560	Protein378	
+Complex111	Poly-K6-Ub-hp-IRAK1:IKK complex	plasma membrane	Reactome DB_ID: 451560	Complex110	
+Complex112	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein382	
+Complex112	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein380	
+Complex112	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein383	
+Complex114	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex101	
+Complex114	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex115	
+Complex115	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Complex116	
+Complex115	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	PhysicalEntity9	
+Complex115	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Protein380	
+Complex116	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Complex117	
+Complex116	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Protein386	
+Complex118	NOD1:iE-DAP oligomer	cytosol	Reactome DB_ID: 622306	Complex119	
+Complex119	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	Protein384	
+Complex119	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	SmallMolecule9	
+Complex12	STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909701	Protein22	
+Complex12	STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909701	Protein20	
+Complex12	STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909701	Protein3	
+Complex120	MDP:NOD2 oligomer	cytosol	Reactome DB_ID: 708350	Complex121	
+Complex121	MDP:NOD2	cytosol	Reactome DB_ID: 168414	SmallMolecule10	
+Complex121	MDP:NOD2	cytosol	Reactome DB_ID: 168414	Protein385	
+Complex122	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein364	
+Complex122	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein363	
+Complex122	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	PhysicalEntity9	
+Complex122	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein387	
+Complex122	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein390	
+Complex123	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	PhysicalEntity9	
+Complex123	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Complex124	
+Complex123	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Protein390	
+Complex124	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein357	
+Complex124	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein363	
+Complex125	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein395	
+Complex125	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein396	
+Complex125	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein397	
+Complex125	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein398	
+Complex126	SCF betaTrCP complex:p-NFKB p105	cytosol	Reactome DB_ID: 451614	Protein394	
+Complex126	SCF betaTrCP complex:p-NFKB p105	cytosol	Reactome DB_ID: 451614	Complex125	
+Complex127	NFKB p105:TPL2:ABIN2	cytosol	Reactome DB_ID: 451638	Protein393	
+Complex127	NFKB p105:TPL2:ABIN2	cytosol	Reactome DB_ID: 451638	Protein400	
+Complex127	NFKB p105:TPL2:ABIN2	cytosol	Reactome DB_ID: 451638	Protein401	
+Complex128	IL2RB:JAK1	plasma membrane	Reactome DB_ID: 451905	Protein1	
+Complex128	IL2RB:JAK1	plasma membrane	Reactome DB_ID: 451905	Protein408	
+Complex129	IL2RG:JAK3	plasma membrane	Reactome DB_ID: 451911	Protein409	
+Complex129	IL2RG:JAK3	plasma membrane	Reactome DB_ID: 451911	Protein410	
+Complex13	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2	plasma membrane	Reactome DB_ID: 909697	PhysicalEntity1	
+Complex13	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2	plasma membrane	Reactome DB_ID: 909697	Complex8	
+Complex13	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2	plasma membrane	Reactome DB_ID: 909697	Complex14	
+Complex130	IL2:IL2RA	plasma membrane	Reactome DB_ID: 538993	Protein411	
+Complex130	IL2:IL2RA	plasma membrane	Reactome DB_ID: 538993	Protein412	
+Complex131	IL2:IL2RA:IL2RB:JAK1	plasma membrane	Reactome DB_ID: 450065	Complex128	
+Complex131	IL2:IL2RA:IL2RB:JAK1	plasma membrane	Reactome DB_ID: 450065	Complex130	
+Complex132	IL2:IL2R trimer:JAK1:JAK3	plasma membrane	Reactome DB_ID: 450080	Complex131	
+Complex132	IL2:IL2R trimer:JAK1:JAK3	plasma membrane	Reactome DB_ID: 450080	Complex129	
+Complex133	IL2:IL2R trimer:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 451920	Complex134	
+Complex133	IL2:IL2R trimer:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 451920	Complex129	
+Complex134	IL2RA:IL2RB:p-JAK1:IL2	plasma membrane	Reactome DB_ID: 451939	Complex135	
+Complex134	IL2RA:IL2RB:p-JAK1:IL2	plasma membrane	Reactome DB_ID: 451939	Protein411	
+Complex135	IL2RA:IL2RB:p-JAK1	plasma membrane	Reactome DB_ID: 451918	Complex136	
+Complex135	IL2RA:IL2RB:p-JAK1	plasma membrane	Reactome DB_ID: 451918	Protein412	
+Complex136	IL2RB:p-JAK1	plasma membrane	Reactome DB_ID: 451943	Protein21	
+Complex136	IL2RB:p-JAK1	plasma membrane	Reactome DB_ID: 451943	Protein408	
+Complex137	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452119	Protein413	
+Complex137	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452119	Protein21	
+Complex137	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452119	Complex129	
+Complex137	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452119	Protein411	
+Complex137	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452119	Protein412	
+Complex138	IL2:IL2R trimer p-(Y338,392,510)-beta subunit:p-JAK1:JAK3:SHC	plasma membrane	Reactome DB_ID: 452095	Complex137	
+Complex138	IL2:IL2R trimer p-(Y338,392,510)-beta subunit:p-JAK1:JAK3:SHC	plasma membrane	Reactome DB_ID: 452095	Protein414	
+Complex139	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3:STAT5	plasma membrane	Reactome DB_ID: 452107	Protein415	
+Complex139	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3:STAT5	plasma membrane	Reactome DB_ID: 452107	Complex137	
+Complex14	p-STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909709	Protein22	
+Complex14	p-STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909709	Protein23	
+Complex14	p-STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909709	Protein20	
+Complex140	IL2:IL2R trimer p-(Y338,392,510)-beta subunit:p-JAK1:JAK3:p-SHC	plasma membrane	Reactome DB_ID: 453099	Protein418	
+Complex140	IL2:IL2R trimer p-(Y338,392,510)-beta subunit:p-JAK1:JAK3:p-SHC	plasma membrane	Reactome DB_ID: 453099	Complex141	
+Complex141	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452104	Protein413	
+Complex141	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452104	Protein21	
+Complex141	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452104	Complex129	
+Complex141	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452104	Protein411	
+Complex141	IL2:IL2R trimer p-(Y338,392,510) beta subunit:p-JAK1:JAK3	plasma membrane	Reactome DB_ID: 452104	Protein412	
+Complex143	IL3:IL3R active complex, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 913412	Complex144	
+Complex143	IL3:IL3R active complex, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 913412	Protein424	
+Complex144	IL3:IL3R active complex, JAK2:p-Y593,Y629-IL3RB	plasma membrane	Reactome DB_ID: 912317	Complex145	
+Complex145	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 912308	Complex146	
+Complex145	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 912308	Complex147	
+Complex146	pY593,Y628-IL3RB:JAK2	plasma membrane	Reactome DB_ID: 912316	Protein421	
+Complex146	pY593,Y628-IL3RB:JAK2	plasma membrane	Reactome DB_ID: 912316	Protein153	
+Complex147	IL3:IL3RA	plasma membrane	Reactome DB_ID: 450048	Protein422	
+Complex147	IL3:IL3RA	plasma membrane	Reactome DB_ID: 450048	Protein423	
+Complex148	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 913428	Protein424	
+Complex148	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 913428	Complex149	
+Complex149	High affinity GM-CSF receptor complex dimer, inactive JAK2, p(Y593, 628)- Bc	plasma membrane	Reactome DB_ID: 913384	Complex150	
+Complex15	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1	plasma membrane	Reactome DB_ID: 909711	PhysicalEntity1	
+Complex15	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1	plasma membrane	Reactome DB_ID: 909711	Complex8	
+Complex15	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1	plasma membrane	Reactome DB_ID: 909711	Complex16	
+Complex150	GM-CSF:GM-CSF receptor alpha subunit:p(Y593, 628)-Bc:JAK2	plasma membrane	Reactome DB_ID: 913355	Complex146	
+Complex150	GM-CSF:GM-CSF receptor alpha subunit:p(Y593, 628)-Bc:JAK2	plasma membrane	Reactome DB_ID: 913355	Complex151	
+Complex151	GM-CSF:GM-CSF receptor alpha subunit	plasma membrane	Reactome DB_ID: 913362	Protein425	
+Complex151	GM-CSF:GM-CSF receptor alpha subunit	plasma membrane	Reactome DB_ID: 913362	Protein426	
+Complex152	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 913366	Protein424	
+Complex152	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 913366	Complex153	
+Complex153	High affinity IL-5 receptor complex dimer, inactive JAK2, p(Y593, 628)-Bc	plasma membrane	Reactome DB_ID: 913359	Complex154	
+Complex154	IL5 homodimer:IL5RA:p(Y593, 628)-Bc:JAK2	plasma membrane	Reactome DB_ID: 913357	Complex146	
+Complex154	IL5 homodimer:IL5RA:p(Y593, 628)-Bc:JAK2	plasma membrane	Reactome DB_ID: 913357	Complex155	
+Complex155	IL5 homodimer:IL5RA	plasma membrane	Reactome DB_ID: 450056	Complex156	
+Complex155	IL5 homodimer:IL5RA	plasma membrane	Reactome DB_ID: 450056	Protein428	
+Complex156	IL5 homodimer	extracellular region	Reactome DB_ID: 913383	Protein427	
+Complex157	GRB2:GAB2	cytosol	Reactome DB_ID: 912522	Protein429	
+Complex157	GRB2:GAB2	cytosol	Reactome DB_ID: 912522	Protein430	
+Complex158	IL2:IL2R trimer p(Y338,392,510) beta subunit:p-SHC:GRB2:GAB2	plasma membrane	Reactome DB_ID: 508246	Complex140	
+Complex158	IL2:IL2R trimer p(Y338,392,510) beta subunit:p-SHC:GRB2:GAB2	plasma membrane	Reactome DB_ID: 508246	Complex157	
+Complex16	p-STAT2:p-STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909712	Complex17	
+Complex16	p-STAT2:p-STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909712	Protein22	
+Complex16	p-STAT2:p-STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909712	Protein20	
+Complex160	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:GAB2	plasma membrane	Reactome DB_ID: 912538	Complex161	
+Complex160	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:GAB2	plasma membrane	Reactome DB_ID: 912538	Complex157	
+Complex161	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 912313	Protein424	
+Complex161	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1	plasma membrane	Reactome DB_ID: 912313	Complex162	
+Complex163	IL3:IL3R active complex, activated JAK2, phosphorylated Bc	plasma membrane	Reactome DB_ID: 912314	Complex164	
+Complex164	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 912319	Complex165	
+Complex164	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 912319	Complex147	
+Complex165	p(Y593)-IL3RB:Activated JAK2	plasma membrane	Reactome DB_ID: 912306	Protein421	
+Complex165	p(Y593)-IL3RB:Activated JAK2	plasma membrane	Reactome DB_ID: 912306	Protein156	
+Complex166	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:GAB2	plasma membrane	Reactome DB_ID: 914021	Complex148	
+Complex166	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:GAB2	plasma membrane	Reactome DB_ID: 914021	Complex157	
+Complex167	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:GAB2	plasma membrane	Reactome DB_ID: 914047	Complex152	
+Complex167	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:GAB2	plasma membrane	Reactome DB_ID: 914047	Complex157	
+Complex168	IL2:IL2R trimer p(Y338,392,510) beta subunit:p-SHC:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 912523	Complex140	
+Complex168	IL2:IL2R trimer p(Y338,392,510) beta subunit:p-SHC:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 912523	Complex169	
+Complex169	GRB2:pY-GAB2	cytosol	Reactome DB_ID: 912528	Protein431	
+Complex169	GRB2:pY-GAB2	cytosol	Reactome DB_ID: 912528	Protein430	
+Complex17	p-STAT2:p-STAT1	cytosol	Reactome DB_ID: 909702	Protein27	
+Complex17	p-STAT2:p-STAT1	cytosol	Reactome DB_ID: 909702	Protein23	
+Complex171	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 912540	Complex169	
+Complex171	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 912540	Complex161	
+Complex172	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 926770	Complex169	
+Complex172	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 926770	Complex148	
+Complex173	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 926769	Complex152	
+Complex173	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2	plasma membrane	Reactome DB_ID: 926769	Complex169	
+Complex175	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein432	
+Complex175	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein433	
+Complex176	PI3K beta	cytosol	Reactome DB_ID: 437110	Protein433	
+Complex176	PI3K beta	cytosol	Reactome DB_ID: 437110	Protein437	
+Complex177	PI3K delta	cytosol	Reactome DB_ID: 508241	Protein433	
+Complex177	PI3K delta	cytosol	Reactome DB_ID: 508241	Protein438	
+Complex178	IL2:IL2R trimer p(Y338) beta subunit:p-SHC:GRB2:GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 508238	Complex168	
+Complex178	IL2:IL2R trimer p(Y338) beta subunit:p-SHC:GRB2:GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 508238	Complex174	
+Complex18	ISGF3	cytosol	Reactome DB_ID: 909698	Complex17	
+Complex18	ISGF3	cytosol	Reactome DB_ID: 909698	Protein33	
+Complex180	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 912532	Complex171	
+Complex180	IL3:IL3R active complex, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 912532	Complex174	
+Complex181	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 926773	Complex172	
+Complex181	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 926773	Complex174	
+Complex182	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 926774	Complex173	
+Complex182	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:p(Y427,349,350)-SHC1:GRB2:p(Y)-GAB2:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 926774	Complex174	
+Complex183	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein439	
+Complex183	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein430	
+Complex184	Interleukin receptor complexes with activated SHC1:GRB2:SOS1	plasma membrane	Reactome DB_ID: 921157	PhysicalEntity10	
+Complex184	Interleukin receptor complexes with activated SHC1:GRB2:SOS1	plasma membrane	Reactome DB_ID: 921157	Complex183	
+Complex185	HRAS:GDP	cytosol	Reactome DB_ID: 167214	Protein440	
+Complex185	HRAS:GDP	cytosol	Reactome DB_ID: 167214	SmallMolecule12	
+Complex186	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein440	
+Complex186	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule11	
+Complex187	Interleukin receptor complexes with activated SHC1:SHIP1,2	plasma membrane	Reactome DB_ID: 913393	PhysicalEntity10	
+Complex187	Interleukin receptor complexes with activated SHC1:SHIP1,2	plasma membrane	Reactome DB_ID: 913393	Protein441	
+Complex188	Interleukin receptor complexes with activated SHC1:SHIP1	plasma membrane	Reactome DB_ID: 913378	PhysicalEntity10	
+Complex188	Interleukin receptor complexes with activated SHC1:SHIP1	plasma membrane	Reactome DB_ID: 913378	Protein31	
+Complex189	Interleukin receptor complexes with activated SHC1:SHIP:GRB2	plasma membrane	Reactome DB_ID: 913411	Complex188	
+Complex189	Interleukin receptor complexes with activated SHC1:SHIP:GRB2	plasma membrane	Reactome DB_ID: 913411	Protein430	
+Complex19	ISGF3	nucleoplasm	Reactome DB_ID: 913527	Complex20	
+Complex19	ISGF3	nucleoplasm	Reactome DB_ID: 913527	Protein38	
+Complex190	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein444	
+Complex190	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein445	
+Complex191	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule11	
+Complex191	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein446	
+Complex192	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein445	
+Complex192	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex191	
+Complex193	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex192	
+Complex193	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein444	
+Complex194	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein444	
+Complex194	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex191	
+Complex194	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein449	
+Complex195	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein445	
+Complex195	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex186	
+Complex196	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Protein450	
+Complex196	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Complex194	
+Complex197	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Complex194	
+Complex197	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Protein403	
+Complex198	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Protein451	
+Complex198	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Complex194	
+Complex199	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein406	
+Complex199	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein227	
+Complex2	IFNA/B:IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918195	Complex1	
+Complex2	IFNA/B:IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918195	PhysicalEntity1	
+Complex20	ISGF3 alpha	nucleoplasm	Reactome DB_ID: 909693	Protein34	
+Complex20	ISGF3 alpha	nucleoplasm	Reactome DB_ID: 909693	Protein37	
+Complex200	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein406	
+Complex200	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein458	
+Complex201	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein458	
+Complex202	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein459	
+Complex203	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein460	
+Complex203	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex204	
+Complex204	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex205	
+Complex206	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex207	
+Complex206	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex208	
+Complex207	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein461	
+Complex207	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein462	
+Complex208	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein465	
+Complex208	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein466	
+Complex209	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex207	
+Complex209	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex210	
+Complex21	AAF	cytosol	Reactome DB_ID: 913524	Protein28	
+Complex210	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein465	
+Complex210	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein467	
+Complex211	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein452	
+Complex211	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein468	
+Complex212	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein452	
+Complex212	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein469	
+Complex213	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein469	
+Complex214	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein470	
+Complex215	IL2:IL2R trimer p-(Y338,Y392, Y510) beta subunit:p-JAK1:JAK3:p-STAT5	plasma membrane	Reactome DB_ID: 507943	Protein471	
+Complex215	IL2:IL2R trimer p-(Y338,Y392, Y510) beta subunit:p-JAK1:JAK3:p-STAT5	plasma membrane	Reactome DB_ID: 507943	Complex137	
+Complex216	p-STAT5 dimer	cytosol	Reactome DB_ID: 507919	Protein471	
+Complex217	p-STAT5 dimer	nucleoplasm	Reactome DB_ID: 508012	Protein474	
+Complex218	IL2:IL2R trimer:p-JAK1:JAK3:SYK	plasma membrane	Reactome DB_ID: 508449	Protein477	
+Complex218	IL2:IL2R trimer:p-JAK1:JAK3:SYK	plasma membrane	Reactome DB_ID: 508449	Complex133	
+Complex219	IL2:IL2R trimer:p-JAK1:JAK3:p-SYK	plasma membrane	Reactome DB_ID: 508438	Protein478	
+Complex219	IL2:IL2R trimer:p-JAK1:JAK3:p-SYK	plasma membrane	Reactome DB_ID: 508438	Complex133	
+Complex22	AAF	nucleoplasm	Reactome DB_ID: 913526	Protein36	
+Complex220	JAK3:PYK2	cytosol	Reactome DB_ID: 508512	Protein479	
+Complex220	JAK3:PYK2	cytosol	Reactome DB_ID: 508512	Protein410	
+Complex221	JAK3:p-PYK2	cytosol	Reactome DB_ID: 508510	Protein480	
+Complex221	JAK3:p-PYK2	cytosol	Reactome DB_ID: 508510	Protein410	
+Complex222	IL3RB:JAK2	plasma membrane	Reactome DB_ID: 879945	Protein153	
+Complex222	IL3RB:JAK2	plasma membrane	Reactome DB_ID: 879945	Protein481	
+Complex223	GM-CSF:GM-CSF receptor alpha subunit:Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 913389	Complex151	
+Complex223	GM-CSF:GM-CSF receptor alpha subunit:Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 913389	Complex222	
+Complex224	IL5 homodimer:IL5RA:Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 913423	Complex222	
+Complex224	IL5 homodimer:IL5RA:Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 913423	Complex155	
+Complex225	IL3:IL3RA:IL3RB:JAK2	plasma membrane	Reactome DB_ID: 450064	Complex222	
+Complex225	IL3:IL3RA:IL3RB:JAK2	plasma membrane	Reactome DB_ID: 450064	Complex147	
+Complex228	High affinity IL-3 receptor complex dimer, inactive JAK2	plasma membrane	Reactome DB_ID: 893545	Complex225	
+Complex229	High affinity GM-CSF receptor complex dimer, inactive JAK2	plasma membrane	Reactome DB_ID: 913413	Complex223	
+Complex23	ISGF3 bound to ISRE promotor elements	nucleoplasm	Reactome DB_ID: 1015697	Complex19	
+Complex23	ISGF3 bound to ISRE promotor elements	nucleoplasm	Reactome DB_ID: 1015697	PhysicalEntity2	
+Complex230	High affinity IL-5 receptor complex dimer, inactive JAK2	plasma membrane	Reactome DB_ID: 913415	Complex224	
+Complex232	IL3:IL3R active complex, p-Y1007-JAK2	plasma membrane	Reactome DB_ID: 893534	Complex233	
+Complex233	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 893527	Complex234	
+Complex233	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 893527	Complex147	
+Complex234	IL3RB:p-Y1007-JAK2	plasma membrane	Reactome DB_ID: 893554	Protein156	
+Complex234	IL3RB:p-Y1007-JAK2	plasma membrane	Reactome DB_ID: 893554	Protein481	
+Complex235	High affinity GM-CSF receptor complex dimer, activated JAK2	plasma membrane	Reactome DB_ID: 913379	Complex236	
+Complex236	GM-CSF:GM-CSF receptor alpha subunit:Common beta chain:p-JAK2	plasma membrane	Reactome DB_ID: 913443	Complex151	
+Complex236	GM-CSF:GM-CSF receptor alpha subunit:Common beta chain:p-JAK2	plasma membrane	Reactome DB_ID: 913443	Complex234	
+Complex237	High affinity IL-5 receptor complex dimer, p-JAK2	plasma membrane	Reactome DB_ID: 913457	Complex238	
+Complex238	IL5 homodimer:IL5RA:Common beta chain:p-JAK2	plasma membrane	Reactome DB_ID: 913363	Complex234	
+Complex238	IL5 homodimer:IL5RA:Common beta chain:p-JAK2	plasma membrane	Reactome DB_ID: 913363	Complex155	
+Complex24	p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 912681	Complex25	
+Complex24	p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 912681	Complex7	
+Complex240	IL3:IL3R active complex, activated JAK2:STAT5	plasma membrane	Reactome DB_ID: 912301	Protein415	
+Complex240	IL3:IL3R active complex, activated JAK2:STAT5	plasma membrane	Reactome DB_ID: 912301	Complex232	
+Complex241	High affinity GM-CSF receptor complex dimer, activated JAK2:STAT5	plasma membrane	Reactome DB_ID: 913386	Protein415	
+Complex241	High affinity GM-CSF receptor complex dimer, activated JAK2:STAT5	plasma membrane	Reactome DB_ID: 913386	Complex235	
+Complex242	High affinity IL-5 receptor complex dimer, activated JAK2:STAT5	plasma membrane	Reactome DB_ID: 913407	Protein415	
+Complex242	High affinity IL-5 receptor complex dimer, activated JAK2:STAT5	plasma membrane	Reactome DB_ID: 913407	Complex237	
+Complex244	IL3:IL3R active complex, activated JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 912305	Protein471	
+Complex244	IL3:IL3R active complex, activated JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 912305	Complex232	
+Complex245	High affinity GM-CSF receptor complex dimer, activated JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 913365	Protein471	
+Complex245	High affinity GM-CSF receptor complex dimer, activated JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 913365	Complex235	
+Complex246	High affinity IL-5 receptor complex dimer, activated JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 913409	Complex237	
+Complex246	High affinity IL-5 receptor complex dimer, activated JAK2:p-STAT5	plasma membrane	Reactome DB_ID: 913409	Protein471	
+Complex249	IL3:IL3RA:IL3RB:JAK2	plasma membrane	Reactome DB_ID: 879968	Complex222	
+Complex25	p-IFNAR1:p-TYK2:SOCS-1/SOCS-3	plasma membrane	Reactome DB_ID: 912684	Protein147	
+Complex25	p-IFNAR1:p-TYK2:SOCS-1/SOCS-3	plasma membrane	Reactome DB_ID: 912684	Protein22	
+Complex25	p-IFNAR1:p-TYK2:SOCS-1/SOCS-3	plasma membrane	Reactome DB_ID: 912684	Protein20	
+Complex251	IL3:IL3R active complex, inactive JAK2, phosphorylated Bc:SHC1	plasma membrane	Reactome DB_ID: 913358	Complex144	
+Complex251	IL3:IL3R active complex, inactive JAK2, phosphorylated Bc:SHC1	plasma membrane	Reactome DB_ID: 913358	Protein414	
+Complex252	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:SHC1	plasma membrane	Reactome DB_ID: 913433	Protein414	
+Complex252	High affinity GM-CSF receptor complex dimer, inactive JAK2, phosphorylated Bc:SHC1	plasma membrane	Reactome DB_ID: 913433	Complex149	
+Complex253	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:SHC1	plasma membrane	Reactome DB_ID: 913387	Protein414	
+Complex253	High affinity IL-5 receptor complex dimer, inactive JAK2, phosphorylated Bc:SHC1	plasma membrane	Reactome DB_ID: 913387	Complex153	
+Complex254	FYN-like kinases:CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912623	Protein482	
+Complex254	FYN-like kinases:CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912623	Protein430	
+Complex254	FYN-like kinases:CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912623	Protein483	
+Complex254	FYN-like kinases:CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912623	Complex174	
+Complex255	FYN-like kinases:p(Y731)-CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912647	Protein488	
+Complex255	FYN-like kinases:p(Y731)-CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912647	Protein430	
+Complex255	FYN-like kinases:p(Y731)-CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912647	Protein483	
+Complex255	FYN-like kinases:p(Y731)-CBL:GRB2:p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912647	Complex174	
+Complex256	FYN-like kinases:p(Y731)-CBL:GRB2:Ubiquitinated p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912799	Protein488	
+Complex256	FYN-like kinases:p(Y731)-CBL:GRB2:Ubiquitinated p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912799	Complex257	
+Complex256	FYN-like kinases:p(Y731)-CBL:GRB2:Ubiquitinated p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912799	Protein430	
+Complex256	FYN-like kinases:p(Y731)-CBL:GRB2:Ubiquitinated p85-containing Class 1A PI3Ks	cytosol	Reactome DB_ID: 912799	Protein483	
+Complex258	K63polyUb-PI3K alpha	cytosol	Reactome DB_ID: 3080565	Protein432	
+Complex258	K63polyUb-PI3K alpha	cytosol	Reactome DB_ID: 3080565	Protein489	
+Complex259	K63polyUb-PI3K beta	cytosol	Reactome DB_ID: 3080558	Protein489	
+Complex259	K63polyUb-PI3K beta	cytosol	Reactome DB_ID: 3080558	Protein437	
+Complex26	IFNAR2c:UBP43	plasma membrane	Reactome DB_ID: 912690	Protein2	
+Complex26	IFNAR2c:UBP43	plasma membrane	Reactome DB_ID: 912690	Protein150	
+Complex260	K63polyUb-PI3K delta	cytosol	Reactome DB_ID: 3080567	Protein489	
+Complex260	K63polyUb-PI3K delta	cytosol	Reactome DB_ID: 3080567	Protein438	
+Complex261	p(Y700,731,774)-CBL:CRK	cytosol	Reactome DB_ID: 912774	Protein488	
+Complex261	p(Y700,731,774)-CBL:CRK	cytosol	Reactome DB_ID: 912774	Protein493	
+Complex262	p(Y700,731,774)-CBL:CRK:RAPGEF1	cytosol	Reactome DB_ID: 914209	Protein496	
+Complex262	p(Y700,731,774)-CBL:CRK:RAPGEF1	cytosol	Reactome DB_ID: 914209	Complex261	
+Complex263	B-cell linker protein:p(Y700,731,774)-CBL	cytosol	Reactome DB_ID: 912760	Protein488	
+Complex263	B-cell linker protein:p(Y700,731,774)-CBL	cytosol	Reactome DB_ID: 912760	Protein497	
+Complex264	p(Y700,731,774)-CBL:VAV1	cytosol	Reactome DB_ID: 912755	Protein488	
+Complex264	p(Y700,731,774)-CBL:VAV1	cytosol	Reactome DB_ID: 912755	Protein498	
+Complex265	TEC:VAV1	cytosol	Reactome DB_ID: 912729	Protein499	
+Complex265	TEC:VAV1	cytosol	Reactome DB_ID: 912729	Protein498	
+Complex266	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2,p(Y593,628)-Bc:SHP1, SHP2	plasma membrane	Reactome DB_ID: 914086	Protein30	
+Complex266	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2,p(Y593,628)-Bc:SHP1, SHP2	plasma membrane	Reactome DB_ID: 914086	Complex247	
+Complex267	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2,p(Y593)-Bc:SHP1, SHP2	plasma membrane	Reactome DB_ID: 914049	Protein30	
+Complex267	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2,p(Y593)-Bc:SHP1, SHP2	plasma membrane	Reactome DB_ID: 914049	Complex268	
+Complex269	IL3:IL3R active complex, inactive JAK2, p(Y593)-Bc	plasma membrane	Reactome DB_ID: 914088	Complex270	
+Complex27	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 997300	Complex3	
+Complex27	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 997300	Complex7	
+Complex270	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 914065	Complex271	
+Complex270	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 914065	Complex147	
+Complex271	p(Y593)-Bc:JAK2	plasma membrane	Reactome DB_ID: 914033	Protein153	
+Complex271	p(Y593)-Bc:JAK2	plasma membrane	Reactome DB_ID: 914033	Protein500	
+Complex272	High affinity GM-CSF receptor complex dimer, inactive JAK2, p(Y593)- Bc	plasma membrane	Reactome DB_ID: 914025	Complex273	
+Complex273	GM-CSF:GM-CSF receptor alpha subunit:p(Y593)-Bc:JAK2	plasma membrane	Reactome DB_ID: 914077	Complex271	
+Complex273	GM-CSF:GM-CSF receptor alpha subunit:p(Y593)-Bc:JAK2	plasma membrane	Reactome DB_ID: 914077	Complex151	
+Complex274	High affinity IL-5 receptor complex dimer, inactive JAK2, p(Y593)-Bc	plasma membrane	Reactome DB_ID: 914023	Complex275	
+Complex275	IL5 homodimer:IL5RA:p(Y593)-Bc:JAK2	plasma membrane	Reactome DB_ID: 914069	Complex271	
+Complex275	IL5 homodimer:IL5RA:p(Y593)-Bc:JAK2	plasma membrane	Reactome DB_ID: 914069	Complex155	
+Complex276	SHP2:GRB2	cytosol	Reactome DB_ID: 914028	Protein430	
+Complex276	SHP2:GRB2	cytosol	Reactome DB_ID: 914028	Protein32	
+Complex278	High affinity IL-3 receptor complex dimer, inactive JAK2	plasma membrane	Reactome DB_ID: 914175	Complex279	
+Complex279	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 914167	Complex280	
+Complex279	Interleukin-3 receptor	plasma membrane	Reactome DB_ID: 914167	Complex147	
+Complex28	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1	plasma membrane	Reactome DB_ID: 997304	PhysicalEntity1	
+Complex28	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1	plasma membrane	Reactome DB_ID: 997304	Complex8	
+Complex28	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1	plasma membrane	Reactome DB_ID: 997304	Complex29	
+Complex280	p-S585-IL3RB:JAK2	plasma membrane	Reactome DB_ID: 914173	Protein153	
+Complex280	p-S585-IL3RB:JAK2	plasma membrane	Reactome DB_ID: 914173	Protein501	
+Complex281	High affinity GM-CSF receptor complex dimer, inactive JAK2, p(S585)-Bc	plasma membrane	Reactome DB_ID: 914171	Complex282	
+Complex282	GM-CSF:GM-CSF receptor alpha subunit:p(S585)-Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 914178	Complex151	
+Complex282	GM-CSF:GM-CSF receptor alpha subunit:p(S585)-Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 914178	Complex280	
+Complex283	High affinity IL-5 receptor complex dimer, inactive JAK2, p(S585)-Common beta chain	plasma membrane	Reactome DB_ID: 914168	Complex284	
+Complex284	IL5 homodimer:IL5RA:p(S585)-Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 914169	Complex280	
+Complex284	IL5 homodimer:IL5RA:p(S585)-Common beta chain:JAK2	plasma membrane	Reactome DB_ID: 914169	Complex155	
+Complex285	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc:14-3-3 zeta	plasma membrane	Reactome DB_ID: 914180	Protein506	
+Complex285	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc:14-3-3 zeta	plasma membrane	Reactome DB_ID: 914180	Complex277	
+Complex286	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc:14-3-3 zeta:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 914177	Complex285	
+Complex286	High affinity binding complex dimers of cytokine receptors using Bc, inactive JAK2, p(S589)-Bc:14-3-3 zeta:p85-containing Class 1A PI3Ks	plasma membrane	Reactome DB_ID: 914177	Complex174	
+Complex287	IL6RB:JAKs	plasma membrane	Reactome DB_ID: 1067690	Protein507	
+Complex287	IL6RB:JAKs	plasma membrane	Reactome DB_ID: 1067690	Protein508	
+Complex288	IL6:sIL6R:sgp130	extracellular region	Reactome DB_ID: 1067674	Protein509	
+Complex288	IL6:sIL6R:sgp130	extracellular region	Reactome DB_ID: 1067674	Complex210	
+Complex289	IL6:sIL6R:IL6RB:JAKs	plasma membrane	Reactome DB_ID: 1067691	Complex210	
+Complex289	IL6:sIL6R:IL6RB:JAKs	plasma membrane	Reactome DB_ID: 1067691	Complex287	
+Complex29	p-STAT2:STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 997302	Protein22	
+Complex29	p-STAT2:STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 997302	Protein20	
+Complex29	p-STAT2:STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 997302	Complex30	
+Complex290	IL6:IL6RA:IL6RB:JAKs	plasma membrane	Reactome DB_ID: 1067654	Complex208	
+Complex290	IL6:IL6RA:IL6RB:JAKs	plasma membrane	Reactome DB_ID: 1067654	Complex287	
+Complex292	IL6 receptor hexamer:JAKs	plasma membrane	Reactome DB_ID: 1112588	Complex291	
+Complex293	IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112515	Complex294	
+Complex295	IL6:IL6RA:IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112548	Complex208	
+Complex295	IL6:IL6RA:IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112548	Complex296	
+Complex296	IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112556	Protein507	
+Complex296	IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112556	Protein462	
+Complex297	IL6:sIL6R:IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112513	Complex210	
+Complex297	IL6:sIL6R:IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112513	Complex296	
+Complex298	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:STAT1/3	plasma membrane	Reactome DB_ID: 1112576	Complex204	
+Complex298	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:STAT1/3	plasma membrane	Reactome DB_ID: 1112576	Protein510	
+Complex299	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:Tyrosine phosphorylated STAT1/3	plasma membrane	Reactome DB_ID: 1112524	Complex204	
+Complex299	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:Tyrosine phosphorylated STAT1/3	plasma membrane	Reactome DB_ID: 1112524	Protein512	
+Complex3	IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909708	Protein18	
+Complex3	IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909708	Protein19	
+Complex30	p-STAT2:STAT1	cytosol	Reactome DB_ID: 997303	Protein24	
+Complex30	p-STAT2:STAT1	cytosol	Reactome DB_ID: 997303	Protein23	
+Complex300	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SOCS3	plasma membrane	Reactome DB_ID: 1112718	Protein149	
+Complex300	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SOCS3	plasma membrane	Reactome DB_ID: 1112718	Complex204	
+Complex301	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:Tyrosine/serine phosphorylated STAT1/3	plasma membrane	Reactome DB_ID: 1112759	Protein514	
+Complex301	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:Tyrosine/serine phosphorylated STAT1/3	plasma membrane	Reactome DB_ID: 1112759	Complex204	
+Complex303	p(Y705)-STAT3 dimer	cytosol	Reactome DB_ID: 1112526	Protein513	
+Complex304	p(Y701)-STAT1, p(Y705)-STAT3 dimer	cytosol	Reactome DB_ID: 1112555	Protein28	
+Complex304	p(Y701)-STAT1, p(Y705)-STAT3 dimer	cytosol	Reactome DB_ID: 1112555	Protein513	
+Complex306	p(Y701)-STAT1 dimer	nucleoplasm	Reactome DB_ID: 1112541	Protein36	
+Complex307	p(Y701)-STAT1, p(Y705)-STAT3 dimer	nucleoplasm	Reactome DB_ID: 1112590	Protein36	
+Complex307	p(Y701)-STAT1, p(Y705)-STAT3 dimer	nucleoplasm	Reactome DB_ID: 1112590	Protein516	
+Complex308	p(Y705)-STAT3 dimer	nucleoplasm	Reactome DB_ID: 1112525	Protein516	
+Complex309	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SHP2	plasma membrane	Reactome DB_ID: 1112758	Complex204	
+Complex309	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SHP2	plasma membrane	Reactome DB_ID: 1112758	Protein32	
+Complex31	IFNGR1:JAK1:INFG2:JAK2	plasma membrane	Reactome DB_ID: 873810	Complex32	
+Complex31	IFNGR1:JAK1:INFG2:JAK2	plasma membrane	Reactome DB_ID: 873810	Complex33	
+Complex310	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SHP2:CBL	plasma membrane	Reactome DB_ID: 1112744	Protein482	
+Complex310	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs:SHP2:CBL	plasma membrane	Reactome DB_ID: 1112744	Complex309	
+Complex311	PPBSF	extracellular region	Reactome DB_ID: 1266704	Protein517	
+Complex311	PPBSF	extracellular region	Reactome DB_ID: 1266704	Protein518	
+Complex312	IL7RA:JAK1	plasma membrane	Reactome DB_ID: 1264843	Protein1	
+Complex312	IL7RA:JAK1	plasma membrane	Reactome DB_ID: 1264843	Protein519	
+Complex313	IL7:IL7RA:JAK1	plasma membrane	Reactome DB_ID: 449983	Protein517	
+Complex313	IL7:IL7RA:JAK1	plasma membrane	Reactome DB_ID: 449983	Complex312	
+Complex314	IL7:IL7RA:JAK1:IL2RG:JAK3	plasma membrane	Reactome DB_ID: 449967	Complex129	
+Complex314	IL7:IL7RA:JAK1:IL2RG:JAK3	plasma membrane	Reactome DB_ID: 449967	Complex313	
+Complex315	IL7:p(Y449)-IL7RA:JAK1:IL2RG:JAK3	plasma membrane	Reactome DB_ID: 1295546	Complex129	
+Complex315	IL7:p(Y449)-IL7RA:JAK1:IL2RG:JAK3	plasma membrane	Reactome DB_ID: 1295546	Complex316	
+Complex316	IL7:p(Y449)-IL7RA:JAK1	plasma membrane	Reactome DB_ID: 1295539	Protein517	
+Complex316	IL7:p(Y449)-IL7RA:JAK1	plasma membrane	Reactome DB_ID: 1295539	Complex317	
+Complex317	p(Y449)-IL7RA:JAK1	plasma membrane	Reactome DB_ID: 1295512	Protein1	
+Complex317	p(Y449)-IL7RA:JAK1	plasma membrane	Reactome DB_ID: 1295512	Protein520	
+Complex318	IL7:p(Y449)-IL7RA:JAK1:IL2RG:JAK3:PI3K-regulatory subunits	plasma membrane	Reactome DB_ID: 1295544	Complex315	
+Complex318	IL7:p(Y449)-IL7RA:JAK1:IL2RG:JAK3:PI3K-regulatory subunits	plasma membrane	Reactome DB_ID: 1295544	Protein523	
+Complex319	Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 982774	Protein153	
+Complex319	Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 982774	Protein527	
+Complex32	IFNGR2:JAK2	plasma membrane	Reactome DB_ID: 873808	Protein152	
+Complex32	IFNGR2:JAK2	plasma membrane	Reactome DB_ID: 873808	Protein153	
+Complex320	Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 982764	Complex319	
+Complex321	GHBP:GHR	plasma membrane	Reactome DB_ID: 1362481	Protein528	
+Complex321	GHBP:GHR	plasma membrane	Reactome DB_ID: 1362481	Protein527	
+Complex322	Growth Hormone: Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 982813	Complex320	
+Complex322	Growth Hormone: Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 982813	Protein524	
+Complex323	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168384	Complex324	
+Complex323	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168384	Protein524	
+Complex324	Activated Growth Hormone Receptor:JAK2 dimer	plasma membrane	Reactome DB_ID: 1168387	Complex325	
+Complex325	Activated Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 1168397	Protein529	
+Complex325	Activated Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 1168397	Protein153	
+Complex327	PRLR ligands:Activated PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 976956	PhysicalEntity17	
+Complex327	PRLR ligands:Activated PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 976956	Complex329	
+Complex328	Placental lactogen	extracellular region	Reactome DB_ID: 1172022	Protein531	
+Complex328	Placental lactogen	extracellular region	Reactome DB_ID: 1172022	SmallMolecule13	
+Complex329	Activated PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1671734	Complex330	
+Complex33	IFNGR1:JAK1	plasma membrane	Reactome DB_ID: 873803	Protein1	
+Complex33	IFNGR1:JAK1	plasma membrane	Reactome DB_ID: 873803	Protein154	
+Complex330	Activated PRLR:JAK2	plasma membrane	Reactome DB_ID: 1977936	Protein532	
+Complex330	Activated PRLR:JAK2	plasma membrane	Reactome DB_ID: 1977936	Protein153	
+Complex332	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168856	Complex333	
+Complex332	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168856	Protein524	
+Complex333	Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168860	Complex334	
+Complex334	Activated Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1168869	Protein529	
+Complex334	Activated Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1168869	Protein156	
+Complex335	PRLR ligands:Activated PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1671683	PhysicalEntity17	
+Complex335	PRLR ligands:Activated PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1671683	Complex336	
+Complex336	Activated PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1364075	Complex337	
+Complex337	Activated PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1364053	Protein532	
+Complex337	Activated PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1364053	Protein156	
+Complex338	PRLR ligands:Activated PRLR:JAK2 dimer:SH2B1 beta	plasma membrane	Reactome DB_ID: 1675475	Complex327	
+Complex338	PRLR ligands:Activated PRLR:JAK2 dimer:SH2B1 beta	plasma membrane	Reactome DB_ID: 1675475	Protein533	
+Complex339	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168898	Protein524	
+Complex339	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168898	Complex340	
+Complex34	IFNG homodimer	extracellular region	Reactome DB_ID: 873823	Protein155	
+Complex340	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168890	Complex341	
+Complex341	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1168892	Protein156	
+Complex341	Tyrosine phosphorylated Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1168892	Protein540	
+Complex342	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5	plasma membrane	Reactome DB_ID: 1168902	Protein415	
+Complex342	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:STAT5	plasma membrane	Reactome DB_ID: 1168902	Complex339	
+Complex343	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	plasma membrane	Reactome DB_ID: 1168901	Protein471	
+Complex343	Growth Hormone:Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:p-STAT5	plasma membrane	Reactome DB_ID: 1168901	Complex339	
+Complex344	Growth Hormone:Growth Hormone Receptor-JAK2 dimer:LYN	plasma membrane	Reactome DB_ID: 1168921	Complex322	
+Complex344	Growth Hormone:Growth Hormone Receptor-JAK2 dimer:LYN	plasma membrane	Reactome DB_ID: 1168921	Protein486	
+Complex345	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3	plasma membrane	Reactome DB_ID: 1169146	Protein510	
+Complex345	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:STAT1/STAT3	plasma membrane	Reactome DB_ID: 1169146	Complex332	
+Complex346	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3	plasma membrane	Reactome DB_ID: 1169186	Protein543	
+Complex346	Growth Hormone: Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer:p(Y701)-STAT1/p(Y705)-STAT3	plasma membrane	Reactome DB_ID: 1169186	Complex332	
+Complex347	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:CIS/SOCS1-3	plasma membrane	Reactome DB_ID: 1169217	Protein545	
+Complex347	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:CIS/SOCS1-3	plasma membrane	Reactome DB_ID: 1169217	Complex339	
+Complex348	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SOCS	plasma membrane	Reactome DB_ID: 1169198	Protein548	
+Complex348	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SOCS	plasma membrane	Reactome DB_ID: 1169198	Complex339	
+Complex349	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1169227	Protein151	
+Complex349	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1169227	Complex339	
+Complex35	IFNG:IFNGR complex	plasma membrane	Reactome DB_ID: 873829	Complex31	
+Complex35	IFNG:IFNGR complex	plasma membrane	Reactome DB_ID: 873829	Complex34	
+Complex350	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1169233	Complex351	
+Complex350	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1169233	Protein151	
+Complex351	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1169232	Protein524	
+Complex351	Growth Hormone:p(Y332,487,627)-Growth Hormone Receptor-p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1169232	Complex352	
+Complex352	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1169231	Complex353	
+Complex353	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1169228	Protein549	
+Complex353	p(Y332,487,627)-Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1169228	Protein156	
+Complex354	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1169221	Complex355	
+Complex354	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1169221	Protein151	
+Complex355	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1169225	Protein524	
+Complex355	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1169225	Complex356	
+Complex356	Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1169224	Complex357	
+Complex357	Tyrosine phosphorylated Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 1169223	Protein153	
+Complex357	Tyrosine phosphorylated Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 1169223	Protein540	
+Complex358	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1	plasma membrane	Reactome DB_ID: 1169243	Protein31	
+Complex358	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-p(Y1007)-JAK2 dimer:SHP1	plasma membrane	Reactome DB_ID: 1169243	Complex339	
+Complex359	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1	plasma membrane	Reactome DB_ID: 1169239	Complex355	
+Complex359	Growth Hormone: Tyrosine phosphorylated Growth Hormone Receptor-JAK2 dimer:SHP1	plasma membrane	Reactome DB_ID: 1169239	Protein31	
+Complex36	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873811	Complex37	
+Complex36	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873811	Complex34	
+Complex360	GHBP:GH	extracellular region	Reactome DB_ID: 1362492	Protein528	
+Complex360	GHBP:GH	extracellular region	Reactome DB_ID: 1362492	Protein524	
+Complex361	PRLR:JAK2	plasma membrane	Reactome DB_ID: 1302663	Protein553	
+Complex361	PRLR:JAK2	plasma membrane	Reactome DB_ID: 1302663	Protein153	
+Complex362	PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1364076	Complex361	
+Complex363	PRLR ligands:PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1671652	PhysicalEntity17	
+Complex363	PRLR ligands:PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1671652	Complex362	
+Complex364	PRLR ligands:p(S349)- PRLR:JAK2 dimer:SCF beta-TrCP complex	plasma membrane	Reactome DB_ID: 1369085	Complex365	
+Complex364	PRLR ligands:p(S349)- PRLR:JAK2 dimer:SCF beta-TrCP complex	plasma membrane	Reactome DB_ID: 1369085	Complex125	
+Complex365	PRLR ligands:p(S349)-PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1977946	PhysicalEntity17	
+Complex365	PRLR ligands:p(S349)-PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1977946	Complex366	
+Complex366	p(S349)-PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1675474	Complex367	
+Complex367	p(S349)-PRLR:JAK2	plasma membrane	Reactome DB_ID: 1370506	Protein153	
+Complex367	p(S349)-PRLR:JAK2	plasma membrane	Reactome DB_ID: 1370506	Protein554	
+Complex368	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1369125	PhysicalEntity17	
+Complex368	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1369125	Complex369	
+Complex369	p(Y611)-PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1977945	Complex370	
+Complex37	IFNGR complex with p-JAK2	plasma membrane	Reactome DB_ID: 873830	Complex38	
+Complex37	IFNGR complex with p-JAK2	plasma membrane	Reactome DB_ID: 873830	Complex33	
+Complex370	p(Y611)-PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1369079	Protein156	
+Complex370	p(Y611)-PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1369079	Protein555	
+Complex371	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2:STAT5	plasma membrane	Reactome DB_ID: 1369095	Protein415	
+Complex371	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2:STAT5	plasma membrane	Reactome DB_ID: 1369095	Complex368	
+Complex372	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-STAT5	plasma membrane	Reactome DB_ID: 1671696	Complex368	
+Complex372	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-STAT5	plasma membrane	Reactome DB_ID: 1671696	Protein471	
+Complex373	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1369118	Complex368	
+Complex373	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1369118	Protein32	
+Complex374	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-SHP2	plasma membrane	Reactome DB_ID: 1369127	Complex368	
+Complex374	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-SHP2	plasma membrane	Reactome DB_ID: 1369127	Protein556	
+Complex375	PRLR ligands:p(S349)- PRLR:JAK2 dimer:SCF beta-TrCP complex	plasma membrane	Reactome DB_ID: 1370498	Complex376	
+Complex376	p(S349)-PRLR:JAK2 dimer	endosome lumen	Reactome DB_ID: 2002375	Complex377	
+Complex377	p(S349)-PRLR:JAK2	endosome lumen	Reactome DB_ID: 2002374	Protein557	
+Complex377	p(S349)-PRLR:JAK2	endosome lumen	Reactome DB_ID: 2002374	Protein558	
+Complex38	IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873819	Protein152	
+Complex38	IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873819	Protein156	
+Complex39	IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873820	Complex40	
+Complex39	IFNG:IFNGR1:p-JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873820	Complex34	
+Complex4	IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909703	Complex3	
+Complex4	IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909703	Complex2	
+Complex40	IFNGR complex with p-JAK	plasma membrane	Reactome DB_ID: 873800	Complex41	
+Complex40	IFNGR complex with p-JAK	plasma membrane	Reactome DB_ID: 873800	Complex38	
+Complex41	IFNGR1:p-JAK1	plasma membrane	Reactome DB_ID: 873807	Protein21	
+Complex41	IFNGR1:p-JAK1	plasma membrane	Reactome DB_ID: 873807	Protein154	
+Complex42	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3	plasma membrane	Reactome DB_ID: 873821	Protein147	
+Complex42	IFNG:IFNGR1:JAK1:IFNGR2:p-JAK2:SOCS-1/-3	plasma membrane	Reactome DB_ID: 873821	Complex36	
+Complex43	IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873814	Complex44	
+Complex43	IFNG:p-IFNGR1:p-JAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873814	Complex34	
+Complex44	p-IFNGR1:pJAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873826	Complex45	
+Complex44	p-IFNGR1:pJAK1:IFNGR2:p-JAK2	plasma membrane	Reactome DB_ID: 873826	Complex38	
+Complex45	p-IFNGR1:p-JAK1	plasma membrane	Reactome DB_ID: 873805	Protein21	
+Complex45	p-IFNGR1:p-JAK1	plasma membrane	Reactome DB_ID: 873805	Protein157	
+Complex46	STAT1 bound to p-IFNGR1	plasma membrane	Reactome DB_ID: 873828	Protein25	
+Complex46	STAT1 bound to p-IFNGR1	plasma membrane	Reactome DB_ID: 873828	Complex43	
+Complex47	p-STAT1(Y701) bound to p-IFNGR1	plasma membrane	Reactome DB_ID: 873817	Complex21	
+Complex47	p-STAT1(Y701) bound to p-IFNGR1	plasma membrane	Reactome DB_ID: 873817	Complex43	
+Complex48	p-STAT1 dimer bound to p-IFNGR1	plasma membrane	Reactome DB_ID: 909556	Complex49	
+Complex48	p-STAT1 dimer bound to p-IFNGR1	plasma membrane	Reactome DB_ID: 909556	Complex43	
+Complex49	p-STAT1:p-STAT1 dimer	cytosol	Reactome DB_ID: 873827	Protein158	
+Complex5	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909705	Complex6	
+Complex5	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909705	Complex7	
+Complex50	CaMKII	cytosol	Reactome DB_ID: 445374	Protein159	
+Complex50	CaMKII	cytosol	Reactome DB_ID: 445374	Protein162	
+Complex51	p-STAT1 homodimer	nucleoplasm	Reactome DB_ID: 873824	Protein166	
+Complex52	GAF bound to GAS promoter element	nucleoplasm	Reactome DB_ID: 1031710	Complex51	
+Complex52	GAF bound to GAS promoter element	nucleoplasm	Reactome DB_ID: 1031710	PhysicalEntity4	
+Complex53	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein180	
+Complex53	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein201	
+Complex54	p-STAT1 dimer:PIAS:SUMO1	nucleoplasm	Reactome DB_ID: 877297	Protein216	
+Complex54	p-STAT1 dimer:PIAS:SUMO1	nucleoplasm	Reactome DB_ID: 877297	Complex51	
+Complex54	p-STAT1 dimer:PIAS:SUMO1	nucleoplasm	Reactome DB_ID: 877297	Protein217	
+Complex55	ISG15:UBE1L	cytosol	Reactome DB_ID: 1169390	Protein145	
+Complex55	ISG15:UBE1L	cytosol	Reactome DB_ID: 1169390	Protein220	
+Complex56	ISG15:UBCH8	cytosol	Reactome DB_ID: 1169385	Protein221	
+Complex56	ISG15:UBCH8	cytosol	Reactome DB_ID: 1169385	Protein145	
+Complex57	ISG15:UBCH8:ISG15 E3 ligase	cytosol	Reactome DB_ID: 1169383	Protein222	
+Complex57	ISG15:UBCH8:ISG15 E3 ligase	cytosol	Reactome DB_ID: 1169383	Complex56	
+Complex58	ISGylated host proteins	cytosol	Reactome DB_ID: 1169387	PhysicalEntity5	
+Complex58	ISGylated host proteins	cytosol	Reactome DB_ID: 1169387	Protein145	
+Complex59	ISGylated Filamin B	cytosol	Reactome DB_ID: 1169388	Protein232	
+Complex59	ISGylated Filamin B	cytosol	Reactome DB_ID: 1169388	Protein145	
+Complex6	IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909707	Protein20	
+Complex6	IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909707	Protein19	
+Complex60	ISGylated PP2CB	cytosol	Reactome DB_ID: 1169391	Protein233	
+Complex60	ISGylated PP2CB	cytosol	Reactome DB_ID: 1169391	Protein145	
+Complex61	ISGylated E2 conjugating enzymes	cytosol	Reactome DB_ID: 1169382	Protein145	
+Complex61	ISGylated E2 conjugating enzymes	cytosol	Reactome DB_ID: 1169382	Protein234	
+Complex62	ISG15:NEDD4	cytosol	Reactome DB_ID: 1169384	Protein145	
+Complex62	ISG15:NEDD4	cytosol	Reactome DB_ID: 1169384	Protein236	
+Complex63	ISGylated NS1	cytosol	Reactome DB_ID: 1169392	Protein237	
+Complex63	ISGylated NS1	cytosol	Reactome DB_ID: 1169392	Protein145	
+Complex64	NS1 Homodimer	cytosol	Reactome DB_ID: 169143	Protein237	
+Complex65	NS1 homodimer:Importin	nucleoplasm	Reactome DB_ID: 1176067	PhysicalEntity7	
+Complex65	NS1 homodimer:Importin	nucleoplasm	Reactome DB_ID: 1176067	Complex66	
+Complex66	NS1 Homodimer	nucleoplasm	Reactome DB_ID: 169145	Protein254	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein255	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein256	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein257	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein258	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein259	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein260	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Complex68	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Complex69	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein270	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein271	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein272	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein275	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein276	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein277	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein278	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein279	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein280	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein281	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein282	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein283	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein284	
+Complex67	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein285	
+Complex68	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein261	
+Complex68	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein262	
+Complex68	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein263	
+Complex68	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein264	
+Complex69	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein265	
+Complex69	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein266	
+Complex69	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein267	
+Complex69	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein268	
+Complex69	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein269	
+Complex7	IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909692	PhysicalEntity1	
+Complex7	IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909692	Complex8	
+Complex70	ISGylated IRF3	cytosol	Reactome DB_ID: 1169389	Protein145	
+Complex70	ISGylated IRF3	cytosol	Reactome DB_ID: 1169389	Protein120	
+Complex71	ISGylated 4EHP	cytosol	Reactome DB_ID: 1678834	Protein286	
+Complex71	ISGylated 4EHP	cytosol	Reactome DB_ID: 1678834	Complex57	
+Complex72	eIF4F:mRNA	cytosol	Reactome DB_ID: 72585	Rna1	
+Complex72	eIF4F:mRNA	cytosol	Reactome DB_ID: 72585	Complex73	
+Complex73	EIF4F	cytosol	Reactome DB_ID: 1678832	Protein287	
+Complex73	EIF4F	cytosol	Reactome DB_ID: 1678832	Protein291	
+Complex73	EIF4F	cytosol	Reactome DB_ID: 1678832	Protein294	
+Complex74	ISGylated 4EHP:mRNA	cytosol	Reactome DB_ID: 1678836	Rna1	
+Complex74	ISGylated 4EHP:mRNA	cytosol	Reactome DB_ID: 1678836	Complex71	
+Complex75	p-IRF3 dimer:PIN1	nucleoplasm	Reactome DB_ID: 936444	Protein298	
+Complex75	p-IRF3 dimer:PIN1	nucleoplasm	Reactome DB_ID: 936444	Complex76	
+Complex76	p-IRF3:p-IRF3	nucleoplasm	Reactome DB_ID: 936446	Protein299	
+Complex77	monoubiquitinated N-myristoyl GAG (P12493) protein	cytosol	Reactome DB_ID: 184273	Protein300	
+Complex77	monoubiquitinated N-myristoyl GAG (P12493) protein	cytosol	Reactome DB_ID: 184273	Protein315	
+Complex78	Caspase-1 p10/p20 dimer	cytosol	Reactome DB_ID: 448695	Protein319	
+Complex78	Caspase-1 p10/p20 dimer	cytosol	Reactome DB_ID: 448695	Protein320	
+Complex79	Caspase-1 active tetramer	cytosol	Reactome DB_ID: 448691	Complex78	
+Complex8	IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909715	Protein21	
+Complex8	IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909715	Protein2	
+Complex8	IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909715	Protein3	
+Complex80	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein335	
+Complex80	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein336	
+Complex81	Interleukin-1 receptor type 1:Interleukin-1	plasma membrane	Reactome DB_ID: 445755	Protein343	
+Complex81	Interleukin-1 receptor type 1:Interleukin-1	plasma membrane	Reactome DB_ID: 445755	Protein344	
+Complex82	Interleukin 1 receptor type 2:interleukin 1	plasma membrane	Reactome DB_ID: 446125	Protein343	
+Complex82	Interleukin 1 receptor type 2:interleukin 1	plasma membrane	Reactome DB_ID: 446125	Protein345	
+Complex83	Interleukin 1 receptors:IL1RN	plasma membrane	Reactome DB_ID: 445751	Protein346	
+Complex83	Interleukin 1 receptors:IL1RN	plasma membrane	Reactome DB_ID: 445751	Protein347	
+Complex84	IL1R1:IL1:IL1RAP	plasma membrane	Reactome DB_ID: 445758	Protein348	
+Complex84	IL1R1:IL1:IL1RAP	plasma membrane	Reactome DB_ID: 445758	Complex81	
+Complex85	MYD88 homodimer	cytosol	Reactome DB_ID: 193932	Protein349	
+Complex86	IL1:IL1R1:IL1RAP:MYD88 homodimer	plasma membrane	Reactome DB_ID: 450120	Complex84	
+Complex86	IL1:IL1R1:IL1RAP:MYD88 homodimer	plasma membrane	Reactome DB_ID: 450120	Complex85	
+Complex87	IL1 receptor complex	plasma membrane	Reactome DB_ID: 446637	Complex86	
+Complex87	IL1 receptor complex	plasma membrane	Reactome DB_ID: 446637	Protein350	
+Complex88	IL1 receptor complex:TOLLIP	plasma membrane	Reactome DB_ID: 446888	Protein351	
+Complex88	IL1 receptor complex:TOLLIP	plasma membrane	Reactome DB_ID: 446888	Complex87	
+Complex89	IL1 receptor complex - activated IRAK4:TOLLIP	plasma membrane	Reactome DB_ID: 446643	Protein351	
+Complex89	IL1 receptor complex - activated IRAK4:TOLLIP	plasma membrane	Reactome DB_ID: 446643	Complex84	
+Complex89	IL1 receptor complex - activated IRAK4:TOLLIP	plasma membrane	Reactome DB_ID: 446643	Protein352	
+Complex89	IL1 receptor complex - activated IRAK4:TOLLIP	plasma membrane	Reactome DB_ID: 446643	Complex85	
+Complex9	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909704	Complex7	
+Complex9	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909704	Complex10	
+Complex90	IL1 receptor complex-activated IRAK4:TOLLIP:IRAK1	plasma membrane	Reactome DB_ID: 446693	Protein353	
+Complex90	IL1 receptor complex-activated IRAK4:TOLLIP:IRAK1	plasma membrane	Reactome DB_ID: 446693	Complex89	
+Complex91	IL1 receptor complex- activated IRAK4:TOLLIP:p-IRAK1	plasma membrane	Reactome DB_ID: 446689	Protein354	
+Complex91	IL1 receptor complex- activated IRAK4:TOLLIP:p-IRAK1	plasma membrane	Reactome DB_ID: 446689	Complex89	
+Complex92	IL1 receptor complex- activated IRAK4:TOLLIP:hp-IRAK1	plasma membrane	Reactome DB_ID: 446696	Protein355	
+Complex92	IL1 receptor complex- activated IRAK4:TOLLIP:hp-IRAK1	plasma membrane	Reactome DB_ID: 446696	Complex89	
+Complex93	IL1 receptor complex-activated IRAK4:TOLLIP:hp-IRAK:TRAF6	plasma membrane	Reactome DB_ID: 446864	Protein358	
+Complex93	IL1 receptor complex-activated IRAK4:TOLLIP:hp-IRAK:TRAF6	plasma membrane	Reactome DB_ID: 446864	Complex92	
+Complex94	p62:MEKK3	cytosol	Reactome DB_ID: 507714	Protein359	
+Complex94	p62:MEKK3	cytosol	Reactome DB_ID: 507714	Protein360	
+Complex95	p62:MEKK3:TRAF6	cytosol	Reactome DB_ID: 507716	Protein358	
+Complex95	p62:MEKK3:TRAF6	cytosol	Reactome DB_ID: 507716	Complex94	
+Complex96	hp-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 450121	Protein355	
+Complex96	hp-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 450121	Protein358	
+Complex97	hp-IRAK1:oligo-TRAF6	cytosol	Reactome DB_ID: 450159	Protein358	
+Complex97	hp-IRAK1:oligo-TRAF6	cytosol	Reactome DB_ID: 450159	Complex96	
+Complex98	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein362	
+Complex98	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein235	
+Complex99	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Complex100	
+Complex99	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Protein363	

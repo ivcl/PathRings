@@ -1,0 +1,42 @@
+BiochemicalReaction1	Phosphorylation of TBSMs in LAT	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of TBSMs in LAT	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of TBSMs in LAT	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of TBSMs in LAT	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Disassociation of PLC-gamma1 from SLP-76	Complex19	Complex12	
+BiochemicalReaction10	Disassociation of PLC-gamma1 from SLP-76	Complex19	Protein50	
+BiochemicalReaction11	Translocation of PLC-gamma1 to PIP2	SmallMolecule3	Complex21	
+BiochemicalReaction11	Translocation of PLC-gamma1 to PIP2	Protein50	Complex21	
+BiochemicalReaction12	PLC-gamma1 hydrolyses PIP2	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction12	PLC-gamma1 hydrolyses PIP2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction12	PLC-gamma1 hydrolyses PIP2	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction12	PLC-gamma1 hydrolyses PIP2	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction13	p-SLP-76 binds ADAP	Protein47	Complex22	
+BiochemicalReaction13	p-SLP-76 binds ADAP	Protein52	Complex22	
+BiochemicalReaction14	p-SLP-76:ADAP binds Ena/VASP	Protein53	Complex23	
+BiochemicalReaction14	p-SLP-76:ADAP binds Ena/VASP	Complex22	Complex23	
+BiochemicalReaction15	p-SLP-76 binds NCK	Protein47	Complex24	
+BiochemicalReaction15	p-SLP-76 binds NCK	Protein57	Complex24	
+BiochemicalReaction16	NCK binds PAK	Protein58	Complex25	
+BiochemicalReaction16	NCK binds PAK	Complex24	Complex25	
+BiochemicalReaction17	NCK recruits WASP	Complex24	Complex26	
+BiochemicalReaction17	NCK recruits WASP	Protein61	Complex26	
+BiochemicalReaction2	Recruitment of Gads to LAT	Protein2	Complex10	
+BiochemicalReaction2	Recruitment of Gads to LAT	Protein45	Complex10	
+BiochemicalReaction3	Recruitment of SLP-76 to Gads	Complex10	Complex11	
+BiochemicalReaction3	Recruitment of SLP-76 to Gads	Protein46	Complex11	
+BiochemicalReaction4	Phosphorylation of SLP-76	Complex11	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of SLP-76	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of SLP-76	SmallMolecule1	Complex12	
+BiochemicalReaction4	Phosphorylation of SLP-76	Complex11	Complex12	
+BiochemicalReaction5	Recruitment of ITK to SLP-76	Complex12	Complex13	
+BiochemicalReaction5	Recruitment of ITK to SLP-76	Protein48	Complex13	
+BiochemicalReaction6	Recruitment of PLC-gamma1 to SLP-76	Protein49	Complex14	
+BiochemicalReaction6	Recruitment of PLC-gamma1 to SLP-76	Complex12	Complex14	
+BiochemicalReaction7	Recruitment of PLC-gamma1 to LAT	Protein2	Complex15	
+BiochemicalReaction7	Recruitment of PLC-gamma1 to LAT	Protein49	Complex15	
+BiochemicalReaction8	Phosphorylation of PLC-gamma1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of PLC-gamma1	Complex16	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of PLC-gamma1	Complex16	Complex17	
+BiochemicalReaction8	Phosphorylation of PLC-gamma1	SmallMolecule1	Complex17	
+BiochemicalReaction9	Disassociation of PLC-gamma1 from LAT	Complex18	Protein2	
+BiochemicalReaction9	Disassociation of PLC-gamma1 from LAT	Complex18	Protein50	

@@ -1,0 +1,15 @@
+BiochemicalReaction1	Cytochrome C Binds to Apaf-1	Protein1	Complex1	
+BiochemicalReaction1	Cytochrome C Binds to Apaf-1	Protein2	Complex1	
+BiochemicalReaction2	Cytochrome C:Apaf-1 binds Procaspase-9	Protein3	Complex2	
+BiochemicalReaction2	Cytochrome C:Apaf-1 binds Procaspase-9	Complex1	Complex2	
+BiochemicalReaction2	Cytochrome C:Apaf-1 binds Procaspase-9	SmallMolecule1	Complex2	
+BiochemicalReaction3	Cleavage of Procaspase-9 to Caspase-9	Complex2	SmallMolecule2	
+BiochemicalReaction3	Cleavage of Procaspase-9 to Caspase-9	Complex2	Complex3	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	Protein6	SmallMolecule2	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule1	Complex5	
+BiochemicalReaction4	Cleavage of Procaspase-3 by the apoptosome	Protein6	Complex5	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	Protein9	SmallMolecule2	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	Protein9	Complex6	
+BiochemicalReaction5	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule1	Complex6	

@@ -1,0 +1,10 @@
+BiochemicalReaction1	MEK2 binds ERK-2	Protein1	Complex1	
+BiochemicalReaction1	MEK2 binds ERK-2	Protein2	Complex1	
+BiochemicalReaction2	MEK2 phosphorylates ERK-2	Complex1	SmallMolecule2	
+BiochemicalReaction2	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex2	
+BiochemicalReaction2	MEK2 phosphorylates ERK-2	Complex1	Complex2	
+BiochemicalReaction3	Dissociation of phospho-ERK-2:MEK2	Complex2	Protein1	
+BiochemicalReaction3	Dissociation of phospho-ERK-2:MEK2	Complex2	Protein3	
+BiochemicalReaction4	Dimerisation of phospho-ERK-2	Protein3	Complex3	
+BiochemicalReaction5	Nuclear translocation of phospho-ERK-2 dimer	Complex3	Complex4	

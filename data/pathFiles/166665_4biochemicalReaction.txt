@@ -1,0 +1,9 @@
+BiochemicalReaction1	Formation of C5b:C6 complex	Protein1	Complex2	
+BiochemicalReaction1	Formation of C5b:C6 complex	Complex1	Complex2	
+BiochemicalReaction2	Formation of C5b:C6:C7 complex	Complex2	Complex3	
+BiochemicalReaction2	Formation of C5b:C6:C7 complex	Protein4	Complex3	
+BiochemicalReaction3	C7 allows complex to insert into membrane under attack	Complex3	Complex4	
+BiochemicalReaction4	Formation of C5b:C6:C7:C8 complex	Complex5	Complex6	
+BiochemicalReaction4	Formation of C5b:C6:C7:C8 complex	Complex4	Complex6	
+BiochemicalReaction5	Creation of the Membrane Attack Complex (MAC)	Protein8	Complex7	
+BiochemicalReaction5	Creation of the Membrane Attack Complex (MAC)	Complex6	Complex7	

@@ -1,0 +1,110 @@
+BiochemicalReaction1	Binding of PI3K subunit p85 (PIK3R1) to ERBB2:P-ERBB3 heterodimer	Protein1	Complex5	
+BiochemicalReaction1	Binding of PI3K subunit p85 (PIK3R1) to ERBB2:P-ERBB3 heterodimer	Complex1	Complex5	
+BiochemicalReaction10	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction10	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction10	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction10	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction11	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction11	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction11	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction11	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction12	PIP3 recruits AKT to the membrane	Protein94	Complex79	
+BiochemicalReaction12	PIP3 recruits AKT to the membrane	SmallMolecule4	Complex79	
+BiochemicalReaction13	PIP3 recruits PDPK1 to the membrane	Protein102	Complex80	
+BiochemicalReaction13	PIP3 recruits PDPK1 to the membrane	SmallMolecule4	Complex80	
+BiochemicalReaction14	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction14	TORC2 (mTOR) phosphorylates AKT at S473	Complex79	SmallMolecule3	
+BiochemicalReaction14	TORC2 (mTOR) phosphorylates AKT at S473	Complex79	Complex81	
+BiochemicalReaction14	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule2	Complex81	
+BiochemicalReaction15	AKT binds PDPK1	Complex80	Complex84	
+BiochemicalReaction15	AKT binds PDPK1	Complex81	Complex84	
+BiochemicalReaction16	PDPK1 phosphorylates AKT at T308	Complex84	Complex80	
+BiochemicalReaction16	PDPK1 phosphorylates AKT at T308	SmallMolecule2	Complex80	
+BiochemicalReaction16	PDPK1 phosphorylates AKT at T308	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	PDPK1 phosphorylates AKT at T308	Complex84	SmallMolecule3	
+BiochemicalReaction16	PDPK1 phosphorylates AKT at T308	SmallMolecule2	Protein115	
+BiochemicalReaction16	PDPK1 phosphorylates AKT at T308	Complex84	Protein115	
+BiochemicalReaction17	AKT phosphorylates BAD	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction17	AKT phosphorylates BAD	Protein119	SmallMolecule3	
+BiochemicalReaction17	AKT phosphorylates BAD	Protein119	Protein120	
+BiochemicalReaction17	AKT phosphorylates BAD	SmallMolecule2	Protein120	
+BiochemicalReaction18	AKT phosphorylates GSK3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction18	AKT phosphorylates GSK3	Protein121	SmallMolecule3	
+BiochemicalReaction18	AKT phosphorylates GSK3	Protein121	Protein124	
+BiochemicalReaction18	AKT phosphorylates GSK3	SmallMolecule2	Protein124	
+BiochemicalReaction19	AKT phosphorylates caspase-9	Protein127	SmallMolecule3	
+BiochemicalReaction19	AKT phosphorylates caspase-9	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction19	AKT phosphorylates caspase-9	SmallMolecule2	Protein128	
+BiochemicalReaction19	AKT phosphorylates caspase-9	Protein127	Protein128	
+BiochemicalReaction2	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1 bound to phosphorylated heterodimer of ERBB2 and ERBB3. 	Complex5	Complex6	
+BiochemicalReaction2	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1 bound to phosphorylated heterodimer of ERBB2 and ERBB3. 	Protein9	Complex6	
+BiochemicalReaction20	AKT phosphorylates MDM2	SmallMolecule2	Protein130	
+BiochemicalReaction20	AKT phosphorylates MDM2	Protein129	Protein130	
+BiochemicalReaction20	AKT phosphorylates MDM2	Protein129	SmallMolecule3	
+BiochemicalReaction20	AKT phosphorylates MDM2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction21	AKT phosphorylates IKKalpha	Protein131	SmallMolecule3	
+BiochemicalReaction21	AKT phosphorylates IKKalpha	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction21	AKT phosphorylates IKKalpha	SmallMolecule2	Protein132	
+BiochemicalReaction21	AKT phosphorylates IKKalpha	Protein131	Protein132	
+BiochemicalReaction22	AKT phosphorylates p21Cip1 and p27Kip1	Protein133	Protein136	
+BiochemicalReaction22	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule2	Protein136	
+BiochemicalReaction22	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction22	AKT phosphorylates p21Cip1 and p27Kip1	Protein133	SmallMolecule3	
+BiochemicalReaction23	AKT phosphorylates TSC2, inhibiting it	Protein139	SmallMolecule3	
+BiochemicalReaction23	AKT phosphorylates TSC2, inhibiting it	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction23	AKT phosphorylates TSC2, inhibiting it	SmallMolecule2	Protein140	
+BiochemicalReaction23	AKT phosphorylates TSC2, inhibiting it	Protein139	Protein140	
+BiochemicalReaction24	AKT phosphorylates AKT1S1 (PRAS40)	Protein141	Protein142	
+BiochemicalReaction24	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule2	Protein142	
+BiochemicalReaction24	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction24	AKT phosphorylates AKT1S1 (PRAS40)	Protein141	SmallMolecule3	
+BiochemicalReaction25	AKT translocates to the nucleus	Protein115	Protein143	
+BiochemicalReaction26	AKT phosphorylates CREB1	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction26	AKT phosphorylates CREB1	Protein147	SmallMolecule7	
+BiochemicalReaction26	AKT phosphorylates CREB1	Protein147	Protein148	
+BiochemicalReaction26	AKT phosphorylates CREB1	SmallMolecule6	Protein148	
+BiochemicalReaction27	AKT can phosphorylate forkhead box transcription factors	Protein149	SmallMolecule7	
+BiochemicalReaction27	AKT can phosphorylate forkhead box transcription factors	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction27	AKT can phosphorylate forkhead box transcription factors	SmallMolecule6	Protein154	
+BiochemicalReaction27	AKT can phosphorylate forkhead box transcription factors	Protein149	Protein154	
+BiochemicalReaction28	AKT can phosphorylate RSK	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction28	AKT can phosphorylate RSK	Protein159	SmallMolecule7	
+BiochemicalReaction28	AKT can phosphorylate RSK	Protein159	Protein160	
+BiochemicalReaction28	AKT can phosphorylate RSK	SmallMolecule6	Protein160	
+BiochemicalReaction29	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule6	Protein162	
+BiochemicalReaction29	AKT can phosphorylate NR4A1 (NUR77)	Protein161	Protein162	
+BiochemicalReaction29	AKT can phosphorylate NR4A1 (NUR77)	Protein161	SmallMolecule7	
+BiochemicalReaction29	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction30	PTEN dephosphorylates PIP3	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction30	PTEN dephosphorylates PIP3	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction30	PTEN dephosphorylates PIP3	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction30	PTEN dephosphorylates PIP3	SmallMolecule8	SmallMolecule1	
+BiochemicalReaction31	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Protein112	Complex83	
+BiochemicalReaction31	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Complex79	Complex83	
+BiochemicalReaction32	PHLPP dephosphorylates S473 in AKT	Protein115	SmallMolecule9	
+BiochemicalReaction32	PHLPP dephosphorylates S473 in AKT	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction32	PHLPP dephosphorylates S473 in AKT	SmallMolecule8	Protein164	
+BiochemicalReaction32	PHLPP dephosphorylates S473 in AKT	Protein115	Protein164	
+BiochemicalReaction33	PDPK1 binds PIP2	SmallMolecule1	Complex87	
+BiochemicalReaction33	PDPK1 binds PIP2	Protein102	Complex87	
+BiochemicalReaction34	MIR26A microRNAs bind PTEN mRNA	Complex88	Complex93	
+BiochemicalReaction34	MIR26A microRNAs bind PTEN mRNA	Rna4	Complex93	
+BiochemicalReaction35	PTEN mRNA translation negatively regulated by microRNAs	Rna4	Complex85	
+BiochemicalReaction4	Binding of p85 subunit of PI3K (PIK3R1) to p-ERBB2:p-ERBB4 CYT-1 heterodimers	Complex7	Complex11	
+BiochemicalReaction4	Binding of p85 subunit of PI3K (PIK3R1) to p-ERBB2:p-ERBB4 CYT-1 heterodimers	Protein1	Complex11	
+BiochemicalReaction5	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1bound to ERBB2:ERBB4cyt1 heterodimer. 	Protein9	Complex12	
+BiochemicalReaction5	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1bound to ERBB2:ERBB4cyt1 heterodimer. 	Complex11	Complex12	
+BiochemicalReaction6	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction6	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction7	Binding of GRB2:GAB1 to p-ERBB2:p-EGFR	Complex13	Complex18	
+BiochemicalReaction7	Binding of GRB2:GAB1 to p-ERBB2:p-EGFR	Complex17	Complex18	
+BiochemicalReaction8	Binding of PI3K subunit p85 (PIK3R1) to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR. 	Protein1	Complex19	
+BiochemicalReaction8	Binding of PI3K subunit p85 (PIK3R1) to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR. 	Complex18	Complex19	
+BiochemicalReaction9	Recruitment of catalytic PI3K subunit p110 (PIK3CA) by PIK3R1 bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	Protein9	Complex20	
+BiochemicalReaction9	Recruitment of catalytic PI3K subunit p110 (PIK3CA) by PIK3R1 bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	Complex19	Complex20	

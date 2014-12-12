@@ -1,0 +1,92 @@
+BiochemicalReaction1	PTGS2 dimer binds celecoxib	SmallMolecule1	Complex2	
+BiochemicalReaction1	PTGS2 dimer binds celecoxib	Complex1	Complex2	
+BiochemicalReaction10	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule13	SmallMolecule17	
+BiochemicalReaction10	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule18	SmallMolecule17	
+BiochemicalReaction10	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction10	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule13	SmallMolecule19	
+BiochemicalReaction11	PGH2 is isomerised to PGE2 by PTGES	SmallMolecule13	SmallMolecule20	
+BiochemicalReaction12	Prostaglandin E synthase isomerizes PGH2 to PGE2	SmallMolecule13	SmallMolecule20	
+BiochemicalReaction13	PGE2 is converted to PGF2a by CBR1	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction13	PGE2 is converted to PGF2a by CBR1	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction13	PGE2 is converted to PGF2a by CBR1	SmallMolecule20	SmallMolecule16	
+BiochemicalReaction13	PGE2 is converted to PGF2a by CBR1	SmallMolecule20	SmallMolecule17	
+BiochemicalReaction13	PGE2 is converted to PGF2a by CBR1	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction13	PGE2 is converted to PGF2a by CBR1	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction14	PGE2 is dehydrated to PGA2	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction14	PGE2 is dehydrated to PGA2	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction15	PGA2 is isomerised to PGC2	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction16	PGC2 is isomerised to PGB2	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction17	PGA2 is dehydrated to 15d-PGA2	SmallMolecule22	SmallMolecule26	
+BiochemicalReaction17	PGA2 is dehydrated to 15d-PGA2	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction18	PGH2 is isomerised to PGD2 by PTGDS	SmallMolecule11	SmallMolecule27	
+BiochemicalReaction19	PGH2 is isomerised to PGD2 by HPGDS	SmallMolecule13	SmallMolecule28	
+BiochemicalReaction2	Aspirin acetylates PTGS1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction2	Aspirin acetylates PTGS1	Complex3	SmallMolecule5	
+BiochemicalReaction2	Aspirin acetylates PTGS1	Complex3	Complex4	
+BiochemicalReaction2	Aspirin acetylates PTGS1	SmallMolecule4	Complex4	
+BiochemicalReaction20	PGD2 is dehydrated to PGJ2	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction20	PGD2 is dehydrated to PGJ2	SmallMolecule27	SmallMolecule12	
+BiochemicalReaction21	PGJ2 is isomerised to delta12-PGJ2	SmallMolecule30	SmallMolecule31	
+BiochemicalReaction22	Delta12-PGJ2 is dehydrated to 15d-PGJ2	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction22	Delta12-PGJ2 is dehydrated to 15d-PGJ2	SmallMolecule31	SmallMolecule12	
+BiochemicalReaction23	PGD2 is dehydrated to 15d-PGD2	SmallMolecule27	SmallMolecule33	
+BiochemicalReaction23	PGD2 is dehydrated to 15d-PGD2	SmallMolecule27	SmallMolecule12	
+BiochemicalReaction24	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule14	SmallMolecule34	
+BiochemicalReaction24	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule15	SmallMolecule34	
+BiochemicalReaction24	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule28	SmallMolecule34	
+BiochemicalReaction24	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule28	SmallMolecule16	
+BiochemicalReaction24	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction24	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction25	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule35	SmallMolecule15	
+BiochemicalReaction25	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule36	SmallMolecule15	
+BiochemicalReaction25	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction25	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule35	SmallMolecule37	
+BiochemicalReaction25	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule36	SmallMolecule41	
+BiochemicalReaction25	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule35	SmallMolecule41	
+BiochemicalReaction26	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction26	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction26	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule42	SmallMolecule16	
+BiochemicalReaction26	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction26	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule15	SmallMolecule43	
+BiochemicalReaction26	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule14	SmallMolecule43	
+BiochemicalReaction27	PGH2 is isomerised to PGI2 by PTGIS	SmallMolecule11	SmallMolecule46	
+BiochemicalReaction28	PGI2 is hydrolysed to 6k-PGF1a	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction28	PGI2 is hydrolysed to 6k-PGF1a	SmallMolecule12	SmallMolecule47	
+BiochemicalReaction29	PGH2 is isomerised to TXA2 by TBXAS1	SmallMolecule11	SmallMolecule48	
+BiochemicalReaction3	Aspirin acetylates PTGS2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	Aspirin acetylates PTGS2	Complex1	SmallMolecule5	
+BiochemicalReaction3	Aspirin acetylates PTGS2	Complex1	Complex5	
+BiochemicalReaction3	Aspirin acetylates PTGS2	SmallMolecule4	Complex5	
+BiochemicalReaction30	TXA2 is hydrolysed to TXB2	SmallMolecule48	SmallMolecule49	
+BiochemicalReaction30	TXA2 is hydrolysed to TXB2	SmallMolecule12	SmallMolecule49	
+BiochemicalReaction31	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule50	SmallMolecule9	
+BiochemicalReaction31	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule49	SmallMolecule9	
+BiochemicalReaction31	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule49	SmallMolecule51	
+BiochemicalReaction31	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule50	SmallMolecule51	
+BiochemicalReaction31	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule49	SmallMolecule52	
+BiochemicalReaction31	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule50	SmallMolecule52	
+BiochemicalReaction32	PGH2 is degraded to 12S-HHT and MDA by TBXAS1	SmallMolecule11	SmallMolecule53	
+BiochemicalReaction32	PGH2 is degraded to 12S-HHT and MDA by TBXAS1	SmallMolecule11	SmallMolecule54	
+BiochemicalReaction4	Arachidonic acid oxidised to PGG2	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	Arachidonic acid oxidised to PGG2	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction5	Arachidonic acid oxidised to PGG2	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	Arachidonic acid oxidised to PGG2	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction6	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction6	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction6	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction6	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction7	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction7	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction7	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction7	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction7	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction7	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction8	PGH2 diffuses from the endoplasmic reticulum lumen to the cytosol	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction9	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction9	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction9	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction9	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule13	SmallMolecule17	
+BiochemicalReaction9	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction9	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule14	SmallMolecule17	

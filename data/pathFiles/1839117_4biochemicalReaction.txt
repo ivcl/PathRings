@@ -1,0 +1,50 @@
+BiochemicalReaction1	Dimerization of FGFR1 fusion proteins	Protein1	Complex1	
+BiochemicalReaction10	Phosphorylation of BCR moiety of BCR-FGFR1	Complex13	SmallMolecule2	
+BiochemicalReaction10	Phosphorylation of BCR moiety of BCR-FGFR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Phosphorylation of BCR moiety of BCR-FGFR1	SmallMolecule1	Complex24	
+BiochemicalReaction10	Phosphorylation of BCR moiety of BCR-FGFR1	Complex13	Complex24	
+BiochemicalReaction11	p-BCR-pFGFR1 recruits GRB2:GAB2	Complex24	Complex30	
+BiochemicalReaction11	p-BCR-pFGFR1 recruits GRB2:GAB2	Complex29	Complex30	
+BiochemicalReaction12	GAB2 is phosphorylated by p-BCR-p-FGFR1	Complex30	SmallMolecule2	
+BiochemicalReaction12	GAB2 is phosphorylated by p-BCR-p-FGFR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	GAB2 is phosphorylated by p-BCR-p-FGFR1	SmallMolecule1	Complex31	
+BiochemicalReaction12	GAB2 is phosphorylated by p-BCR-p-FGFR1	Complex30	Complex31	
+BiochemicalReaction13	Recruitment of the p85 regulatory subunit of PI3K to the BCR-FGFR1 complex.	Protein25	Complex33	
+BiochemicalReaction13	Recruitment of the p85 regulatory subunit of PI3K to the BCR-FGFR1 complex.	Complex31	Complex33	
+BiochemicalReaction14	The catalytic subunit of PI3K is recruited to the BCR-FGFR1 fusion.	Complex33	Complex34	
+BiochemicalReaction14	The catalytic subunit of PI3K is recruited to the BCR-FGFR1 fusion.	Protein26	Complex34	
+BiochemicalReaction15	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule9	SmallMolecule2	
+BiochemicalReaction15	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction15	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction16	Phosphorylation of STAT5 by FGFR1 fusions	Protein30	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of STAT5 by FGFR1 fusions	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of STAT5 by FGFR1 fusions	SmallMolecule1	Protein33	
+BiochemicalReaction16	Phosphorylation of STAT5 by FGFR1 fusions	Protein30	Protein33	
+BiochemicalReaction17	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	Protein36	SmallMolecule2	
+BiochemicalReaction17	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	Protein36	Protein39	
+BiochemicalReaction17	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	SmallMolecule1	Protein39	
+BiochemicalReaction2	Phosphorylation of FGFR1 fusion dimers	Complex1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of FGFR1 fusion dimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of FGFR1 fusion dimers	SmallMolecule1	Complex12	
+BiochemicalReaction2	Phosphorylation of FGFR1 fusion dimers	Complex1	Complex12	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind and inhibit FGFR1 fusion dimer phosphorylation	SmallMolecule3	Complex23	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind and inhibit FGFR1 fusion dimer phosphorylation	Complex1	Complex23	
+BiochemicalReaction4	FGFR1 fusions bind PLCgamma	PhysicalEntity1	Complex25	
+BiochemicalReaction4	FGFR1 fusions bind PLCgamma	Protein23	Complex25	
+BiochemicalReaction4	FGFR1 fusions bind PLCgamma	SmallMolecule8	Complex25	
+BiochemicalReaction5	PLCgamma is phosphorylated by FGFR1-fusions	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	PLCgamma is phosphorylated by FGFR1-fusions	Complex25	SmallMolecule2	
+BiochemicalReaction5	PLCgamma is phosphorylated by FGFR1-fusions	Complex25	Complex26	
+BiochemicalReaction5	PLCgamma is phosphorylated by FGFR1-fusions	SmallMolecule1	Complex26	
+BiochemicalReaction6	p-PLCgamma dissociates from FGFR1 fusions	Complex26	PhysicalEntity1	
+BiochemicalReaction6	p-PLCgamma dissociates from FGFR1 fusions	Complex26	Protein24	
+BiochemicalReaction7	FGFR1 fusion proteins recruit PIK3R1	Protein25	Complex27	
+BiochemicalReaction7	FGFR1 fusion proteins recruit PIK3R1	Complex12	Complex27	
+BiochemicalReaction8	Recruitment of the catalytic subunit of PI3K to activated FGFR1 fusions	Protein26	Complex28	
+BiochemicalReaction8	Recruitment of the catalytic subunit of PI3K to activated FGFR1 fusions	Complex27	Complex28	
+BiochemicalReaction9	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule9	SmallMolecule2	
+BiochemicalReaction9	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction9	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule9	SmallMolecule8	

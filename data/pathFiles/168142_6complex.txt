@@ -1,0 +1,155 @@
+Complex1	TLR10 homodimer bound to ligand	plasma membrane	Reactome DB_ID: 188116	PhysicalEntity1	
+Complex1	TLR10 homodimer bound to ligand	plasma membrane	Reactome DB_ID: 188116	Complex2	
+Complex10	p-S,2T-IRAK4:oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975870	Protein8	
+Complex10	p-S,2T-IRAK4:oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975870	Complex7	
+Complex11	IRAK1 or IRAK2 :p-IRAK4:MyD88 oligomer:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975875	Protein12	
+Complex11	IRAK1 or IRAK2 :p-IRAK4:MyD88 oligomer:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975875	Complex10	
+Complex12	IRAK2:p-S,2T-IRAK4:oligo-MyD88:activated TLR5/10	plasma membrane	Reactome DB_ID: 975859	Complex10	
+Complex12	IRAK2:p-S,2T-IRAK4:oligo-MyD88:activated TLR5/10	plasma membrane	Reactome DB_ID: 975859	Protein14	
+Complex13	p-IRAK2:p-IRAK4:oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975867	Protein15	
+Complex13	p-IRAK2:p-IRAK4:oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975867	Complex10	
+Complex14	IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR5/10 	plasma membrane	Reactome DB_ID: 975868	Protein13	
+Complex14	IRAK1:p-S,2T-IRAK4:oligo-MyD88:activated TLR5/10 	plasma membrane	Reactome DB_ID: 975868	Complex10	
+Complex15	p-IRAK1:p-IRAK4:oligo-MyD88l:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975872	Protein16	
+Complex15	p-IRAK1:p-IRAK4:oligo-MyD88l:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975872	Complex10	
+Complex16	pp-IRAK1:p-IRAK4:oligo-MyD88 :activated TLR5 or 10 complex	plasma membrane	Reactome DB_ID: 975883	Protein17	
+Complex16	pp-IRAK1:p-IRAK4:oligo-MyD88 :activated TLR5 or 10 complex	plasma membrane	Reactome DB_ID: 975883	Complex10	
+Complex17	hp-IRAK1:activated IRAK4:MyD88oligomer:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975877	Protein18	
+Complex17	hp-IRAK1:activated IRAK4:MyD88oligomer:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975877	Complex10	
+Complex18	hp-IRAK1 or p-IRAK2 : pIRAK4:MyD88:activated TLR5/10	plasma membrane	Reactome DB_ID: 975881	Protein20	
+Complex18	hp-IRAK1 or p-IRAK2 : pIRAK4:MyD88:activated TLR5/10	plasma membrane	Reactome DB_ID: 975881	Complex10	
+Complex19	TRAF6:hp-IRAK1/or p-IRAK2:p-IRAK4:oligo-MyD88 :activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975869	Complex18	
+Complex19	TRAF6:hp-IRAK1/or p-IRAK2:p-IRAK4:oligo-MyD88 :activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975869	Protein21	
+Complex2	TLR10 homodimer	plasma membrane	Reactome DB_ID: 188112	Protein1	
+Complex21	TRAF6:hp-IRAK1	plasma membrane	Reactome DB_ID: 937036	Protein18	
+Complex21	TRAF6:hp-IRAK1	plasma membrane	Reactome DB_ID: 937036	Protein21	
+Complex22	TRAF6:p-IRAK2	plasma membrane	Reactome DB_ID: 936961	Protein15	
+Complex22	TRAF6:p-IRAK2	plasma membrane	Reactome DB_ID: 936961	Protein21	
+Complex23	TRAF6:hp-IRAK1:Pellino	plasma membrane	Reactome DB_ID: 937020	Protein22	
+Complex23	TRAF6:hp-IRAK1:Pellino	plasma membrane	Reactome DB_ID: 937020	Complex21	
+Complex24	p-Pellino:hp-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 937040	Protein22	
+Complex24	p-Pellino:hp-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 937040	Complex21	
+Complex25	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein26	
+Complex25	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein27	
+Complex26	K63-linked polyUb p-IRAK1:TRAF6	cytosol	Reactome DB_ID: 937043	Protein19	
+Complex26	K63-linked polyUb p-IRAK1:TRAF6	cytosol	Reactome DB_ID: 937043	Protein28	
+Complex27	IKK complex	cytosol	Reactome DB_ID: 168113	Protein29	
+Complex27	IKK complex	cytosol	Reactome DB_ID: 168113	Protein30	
+Complex27	IKK complex	cytosol	Reactome DB_ID: 168113	Protein31	
+Complex28	TRAF6:K63-linked polyUb p-IRAK1:IKK complex	cytosol	Reactome DB_ID: 937038	Complex26	
+Complex28	TRAF6:K63-linked polyUb p-IRAK1:IKK complex	cytosol	Reactome DB_ID: 937038	Complex27	
+Complex29	p-IRAK2:oligo-TRAF6	plasma membrane	Reactome DB_ID: 936990	Complex22	
+Complex29	p-IRAK2:oligo-TRAF6	plasma membrane	Reactome DB_ID: 936990	Protein21	
+Complex30	p-IRAK2:K63-linked pUb oligo-TRAF6	plasma membrane	Reactome DB_ID: 936988	Protein15	
+Complex30	p-IRAK2:K63-linked pUb oligo-TRAF6	plasma membrane	Reactome DB_ID: 936988	Protein47	
+Complex31	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein48	
+Complex31	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein49	
+Complex31	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein52	
+Complex32	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	plasma membrane	Reactome DB_ID: 936953	Complex30	
+Complex32	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	plasma membrane	Reactome DB_ID: 936953	PhysicalEntity2	
+Complex32	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	plasma membrane	Reactome DB_ID: 936953	Complex31	
+Complex33	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Protein48	
+Complex33	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Complex30	
+Complex33	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	PhysicalEntity2	
+Complex33	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Protein49	
+Complex33	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	plasma membrane	Reactome DB_ID: 937008	Protein53	
+Complex34	MEKK1:activated TRAF6	cytosol	Reactome DB_ID: 166867	Protein19	
+Complex34	MEKK1:activated TRAF6	cytosol	Reactome DB_ID: 166867	Protein54	
+Complex35	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein56	
+Complex35	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein57	
+Complex35	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein31	
+Complex37	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex38	
+Complex37	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex31	
+Complex38	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Complex39	
+Complex38	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Protein59	
+Complex39	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein58	
+Complex39	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein59	
+Complex4	TLR5 homodimer:bacterial flagellin	plasma membrane	Reactome DB_ID: 188027	Protein3	
+Complex4	TLR5 homodimer:bacterial flagellin	plasma membrane	Reactome DB_ID: 188027	Protein4	
+Complex40	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex41	
+Complex40	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex31	
+Complex41	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	PhysicalEntity2	
+Complex41	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Complex42	
+Complex41	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Protein31	
+Complex42	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Protein60	
+Complex42	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Complex43	
+Complex44	NOD1:iE-DAP oligomer	cytosol	Reactome DB_ID: 622306	Complex45	
+Complex45	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	Protein61	
+Complex45	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	SmallMolecule3	
+Complex46	MDP:NOD2 oligomer	cytosol	Reactome DB_ID: 708350	Complex47	
+Complex47	MDP:NOD2	cytosol	Reactome DB_ID: 168414	Protein62	
+Complex47	MDP:NOD2	cytosol	Reactome DB_ID: 168414	SmallMolecule4	
+Complex48	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein48	
+Complex48	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	PhysicalEntity2	
+Complex48	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein63	
+Complex48	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein53	
+Complex48	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein59	
+Complex49	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	PhysicalEntity2	
+Complex49	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Protein53	
+Complex49	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Complex50	
+Complex5	MyD88 complexed with the activated TLR5 or 10 receptor	plasma membrane	Reactome DB_ID: 975860	Complex6	
+Complex5	MyD88 complexed with the activated TLR5 or 10 receptor	plasma membrane	Reactome DB_ID: 975860	Complex3	
+Complex50	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein66	
+Complex50	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein59	
+Complex51	IkBs:NFkB	cytosol	Reactome DB_ID: 168130	Protein67	
+Complex51	IkBs:NFkB	cytosol	Reactome DB_ID: 168130	Complex52	
+Complex52	NFkB Complex	cytosol	Reactome DB_ID: 168155	Protein70	
+Complex52	NFkB Complex	cytosol	Reactome DB_ID: 168155	Protein73	
+Complex53	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein77	
+Complex53	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein78	
+Complex54	AGER ligands:AGER	plasma membrane	Reactome DB_ID: 879365	Protein81	
+Complex54	AGER ligands:AGER	plasma membrane	Reactome DB_ID: 879365	PhysicalEntity3	
+Complex55	AGE adducts:Peptide	extracellular region	Reactome DB_ID: 879479	SmallMolecule5	
+Complex55	AGE adducts:Peptide	extracellular region	Reactome DB_ID: 879479	SmallMolecule6	
+Complex56	S100A12 dimer	extracellular region	Reactome DB_ID: 879439	Protein82	
+Complex57	S100B homodimer	extracellular region	Reactome DB_ID: 879449	Protein83	
+Complex58	DHX9:CpG:MyD88	cytosol	Reactome DB_ID: 3134868	Protein88	
+Complex58	DHX9:CpG:MyD88	cytosol	Reactome DB_ID: 3134868	Complex59	
+Complex59	DHX9:CpG	cytosol	Reactome DB_ID: 3134960	PhysicalEntity4	
+Complex59	DHX9:CpG	cytosol	Reactome DB_ID: 3134960	Protein89	
+Complex6	MYD88 homodimer	plasma membrane	Reactome DB_ID: 937078	Protein5	
+Complex60	p38 MAPK:MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450269	Protein117	
+Complex60	p38 MAPK:MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450269	Protein120	
+Complex61	phospho-p38 MAPK: MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450213	Protein117	
+Complex61	phospho-p38 MAPK: MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450213	Protein123	
+Complex62	p-p38 MAPK:p-MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450254	Protein123	
+Complex62	p-p38 MAPK:p-MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450254	Protein126	
+Complex63	phospho-p38 MAPK : phospho MAPKAPK2 or phospho MaPKAPK3	cytosol	Reactome DB_ID: 450241	Protein129	
+Complex63	phospho-p38 MAPK : phospho MAPKAPK2 or phospho MaPKAPK3	cytosol	Reactome DB_ID: 450241	Protein132	
+Complex64	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein137	
+Complex64	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein142	
+Complex65	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein137	
+Complex65	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein143	
+Complex66	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein143	
+Complex67	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein144	
+Complex68	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex69	
+Complex68	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein153	
+Complex69	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex70	
+Complex7	oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975864	Complex8	
+Complex7	oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975864	Complex3	
+Complex71	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex72	
+Complex71	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex73	
+Complex72	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein145	
+Complex72	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein149	
+Complex73	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein150	
+Complex73	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein151	
+Complex74	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex75	
+Complex74	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex72	
+Complex75	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein152	
+Complex75	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein151	
+Complex76	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein154	
+Complex76	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein155	
+Complex77	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein156	
+Complex77	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein154	
+Complex78	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein156	
+Complex79	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein157	
+Complex8	MyD88 oligomer	plasma membrane	Reactome DB_ID: 937013	Protein5	
+Complex81	PP2A-ABdeltaC complex	nucleoplasm	Reactome DB_ID: 165970	Protein182	
+Complex81	PP2A-ABdeltaC complex	nucleoplasm	Reactome DB_ID: 165970	Protein185	
+Complex81	PP2A-ABdeltaC complex	nucleoplasm	Reactome DB_ID: 165970	Protein186	
+Complex82	p-2S-cJUN:p-2T-ATF2	nucleoplasm	Reactome DB_ID: 450262	Protein200	
+Complex82	p-2S-cJUN:p-2T-ATF2	nucleoplasm	Reactome DB_ID: 450262	Protein202	
+Complex83	p-2S-cJUN:p-2S,2T-cFOS	nucleoplasm	Reactome DB_ID: 450327	Protein204	
+Complex83	p-2S-cJUN:p-2S,2T-cFOS	nucleoplasm	Reactome DB_ID: 450327	Protein202	
+Complex9	IRAK4:oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975876	Complex7	
+Complex9	IRAK4:oligo-MyD88:activated TLR5 or 10	plasma membrane	Reactome DB_ID: 975876	Protein7	

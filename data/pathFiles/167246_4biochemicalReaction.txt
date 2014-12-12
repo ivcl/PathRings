@@ -1,0 +1,29 @@
+BiochemicalReaction1	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Complex1	Complex2	
+BiochemicalReaction1	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Protein3	Complex2	
+BiochemicalReaction2	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex3	Complex6	
+BiochemicalReaction2	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex2	Complex6	
+BiochemicalReaction2	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex2	Complex11	
+BiochemicalReaction2	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex3	Complex11	
+BiochemicalReaction3	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex11	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex11	Complex14	
+BiochemicalReaction3	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	Complex14	
+BiochemicalReaction4	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	Complex16	
+BiochemicalReaction4	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex14	Complex16	
+BiochemicalReaction4	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex14	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Recruitment of elongation factors to form HIV-1 elongation complex	Protein29	Complex23	
+BiochemicalReaction5	Recruitment of elongation factors to form HIV-1 elongation complex	Complex16	Complex23	
+BiochemicalReaction5	Recruitment of elongation factors to form HIV-1 elongation complex	Protein30	Complex23	
+BiochemicalReaction5	Recruitment of elongation factors to form HIV-1 elongation complex	Complex18	Complex23	
+BiochemicalReaction5	Recruitment of elongation factors to form HIV-1 elongation complex	Complex20	Complex23	
+BiochemicalReaction5	Recruitment of elongation factors to form HIV-1 elongation complex	Complex22	Complex23	
+BiochemicalReaction6	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule3	Complex18	
+BiochemicalReaction6	Addition of nucleotides leads to HIV-1 transcript elongation	Complex23	Complex18	
+BiochemicalReaction6	Addition of nucleotides leads to HIV-1 transcript elongation	Complex23	Complex24	
+BiochemicalReaction6	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule3	Complex24	
+BiochemicalReaction7	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule3	SmallMolecule3	
+BiochemicalReaction7	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex24	SmallMolecule3	
+BiochemicalReaction7	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex24	Complex25	
+BiochemicalReaction7	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule3	Complex25	
+BiochemicalReaction8	Separation of elongating HIV-1 transcript from template	Complex25	Complex26	

@@ -1,0 +1,71 @@
+BiochemicalReaction1	The Immunoglobulin of the BCR Binds Antigen	Complex1	Complex10	
+BiochemicalReaction1	The Immunoglobulin of the BCR Binds Antigen	PhysicalEntity1	Complex10	
+BiochemicalReaction10	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule5	Complex28	
+BiochemicalReaction10	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex27	Complex28	
+BiochemicalReaction11	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction12	Oligomerization of STIM1	Complex29	Complex30	
+BiochemicalReaction12	Oligomerization of STIM1	Complex29	SmallMolecule8	
+BiochemicalReaction13	STIM1 activation of CRAC	Complex30	Complex32	
+BiochemicalReaction13	STIM1 activation of CRAC	Complex31	Complex32	
+BiochemicalReaction14	STIM1 Binds TRPC1	Complex30	Complex33	
+BiochemicalReaction14	STIM1 Binds TRPC1	Protein196	Complex33	
+BiochemicalReaction15	Calcium influx via CRAC	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction16	Calcium Influx via TRPC1	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction17	Calcium binds calmodulin	SmallMolecule8	Complex34	
+BiochemicalReaction17	Calcium binds calmodulin	Protein197	Complex34	
+BiochemicalReaction2	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	Complex10	Complex11	
+BiochemicalReaction2	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	SmallMolecule1	Complex11	
+BiochemicalReaction2	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	Complex10	SmallMolecule2	
+BiochemicalReaction3	Recruitment of SYK to the Activated BCR	Complex11	Complex13	
+BiochemicalReaction3	Recruitment of SYK to the Activated BCR	Protein147	Complex13	
+BiochemicalReaction4	Autophosphorylation of SYK at the Activated BCR	Complex13	Complex14	
+BiochemicalReaction4	Autophosphorylation of SYK at the Activated BCR	SmallMolecule1	Complex14	
+BiochemicalReaction4	Autophosphorylation of SYK at the Activated BCR	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Autophosphorylation of SYK at the Activated BCR	Complex13	SmallMolecule2	
+BiochemicalReaction5	Activated SYK Phosphorylates BLNK (SLP65)	Complex14	Complex16	
+BiochemicalReaction5	Activated SYK Phosphorylates BLNK (SLP65)	Complex15	Complex16	
+BiochemicalReaction5	Activated SYK Phosphorylates BLNK (SLP65)	SmallMolecule1	Complex16	
+BiochemicalReaction5	Activated SYK Phosphorylates BLNK (SLP65)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Activated SYK Phosphorylates BLNK (SLP65)	Complex15	SmallMolecule2	
+BiochemicalReaction5	Activated SYK Phosphorylates BLNK (SLP65)	Complex14	SmallMolecule2	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein162	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex16	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex18	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein167	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex19	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein170	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	SmallMolecule3	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein171	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein172	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein153	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein175	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein176	Complex20	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein176	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein175	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein153	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein172	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein171	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	SmallMolecule3	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein170	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex19	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein167	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex18	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex16	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein162	Complex22	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein176	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein175	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein153	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein172	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein171	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	SmallMolecule3	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein170	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex19	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein167	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex18	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Complex16	Complex23	
+BiochemicalReaction6	Assembly of Signalosomes at the Activated BCR	Protein162	Complex23	
+BiochemicalReaction7	BCAP Signalosome Generates PIP3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	CD19 Signalosome Generates PIP3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	BLNK (SLP-65) Signalosome Generates Diacylglycerol and Inositol-1,4,5-trisphosphate	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction9	BLNK (SLP-65) Signalosome Generates Diacylglycerol and Inositol-1,4,5-trisphosphate	SmallMolecule3	SmallMolecule6	

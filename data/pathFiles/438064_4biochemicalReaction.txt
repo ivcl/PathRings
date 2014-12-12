@@ -1,0 +1,58 @@
+BiochemicalReaction1	Activation of RasGRF	Complex1	Complex7	
+BiochemicalReaction1	Activation of RasGRF	SmallMolecule1	Complex7	
+BiochemicalReaction1	Activation of RasGRF	Complex2	Complex7	
+BiochemicalReaction1	Activation of RasGRF	Protein19	Complex7	
+BiochemicalReaction10	Activation of CaMKII	Complex15	Complex16	
+BiochemicalReaction10	Activation of CaMKII	Complex5	Complex16	
+BiochemicalReaction11	CaMKII enters cytoplasm	Complex5	Complex14	
+BiochemicalReaction12	CaMKII enters nucleus	Complex14	Complex17	
+BiochemicalReaction13	Phosphorylation of CREB by CaMKII	Protein54	SmallMolecule12	
+BiochemicalReaction13	Phosphorylation of CREB by CaMKII	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction13	Phosphorylation of CREB by CaMKII	SmallMolecule11	Protein55	
+BiochemicalReaction13	Phosphorylation of CREB by CaMKII	Protein54	Protein55	
+BiochemicalReaction14	Activation of CaMKK	Protein70	SmallMolecule6	
+BiochemicalReaction14	Activation of CaMKK	SmallMolecule10	SmallMolecule6	
+BiochemicalReaction14	Activation of CaMKK	SmallMolecule10	Protein71	
+BiochemicalReaction14	Activation of CaMKK	Protein70	Protein71	
+BiochemicalReaction15	Calmodulin binds CaMK IV	Complex15	Complex18	
+BiochemicalReaction15	Calmodulin binds CaMK IV	Protein72	Complex18	
+BiochemicalReaction16	CamKIV enters the nucleus	Complex18	Complex19	
+BiochemicalReaction17	CaMK IV autophosphorylation	Complex19	Complex21	
+BiochemicalReaction17	CaMK IV autophosphorylation	SmallMolecule11	Complex21	
+BiochemicalReaction17	CaMK IV autophosphorylation	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction17	CaMK IV autophosphorylation	Complex19	SmallMolecule12	
+BiochemicalReaction18	Phosphorylation of CREB by CaMKIV	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction18	Phosphorylation of CREB by CaMKIV	Protein54	SmallMolecule12	
+BiochemicalReaction18	Phosphorylation of CREB by CaMKIV	Protein54	Protein55	
+BiochemicalReaction18	Phosphorylation of CREB by CaMKIV	SmallMolecule11	Protein55	
+BiochemicalReaction2	Ras activation	Complex9	Complex10	
+BiochemicalReaction3	Raf activation	Complex11	Complex13	
+BiochemicalReaction3	Raf activation	SmallMolecule8	Complex13	
+BiochemicalReaction3	Raf activation	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	Raf activation	Complex11	SmallMolecule9	
+BiochemicalReaction4	Activation of MAPK	SmallMolecule10	SmallMolecule6	
+BiochemicalReaction4	Activation of MAPK	Protein30	SmallMolecule6	
+BiochemicalReaction4	Activation of MAPK	Protein30	Protein31	
+BiochemicalReaction4	Activation of MAPK	SmallMolecule10	Protein31	
+BiochemicalReaction5	Phosphorylation by MAPK/ERK	SmallMolecule10	SmallMolecule6	
+BiochemicalReaction5	Phosphorylation by MAPK/ERK	Protein33	SmallMolecule6	
+BiochemicalReaction5	Phosphorylation by MAPK/ERK	Protein33	Protein38	
+BiochemicalReaction5	Phosphorylation by MAPK/ERK	SmallMolecule10	Protein38	
+BiochemicalReaction6	Phophorylation by PDK1	Protein43	SmallMolecule12	
+BiochemicalReaction6	Phophorylation by PDK1	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	Phophorylation by PDK1	SmallMolecule11	Protein48	
+BiochemicalReaction6	Phophorylation by PDK1	Protein43	Protein48	
+BiochemicalReaction7	Phosphorylation of CREB by ribosomal protein S6 kinase	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction7	Phosphorylation of CREB by ribosomal protein S6 kinase	Protein54	SmallMolecule12	
+BiochemicalReaction7	Phosphorylation of CREB by ribosomal protein S6 kinase	Protein54	Protein55	
+BiochemicalReaction7	Phosphorylation of CREB by ribosomal protein S6 kinase	SmallMolecule11	Protein55	
+BiochemicalReaction8	Activation of Adenylate Cyclase	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction8	Activation of Adenylate Cyclase	SmallMolecule1	SmallMolecule13	
+BiochemicalReaction8	Activation of Adenylate Cyclase	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction8	Activation of Adenylate Cyclase	SmallMolecule10	SmallMolecule1	
+BiochemicalReaction8	Activation of Adenylate Cyclase	SmallMolecule1	SmallMolecule14	
+BiochemicalReaction8	Activation of Adenylate Cyclase	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction9	Phosphorylation of CREB by PKA	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction9	Phosphorylation of CREB by PKA	Protein54	SmallMolecule12	
+BiochemicalReaction9	Phosphorylation of CREB by PKA	Protein54	Protein55	
+BiochemicalReaction9	Phosphorylation of CREB by PKA	SmallMolecule11	Protein55	

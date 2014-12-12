@@ -1,0 +1,33 @@
+BiochemicalReaction1	eEF1A complexes with GTP	SmallMolecule1	Complex1	
+BiochemicalReaction1	eEF1A complexes with GTP	Protein1	Complex1	
+BiochemicalReaction2	eEF1A:GTP:aminoacyl tRNA ternary complex formation.	Complex1	Complex2	
+BiochemicalReaction2	eEF1A:GTP:aminoacyl tRNA ternary complex formation.	SmallMolecule2	Complex2	
+BiochemicalReaction3	Aminoacyl-tRNA  binds to the ribosome at the A-site	Complex3	Complex7	
+BiochemicalReaction3	Aminoacyl-tRNA  binds to the ribosome at the A-site	Complex2	Complex7	
+BiochemicalReaction4	Hydrolysis of eEF1A:GTP	Complex7	SmallMolecule23	
+BiochemicalReaction4	Hydrolysis of eEF1A:GTP	Complex7	Complex8	
+BiochemicalReaction4	Hydrolysis of eEF1A:GTP	Complex7	Complex9	
+BiochemicalReaction5	Peptide transfer from P-site tRNA to the A-site tRNA	Complex9	Complex10	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex10	SmallMolecule23	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex11	SmallMolecule23	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex2	SmallMolecule23	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex2	Complex8	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex11	Complex8	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex10	Complex8	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex2	Complex12	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex11	Complex12	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex10	Complex12	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex2	Complex13	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex11	Complex13	
+BiochemicalReaction6	Translocation of ribosome by 3 bases in the 3' direction	Complex10	Complex13	
+BiochemicalReaction7	GTP-binding activates eEF2	SmallMolecule1	Complex11	
+BiochemicalReaction7	GTP-binding activates eEF2	Protein87	Complex11	
+BiochemicalReaction8	Regeneration of eEF1A:GTP by eEF1B activity	Complex8	Complex1	
+BiochemicalReaction8	Regeneration of eEF1A:GTP by eEF1B activity	SmallMolecule1	Complex1	
+BiochemicalReaction8	Regeneration of eEF1A:GTP by eEF1B activity	Complex14	Complex1	
+BiochemicalReaction8	Regeneration of eEF1A:GTP by eEF1B activity	Complex14	Complex15	
+BiochemicalReaction8	Regeneration of eEF1A:GTP by eEF1B activity	SmallMolecule1	Complex15	
+BiochemicalReaction8	Regeneration of eEF1A:GTP by eEF1B activity	Complex8	Complex15	
+BiochemicalReaction9	Formation of eEF1B complex	Protein88	Complex14	
+BiochemicalReaction9	Formation of eEF1B complex	Protein89	Complex14	
+BiochemicalReaction9	Formation of eEF1B complex	Protein90	Complex14	

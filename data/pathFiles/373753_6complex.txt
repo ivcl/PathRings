@@ -1,0 +1,29 @@
+Complex1	Nephrin dimer	plasma membrane	Reactome DB_ID: 373670	Protein1	
+Complex10	CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373680	Complex4	
+Complex10	CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373680	Protein12	
+Complex11	PI3K	cytosol	Reactome DB_ID: 74693	Protein13	
+Complex11	PI3K	cytosol	Reactome DB_ID: 74693	Protein16	
+Complex12	PI3K:CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 451720	Complex10	
+Complex12	PI3K:CD2AP:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 451720	Complex11	
+Complex13	Nephrin dimer:CASK	plasma membrane	Reactome DB_ID: 373681	Complex2	
+Complex13	Nephrin dimer:CASK	plasma membrane	Reactome DB_ID: 373681	Protein19	
+Complex14	Nephrin dimer:IQGAP1	plasma membrane	Reactome DB_ID: 451398	Complex2	
+Complex14	Nephrin dimer:IQGAP1	plasma membrane	Reactome DB_ID: 451398	Protein20	
+Complex15	Nephrin dimer:adherins junction-associated proteins	plasma membrane	Reactome DB_ID: 451387	PhysicalEntity2	
+Complex15	Nephrin dimer:adherins junction-associated proteins	plasma membrane	Reactome DB_ID: 451387	Complex2	
+Complex2	Nephrin dimer:NEPH1	plasma membrane	Reactome DB_ID: 373679	Protein2	
+Complex2	Nephrin dimer:NEPH1	plasma membrane	Reactome DB_ID: 373679	Complex1	
+Complex3	Nephrin dimer:NEPH2/NEPH3	plasma membrane	Reactome DB_ID: 451719	Complex1	
+Complex3	Nephrin dimer:NEPH2/NEPH3	plasma membrane	Reactome DB_ID: 451719	Protein3	
+Complex4	NEPH1:p-Nephrin:Fyn	plasma membrane	Reactome DB_ID: 374555	Protein6	
+Complex4	NEPH1:p-Nephrin:Fyn	plasma membrane	Reactome DB_ID: 374555	Complex5	
+Complex5	NEPH1:p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451430	Protein2	
+Complex5	NEPH1:p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451430	Complex6	
+Complex6	p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451723	Protein1	
+Complex6	p-Nephrin:Nephrin	plasma membrane	Reactome DB_ID: 451723	Protein7	
+Complex7	NEPH1:p-Nephrin:Fyn:NCK	plasma membrane	Reactome DB_ID: 373677	Complex4	
+Complex7	NEPH1:p-Nephrin:Fyn:NCK	plasma membrane	Reactome DB_ID: 373677	Protein8	
+Complex8	NEPH1:p-Nephrin:Fyn:NCK:N-WASP	plasma membrane	Reactome DB_ID: 532605	Protein11	
+Complex8	NEPH1:p-Nephrin:Fyn:NCK:N-WASP	plasma membrane	Reactome DB_ID: 532605	Complex7	
+Complex9	Podocin:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373691	PhysicalEntity1	
+Complex9	Podocin:p-Nephrin:Fyn:NEPH1	plasma membrane	Reactome DB_ID: 373691	Complex4	

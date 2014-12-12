@@ -1,0 +1,15 @@
+BiochemicalReaction1	AKT phosphorylates FOXO1A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates FOXO1A	Protein1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates FOXO1A	Protein1	Protein2	
+BiochemicalReaction1	AKT phosphorylates FOXO1A	SmallMolecule1	Protein2	
+BiochemicalReaction2	Phosphorylated FOXO1A is excluded from the nucleus	Protein2	Protein7	
+TemplateReaction1	FOXOA2-, MAFA-, and PAX6-dependent synthesis of PDX1 protein	NA	Protein8	
+TemplateReaction10	HNF1A-dependent synthesis of FOXA3	NA	Protein26	
+TemplateReaction2	MAFA-, NKX2-2-, PAX6-, and PDX1-dependent synthesis of insulin precursor protein	NA	Protein12	
+TemplateReaction3	PDX1-dependent synthesis of IAPP protein	NA	Protein14	
+TemplateReaction4	PDX1-dependent synthesis of NKX6-1 protein	NA	Protein15	
+TemplateReaction5	NEUROD1- and PDX1-dependent synthesis of glucokinase (GCK) protein	NA	Protein16	
+TemplateReaction6	HNF1A-dependent synthesis of GLUT2 protein	NA	Protein18	
+TemplateReaction7	HNF1A-dependent synthesis of the L isoform of PKLR protein	NA	Protein20	
+TemplateReaction8	HNF1A-dependent synthesis of HNF4A	NA	Protein21	
+TemplateReaction9	HNF1A-dependent synthesis of HNF4G protein	NA	Protein25	

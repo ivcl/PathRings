@@ -1,0 +1,22 @@
+Complex1	C5b	extracellular region	Reactome DB_ID: 173671	Protein2	
+Complex1	C5b	extracellular region	Reactome DB_ID: 173671	Protein3	
+Complex2	C5b:C6 complex	extracellular region	Reactome DB_ID: 173711	Protein1	
+Complex2	C5b:C6 complex	extracellular region	Reactome DB_ID: 173711	Complex1	
+Complex3	C5b:C6:C7 complex	extracellular region	Reactome DB_ID: 173708	Protein4	
+Complex3	C5b:C6:C7 complex	extracellular region	Reactome DB_ID: 173708	Protein1	
+Complex3	C5b:C6:C7 complex	extracellular region	Reactome DB_ID: 173708	Complex1	
+Complex4	C5b:C6:C7 complex	plasma membrane	Reactome DB_ID: 173719	Protein4	
+Complex4	C5b:C6:C7 complex	plasma membrane	Reactome DB_ID: 173719	Protein1	
+Complex4	C5b:C6:C7 complex	plasma membrane	Reactome DB_ID: 173719	Complex1	
+Complex5	C8	extracellular region	Reactome DB_ID: 173713	Protein5	
+Complex5	C8	extracellular region	Reactome DB_ID: 173713	Protein6	
+Complex5	C8	extracellular region	Reactome DB_ID: 173713	Protein7	
+Complex6	C5b:C6:C7:C8 complex	plasma membrane	Reactome DB_ID: 173722	Complex5	
+Complex6	C5b:C6:C7:C8 complex	plasma membrane	Reactome DB_ID: 173722	Protein4	
+Complex6	C5b:C6:C7:C8 complex	plasma membrane	Reactome DB_ID: 173722	Protein1	
+Complex6	C5b:C6:C7:C8 complex	plasma membrane	Reactome DB_ID: 173722	Complex1	
+Complex7	Membrane Attack Complex	plasma membrane	Reactome DB_ID: 173728	Complex5	
+Complex7	Membrane Attack Complex	plasma membrane	Reactome DB_ID: 173728	Protein8	
+Complex7	Membrane Attack Complex	plasma membrane	Reactome DB_ID: 173728	Protein4	
+Complex7	Membrane Attack Complex	plasma membrane	Reactome DB_ID: 173728	Protein1	
+Complex7	Membrane Attack Complex	plasma membrane	Reactome DB_ID: 173728	Complex1	

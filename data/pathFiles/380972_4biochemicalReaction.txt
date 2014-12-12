@@ -1,0 +1,23 @@
+BiochemicalReaction1	LKB1 forms a trimeric complex with STRAD and MO25	Protein1	Complex1	
+BiochemicalReaction1	LKB1 forms a trimeric complex with STRAD and MO25	Protein4	Complex1	
+BiochemicalReaction1	LKB1 forms a trimeric complex with STRAD and MO25	Protein5	Complex1	
+BiochemicalReaction2	Activation of cytosolic AMPK by phosphorylation	Complex2	SmallMolecule2	
+BiochemicalReaction2	Activation of cytosolic AMPK by phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Activation of cytosolic AMPK by phosphorylation	SmallMolecule1	Complex3	
+BiochemicalReaction2	Activation of cytosolic AMPK by phosphorylation	Complex2	Complex3	
+BiochemicalReaction3	AMPK is dephosphorylated	Complex3	SmallMolecule5	
+BiochemicalReaction3	AMPK is dephosphorylated	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	AMPK is dephosphorylated	SmallMolecule4	Complex2	
+BiochemicalReaction3	AMPK is dephosphorylated	Complex3	Complex2	
+BiochemicalReaction4	Phosphorylated AMPK binds AMP	Complex3	Complex4	
+BiochemicalReaction4	Phosphorylated AMPK binds AMP	SmallMolecule3	Complex4	
+BiochemicalReaction5	AMPK phosphorylates Raptor	Protein22	SmallMolecule2	
+BiochemicalReaction5	AMPK phosphorylates Raptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	AMPK phosphorylates Raptor	SmallMolecule1	Protein23	
+BiochemicalReaction5	AMPK phosphorylates Raptor	Protein22	Protein23	
+BiochemicalReaction6	p-AMPK phosphorylates TSC2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	p-AMPK phosphorylates TSC2	Complex5	SmallMolecule2	
+BiochemicalReaction6	p-AMPK phosphorylates TSC2	Complex5	Complex6	
+BiochemicalReaction6	p-AMPK phosphorylates TSC2	SmallMolecule1	Complex6	
+BiochemicalReaction7	TSC2 activates intrinsic GTPase activity of Rheb	Complex7	SmallMolecule5	
+BiochemicalReaction7	TSC2 activates intrinsic GTPase activity of Rheb	Complex7	Complex8	

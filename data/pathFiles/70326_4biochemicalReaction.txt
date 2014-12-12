@@ -1,0 +1,237 @@
+BiochemicalReaction1	alpha-D-glucose 6-phosphate <=> D-fructose 6-phosphate	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction10	2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O	SmallMolecule19	SmallMolecule3	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule6	SmallMolecule21	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule20	SmallMolecule5	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule28	SmallMolecule30	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule26	SmallMolecule30	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule28	SmallMolecule31	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule27	SmallMolecule31	
+BiochemicalReaction12	Pyruvate + CO2 + ATP => ADP + Orthophosphate + Oxaloacetate	SmallMolecule26	SmallMolecule31	
+BiochemicalReaction13	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule30	SmallMolecule37	
+BiochemicalReaction13	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule35	SmallMolecule37	
+BiochemicalReaction13	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction13	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction13	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule35	SmallMolecule38	
+BiochemicalReaction13	Oxaloacetate + NADH + H+ <=> (S)-Malate + NAD+	SmallMolecule30	SmallMolecule38	
+BiochemicalReaction14	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule4	SmallMolecule39	
+BiochemicalReaction14	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction14	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule38	SmallMolecule31	
+BiochemicalReaction14	malate [mitochondrial matrix] + orthophosphate [cytosol] <=> malate [cytosol] + orthophosphate [mitochondrial matrix]	SmallMolecule4	SmallMolecule31	
+BiochemicalReaction15	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule39	SmallMolecule14	
+BiochemicalReaction15	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction15	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule13	SmallMolecule40	
+BiochemicalReaction15	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule39	SmallMolecule40	
+BiochemicalReaction15	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction15	malate + NAD+ <=> oxaloacetate + NADH + H+	SmallMolecule39	SmallMolecule16	
+BiochemicalReaction16	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule30	SmallMolecule42	
+BiochemicalReaction16	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule41	SmallMolecule42	
+BiochemicalReaction16	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule41	SmallMolecule43	
+BiochemicalReaction16	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule30	SmallMolecule43	
+BiochemicalReaction17	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule38	SmallMolecule42	
+BiochemicalReaction17	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule44	SmallMolecule42	
+BiochemicalReaction17	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule44	SmallMolecule39	
+BiochemicalReaction17	Exchange of malate and alpha-ketoglutarate (2-oxoglutarate) across the inner mitochondrial membrane	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction18	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction18	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule43	SmallMolecule46	
+BiochemicalReaction18	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule43	SmallMolecule41	
+BiochemicalReaction18	Exchange of cytosolic glutamate and mitochondrial aspartate	SmallMolecule45	SmallMolecule41	
+BiochemicalReaction19	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule46	SmallMolecule45	
+BiochemicalReaction19	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction19	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule44	SmallMolecule40	
+BiochemicalReaction19	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule46	SmallMolecule40	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex2	SmallMolecule4	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule3	Complex3	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex2	Complex3	
+BiochemicalReaction20	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule48	SmallMolecule49	
+BiochemicalReaction20	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule40	SmallMolecule49	
+BiochemicalReaction20	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule40	SmallMolecule20	
+BiochemicalReaction20	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule48	SmallMolecule20	
+BiochemicalReaction20	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule40	SmallMolecule50	
+BiochemicalReaction20	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [cytosol]	SmallMolecule48	SmallMolecule50	
+BiochemicalReaction21	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule51	SmallMolecule52	
+BiochemicalReaction21	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule30	SmallMolecule52	
+BiochemicalReaction21	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule30	SmallMolecule26	
+BiochemicalReaction21	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule51	SmallMolecule26	
+BiochemicalReaction21	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule30	SmallMolecule53	
+BiochemicalReaction21	oxaloacetate + GTP => phosphoenolpyruvate + GDP + CO2 [mitochondrial matrix]	SmallMolecule51	SmallMolecule53	
+BiochemicalReaction22	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule52	SmallMolecule54	
+BiochemicalReaction22	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule10	SmallMolecule54	
+BiochemicalReaction22	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule10	SmallMolecule20	
+BiochemicalReaction22	Exchange of cytosolic citrate for mitochondrial phosphoenolpyruvate	SmallMolecule52	SmallMolecule20	
+BiochemicalReaction23	Phosphoenolpyruvate + H2O <=> 2-Phospho-D-glycerate	SmallMolecule20	SmallMolecule19	
+BiochemicalReaction23	Phosphoenolpyruvate + H2O <=> 2-Phospho-D-glycerate	SmallMolecule3	SmallMolecule19	
+BiochemicalReaction24	2-Phospho-D-glycerate <=> 3-Phospho-D-glycerate	SmallMolecule19	SmallMolecule17	
+BiochemicalReaction25	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule17	SmallMolecule6	
+BiochemicalReaction25	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction25	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction25	ATP + 3-Phospho-D-glycerate <=> ADP + 1,3-bisphospho-D-glycerate	SmallMolecule17	SmallMolecule15	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule14	SmallMolecule4	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule15	SmallMolecule4	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule16	SmallMolecule4	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule16	SmallMolecule11	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule15	SmallMolecule11	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule14	SmallMolecule11	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule16	SmallMolecule13	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction26	1,3-bisphospho-D-glycerate + NADH + H+ <=> D-glyceraldehyde 3-phosphate + Orthophosphate + NAD+	SmallMolecule14	SmallMolecule13	
+BiochemicalReaction27	D-glyceraldehyde 3-phosphate <=> dihydroxyacetone phosphate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction28	dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate <=> D-fructose 1,6-bisphosphate	SmallMolecule11	SmallMolecule8	
+BiochemicalReaction28	dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate <=> D-fructose 1,6-bisphosphate	SmallMolecule12	SmallMolecule8	
+BiochemicalReaction29	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction29	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction29	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction29	D-fructose 1,6-bisphosphate + H2O => D-fructose 6-phosphate + orthophosphate	SmallMolecule8	SmallMolecule2	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction30	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction30	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex3	SmallMolecule6	
+BiochemicalReaction30	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex3	Complex2	
+BiochemicalReaction30	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule5	Complex2	
+BiochemicalReaction31	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule7	SmallMolecule4	
+BiochemicalReaction31	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction31	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction31	Fructose 2,6-bisphosphate is hydrolyzed to form fructose-6-phosphate and orthophosphate	SmallMolecule7	SmallMolecule2	
+BiochemicalReaction32	D-fructose 6-phosphate <=> alpha-D-Glucose 6-phosphate	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction33	alpha-D-Glucose 6-phosphate <=> D-Glucose 1-phosphate	SmallMolecule1	SmallMolecule55	
+BiochemicalReaction34	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule55	SmallMolecule57	
+BiochemicalReaction34	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule56	SmallMolecule57	
+BiochemicalReaction34	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule56	SmallMolecule58	
+BiochemicalReaction34	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule55	SmallMolecule58	
+BiochemicalReaction35	Autoglucosylation of GYG1 complexed with GYS1-a	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction35	Autoglucosylation of GYG1 complexed with GYS1-a	Complex52	SmallMolecule59	
+BiochemicalReaction35	Autoglucosylation of GYG1 complexed with GYS1-a	Complex52	Complex53	
+BiochemicalReaction35	Autoglucosylation of GYG1 complexed with GYS1-a	SmallMolecule58	Complex53	
+BiochemicalReaction36	Autoglucosylation of GYG1 complexed with GYS1-b	Complex54	SmallMolecule59	
+BiochemicalReaction36	Autoglucosylation of GYG1 complexed with GYS1-b	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction36	Autoglucosylation of GYG1 complexed with GYS1-b	SmallMolecule58	Complex55	
+BiochemicalReaction36	Autoglucosylation of GYG1 complexed with GYS1-b	Complex54	Complex55	
+BiochemicalReaction37	Autoglucosylation of GYG2 complexed with GYS2-a	Complex56	SmallMolecule59	
+BiochemicalReaction37	Autoglucosylation of GYG2 complexed with GYS2-a	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction37	Autoglucosylation of GYG2 complexed with GYS2-a	SmallMolecule58	Complex57	
+BiochemicalReaction37	Autoglucosylation of GYG2 complexed with GYS2-a	Complex56	Complex57	
+BiochemicalReaction38	Autoglucosylation of GYG2 complexed with GYS2-b	Complex58	SmallMolecule59	
+BiochemicalReaction38	Autoglucosylation of GYG2 complexed with GYS2-b	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction38	Autoglucosylation of GYG2 complexed with GYS2-b	SmallMolecule58	Complex59	
+BiochemicalReaction38	Autoglucosylation of GYG2 complexed with GYS2-b	Complex58	Complex59	
+BiochemicalReaction39	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex53	SmallMolecule59	
+BiochemicalReaction39	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction39	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule58	Complex60	
+BiochemicalReaction39	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex53	Complex60	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction40	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex55	SmallMolecule59	
+BiochemicalReaction40	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction40	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule58	Complex61	
+BiochemicalReaction40	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex55	Complex61	
+BiochemicalReaction41	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	SmallMolecule58	Complex62	
+BiochemicalReaction41	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	Complex57	Complex62	
+BiochemicalReaction41	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	Complex57	SmallMolecule59	
+BiochemicalReaction41	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction42	GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-a	Complex60	Complex63	
+BiochemicalReaction43	GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-b	Complex61	Complex64	
+BiochemicalReaction44	GBE1 catalyzes branch formation in polyGlc-GYG2 complexed with GYS2-a	Complex62	Complex65	
+BiochemicalReaction45	PPP1R3C binds to glycogen:GYG1:GYS1	Complex63	Complex66	
+BiochemicalReaction45	PPP1R3C binds to glycogen:GYG1:GYS1	Protein69	Complex66	
+BiochemicalReaction46	PPP1R3C binds to glycogen:GYG2:GYS2	Complex65	Complex67	
+BiochemicalReaction46	PPP1R3C binds to glycogen:GYG2:GYS2	Protein69	Complex67	
+BiochemicalReaction47	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	Complex66	SmallMolecule60	
+BiochemicalReaction47	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	SmallMolecule58	SmallMolecule60	
+BiochemicalReaction47	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	SmallMolecule58	Complex68	
+BiochemicalReaction47	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	Complex66	Complex68	
+BiochemicalReaction48	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	Complex67	SmallMolecule60	
+BiochemicalReaction48	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	SmallMolecule58	SmallMolecule60	
+BiochemicalReaction48	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	SmallMolecule58	Complex69	
+BiochemicalReaction48	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	Complex67	Complex69	
+BiochemicalReaction49	EPM2A binds PPP1R3C:phosphoglycogen-GYG1 complex	Protein72	Complex70	
+BiochemicalReaction49	EPM2A binds PPP1R3C:phosphoglycogen-GYG1 complex	Complex68	Complex70	
+BiochemicalReaction5	D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction5	D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction50	EPM2A binds PPP1R3C:phosphoglycogen-GYG2 complex	Protein72	Complex71	
+BiochemicalReaction50	EPM2A binds PPP1R3C:phosphoglycogen-GYG2 complex	Complex69	Complex71	
+BiochemicalReaction51	EPM2A dephosphorylates phosphoglycogen-GYG1	Complex70	SmallMolecule4	
+BiochemicalReaction51	EPM2A dephosphorylates phosphoglycogen-GYG1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction51	EPM2A dephosphorylates phosphoglycogen-GYG1	SmallMolecule3	Complex72	
+BiochemicalReaction51	EPM2A dephosphorylates phosphoglycogen-GYG1	Complex70	Complex72	
+BiochemicalReaction52	EPM2A dephosphorylates phosphoglycogen-GYG2	Complex71	SmallMolecule4	
+BiochemicalReaction52	EPM2A dephosphorylates phosphoglycogen-GYG2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction52	EPM2A dephosphorylates phosphoglycogen-GYG2	SmallMolecule3	Complex73	
+BiochemicalReaction52	EPM2A dephosphorylates phosphoglycogen-GYG2	Complex71	Complex73	
+BiochemicalReaction53	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein73	Protein88	
+BiochemicalReaction53	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex72	Protein88	
+BiochemicalReaction53	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex72	Complex63	
+BiochemicalReaction53	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein73	Complex63	
+BiochemicalReaction53	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex72	Protein89	
+BiochemicalReaction53	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein73	Protein89	
+BiochemicalReaction54	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein73	Complex65	
+BiochemicalReaction54	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex73	Complex65	
+BiochemicalReaction54	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex73	Protein88	
+BiochemicalReaction54	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein73	Protein88	
+BiochemicalReaction54	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex73	Protein89	
+BiochemicalReaction54	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein73	Protein89	
+BiochemicalReaction55	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	Complex74	SmallMolecule6	
+BiochemicalReaction55	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction55	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	SmallMolecule5	Complex75	
+BiochemicalReaction55	glycogen phosphorylase (PYGB) dimer b + 2 ATP => glycogen phosphorylase (PYGB) dimer a + 2 ADP	Complex74	Complex75	
+BiochemicalReaction56	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	Complex77	SmallMolecule6	
+BiochemicalReaction56	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction56	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	SmallMolecule5	Complex78	
+BiochemicalReaction56	glycogen phosphorylase (PYGM) dimer b + 2 ATP => glycogen phosphorylase (PYGM) dimer a + 2 ADP	Complex77	Complex78	
+BiochemicalReaction57	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	Complex79	SmallMolecule6	
+BiochemicalReaction57	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction57	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	SmallMolecule5	Complex80	
+BiochemicalReaction57	glycogen phosphorylase (PYGL) dimer b + 2 ATP => glycogen phosphorylase (PYGL) dimer a + 2 ADP	Complex79	Complex80	
+BiochemicalReaction58	PGYB dimer, b form + 2 AMP <=> PGYB b dimer:AMP complex	Complex74	Complex82	
+BiochemicalReaction58	PGYB dimer, b form + 2 AMP <=> PGYB b dimer:AMP complex	SmallMolecule9	Complex82	
+BiochemicalReaction59	PGYB b dimer:AMP complex <=> PGYB dimer, b form + 2 AMP	Complex82	Complex74	
+BiochemicalReaction59	PGYB b dimer:AMP complex <=> PGYB dimer, b form + 2 AMP	Complex82	SmallMolecule9	
+BiochemicalReaction6	dihydroxyacetone phosphate <=> D-glyceraldehyde 3-phosphate	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction60	PGYM dimer, b form + 2 AMP <=> PGYM b dimer:AMP complex	Complex77	Complex83	
+BiochemicalReaction60	PGYM dimer, b form + 2 AMP <=> PGYM b dimer:AMP complex	SmallMolecule9	Complex83	
+BiochemicalReaction61	PGYM b dimer:AMP complex <=> PGYM dimer, b form + 2 AMP	Complex83	Complex77	
+BiochemicalReaction61	PGYM b dimer:AMP complex <=> PGYM dimer, b form + 2 AMP	Complex83	SmallMolecule9	
+BiochemicalReaction62	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule4	SmallMolecule55	
+BiochemicalReaction62	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex84	SmallMolecule55	
+BiochemicalReaction62	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex84	Complex85	
+BiochemicalReaction62	glycogen-glycogenin-1 + n orthophosphate => limit dextrin-glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule4	Complex85	
+BiochemicalReaction63	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule4	SmallMolecule55	
+BiochemicalReaction63	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex87	SmallMolecule55	
+BiochemicalReaction63	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex87	Complex88	
+BiochemicalReaction63	glycogen-glycogenin-2 + n orthophosphate => limit dextrin-glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule4	Complex88	
+BiochemicalReaction64	limit dextrin-glycogenin => ((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl) glycogenin	Complex89	Complex90	
+BiochemicalReaction65	((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl)glycogenin => poly{(1,4)-alpha-glucosyl} glycogenin + alpha-D-glucose	Complex90	Complex93	
+BiochemicalReaction65	((1,6)-alpha-glucosyl)poly((1,4)-alpha-glucosyl)glycogenin => poly{(1,4)-alpha-glucosyl} glycogenin + alpha-D-glucose	Complex90	SmallMolecule63	
+BiochemicalReaction66	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule4	SmallMolecule55	
+BiochemicalReaction66	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex94	SmallMolecule55	
+BiochemicalReaction66	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	Complex94	Complex96	
+BiochemicalReaction66	poly((1,4)-alpha-glycosyl) glycogenin-1 + n orthophosphate => glycogenin-1 + n D-glucose 1-phosphate [PYGM,PYGB]	SmallMolecule4	Complex96	
+BiochemicalReaction67	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule4	SmallMolecule55	
+BiochemicalReaction67	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex95	SmallMolecule55	
+BiochemicalReaction67	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	Complex95	Complex97	
+BiochemicalReaction67	poly((1,4)-alpha-glucosyl) glycogenin-2 + n orthophosphate => glycogenin-2 + n D-glucose 1-phosphate [PYGL]	SmallMolecule4	Complex97	
+BiochemicalReaction68	D-Glucose 1-phosphate <=> alpha-D-Glucose 6-phosphate	SmallMolecule55	SmallMolecule1	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule11	SmallMolecule15	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule4	SmallMolecule15	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule11	SmallMolecule16	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule4	SmallMolecule16	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule6	SmallMolecule17	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule15	SmallMolecule5	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction9	3-Phospho-D-glycerate <=> 2-Phospho-D-glycerate	SmallMolecule17	SmallMolecule19	

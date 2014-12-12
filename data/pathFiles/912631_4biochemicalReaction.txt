@@ -1,0 +1,18 @@
+BiochemicalReaction1	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein1	Complex5	
+BiochemicalReaction1	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein2	Complex5	
+BiochemicalReaction1	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein3	Complex5	
+BiochemicalReaction1	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Complex1	Complex5	
+BiochemicalReaction2	CBL is tyrosine phosphorylated	Complex5	SmallMolecule2	
+BiochemicalReaction2	CBL is tyrosine phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	CBL is tyrosine phosphorylated	SmallMolecule1	Complex6	
+BiochemicalReaction2	CBL is tyrosine phosphorylated	Complex5	Complex6	
+BiochemicalReaction3	CBL ubiquitinates PI3K	Complex6	Complex7	
+BiochemicalReaction3	CBL ubiquitinates PI3K	PhysicalEntity1	Complex7	
+BiochemicalReaction4	CBL binds CRK	Protein16	Complex12	
+BiochemicalReaction4	CBL binds CRK	Protein21	Complex12	
+BiochemicalReaction5	CBL:CRKL binds RAPGEF1	Protein24	Complex13	
+BiochemicalReaction5	CBL:CRKL binds RAPGEF1	Complex12	Complex13	
+BiochemicalReaction6	CBL binds B-cell linker protein	Protein16	Complex14	
+BiochemicalReaction6	CBL binds B-cell linker protein	Protein25	Complex14	
+BiochemicalReaction7	CBL binds VAV	Protein16	Complex15	
+BiochemicalReaction7	CBL binds VAV	Protein26	Complex15	

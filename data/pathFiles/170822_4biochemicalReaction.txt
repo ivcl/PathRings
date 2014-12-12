@@ -1,0 +1,8 @@
+BiochemicalReaction1	glucokinase (GCK1) + glucokinase regulatory protein (GKRP) <=> GCK1:GKRP complex	Protein1	Complex1	
+BiochemicalReaction1	glucokinase (GCK1) + glucokinase regulatory protein (GKRP) <=> GCK1:GKRP complex	Protein2	Complex1	
+BiochemicalReaction2	cytosolic GCK1:GKRP complex <=> glucokinase (GCK1) + glucokinase regulatory protein (GKRP)	Complex1	Protein1	
+BiochemicalReaction2	cytosolic GCK1:GKRP complex <=> glucokinase (GCK1) + glucokinase regulatory protein (GKRP)	Complex1	Protein2	
+BiochemicalReaction3	GCK1:GKRP [cytosol] => GCK1:GKRP [nucleoplasm]	Complex1	Complex2	
+BiochemicalReaction4	Dissociation of the nucleoplasmic GCK1:GKRP complex	Complex2	Protein3	
+BiochemicalReaction4	Dissociation of the nucleoplasmic GCK1:GKRP complex	Complex2	Protein4	
+BiochemicalReaction5	glucokinase [nucleoplasm] => glucokinase [cytosol]	Protein3	Protein1	

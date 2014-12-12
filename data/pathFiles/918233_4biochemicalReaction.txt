@@ -1,0 +1,31 @@
+BiochemicalReaction1	Recruitment of TRAF3 to IPS-1	Complex1	Complex5	
+BiochemicalReaction1	Recruitment of TRAF3 to IPS-1	Protein7	Complex5	
+BiochemicalReaction2	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex5	Complex7	
+BiochemicalReaction2	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex6	Complex7	
+BiochemicalReaction2	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex6	Protein11	
+BiochemicalReaction2	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex5	Protein11	
+BiochemicalReaction3	Recruitment of IRF3/7\u00C2\u00A0	Complex7	Complex8	
+BiochemicalReaction3	Recruitment of IRF3/7\u00C2\u00A0	Protein12	Complex8	
+BiochemicalReaction4	Phosphorylation and release of IRF3/IRF7	Complex8	Protein15	
+BiochemicalReaction4	Phosphorylation and release of IRF3/IRF7	SmallMolecule1	Protein15	
+BiochemicalReaction4	Phosphorylation and release of IRF3/IRF7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation and release of IRF3/IRF7	Complex8	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation and release of IRF3/IRF7	SmallMolecule1	Complex7	
+BiochemicalReaction4	Phosphorylation and release of IRF3/IRF7	Complex8	Complex7	
+BiochemicalReaction5	Dimerization of Phospho IRF3 or phospho IRF7	Protein15	Complex9	
+BiochemicalReaction5	Dimerization of Phospho IRF3 or phospho IRF7	Protein15	Complex10	
+BiochemicalReaction5	Dimerization of Phospho IRF3 or phospho IRF7	Protein15	Complex11	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex9	Complex12	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex10	Complex12	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex11	Complex12	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex11	Complex13	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex10	Complex13	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex9	Complex13	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex11	Complex14	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex10	Complex14	
+BiochemicalReaction6	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex9	Complex14	
+BiochemicalReaction7	Interaction of CBP/p300 with p-IRF3 dimer	Complex12	Complex15	
+BiochemicalReaction7	Interaction of CBP/p300 with p-IRF3 dimer	Protein20	Complex15	
+BiochemicalReaction8	IRF3:CBP/p300 complex binds the promoters of IFN-beta	Complex15	Complex16	
+BiochemicalReaction8	IRF3:CBP/p300 complex binds the promoters of IFN-beta	PhysicalEntity2	Complex16	
+TemplateReaction1	Expression of IFN-beta	NA	Protein23	

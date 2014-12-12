@@ -1,0 +1,27 @@
+BiochemicalReaction1	Pre-pro-defensins are cleaved to remove the signal peptide	Protein1	Protein39	
+BiochemicalReaction10	Alpha-defensin dimers multimerize to form a pore complex	Complex8	Complex9	
+BiochemicalReaction11	HNP1-3 bind gp120	Complex10	Complex11	
+BiochemicalReaction11	HNP1-3 bind gp120	Protein105	Complex11	
+BiochemicalReaction12	HNP1-3 bind CD4	Protein106	Complex12	
+BiochemicalReaction12	HNP1-3 bind CD4	Protein105	Complex12	
+BiochemicalReaction13	ADP-Ribosylation of HNP-1	Protein91	Protein107	
+BiochemicalReaction14	Beta-defensins are secreted	Protein109	Protein110	
+BiochemicalReaction15	Beta-defensins bind microbial membranes causing disruption	Protein110	Complex13	
+BiochemicalReaction15	Beta-defensins bind microbial membranes causing disruption	SmallMolecule1	Complex13	
+BiochemicalReaction16	Beta-defensins 1, 4A and 103 bind CCR6	Protein143	Complex14	
+BiochemicalReaction16	Beta-defensins 1, 4A and 103 bind CCR6	Protein144	Complex14	
+BiochemicalReaction17	Beta-defensins 4A and 103 bind CCR2	Protein145	Complex15	
+BiochemicalReaction17	Beta-defensins 4A and 103 bind CCR2	Protein146	Complex15	
+BiochemicalReaction18	Beta defensin 103 activates TLR1:TLR2	Complex16	Complex17	
+BiochemicalReaction18	Beta defensin 103 activates TLR1:TLR2	Protein111	Complex17	
+BiochemicalReaction19	Binding of defensins to lipid II	SmallMolecule2	Complex18	
+BiochemicalReaction19	Binding of defensins to lipid II	Protein149	Complex18	
+BiochemicalReaction2	Pro-HNP1-4 are cleaved to biologically active defensin	Protein77	Protein78	
+BiochemicalReaction3	HNP1-4 are stored in primary neutrophil granules	Protein78	Protein84	
+BiochemicalReaction4	HNP1-4 are released into phagocytic vacuoles	Protein84	Protein90	
+BiochemicalReaction5	pro-defensin alpha 5 is stored in Paneth cell granules	Protein43	Protein96	
+BiochemicalReaction6	pro-defensin alpha 5 is secreted	Protein96	Protein97	
+BiochemicalReaction7	pro-HD5 is cleaved by trypsin	Protein97	Protein98	
+BiochemicalReaction8	Alpha-defensins form biologically active dimers	Protein102	Complex1	
+BiochemicalReaction9	Alpha-defensin dimers adsorb onto microbial membrane anionic phospholipids	Complex1	Complex8	
+BiochemicalReaction9	Alpha-defensin dimers adsorb onto microbial membrane anionic phospholipids	SmallMolecule1	Complex8	

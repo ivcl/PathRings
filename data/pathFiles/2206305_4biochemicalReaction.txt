@@ -1,0 +1,277 @@
+BiochemicalReaction1	Defective GNS does not hydrolyse 6-sulfate from GlcNAc6S	SmallMolecule1	NA	
+BiochemicalReaction1	Defective GNS does not hydrolyse 6-sulfate from GlcNAc6S	SmallMolecule2	NA	
+BiochemicalReaction10	HEXA,B cleave the terminal GalNAc from small HA fragments	PhysicalEntity6	SmallMolecule5	
+BiochemicalReaction10	HEXA,B cleave the terminal GalNAc from small HA fragments	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction10	HEXA,B cleave the terminal GalNAc from small HA fragments	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction10	HEXA,B cleave the terminal GalNAc from small HA fragments	PhysicalEntity6	SmallMolecule6	
+BiochemicalReaction11	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction11	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction11	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction11	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the HA disaccharides	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction12	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction12	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction12	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction12	The single sugars GlcA and GlcNAc translocate from the lysosome to the cytosol	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction13	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction13	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction13	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction13	SLC26A1,2 transport extracellular SO4(2-) to cytosol	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction14	Activation of inorganic sulfate forms APS	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction14	Activation of inorganic sulfate forms APS	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction14	Activation of inorganic sulfate forms APS	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction14	Activation of inorganic sulfate forms APS	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction15	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction15	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction15	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule13	SmallMolecule17	
+BiochemicalReaction15	adenylyl sulfate (APS) + ATP => PAPS + ADP	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction16	SLC35B2,3 transport cytosolic PAPS to Golgi lumen	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction17	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule19	SmallMolecule23	
+BiochemicalReaction17	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction17	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction17	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule19	SmallMolecule24	
+BiochemicalReaction18	B4GALTs add galactose to the N-glycan precursor	Protein30	Protein38	
+BiochemicalReaction18	B4GALTs add galactose to the N-glycan precursor	SmallMolecule27	Protein38	
+BiochemicalReaction18	B4GALTs add galactose to the N-glycan precursor	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction18	B4GALTs add galactose to the N-glycan precursor	Protein30	SmallMolecule28	
+BiochemicalReaction19	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein38	Protein52	
+BiochemicalReaction19	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule25	Protein52	
+BiochemicalReaction19	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction19	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein38	SmallMolecule28	
+BiochemicalReaction2	HAS1,2,3 mediate the polymerisation of HA	SmallMolecule3	PhysicalEntity1	
+BiochemicalReaction20	B4GALTs add another galactose to the chain	Protein52	SmallMolecule28	
+BiochemicalReaction20	B4GALTs add another galactose to the chain	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction20	B4GALTs add another galactose to the chain	SmallMolecule27	Protein66	
+BiochemicalReaction20	B4GALTs add another galactose to the chain	Protein52	Protein66	
+BiochemicalReaction21	B4GALTs can add galactose to a branch of keratan	SmallMolecule27	Protein74	
+BiochemicalReaction21	B4GALTs can add galactose to a branch of keratan	Protein66	Protein74	
+BiochemicalReaction21	B4GALTs can add galactose to a branch of keratan	Protein66	SmallMolecule28	
+BiochemicalReaction21	B4GALTs can add galactose to a branch of keratan	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction22	The keratan chain can be capped by N-acetylneuraminic acid	Protein74	Protein82	
+BiochemicalReaction22	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule29	Protein82	
+BiochemicalReaction22	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule29	SmallMolecule30	
+BiochemicalReaction22	The keratan chain can be capped by N-acetylneuraminic acid	Protein74	SmallMolecule30	
+BiochemicalReaction23	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein82	Protein96	
+BiochemicalReaction23	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule18	Protein96	
+BiochemicalReaction23	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction23	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein82	SmallMolecule31	
+BiochemicalReaction24	Further sulfation on galactose residues produces KSPG	Protein96	Protein108	
+BiochemicalReaction24	Further sulfation on galactose residues produces KSPG	SmallMolecule18	Protein108	
+BiochemicalReaction24	Further sulfation on galactose residues produces KSPG	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction24	Further sulfation on galactose residues produces KSPG	Protein96	SmallMolecule31	
+BiochemicalReaction25	KSPG is secreted from the cell	Protein108	Protein117	
+BiochemicalReaction26	Extracellular KSPG translocates to the lysosome for degradation	Protein117	Protein125	
+BiochemicalReaction27	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	Protein125	SmallMolecule32	
+BiochemicalReaction27	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	SmallMolecule2	SmallMolecule32	
+BiochemicalReaction27	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	SmallMolecule2	Protein133	
+BiochemicalReaction27	Keratan sulfate is cleaved from its proteoglycan by an unknown galactosidase	Protein125	Protein133	
+BiochemicalReaction28	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction28	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction28	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule2	SmallMolecule34	
+BiochemicalReaction28	N-acetylgalactosamine-6-sulfatase (GALNS) hydrolyses the sulfate groups of galactose 6-sulfate units of keratan sulfate	SmallMolecule32	SmallMolecule34	
+BiochemicalReaction29	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule2	SmallMolecule35	
+BiochemicalReaction29	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction29	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule34	SmallMolecule1	
+BiochemicalReaction29	Beta-galactosidase (GLB1) can cleave galactose from a glycosaminoglycan	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction3	Growing HA is extruded from the cell by ABCC5	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction30	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule1	SmallMolecule33	
+BiochemicalReaction30	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction30	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule2	SmallMolecule36	
+BiochemicalReaction30	N-acetylglucosamine 6-sulfatase (GNS) hydrolyses 6-sulfate groups of the N-acetyl-D-glucosamine 6-sulfate units of keratan sulfate	SmallMolecule1	SmallMolecule36	
+BiochemicalReaction31	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule2	SmallMolecule37	
+BiochemicalReaction31	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction31	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction31	HEXA,B cleave the terminal GalNAc from keratan sulfate	SmallMolecule2	SmallMolecule38	
+BiochemicalReaction32	GXYLTs transfer Xyl to core protein	SmallMolecule39	Protein165	
+BiochemicalReaction32	GXYLTs transfer Xyl to core protein	Protein145	Protein165	
+BiochemicalReaction32	GXYLTs transfer Xyl to core protein	Protein145	SmallMolecule28	
+BiochemicalReaction32	GXYLTs transfer Xyl to core protein	SmallMolecule39	SmallMolecule28	
+BiochemicalReaction33	B4GALT7 transfers Gal group to tetrasaccharide linker	Protein165	Protein188	
+BiochemicalReaction33	B4GALT7 transfers Gal group to tetrasaccharide linker	SmallMolecule27	Protein188	
+BiochemicalReaction33	B4GALT7 transfers Gal group to tetrasaccharide linker	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction33	B4GALT7 transfers Gal group to tetrasaccharide linker	Protein165	SmallMolecule28	
+BiochemicalReaction34	B3GALT6 transfers Gal to the tetrasaccharide linker	Protein188	Protein209	
+BiochemicalReaction34	B3GALT6 transfers Gal to the tetrasaccharide linker	SmallMolecule27	Protein209	
+BiochemicalReaction34	B3GALT6 transfers Gal to the tetrasaccharide linker	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction34	B3GALT6 transfers Gal to the tetrasaccharide linker	Protein188	SmallMolecule28	
+BiochemicalReaction35	B3GATs transfer GlcA to tetrasaccharide linker	Protein209	Protein230	
+BiochemicalReaction35	B3GATs transfer GlcA to tetrasaccharide linker	SmallMolecule40	Protein230	
+BiochemicalReaction35	B3GATs transfer GlcA to tetrasaccharide linker	SmallMolecule40	SmallMolecule28	
+BiochemicalReaction35	B3GATs transfer GlcA to tetrasaccharide linker	Protein209	SmallMolecule28	
+BiochemicalReaction36	The addition of GlcNAc to the terminal glucuronate residue creates heparan	Protein253	SmallMolecule28	
+BiochemicalReaction36	The addition of GlcNAc to the terminal glucuronate residue creates heparan	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction36	The addition of GlcNAc to the terminal glucuronate residue creates heparan	SmallMolecule25	Protein254	
+BiochemicalReaction36	The addition of GlcNAc to the terminal glucuronate residue creates heparan	Protein253	Protein254	
+BiochemicalReaction37	Glucuronate is added to the heparan chain	SmallMolecule40	Protein269	
+BiochemicalReaction37	Glucuronate is added to the heparan chain	Protein254	Protein269	
+BiochemicalReaction37	Glucuronate is added to the heparan chain	Protein254	SmallMolecule28	
+BiochemicalReaction37	Glucuronate is added to the heparan chain	SmallMolecule40	SmallMolecule28	
+BiochemicalReaction38	Another GlcNAc addition extends the heparan chain	Protein269	Protein282	
+BiochemicalReaction38	Another GlcNAc addition extends the heparan chain	SmallMolecule25	Protein282	
+BiochemicalReaction38	Another GlcNAc addition extends the heparan chain	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction38	Another GlcNAc addition extends the heparan chain	Protein269	SmallMolecule28	
+BiochemicalReaction39	Another GlcA addition extends the heparan chain	SmallMolecule40	Protein295	
+BiochemicalReaction39	Another GlcA addition extends the heparan chain	Protein282	Protein295	
+BiochemicalReaction39	Another GlcA addition extends the heparan chain	Protein282	SmallMolecule28	
+BiochemicalReaction39	Another GlcA addition extends the heparan chain	SmallMolecule40	SmallMolecule28	
+BiochemicalReaction4	Receptor-mediated uptake of HA	Protein6	Complex1	
+BiochemicalReaction4	Receptor-mediated uptake of HA	PhysicalEntity2	Complex1	
+BiochemicalReaction4	Receptor-mediated uptake of HA	Protein11	Complex1	
+BiochemicalReaction40	NDST1-4 N-deacetylates GlcNAc residues in heparan	Protein295	SmallMolecule43	
+BiochemicalReaction40	NDST1-4 N-deacetylates GlcNAc residues in heparan	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction40	NDST1-4 N-deacetylates GlcNAc residues in heparan	SmallMolecule42	Protein308	
+BiochemicalReaction40	NDST1-4 N-deacetylates GlcNAc residues in heparan	Protein295	Protein308	
+BiochemicalReaction41	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	Protein308	Protein326	
+BiochemicalReaction41	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	SmallMolecule18	Protein326	
+BiochemicalReaction41	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction41	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	Protein308	SmallMolecule31	
+BiochemicalReaction42	GLCE epimerises GlcA to IdoA	Protein326	Protein339	
+BiochemicalReaction43	HS2ST1 sulfates IdoA at C2 in heparan sulfate	Protein339	SmallMolecule31	
+BiochemicalReaction43	HS2ST1 sulfates IdoA at C2 in heparan sulfate	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction43	HS2ST1 sulfates IdoA at C2 in heparan sulfate	SmallMolecule18	Protein353	
+BiochemicalReaction43	HS2ST1 sulfates IdoA at C2 in heparan sulfate	Protein339	Protein353	
+BiochemicalReaction44	HS3STs sulfate GlcN at C3 in heparan sulfate	SmallMolecule18	Protein367	
+BiochemicalReaction44	HS3STs sulfate GlcN at C3 in heparan sulfate	Protein353	Protein367	
+BiochemicalReaction44	HS3STs sulfate GlcN at C3 in heparan sulfate	Protein353	SmallMolecule31	
+BiochemicalReaction44	HS3STs sulfate GlcN at C3 in heparan sulfate	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction45	HS3ST1 sulfates GlcN at C3 in heparan sulfate	SmallMolecule18	Protein367	
+BiochemicalReaction45	HS3ST1 sulfates GlcN at C3 in heparan sulfate	Protein353	Protein367	
+BiochemicalReaction45	HS3ST1 sulfates GlcN at C3 in heparan sulfate	Protein353	SmallMolecule31	
+BiochemicalReaction45	HS3ST1 sulfates GlcN at C3 in heparan sulfate	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction46	GLCE epimerises more GlcA to IdoA as sulfate content rises	Protein367	Protein390	
+BiochemicalReaction47	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	Protein390	SmallMolecule31	
+BiochemicalReaction47	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction47	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	SmallMolecule18	Protein403	
+BiochemicalReaction47	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	Protein390	Protein403	
+BiochemicalReaction48	Some HSPGs are secreted to the plasma membrane	PhysicalEntity9	PhysicalEntity10	
+BiochemicalReaction49	HS-GAGs translocate to the lysosome for degradation	Protein485	Protein498	
+BiochemicalReaction5	HYAL2 interacts with NHE1 to create an acidic environment	Protein12	Complex2	
+BiochemicalReaction5	HYAL2 interacts with NHE1 to create an acidic environment	Complex1	Complex2	
+BiochemicalReaction50	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	SmallMolecule2	SmallMolecule44	
+BiochemicalReaction50	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	Protein498	SmallMolecule44	
+BiochemicalReaction50	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	Protein498	Protein511	
+BiochemicalReaction50	Heparanase (HPSE) cleaves heparan sulfate from its proteoglycan (lysosome)	SmallMolecule2	Protein511	
+BiochemicalReaction51	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	Protein485	SmallMolecule46	
+BiochemicalReaction51	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction51	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	SmallMolecule45	Protein526	
+BiochemicalReaction51	Heparanase 2 (HPSE2) cleaves heparan sulfate from its proteoglycan (plasma membrane)	Protein485	Protein526	
+BiochemicalReaction52	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule44	SmallMolecule47	
+BiochemicalReaction52	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule2	SmallMolecule47	
+BiochemicalReaction52	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule2	SmallMolecule48	
+BiochemicalReaction52	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule44	SmallMolecule48	
+BiochemicalReaction53	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule47	SmallMolecule33	
+BiochemicalReaction53	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction53	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule2	SmallMolecule49	
+BiochemicalReaction53	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule47	SmallMolecule49	
+BiochemicalReaction54	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule49	SmallMolecule51	
+BiochemicalReaction54	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule50	SmallMolecule51	
+BiochemicalReaction54	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule50	SmallMolecule52	
+BiochemicalReaction54	HGSNAT acetylates the terminal N-glucosamine in heparan sulfate	SmallMolecule49	SmallMolecule52	
+BiochemicalReaction55	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule51	SmallMolecule53	
+BiochemicalReaction55	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule2	SmallMolecule53	
+BiochemicalReaction55	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction55	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses N-acetyl-D-glucosamine residues from heparan sulfate	SmallMolecule51	SmallMolecule6	
+BiochemicalReaction56	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction56	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule53	SmallMolecule33	
+BiochemicalReaction56	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule53	SmallMolecule54	
+BiochemicalReaction56	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of heparan sulfate	SmallMolecule2	SmallMolecule54	
+BiochemicalReaction57	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule2	SmallMolecule56	
+BiochemicalReaction57	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule54	SmallMolecule56	
+BiochemicalReaction57	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule54	SmallMolecule48	
+BiochemicalReaction57	Alpha-L-iduronidase (IDUA) hydrolyses another unsulfated alpha-L-iduronosidic linkage in heparan sulfate	SmallMolecule2	SmallMolecule48	
+BiochemicalReaction58	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule56	SmallMolecule33	
+BiochemicalReaction58	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction58	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule2	SmallMolecule57	
+BiochemicalReaction58	N-sulphoglucosamine sulphohydrolase (SGSH) hydrolyses another sulfate from the N-sulphoglucosamine residue of heparan sulfate	SmallMolecule56	SmallMolecule57	
+BiochemicalReaction59	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule57	SmallMolecule52	
+BiochemicalReaction59	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule50	SmallMolecule52	
+BiochemicalReaction59	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule50	SmallMolecule58	
+BiochemicalReaction59	HGSNAT acetylates another terminal N-glucosamine in heparan	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction6	Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments	Complex2	Complex2	
+BiochemicalReaction6	Hyaluronidase 2 (HYAL2) hydrolyses HA into 20kDa fragments	Complex2	PhysicalEntity3	
+BiochemicalReaction60	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule2	SmallMolecule59	
+BiochemicalReaction60	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction60	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule58	SmallMolecule6	
+BiochemicalReaction60	Alpha-N-acetylglucosaminidase (NAGLU) hydrolyses another N-acetyl-D-glucosamine residue from heparan	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction61	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule59	SmallMolecule4	
+BiochemicalReaction61	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction61	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule2	SmallMolecule60	
+BiochemicalReaction61	Beta-glucuronidase (GUSB) hydrolyses glucuronate from the linker chain	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction62	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule2	SmallMolecule35	
+BiochemicalReaction62	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule60	SmallMolecule35	
+BiochemicalReaction62	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule60	SmallMolecule62	
+BiochemicalReaction62	Beta-galactosidase (GLB1) can cleave galactose from the linker chain	SmallMolecule2	SmallMolecule62	
+BiochemicalReaction63	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule63	Protein546	
+BiochemicalReaction63	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein545	Protein546	
+BiochemicalReaction63	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein545	SmallMolecule28	
+BiochemicalReaction63	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule63	SmallMolecule28	
+BiochemicalReaction64	A glucuronate moiety is added to chondroitin	SmallMolecule40	Protein557	
+BiochemicalReaction64	A glucuronate moiety is added to chondroitin	Protein546	Protein557	
+BiochemicalReaction64	A glucuronate moiety is added to chondroitin	Protein546	SmallMolecule28	
+BiochemicalReaction64	A glucuronate moiety is added to chondroitin	SmallMolecule40	SmallMolecule28	
+BiochemicalReaction65	GalNAc is added to chondroitin	Protein557	Protein570	
+BiochemicalReaction65	GalNAc is added to chondroitin	SmallMolecule63	Protein570	
+BiochemicalReaction65	GalNAc is added to chondroitin	SmallMolecule63	SmallMolecule28	
+BiochemicalReaction65	GalNAc is added to chondroitin	Protein557	SmallMolecule28	
+BiochemicalReaction66	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein570	Protein579	
+BiochemicalReaction66	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule18	Protein579	
+BiochemicalReaction66	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction66	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein570	SmallMolecule31	
+BiochemicalReaction67	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein579	Protein592	
+BiochemicalReaction67	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule18	Protein592	
+BiochemicalReaction67	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction67	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein579	SmallMolecule31	
+BiochemicalReaction68	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein570	Protein601	
+BiochemicalReaction68	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule18	Protein601	
+BiochemicalReaction68	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction68	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein570	SmallMolecule31	
+BiochemicalReaction69	CSPG is secreted	PhysicalEntity12	PhysicalEntity13	
+BiochemicalReaction7	20kDa HA fragments are translocated to lysosomes	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction70	Dermatan-sulfate epimerase (DSE) converts chondroitin sulfate (CS) to dermatan sulfate (DS)	Protein579	Protein636	
+BiochemicalReaction71	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein636	Protein647	
+BiochemicalReaction71	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule18	Protein647	
+BiochemicalReaction71	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction71	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein636	SmallMolecule31	
+BiochemicalReaction72	CHST14 transfers SO4(2-) to DS	Protein647	SmallMolecule31	
+BiochemicalReaction72	CHST14 transfers SO4(2-) to DS	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction72	CHST14 transfers SO4(2-) to DS	SmallMolecule18	Protein656	
+BiochemicalReaction72	CHST14 transfers SO4(2-) to DS	Protein647	Protein656	
+BiochemicalReaction73	DSPGs are secreted	PhysicalEntity14	PhysicalEntity15	
+BiochemicalReaction74	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity15	PhysicalEntity16	
+BiochemicalReaction74	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity13	PhysicalEntity16	
+BiochemicalReaction74	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity13	PhysicalEntity17	
+BiochemicalReaction74	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity15	PhysicalEntity17	
+BiochemicalReaction75	DS is cleaved from its proteoglycan	Protein721	SmallMolecule64	
+BiochemicalReaction75	DS is cleaved from its proteoglycan	SmallMolecule2	SmallMolecule64	
+BiochemicalReaction75	DS is cleaved from its proteoglycan	SmallMolecule2	Protein737	
+BiochemicalReaction75	DS is cleaved from its proteoglycan	Protein721	Protein737	
+BiochemicalReaction76	CS is cleaved from its proteoglycan	PhysicalEntity16	SmallMolecule65	
+BiochemicalReaction76	CS is cleaved from its proteoglycan	SmallMolecule2	SmallMolecule65	
+BiochemicalReaction76	CS is cleaved from its proteoglycan	SmallMolecule2	Protein737	
+BiochemicalReaction76	CS is cleaved from its proteoglycan	PhysicalEntity16	Protein737	
+BiochemicalReaction77	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule64	SmallMolecule33	
+BiochemicalReaction77	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction77	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule2	SmallMolecule68	
+BiochemicalReaction77	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule64	SmallMolecule68	
+BiochemicalReaction78	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule68	SmallMolecule33	
+BiochemicalReaction78	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction78	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule2	SmallMolecule69	
+BiochemicalReaction78	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule68	SmallMolecule69	
+BiochemicalReaction79	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule2	SmallMolecule70	
+BiochemicalReaction79	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule69	SmallMolecule70	
+BiochemicalReaction79	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule69	SmallMolecule38	
+BiochemicalReaction79	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule2	SmallMolecule38	
+BiochemicalReaction8	Hyaluronidase 1 (HYAL1) hydrolyses HA from 20kDa to 800Da fragments	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction80	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule2	SmallMolecule71	
+BiochemicalReaction80	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule70	SmallMolecule71	
+BiochemicalReaction80	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule70	SmallMolecule48	
+BiochemicalReaction80	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule2	SmallMolecule48	
+BiochemicalReaction81	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule65	SmallMolecule33	
+BiochemicalReaction81	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule2	SmallMolecule33	
+BiochemicalReaction81	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule2	SmallMolecule72	
+BiochemicalReaction81	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule65	SmallMolecule72	
+BiochemicalReaction82	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule2	SmallMolecule59	
+BiochemicalReaction82	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule73	SmallMolecule59	
+BiochemicalReaction9	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	SmallMolecule2	PhysicalEntity6	
+BiochemicalReaction9	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction9	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	PhysicalEntity5	SmallMolecule4	
+BiochemicalReaction9	Beta-glucuronidase (GUSB) hydrolyses glucuronate from HA tetrasaccharides	SmallMolecule2	SmallMolecule4	

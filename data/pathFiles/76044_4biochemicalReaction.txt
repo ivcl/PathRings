@@ -1,0 +1,42 @@
+BiochemicalReaction1	Cleavage of mRNA at the 3'-end	Complex1	Complex5	
+BiochemicalReaction1	Cleavage of mRNA at the 3'-end	Complex1	Complex4	
+BiochemicalReaction1	Cleavage of mRNA at the 3'-end	Complex1	Complex6	
+BiochemicalReaction1	Cleavage of mRNA at the 3'-end	Complex1	Complex11	
+BiochemicalReaction10	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein8	Complex25	
+BiochemicalReaction10	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex24	Complex25	
+BiochemicalReaction10	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex4	Complex25	
+BiochemicalReaction10	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein14	Complex25	
+BiochemicalReaction10	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex6	Complex25	
+BiochemicalReaction11	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex25	Protein8	
+BiochemicalReaction11	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex25	Complex26	
+BiochemicalReaction11	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex25	Complex4	
+BiochemicalReaction11	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex25	Complex5	
+BiochemicalReaction11	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex25	Protein14	
+BiochemicalReaction11	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex25	Complex6	
+BiochemicalReaction12	Cleavage of Intronless Pre-mRNA at 3'-end	Complex25	Complex5	
+BiochemicalReaction12	Cleavage of Intronless Pre-mRNA at 3'-end	Complex25	Complex4	
+BiochemicalReaction12	Cleavage of Intronless Pre-mRNA at 3'-end	Complex25	Complex6	
+BiochemicalReaction12	Cleavage of Intronless Pre-mRNA at 3'-end	Complex25	Complex27	
+BiochemicalReaction12	Cleavage of Intronless Pre-mRNA at 3'-end	Complex25	PhysicalEntity19	
+BiochemicalReaction2	mRNA polyadenylation	SmallMolecule1	Protein8	
+BiochemicalReaction2	mRNA polyadenylation	Complex11	Protein8	
+BiochemicalReaction2	mRNA polyadenylation	Complex11	Complex13	
+BiochemicalReaction2	mRNA polyadenylation	SmallMolecule1	Complex13	
+BiochemicalReaction2	mRNA polyadenylation	Complex11	Protein14	
+BiochemicalReaction2	mRNA polyadenylation	SmallMolecule1	Protein14	
+BiochemicalReaction2	mRNA polyadenylation	Complex11	Complex7	
+BiochemicalReaction2	mRNA polyadenylation	SmallMolecule1	Complex7	
+BiochemicalReaction3	Binding of SLBP to Replication-Dependent Histone Pre-mRNA	Complex14	Complex15	
+BiochemicalReaction3	Binding of SLBP to Replication-Dependent Histone Pre-mRNA	Protein35	Complex15	
+BiochemicalReaction4	Recruitment of U7 snRNP:ZFP100 complex to the SLBP Bound Pre-mRNA	Complex16	Complex18	
+BiochemicalReaction4	Recruitment of U7 snRNP:ZFP100 complex to the SLBP Bound Pre-mRNA	Complex15	Complex18	
+BiochemicalReaction5	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex18	Complex16	
+BiochemicalReaction5	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex18	Complex19	
+BiochemicalReaction6	Recruitment of U7 snRNP:ZFP100 complex to the Histone Pre-mRNA	Complex14	Complex20	
+BiochemicalReaction6	Recruitment of U7 snRNP:ZFP100 complex to the Histone Pre-mRNA	Complex16	Complex20	
+BiochemicalReaction7	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex20	Complex21	
+BiochemicalReaction7	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex20	Complex16	
+BiochemicalReaction8	Recognition of AAUAAA sequence by CPSF	Complex22	Complex23	
+BiochemicalReaction8	Recognition of AAUAAA sequence by CPSF	Complex7	Complex23	
+BiochemicalReaction9	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex23	Complex24	
+BiochemicalReaction9	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex5	Complex24	

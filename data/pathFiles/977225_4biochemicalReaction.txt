@@ -1,0 +1,10 @@
+BiochemicalReaction1	Serum amyloid P-component forms homopentamers	SmallMolecule1	Complex1	
+BiochemicalReaction1	Serum amyloid P-component forms homopentamers	Protein1	Complex1	
+BiochemicalReaction2	Amyloid precursor proteins form ordered fibrils	PhysicalEntity1	PhysicalEntity5	
+BiochemicalReaction3	Amyloid fibrils have additional components	PhysicalEntity5	Complex8	
+BiochemicalReaction3	Amyloid fibrils have additional components	Complex1	Complex8	
+BiochemicalReaction3	Amyloid fibrils have additional components	Protein34	Complex8	
+BiochemicalReaction3	Amyloid fibrils have additional components	SmallMolecule2	Complex8	
+BiochemicalReaction4	Formation of serum amyloid P decamer	Complex1	Complex9	
+BiochemicalReaction5	Serum amyloid P binds DNA and chromatin	Complex1	Complex12	
+BiochemicalReaction5	Serum amyloid P binds DNA and chromatin	PhysicalEntity31	Complex12	

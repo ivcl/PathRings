@@ -1,0 +1,15 @@
+BiochemicalReaction1	Activation of APC/C:Cdc20 by dissociation of Cdc20:phospho-APC/C from Cdc20:phospho-APC/C:Mad2:Bub3:BubR1	Complex1	Complex4	
+BiochemicalReaction1	Activation of APC/C:Cdc20 by dissociation of Cdc20:phospho-APC/C from Cdc20:phospho-APC/C:Mad2:Bub3:BubR1	Complex1	Complex5	
+BiochemicalReaction2	Association of Cyclin B:Cdc2 with Cdc20:APC/C complex	Complex5	Complex7	
+BiochemicalReaction2	Association of Cyclin B:Cdc2 with Cdc20:APC/C complex	Complex6	Complex7	
+BiochemicalReaction3	Ubiquitination of Cyclin B by phospho-APC/C:Cdc20 complex	Protein21	Complex8	
+BiochemicalReaction3	Ubiquitination of Cyclin B by phospho-APC/C:Cdc20 complex	Complex7	Complex8	
+BiochemicalReaction4	Degradation of multiubiquitinated Cyclin B	Complex8	Protein21	
+BiochemicalReaction4	Degradation of multiubiquitinated Cyclin B	Complex8	Protein19	
+BiochemicalReaction4	Degradation of multiubiquitinated Cyclin B	Complex8	Complex5	
+BiochemicalReaction5	Association of Securin with Cdc20:APC/C complex	Protein36	Complex9	
+BiochemicalReaction5	Association of Securin with Cdc20:APC/C complex	Complex5	Complex9	
+BiochemicalReaction6	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Protein21	Complex10	
+BiochemicalReaction6	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Complex9	Complex10	
+BiochemicalReaction7	Degradation of multiubiquitinated Securin	Complex10	Protein21	
+BiochemicalReaction7	Degradation of multiubiquitinated Securin	Complex10	Complex5	

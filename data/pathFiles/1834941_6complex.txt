@@ -1,0 +1,46 @@
+Complex1	cGAS:dsDNA	cytosol	Reactome DB_ID: 3244625	Protein1	
+Complex1	cGAS:dsDNA	cytosol	Reactome DB_ID: 3244625	PhysicalEntity1	
+Complex10	MRE11:dsDNA	cytosol	Reactome DB_ID: 3204308	Protein10	
+Complex10	MRE11:dsDNA	cytosol	Reactome DB_ID: 3204308	PhysicalEntity8	
+Complex11	DNA-PK:microbial dsDNA	cytosol	Reactome DB_ID: 3134811	PhysicalEntity6	
+Complex11	DNA-PK:microbial dsDNA	cytosol	Reactome DB_ID: 3134811	Complex12	
+Complex11	DNA-PK:microbial dsDNA	cytosol	Reactome DB_ID: 3134811	Protein13	
+Complex12	Ku70:Ku80 heterodimer	cytosol	Reactome DB_ID: 3134809	Protein11	
+Complex12	Ku70:Ku80 heterodimer	cytosol	Reactome DB_ID: 3134809	Protein12	
+Complex13	STING:p-S172-TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 2396004	Protein14	
+Complex13	STING:p-S172-TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 2396004	Complex6	
+Complex13	STING:p-S172-TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 2396004	Protein8	
+Complex14	STING:p-S172-TBK1	cytoplasmic vesicle membrane	Reactome DB_ID: 2396005	Protein14	
+Complex14	STING:p-S172-TBK1	cytoplasmic vesicle membrane	Reactome DB_ID: 2396005	Complex6	
+Complex15	NLRP4:DTX4:p-S172-TBK1complexes	cytoplasmic vesicle membrane	Reactome DB_ID: 3249384	Protein16	
+Complex15	NLRP4:DTX4:p-S172-TBK1complexes	cytoplasmic vesicle membrane	Reactome DB_ID: 3249384	Protein17	
+Complex15	NLRP4:DTX4:p-S172-TBK1complexes	cytoplasmic vesicle membrane	Reactome DB_ID: 3249384	Complex16	
+Complex17	dsDNA:ZBP1:pS-172-TBK1	cytosol	Reactome DB_ID: 1606333	Protein14	
+Complex17	dsDNA:ZBP1:pS-172-TBK1	cytosol	Reactome DB_ID: 1606333	Complex18	
+Complex18	dsDNA:ZBP1	cytosol	Reactome DB_ID: 1591233	PhysicalEntity6	
+Complex18	dsDNA:ZBP1	cytosol	Reactome DB_ID: 1591233	Complex19	
+Complex19	ZBP1:ZBP1	cytosol	Reactome DB_ID: 1591226	Protein18	
+Complex2	dsDNA:IFI16	cytosol	Reactome DB_ID: 1834947	PhysicalEntity2	
+Complex2	dsDNA:IFI16	cytosol	Reactome DB_ID: 1834947	Protein2	
+Complex20	p-T,4S-IRF3:p-T,4S-IRF3	cytosol	Reactome DB_ID: 166272	Protein15	
+Complex21	p-T,4S-IRF3:p-T,4S-IRF3	nucleoplasm	Reactome DB_ID: 177675	Protein19	
+Complex22	STING:TBK1:STAT6	cytoplasmic vesicle membrane	Reactome DB_ID: 3249399	Protein7	
+Complex22	STING:TBK1:STAT6	cytoplasmic vesicle membrane	Reactome DB_ID: 3249399	Protein20	
+Complex22	STING:TBK1:STAT6	cytoplasmic vesicle membrane	Reactome DB_ID: 3249399	Complex6	
+Complex23	STING:p-S172-TBK1:STAT6	cytoplasmic vesicle membrane	Reactome DB_ID: 3249391	Protein14	
+Complex23	STING:p-S172-TBK1:STAT6	cytoplasmic vesicle membrane	Reactome DB_ID: 3249391	Complex6	
+Complex23	STING:p-S172-TBK1:STAT6	cytoplasmic vesicle membrane	Reactome DB_ID: 3249391	Protein20	
+Complex24	p-S407,Y641-STAT6 dimer	cytosol	Reactome DB_ID: 3249385	Protein22	
+Complex25	p-S407,Y641-STAT6 dimer	nucleoplasm	Reactome DB_ID: 3261240	Protein23	
+Complex3	DDX41:DDX41 ligand	cytosol	Reactome DB_ID: 3134844	PhysicalEntity5	
+Complex3	DDX41:DDX41 ligand	cytosol	Reactome DB_ID: 3134844	Protein3	
+Complex4	STING:STING	endoplasmic reticulum membrane	Reactome DB_ID: 2395989	Protein5	
+Complex5	STING:c-di-GMP	cytoplasmic vesicle membrane	Reactome DB_ID: 2395983	Complex6	
+Complex5	STING:c-di-GMP	cytoplasmic vesicle membrane	Reactome DB_ID: 2395983	SmallMolecule5	
+Complex6	STING:STING	cytoplasmic vesicle membrane	Reactome DB_ID: 3134799	Protein6	
+Complex7	STING:cGAMP	cytoplasmic vesicle membrane	Reactome DB_ID: 3244600	SmallMolecule3	
+Complex7	STING:cGAMP	cytoplasmic vesicle membrane	Reactome DB_ID: 3244600	Complex6	
+Complex8	STING:TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 1834956	Protein7	
+Complex8	STING:TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 1834956	Complex6	
+Complex8	STING:TBK1:IRF3	cytoplasmic vesicle membrane	Reactome DB_ID: 1834956	Protein8	
+Complex9	TREX1 dimer	endoplasmic reticulum membrane	Reactome DB_ID: 3244607	Protein9	

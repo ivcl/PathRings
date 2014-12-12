@@ -1,0 +1,5 @@
+BiochemicalReaction1	tBID binds to inactive BAK protein	Protein1	Complex1	
+BiochemicalReaction1	tBID binds to inactive BAK protein	Protein2	Complex1	
+BiochemicalReaction2	tBID activates BAK protein	Complex1	Protein3	
+BiochemicalReaction2	tBID activates BAK protein	Complex1	Protein2	
+BiochemicalReaction3	Oligomerization  of BAK at the mitochondrial membrane	Protein3	Complex2	

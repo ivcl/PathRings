@@ -1,0 +1,47 @@
+BiochemicalReaction1	Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq	Complex1	Complex64	
+BiochemicalReaction1	Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq	Complex4	Complex64	
+BiochemicalReaction10	Binding of IP3 to IP3 receptor	SmallMolecule53	Complex75	
+BiochemicalReaction10	Binding of IP3 to IP3 receptor	Complex74	Complex75	
+BiochemicalReaction11	Transport of Ca++ from platelet dense tubular system to cytoplasm	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction12	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule54	Complex76	
+BiochemicalReaction12	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule58	Complex76	
+BiochemicalReaction12	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	Protein210	Complex76	
+BiochemicalReaction13	Activation of Protein Kinase C novel isoforms	Protein213	Complex77	
+BiochemicalReaction13	Activation of Protein Kinase C novel isoforms	SmallMolecule54	Complex77	
+BiochemicalReaction14	DAG activation of TRPC channels	Protein218	Complex78	
+BiochemicalReaction14	DAG activation of TRPC channels	SmallMolecule54	Complex78	
+BiochemicalReaction15	DAG is metabolized by DAGL to 2-AG	SmallMolecule54	SmallMolecule59	
+BiochemicalReaction15	DAG is metabolized by DAGL to 2-AG	SmallMolecule54	SmallMolecule60	
+BiochemicalReaction16	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule60	SmallMolecule62	
+BiochemicalReaction16	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule61	SmallMolecule62	
+BiochemicalReaction16	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule61	SmallMolecule63	
+BiochemicalReaction16	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule60	SmallMolecule63	
+BiochemicalReaction16	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule61	SmallMolecule64	
+BiochemicalReaction16	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule60	SmallMolecule64	
+BiochemicalReaction17	DAG kinase produces phosphatidic acid from DAG	SmallMolecule54	SmallMolecule66	
+BiochemicalReaction17	DAG kinase produces phosphatidic acid from DAG	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction17	DAG kinase produces phosphatidic acid from DAG	SmallMolecule65	SmallMolecule67	
+BiochemicalReaction17	DAG kinase produces phosphatidic acid from DAG	SmallMolecule54	SmallMolecule67	
+BiochemicalReaction18	G alpha (q) auto-inactivates by hydrolysing GTP to GDP	Complex67	Complex2	
+BiochemicalReaction19	Inactive G alpha (q) reassociates with G beta:gamma	Complex2	Complex1	
+BiochemicalReaction19	Inactive G alpha (q) reassociates with G beta:gamma	Complex3	Complex1	
+BiochemicalReaction2	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	SmallMolecule43	Complex65	
+BiochemicalReaction2	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	Complex64	Complex65	
+BiochemicalReaction2	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	Complex64	SmallMolecule45	
+BiochemicalReaction2	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	SmallMolecule43	SmallMolecule45	
+BiochemicalReaction3	The Ligand:GPCR:Gq complex dissociates	Complex65	PhysicalEntity4	
+BiochemicalReaction3	The Ligand:GPCR:Gq complex dissociates	Complex65	PhysicalEntity5	
+BiochemicalReaction3	The Ligand:GPCR:Gq complex dissociates	Complex65	Complex67	
+BiochemicalReaction3	The Ligand:GPCR:Gq complex dissociates	Complex65	Complex3	
+BiochemicalReaction4	GRK2 sequesters activated Gq	Protein190	Complex68	
+BiochemicalReaction4	GRK2 sequesters activated Gq	Complex67	Complex68	
+BiochemicalReaction5	GRK5 sequesters activated Gq	Protein191	Complex69	
+BiochemicalReaction5	GRK5 sequesters activated Gq	Complex67	Complex69	
+BiochemicalReaction6	G alpha (q) binds to Trio family RhoGEFs	Protein192	Complex70	
+BiochemicalReaction6	G alpha (q) binds to Trio family RhoGEFs	Complex67	Complex70	
+BiochemicalReaction7	PLC beta is activated by G alpha (q)	Protein196	Complex71	
+BiochemicalReaction7	PLC beta is activated by G alpha (q)	Complex67	Complex71	
+BiochemicalReaction8	G alpha (q) inhibits PI3K alpha	Complex72	Complex73	
+BiochemicalReaction8	G alpha (q) inhibits PI3K alpha	Complex67	Complex73	
+BiochemicalReaction9	PLC beta-mediated PIP2 hydrolysis	SmallMolecule52	SmallMolecule53	
+BiochemicalReaction9	PLC beta-mediated PIP2 hydrolysis	SmallMolecule52	SmallMolecule54	

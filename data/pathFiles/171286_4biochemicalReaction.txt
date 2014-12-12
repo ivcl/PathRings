@@ -1,0 +1,10 @@
+BiochemicalReaction1	Splicing of HIV RNA transcript	Rna1	Rna2	
+BiochemicalReaction10	Transport of VPU to Plasma Membrane	Protein7	Protein8	
+BiochemicalReaction2	Synthesis of ENV polyprotein	Rna2	Protein1	
+BiochemicalReaction3	Glycosylation of ENV polyprotein	Protein1	Protein1	
+BiochemicalReaction4	Folding and Oligomerization of ENV glycoprotein	Protein1	Complex1	
+BiochemicalReaction5	Transport of trimeric ENV precursor to Golgi apparatus	Complex1	Complex2	
+BiochemicalReaction6	Cleavage of the viral Env gp160 precursor polyprotein	Complex2	Complex3	
+BiochemicalReaction7	Transport of trimeric gp41:gp120 to plasma membrane	Complex3	Complex6	
+BiochemicalReaction8	Synthesis of VPU protein	Rna2	Protein6	
+BiochemicalReaction9	Transport of VPU to Golgi apparatus	Protein6	Protein7	

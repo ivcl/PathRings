@@ -1,0 +1,783 @@
+BiochemicalReaction1	Interaction of Csk with PAG	Protein1	Complex1	
+BiochemicalReaction1	Interaction of Csk with PAG	Protein2	Complex1	
+BiochemicalReaction10	Recruitment of Gads to LAT	Protein55	Complex19	
+BiochemicalReaction10	Recruitment of Gads to LAT	Protein56	Complex19	
+BiochemicalReaction100	CARMA1:BCL10:MALT1 Complex Recruits TAK1 and IKK	Complex146	Complex147	
+BiochemicalReaction100	CARMA1:BCL10:MALT1 Complex Recruits TAK1 and IKK	Protein379	Complex147	
+BiochemicalReaction100	CARMA1:BCL10:MALT1 Complex Recruits TAK1 and IKK	Complex57	Complex147	
+BiochemicalReaction101	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	SmallMolecule1	Complex149	
+BiochemicalReaction101	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	Complex147	Complex149	
+BiochemicalReaction101	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	Complex147	SmallMolecule2	
+BiochemicalReaction101	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction101	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	Complex147	Complex150	
+BiochemicalReaction101	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	SmallMolecule1	Complex150	
+BiochemicalReaction102	Phosphorylation of I-kappaB by Activated IKK (B cell)	Complex151	SmallMolecule2	
+BiochemicalReaction102	Phosphorylation of I-kappaB by Activated IKK (B cell)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction102	Phosphorylation of I-kappaB by Activated IKK (B cell)	SmallMolecule1	Complex159	
+BiochemicalReaction102	Phosphorylation of I-kappaB by Activated IKK (B cell)	Complex151	Complex159	
+BiochemicalReaction103	SCF with beta-TrCP1 or beta-TrCP2 Binds NF-kappaB;phospho-IkB	Complex159	Complex167	
+BiochemicalReaction103	SCF with beta-TrCP1 or beta-TrCP2 Binds NF-kappaB;phospho-IkB	Complex164	Complex167	
+BiochemicalReaction104	Ubiquitination of IkB by SCF-beta-TrCP	Protein395	Complex168	
+BiochemicalReaction104	Ubiquitination of IkB by SCF-beta-TrCP	Complex167	Complex168	
+BiochemicalReaction104	Ubiquitination of IkB by SCF-beta-TrCP	Complex167	Complex164	
+BiochemicalReaction104	Ubiquitination of IkB by SCF-beta-TrCP	Protein395	Complex164	
+BiochemicalReaction105	Degradation of Ubiquitinated IkB (B cell)	Complex168	Complex173	
+BiochemicalReaction106	Translocation of NF-kappaB from the Cytosol to the Nucleus	Complex173	Complex175	
+BiochemicalReaction107	Activation of RasGRP1 and RasGRP3 by Recruitment to the Membrane and Phosphorylation	SmallMolecule15	SmallMolecule2	
+BiochemicalReaction107	Activation of RasGRP1 and RasGRP3 by Recruitment to the Membrane and Phosphorylation	Protein461	SmallMolecule2	
+BiochemicalReaction107	Activation of RasGRP1 and RasGRP3 by Recruitment to the Membrane and Phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction107	Activation of RasGRP1 and RasGRP3 by Recruitment to the Membrane and Phosphorylation	SmallMolecule1	Complex180	
+BiochemicalReaction107	Activation of RasGRP1 and RasGRP3 by Recruitment to the Membrane and Phosphorylation	Protein461	Complex180	
+BiochemicalReaction107	Activation of RasGRP1 and RasGRP3 by Recruitment to the Membrane and Phosphorylation	SmallMolecule15	Complex180	
+BiochemicalReaction108	Activation of RAS by RasGRP1 and RasGRP3	Complex181	Complex182	
+BiochemicalReaction109	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction109	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction109	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction109	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction11	Recruitment of SLP-76 to Gads	Complex19	Complex20	
+BiochemicalReaction11	Recruitment of SLP-76 to Gads	Protein57	Complex20	
+BiochemicalReaction110	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction110	AKT phosphorylates BAD	Protein543	SmallMolecule2	
+BiochemicalReaction110	AKT phosphorylates BAD	Protein543	Protein544	
+BiochemicalReaction110	AKT phosphorylates BAD	SmallMolecule1	Protein544	
+BiochemicalReaction111	AKT phosphorylates GSK3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction111	AKT phosphorylates GSK3	Protein545	SmallMolecule2	
+BiochemicalReaction111	AKT phosphorylates GSK3	Protein545	Protein548	
+BiochemicalReaction111	AKT phosphorylates GSK3	SmallMolecule1	Protein548	
+BiochemicalReaction112	AKT phosphorylates caspase-9	Protein551	SmallMolecule2	
+BiochemicalReaction112	AKT phosphorylates caspase-9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction112	AKT phosphorylates caspase-9	SmallMolecule1	Protein552	
+BiochemicalReaction112	AKT phosphorylates caspase-9	Protein551	Protein552	
+BiochemicalReaction113	AKT phosphorylates MDM2	SmallMolecule1	Protein554	
+BiochemicalReaction113	AKT phosphorylates MDM2	Protein553	Protein554	
+BiochemicalReaction113	AKT phosphorylates MDM2	Protein553	SmallMolecule2	
+BiochemicalReaction113	AKT phosphorylates MDM2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction114	AKT phosphorylates IKKalpha	Protein101	SmallMolecule2	
+BiochemicalReaction114	AKT phosphorylates IKKalpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction114	AKT phosphorylates IKKalpha	SmallMolecule1	Protein555	
+BiochemicalReaction114	AKT phosphorylates IKKalpha	Protein101	Protein555	
+BiochemicalReaction115	AKT phosphorylates p21Cip1 and p27Kip1	Protein556	Protein559	
+BiochemicalReaction115	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	Protein559	
+BiochemicalReaction115	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction115	AKT phosphorylates p21Cip1 and p27Kip1	Protein556	SmallMolecule2	
+BiochemicalReaction116	AKT phosphorylates TSC2, inhibiting it	Protein562	SmallMolecule2	
+BiochemicalReaction116	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction116	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	Protein563	
+BiochemicalReaction116	AKT phosphorylates TSC2, inhibiting it	Protein562	Protein563	
+BiochemicalReaction117	AKT phosphorylates AKT1S1 (PRAS40)	Protein564	Protein565	
+BiochemicalReaction117	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	Protein565	
+BiochemicalReaction117	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction117	AKT phosphorylates AKT1S1 (PRAS40)	Protein564	SmallMolecule2	
+BiochemicalReaction118	AKT translocates to the nucleus	Protein141	Protein566	
+BiochemicalReaction119	AKT phosphorylates CREB1	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction119	AKT phosphorylates CREB1	Protein570	SmallMolecule23	
+BiochemicalReaction119	AKT phosphorylates CREB1	Protein570	Protein571	
+BiochemicalReaction119	AKT phosphorylates CREB1	SmallMolecule22	Protein571	
+BiochemicalReaction12	Phosphorylation of SLP-76	Complex20	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of SLP-76	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of SLP-76	SmallMolecule1	Complex21	
+BiochemicalReaction12	Phosphorylation of SLP-76	Complex20	Complex21	
+BiochemicalReaction120	AKT can phosphorylate forkhead box transcription factors	Protein572	SmallMolecule23	
+BiochemicalReaction120	AKT can phosphorylate forkhead box transcription factors	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction120	AKT can phosphorylate forkhead box transcription factors	SmallMolecule22	Protein577	
+BiochemicalReaction120	AKT can phosphorylate forkhead box transcription factors	Protein572	Protein577	
+BiochemicalReaction121	AKT can phosphorylate RSK	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction121	AKT can phosphorylate RSK	Protein582	SmallMolecule23	
+BiochemicalReaction121	AKT can phosphorylate RSK	Protein582	Protein583	
+BiochemicalReaction121	AKT can phosphorylate RSK	SmallMolecule22	Protein583	
+BiochemicalReaction122	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule22	Protein585	
+BiochemicalReaction122	AKT can phosphorylate NR4A1 (NUR77)	Protein584	Protein585	
+BiochemicalReaction122	AKT can phosphorylate NR4A1 (NUR77)	Protein584	SmallMolecule23	
+BiochemicalReaction122	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction123	PTEN dephosphorylates PIP3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction123	PTEN dephosphorylates PIP3	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction123	PTEN dephosphorylates PIP3	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction123	PTEN dephosphorylates PIP3	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction124	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Protein138	Complex76	
+BiochemicalReaction124	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Complex73	Complex76	
+BiochemicalReaction125	PHLPP dephosphorylates S473 in AKT	Protein141	SmallMolecule4	
+BiochemicalReaction125	PHLPP dephosphorylates S473 in AKT	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction125	PHLPP dephosphorylates S473 in AKT	SmallMolecule3	Protein586	
+BiochemicalReaction125	PHLPP dephosphorylates S473 in AKT	Protein141	Protein586	
+BiochemicalReaction126	PDPK1 binds PIP2	SmallMolecule5	Complex253	
+BiochemicalReaction126	PDPK1 binds PIP2	Protein82	Complex253	
+BiochemicalReaction127	MIR26A microRNAs bind PTEN mRNA	Complex254	Complex259	
+BiochemicalReaction127	MIR26A microRNAs bind PTEN mRNA	Rna4	Complex259	
+BiochemicalReaction128	PTEN mRNA translation negatively regulated by microRNAs	Rna4	Complex38	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein395	SmallMolecule11	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein603	SmallMolecule11	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule11	SmallMolecule11	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule11	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule1	Complex260	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule11	Complex260	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein603	Complex260	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein395	Complex260	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule25	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule11	SmallMolecule25	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein603	SmallMolecule25	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein395	SmallMolecule25	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction129	E1 mediated ubiquitin activation	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein603	SmallMolecule9	
+BiochemicalReaction129	E1 mediated ubiquitin activation	Protein395	SmallMolecule9	
+BiochemicalReaction13	Recruitment of ITK to SLP-76	Complex21	Complex22	
+BiochemicalReaction13	Recruitment of ITK to SLP-76	Protein59	Complex22	
+BiochemicalReaction130	Transfer of ubiquitin from E1 to E2	Complex260	Protein603	
+BiochemicalReaction130	Transfer of ubiquitin from E1 to E2	Protein610	Protein603	
+BiochemicalReaction130	Transfer of ubiquitin from E1 to E2	Protein610	Complex261	
+BiochemicalReaction130	Transfer of ubiquitin from E1 to E2	Complex260	Complex261	
+BiochemicalReaction131	Interaction of E3 with substrate and E2-Ub complex	PhysicalEntity9	Complex272	
+BiochemicalReaction131	Interaction of E3 with substrate and E2-Ub complex	PhysicalEntity10	Complex272	
+BiochemicalReaction131	Interaction of E3 with substrate and E2-Ub complex	Complex261	Complex272	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule1	SmallMolecule25	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	Complex272	SmallMolecule25	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	Complex272	SmallMolecule9	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	Complex272	Protein610	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule1	Protein610	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	Complex272	Complex273	
+BiochemicalReaction132	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule1	Complex273	
+BiochemicalReaction133	Polyubiquitination of substrate	SmallMolecule1	SmallMolecule25	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex273	SmallMolecule25	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex261	SmallMolecule25	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex261	SmallMolecule9	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex273	SmallMolecule9	
+BiochemicalReaction133	Polyubiquitination of substrate	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex261	Protein610	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex273	Protein610	
+BiochemicalReaction133	Polyubiquitination of substrate	SmallMolecule1	Protein610	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex261	Complex275	
+BiochemicalReaction133	Polyubiquitination of substrate	Complex273	Complex275	
+BiochemicalReaction133	Polyubiquitination of substrate	SmallMolecule1	Complex275	
+BiochemicalReaction134	Release of E3 from polyubiquitinated substrate	Complex275	PhysicalEntity11	
+BiochemicalReaction134	Release of E3 from polyubiquitinated substrate	Complex275	PhysicalEntity10	
+BiochemicalReaction135	Proteasomal cleavage of substrate	PhysicalEntity11	Protein395	
+BiochemicalReaction135	Proteasomal cleavage of substrate	PhysicalEntity11	SmallMolecule26	
+BiochemicalReaction135	Proteasomal cleavage of substrate	PhysicalEntity11	PhysicalEntity12	
+BiochemicalReaction135	Proteasomal cleavage of substrate	PhysicalEntity11	PhysicalEntity13	
+BiochemicalReaction136	Trimming of N-ter extended precursor fragments by cytosolic aminopeptidases	PhysicalEntity12	SmallMolecule26	
+BiochemicalReaction136	Trimming of N-ter extended precursor fragments by cytosolic aminopeptidases	PhysicalEntity12	PhysicalEntity13	
+BiochemicalReaction137	Binding of newly synthesized MHC class I heavy chain (HC) with calnexin	Complex276	Complex277	
+BiochemicalReaction137	Binding of newly synthesized MHC class I heavy chain (HC) with calnexin	Protein840	Complex277	
+BiochemicalReaction138	Interaction of Erp57 with MHC class I HC	Complex277	Complex278	
+BiochemicalReaction138	Interaction of Erp57 with MHC class I HC	Protein843	Complex278	
+BiochemicalReaction139	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Protein844	Complex279	
+BiochemicalReaction139	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Complex278	Complex279	
+BiochemicalReaction139	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Complex278	Protein840	
+BiochemicalReaction139	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Protein844	Protein840	
+BiochemicalReaction14	Recruitment of PLC-gamma1 to SLP-76	Protein60	Complex23	
+BiochemicalReaction14	Recruitment of PLC-gamma1 to SLP-76	Complex21	Complex23	
+BiochemicalReaction140	Formation of peptide loading complex (PLC)	Protein845	Complex281	
+BiochemicalReaction140	Formation of peptide loading complex (PLC)	Complex280	Complex281	
+BiochemicalReaction140	Formation of peptide loading complex (PLC)	Protein848	Complex281	
+BiochemicalReaction140	Formation of peptide loading complex (PLC)	Complex279	Complex281	
+BiochemicalReaction140	Formation of peptide loading complex (PLC)	PhysicalEntity14	Complex281	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	PhysicalEntity13	SmallMolecule4	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	SmallMolecule3	PhysicalEntity15	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	SmallMolecule1	PhysicalEntity15	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	PhysicalEntity13	PhysicalEntity15	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction141	Transport of Antigen peptide in to ER	PhysicalEntity13	SmallMolecule2	
+BiochemicalReaction142	Trimming of peptides in ER	PhysicalEntity15	PhysicalEntity16	
+BiochemicalReaction142	Trimming of peptides in ER	PhysicalEntity15	SmallMolecule48	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	PhysicalEntity16	Protein845	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	Complex281	Protein845	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	Complex281	Complex280	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	PhysicalEntity16	Complex280	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	Complex281	Protein848	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	PhysicalEntity16	Protein848	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	Complex281	Protein843	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	PhysicalEntity16	Protein843	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	Complex281	Complex282	
+BiochemicalReaction143	Loading of antigenic peptides on to class I MHC	PhysicalEntity16	Complex282	
+BiochemicalReaction144	Transport of MHC heterotrimer to ER exit site	Complex282	PhysicalEntity14	
+BiochemicalReaction144	Transport of MHC heterotrimer to ER exit site	Complex282	Complex284	
+BiochemicalReaction145	Capturing cargo and formation of prebudding complex	Complex285	Complex288	
+BiochemicalReaction145	Capturing cargo and formation of prebudding complex	Complex284	Complex288	
+BiochemicalReaction146	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Protein859	Complex289	
+BiochemicalReaction146	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Complex288	Complex289	
+BiochemicalReaction146	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Protein860	Complex289	
+BiochemicalReaction147	Budding of COPII coated vesicle	Complex289	Complex291	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	Protein859	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	Protein859	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	Protein859	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	SmallMolecule13	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	SmallMolecule13	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	SmallMolecule13	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	Protein860	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	Protein860	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	Protein860	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	Protein946	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	Protein946	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	Protein946	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	Complex294	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	Complex294	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	Complex294	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	Protein951	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	Protein951	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	Protein951	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule14	Complex297	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	SmallMolecule3	Complex297	
+BiochemicalReaction148	Disassembly of COPII coated vesicle	Complex291	Complex297	
+BiochemicalReaction149	Journey of cargo through Golgi complex	Complex294	Complex299	
+BiochemicalReaction15	Recruitment of PLC-gamma1 to LAT	Protein55	Complex24	
+BiochemicalReaction15	Recruitment of PLC-gamma1 to LAT	Protein60	Complex24	
+BiochemicalReaction150	Expression of peptide bound class I MHC on cell surface	Complex299	Complex301	
+BiochemicalReaction151	Interaction of particulate antigens with dendritic cell receptors	PhysicalEntity19	Complex304	
+BiochemicalReaction151	Interaction of particulate antigens with dendritic cell receptors	PhysicalEntity20	Complex304	
+BiochemicalReaction152	Engulfment of particulate antigen into phagocytic vesicle	Complex304	PhysicalEntity21	
+BiochemicalReaction152	Engulfment of particulate antigen into phagocytic vesicle	Complex304	PhysicalEntity22	
+BiochemicalReaction153	Maturation of phagosome into phagolysosome	PhysicalEntity21	PhysicalEntity23	
+BiochemicalReaction154	Alkalization of the phagosomal lumen by NOX2	SmallMolecule72	SmallMolecule74	
+BiochemicalReaction154	Alkalization of the phagosomal lumen by NOX2	SmallMolecule73	SmallMolecule74	
+BiochemicalReaction154	Alkalization of the phagosomal lumen by NOX2	SmallMolecule73	SmallMolecule75	
+BiochemicalReaction154	Alkalization of the phagosomal lumen by NOX2	SmallMolecule72	SmallMolecule75	
+BiochemicalReaction154	Alkalization of the phagosomal lumen by NOX2	SmallMolecule73	SmallMolecule76	
+BiochemicalReaction154	Alkalization of the phagosomal lumen by NOX2	SmallMolecule72	SmallMolecule76	
+BiochemicalReaction155	Partial proteolysis of antigen in phagolysosomes	PhysicalEntity23	PhysicalEntity24	
+BiochemicalReaction156	Escape of antigens from phagosome to cytosol	PhysicalEntity24	PhysicalEntity25	
+BiochemicalReaction157	Egress of internalized antigen to the cytosol via sec61	PhysicalEntity24	PhysicalEntity25	
+BiochemicalReaction158	Proteasomal cleavage of substrate	PhysicalEntity26	Protein395	
+BiochemicalReaction158	Proteasomal cleavage of substrate	PhysicalEntity26	SmallMolecule26	
+BiochemicalReaction158	Proteasomal cleavage of substrate	PhysicalEntity26	PhysicalEntity13	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity13	SmallMolecule4	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity13	SmallMolecule2	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule3	PhysicalEntity27	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule1	PhysicalEntity27	
+BiochemicalReaction159	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity13	PhysicalEntity27	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	Complex25	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	Complex25	Complex26	
+BiochemicalReaction16	Phosphorylation of PLC-gamma1	SmallMolecule1	Complex26	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	Complex310	Protein1119	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	PhysicalEntity27	Protein1119	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	PhysicalEntity27	Protein1195	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	Complex310	Protein1195	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	PhysicalEntity27	Protein1194	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	Complex310	Protein1194	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	PhysicalEntity27	Complex312	
+BiochemicalReaction160	Peptide loading on MHC class I in phagosome	Complex310	Complex312	
+BiochemicalReaction161	Export of peptide loaded MHC class I complex to PM	Complex312	Complex301	
+BiochemicalReaction162	Antigen processing by cathepsin S in endosoytic vesicle	PhysicalEntity28	SmallMolecule77	
+BiochemicalReaction162	Antigen processing by cathepsin S in endosoytic vesicle	PhysicalEntity28	PhysicalEntity29	
+BiochemicalReaction163	Trimming of peptides by IRAP in endocytic vesicles	PhysicalEntity29	PhysicalEntity30	
+BiochemicalReaction163	Trimming of peptides by IRAP in endocytic vesicles	PhysicalEntity29	SmallMolecule77	
+BiochemicalReaction164	Loading of antigen peptide onto MHC class I molecule	PhysicalEntity30	Complex316	
+BiochemicalReaction164	Loading of antigen peptide onto MHC class I molecule	Complex315	Complex316	
+BiochemicalReaction165	Translocation of peptide bound MHC class I complex to cell surface	Complex316	Complex301	
+BiochemicalReaction166	Interaction of exogenous soluble antigen with its corresponding receptor	PhysicalEntity31	Complex317	
+BiochemicalReaction166	Interaction of exogenous soluble antigen with its corresponding receptor	PhysicalEntity32	Complex317	
+BiochemicalReaction167	Internalization of receptor bound antigen into clathrin coted vesicles	Complex317	Complex318	
+BiochemicalReaction168	Movement of clathrin coated vesicles into early endosome	Complex318	Complex319	
+BiochemicalReaction169	Exogenous soluble antigen targeted to more stable early endosome	Complex319	PhysicalEntity28	
+BiochemicalReaction169	Exogenous soluble antigen targeted to more stable early endosome	Complex319	PhysicalEntity36	
+BiochemicalReaction17	Disassociation of PLC-gamma1 from LAT	Complex27	Protein55	
+BiochemicalReaction17	Disassociation of PLC-gamma1 from LAT	Complex27	Protein61	
+BiochemicalReaction170	Egress of internalized antigen into cytosol from early endosome	PhysicalEntity28	PhysicalEntity37	
+BiochemicalReaction171	Proteasomal clevage of exogenous antigen	PhysicalEntity37	SmallMolecule26	
+BiochemicalReaction171	Proteasomal clevage of exogenous antigen	PhysicalEntity37	PhysicalEntity12	
+BiochemicalReaction172	Formation of MHC II alpha beta heterodimer	Protein1293	Complex320	
+BiochemicalReaction172	Formation of MHC II alpha beta heterodimer	Protein1314	Complex320	
+BiochemicalReaction173	Interaction of invariant chain trimer and MHC II alpha beta dimer	Complex321	Complex322	
+BiochemicalReaction173	Interaction of invariant chain trimer and MHC II alpha beta dimer	Complex320	Complex322	
+BiochemicalReaction173	Interaction of invariant chain trimer and MHC II alpha beta dimer	Protein1320	Complex322	
+BiochemicalReaction174	Formation of nonameric complex	Complex320	Protein1320	
+BiochemicalReaction174	Formation of nonameric complex	Complex322	Protein1320	
+BiochemicalReaction174	Formation of nonameric complex	Complex322	Complex323	
+BiochemicalReaction174	Formation of nonameric complex	Complex320	Complex323	
+BiochemicalReaction175	Formation of COPII vesicle	Complex323	Complex325	
+BiochemicalReaction175	Formation of COPII vesicle	Complex324	Complex325	
+BiochemicalReaction176	Fusion of COPII vesicle with Golgi complex	Complex325	Complex329	
+BiochemicalReaction176	Fusion of COPII vesicle with Golgi complex	Complex325	Complex324	
+BiochemicalReaction177	Translocation of MHC II:Ii complex to TGN	Complex329	Complex332	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex335	SmallMolecule4	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Protein1403	SmallMolecule4	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex332	SmallMolecule4	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex336	SmallMolecule4	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex337	SmallMolecule4	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex337	Complex338	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex336	Complex338	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex332	Complex338	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Protein1403	Complex338	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex335	Complex338	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex337	Complex339	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex336	Complex339	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex332	Complex339	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Protein1403	Complex339	
+BiochemicalReaction178	TGN-lysosomal vesicle coat assembly	Complex335	Complex339	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule13	SmallMolecule4	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	Complex339	SmallMolecule4	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	Complex339	Protein1403	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule13	Protein1403	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	Complex339	Complex342	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule13	Complex342	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	Complex339	SmallMolecule14	
+BiochemicalReaction179	Translocation of TGN-lysosome vesicle to lysosome	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction18	Disassociation of PLC-gamma1 from SLP-76	Complex28	Complex21	
+BiochemicalReaction18	Disassociation of PLC-gamma1 from SLP-76	Complex28	Protein61	
+BiochemicalReaction180	TGN-lysosome vesicle uncoating and release of nonameric complex to lysosome	Complex342	Complex343	
+BiochemicalReaction180	TGN-lysosome vesicle uncoating and release of nonameric complex to lysosome	Complex342	Complex336	
+BiochemicalReaction180	TGN-lysosome vesicle uncoating and release of nonameric complex to lysosome	Complex342	Complex337	
+BiochemicalReaction181	Transport of MHC II:Ii complex to plasma membrane	Complex332	Complex346	
+BiochemicalReaction182	Insertion of MHC II:Ii complex in to the plasma membrane	Complex346	Complex348	
+BiochemicalReaction183	Recruitment of clathrin coated vesicle by Ii	Complex350	Complex353	
+BiochemicalReaction183	Recruitment of clathrin coated vesicle by Ii	Complex348	Complex353	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	Protein1492	SmallMolecule4	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule13	SmallMolecule4	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	Complex353	SmallMolecule4	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule3	Complex354	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	Complex353	Complex354	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule13	Complex354	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	Protein1492	Complex354	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule3	SmallMolecule14	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	Complex353	SmallMolecule14	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction184	Internalization of MHC II:Ii clathrin coated vesicle	Protein1492	SmallMolecule14	
+BiochemicalReaction185	Uncoating of clathrin-coated vesicles and fusion with endosomes	Complex354	Complex355	
+BiochemicalReaction185	Uncoating of clathrin-coated vesicles and fusion with endosomes	Complex354	Complex361	
+BiochemicalReaction185	Uncoating of clathrin-coated vesicles and fusion with endosomes	Complex354	Protein1525	
+BiochemicalReaction186	Trafficking of nonameric complex in the endocytic pathway	Complex361	Complex343	
+BiochemicalReaction187	Initial proteolyis of Ii by aspartic proteases to lip22	Complex343	Complex364	
+BiochemicalReaction188	Cleavage of lip22 to lip10	Complex364	Complex366	
+BiochemicalReaction189	Generation of CLIP from lip10	Complex366	Complex368	
+BiochemicalReaction19	Translocation of PLC-gamma1 to PIP2	SmallMolecule5	Complex30	
+BiochemicalReaction19	Translocation of PLC-gamma1 to PIP2	Protein61	Complex30	
+BiochemicalReaction190	Disassociation of CLIP from MHC II	Complex369	Protein1579	
+BiochemicalReaction190	Disassociation of CLIP from MHC II	Complex368	Protein1579	
+BiochemicalReaction190	Disassociation of CLIP from MHC II	Complex368	Complex373	
+BiochemicalReaction190	Disassociation of CLIP from MHC II	Complex369	Complex373	
+BiochemicalReaction191	MHC class II antigen internalization	PhysicalEntity4	PhysicalEntity38	
+BiochemicalReaction192	Reduction of disulphide bonds in MHC II antigens	PhysicalEntity38	PhysicalEntity39	
+BiochemicalReaction193	MHC class II antigen processing	PhysicalEntity39	PhysicalEntity40	
+BiochemicalReaction194	Loading of antigenic peptides	PhysicalEntity40	Complex369	
+BiochemicalReaction194	Loading of antigenic peptides	Complex373	Complex369	
+BiochemicalReaction194	Loading of antigenic peptides	Complex373	Complex374	
+BiochemicalReaction194	Loading of antigenic peptides	PhysicalEntity40	Complex374	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	Protein1581	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	Protein1584	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	Complex375	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	SmallMolecule2	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	Complex396	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	Complex402	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex374	Complex399	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex399	Complex399	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	SmallMolecule1	Complex399	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex396	Complex399	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Complex375	Complex399	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1584	Complex399	
+BiochemicalReaction195	Transport of antigen loaded MHC II molecules to surface	Protein1581	Complex399	
+BiochemicalReaction196	VCAM1 binds Integrin alpha4beta1	Complex403	Complex404	
+BiochemicalReaction196	VCAM1 binds Integrin alpha4beta1	Protein1639	Complex404	
+BiochemicalReaction197	TCR complex interacts with peptide antigen-presenting MHC Class I	Complex301	Complex407	
+BiochemicalReaction197	TCR complex interacts with peptide antigen-presenting MHC Class I	Complex405	Complex407	
+BiochemicalReaction198	KIR2DL2/3 interacting with HLA-C group 1 (Cw4)	Protein1642	Complex409	
+BiochemicalReaction198	KIR2DL2/3 interacting with HLA-C group 1 (Cw4)	Complex408	Complex409	
+BiochemicalReaction199	NKG2D homodimer interacting with ligands	Complex410	Complex411	
+BiochemicalReaction199	NKG2D homodimer interacting with ligands	Protein1647	Complex411	
+BiochemicalReaction2	Inactivation of Lck by Csk	Complex2	SmallMolecule2	
+BiochemicalReaction2	Inactivation of Lck by Csk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Inactivation of Lck by Csk	SmallMolecule1	Complex9	
+BiochemicalReaction2	Inactivation of Lck by Csk	Complex2	Complex9	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction20	PLC-gamma1 hydrolyses PIP2	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction200	CD96 binds PVR	Protein1653	Complex412	
+BiochemicalReaction200	CD96 binds PVR	Protein1654	Complex412	
+BiochemicalReaction201	MADCAM1-1 binds Integrin alpha4beta7	Complex413	Complex414	
+BiochemicalReaction201	MADCAM1-1 binds Integrin alpha4beta7	Protein1656	Complex414	
+BiochemicalReaction202	LILRs interact with MHC Class I	Complex415	Complex416	
+BiochemicalReaction202	LILRs interact with MHC Class I	Protein1657	Complex416	
+BiochemicalReaction203	Ligands bind L-selectin	Protein1664	Complex417	
+BiochemicalReaction203	Ligands bind L-selectin	Protein1667	Complex417	
+BiochemicalReaction204	ICAM1-4 bind Integrin alphaLbeta2 (LFA-1)	Protein1668	Complex419	
+BiochemicalReaction204	ICAM1-4 bind Integrin alphaLbeta2 (LFA-1)	Complex418	Complex419	
+BiochemicalReaction205	KLRC1:KLRD1 heterodimer interacts with HLA-E	Protein1675	Complex421	
+BiochemicalReaction205	KLRC1:KLRD1 heterodimer interacts with HLA-E	Protein1676	Complex421	
+BiochemicalReaction205	KLRC1:KLRD1 heterodimer interacts with HLA-E	Complex420	Complex421	
+BiochemicalReaction206	Epithelial cadherin binds to KLRG1	Protein1677	Complex422	
+BiochemicalReaction206	Epithelial cadherin binds to KLRG1	Protein1678	Complex422	
+BiochemicalReaction207	CRTAM binds to NECL2	Protein1679	Complex423	
+BiochemicalReaction207	CRTAM binds to NECL2	Protein1680	Complex423	
+BiochemicalReaction208	PVR binds CD226	Protein1681	Complex424	
+BiochemicalReaction208	PVR binds CD226	Protein1653	Complex424	
+BiochemicalReaction209	Nectin 2 binds CD226	Protein1681	Complex425	
+BiochemicalReaction209	Nectin 2 binds CD226	Protein1680	Complex425	
+BiochemicalReaction21	p-SLP-76 binds ADAP	Protein58	Complex31	
+BiochemicalReaction21	p-SLP-76 binds ADAP	Protein63	Complex31	
+BiochemicalReaction210	CD200 binds to CD200R	Protein1682	Complex426	
+BiochemicalReaction210	CD200 binds to CD200R	Protein1683	Complex426	
+BiochemicalReaction211	MHC Class I interacts with CD160	Complex427	Complex429	
+BiochemicalReaction211	MHC Class I interacts with CD160	Protein1684	Complex429	
+BiochemicalReaction212	Fc gamma receptors interact with antigen-bound IgG	Complex430	Complex434	
+BiochemicalReaction212	Fc gamma receptors interact with antigen-bound IgG	Protein1842	Complex434	
+BiochemicalReaction213	CD40 interacting with CD40L	Protein1845	Complex435	
+BiochemicalReaction213	CD40 interacting with CD40L	Protein1846	Complex435	
+BiochemicalReaction214	CXADR binds to AMICA1	Protein1847	Complex436	
+BiochemicalReaction214	CXADR binds to AMICA1	Protein1848	Complex436	
+BiochemicalReaction215	C3d-complexed antigen binds to complement receptor	Complex437	Complex439	
+BiochemicalReaction215	C3d-complexed antigen binds to complement receptor	Complex438	Complex439	
+BiochemicalReaction216	KIR2DL1 interacting with HLA-C group 2 (Cw3)	Protein1853	Complex440	
+BiochemicalReaction216	KIR2DL1 interacting with HLA-C group 2 (Cw3)	Complex428	Complex440	
+BiochemicalReaction217	KIR3DL1 interacting with HLA Bw4	Protein1854	Complex442	
+BiochemicalReaction217	KIR3DL1 interacting with HLA Bw4	Complex441	Complex442	
+BiochemicalReaction218	KIR3DL2 interacting with HLA-A3	Complex443	Complex444	
+BiochemicalReaction218	KIR3DL2 interacting with HLA-A3	Protein1855	Complex444	
+BiochemicalReaction219	KIR2DL4 interacting with HLA-G	Protein1856	Complex446	
+BiochemicalReaction219	KIR2DL4 interacting with HLA-G	Complex445	Complex446	
+BiochemicalReaction22	p-SLP-76:ADAP binds Ena/VASP	Protein64	Complex32	
+BiochemicalReaction22	p-SLP-76:ADAP binds Ena/VASP	Complex31	Complex32	
+BiochemicalReaction220	KIR2DS1 interacting with HLA-C group 2 (Cw4)	Complex408	Complex448	
+BiochemicalReaction220	KIR2DS1 interacting with HLA-C group 2 (Cw4)	Complex447	Complex448	
+BiochemicalReaction221	KIR2DS2 interacting with HLA-C group 1 (Cw3)	Complex449	Complex450	
+BiochemicalReaction221	KIR2DS2 interacting with HLA-C group 1 (Cw3)	Complex428	Complex450	
+BiochemicalReaction222	PKA/PKG phosphorylate Rap1GAP2	Protein1860	Protein1861	
+BiochemicalReaction222	PKA/PKG phosphorylate Rap1GAP2	SmallMolecule1	Protein1861	
+BiochemicalReaction222	PKA/PKG phosphorylate Rap1GAP2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction222	PKA/PKG phosphorylate Rap1GAP2	Protein1860	SmallMolecule2	
+BiochemicalReaction223	14-3-3 proteins beta and zeta bind and inhibit Rap1Gap2	Protein1861	Complex451	
+BiochemicalReaction223	14-3-3 proteins beta and zeta bind and inhibit Rap1Gap2	Protein1867	Complex451	
+BiochemicalReaction224	Activation of EPACs by cAMP	SmallMolecule99	Complex452	
+BiochemicalReaction224	Activation of EPACs by cAMP	Protein1870	Complex452	
+BiochemicalReaction225	Activation of Rap1 by membrane-associated GEFs	SmallMolecule13	Complex454	
+BiochemicalReaction225	Activation of Rap1 by membrane-associated GEFs	Complex453	Complex454	
+BiochemicalReaction225	Activation of Rap1 by membrane-associated GEFs	Complex453	SmallMolecule14	
+BiochemicalReaction225	Activation of Rap1 by membrane-associated GEFs	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction226	Activation of Rap1 by cytosolic GEFs	SmallMolecule13	Complex454	
+BiochemicalReaction226	Activation of Rap1 by cytosolic GEFs	Complex453	Complex454	
+BiochemicalReaction226	Activation of Rap1 by cytosolic GEFs	Complex453	SmallMolecule14	
+BiochemicalReaction226	Activation of Rap1 by cytosolic GEFs	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction227	Rap1 signal termination by Rap1GAPs	Complex454	Complex453	
+BiochemicalReaction227	Rap1 signal termination by Rap1GAPs	Complex454	SmallMolecule9	
+BiochemicalReaction228	Rap1 sequesters Raf1 to inhibit ERK cascade	Complex454	Complex455	
+BiochemicalReaction228	Rap1 sequesters Raf1 to inhibit ERK cascade	Protein1881	Complex455	
+BiochemicalReaction23	p-SLP-76 binds NCK	Protein58	Complex33	
+BiochemicalReaction23	p-SLP-76 binds NCK	Protein68	Complex33	
+BiochemicalReaction24	NCK binds PAK	Protein69	Complex34	
+BiochemicalReaction24	NCK binds PAK	Complex33	Complex34	
+BiochemicalReaction25	NCK recruits WASP	Complex33	Complex35	
+BiochemicalReaction25	NCK recruits WASP	Protein72	Complex35	
+BiochemicalReaction26	Recruitment of PI3K to plasmamembrane	Complex36	Complex37	
+BiochemicalReaction26	Recruitment of PI3K to plasmamembrane	Protein79	Complex37	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction27	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction28	Hydrolysis of PIP3 to PI(3,4)P2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction28	Hydrolysis of PIP3 to PI(3,4)P2	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction29	Hydrolysis of PIP3 to PIP2	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction29	Hydrolysis of PIP3 to PIP2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	Complex9	SmallMolecule4	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	SmallMolecule3	Complex2	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	Complex9	Complex2	
+BiochemicalReaction30	Translocation of PDK1 to Plasma membrane	Protein82	Complex39	
+BiochemicalReaction30	Translocation of PDK1 to Plasma membrane	SmallMolecule12	Complex39	
+BiochemicalReaction31	Translocation of PKC theta to plasma membrane	Protein84	Complex40	
+BiochemicalReaction31	Translocation of PKC theta to plasma membrane	SmallMolecule7	Complex40	
+BiochemicalReaction32	Change of PKC theta conformation	Complex40	SmallMolecule2	
+BiochemicalReaction32	Change of PKC theta conformation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction32	Change of PKC theta conformation	SmallMolecule1	Complex41	
+BiochemicalReaction32	Change of PKC theta conformation	Complex40	Complex41	
+BiochemicalReaction33	Phosphorylation of PKC theta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of PKC theta	Complex41	SmallMolecule2	
+BiochemicalReaction33	Phosphorylation of PKC theta	Complex41	Complex42	
+BiochemicalReaction33	Phosphorylation of PKC theta	SmallMolecule1	Complex42	
+BiochemicalReaction34	Translocation of CARMA1 to Plasma membrane	Complex39	Complex43	
+BiochemicalReaction34	Translocation of CARMA1 to Plasma membrane	Protein88	Complex43	
+BiochemicalReaction35	Phosphorylation of CARMA1	Complex43	SmallMolecule2	
+BiochemicalReaction35	Phosphorylation of CARMA1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction35	Phosphorylation of CARMA1	SmallMolecule1	Complex44	
+BiochemicalReaction35	Phosphorylation of CARMA1	Complex43	Complex44	
+BiochemicalReaction36	Oligomerization of CARMA1	Protein89	Complex45	
+BiochemicalReaction36	Oligomerization of CARMA1	Complex44	Complex45	
+BiochemicalReaction37	Interaction of Bcl10 to CARMA1	Complex45	Complex46	
+BiochemicalReaction37	Interaction of Bcl10 to CARMA1	Protein90	Complex46	
+BiochemicalReaction38	Phosphorylation of Bcl10	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction38	Phosphorylation of Bcl10	Complex46	SmallMolecule2	
+BiochemicalReaction38	Phosphorylation of Bcl10	Complex46	Complex47	
+BiochemicalReaction38	Phosphorylation of Bcl10	SmallMolecule1	Complex47	
+BiochemicalReaction39	Oligomerization of Bcl10	Complex47	Complex48	
+BiochemicalReaction39	Oligomerization of Bcl10	Protein91	Complex48	
+BiochemicalReaction4	Activation of Lck	Complex2	SmallMolecule2	
+BiochemicalReaction4	Activation of Lck	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Activation of Lck	SmallMolecule1	Complex10	
+BiochemicalReaction4	Activation of Lck	Complex2	Complex10	
+BiochemicalReaction40	Interaction and oligomerization of MALT1 to Bcl10	Complex48	Complex50	
+BiochemicalReaction40	Interaction and oligomerization of MALT1 to Bcl10	Complex49	Complex50	
+BiochemicalReaction41	Translocation of TRAF6 to CBM complex	Protein94	Complex51	
+BiochemicalReaction41	Translocation of TRAF6 to CBM complex	Complex50	Complex51	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex51	Complex52	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex52	Complex52	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	PhysicalEntity2	Complex52	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	PhysicalEntity2	Complex53	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex52	Complex53	
+BiochemicalReaction42	Auto-ubiquitination of TRAF6	Complex51	Complex53	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex54	SmallMolecule2	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex53	SmallMolecule2	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex53	Complex55	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	SmallMolecule1	Complex55	
+BiochemicalReaction43	Activation of TAK1-TAB2 complex	Complex54	Complex55	
+BiochemicalReaction44	Activation of IKK complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction44	Activation of IKK complex	Complex57	SmallMolecule2	
+BiochemicalReaction44	Activation of IKK complex	Complex57	Complex58	
+BiochemicalReaction44	Activation of IKK complex	SmallMolecule1	Complex58	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex58	Complex52	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex52	Complex52	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	PhysicalEntity2	Complex52	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	PhysicalEntity2	Complex59	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex52	Complex59	
+BiochemicalReaction45	Ubiquitination of NEMO by TRAF6	Complex58	Complex59	
+BiochemicalReaction46	Activation of NF-kB complex	Complex60	SmallMolecule2	
+BiochemicalReaction46	Activation of NF-kB complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	Activation of NF-kB complex	SmallMolecule1	Complex61	
+BiochemicalReaction46	Activation of NF-kB complex	Complex60	Complex61	
+BiochemicalReaction46	Activation of NF-kB complex	SmallMolecule1	Protein109	
+BiochemicalReaction46	Activation of NF-kB complex	Complex60	Protein109	
+BiochemicalReaction47	CD28 homodimer binds B7-1 homodimer	Complex62	Complex64	
+BiochemicalReaction47	CD28 homodimer binds B7-1 homodimer	Complex63	Complex64	
+BiochemicalReaction48	CD28 homodimer binds B7-2 monomer	Protein112	Complex65	
+BiochemicalReaction48	CD28 homodimer binds B7-2 monomer	Complex62	Complex65	
+BiochemicalReaction49	Phosphorylation of CD28	Protein113	SmallMolecule2	
+BiochemicalReaction49	Phosphorylation of CD28	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction49	Phosphorylation of CD28	Complex66	SmallMolecule2	
+BiochemicalReaction49	Phosphorylation of CD28	Complex66	Complex67	
+BiochemicalReaction49	Phosphorylation of CD28	SmallMolecule1	Complex67	
+BiochemicalReaction49	Phosphorylation of CD28	Protein113	Complex67	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	Complex10	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	SmallMolecule1	Complex11	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	Complex10	Complex11	
+BiochemicalReaction50	Gads binds CD28	Protein56	Complex69	
+BiochemicalReaction50	Gads binds CD28	Complex67	Complex69	
+BiochemicalReaction51	PI3K binds CD28	Complex70	Complex71	
+BiochemicalReaction51	PI3K binds CD28	Complex67	Complex71	
+BiochemicalReaction52	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction52	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction52	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction52	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction53	PIP3 recruits PDPK1 to the membrane	Protein82	Complex72	
+BiochemicalReaction53	PIP3 recruits PDPK1 to the membrane	SmallMolecule8	Complex72	
+BiochemicalReaction54	PIP3 recruits AKT to the membrane	Protein122	Complex73	
+BiochemicalReaction54	PIP3 recruits AKT to the membrane	SmallMolecule8	Complex73	
+BiochemicalReaction55	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction55	TORC2 (mTOR) phosphorylates AKT at S473	Complex73	SmallMolecule2	
+BiochemicalReaction55	TORC2 (mTOR) phosphorylates AKT at S473	Complex73	Complex74	
+BiochemicalReaction55	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	Complex74	
+BiochemicalReaction56	AKT binds PDPK1	Complex72	Complex77	
+BiochemicalReaction56	AKT binds PDPK1	Complex74	Complex77	
+BiochemicalReaction57	PDPK1 phosphorylates AKT at T308	Complex77	Complex72	
+BiochemicalReaction57	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Complex72	
+BiochemicalReaction57	PDPK1 phosphorylates AKT at T308	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction57	PDPK1 phosphorylates AKT at T308	Complex77	SmallMolecule2	
+BiochemicalReaction57	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Protein141	
+BiochemicalReaction57	PDPK1 phosphorylates AKT at T308	Complex77	Protein141	
+BiochemicalReaction58	AKT interacts and phosphorylates Cot	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction58	AKT interacts and phosphorylates Cot	Protein145	SmallMolecule2	
+BiochemicalReaction58	AKT interacts and phosphorylates Cot	Protein145	Protein146	
+BiochemicalReaction58	AKT interacts and phosphorylates Cot	SmallMolecule1	Protein146	
+BiochemicalReaction59	p-S400-Cot phosphorylates NIK	Protein147	SmallMolecule2	
+BiochemicalReaction59	p-S400-Cot phosphorylates NIK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction59	p-S400-Cot phosphorylates NIK	SmallMolecule1	Protein148	
+BiochemicalReaction59	p-S400-Cot phosphorylates NIK	Protein147	Protein148	
+BiochemicalReaction6	Recruitment of ZAP-70 to phosphorylated ITAMs	Protein51	Complex16	
+BiochemicalReaction6	Recruitment of ZAP-70 to phosphorylated ITAMs	Complex11	Complex16	
+BiochemicalReaction60	Grb2 binds CD28	Complex67	Complex78	
+BiochemicalReaction60	Grb2 binds CD28	Protein149	Complex78	
+BiochemicalReaction61	Translocation of Vav1 to CD28	Complex78	Complex79	
+BiochemicalReaction61	Translocation of Vav1 to CD28	Protein150	Complex79	
+BiochemicalReaction61	Translocation of Vav1 to CD28	SmallMolecule8	Complex79	
+BiochemicalReaction62	Activation of Vav1	Complex79	SmallMolecule2	
+BiochemicalReaction62	Activation of Vav1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction62	Activation of Vav1	SmallMolecule1	Complex80	
+BiochemicalReaction62	Activation of Vav1	Complex79	Complex80	
+BiochemicalReaction63	Activation of Rac1 by pVav1	SmallMolecule13	Complex82	
+BiochemicalReaction63	Activation of Rac1 by pVav1	Complex81	Complex82	
+BiochemicalReaction63	Activation of Rac1 by pVav1	Complex81	SmallMolecule14	
+BiochemicalReaction63	Activation of Rac1 by pVav1	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction64	Activation of Cdc42 by pVav1	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction64	Activation of Cdc42 by pVav1	Complex83	SmallMolecule14	
+BiochemicalReaction64	Activation of Cdc42 by pVav1	Complex83	Complex84	
+BiochemicalReaction64	Activation of Cdc42 by pVav1	SmallMolecule13	Complex84	
+BiochemicalReaction65	Activation of PAK by Rac1 and Cdc42	Complex85	Protein69	
+BiochemicalReaction65	Activation of PAK by Rac1 and Cdc42	Complex86	Protein69	
+BiochemicalReaction65	Activation of PAK by Rac1 and Cdc42	Complex86	Complex87	
+BiochemicalReaction65	Activation of PAK by Rac1 and Cdc42	Complex85	Complex87	
+BiochemicalReaction66	PP2A binds CTLA4 homodimer	Complex88	Complex90	
+BiochemicalReaction66	PP2A binds CTLA4 homodimer	Complex89	Complex90	
+BiochemicalReaction67	CTLA-4 binds B7-1/B7-2	PhysicalEntity3	Complex91	
+BiochemicalReaction67	CTLA-4 binds B7-1/B7-2	Complex90	Complex91	
+BiochemicalReaction68	Phosphorylation of CTLA-4	Complex91	SmallMolecule2	
+BiochemicalReaction68	Phosphorylation of CTLA-4	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction68	Phosphorylation of CTLA-4	Protein116	SmallMolecule2	
+BiochemicalReaction68	Phosphorylation of CTLA-4	Protein116	Complex88	
+BiochemicalReaction68	Phosphorylation of CTLA-4	SmallMolecule1	Complex88	
+BiochemicalReaction68	Phosphorylation of CTLA-4	Complex91	Complex88	
+BiochemicalReaction68	Phosphorylation of CTLA-4	Protein116	Complex92	
+BiochemicalReaction68	Phosphorylation of CTLA-4	SmallMolecule1	Complex92	
+BiochemicalReaction68	Phosphorylation of CTLA-4	Complex91	Complex92	
+BiochemicalReaction69	SHP2 phosphatase binds CTLA-4	Protein168	Complex95	
+BiochemicalReaction69	SHP2 phosphatase binds CTLA-4	Complex92	Complex95	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	Complex16	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	SmallMolecule1	Complex17	
+BiochemicalReaction7	Phosphorylation of ZAP-70 by Lck	Complex16	Complex17	
+BiochemicalReaction70	Dephosphorylation of AKT by PP2A	Complex96	SmallMolecule4	
+BiochemicalReaction70	Dephosphorylation of AKT by PP2A	Complex96	Complex97	
+BiochemicalReaction71	ICOS binds ICOSL/B7-H2	Protein169	Complex98	
+BiochemicalReaction71	ICOS binds ICOSL/B7-H2	Protein170	Complex98	
+BiochemicalReaction72	PI3K binds ICOS	Protein171	Complex99	
+BiochemicalReaction72	PI3K binds ICOS	Complex70	Complex99	
+BiochemicalReaction73	PD-1 binds B7DC and B7H1	Protein172	Complex100	
+BiochemicalReaction73	PD-1 binds B7DC and B7H1	Protein175	Complex100	
+BiochemicalReaction74	Phosphorylation of PD-1	Protein176	SmallMolecule2	
+BiochemicalReaction74	Phosphorylation of PD-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction74	Phosphorylation of PD-1	Complex100	SmallMolecule2	
+BiochemicalReaction74	Phosphorylation of PD-1	Complex100	Complex101	
+BiochemicalReaction74	Phosphorylation of PD-1	SmallMolecule1	Complex101	
+BiochemicalReaction74	Phosphorylation of PD-1	Protein176	Complex101	
+BiochemicalReaction75	Interaction of SHP-1 or SHP-2 with phospho PD-1	Protein178	Complex102	
+BiochemicalReaction75	Interaction of SHP-1 or SHP-2 with phospho PD-1	Complex101	Complex102	
+BiochemicalReaction76	Dephosphorylation of CD3-zeta by PD-1 bound phosphatases	Complex11	Complex103	
+BiochemicalReaction76	Dephosphorylation of CD3-zeta by PD-1 bound phosphatases	Complex11	SmallMolecule9	
+BiochemicalReaction77	BTLA interacts with HVEM	Protein180	Complex105	
+BiochemicalReaction77	BTLA interacts with HVEM	Protein181	Complex105	
+BiochemicalReaction78	SHP-1 and SHP-2 bind pBTLA	Protein178	Complex107	
+BiochemicalReaction78	SHP-1 and SHP-2 bind pBTLA	Complex106	Complex107	
+BiochemicalReaction79	Grb2 binds pBTLA	Protein149	Complex108	
+BiochemicalReaction79	Grb2 binds pBTLA	Complex106	Complex108	
+BiochemicalReaction8	Activation of ZAP-70	Complex17	SmallMolecule2	
+BiochemicalReaction8	Activation of ZAP-70	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Activation of ZAP-70	SmallMolecule1	Complex18	
+BiochemicalReaction8	Activation of ZAP-70	Complex17	Complex18	
+BiochemicalReaction80	The Immunoglobulin of the BCR Binds Antigen	Complex109	Complex118	
+BiochemicalReaction80	The Immunoglobulin of the BCR Binds Antigen	PhysicalEntity4	Complex118	
+BiochemicalReaction81	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	Complex118	Complex119	
+BiochemicalReaction81	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	SmallMolecule1	Complex119	
+BiochemicalReaction81	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction81	Phosphorylation of ITAMs of Ig-alpha (CD79A) and Ig-beta (CD79B)	Complex118	SmallMolecule2	
+BiochemicalReaction82	Recruitment of SYK to the Activated BCR	Complex119	Complex121	
+BiochemicalReaction82	Recruitment of SYK to the Activated BCR	Protein328	Complex121	
+BiochemicalReaction83	Autophosphorylation of SYK at the Activated BCR	Complex121	Complex122	
+BiochemicalReaction83	Autophosphorylation of SYK at the Activated BCR	SmallMolecule1	Complex122	
+BiochemicalReaction83	Autophosphorylation of SYK at the Activated BCR	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction83	Autophosphorylation of SYK at the Activated BCR	Complex121	SmallMolecule2	
+BiochemicalReaction84	Activated SYK Phosphorylates BLNK (SLP65)	Complex122	Complex124	
+BiochemicalReaction84	Activated SYK Phosphorylates BLNK (SLP65)	Complex123	Complex124	
+BiochemicalReaction84	Activated SYK Phosphorylates BLNK (SLP65)	SmallMolecule1	Complex124	
+BiochemicalReaction84	Activated SYK Phosphorylates BLNK (SLP65)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction84	Activated SYK Phosphorylates BLNK (SLP65)	Complex123	SmallMolecule2	
+BiochemicalReaction84	Activated SYK Phosphorylates BLNK (SLP65)	Complex122	SmallMolecule2	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein342	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex124	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex126	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein345	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex127	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein348	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	SmallMolecule5	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein68	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein349	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein149	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein150	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein352	Complex128	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein352	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein150	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein149	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein349	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein68	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	SmallMolecule5	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein348	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex127	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein345	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex126	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex124	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein342	Complex130	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein352	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein150	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein149	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein349	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein68	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	SmallMolecule5	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein348	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex127	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein345	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex126	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Complex124	Complex131	
+BiochemicalReaction85	Assembly of Signalosomes at the Activated BCR	Protein342	Complex131	
+BiochemicalReaction86	BCAP Signalosome Generates PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction87	CD19 Signalosome Generates PIP3	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction88	BLNK (SLP-65) Signalosome Generates Diacylglycerol and Inositol-1,4,5-trisphosphate	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction88	BLNK (SLP-65) Signalosome Generates Diacylglycerol and Inositol-1,4,5-trisphosphate	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction89	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule6	Complex136	
+BiochemicalReaction89	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex135	Complex136	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	SmallMolecule1	Protein55	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	Protein54	Protein55	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	Protein54	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of TBSMs in LAT	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction90	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction91	Oligomerization of STIM1	Complex137	Complex138	
+BiochemicalReaction91	Oligomerization of STIM1	Complex137	SmallMolecule17	
+BiochemicalReaction92	STIM1 activation of CRAC	Complex138	Complex140	
+BiochemicalReaction92	STIM1 activation of CRAC	Complex139	Complex140	
+BiochemicalReaction93	STIM1 Binds TRPC1	Complex138	Complex141	
+BiochemicalReaction93	STIM1 Binds TRPC1	Protein372	Complex141	
+BiochemicalReaction94	Calcium influx via CRAC	SmallMolecule18	SmallMolecule17	
+BiochemicalReaction95	Calcium Influx via TRPC1	SmallMolecule18	SmallMolecule17	
+BiochemicalReaction96	Calcium binds calmodulin	SmallMolecule17	Complex142	
+BiochemicalReaction96	Calcium binds calmodulin	Protein373	Complex142	
+BiochemicalReaction97	Activation of Protein Kinase C beta (PKC-beta)	SmallMolecule15	Complex143	
+BiochemicalReaction97	Activation of Protein Kinase C beta (PKC-beta)	SmallMolecule19	Complex143	
+BiochemicalReaction97	Activation of Protein Kinase C beta (PKC-beta)	SmallMolecule17	Complex143	
+BiochemicalReaction97	Activation of Protein Kinase C beta (PKC-beta)	Protein374	Complex143	
+BiochemicalReaction98	Phosphorylation of CARMA1 in B Cells	Complex144	SmallMolecule2	
+BiochemicalReaction98	Phosphorylation of CARMA1 in B Cells	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction98	Phosphorylation of CARMA1 in B Cells	SmallMolecule1	Complex145	
+BiochemicalReaction98	Phosphorylation of CARMA1 in B Cells	Complex144	Complex145	
+BiochemicalReaction99	Formation of CBM Complex	Protein93	Complex146	
+BiochemicalReaction99	Formation of CBM Complex	Protein91	Complex146	
+BiochemicalReaction99	Formation of CBM Complex	Complex145	Complex146	

@@ -1,0 +1,14 @@
+BiochemicalReaction1	FGFR2b binds to FGF	Protein1	Complex1	
+BiochemicalReaction1	FGFR2b binds to FGF	Protein7	Complex1	
+BiochemicalReaction1	FGFR2b binds to FGF	SmallMolecule1	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2b	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2b	Complex1	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2b	Complex1	Complex6	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2b	SmallMolecule2	Complex6	
+BiochemicalReaction3	FGFR2c binds to FGF	Protein12	Complex9	
+BiochemicalReaction3	FGFR2c binds to FGF	SmallMolecule1	Complex9	
+BiochemicalReaction3	FGFR2c binds to FGF	Protein15	Complex9	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2c	Complex9	SmallMolecule3	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2c	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2c	SmallMolecule2	Complex14	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2c	Complex9	Complex14	

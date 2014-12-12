@@ -1,0 +1,47 @@
+Complex1	Cadherin trans-homodimer	cell junction	Reactome DB_ID: 418999	Protein1	
+Complex10	Necl-3 dimer	plasma membrane	Reactome DB_ID: 433735	Protein31	
+Complex11	Necl-1/Necl-2/Necl-3 trans homodimer	cell junction	Reactome DB_ID: 420594	Complex7	
+Complex12	PVRL3 dimer	plasma membrane	Reactome DB_ID: 420590	Protein26	
+Complex13	Nectin-1 cis homodimer	plasma membrane	Reactome DB_ID: 420607	Protein25	
+Complex14	Nectin-1:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420601	Complex12	
+Complex14	Nectin-1:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420601	Complex13	
+Complex15	Nectin-4 cis homodimer	plasma membrane	Reactome DB_ID: 420606	Protein27	
+Complex16	Nectin-1:Nectin-4 trans heterodimer	cell junction	Reactome DB_ID: 420609	Complex15	
+Complex16	Nectin-1:Nectin-4 trans heterodimer	cell junction	Reactome DB_ID: 420609	Complex13	
+Complex17	Nectin-2 cis homodimer	plasma membrane	Reactome DB_ID: 420575	Protein28	
+Complex18	Nectin-2:PVRL3 transheterodimer	cell junction	Reactome DB_ID: 420605	Complex12	
+Complex18	Nectin-2:PVRL3 transheterodimer	cell junction	Reactome DB_ID: 420605	Complex17	
+Complex19	Necl-1:Nectin-1 trans heterodimer	cell junction	Reactome DB_ID: 420585	Protein29	
+Complex19	Necl-1:Nectin-1 trans heterodimer	cell junction	Reactome DB_ID: 420585	Protein25	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	Protein1	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	PhysicalEntity1	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	Protein21	
+Complex2	Cadherin:Catenin complex	plasma membrane	Reactome DB_ID: 418976	Protein22	
+Complex20	Necl-1:Nectin-3 trans heterodimer	cell junction	Reactome DB_ID: 420577	Protein26	
+Complex20	Necl-1:Nectin-3 trans heterodimer	cell junction	Reactome DB_ID: 420577	Protein29	
+Complex21	Necl-1:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420587	Protein30	
+Complex21	Necl-1:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420587	Protein29	
+Complex22	Nectin-3:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420578	Protein26	
+Complex22	Nectin-3:Necl-2 trans heterodimer	cell junction	Reactome DB_ID: 420578	Protein30	
+Complex23	PRV:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420579	Protein26	
+Complex23	PRV:PVRL3 trans heterodimer	cell junction	Reactome DB_ID: 420579	Protein32	
+Complex24	claudin trans-homodimer	cell junction	Reactome DB_ID: 421252	Protein55	
+Complex25	Par3:Par6:aPKC complex	cytosol	Reactome DB_ID: 419976	Protein77	
+Complex25	Par3:Par6:aPKC complex	cytosol	Reactome DB_ID: 419976	Protein78	
+Complex25	Par3:Par6:aPKC complex	cytosol	Reactome DB_ID: 419976	Protein79	
+Complex26	JAM-A:PAR-aPKC complex	plasma membrane	Reactome DB_ID: 420006	Complex27	
+Complex26	JAM-A:PAR-aPKC complex	plasma membrane	Reactome DB_ID: 420006	Protein83	
+Complex27	Par3:Par6:aPKC complex	plasma membrane	Reactome DB_ID: 419984	Protein84	
+Complex27	Par3:Par6:aPKC complex	plasma membrane	Reactome DB_ID: 419984	Protein85	
+Complex27	Par3:Par6:aPKC complex	plasma membrane	Reactome DB_ID: 419984	Protein86	
+Complex28	CRB3:PALS1:PATJ complex	plasma membrane	Reactome DB_ID: 420663	Protein90	
+Complex28	CRB3:PALS1:PATJ complex	plasma membrane	Reactome DB_ID: 420663	Protein91	
+Complex28	CRB3:PALS1:PATJ complex	plasma membrane	Reactome DB_ID: 420663	Protein92	
+Complex3	Afadin:F-actin	cytosol	Reactome DB_ID: 433726	PhysicalEntity2	
+Complex3	Afadin:F-actin	cytosol	Reactome DB_ID: 433726	Protein23	
+Complex4	Nectin:afadin complex	plasma membrane	Reactome DB_ID: 419013	Protein23	
+Complex4	Nectin:afadin complex	plasma membrane	Reactome DB_ID: 419013	Protein24	
+Complex5	Nectin cis-homodimer	plasma membrane	Reactome DB_ID: 433730	Protein24	
+Complex6	Nectin trans homodimer	cell junction	Reactome DB_ID: 418972	Complex5	
+Complex8	Necl-1 dimer	plasma membrane	Reactome DB_ID: 433733	Protein29	
+Complex9	Necl-2 dimer	plasma membrane	Reactome DB_ID: 433737	Protein30	

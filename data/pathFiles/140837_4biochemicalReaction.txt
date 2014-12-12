@@ -1,0 +1,32 @@
+BiochemicalReaction1	kininogen + C1q binding protein tetramer -> kininogen:C1q binding protein tetramer	Protein1	Complex2	
+BiochemicalReaction1	kininogen + C1q binding protein tetramer -> kininogen:C1q binding protein tetramer	Complex1	Complex2	
+BiochemicalReaction10	factor VIII + von Willebrand factor multimer -> factor VIII:von Willibrand factor multimer	Complex20	Complex22	
+BiochemicalReaction10	factor VIII + von Willebrand factor multimer -> factor VIII:von Willibrand factor multimer	Complex21	Complex22	
+BiochemicalReaction11	factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer	Complex22	Complex21	
+BiochemicalReaction11	factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer	Complex22	Protein33	
+BiochemicalReaction11	factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer	Complex22	Complex23	
+BiochemicalReaction12	factor VIIIa + factor IXa -> factor VIIIa:factor IXa	Complex19	Complex24	
+BiochemicalReaction12	factor VIIIa + factor IXa -> factor VIIIa:factor IXa	Complex23	Complex24	
+BiochemicalReaction13	activation of factor X by VIIIa:IXa	SmallMolecule2	Protein44	
+BiochemicalReaction13	activation of factor X by VIIIa:IXa	Complex27	Protein44	
+BiochemicalReaction13	activation of factor X by VIIIa:IXa	Complex27	Complex28	
+BiochemicalReaction13	activation of factor X by VIIIa:IXa	SmallMolecule2	Complex28	
+BiochemicalReaction14	kallikrein + C1Inh -> kallikrein:C1Inh	Complex7	Complex29	
+BiochemicalReaction14	kallikrein + C1Inh -> kallikrein:C1Inh	Protein46	Complex29	
+BiochemicalReaction15	kallikrein + alpha2-macroglobulin -> kallikrein:alpha2-macrogloulin	Complex7	Complex31	
+BiochemicalReaction15	kallikrein + alpha2-macroglobulin -> kallikrein:alpha2-macrogloulin	Complex30	Complex31	
+BiochemicalReaction16	factor XIIa + C1Inh -> factor XIIa:C1Inh	Complex10	Complex32	
+BiochemicalReaction16	factor XIIa + C1Inh -> factor XIIa:C1Inh	Protein46	Complex32	
+BiochemicalReaction2	prekallikrein + kininogen:C1q binding protein tetramer -> prekallikrein:kininogen:C1q binding protein tetramer	Protein4	Complex3	
+BiochemicalReaction2	prekallikrein + kininogen:C1q binding protein tetramer -> prekallikrein:kininogen:C1q binding protein tetramer	Complex2	Complex3	
+BiochemicalReaction3	prekallikrein:kininogen:C1q binding protein tetramer -> kallikrein:kininogen:C1q binding protein tetramer	Complex3	Complex4	
+BiochemicalReaction4	kallikrein:kininogen:C1q binding protein tetramer -> kallikrein + activated kininogen:C1q binding protein tetramer + bradykinin	Complex4	Complex7	
+BiochemicalReaction4	kallikrein:kininogen:C1q binding protein tetramer -> kallikrein + activated kininogen:C1q binding protein tetramer + bradykinin	Complex4	Complex8	
+BiochemicalReaction4	kallikrein:kininogen:C1q binding protein tetramer -> kallikrein + activated kininogen:C1q binding protein tetramer + bradykinin	Complex4	Protein12	
+BiochemicalReaction5	factor XII -> factor XIIa	Protein13	Complex10	
+BiochemicalReaction6	factor XI + platelet glycoprotein (GP) Ib:IX:V complex -> factor XI:platelet glycoprotein (GP) Ib:IX:V complex	Complex11	Complex14	
+BiochemicalReaction6	factor XI + platelet glycoprotein (GP) Ib:IX:V complex -> factor XI:platelet glycoprotein (GP) Ib:IX:V complex	Complex13	Complex14	
+BiochemicalReaction7	factor XI:platelet glycoprotein (GP) Ib:IX:V complex -> factor XIa:platelet glycoprotein (GP) Ib:IX:V complex (XIIa catalyst)	Complex14	Complex16	
+BiochemicalReaction8	factor XI:platelet glycoprotein (GP) Ib:IX:V complex -> factor XIa:platelet glycoprotein (GP) Ib:IX:V complex (thrombin catalyst)	Complex14	Complex16	
+BiochemicalReaction9	activation of factor IX (factor XIa catalyst)	Protein26	Complex19	
+BiochemicalReaction9	activation of factor IX (factor XIa catalyst)	Protein26	Protein29	

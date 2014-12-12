@@ -1,0 +1,36 @@
+Complex10	Calcineurin B complex	cytosol	Reactome DB_ID: 140202	Protein14	
+Complex10	Calcineurin B complex	cytosol	Reactome DB_ID: 140202	Protein15	
+Complex11	tBID:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114339	Protein17	
+Complex11	tBID:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114339	Protein18	
+Complex12	BAD:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114268	Protein16	
+Complex12	BAD:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114268	Protein17	
+Complex13	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein19	
+Complex14	p-S15-TP53 Tetramer:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331332	Dna1	
+Complex14	p-S15-TP53 Tetramer:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331332	Complex13	
+Complex15	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein21	
+Complex15	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein22	
+Complex16	E2F1:TFDP1:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331338	Dna1	
+Complex16	E2F1:TFDP1:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331338	Complex15	
+Complex17	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Dna2	
+Complex17	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Complex13	
+Complex18	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Dna2	
+Complex18	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Complex15	
+Complex19	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	Protein26	
+Complex19	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	PhysicalEntity1	
+Complex19	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	Protein27	
+Complex2	14-3-3 eta dimer	cytosol	Reactome DB_ID: 2262715	Protein7	
+Complex20	DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140526	PhysicalEntity1	
+Complex20	DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140526	Protein27	
+Complex21	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	Protein31	
+Complex21	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	Protein32	
+Complex21	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	PhysicalEntity1	
+Complex22	Dynein (DLC2) on microtubules	plasma membrane	Reactome DB_ID: 140530	Protein32	
+Complex22	Dynein (DLC2) on microtubules	plasma membrane	Reactome DB_ID: 140530	PhysicalEntity1	
+Complex3	14-3-3 gamma dimer	cytosol	Reactome DB_ID: 2262713	Protein8	
+Complex4	14-3-3 sigma dimer	cytosol	Reactome DB_ID: 2262716	Protein9	
+Complex5	14-3-3 theta dimer	cytosol	Reactome DB_ID: 2262714	Protein10	
+Complex6	14-3-3zeta dimer	cytosol	Reactome DB_ID: 206751	Protein11	
+Complex7	YWHAB dimer	cytosol	Reactome DB_ID: 2028645	Protein12	
+Complex8	YWHAE dimer	cytosol	Reactome DB_ID: 194364	Protein13	
+Complex9	14-3-3 proteins:p-S99-BAD complex	cytosol	Reactome DB_ID: 139904	Complex1	
+Complex9	14-3-3 proteins:p-S99-BAD complex	cytosol	Reactome DB_ID: 139904	Protein2	

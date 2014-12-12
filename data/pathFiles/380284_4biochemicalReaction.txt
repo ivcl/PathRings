@@ -1,0 +1,8 @@
+BiochemicalReaction1	Loss of C-Nap-1 from centrosomes	Complex1	Protein17	
+BiochemicalReaction1	Loss of C-Nap-1 from centrosomes	Complex1	Complex2	
+BiochemicalReaction2	Plk1-mediated phosphorylation of Nlp	Complex1	SmallMolecule2	
+BiochemicalReaction2	Plk1-mediated phosphorylation of Nlp	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Plk1-mediated phosphorylation of Nlp	SmallMolecule1	Complex3	
+BiochemicalReaction2	Plk1-mediated phosphorylation of Nlp	Complex1	Complex3	
+BiochemicalReaction3	Dissociation of Phospho-Nlp from the centrosome	Complex3	Complex4	
+BiochemicalReaction3	Dissociation of Phospho-Nlp from the centrosome	Complex3	Protein63	

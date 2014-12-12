@@ -1,0 +1,105 @@
+BiochemicalReaction1	Phosphorylation of NTAL by p-SYK/Lyn	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of NTAL by p-SYK/Lyn	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of NTAL by p-SYK/Lyn	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of NTAL by p-SYK/Lyn	SmallMolecule1	Protein2	
+BiochemicalReaction10	PIP3 recruits PDPK1 to the membrane	Protein175	Complex95	
+BiochemicalReaction10	PIP3 recruits PDPK1 to the membrane	SmallMolecule3	Complex95	
+BiochemicalReaction11	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	TORC2 (mTOR) phosphorylates AKT at S473	Complex94	SmallMolecule2	
+BiochemicalReaction11	TORC2 (mTOR) phosphorylates AKT at S473	Complex94	Complex96	
+BiochemicalReaction11	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	Complex96	
+BiochemicalReaction12	AKT binds PDPK1	Complex95	Complex99	
+BiochemicalReaction12	AKT binds PDPK1	Complex96	Complex99	
+BiochemicalReaction13	PDPK1 phosphorylates AKT at T308	Complex99	Complex95	
+BiochemicalReaction13	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Complex95	
+BiochemicalReaction13	PDPK1 phosphorylates AKT at T308	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	PDPK1 phosphorylates AKT at T308	Complex99	SmallMolecule2	
+BiochemicalReaction13	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Protein282	
+BiochemicalReaction13	PDPK1 phosphorylates AKT at T308	Complex99	Protein282	
+BiochemicalReaction14	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	AKT phosphorylates BAD	Protein286	SmallMolecule2	
+BiochemicalReaction14	AKT phosphorylates BAD	Protein286	Protein287	
+BiochemicalReaction14	AKT phosphorylates BAD	SmallMolecule1	Protein287	
+BiochemicalReaction15	AKT phosphorylates GSK3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	AKT phosphorylates GSK3	Protein288	SmallMolecule2	
+BiochemicalReaction15	AKT phosphorylates GSK3	Protein288	Protein291	
+BiochemicalReaction15	AKT phosphorylates GSK3	SmallMolecule1	Protein291	
+BiochemicalReaction16	AKT phosphorylates caspase-9	Protein294	SmallMolecule2	
+BiochemicalReaction16	AKT phosphorylates caspase-9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	AKT phosphorylates caspase-9	SmallMolecule1	Protein295	
+BiochemicalReaction16	AKT phosphorylates caspase-9	Protein294	Protein295	
+BiochemicalReaction17	AKT phosphorylates MDM2	SmallMolecule1	Protein297	
+BiochemicalReaction17	AKT phosphorylates MDM2	Protein296	Protein297	
+BiochemicalReaction17	AKT phosphorylates MDM2	Protein296	SmallMolecule2	
+BiochemicalReaction17	AKT phosphorylates MDM2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	AKT phosphorylates IKKalpha	Protein298	SmallMolecule2	
+BiochemicalReaction18	AKT phosphorylates IKKalpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	AKT phosphorylates IKKalpha	SmallMolecule1	Protein299	
+BiochemicalReaction18	AKT phosphorylates IKKalpha	Protein298	Protein299	
+BiochemicalReaction19	AKT phosphorylates p21Cip1 and p27Kip1	Protein300	Protein303	
+BiochemicalReaction19	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	Protein303	
+BiochemicalReaction19	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	AKT phosphorylates p21Cip1 and p27Kip1	Protein300	SmallMolecule2	
+BiochemicalReaction2	Recruitment of GRB2:SOS to p-10Y-NTAL	Complex9	Complex11	
+BiochemicalReaction2	Recruitment of GRB2:SOS to p-10Y-NTAL	Protein2	Complex11	
+BiochemicalReaction20	AKT phosphorylates TSC2, inhibiting it	Protein306	SmallMolecule2	
+BiochemicalReaction20	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	Protein307	
+BiochemicalReaction20	AKT phosphorylates TSC2, inhibiting it	Protein306	Protein307	
+BiochemicalReaction21	AKT phosphorylates AKT1S1 (PRAS40)	Protein308	Protein309	
+BiochemicalReaction21	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	Protein309	
+BiochemicalReaction21	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	AKT phosphorylates AKT1S1 (PRAS40)	Protein308	SmallMolecule2	
+BiochemicalReaction22	AKT translocates to the nucleus	Protein282	Protein310	
+BiochemicalReaction23	AKT phosphorylates CREB1	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction23	AKT phosphorylates CREB1	Protein314	SmallMolecule9	
+BiochemicalReaction23	AKT phosphorylates CREB1	Protein314	Protein315	
+BiochemicalReaction23	AKT phosphorylates CREB1	SmallMolecule8	Protein315	
+BiochemicalReaction24	AKT can phosphorylate forkhead box transcription factors	Protein316	SmallMolecule9	
+BiochemicalReaction24	AKT can phosphorylate forkhead box transcription factors	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction24	AKT can phosphorylate forkhead box transcription factors	SmallMolecule8	Protein321	
+BiochemicalReaction24	AKT can phosphorylate forkhead box transcription factors	Protein316	Protein321	
+BiochemicalReaction25	AKT can phosphorylate RSK	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction25	AKT can phosphorylate RSK	Protein326	SmallMolecule9	
+BiochemicalReaction25	AKT can phosphorylate RSK	Protein326	Protein327	
+BiochemicalReaction25	AKT can phosphorylate RSK	SmallMolecule8	Protein327	
+BiochemicalReaction26	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule8	Protein329	
+BiochemicalReaction26	AKT can phosphorylate NR4A1 (NUR77)	Protein328	Protein329	
+BiochemicalReaction26	AKT can phosphorylate NR4A1 (NUR77)	Protein328	SmallMolecule9	
+BiochemicalReaction26	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction27	PTEN dephosphorylates PIP3	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction27	PTEN dephosphorylates PIP3	SmallMolecule3	SmallMolecule11	
+BiochemicalReaction27	PTEN dephosphorylates PIP3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction27	PTEN dephosphorylates PIP3	SmallMolecule10	SmallMolecule4	
+BiochemicalReaction28	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Protein279	Complex98	
+BiochemicalReaction28	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Complex94	Complex98	
+BiochemicalReaction29	PHLPP dephosphorylates S473 in AKT	Protein282	SmallMolecule11	
+BiochemicalReaction29	PHLPP dephosphorylates S473 in AKT	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction29	PHLPP dephosphorylates S473 in AKT	SmallMolecule10	Protein331	
+BiochemicalReaction29	PHLPP dephosphorylates S473 in AKT	Protein282	Protein331	
+BiochemicalReaction3	Recruitment of GAB2 to PM and FCERI by binding to GRB2	Protein166	Complex12	
+BiochemicalReaction3	Recruitment of GAB2 to PM and FCERI by binding to GRB2	SmallMolecule3	Complex12	
+BiochemicalReaction3	Recruitment of GAB2 to PM and FCERI by binding to GRB2	Complex11	Complex12	
+BiochemicalReaction30	PDPK1 binds PIP2	SmallMolecule4	Complex102	
+BiochemicalReaction30	PDPK1 binds PIP2	Protein175	Complex102	
+BiochemicalReaction31	MIR26A microRNAs bind PTEN mRNA	Complex103	Complex108	
+BiochemicalReaction31	MIR26A microRNAs bind PTEN mRNA	Rna4	Complex108	
+BiochemicalReaction32	PTEN mRNA translation negatively regulated by microRNAs	Rna4	Complex100	
+BiochemicalReaction4	Phoshorylation of GAB2 by SYK/FYN	Complex12	Complex13	
+BiochemicalReaction4	Phoshorylation of GAB2 by SYK/FYN	SmallMolecule1	Complex13	
+BiochemicalReaction4	Phoshorylation of GAB2 by SYK/FYN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phoshorylation of GAB2 by SYK/FYN	Complex12	SmallMolecule2	
+BiochemicalReaction5	PI3K associates with phosphorylated GAB2	Complex13	Complex15	
+BiochemicalReaction5	PI3K associates with phosphorylated GAB2	Complex14	Complex15	
+BiochemicalReaction6	Phosphorylation of PIP2 to PIP3 by PI3K	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of PIP2 to PIP3 by PI3K	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of PIP2 to PIP3 by PI3K	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	Phosphorylation of PIP2 to PIP3 by PI3K	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction7	Translocation of PDK1 to Plasma membrane	Protein175	Complex16	
+BiochemicalReaction7	Translocation of PDK1 to Plasma membrane	SmallMolecule5	Complex16	
+BiochemicalReaction8	PI3K phosphorylates PIP2 to PIP3	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction8	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction8	PI3K phosphorylates PIP2 to PIP3	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction9	PIP3 recruits AKT to the membrane	Protein263	Complex94	
+BiochemicalReaction9	PIP3 recruits AKT to the membrane	SmallMolecule3	Complex94	

@@ -1,0 +1,166 @@
+Complex10	K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2213008	Protein25	
+Complex10	K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2213008	Complex1	
+Complex11	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKK epsilon	endosome membrane	Reactome DB_ID: 936970	Protein29	
+Complex11	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKK epsilon	endosome membrane	Reactome DB_ID: 936970	Complex10	
+Complex12	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKKE:IRF3/IRF7	endosome membrane	Reactome DB_ID: 937070	Complex11	
+Complex12	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKKE:IRF3/IRF7	endosome membrane	Reactome DB_ID: 937070	Protein32	
+Complex14	p-2S-IRF7:p-2S-IRF7	cytosol	Reactome DB_ID: 450344	Protein38	
+Complex15	p-T,4S-IRF3:p-T,4S-IRF3	cytosol	Reactome DB_ID: 166272	Protein37	
+Complex17	p-T,4S-IRF3:p-T,4S-IRF3	nucleoplasm	Reactome DB_ID: 177675	Protein39	
+Complex18	p-2S-IRF7:p-2S-IRF7	nucleoplasm	Reactome DB_ID: 450306	Protein40	
+Complex19	RIP1:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 168912	Protein41	
+Complex19	RIP1:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 168912	Complex1	
+Complex2	TRIF:TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166172	Complex3	
+Complex2	TRIF:TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166172	Protein5	
+Complex20	activated TLR4/TLR3:TRIF:K63-pUb-RIP1	endosome membrane	Reactome DB_ID: 937016	Protein43	
+Complex20	activated TLR4/TLR3:TRIF:K63-pUb-RIP1	endosome membrane	Reactome DB_ID: 937016	Complex1	
+Complex22	c-IAP1:UBE2D	cytosol	Reactome DB_ID: 2569051	Protein44	
+Complex22	c-IAP1:UBE2D	cytosol	Reactome DB_ID: 2569051	Complex23	
+Complex23	UBE2D1,2,3:Ubiquitin	cytosol	Reactome DB_ID: 1234116	Protein10	
+Complex23	UBE2D1,2,3:Ubiquitin	cytosol	Reactome DB_ID: 1234116	Protein45	
+Complex24	c-IAP2:UBE2D	cytosol	Reactome DB_ID: 2569049	Protein49	
+Complex24	c-IAP2:UBE2D	cytosol	Reactome DB_ID: 2569049	Complex23	
+Complex25	TRAF6 E3/E2 ubiquitin ligase complex	cytosol	Reactome DB_ID: 1248657	Protein50	
+Complex25	TRAF6 E3/E2 ubiquitin ligase complex	cytosol	Reactome DB_ID: 1248657	Complex26	
+Complex26	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein51	
+Complex26	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein52	
+Complex27	IKK complex	cytosol	Reactome DB_ID: 168113	Protein53	
+Complex27	IKK complex	cytosol	Reactome DB_ID: 168113	Protein54	
+Complex27	IKK complex	cytosol	Reactome DB_ID: 168113	Protein55	
+Complex28	activated TLR4/TLR3:TRIF:K63-pUb-RIP1:IKKcomplex	endosome membrane	Reactome DB_ID: 937030	Complex20	
+Complex28	activated TLR4/TLR3:TRIF:K63-pUb-RIP1:IKKcomplex	endosome membrane	Reactome DB_ID: 937030	Complex27	
+Complex29	activated TLR3/TLR4:TRIF:RIP1:FADD:pro-caspase-8	endosome membrane	Reactome DB_ID: 2562542	Protein56	
+Complex29	activated TLR3/TLR4:TRIF:RIP1:FADD:pro-caspase-8	endosome membrane	Reactome DB_ID: 2562542	Protein41	
+Complex29	activated TLR3/TLR4:TRIF:RIP1:FADD:pro-caspase-8	endosome membrane	Reactome DB_ID: 2562542	Protein57	
+Complex29	activated TLR3/TLR4:TRIF:RIP1:FADD:pro-caspase-8	endosome membrane	Reactome DB_ID: 2562542	Complex1	
+Complex3	TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166163	Protein1	
+Complex3	TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166163	Complex4	
+Complex30	active caspase-8 	cytosol	Reactome DB_ID: 2562550	Complex31	
+Complex31	Caspase-8 dimer	cytosol	Reactome DB_ID: 139950	Protein58	
+Complex31	Caspase-8 dimer	cytosol	Reactome DB_ID: 139950	Protein59	
+Complex32	activated TLR3/TLR4:TRIF:RIP1:FADD	endosome membrane	Reactome DB_ID: 2562577	Protein41	
+Complex32	activated TLR3/TLR4:TRIF:RIP1:FADD	endosome membrane	Reactome DB_ID: 2562577	Protein57	
+Complex32	activated TLR3/TLR4:TRIF:RIP1:FADD	endosome membrane	Reactome DB_ID: 2562577	Complex1	
+Complex34	RIP3:TRIF:activated TLR3/4	endosome membrane	Reactome DB_ID: 2569054	Protein42	
+Complex34	RIP3:TRIF:activated TLR3/4	endosome membrane	Reactome DB_ID: 2569054	Complex1	
+Complex35	RIP3:RIP1:TRIF:activated TLR3/4	endosome membrane	Reactome DB_ID: 2569053	Protein42	
+Complex35	RIP3:RIP1:TRIF:activated TLR3/4	endosome membrane	Reactome DB_ID: 2569053	Complex19	
+Complex36	activated TLR4/TLR3:TRIF:TRAF6	endosome membrane	Reactome DB_ID: 936976	Protein50	
+Complex36	activated TLR4/TLR3:TRIF:TRAF6	endosome membrane	Reactome DB_ID: 936976	Complex1	
+Complex37	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6	endosome membrane	Reactome DB_ID: 936965	Complex1	
+Complex37	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6	endosome membrane	Reactome DB_ID: 936965	Protein60	
+Complex38	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein61	
+Complex38	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein62	
+Complex38	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein65	
+Complex39	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:TAK1complex	endosome membrane	Reactome DB_ID: 936954	PhysicalEntity2	
+Complex39	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:TAK1complex	endosome membrane	Reactome DB_ID: 936954	Complex38	
+Complex39	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:TAK1complex	endosome membrane	Reactome DB_ID: 936954	Complex37	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	Complex5	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	SmallMolecule1	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	Protein4	
+Complex40	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Protein61	
+Complex40	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	PhysicalEntity2	
+Complex40	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Protein62	
+Complex40	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Protein66	
+Complex40	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Complex37	
+Complex41	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein61	
+Complex41	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	PhysicalEntity2	
+Complex41	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein62	
+Complex41	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein66	
+Complex41	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein60	
+Complex42	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein67	
+Complex42	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein68	
+Complex42	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein55	
+Complex44	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex45	
+Complex44	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex47	
+Complex45	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Complex46	
+Complex45	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Protein60	
+Complex46	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein69	
+Complex46	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein60	
+Complex47	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein61	
+Complex47	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein70	
+Complex47	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein65	
+Complex48	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex49	
+Complex48	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex47	
+Complex49	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	PhysicalEntity2	
+Complex49	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Complex50	
+Complex49	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Protein55	
+Complex5	TLR4:MD2	endosome membrane	Reactome DB_ID: 2201291	Protein2	
+Complex5	TLR4:MD2	endosome membrane	Reactome DB_ID: 2201291	Protein3	
+Complex50	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Protein73	
+Complex50	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Complex51	
+Complex52	NOD1:iE-DAP oligomer	cytosol	Reactome DB_ID: 622306	Complex53	
+Complex53	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	Protein74	
+Complex53	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	SmallMolecule4	
+Complex54	MDP:NOD2 oligomer	cytosol	Reactome DB_ID: 708350	Complex55	
+Complex55	MDP:NOD2	cytosol	Reactome DB_ID: 168414	Protein75	
+Complex55	MDP:NOD2	cytosol	Reactome DB_ID: 168414	SmallMolecule5	
+Complex56	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	PhysicalEntity2	
+Complex56	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Protein66	
+Complex56	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Complex57	
+Complex57	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein76	
+Complex57	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein60	
+Complex58	IkBs:NFkB	cytosol	Reactome DB_ID: 168130	Protein77	
+Complex58	IkBs:NFkB	cytosol	Reactome DB_ID: 168130	Complex59	
+Complex59	NFkB Complex	cytosol	Reactome DB_ID: 168155	Protein80	
+Complex59	NFkB Complex	cytosol	Reactome DB_ID: 168155	Protein83	
+Complex6	viral dsRNA:TLR3:TRIF 	endosome membrane	Reactome DB_ID: 168907	Protein6	
+Complex6	viral dsRNA:TLR3:TRIF 	endosome membrane	Reactome DB_ID: 168907	Complex7	
+Complex60	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein87	
+Complex60	NFkB Complex	nucleoplasm	Reactome DB_ID: 177673	Protein88	
+Complex61	AGER ligands:AGER	plasma membrane	Reactome DB_ID: 879365	Protein91	
+Complex61	AGER ligands:AGER	plasma membrane	Reactome DB_ID: 879365	PhysicalEntity4	
+Complex62	AGE adducts:Peptide	extracellular region	Reactome DB_ID: 879479	SmallMolecule6	
+Complex62	AGE adducts:Peptide	extracellular region	Reactome DB_ID: 879479	SmallMolecule7	
+Complex63	S100A12 dimer	extracellular region	Reactome DB_ID: 879439	Protein92	
+Complex64	S100B homodimer	extracellular region	Reactome DB_ID: 879449	Protein93	
+Complex65	DHX9:CpG:MyD88	cytosol	Reactome DB_ID: 3134868	Protein98	
+Complex65	DHX9:CpG:MyD88	cytosol	Reactome DB_ID: 3134868	Complex66	
+Complex66	DHX9:CpG	cytosol	Reactome DB_ID: 3134960	PhysicalEntity5	
+Complex66	DHX9:CpG	cytosol	Reactome DB_ID: 3134960	Protein99	
+Complex67	p38 MAPK:MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450269	Protein127	
+Complex67	p38 MAPK:MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450269	Protein130	
+Complex68	phospho-p38 MAPK: MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450213	Protein127	
+Complex68	phospho-p38 MAPK: MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450213	Protein133	
+Complex69	p-p38 MAPK:p-MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450254	Protein133	
+Complex69	p-p38 MAPK:p-MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450254	Protein136	
+Complex7	viral dsRNA :TLR3	endosome membrane	Reactome DB_ID: 167985	Protein7	
+Complex7	viral dsRNA :TLR3	endosome membrane	Reactome DB_ID: 167985	PhysicalEntity1	
+Complex70	phospho-p38 MAPK : phospho MAPKAPK2 or phospho MaPKAPK3	cytosol	Reactome DB_ID: 450241	Protein139	
+Complex70	phospho-p38 MAPK : phospho MAPKAPK2 or phospho MaPKAPK3	cytosol	Reactome DB_ID: 450241	Protein142	
+Complex71	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein147	
+Complex71	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein152	
+Complex72	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein147	
+Complex72	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein153	
+Complex73	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein153	
+Complex74	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein154	
+Complex75	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex76	
+Complex75	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein163	
+Complex76	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex77	
+Complex78	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex79	
+Complex78	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex80	
+Complex79	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein155	
+Complex79	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein159	
+Complex8	TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2201339	Complex1	
+Complex8	TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2201339	Protein8	
+Complex80	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein160	
+Complex80	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein161	
+Complex81	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex82	
+Complex81	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex79	
+Complex82	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein162	
+Complex82	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein161	
+Complex83	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein164	
+Complex83	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein165	
+Complex84	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein166	
+Complex84	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein164	
+Complex85	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein166	
+Complex86	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein167	
+Complex88	PP2A-ABdeltaC complex	nucleoplasm	Reactome DB_ID: 165970	Protein192	
+Complex88	PP2A-ABdeltaC complex	nucleoplasm	Reactome DB_ID: 165970	Protein195	
+Complex88	PP2A-ABdeltaC complex	nucleoplasm	Reactome DB_ID: 165970	Protein196	
+Complex89	p-2S-cJUN:p-2T-ATF2	nucleoplasm	Reactome DB_ID: 450262	Protein210	
+Complex89	p-2S-cJUN:p-2T-ATF2	nucleoplasm	Reactome DB_ID: 450262	Protein212	
+Complex9	SARM:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2559578	Protein9	
+Complex9	SARM:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2559578	Complex1	
+Complex90	p-2S-cJUN:p-2S,2T-cFOS	nucleoplasm	Reactome DB_ID: 450327	Protein214	
+Complex90	p-2S-cJUN:p-2S,2T-cFOS	nucleoplasm	Reactome DB_ID: 450327	Protein212	

@@ -1,0 +1,7 @@
+BiochemicalReaction1	AIM2 binds dsDNA	SmallMolecule1	Complex1	
+BiochemicalReaction1	AIM2 binds dsDNA	Protein1	Complex1	
+BiochemicalReaction2	AIM2 oligomerizes	Complex1	PhysicalEntity1	
+BiochemicalReaction3	dsDNA:AIM2 clusters bind ASC	PhysicalEntity1	Complex2	
+BiochemicalReaction3	dsDNA:AIM2 clusters bind ASC	Protein2	Complex2	
+BiochemicalReaction4	dsDNA:AIM2:ASC cluster binds procaspase-1	Complex2	Complex3	
+BiochemicalReaction4	dsDNA:AIM2:ASC cluster binds procaspase-1	Protein3	Complex3	

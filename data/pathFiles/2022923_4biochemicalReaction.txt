@@ -1,0 +1,10 @@
+BiochemicalReaction1	Dermatan-sulfate epimerase (DSE) converts chondroitin sulfate (CS) to dermatan sulfate (DS)	Protein1	Protein9	
+BiochemicalReaction2	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein9	Protein20	
+BiochemicalReaction2	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule1	Protein20	
+BiochemicalReaction2	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein9	SmallMolecule2	
+BiochemicalReaction3	CHST14 transfers SO4(2-) to DS	Protein20	SmallMolecule2	
+BiochemicalReaction3	CHST14 transfers SO4(2-) to DS	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	CHST14 transfers SO4(2-) to DS	SmallMolecule1	Protein29	
+BiochemicalReaction3	CHST14 transfers SO4(2-) to DS	Protein20	Protein29	
+BiochemicalReaction4	DSPGs are secreted	PhysicalEntity1	PhysicalEntity2	

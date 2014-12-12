@@ -1,0 +1,14 @@
+BiochemicalReaction1	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex1	Complex3	
+BiochemicalReaction1	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex2	Complex3	
+BiochemicalReaction1	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex2	Complex4	
+BiochemicalReaction1	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex1	Complex4	
+BiochemicalReaction2	apolipoprotein(a) + LDL => Lp(a)	Complex1	Complex5	
+BiochemicalReaction2	apolipoprotein(a) + LDL => Lp(a)	Protein3	Complex5	
+BiochemicalReaction3	LDL + LDLR => LDL:LDLR complex	Complex1	Complex6	
+BiochemicalReaction3	LDL + LDLR => LDL:LDLR complex	Protein4	Complex6	
+BiochemicalReaction4	Internalization of LDL:LDLR complex (LDLRAP1-dependent)	Complex6	Complex8	
+BiochemicalReaction5	Internalization of LDL:LDLR complex (LDLRAP1-independent)	Complex6	Complex8	
+BiochemicalReaction6	Movement of LDL:LDLR complex to early endosome	Complex8	Complex10	
+BiochemicalReaction7	LDLR:LDL complex => LDLR + LDL	Complex10	Complex12	
+BiochemicalReaction7	LDLR:LDL complex => LDLR + LDL	Complex10	Protein9	
+BiochemicalReaction8	Recycling of LDLR to plasma membrane	Protein9	Protein4	

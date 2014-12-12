@@ -1,0 +1,12 @@
+BiochemicalReaction1	IRAK2 induces TRAF6 oligomerization	Complex1	Complex2	
+BiochemicalReaction1	IRAK2 induces TRAF6 oligomerization	Protein3	Complex2	
+BiochemicalReaction2	Auto ubiquitination of oligo-TRAF6 bound to p-IRAK2	Protein4	Complex3	
+BiochemicalReaction2	Auto ubiquitination of oligo-TRAF6 bound to p-IRAK2	Complex2	Complex3	
+BiochemicalReaction3	Activated TRAF6 synthesizes unanchored polyubiquitin chains	Protein4	PhysicalEntity1	
+BiochemicalReaction4	Activated TRAF6:p-IRAK2 interacts with TAK1 complex	Complex4	Complex5	
+BiochemicalReaction4	Activated TRAF6:p-IRAK2 interacts with TAK1 complex	PhysicalEntity1	Complex5	
+BiochemicalReaction4	Activated TRAF6:p-IRAK2 interacts with TAK1 complex	Complex3	Complex5	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3 	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3 	Complex5	SmallMolecule2	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3 	Complex5	Complex6	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3 	SmallMolecule1	Complex6	

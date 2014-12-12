@@ -1,0 +1,19 @@
+Complex1	Adenylate cyclase (Mg2+ cofactor)	plasma membrane	Reactome DB_ID: 170665	Protein1	
+Complex1	Adenylate cyclase (Mg2+ cofactor)	plasma membrane	Reactome DB_ID: 170665	SmallMolecule1	
+Complex2	G-protein alpha (i): GTP	plasma membrane	Reactome DB_ID: 392161	SmallMolecule2	
+Complex2	G-protein alpha (i): GTP	plasma membrane	Reactome DB_ID: 392161	Protein11	
+Complex3	G-protein alpha (i):GTP:Adenylate cyclase	plasma membrane	Reactome DB_ID: 396910	Complex1	
+Complex3	G-protein alpha (i):GTP:Adenylate cyclase	plasma membrane	Reactome DB_ID: 396910	Complex2	
+Complex4	G alpha-olf:GTP	plasma membrane	Reactome DB_ID: 170661	SmallMolecule3	
+Complex4	G alpha-olf:GTP	plasma membrane	Reactome DB_ID: 170661	Protein16	
+Complex5	(Gi alpha1:GTP:Adenylate cyclase):(G alpha-olf:GTP)	plasma membrane	Reactome DB_ID: 170683	Complex4	
+Complex5	(Gi alpha1:GTP:Adenylate cyclase):(G alpha-olf:GTP)	plasma membrane	Reactome DB_ID: 170683	Complex3	
+Complex6	(Gi alpha1:GTP:Adenylate cyclase):(G alpha-olf:GDP)	plasma membrane	Reactome DB_ID: 170659	Complex3	
+Complex6	(Gi alpha1:GTP:Adenylate cyclase):(G alpha-olf:GDP)	plasma membrane	Reactome DB_ID: 170659	Complex7	
+Complex7	G alpha-olf:GDP complex	plasma membrane	Reactome DB_ID: 170669	Protein16	
+Complex7	G alpha-olf:GDP complex	plasma membrane	Reactome DB_ID: 170669	SmallMolecule5	
+Complex8	(Gi alpha1:GDP:Adenylate cyclase):(G alpha-olf:GDP)	plasma membrane	Reactome DB_ID: 170656	Complex9	
+Complex8	(Gi alpha1:GDP:Adenylate cyclase):(G alpha-olf:GDP)	plasma membrane	Reactome DB_ID: 170656	Complex1	
+Complex8	(Gi alpha1:GDP:Adenylate cyclase):(G alpha-olf:GDP)	plasma membrane	Reactome DB_ID: 170656	Complex7	
+Complex9	G-protein alpha (i):GDP	plasma membrane	Reactome DB_ID: 392164	SmallMolecule6	
+Complex9	G-protein alpha (i):GDP	plasma membrane	Reactome DB_ID: 392164	Protein11	

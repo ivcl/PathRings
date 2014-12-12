@@ -1,0 +1,6 @@
+Complex1	ADAR1 homodimer 	nucleoplasm	Reactome DB_ID: 111236	Protein1	
+Complex2	Editosome (ADAR1) complex	nucleoplasm	Reactome DB_ID: 75087	PhysicalEntity1	
+Complex2	Editosome (ADAR1) complex	nucleoplasm	Reactome DB_ID: 75087	Complex1	
+Complex3	ADAR2 homodimer	nucleoplasm	Reactome DB_ID: 111235	Protein2	
+Complex4	Editosome (ADAR2) complex	nucleoplasm	Reactome DB_ID: 77610	PhysicalEntity1	
+Complex4	Editosome (ADAR2) complex	nucleoplasm	Reactome DB_ID: 77610	Complex3	

@@ -1,0 +1,174 @@
+Complex1	activated insulin receptor	plasma membrane	Reactome DB_ID: 74678	Complex2	
+Complex1	activated insulin receptor	plasma membrane	Reactome DB_ID: 74678	Complex3	
+Complex10	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein17	
+Complex10	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein18	
+Complex11	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein18	
+Complex11	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex9	
+Complex12	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex11	
+Complex12	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein17	
+Complex13	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein17	
+Complex13	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex9	
+Complex13	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein19	
+Complex14	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein14	
+Complex14	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule3	
+Complex15	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein18	
+Complex15	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex14	
+Complex16	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Protein20	
+Complex16	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Complex13	
+Complex17	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Complex13	
+Complex17	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Protein21	
+Complex18	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Protein22	
+Complex18	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Complex13	
+Complex19	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein23	
+Complex19	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein30	
+Complex2	phospho-insulin receptor	plasma membrane	Reactome DB_ID: 74671	Protein1	
+Complex2	phospho-insulin receptor	plasma membrane	Reactome DB_ID: 74671	Protein2	
+Complex20	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein23	
+Complex20	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein31	
+Complex21	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein31	
+Complex22	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein32	
+Complex23	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein33	
+Complex23	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex24	
+Complex24	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex25	
+Complex26	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex27	
+Complex26	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex28	
+Complex27	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein34	
+Complex27	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein35	
+Complex28	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein39	
+Complex28	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein40	
+Complex29	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex27	
+Complex29	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex30	
+Complex3	insulin	extracellular region	Reactome DB_ID: 74674	Protein3	
+Complex3	insulin	extracellular region	Reactome DB_ID: 74674	Protein4	
+Complex30	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein39	
+Complex30	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein41	
+Complex31	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein24	
+Complex31	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein42	
+Complex32	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein24	
+Complex32	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein43	
+Complex33	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein43	
+Complex34	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein44	
+Complex35	IRS:activated insulin receptor	plasma membrane	Reactome DB_ID: 74699	Complex1	
+Complex35	IRS:activated insulin receptor	plasma membrane	Reactome DB_ID: 74699	Protein45	
+Complex36	phospho-IRS:activated insulin receptor	plasma membrane	Reactome DB_ID: 74695	Protein49	
+Complex36	phospho-IRS:activated insulin receptor	plasma membrane	Reactome DB_ID: 74695	Complex1	
+Complex37	PI3K	cytosol	Reactome DB_ID: 74693	Protein53	
+Complex37	PI3K	cytosol	Reactome DB_ID: 74693	Protein56	
+Complex38	phospho-IRS:PI3K	cytosol	Reactome DB_ID: 74694	Protein49	
+Complex38	phospho-IRS:PI3K	cytosol	Reactome DB_ID: 74694	Complex37	
+Complex4	SHC:activated insulin receptor	plasma membrane	Reactome DB_ID: 74681	Complex1	
+Complex4	SHC:activated insulin receptor	plasma membrane	Reactome DB_ID: 74681	Protein5	
+Complex40	activated TLR9:PI3K class III	endosome membrane	Reactome DB_ID: 188017	Complex41	
+Complex40	activated TLR9:PI3K class III	endosome membrane	Reactome DB_ID: 188017	Complex42	
+Complex41	PI3K class III	cytosol	Reactome DB_ID: 188015	Protein59	
+Complex41	PI3K class III	cytosol	Reactome DB_ID: 188015	Protein60	
+Complex42	fl-TLR9:unmethylated CpG DNA	endosome membrane	Reactome DB_ID: 187884	Protein61	
+Complex42	fl-TLR9:unmethylated CpG DNA	endosome membrane	Reactome DB_ID: 187884	PhysicalEntity2	
+Complex43	Activated FGFR bound to PI3K	plasma membrane	Reactome DB_ID: 190928	Complex44	
+Complex43	Activated FGFR bound to PI3K	plasma membrane	Reactome DB_ID: 190928	Complex37	
+Complex44	GRB2 and GAB1 bound to activated FGFR and FRS2-alpha	plasma membrane	Reactome DB_ID: 190399	Complex45	
+Complex44	GRB2 and GAB1 bound to activated FGFR and FRS2-alpha	plasma membrane	Reactome DB_ID: 190399	Protein98	
+Complex44	GRB2 and GAB1 bound to activated FGFR and FRS2-alpha	plasma membrane	Reactome DB_ID: 190399	Protein12	
+Complex45	Activated FGFR:p-FRS2-alpha:p-SHP2	plasma membrane	Reactome DB_ID: 190361	Protein33	
+Complex45	Activated FGFR:p-FRS2-alpha:p-SHP2	plasma membrane	Reactome DB_ID: 190361	Complex46	
+Complex46	Activated FGFR:p-FRS2alpha	plasma membrane	Reactome DB_ID: 190350	PhysicalEntity3	
+Complex46	Activated FGFR:p-FRS2alpha	plasma membrane	Reactome DB_ID: 190350	Protein97	
+Complex47	Activated FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190430	Protein62	
+Complex47	Activated FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190430	SmallMolecule7	
+Complex47	Activated FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190430	PhysicalEntity4	
+Complex48	Activated FGFR1c homodimer 	plasma membrane	Reactome DB_ID: 190425	Protein68	
+Complex48	Activated FGFR1c homodimer 	plasma membrane	Reactome DB_ID: 190425	SmallMolecule7	
+Complex48	Activated FGFR1c homodimer 	plasma membrane	Reactome DB_ID: 190425	Protein77	
+Complex49	Activated FGFR1c bound to FGF23:Klotho	plasma membrane	Reactome DB_ID: 500333	SmallMolecule7	
+Complex49	Activated FGFR1c bound to FGF23:Klotho	plasma membrane	Reactome DB_ID: 500333	Complex50	
+Complex49	Activated FGFR1c bound to FGF23:Klotho	plasma membrane	Reactome DB_ID: 500333	Protein77	
+Complex5	phospho-SHC: activated insulin receptor	plasma membrane	Reactome DB_ID: 74685	Protein6	
+Complex5	phospho-SHC: activated insulin receptor	plasma membrane	Reactome DB_ID: 74685	Complex1	
+Complex50	Klotho bound to FGF23	plasma membrane	Reactome DB_ID: 190208	Protein76	
+Complex50	Klotho bound to FGF23	plasma membrane	Reactome DB_ID: 190208	Complex51	
+Complex51	Klotho homodimer	plasma membrane	Reactome DB_ID: 190309	Complex52	
+Complex53	Membrane-bound Klotho homodimer	plasma membrane	Reactome DB_ID: 190204	Protein78	
+Complex54	Secreted Klotho homodimer	extracellular region	Reactome DB_ID: 190203	Protein79	
+Complex56	Activated FGFR2b long homodimer 	plasma membrane	Reactome DB_ID: 190411	Protein80	
+Complex56	Activated FGFR2b long homodimer 	plasma membrane	Reactome DB_ID: 190411	SmallMolecule7	
+Complex56	Activated FGFR2b long homodimer 	plasma membrane	Reactome DB_ID: 190411	Protein82	
+Complex57	Activated FGFR2b short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192597	Protein80	
+Complex57	Activated FGFR2b short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192597	SmallMolecule7	
+Complex57	Activated FGFR2b short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192597	Protein83	
+Complex59	Activated FGFR2c long homodimer 	plasma membrane	Reactome DB_ID: 190418	Protein84	
+Complex59	Activated FGFR2c long homodimer 	plasma membrane	Reactome DB_ID: 190418	SmallMolecule7	
+Complex59	Activated FGFR2c long homodimer 	plasma membrane	Reactome DB_ID: 190418	Protein85	
+Complex6	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein11	
+Complex6	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein12	
+Complex60	Activated FGFR2c short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192592	Protein88	
+Complex60	Activated FGFR2c short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192592	SmallMolecule7	
+Complex60	Activated FGFR2c short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192592	Protein85	
+Complex61	Activated FGFR3b homodimer	plasma membrane	Reactome DB_ID: 190380	Protein89	
+Complex61	Activated FGFR3b homodimer	plasma membrane	Reactome DB_ID: 190380	Protein90	
+Complex61	Activated FGFR3b homodimer	plasma membrane	Reactome DB_ID: 190380	SmallMolecule7	
+Complex62	Activated FGFR3c homodimer 	plasma membrane	Reactome DB_ID: 190389	Protein91	
+Complex62	Activated FGFR3c homodimer 	plasma membrane	Reactome DB_ID: 190389	SmallMolecule7	
+Complex62	Activated FGFR3c homodimer 	plasma membrane	Reactome DB_ID: 190389	Protein92	
+Complex63	Activated FGFR4 homodimer	plasma membrane	Reactome DB_ID: 190328	Protein93	
+Complex63	Activated FGFR4 homodimer	plasma membrane	Reactome DB_ID: 190328	SmallMolecule7	
+Complex63	Activated FGFR4 homodimer	plasma membrane	Reactome DB_ID: 190328	Protein95	
+Complex64	Activated FGFR4 bound to FGF19:BetaKlotho	plasma membrane	Reactome DB_ID: 1307958	Protein96	
+Complex64	Activated FGFR4 bound to FGF19:BetaKlotho	plasma membrane	Reactome DB_ID: 1307958	Protein94	
+Complex64	Activated FGFR4 bound to FGF19:BetaKlotho	plasma membrane	Reactome DB_ID: 1307958	Protein95	
+Complex65	PIP3:Phosphorylated PKB complex	plasma membrane	Reactome DB_ID: 162387	Protein101	
+Complex65	PIP3:Phosphorylated PKB complex	plasma membrane	Reactome DB_ID: 162387	SmallMolecule6	
+Complex66	TSC1:TSC2	cytosol	Reactome DB_ID: 165175	Protein102	
+Complex66	TSC1:TSC2	cytosol	Reactome DB_ID: 165175	Protein104	
+Complex67	TSC1:Inhibited TSC2-1-P	cytosol	Reactome DB_ID: 165180	Protein103	
+Complex67	TSC1:Inhibited TSC2-1-P	cytosol	Reactome DB_ID: 165180	Protein104	
+Complex68	Rheb:GDP	cytosol	Reactome DB_ID: 165191	Protein105	
+Complex68	Rheb:GDP	cytosol	Reactome DB_ID: 165191	SmallMolecule4	
+Complex69	Rheb:GTP	cytosol	Reactome DB_ID: 165189	SmallMolecule3	
+Complex69	Rheb:GTP	cytosol	Reactome DB_ID: 165189	Protein105	
+Complex7	GRB2:SOS:Phospho-SHC	cytosol	Reactome DB_ID: 109798	Protein7	
+Complex7	GRB2:SOS:Phospho-SHC	cytosol	Reactome DB_ID: 109798	Complex6	
+Complex70	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Protein106	
+Complex70	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Protein107	
+Complex70	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Complex69	
+Complex70	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Protein108	
+Complex71	eIF4E:4E-BP	cytosol	Reactome DB_ID: 72581	Protein120	
+Complex71	eIF4E:4E-BP	cytosol	Reactome DB_ID: 72581	Protein121	
+Complex72	eIF4E:4E-BP1-P	cytosol	Reactome DB_ID: 165697	Protein121	
+Complex72	eIF4E:4E-BP1-P	cytosol	Reactome DB_ID: 165697	Protein122	
+Complex73	LKB1:STRAD:MO25	cytosol	Reactome DB_ID: 380967	Protein123	
+Complex73	LKB1:STRAD:MO25	cytosol	Reactome DB_ID: 380967	Protein126	
+Complex73	LKB1:STRAD:MO25	cytosol	Reactome DB_ID: 380967	Protein127	
+Complex74	AMPK heterotrimer	cytosol	Reactome DB_ID: 380961	Protein130	
+Complex74	AMPK heterotrimer	cytosol	Reactome DB_ID: 380961	Protein133	
+Complex74	AMPK heterotrimer	cytosol	Reactome DB_ID: 380961	Protein137	
+Complex75	p-AMPK heterotrimer	cytosol	Reactome DB_ID: 380934	Protein130	
+Complex75	p-AMPK heterotrimer	cytosol	Reactome DB_ID: 380934	Protein133	
+Complex75	p-AMPK heterotrimer	cytosol	Reactome DB_ID: 380934	Protein140	
+Complex76	p-AMPK heterotrimer:AMP	cytosol	Reactome DB_ID: 380931	Complex75	
+Complex76	p-AMPK heterotrimer:AMP	cytosol	Reactome DB_ID: 380931	SmallMolecule10	
+Complex77	TSC1:p-S1387-TSC2	cytosol	Reactome DB_ID: 381855	Protein104	
+Complex77	TSC1:p-S1387-TSC2	cytosol	Reactome DB_ID: 381855	Protein145	
+Complex78	PIP3:PDK1 complex	plasma membrane	Reactome DB_ID: 109697	Protein146	
+Complex78	PIP3:PDK1 complex	plasma membrane	Reactome DB_ID: 109697	SmallMolecule6	
+Complex79	PKB:PKB Regulator	cytosol	Reactome DB_ID: 162401	Protein147	
+Complex79	PKB:PKB Regulator	cytosol	Reactome DB_ID: 162401	Protein148	
+Complex8	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	Protein13	
+Complex8	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	SmallMolecule4	
+Complex80	PIP3:AKT2 complex	plasma membrane	Reactome DB_ID: 109696	SmallMolecule6	
+Complex80	PIP3:AKT2 complex	plasma membrane	Reactome DB_ID: 109696	Protein147	
+Complex81	GRB2:SOS:IRS-P	cytosol	Reactome DB_ID: 109800	Protein151	
+Complex81	GRB2:SOS:IRS-P	cytosol	Reactome DB_ID: 109800	Complex6	
+Complex82	GRB2:phospho-SHC	cytosol	Reactome DB_ID: 109799	Protein12	
+Complex82	GRB2:phospho-SHC	cytosol	Reactome DB_ID: 109799	Protein7	
+Complex83	GRB2:IRS-P	cytosol	Reactome DB_ID: 109801	Protein12	
+Complex83	GRB2:IRS-P	cytosol	Reactome DB_ID: 109801	Protein151	
+Complex84	Crk:SOS:IRS-P	cytosol	Reactome DB_ID: 109811	Complex85	
+Complex84	Crk:SOS:IRS-P	cytosol	Reactome DB_ID: 109811	Protein151	
+Complex85	Crk:SOS	cytosol	Reactome DB_ID: 109810	Protein154	
+Complex85	Crk:SOS	cytosol	Reactome DB_ID: 109810	Protein11	
+Complex86	Crk:IRS-P	cytosol	Reactome DB_ID: 109812	Protein154	
+Complex86	Crk:IRS-P	cytosol	Reactome DB_ID: 109812	Protein151	
+Complex87	GRB10:INSR	plasma membrane	Reactome DB_ID: 110010	Complex1	
+Complex87	GRB10:INSR	plasma membrane	Reactome DB_ID: 110010	Protein155	
+Complex9	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule3	
+Complex9	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein13	

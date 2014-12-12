@@ -1,0 +1,30 @@
+BiochemicalReaction1	Synthesis of GAG polyprotein	Rna1	Protein1	
+BiochemicalReaction10	Transport of trimeric ENV precursor to Golgi apparatus	Complex5	Complex6	
+BiochemicalReaction11	Cleavage of the viral Env gp160 precursor polyprotein	Complex6	Complex7	
+BiochemicalReaction12	Transport of trimeric gp41:gp120 to plasma membrane	Complex7	Complex10	
+BiochemicalReaction13	Synthesis of VPU protein	Rna3	Protein62	
+BiochemicalReaction14	Transport of VPU to Golgi apparatus	Protein62	Protein63	
+BiochemicalReaction15	Transport of VPU to Plasma Membrane	Protein63	Protein64	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein65	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Complex10	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein66	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein64	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein67	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein68	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Complex11	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	PhysicalEntity1	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein69	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Protein70	Complex12	
+BiochemicalReaction16	Packaging of HIV virion on the host cell plasma membrane	Complex4	Complex12	
+BiochemicalReaction2	N-myristoylation of GAG polyprotein by NMT2	SmallMolecule1	Protein2	
+BiochemicalReaction2	N-myristoylation of GAG polyprotein by NMT2	Protein1	Protein2	
+BiochemicalReaction2	N-myristoylation of GAG polyprotein by NMT2	Protein1	SmallMolecule2	
+BiochemicalReaction2	N-myristoylation of GAG polyprotein by NMT2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Monoubiquitination of N-myristoyl GAG polyprotein	Protein4	Complex1	
+BiochemicalReaction3	Monoubiquitination of N-myristoyl GAG polyprotein	Protein2	Complex1	
+BiochemicalReaction4	Monoubiquitinated N-myristoyl GAG polyprotein is targeted to the late endosomal vesicle membrane by the ESCRT-I complex	Complex1	Complex2	
+BiochemicalReaction5	Transport of GAG to the Plasma Membrane	Complex2	Complex4	
+BiochemicalReaction6	Splicing of HIV RNA transcript	Rna2	Rna3	
+BiochemicalReaction7	Synthesis of ENV polyprotein	Rna3	Protein57	
+BiochemicalReaction8	Glycosylation of ENV polyprotein	Protein57	Protein57	
+BiochemicalReaction9	Folding and Oligomerization of ENV glycoprotein	Protein57	Complex5	

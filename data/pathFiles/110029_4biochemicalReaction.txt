@@ -1,0 +1,14 @@
+BiochemicalReaction1	p-RAF binds 14-3-3 beta/alpha	Protein1	Complex1	
+BiochemicalReaction1	p-RAF binds 14-3-3 beta/alpha	Protein2	Complex1	
+BiochemicalReaction2	Transient dissociation of 14-3-3 upon Ras binding	Complex1	Complex3	
+BiochemicalReaction2	Transient dissociation of 14-3-3 upon Ras binding	Complex2	Complex3	
+BiochemicalReaction2	Transient dissociation of 14-3-3 upon Ras binding	Complex2	Protein1	
+BiochemicalReaction2	Transient dissociation of 14-3-3 upon Ras binding	Complex1	Protein1	
+BiochemicalReaction3	Stabilisation of RAS:RAF by 14-3-3	Complex3	Complex4	
+BiochemicalReaction3	Stabilisation of RAS:RAF by 14-3-3	Protein1	Complex4	
+BiochemicalReaction4	Stabilisation of RAF by further phosphorylation	SmallMolecule2	Complex5	
+BiochemicalReaction4	Stabilisation of RAF by further phosphorylation	Complex4	Complex5	
+BiochemicalReaction4	Stabilisation of RAF by further phosphorylation	Complex4	SmallMolecule3	
+BiochemicalReaction4	Stabilisation of RAF by further phosphorylation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein2	Complex7	
+BiochemicalReaction5	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex6	Complex7	

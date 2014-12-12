@@ -1,0 +1,18 @@
+BiochemicalReaction1	Ral-GDS binds to Ras-GTP	Protein1	Complex2	
+BiochemicalReaction1	Ral-GDS binds to Ras-GTP	Complex1	Complex2	
+BiochemicalReaction2	Guanine nucleotide exchange on RAL	SmallMolecule1	Complex6	
+BiochemicalReaction2	Guanine nucleotide exchange on RAL	Complex3	Complex6	
+BiochemicalReaction2	Guanine nucleotide exchange on RAL	Complex3	SmallMolecule2	
+BiochemicalReaction2	Guanine nucleotide exchange on RAL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Activation of SRC by RAL-GTP	Protein8	Complex3	
+BiochemicalReaction3	Activation of SRC by RAL-GTP	Complex6	Complex3	
+BiochemicalReaction3	Activation of SRC by RAL-GTP	Complex6	Protein9	
+BiochemicalReaction3	Activation of SRC by RAL-GTP	Protein8	Protein9	
+BiochemicalReaction4	Binding and activation of MAP Kinase	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction4	Binding and activation of MAP Kinase	Complex9	SmallMolecule5	
+BiochemicalReaction4	Binding and activation of MAP Kinase	Complex9	Complex10	
+BiochemicalReaction4	Binding and activation of MAP Kinase	SmallMolecule3	Complex10	
+BiochemicalReaction5	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	Protein18	Protein21	
+BiochemicalReaction5	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	SmallMolecule3	Protein21	
+BiochemicalReaction5	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction5	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	Protein18	SmallMolecule5	

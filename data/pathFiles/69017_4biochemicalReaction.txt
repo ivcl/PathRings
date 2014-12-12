@@ -1,0 +1,9 @@
+BiochemicalReaction1	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Cdc6 protein is phosphorylated by CDK	Protein1	SmallMolecule2	
+BiochemicalReaction1	Cdc6 protein is phosphorylated by CDK	Protein1	Protein2	
+BiochemicalReaction1	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	Protein2	
+BiochemicalReaction2	Phosphorylated Cdc6 is exported from the nucleus	Protein2	Protein4	
+BiochemicalReaction3	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein5	Complex2	
+BiochemicalReaction3	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein4	Complex2	
+BiochemicalReaction3	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule3	Complex2	
+BiochemicalReaction4	Ubiquitinated Cdc6 is degraded by the proteasome	Complex2	Protein5	

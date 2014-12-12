@@ -1,0 +1,31 @@
+BiochemicalReaction1	Transport of Choline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Transport of Choline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Transport of Choline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Transport of Choline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Synthesis of o-acetylcholine	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction2	Synthesis of o-acetylcholine	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	Synthesis of o-acetylcholine	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	Synthesis of o-acetylcholine	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction3	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction3	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction3	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction4	Loading of acetylcholine in synaptic vesicle	SmallMolecule10	SmallMolecule8	
+BiochemicalReaction4	Loading of acetylcholine in synaptic vesicle	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	Loading of acetylcholine in synaptic vesicle	Complex1	SmallMolecule8	
+BiochemicalReaction4	Loading of acetylcholine in synaptic vesicle	Complex1	Complex2	
+BiochemicalReaction4	Loading of acetylcholine in synaptic vesicle	SmallMolecule6	Complex2	
+BiochemicalReaction4	Loading of acetylcholine in synaptic vesicle	SmallMolecule10	Complex2	
+BiochemicalReaction5	Acetylcholine synaptic vesicle docking and priming	Protein7	Complex3	
+BiochemicalReaction5	Acetylcholine synaptic vesicle docking and priming	Protein8	Complex3	
+BiochemicalReaction5	Acetylcholine synaptic vesicle docking and priming	Protein9	Complex3	
+BiochemicalReaction5	Acetylcholine synaptic vesicle docking and priming	Complex2	Complex3	
+BiochemicalReaction5	Acetylcholine synaptic vesicle docking and priming	Protein10	Complex3	
+BiochemicalReaction5	Acetylcholine synaptic vesicle docking and priming	Protein11	Complex3	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	Protein12	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	Complex4	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	Protein9	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	Protein10	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	Complex5	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	Protein15	
+BiochemicalReaction6	Release of acetylcholine at the synapse	Complex3	SmallMolecule13	

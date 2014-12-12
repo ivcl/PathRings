@@ -1,0 +1,9 @@
+BiochemicalReaction1	Interaction of exogenous soluble antigen with its corresponding receptor	PhysicalEntity1	Complex1	
+BiochemicalReaction1	Interaction of exogenous soluble antigen with its corresponding receptor	PhysicalEntity2	Complex1	
+BiochemicalReaction2	Internalization of receptor bound antigen into clathrin coted vesicles	Complex1	Complex2	
+BiochemicalReaction3	Movement of clathrin coated vesicles into early endosome	Complex2	Complex3	
+BiochemicalReaction4	Exogenous soluble antigen targeted to more stable early endosome	Complex3	PhysicalEntity7	
+BiochemicalReaction4	Exogenous soluble antigen targeted to more stable early endosome	Complex3	PhysicalEntity6	
+BiochemicalReaction5	Egress of internalized antigen into cytosol from early endosome	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction6	Proteasomal clevage of exogenous antigen	PhysicalEntity8	SmallMolecule1	
+BiochemicalReaction6	Proteasomal clevage of exogenous antigen	PhysicalEntity8	PhysicalEntity9	

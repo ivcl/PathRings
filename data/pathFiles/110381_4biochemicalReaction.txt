@@ -1,0 +1,48 @@
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Complex1	Protein1	
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Protein2	Protein1	
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction1	Displacement of UNG2 glycosylase by  APE1 at the AP site	Complex1	Complex2	
+BiochemicalReaction10	Recruitment of POL Beta to the AP site	Complex10	Complex11	
+BiochemicalReaction10	Recruitment of POL Beta to the AP site	Protein10	Complex11	
+BiochemicalReaction11	Excision of  the abasic sugar phosphate (dRP) residue at the strand break 	Complex11	SmallMolecule1	
+BiochemicalReaction11	Excision of  the abasic sugar phosphate (dRP) residue at the strand break 	Complex11	Complex12	
+BiochemicalReaction11	Excision of  the abasic sugar phosphate (dRP) residue at the strand break 	Complex11	Protein2	
+BiochemicalReaction12	Recruitment  of  LIG3:XRRC1 complex to the site of repair by POL Beta	Complex12	Complex14	
+BiochemicalReaction12	Recruitment  of  LIG3:XRRC1 complex to the site of repair by POL Beta	Complex13	Complex14	
+BiochemicalReaction13	Resynthesis of excised residue	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction13	Resynthesis of excised residue	Complex14	SmallMolecule3	
+BiochemicalReaction13	Resynthesis of excised residue	Complex14	Complex15	
+BiochemicalReaction13	Resynthesis of excised residue	SmallMolecule2	Complex15	
+BiochemicalReaction14	DNA ligation via the single-nucleotide replacement pathway	Complex15	Complex16	
+BiochemicalReaction15	Dissociation of LIG3:XRCC1 complex from site of BER	Complex16	PhysicalEntity5	
+BiochemicalReaction15	Dissociation of LIG3:XRCC1 complex from site of BER	Complex16	Protein10	
+BiochemicalReaction15	Dissociation of LIG3:XRCC1 complex from site of BER	Complex16	Complex13	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Complex3	Protein3	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Protein2	Protein3	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction2	Displacement of TDG glycosylase by APE1 at the AP site	Complex3	Complex2	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Complex4	Complex2	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Protein2	Protein4	
+BiochemicalReaction3	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Complex4	Protein4	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Complex5	Protein5	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Protein2	Protein5	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction4	Displacement of hNTH1 glycosylase by APE1 at the AP site	Complex5	Complex2	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Complex6	Protein6	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Protein2	Protein6	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction5	Displacement of MBD4 glycosylase by APE1 at the AP site	Complex6	Complex2	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Complex7	Protein7	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Protein2	Protein7	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction6	Displacement of hOGG1 glycosylase by APE1 at the AP site	Complex7	Complex2	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Complex8	Protein8	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Protein2	Protein8	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction7	Displacement of MYH glycosylase by APE1 at the AP site	Complex8	Complex2	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Complex9	Protein9	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Protein2	Protein9	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Protein2	Complex2	
+BiochemicalReaction8	Displacement of  MPG glycosylase by APE1 at the AP site	Complex9	Complex2	
+BiochemicalReaction9	APE1 mediated endonucleolytic cleavage at the 5' side of the base-free deoxyribose residue 	Complex2	Complex10	

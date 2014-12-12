@@ -1,0 +1,49 @@
+BiochemicalReaction1	cGAS binds cytosolic DNA	Protein1	Complex1	
+BiochemicalReaction1	cGAS binds cytosolic DNA	PhysicalEntity1	Complex1	
+BiochemicalReaction10	IRF3 is phosphorylated by TBK1	Complex13	SmallMolecule8	
+BiochemicalReaction10	IRF3 is phosphorylated by TBK1	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction10	IRF3 is phosphorylated by TBK1	SmallMolecule2	Complex14	
+BiochemicalReaction10	IRF3 is phosphorylated by TBK1	Complex13	Complex14	
+BiochemicalReaction10	IRF3 is phosphorylated by TBK1	SmallMolecule2	Protein15	
+BiochemicalReaction10	IRF3 is phosphorylated by TBK1	Complex13	Protein15	
+BiochemicalReaction11	p-T,4S-IRF3 is dimerized	Protein15	Complex20	
+BiochemicalReaction12	Dimerized phospho-IRF3 migrates to the nucleus	Complex20	Complex21	
+BiochemicalReaction13	STING recruits TBK1 and STAT6	Protein7	Complex22	
+BiochemicalReaction13	STING recruits TBK1 and STAT6	Complex6	Complex22	
+BiochemicalReaction13	STING recruits TBK1 and STAT6	Protein20	Complex22	
+BiochemicalReaction14	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	Complex22	SmallMolecule8	
+BiochemicalReaction14	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction14	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	SmallMolecule2	Complex23	
+BiochemicalReaction14	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	Complex22	Complex23	
+BiochemicalReaction15	TBK1 phosphorylates STAT6 at Ser407	Complex23	SmallMolecule8	
+BiochemicalReaction15	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction15	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule2	Protein21	
+BiochemicalReaction15	TBK1 phosphorylates STAT6 at Ser407	Complex23	Protein21	
+BiochemicalReaction15	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule2	Complex14	
+BiochemicalReaction15	TBK1 phosphorylates STAT6 at Ser407	Complex23	Complex14	
+BiochemicalReaction16	p-S407-STAT6 is phosphorylated at Tyr641	Protein21	SmallMolecule8	
+BiochemicalReaction16	p-S407-STAT6 is phosphorylated at Tyr641	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction16	p-S407-STAT6 is phosphorylated at Tyr641	SmallMolecule2	Protein22	
+BiochemicalReaction16	p-S407-STAT6 is phosphorylated at Tyr641	Protein21	Protein22	
+BiochemicalReaction17	p-S407,Y641-STAT6 is dimerized	Protein22	Complex24	
+BiochemicalReaction18	p-S407,Y641-STAT6 dimer migrates to the nucleus	Complex24	Complex25	
+BiochemicalReaction2	cGAS produces cyclic GMP-AMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	cGAS produces cyclic GMP-AMP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	cGAS produces cyclic GMP-AMP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	cGAS produces cyclic GMP-AMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	IFI16 binds cytosolic dsDNA	PhysicalEntity2	Complex2	
+BiochemicalReaction3	IFI16 binds cytosolic dsDNA	Protein2	Complex2	
+BiochemicalReaction4	DDX41 binds dsDNA or c-di-NMP	PhysicalEntity5	Complex3	
+BiochemicalReaction4	DDX41 binds dsDNA or c-di-NMP	Protein3	Complex3	
+BiochemicalReaction5	STING dimerization	Protein5	Complex4	
+BiochemicalReaction6	STING binds c-di-GMP	Complex4	Complex5	
+BiochemicalReaction6	STING binds c-di-GMP	SmallMolecule5	Complex5	
+BiochemicalReaction7	STING binds cyclic GMP-AMP	Complex4	Complex7	
+BiochemicalReaction7	STING binds cyclic GMP-AMP	SmallMolecule3	Complex7	
+BiochemicalReaction8	STING recruits TBK1 and IRF3	Protein7	Complex8	
+BiochemicalReaction8	STING recruits TBK1 and IRF3	Complex6	Complex8	
+BiochemicalReaction8	STING recruits TBK1 and IRF3	Protein8	Complex8	
+BiochemicalReaction9	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	Complex8	SmallMolecule8	
+BiochemicalReaction9	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction9	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	SmallMolecule2	Complex13	
+BiochemicalReaction9	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	Complex8	Complex13	

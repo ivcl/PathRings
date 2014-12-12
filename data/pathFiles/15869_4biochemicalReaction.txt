@@ -1,0 +1,536 @@
+BiochemicalReaction1	Formation of phosphoribosyl pyrophosphate amidotransferase tetramer	Complex1	Complex2	
+BiochemicalReaction10	SAICAR => AICAR + Fumarate	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction10	SAICAR => AICAR + Fumarate	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction100	adenosine 5'-diphosphate (cytosolic) <=> adenosine 5'-diphosphate (nuclear)	SmallMolecule15	SmallMolecule209	
+BiochemicalReaction101	cytidine 5'-diphosphate (cytosolic) <=> cytidine 5'-diphosphate (nuclear)	SmallMolecule190	SmallMolecule211	
+BiochemicalReaction102	guanosine 5'-diphosphate (cytosolic) <=> guanosine 5'-diphosphate (nuclear)	SmallMolecule35	SmallMolecule210	
+BiochemicalReaction103	uridine 5'-diphosphate (cytosolic) <=> uridine 5'-diphosphate (nuclear)	SmallMolecule197	SmallMolecule212	
+BiochemicalReaction104	ITP + H2O => IMP + PPi	SmallMolecule243	SmallMolecule4	
+BiochemicalReaction104	ITP + H2O => IMP + PPi	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction104	ITP + H2O => IMP + PPi	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction104	ITP + H2O => IMP + PPi	SmallMolecule243	SmallMolecule11	
+BiochemicalReaction105	dITP + H2O => dIMP + PPi	SmallMolecule244	SmallMolecule91	
+BiochemicalReaction105	dITP + H2O => dIMP + PPi	SmallMolecule8	SmallMolecule91	
+BiochemicalReaction105	dITP + H2O => dIMP + PPi	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction105	dITP + H2O => dIMP + PPi	SmallMolecule244	SmallMolecule11	
+BiochemicalReaction106	XTP + H2O => XMP + PPi	SmallMolecule245	SmallMolecule11	
+BiochemicalReaction106	XTP + H2O => XMP + PPi	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction106	XTP + H2O => XMP + PPi	SmallMolecule8	SmallMolecule31	
+BiochemicalReaction106	XTP + H2O => XMP + PPi	SmallMolecule245	SmallMolecule31	
+BiochemicalReaction107	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule247	
+BiochemicalReaction107	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule246	SmallMolecule247	
+BiochemicalReaction107	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule246	SmallMolecule11	
+BiochemicalReaction107	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction108	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule247	
+BiochemicalReaction108	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule246	SmallMolecule247	
+BiochemicalReaction108	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule246	SmallMolecule11	
+BiochemicalReaction108	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction109	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule248	SmallMolecule14	
+BiochemicalReaction109	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction109	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule247	
+BiochemicalReaction109	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule248	SmallMolecule247	
+BiochemicalReaction11	AICAR + 10-Formyl-THF => FAICAR + THF	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction11	AICAR + 10-Formyl-THF => FAICAR + THF	SmallMolecule26	SmallMolecule18	
+BiochemicalReaction11	AICAR + 10-Formyl-THF => FAICAR + THF	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction11	AICAR + 10-Formyl-THF => FAICAR + THF	SmallMolecule17	SmallMolecule28	
+BiochemicalReaction110	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule248	SmallMolecule14	
+BiochemicalReaction110	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction110	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule8	SmallMolecule247	
+BiochemicalReaction110	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule248	SmallMolecule247	
+BiochemicalReaction111	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule249	SmallMolecule14	
+BiochemicalReaction111	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction111	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule8	SmallMolecule250	
+BiochemicalReaction111	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule249	SmallMolecule250	
+BiochemicalReaction112	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule251	SmallMolecule11	
+BiochemicalReaction112	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction112	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule8	SmallMolecule252	
+BiochemicalReaction112	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule251	SmallMolecule252	
+BiochemicalReaction113	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule253	SmallMolecule254	
+BiochemicalReaction113	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule8	SmallMolecule254	
+BiochemicalReaction113	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction113	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule253	SmallMolecule11	
+BiochemicalReaction114	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule255	SmallMolecule14	
+BiochemicalReaction114	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction114	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule8	SmallMolecule256	
+BiochemicalReaction114	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule255	SmallMolecule256	
+BiochemicalReaction115	dIDP + H2O => dIMP + Pi	SmallMolecule257	SmallMolecule258	
+BiochemicalReaction115	dIDP + H2O => dIMP + Pi	SmallMolecule120	SmallMolecule258	
+BiochemicalReaction115	dIDP + H2O => dIMP + Pi	SmallMolecule120	SmallMolecule259	
+BiochemicalReaction115	dIDP + H2O => dIMP + Pi	SmallMolecule257	SmallMolecule259	
+BiochemicalReaction116	IDP + H2O => IMP + Pi	SmallMolecule261	SmallMolecule259	
+BiochemicalReaction116	IDP + H2O => IMP + Pi	SmallMolecule120	SmallMolecule259	
+BiochemicalReaction116	IDP + H2O => IMP + Pi	SmallMolecule120	SmallMolecule262	
+BiochemicalReaction116	IDP + H2O => IMP + Pi	SmallMolecule261	SmallMolecule262	
+BiochemicalReaction117	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule8	SmallMolecule3	
+BiochemicalReaction117	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule263	SmallMolecule3	
+BiochemicalReaction117	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule263	SmallMolecule264	
+BiochemicalReaction117	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule8	SmallMolecule264	
+BiochemicalReaction118	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule153	SmallMolecule266	
+BiochemicalReaction118	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule265	SmallMolecule266	
+BiochemicalReaction118	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule265	SmallMolecule267	
+BiochemicalReaction118	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule153	SmallMolecule267	
+BiochemicalReaction12	FAICAR => IMP + H2O	SmallMolecule28	SmallMolecule4	
+BiochemicalReaction12	FAICAR => IMP + H2O	SmallMolecule28	SmallMolecule8	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule4	SmallMolecule30	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule29	SmallMolecule30	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule8	SmallMolecule30	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule8	SmallMolecule31	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule29	SmallMolecule31	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule4	SmallMolecule31	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule8	SmallMolecule32	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule29	SmallMolecule32	
+BiochemicalReaction13	IMP + H2O + NAD+ => XMP + NADH + H+ [IMPDH1,2]	SmallMolecule4	SmallMolecule32	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule13	SmallMolecule5	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule31	SmallMolecule5	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule31	SmallMolecule10	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule8	SmallMolecule3	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule31	SmallMolecule3	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule13	SmallMolecule3	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule31	SmallMolecule11	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule13	SmallMolecule11	
+BiochemicalReaction14	XMP + L-Glutamine + ATP + H2O => GMP + L-Glutamate + AMP + pyrophosphate	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule33	SmallMolecule14	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule24	SmallMolecule14	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule4	SmallMolecule34	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule24	SmallMolecule34	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule4	SmallMolecule35	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule24	SmallMolecule35	
+BiochemicalReaction15	IMP + L-Aspartate + GTP => Adenylosuccinate + GDP + Pi [ADSS]	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction16	Adenylosuccinate => AMP + Fumarate	SmallMolecule34	SmallMolecule27	
+BiochemicalReaction16	Adenylosuccinate => AMP + Fumarate	SmallMolecule34	SmallMolecule3	
+BiochemicalReaction17	(2'-deoxy)adenosine + H2O => (2'-deoxy)inosine + NH3 [ADA]	SmallMolecule8	SmallMolecule41	
+BiochemicalReaction17	(2'-deoxy)adenosine + H2O => (2'-deoxy)inosine + NH3 [ADA]	SmallMolecule38	SmallMolecule41	
+BiochemicalReaction17	(2'-deoxy)adenosine + H2O => (2'-deoxy)inosine + NH3 [ADA]	SmallMolecule38	SmallMolecule42	
+BiochemicalReaction17	(2'-deoxy)adenosine + H2O => (2'-deoxy)inosine + NH3 [ADA]	SmallMolecule8	SmallMolecule42	
+BiochemicalReaction18	(2'-deoxy)adenosine + ATP => (d)AMP + ADP [ADK]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction18	(2'-deoxy)adenosine + ATP => (d)AMP + ADP [ADK]	SmallMolecule38	SmallMolecule15	
+BiochemicalReaction18	(2'-deoxy)adenosine + ATP => (d)AMP + ADP [ADK]	SmallMolecule38	SmallMolecule45	
+BiochemicalReaction18	(2'-deoxy)adenosine + ATP => (d)AMP + ADP [ADK]	SmallMolecule13	SmallMolecule45	
+BiochemicalReaction19	deoxyadenosine or deoxyguanosine + ATP => dAMP or dGMP + ADP [DCK]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction19	deoxyadenosine or deoxyguanosine + ATP => dAMP or dGMP + ADP [DCK]	SmallMolecule47	SmallMolecule15	
+BiochemicalReaction19	deoxyadenosine or deoxyguanosine + ATP => dAMP or dGMP + ADP [DCK]	SmallMolecule47	SmallMolecule49	
+BiochemicalReaction19	deoxyadenosine or deoxyguanosine + ATP => dAMP or dGMP + ADP [DCK]	SmallMolecule13	SmallMolecule49	
+BiochemicalReaction2	Dissociation of phosphoribosyl pyrophosphate amidotransferase tetramer	Complex2	Complex1	
+BiochemicalReaction20	dA, dG, or dI + ATP => dAMP, dGMP, or dIMP + ADP [DGUOK]	SmallMolecule51	SmallMolecule56	
+BiochemicalReaction20	dA, dG, or dI + ATP => dAMP, dGMP, or dIMP + ADP [DGUOK]	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction20	dA, dG, or dI + ATP => dAMP, dGMP, or dIMP + ADP [DGUOK]	SmallMolecule55	SmallMolecule60	
+BiochemicalReaction20	dA, dG, or dI + ATP => dAMP, dGMP, or dIMP + ADP [DGUOK]	SmallMolecule51	SmallMolecule60	
+BiochemicalReaction21	AMP + H2O => IMP + NH3 [AMPD]	SmallMolecule3	SmallMolecule61	
+BiochemicalReaction21	AMP + H2O => IMP + NH3 [AMPD]	SmallMolecule8	SmallMolecule61	
+BiochemicalReaction21	AMP + H2O => IMP + NH3 [AMPD]	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction21	AMP + H2O => IMP + NH3 [AMPD]	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction22	N6-methyl-AMP + H2O => IMP + methylamine	SmallMolecule62	SmallMolecule63	
+BiochemicalReaction22	N6-methyl-AMP + H2O => IMP + methylamine	SmallMolecule8	SmallMolecule63	
+BiochemicalReaction22	N6-methyl-AMP + H2O => IMP + methylamine	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction22	N6-methyl-AMP + H2O => IMP + methylamine	SmallMolecule62	SmallMolecule4	
+BiochemicalReaction23	guanine + (deoxy)ribose 1-phosphate <=> (deoxy)guanosine + orthophosphate [NP]	SmallMolecule65	SmallMolecule14	
+BiochemicalReaction23	guanine + (deoxy)ribose 1-phosphate <=> (deoxy)guanosine + orthophosphate [NP]	SmallMolecule68	SmallMolecule14	
+BiochemicalReaction23	guanine + (deoxy)ribose 1-phosphate <=> (deoxy)guanosine + orthophosphate [NP]	SmallMolecule68	SmallMolecule69	
+BiochemicalReaction23	guanine + (deoxy)ribose 1-phosphate <=> (deoxy)guanosine + orthophosphate [NP]	SmallMolecule65	SmallMolecule69	
+BiochemicalReaction24	hypoxanthine + (deoxy)ribose 1-phosphate <=> (deoxy)inosine + orthophosphate [NP]	SmallMolecule65	SmallMolecule14	
+BiochemicalReaction24	hypoxanthine + (deoxy)ribose 1-phosphate <=> (deoxy)inosine + orthophosphate [NP]	SmallMolecule71	SmallMolecule14	
+BiochemicalReaction24	hypoxanthine + (deoxy)ribose 1-phosphate <=> (deoxy)inosine + orthophosphate [NP]	SmallMolecule71	SmallMolecule42	
+BiochemicalReaction24	hypoxanthine + (deoxy)ribose 1-phosphate <=> (deoxy)inosine + orthophosphate [NP]	SmallMolecule65	SmallMolecule42	
+BiochemicalReaction25	Adenine + PRPP => AMP + PPi	SmallMolecule72	SmallMolecule3	
+BiochemicalReaction25	Adenine + PRPP => AMP + PPi	SmallMolecule6	SmallMolecule3	
+BiochemicalReaction25	Adenine + PRPP => AMP + PPi	SmallMolecule6	SmallMolecule11	
+BiochemicalReaction25	Adenine + PRPP => AMP + PPi	SmallMolecule72	SmallMolecule11	
+BiochemicalReaction26	guanine or hypoxanthine + PRPP => GMP or IMP + PPi [HPRT1]	SmallMolecule73	SmallMolecule74	
+BiochemicalReaction26	guanine or hypoxanthine + PRPP => GMP or IMP + PPi [HPRT1]	SmallMolecule6	SmallMolecule74	
+BiochemicalReaction26	guanine or hypoxanthine + PRPP => GMP or IMP + PPi [HPRT1]	SmallMolecule6	SmallMolecule11	
+BiochemicalReaction26	guanine or hypoxanthine + PRPP => GMP or IMP + PPi [HPRT1]	SmallMolecule73	SmallMolecule11	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule30	SmallMolecule76	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule5	SmallMolecule76	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule5	SmallMolecule61	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule30	SmallMolecule61	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule75	SmallMolecule61	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule30	SmallMolecule4	
+BiochemicalReaction27	GMP + NADPH + H+ => IMP + NADP+ + NH4+ [GMPR,GMPR2]	SmallMolecule75	SmallMolecule4	
+BiochemicalReaction28	AMP, dAMP, GMP, or IMP + H2O => adenosine, deoxyadenosine, guanosine, or inosine + orthophosphate [NT5E]	SmallMolecule77	SmallMolecule83	
+BiochemicalReaction28	AMP, dAMP, GMP, or IMP + H2O => adenosine, deoxyadenosine, guanosine, or inosine + orthophosphate [NT5E]	SmallMolecule82	SmallMolecule83	
+BiochemicalReaction28	AMP, dAMP, GMP, or IMP + H2O => adenosine, deoxyadenosine, guanosine, or inosine + orthophosphate [NT5E]	SmallMolecule82	SmallMolecule84	
+BiochemicalReaction28	AMP, dAMP, GMP, or IMP + H2O => adenosine, deoxyadenosine, guanosine, or inosine + orthophosphate [NT5E]	SmallMolecule77	SmallMolecule84	
+BiochemicalReaction29	(d)GMP or (d)IMP + H2O => (2'-deoxy)guanosine or (2'-deoxy)inosine + orthophosphate [NT5C2]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction29	(d)GMP or (d)IMP + H2O => (2'-deoxy)guanosine or (2'-deoxy)inosine + orthophosphate [NT5C2]	SmallMolecule90	SmallMolecule14	
+BiochemicalReaction29	(d)GMP or (d)IMP + H2O => (2'-deoxy)guanosine or (2'-deoxy)inosine + orthophosphate [NT5C2]	SmallMolecule90	SmallMolecule92	
+BiochemicalReaction29	(d)GMP or (d)IMP + H2O => (2'-deoxy)guanosine or (2'-deoxy)inosine + orthophosphate [NT5C2]	SmallMolecule8	SmallMolecule92	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule6	SmallMolecule11	
+BiochemicalReaction3	PRPP + H2O + L-Glutamine => 5-Phosphoribosylamine + L-Glutamate + PPi	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction30	AMP + H2O => adenosine + orthophosphate [NT5C1B]	SmallMolecule3	SmallMolecule14	
+BiochemicalReaction30	AMP + H2O => adenosine + orthophosphate [NT5C1B]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction30	AMP + H2O => adenosine + orthophosphate [NT5C1B]	SmallMolecule8	SmallMolecule39	
+BiochemicalReaction30	AMP + H2O => adenosine + orthophosphate [NT5C1B]	SmallMolecule3	SmallMolecule39	
+BiochemicalReaction31	(2'-deoxy)purine nucleoside 5'-monophosphate + H2O => (2'-deoxy)purine nucleoside + orthophosphate [NT5C1A]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction31	(2'-deoxy)purine nucleoside 5'-monophosphate + H2O => (2'-deoxy)purine nucleoside + orthophosphate [NT5C1A]	SmallMolecule93	SmallMolecule14	
+BiochemicalReaction31	(2'-deoxy)purine nucleoside 5'-monophosphate + H2O => (2'-deoxy)purine nucleoside + orthophosphate [NT5C1A]	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction31	(2'-deoxy)purine nucleoside 5'-monophosphate + H2O => (2'-deoxy)purine nucleoside + orthophosphate [NT5C1A]	SmallMolecule8	SmallMolecule94	
+BiochemicalReaction32	(d)GMP or (d)IMP + H2O => (d)G or (d)I + orthophosphate [NT5C]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction32	(d)GMP or (d)IMP + H2O => (d)G or (d)I + orthophosphate [NT5C]	SmallMolecule90	SmallMolecule14	
+BiochemicalReaction32	(d)GMP or (d)IMP + H2O => (d)G or (d)I + orthophosphate [NT5C]	SmallMolecule90	SmallMolecule92	
+BiochemicalReaction32	(d)GMP or (d)IMP + H2O => (d)G or (d)I + orthophosphate [NT5C]	SmallMolecule8	SmallMolecule92	
+BiochemicalReaction33	(deoxy)guanosine + orthophosphate <=> guanine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule14	SmallMolecule65	
+BiochemicalReaction33	(deoxy)guanosine + orthophosphate <=> guanine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule69	SmallMolecule65	
+BiochemicalReaction33	(deoxy)guanosine + orthophosphate <=> guanine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule69	SmallMolecule68	
+BiochemicalReaction33	(deoxy)guanosine + orthophosphate <=> guanine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule14	SmallMolecule68	
+BiochemicalReaction34	(deoxy)inosine + orthophosphate <=> hypoxanthine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule14	SmallMolecule65	
+BiochemicalReaction34	(deoxy)inosine + orthophosphate <=> hypoxanthine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule42	SmallMolecule65	
+BiochemicalReaction34	(deoxy)inosine + orthophosphate <=> hypoxanthine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule42	SmallMolecule71	
+BiochemicalReaction34	(deoxy)inosine + orthophosphate <=> hypoxanthine + (deoxy)ribose 1-phosphate [NP]	SmallMolecule14	SmallMolecule71	
+BiochemicalReaction35	Guanine + H2O => Xanthine + NH3	SmallMolecule68	SmallMolecule41	
+BiochemicalReaction35	Guanine + H2O => Xanthine + NH3	SmallMolecule8	SmallMolecule41	
+BiochemicalReaction35	Guanine + H2O => Xanthine + NH3	SmallMolecule8	SmallMolecule95	
+BiochemicalReaction35	Guanine + H2O => Xanthine + NH3	SmallMolecule68	SmallMolecule95	
+BiochemicalReaction36	Hypoxanthine + H2O + O2 => Xanthine + H2O2	SmallMolecule96	SmallMolecule97	
+BiochemicalReaction36	Hypoxanthine + H2O + O2 => Xanthine + H2O2	SmallMolecule71	SmallMolecule97	
+BiochemicalReaction36	Hypoxanthine + H2O + O2 => Xanthine + H2O2	SmallMolecule8	SmallMolecule97	
+BiochemicalReaction36	Hypoxanthine + H2O + O2 => Xanthine + H2O2	SmallMolecule8	SmallMolecule95	
+BiochemicalReaction36	Hypoxanthine + H2O + O2 => Xanthine + H2O2	SmallMolecule71	SmallMolecule95	
+BiochemicalReaction36	Hypoxanthine + H2O + O2 => Xanthine + H2O2	SmallMolecule96	SmallMolecule95	
+BiochemicalReaction37	Xanthine + H2O + O2 => Urate + H2O2	SmallMolecule95	SmallMolecule97	
+BiochemicalReaction37	Xanthine + H2O + O2 => Urate + H2O2	SmallMolecule96	SmallMolecule97	
+BiochemicalReaction37	Xanthine + H2O + O2 => Urate + H2O2	SmallMolecule8	SmallMolecule97	
+BiochemicalReaction37	Xanthine + H2O + O2 => Urate + H2O2	SmallMolecule8	SmallMolecule100	
+BiochemicalReaction37	Xanthine + H2O + O2 => Urate + H2O2	SmallMolecule96	SmallMolecule100	
+BiochemicalReaction37	Xanthine + H2O + O2 => Urate + H2O2	SmallMolecule95	SmallMolecule100	
+BiochemicalReaction38	2 glutathione, reduced + H2O2 => glutathione, oxidized + 2 H2O	SmallMolecule97	SmallMolecule102	
+BiochemicalReaction38	2 glutathione, reduced + H2O2 => glutathione, oxidized + 2 H2O	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction38	2 glutathione, reduced + H2O2 => glutathione, oxidized + 2 H2O	SmallMolecule101	SmallMolecule8	
+BiochemicalReaction38	2 glutathione, reduced + H2O2 => glutathione, oxidized + 2 H2O	SmallMolecule97	SmallMolecule8	
+BiochemicalReaction39	2 H2O2 => O2 + 2 H2O	SmallMolecule103	SmallMolecule104	
+BiochemicalReaction39	2 H2O2 => O2 + 2 H2O	SmallMolecule103	SmallMolecule105	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule9	SmallMolecule15	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule9	SmallMolecule16	
+BiochemicalReaction4	5-Phosphoribosylamine + Glycine + ATP => GAR + ADP + Pi	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule7	SmallMolecule14	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule108	SmallMolecule14	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule8	SmallMolecule109	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule13	SmallMolecule109	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule108	SmallMolecule109	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule7	SmallMolecule109	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule8	SmallMolecule15	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule108	SmallMolecule15	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule7	SmallMolecule15	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule108	SmallMolecule10	
+BiochemicalReaction40	bicarbonate and glutamine combine to form carbamoyl phosphate	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction41	carbamoyl phosphate and L-aspartate combine to form N-Carbamoyl-L-aspartate	SmallMolecule109	SmallMolecule14	
+BiochemicalReaction41	carbamoyl phosphate and L-aspartate combine to form N-Carbamoyl-L-aspartate	SmallMolecule24	SmallMolecule14	
+BiochemicalReaction41	carbamoyl phosphate and L-aspartate combine to form N-Carbamoyl-L-aspartate	SmallMolecule24	SmallMolecule110	
+BiochemicalReaction41	carbamoyl phosphate and L-aspartate combine to form N-Carbamoyl-L-aspartate	SmallMolecule109	SmallMolecule110	
+BiochemicalReaction42	N-carbamoyl L-aspartate + H+ <=> (S)-dihydroorotate + H2O	SmallMolecule110	SmallMolecule8	
+BiochemicalReaction42	N-carbamoyl L-aspartate + H+ <=> (S)-dihydroorotate + H2O	SmallMolecule30	SmallMolecule8	
+BiochemicalReaction42	N-carbamoyl L-aspartate + H+ <=> (S)-dihydroorotate + H2O	SmallMolecule30	SmallMolecule111	
+BiochemicalReaction42	N-carbamoyl L-aspartate + H+ <=> (S)-dihydroorotate + H2O	SmallMolecule110	SmallMolecule111	
+BiochemicalReaction43	oxidation of (S)-Dihydroorotate to form Orotate	SmallMolecule112	SmallMolecule113	
+BiochemicalReaction43	oxidation of (S)-Dihydroorotate to form Orotate	SmallMolecule111	SmallMolecule113	
+BiochemicalReaction43	oxidation of (S)-Dihydroorotate to form Orotate	SmallMolecule111	SmallMolecule114	
+BiochemicalReaction43	oxidation of (S)-Dihydroorotate to form Orotate	SmallMolecule112	SmallMolecule114	
+BiochemicalReaction44	phosphoribosylation of orotate to form oritidine 5'-phosphate (OMP)	SmallMolecule6	SmallMolecule116	
+BiochemicalReaction44	phosphoribosylation of orotate to form oritidine 5'-phosphate (OMP)	SmallMolecule113	SmallMolecule116	
+BiochemicalReaction44	phosphoribosylation of orotate to form oritidine 5'-phosphate (OMP)	SmallMolecule113	SmallMolecule11	
+BiochemicalReaction44	phosphoribosylation of orotate to form oritidine 5'-phosphate (OMP)	SmallMolecule6	SmallMolecule11	
+BiochemicalReaction45	orotidine 5'-monophosphate => uridine 5'-monophosphate + CO2	SmallMolecule116	SmallMolecule117	
+BiochemicalReaction45	orotidine 5'-monophosphate => uridine 5'-monophosphate + CO2	SmallMolecule116	SmallMolecule22	
+BiochemicalReaction46	dCMP + H2O => dUMP + NH4+	SmallMolecule118	SmallMolecule41	
+BiochemicalReaction46	dCMP + H2O => dUMP + NH4+	SmallMolecule8	SmallMolecule41	
+BiochemicalReaction46	dCMP + H2O => dUMP + NH4+	SmallMolecule8	SmallMolecule119	
+BiochemicalReaction46	dCMP + H2O => dUMP + NH4+	SmallMolecule118	SmallMolecule119	
+BiochemicalReaction47	dUTP + H2O => dUMP + pyrophosphate	SmallMolecule120	SmallMolecule122	
+BiochemicalReaction47	dUTP + H2O => dUMP + pyrophosphate	SmallMolecule121	SmallMolecule122	
+BiochemicalReaction47	dUTP + H2O => dUMP + pyrophosphate	SmallMolecule121	SmallMolecule123	
+BiochemicalReaction47	dUTP + H2O => dUMP + pyrophosphate	SmallMolecule120	SmallMolecule123	
+BiochemicalReaction48	conversion of dUMP to dTMP	SmallMolecule18	SmallMolecule124	
+BiochemicalReaction48	conversion of dUMP to dTMP	SmallMolecule119	SmallMolecule124	
+BiochemicalReaction48	conversion of dUMP to dTMP	SmallMolecule119	SmallMolecule125	
+BiochemicalReaction48	conversion of dUMP to dTMP	SmallMolecule18	SmallMolecule125	
+BiochemicalReaction49	uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]	SmallMolecule65	SmallMolecule14	
+BiochemicalReaction49	uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]	SmallMolecule126	SmallMolecule14	
+BiochemicalReaction49	uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction49	uracil + (deoxy)ribose 1-phosphate <=> (deoxy)uridine + orthophosphate [UPP]	SmallMolecule65	SmallMolecule127	
+BiochemicalReaction5	GAR + 10-Formyl-THF => FGAR + THF	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction5	GAR + 10-Formyl-THF => FGAR + THF	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction5	GAR + 10-Formyl-THF => FGAR + THF	SmallMolecule16	SmallMolecule19	
+BiochemicalReaction5	GAR + 10-Formyl-THF => FGAR + THF	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction50	thymine or uracil + 2-deoxy-D-ribose 1-phosphate <=> thymidine or deoxyuridine + orthophosphate [TYMP]	SmallMolecule130	SmallMolecule14	
+BiochemicalReaction50	thymine or uracil + 2-deoxy-D-ribose 1-phosphate <=> thymidine or deoxyuridine + orthophosphate [TYMP]	SmallMolecule67	SmallMolecule14	
+BiochemicalReaction50	thymine or uracil + 2-deoxy-D-ribose 1-phosphate <=> thymidine or deoxyuridine + orthophosphate [TYMP]	SmallMolecule67	SmallMolecule132	
+BiochemicalReaction50	thymine or uracil + 2-deoxy-D-ribose 1-phosphate <=> thymidine or deoxyuridine + orthophosphate [TYMP]	SmallMolecule130	SmallMolecule132	
+BiochemicalReaction51	cytidine or uridine + ATP => CMP or UMP + ADP [UCK1]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction51	cytidine or uridine + ATP => CMP or UMP + ADP [UCK1]	SmallMolecule134	SmallMolecule15	
+BiochemicalReaction51	cytidine or uridine + ATP => CMP or UMP + ADP [UCK1]	SmallMolecule134	SmallMolecule136	
+BiochemicalReaction51	cytidine or uridine + ATP => CMP or UMP + ADP [UCK1]	SmallMolecule13	SmallMolecule136	
+BiochemicalReaction52	cytidine or uridine + ATP => CMP or UMP + ADP [UCK2]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction52	cytidine or uridine + ATP => CMP or UMP + ADP [UCK2]	SmallMolecule134	SmallMolecule15	
+BiochemicalReaction52	cytidine or uridine + ATP => CMP or UMP + ADP [UCK2]	SmallMolecule134	SmallMolecule136	
+BiochemicalReaction52	cytidine or uridine + ATP => CMP or UMP + ADP [UCK2]	SmallMolecule13	SmallMolecule136	
+BiochemicalReaction53	phosphorylation of 2'-Deoxythymidine to dTMP	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction53	phosphorylation of 2'-Deoxythymidine to dTMP	SmallMolecule133	SmallMolecule15	
+BiochemicalReaction53	phosphorylation of 2'-Deoxythymidine to dTMP	SmallMolecule133	SmallMolecule125	
+BiochemicalReaction53	phosphorylation of 2'-Deoxythymidine to dTMP	SmallMolecule13	SmallMolecule125	
+BiochemicalReaction54	deoxycytidine, thymidine, or deoxyuridine + ATP => dCMP, TMP, or dUMP + ADP [TK2]	SmallMolecule138	SmallMolecule60	
+BiochemicalReaction54	deoxycytidine, thymidine, or deoxyuridine + ATP => dCMP, TMP, or dUMP + ADP [TK2]	SmallMolecule55	SmallMolecule60	
+BiochemicalReaction54	deoxycytidine, thymidine, or deoxyuridine + ATP => dCMP, TMP, or dUMP + ADP [TK2]	SmallMolecule55	SmallMolecule142	
+BiochemicalReaction54	deoxycytidine, thymidine, or deoxyuridine + ATP => dCMP, TMP, or dUMP + ADP [TK2]	SmallMolecule138	SmallMolecule142	
+BiochemicalReaction55	(2'-deoxy)cytidine + ATP => (d)CMP + ADP [DCK]	SmallMolecule146	SmallMolecule15	
+BiochemicalReaction55	(2'-deoxy)cytidine + ATP => (d)CMP + ADP [DCK]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction55	(2'-deoxy)cytidine + ATP => (d)CMP + ADP [DCK]	SmallMolecule13	SmallMolecule148	
+BiochemicalReaction55	(2'-deoxy)cytidine + ATP => (d)CMP + ADP [DCK]	SmallMolecule146	SmallMolecule148	
+BiochemicalReaction56	deamination of 2'-Deoxycytidine to 2'-Deoxyuridine	SmallMolecule146	SmallMolecule127	
+BiochemicalReaction56	deamination of 2'-Deoxycytidine to 2'-Deoxyuridine	SmallMolecule8	SmallMolecule127	
+BiochemicalReaction56	deamination of 2'-Deoxycytidine to 2'-Deoxyuridine	SmallMolecule8	SmallMolecule41	
+BiochemicalReaction56	deamination of 2'-Deoxycytidine to 2'-Deoxyuridine	SmallMolecule146	SmallMolecule41	
+BiochemicalReaction57	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule149	SmallMolecule154	
+BiochemicalReaction57	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule153	SmallMolecule154	
+BiochemicalReaction57	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule153	SmallMolecule155	
+BiochemicalReaction57	TMP, (d)UMP, uridine 2' monophosphate, or uridine 3'-monophosphate + H2O => thymidine, deoxyuridine, or uridine + orthophosphate [NT5M]	SmallMolecule149	SmallMolecule155	
+BiochemicalReaction58	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule82	SmallMolecule83	
+BiochemicalReaction58	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule158	SmallMolecule83	
+BiochemicalReaction58	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule158	SmallMolecule162	
+BiochemicalReaction58	CMP or TMP or UMP + H2O => cytidine, thymidine, or uridine + orthophosphate [NT5E]	SmallMolecule82	SmallMolecule162	
+BiochemicalReaction59	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule166	SmallMolecule14	
+BiochemicalReaction59	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction59	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule8	SmallMolecule167	
+BiochemicalReaction59	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C3]	SmallMolecule166	SmallMolecule167	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule7	SmallMolecule14	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule19	SmallMolecule14	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule8	SmallMolecule15	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule19	SmallMolecule15	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule7	SmallMolecule15	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule19	SmallMolecule10	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule8	SmallMolecule20	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule13	SmallMolecule20	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction6	FGAR + L-Glutamine + ATP + H2O => FGAM + L-Glutamate + ADP + Pi	SmallMolecule7	SmallMolecule20	
+BiochemicalReaction60	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule166	SmallMolecule14	
+BiochemicalReaction60	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction60	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule8	SmallMolecule167	
+BiochemicalReaction60	(d)CMP, TMP, or (d)UMP + H2O => (deoxy)cytidine, thymidine, or (deoxy)uridine + orthophosphate [NT5C1A]	SmallMolecule166	SmallMolecule167	
+BiochemicalReaction61	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule168	SmallMolecule14	
+BiochemicalReaction61	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction61	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule8	SmallMolecule172	
+BiochemicalReaction61	TMP, uridine 2', 3', or 5' monophosphates, or deoxyuridine 3' or 5' monophosphates + H2O => thymidine or (deoxy)uridine + orthophosphate [NT5C]	SmallMolecule168	SmallMolecule172	
+BiochemicalReaction62	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule14	SmallMolecule65	
+BiochemicalReaction62	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule127	SmallMolecule65	
+BiochemicalReaction62	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule127	SmallMolecule126	
+BiochemicalReaction62	(deoxy)uridine + orthophosphate <=> uracil + (deoxy)ribose 1-phosphate [UPP]	SmallMolecule14	SmallMolecule126	
+BiochemicalReaction63	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule14	SmallMolecule130	
+BiochemicalReaction63	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule132	SmallMolecule130	
+BiochemicalReaction63	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule132	SmallMolecule67	
+BiochemicalReaction63	thymidine or deoxyuridine + orthophosphate <=> thymine or uracil + 2-deoxy-D-ribose 1-phosphate [TYMP]	SmallMolecule14	SmallMolecule67	
+BiochemicalReaction64	reduction of uracil to form dihydrouracil	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction64	reduction of uracil to form dihydrouracil	SmallMolecule126	SmallMolecule76	
+BiochemicalReaction64	reduction of uracil to form dihydrouracil	SmallMolecule30	SmallMolecule76	
+BiochemicalReaction64	reduction of uracil to form dihydrouracil	SmallMolecule30	SmallMolecule173	
+BiochemicalReaction64	reduction of uracil to form dihydrouracil	SmallMolecule126	SmallMolecule173	
+BiochemicalReaction64	reduction of uracil to form dihydrouracil	SmallMolecule75	SmallMolecule173	
+BiochemicalReaction65	5,6-dihydrouracil + H2O => beta-ureidopropionate	SmallMolecule8	SmallMolecule175	
+BiochemicalReaction65	5,6-dihydrouracil + H2O => beta-ureidopropionate	SmallMolecule173	SmallMolecule175	
+BiochemicalReaction66	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule8	SmallMolecule176	
+BiochemicalReaction66	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule175	SmallMolecule176	
+BiochemicalReaction66	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule175	SmallMolecule61	
+BiochemicalReaction66	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule8	SmallMolecule61	
+BiochemicalReaction66	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule175	SmallMolecule22	
+BiochemicalReaction66	conversion of 3-ureidopropionate to beta-alanine	SmallMolecule8	SmallMolecule22	
+BiochemicalReaction67	Mitochondrial uptake of beta-alanine	SmallMolecule176	SmallMolecule177	
+BiochemicalReaction68	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule177	SmallMolecule179	
+BiochemicalReaction68	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule178	SmallMolecule179	
+BiochemicalReaction68	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule178	SmallMolecule180	
+BiochemicalReaction68	beta-alanine + pyruvate => 3-oxopropanoate + alanine	SmallMolecule177	SmallMolecule180	
+BiochemicalReaction69	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule131	SmallMolecule76	
+BiochemicalReaction69	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction69	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule30	SmallMolecule76	
+BiochemicalReaction69	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule30	SmallMolecule181	
+BiochemicalReaction69	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule75	SmallMolecule181	
+BiochemicalReaction69	reduction of thymine to form 5,6-Dihydrothymine	SmallMolecule131	SmallMolecule181	
+BiochemicalReaction7	FGAM + ATP => AIR + ADP + Pi	SmallMolecule20	SmallMolecule14	
+BiochemicalReaction7	FGAM + ATP => AIR + ADP + Pi	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction7	FGAM + ATP => AIR + ADP + Pi	SmallMolecule13	SmallMolecule21	
+BiochemicalReaction7	FGAM + ATP => AIR + ADP + Pi	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction7	FGAM + ATP => AIR + ADP + Pi	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction7	FGAM + ATP => AIR + ADP + Pi	SmallMolecule20	SmallMolecule15	
+BiochemicalReaction70	5,6-dihydrothymine + H2O => beta-ureidoisobutyrate	SmallMolecule181	SmallMolecule182	
+BiochemicalReaction70	5,6-dihydrothymine + H2O => beta-ureidoisobutyrate	SmallMolecule8	SmallMolecule182	
+BiochemicalReaction71	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule182	SmallMolecule183	
+BiochemicalReaction71	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule8	SmallMolecule183	
+BiochemicalReaction71	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule8	SmallMolecule61	
+BiochemicalReaction71	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule182	SmallMolecule61	
+BiochemicalReaction71	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule8	SmallMolecule22	
+BiochemicalReaction71	conversion of 3-Ureidoiosbutyrate to 3-Aminoisobutyrate	SmallMolecule182	SmallMolecule22	
+BiochemicalReaction72	Mitochondrial uptake of (R)-3-aminoisobutyric acid	SmallMolecule183	SmallMolecule184	
+BiochemicalReaction73	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule178	SmallMolecule179	
+BiochemicalReaction73	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule184	SmallMolecule179	
+BiochemicalReaction73	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule184	SmallMolecule185	
+BiochemicalReaction73	(R)-3-aminoisobutyric acid + pyruvate => 2-methyl-3-oxopropanoate + alanine	SmallMolecule178	SmallMolecule185	
+BiochemicalReaction74	(d)AMP + ATP <=> (d)ADP + ADP [AK1]	SmallMolecule45	SmallMolecule15	
+BiochemicalReaction74	(d)AMP + ATP <=> (d)ADP + ADP [AK1]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction74	(d)AMP + ATP <=> (d)ADP + ADP [AK1]	SmallMolecule13	SmallMolecule186	
+BiochemicalReaction74	(d)AMP + ATP <=> (d)ADP + ADP [AK1]	SmallMolecule45	SmallMolecule186	
+BiochemicalReaction75	(d)ADP + ADP <=> (d)AMP + ATP [AK1]	SmallMolecule15	SmallMolecule45	
+BiochemicalReaction75	(d)ADP + ADP <=> (d)AMP + ATP [AK1]	SmallMolecule186	SmallMolecule45	
+BiochemicalReaction75	(d)ADP + ADP <=> (d)AMP + ATP [AK1]	SmallMolecule186	SmallMolecule13	
+BiochemicalReaction75	(d)ADP + ADP <=> (d)AMP + ATP [AK1]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction76	AMP + ATP <=> ADP + ADP [AK2]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction76	AMP + ATP <=> ADP + ADP [AK2]	SmallMolecule3	SmallMolecule15	
+BiochemicalReaction77	ADP + ADP <=> AMP + ATP [AK2]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction77	ADP + ADP <=> AMP + ATP [AK2]	SmallMolecule15	SmallMolecule3	
+BiochemicalReaction78	(d)AMP or (d)CMP + ATP <=> (d)ADP or (d)CDP + ADP [AK5]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction78	(d)AMP or (d)CMP + ATP <=> (d)ADP or (d)CDP + ADP [AK5]	SmallMolecule188	SmallMolecule15	
+BiochemicalReaction78	(d)AMP or (d)CMP + ATP <=> (d)ADP or (d)CDP + ADP [AK5]	SmallMolecule188	SmallMolecule189	
+BiochemicalReaction78	(d)AMP or (d)CMP + ATP <=> (d)ADP or (d)CDP + ADP [AK5]	SmallMolecule13	SmallMolecule189	
+BiochemicalReaction79	(d)ADP or (d)CDP + ADP <=> (d)AMP or (d)CMP + ATP [AK5]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction79	(d)ADP or (d)CDP + ADP <=> (d)AMP or (d)CMP + ATP [AK5]	SmallMolecule189	SmallMolecule13	
+BiochemicalReaction79	(d)ADP or (d)CDP + ADP <=> (d)AMP or (d)CMP + ATP [AK5]	SmallMolecule189	SmallMolecule188	
+BiochemicalReaction79	(d)ADP or (d)CDP + ADP <=> (d)AMP or (d)CMP + ATP [AK5]	SmallMolecule15	SmallMolecule188	
+BiochemicalReaction8	AIR + CO2 => CAIR	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction8	AIR + CO2 => CAIR	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction80	(d)GMP + ATP <=> (d)GDP + ADP [GUK1]	SmallMolecule192	SmallMolecule15	
+BiochemicalReaction80	(d)GMP + ATP <=> (d)GDP + ADP [GUK1]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction80	(d)GMP + ATP <=> (d)GDP + ADP [GUK1]	SmallMolecule13	SmallMolecule193	
+BiochemicalReaction80	(d)GMP + ATP <=> (d)GDP + ADP [GUK1]	SmallMolecule192	SmallMolecule193	
+BiochemicalReaction81	(d)GDP + ADP <=> (d)GMP + ATP [GUK1]	SmallMolecule15	SmallMolecule192	
+BiochemicalReaction81	(d)GDP + ADP <=> (d)GMP + ATP [GUK1]	SmallMolecule193	SmallMolecule192	
+BiochemicalReaction81	(d)GDP + ADP <=> (d)GMP + ATP [GUK1]	SmallMolecule193	SmallMolecule13	
+BiochemicalReaction81	(d)GDP + ADP <=> (d)GMP + ATP [GUK1]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction82	(d)CMP or UMP + ATP <=> (d)CDP or UDP + ADP [CMPK1]	SmallMolecule13	SmallMolecule196	
+BiochemicalReaction82	(d)CMP or UMP + ATP <=> (d)CDP or UDP + ADP [CMPK1]	SmallMolecule195	SmallMolecule196	
+BiochemicalReaction82	(d)CMP or UMP + ATP <=> (d)CDP or UDP + ADP [CMPK1]	SmallMolecule195	SmallMolecule15	
+BiochemicalReaction82	(d)CMP or UMP + ATP <=> (d)CDP or UDP + ADP [CMPK1]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction83	(d)CDP or UDP + ADP <=> (d)CMP or UMP + ATP [CMPK1]	SmallMolecule196	SmallMolecule13	
+BiochemicalReaction83	(d)CDP or UDP + ADP <=> (d)CMP or UMP + ATP [CMPK1]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction83	(d)CDP or UDP + ADP <=> (d)CMP or UMP + ATP [CMPK1]	SmallMolecule15	SmallMolecule195	
+BiochemicalReaction83	(d)CDP or UDP + ADP <=> (d)CMP or UMP + ATP [CMPK1]	SmallMolecule196	SmallMolecule195	
+BiochemicalReaction84	phosphorylation of dUMP or TMP to dUDP or TDP	SmallMolecule198	SmallMolecule15	
+BiochemicalReaction84	phosphorylation of dUMP or TMP to dUDP or TDP	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction84	phosphorylation of dUMP or TMP to dUDP or TDP	SmallMolecule13	SmallMolecule199	
+BiochemicalReaction84	phosphorylation of dUMP or TMP to dUDP or TDP	SmallMolecule198	SmallMolecule199	
+BiochemicalReaction85	dUDP or TDP + ADP <=> dUMP or TMP + ATP [DTYMK]	SmallMolecule15	SmallMolecule198	
+BiochemicalReaction85	dUDP or TDP + ADP <=> dUMP or TMP + ATP [DTYMK]	SmallMolecule199	SmallMolecule198	
+BiochemicalReaction85	dUDP or TDP + ADP <=> dUMP or TMP + ATP [DTYMK]	SmallMolecule199	SmallMolecule13	
+BiochemicalReaction85	dUDP or TDP + ADP <=> dUMP or TMP + ATP [DTYMK]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule7	SmallMolecule14	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule202	SmallMolecule14	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule8	SmallMolecule15	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule202	SmallMolecule15	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule7	SmallMolecule15	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule202	SmallMolecule10	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule8	SmallMolecule203	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule202	SmallMolecule203	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule13	SmallMolecule203	
+BiochemicalReaction86	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS]	SmallMolecule7	SmallMolecule203	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule7	SmallMolecule14	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule202	SmallMolecule14	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule8	SmallMolecule15	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule202	SmallMolecule15	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule7	SmallMolecule15	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule202	SmallMolecule10	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule13	SmallMolecule10	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule8	SmallMolecule203	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule202	SmallMolecule203	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule13	SmallMolecule203	
+BiochemicalReaction87	UTP + glutamine + ATP + H2O => CTP + glutamate + ADP + orthophosphate [CTPS2]	SmallMolecule7	SmallMolecule203	
+BiochemicalReaction88	NDP + reduced glutaredoxin => dNDP + oxidized glutaredoxin + H2O	SmallMolecule204	Protein65	
+BiochemicalReaction88	NDP + reduced glutaredoxin => dNDP + oxidized glutaredoxin + H2O	Protein64	Protein65	
+BiochemicalReaction88	NDP + reduced glutaredoxin => dNDP + oxidized glutaredoxin + H2O	Protein64	SmallMolecule205	
+BiochemicalReaction88	NDP + reduced glutaredoxin => dNDP + oxidized glutaredoxin + H2O	SmallMolecule204	SmallMolecule205	
+BiochemicalReaction88	NDP + reduced glutaredoxin => dNDP + oxidized glutaredoxin + H2O	Protein64	SmallMolecule8	
+BiochemicalReaction88	NDP + reduced glutaredoxin => dNDP + oxidized glutaredoxin + H2O	SmallMolecule204	SmallMolecule8	
+BiochemicalReaction89	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	SmallMolecule204	SmallMolecule205	
+BiochemicalReaction89	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	Protein68	SmallMolecule205	
+BiochemicalReaction89	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	Protein68	Protein69	
+BiochemicalReaction89	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	SmallMolecule204	Protein69	
+BiochemicalReaction89	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	Protein68	SmallMolecule8	
+BiochemicalReaction89	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	SmallMolecule204	SmallMolecule8	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule24	SmallMolecule14	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule23	SmallMolecule14	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule23	SmallMolecule15	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule24	SmallMolecule15	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule13	SmallMolecule25	
+BiochemicalReaction9	CAIR + Aspartate + ATP => SAICAR + ADP + Pi	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction90	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	Protein70	Protein71	
+BiochemicalReaction90	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	SmallMolecule208	Protein71	
+BiochemicalReaction90	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	SmallMolecule208	SmallMolecule120	
+BiochemicalReaction90	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	Protein70	SmallMolecule120	
+BiochemicalReaction90	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	SmallMolecule208	SmallMolecule213	
+BiochemicalReaction90	NDP + reduced thioredoxin => dNDP + oxidized thioredoxin + H2O	Protein70	SmallMolecule213	
+BiochemicalReaction91	glutaredoxin (oxidized) + glutathione (reduced) => glutaredoxin (reduced) + glutathione (oxidized)	Protein65	Protein64	
+BiochemicalReaction91	glutaredoxin (oxidized) + glutathione (reduced) => glutaredoxin (reduced) + glutathione (oxidized)	SmallMolecule101	Protein64	
+BiochemicalReaction91	glutaredoxin (oxidized) + glutathione (reduced) => glutaredoxin (reduced) + glutathione (oxidized)	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction91	glutaredoxin (oxidized) + glutathione (reduced) => glutaredoxin (reduced) + glutathione (oxidized)	Protein65	SmallMolecule102	
+BiochemicalReaction92	glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction92	glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+	SmallMolecule30	SmallMolecule76	
+BiochemicalReaction92	glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+	SmallMolecule102	SmallMolecule76	
+BiochemicalReaction92	glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+	SmallMolecule102	SmallMolecule101	
+BiochemicalReaction92	glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+	SmallMolecule30	SmallMolecule101	
+BiochemicalReaction92	glutathione (oxidized) + NADPH + H+ => 2 glutathione (reduced) + NADP+	SmallMolecule75	SmallMolecule101	
+BiochemicalReaction93	thioredoxin, oxidized (nucleus) <=> thioredoxin, oxidized (cytosol)	Protein71	Protein69	
+BiochemicalReaction94	regeneration of active (reduced) Thioredoxin	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction94	regeneration of active (reduced) Thioredoxin	SmallMolecule30	SmallMolecule76	
+BiochemicalReaction94	regeneration of active (reduced) Thioredoxin	Protein69	SmallMolecule76	
+BiochemicalReaction94	regeneration of active (reduced) Thioredoxin	Protein69	Protein68	
+BiochemicalReaction94	regeneration of active (reduced) Thioredoxin	SmallMolecule30	Protein68	
+BiochemicalReaction94	regeneration of active (reduced) Thioredoxin	SmallMolecule75	Protein68	
+BiochemicalReaction95	thioredoxin, reduced (cytosol) <=> thioredoxin, reduced (nucleus)	Protein68	Protein70	
+BiochemicalReaction96	(d)NDP + ATP <=> (d)NTP + ADP [NME1,2,3]	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction96	(d)NDP + ATP <=> (d)NTP + ADP [NME1,2,3]	SmallMolecule219	SmallMolecule15	
+BiochemicalReaction96	(d)NDP + ATP <=> (d)NTP + ADP [NME1,2,3]	SmallMolecule219	SmallMolecule220	
+BiochemicalReaction96	(d)NDP + ATP <=> (d)NTP + ADP [NME1,2,3]	SmallMolecule13	SmallMolecule220	
+BiochemicalReaction97	(d)NTP + ADP <=> (d)NDP + ATP [NME1,2,3]	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction97	(d)NTP + ADP <=> (d)NDP + ATP [NME1,2,3]	SmallMolecule220	SmallMolecule13	
+BiochemicalReaction97	(d)NTP + ADP <=> (d)NDP + ATP [NME1,2,3]	SmallMolecule220	SmallMolecule219	
+BiochemicalReaction97	(d)NTP + ADP <=> (d)NDP + ATP [NME1,2,3]	SmallMolecule15	SmallMolecule219	
+BiochemicalReaction98	(d)NDP + ATP <=> (d)NTP + ADP [NME4]	SmallMolecule225	SmallMolecule60	
+BiochemicalReaction98	(d)NDP + ATP <=> (d)NTP + ADP [NME4]	SmallMolecule55	SmallMolecule60	
+BiochemicalReaction98	(d)NDP + ATP <=> (d)NTP + ADP [NME4]	SmallMolecule55	SmallMolecule234	
+BiochemicalReaction98	(d)NDP + ATP <=> (d)NTP + ADP [NME4]	SmallMolecule225	SmallMolecule234	
+BiochemicalReaction99	(d)NTP + ADP <=> (d)NDP + ATP [NME4]	SmallMolecule60	SmallMolecule225	
+BiochemicalReaction99	(d)NTP + ADP <=> (d)NDP + ATP [NME4]	SmallMolecule234	SmallMolecule225	
+BiochemicalReaction99	(d)NTP + ADP <=> (d)NDP + ATP [NME4]	SmallMolecule234	SmallMolecule55	
+BiochemicalReaction99	(d)NTP + ADP <=> (d)NDP + ATP [NME4]	SmallMolecule60	SmallMolecule55	

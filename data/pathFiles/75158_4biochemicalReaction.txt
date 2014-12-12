@@ -1,0 +1,9 @@
+BiochemicalReaction1	TRAIL Binds TRAIL-Receptor2	Protein1	Complex1	
+BiochemicalReaction1	TRAIL Binds TRAIL-Receptor2	Protein2	Complex1	
+BiochemicalReaction2	Trimerization of TRAIL: TRAIL receptor-2 complex	Complex1	Complex2	
+BiochemicalReaction3	TRAIL:TRAIL receptor-2 Trimer Binds FADD	Complex2	Complex3	
+BiochemicalReaction3	TRAIL:TRAIL receptor-2 Trimer Binds FADD	Protein3	Complex3	
+BiochemicalReaction4	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-8	Protein5	Complex4	
+BiochemicalReaction4	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-8	Complex3	Complex4	
+BiochemicalReaction5	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-10	Protein7	Complex5	
+BiochemicalReaction5	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-10	Complex3	Complex5	

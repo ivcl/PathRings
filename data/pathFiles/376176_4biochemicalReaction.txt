@@ -1,0 +1,40 @@
+BiochemicalReaction1	Proteolytic processing of Slit	Protein1	Protein2	
+BiochemicalReaction1	Proteolytic processing of Slit	Protein1	Protein3	
+BiochemicalReaction10	Inactivation of Rac1	Complex11	SmallMolecule3	
+BiochemicalReaction10	Inactivation of Rac1	Complex11	Complex12	
+BiochemicalReaction11	Nck binds Robo1:Slit2	Protein23	Complex13	
+BiochemicalReaction11	Nck binds Robo1:Slit2	Complex4	Complex13	
+BiochemicalReaction12	Recruitment of PAK to Nck	Complex13	Complex14	
+BiochemicalReaction12	Recruitment of PAK to Nck	Protein26	Complex14	
+BiochemicalReaction13	Recruitment of Sos to plasma membrane	Complex14	Complex15	
+BiochemicalReaction13	Recruitment of Sos to plasma membrane	Protein33	Complex15	
+BiochemicalReaction14	Activation of Rac by Sos	SmallMolecule2	Complex11	
+BiochemicalReaction14	Activation of Rac by Sos	Complex12	Complex11	
+BiochemicalReaction14	Activation of Rac by Sos	Complex12	SmallMolecule4	
+BiochemicalReaction14	Activation of Rac by Sos	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction15	Interaction of Abl with Robo1:Slit2	Complex4	Complex16	
+BiochemicalReaction15	Interaction of Abl with Robo1:Slit2	Protein36	Complex16	
+BiochemicalReaction16	Phosphorylation of Rob1 by Abl kinase	Complex16	SmallMolecule6	
+BiochemicalReaction16	Phosphorylation of Rob1 by Abl kinase	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction16	Phosphorylation of Rob1 by Abl kinase	SmallMolecule5	Complex17	
+BiochemicalReaction16	Phosphorylation of Rob1 by Abl kinase	Complex16	Complex17	
+BiochemicalReaction17	Activation of CLASP	Protein40	Complex19	
+BiochemicalReaction17	Activation of CLASP	Complex16	Complex19	
+BiochemicalReaction18	Recruitment of CAP to Abl	Complex16	Complex20	
+BiochemicalReaction18	Recruitment of CAP to Abl	Protein43	Complex20	
+BiochemicalReaction2	Robo3 antagonizes Robo1/Robo2 to allow floor plate crossing	Protein4	Complex1	
+BiochemicalReaction2	Robo3 antagonizes Robo1/Robo2 to allow floor plate crossing	Protein5	Complex1	
+BiochemicalReaction3	Glypican-1 binds Slit2	Protein1	Complex3	
+BiochemicalReaction3	Glypican-1 binds Slit2	Complex2	Complex3	
+BiochemicalReaction4	Robo1 binds Slit2	Complex3	Complex4	
+BiochemicalReaction4	Robo1 binds Slit2	Protein6	Complex4	
+BiochemicalReaction5	Ena/VASP binds Robo1:Slit2 complex	Protein9	Complex5	
+BiochemicalReaction5	Ena/VASP binds Robo1:Slit2 complex	Complex4	Complex5	
+BiochemicalReaction6	Recruitment of Profilin by Ena/Vasp proteins	Protein13	Complex6	
+BiochemicalReaction6	Recruitment of Profilin by Ena/Vasp proteins	Complex5	Complex6	
+BiochemicalReaction7	SrGAP binds Robo1:Slit2	Protein16	Complex7	
+BiochemicalReaction7	SrGAP binds Robo1:Slit2	Complex4	Complex7	
+BiochemicalReaction8	Inactivation of Cdc42	Complex8	SmallMolecule3	
+BiochemicalReaction8	Inactivation of Cdc42	Complex8	Complex9	
+BiochemicalReaction9	KIAA1688/Vilse binds Robo1:Slit2	Protein21	Complex10	
+BiochemicalReaction9	KIAA1688/Vilse binds Robo1:Slit2	Complex4	Complex10	

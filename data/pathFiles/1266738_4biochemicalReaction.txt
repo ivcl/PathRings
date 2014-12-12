@@ -1,0 +1,705 @@
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex2	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex2	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	SmallMolecule1	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex1	Complex3	
+BiochemicalReaction10	ROCK activation by Rho	Protein22	Complex22	
+BiochemicalReaction10	ROCK activation by Rho	Complex21	Complex22	
+BiochemicalReaction100	DCC interaction with SIAH1	Complex137	Complex162	
+BiochemicalReaction100	DCC interaction with SIAH1	Protein298	Complex162	
+BiochemicalReaction101	DCC interaction with SIAH2	Complex137	Complex163	
+BiochemicalReaction101	DCC interaction with SIAH2	Protein299	Complex163	
+BiochemicalReaction102	Translocation of Ezrin to plasma membrane	SmallMolecule12	Complex164	
+BiochemicalReaction102	Translocation of Ezrin to plasma membrane	Protein300	Complex164	
+BiochemicalReaction103	Phosphorylation and activation of Ezrin	Complex164	SmallMolecule2	
+BiochemicalReaction103	Phosphorylation and activation of Ezrin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction103	Phosphorylation and activation of Ezrin	SmallMolecule1	Complex165	
+BiochemicalReaction103	Phosphorylation and activation of Ezrin	Complex164	Complex165	
+BiochemicalReaction104	DCC interaction with Ezrin	Complex165	Complex166	
+BiochemicalReaction104	DCC interaction with Ezrin	Protein273	Complex166	
+BiochemicalReaction105	Netrin-4 binds DCC/UNC5A	Protein303	Complex167	
+BiochemicalReaction105	Netrin-4 binds DCC/UNC5A	Protein304	Complex167	
+BiochemicalReaction106	Neogenin binds Netrin-1	Protein305	Complex168	
+BiochemicalReaction106	Neogenin binds Netrin-1	Protein272	Complex168	
+BiochemicalReaction107	Neogenin binds repulsive guidance molecules (RGDs)	Protein306	Complex169	
+BiochemicalReaction107	Neogenin binds repulsive guidance molecules (RGDs)	Protein305	Complex169	
+BiochemicalReaction108	Myosin-X binds DCC/Neogenin	Protein310	Complex170	
+BiochemicalReaction108	Myosin-X binds DCC/Neogenin	Protein311	Complex170	
+BiochemicalReaction109	PIKE-L interaction with UNC5B	Protein288	Complex171	
+BiochemicalReaction109	PIKE-L interaction with UNC5B	Protein312	Complex171	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	Complex24	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	Complex23	Complex24	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	Complex23	SmallMolecule2	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction110	PITPalpha binds DCC	Complex138	Complex172	
+BiochemicalReaction110	PITPalpha binds DCC	Protein313	Complex172	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule12	Complex173	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	Complex173	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	Complex172	Complex173	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	Protein314	Complex173	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	Protein314	SmallMolecule2	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	Complex172	SmallMolecule2	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule12	SmallMolecule2	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	Protein314	Complex172	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	Complex172	Complex172	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	Complex172	
+BiochemicalReaction111	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule12	Complex172	
+BiochemicalReaction112	PIP2 hydrolysis	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction112	PIP2 hydrolysis	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction112	PIP2 hydrolysis	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction112	PIP2 hydrolysis	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	SmallMolecule14	Complex176	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	Complex174	Complex176	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	SmallMolecule15	Complex176	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	Complex174	SmallMolecule14	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	SmallMolecule14	SmallMolecule14	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	SmallMolecule15	SmallMolecule15	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	Complex174	SmallMolecule15	
+BiochemicalReaction113	Activation of TRPC channels by Netrin-1	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction114	Proteolytic processing of Slit	Protein295	Protein324	
+BiochemicalReaction114	Proteolytic processing of Slit	Protein295	Protein325	
+BiochemicalReaction115	Robo3 antagonizes Robo1/Robo2 to allow floor plate crossing	Protein326	Complex177	
+BiochemicalReaction115	Robo3 antagonizes Robo1/Robo2 to allow floor plate crossing	Protein327	Complex177	
+BiochemicalReaction116	Glypican-1 binds Slit2	Protein295	Complex179	
+BiochemicalReaction116	Glypican-1 binds Slit2	Complex178	Complex179	
+BiochemicalReaction117	Robo1 binds Slit2	Complex179	Complex180	
+BiochemicalReaction117	Robo1 binds Slit2	Protein297	Complex180	
+BiochemicalReaction118	Ena/VASP binds Robo1:Slit2 complex	Protein330	Complex181	
+BiochemicalReaction118	Ena/VASP binds Robo1:Slit2 complex	Complex180	Complex181	
+BiochemicalReaction119	Recruitment of Profilin by Ena/Vasp proteins	Protein334	Complex182	
+BiochemicalReaction119	Recruitment of Profilin by Ena/Vasp proteins	Complex181	Complex182	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	Protein37	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	Protein37	Protein40	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	SmallMolecule1	Protein40	
+BiochemicalReaction120	SrGAP binds Robo1:Slit2	Protein337	Complex183	
+BiochemicalReaction120	SrGAP binds Robo1:Slit2	Complex180	Complex183	
+BiochemicalReaction121	Inactivation of Cdc42	Complex149	SmallMolecule5	
+BiochemicalReaction121	Inactivation of Cdc42	Complex149	Complex147	
+BiochemicalReaction122	KIAA1688/Vilse binds Robo1:Slit2	Protein341	Complex184	
+BiochemicalReaction122	KIAA1688/Vilse binds Robo1:Slit2	Complex180	Complex184	
+BiochemicalReaction123	Inactivation of Rac1	Complex5	SmallMolecule5	
+BiochemicalReaction123	Inactivation of Rac1	Complex5	Complex34	
+BiochemicalReaction124	Nck binds Robo1:Slit2	Protein342	Complex185	
+BiochemicalReaction124	Nck binds Robo1:Slit2	Complex180	Complex185	
+BiochemicalReaction125	Recruitment of PAK to Nck	Complex185	Complex186	
+BiochemicalReaction125	Recruitment of PAK to Nck	Protein344	Complex186	
+BiochemicalReaction126	Recruitment of Sos to plasma membrane	Complex186	Complex187	
+BiochemicalReaction126	Recruitment of Sos to plasma membrane	Protein349	Complex187	
+BiochemicalReaction127	Activation of Rac by Sos	SmallMolecule3	Complex5	
+BiochemicalReaction127	Activation of Rac by Sos	Complex34	Complex5	
+BiochemicalReaction127	Activation of Rac by Sos	Complex34	SmallMolecule8	
+BiochemicalReaction127	Activation of Rac by Sos	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction128	Interaction of Abl with Robo1:Slit2	Complex180	Complex188	
+BiochemicalReaction128	Interaction of Abl with Robo1:Slit2	Protein351	Complex188	
+BiochemicalReaction129	Phosphorylation of Rob1 by Abl kinase	Complex188	SmallMolecule2	
+BiochemicalReaction129	Phosphorylation of Rob1 by Abl kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction129	Phosphorylation of Rob1 by Abl kinase	SmallMolecule1	Complex189	
+BiochemicalReaction129	Phosphorylation of Rob1 by Abl kinase	Complex188	Complex189	
+BiochemicalReaction13	Plexin-A1-4 binds NRP1	Protein43	Complex26	
+BiochemicalReaction13	Plexin-A1-4 binds NRP1	Protein44	Complex26	
+BiochemicalReaction13	Plexin-A1-4 binds NRP1	Complex25	Complex26	
+BiochemicalReaction130	Activation of CLASP	Protein355	Complex191	
+BiochemicalReaction130	Activation of CLASP	Complex188	Complex191	
+BiochemicalReaction131	Recruitment of CAP to Abl	Complex188	Complex192	
+BiochemicalReaction131	Recruitment of CAP to Abl	Protein358	Complex192	
+BiochemicalReaction132	Phosphorylation of L1 by SRC	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction132	Phosphorylation of L1 by SRC	Protein361	SmallMolecule2	
+BiochemicalReaction132	Phosphorylation of L1 by SRC	Protein361	Protein362	
+BiochemicalReaction132	Phosphorylation of L1 by SRC	SmallMolecule1	Protein362	
+BiochemicalReaction133	L1 binds ERM family members	Complex193	Complex194	
+BiochemicalReaction133	L1 binds ERM family members	Protein362	Complex194	
+BiochemicalReaction134	L1 trans-homophilic interaction	Protein361	Complex195	
+BiochemicalReaction134	L1 trans-homophilic interaction	Complex194	Complex195	
+BiochemicalReaction135	Linkage of L1 with treadmilling F-actin	PhysicalEntity10	Complex196	
+BiochemicalReaction135	Linkage of L1 with treadmilling F-actin	Complex195	Complex196	
+BiochemicalReaction136	Shootin-1 links L1 and retrograde actin flow	PhysicalEntity10	Complex197	
+BiochemicalReaction136	Shootin-1 links L1 and retrograde actin flow	Protein366	Complex197	
+BiochemicalReaction136	Shootin-1 links L1 and retrograde actin flow	Protein362	Complex197	
+BiochemicalReaction137	Dephosphorylation of pL1 (Y1176)	Complex196	SmallMolecule5	
+BiochemicalReaction137	Dephosphorylation of pL1 (Y1176)	Complex196	Complex193	
+BiochemicalReaction137	Dephosphorylation of pL1 (Y1176)	Complex196	PhysicalEntity10	
+BiochemicalReaction137	Dephosphorylation of pL1 (Y1176)	Complex196	Protein361	
+BiochemicalReaction138	L1 binds to AP-2 Clathrin complex	Complex198	Complex201	
+BiochemicalReaction138	L1 binds to AP-2 Clathrin complex	Protein361	Complex201	
+BiochemicalReaction139	Formation of clathrin coated vesicle	Protein374	SmallMolecule5	
+BiochemicalReaction139	Formation of clathrin coated vesicle	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction139	Formation of clathrin coated vesicle	Complex201	SmallMolecule5	
+BiochemicalReaction139	Formation of clathrin coated vesicle	Complex201	Complex202	
+BiochemicalReaction139	Formation of clathrin coated vesicle	SmallMolecule3	Complex202	
+BiochemicalReaction139	Formation of clathrin coated vesicle	Protein374	Complex202	
+BiochemicalReaction139	Formation of clathrin coated vesicle	Complex201	SmallMolecule8	
+BiochemicalReaction139	Formation of clathrin coated vesicle	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction139	Formation of clathrin coated vesicle	Protein374	SmallMolecule8	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex28	Protein44	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex26	Protein44	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex26	Complex29	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex28	Complex29	
+BiochemicalReaction140	Interaction of NUMB with L1	Complex203	Complex204	
+BiochemicalReaction140	Interaction of NUMB with L1	Protein361	Complex204	
+BiochemicalReaction141	Transport of L1 into endosomes	Complex202	Complex205	
+BiochemicalReaction142	Phosphorylation of L1 by p90rsk	Protein380	SmallMolecule2	
+BiochemicalReaction142	Phosphorylation of L1 by p90rsk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction142	Phosphorylation of L1 by p90rsk	Complex205	SmallMolecule2	
+BiochemicalReaction142	Phosphorylation of L1 by p90rsk	Complex205	Complex206	
+BiochemicalReaction142	Phosphorylation of L1 by p90rsk	SmallMolecule1	Complex206	
+BiochemicalReaction142	Phosphorylation of L1 by p90rsk	Protein380	Complex206	
+BiochemicalReaction143	Phosphorylation of L1 by ERK	SmallMolecule1	Complex207	
+BiochemicalReaction143	Phosphorylation of L1 by ERK	Protein164	Complex207	
+BiochemicalReaction143	Phosphorylation of L1 by ERK	Complex205	Complex207	
+BiochemicalReaction143	Phosphorylation of L1 by ERK	Complex205	SmallMolecule2	
+BiochemicalReaction143	Phosphorylation of L1 by ERK	Protein164	SmallMolecule2	
+BiochemicalReaction143	Phosphorylation of L1 by ERK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction144	Transport of L1 from C-domain to P-domain	Complex208	Complex209	
+BiochemicalReaction144	Transport of L1 from C-domain to P-domain	PhysicalEntity12	Complex209	
+BiochemicalReaction144	Transport of L1 from C-domain to P-domain	Complex205	Complex209	
+BiochemicalReaction145	Reinsertion of L1 into the plasma membrane	Complex209	Protein374	
+BiochemicalReaction145	Reinsertion of L1 into the plasma membrane	Complex209	Complex198	
+BiochemicalReaction145	Reinsertion of L1 into the plasma membrane	Complex209	Complex208	
+BiochemicalReaction145	Reinsertion of L1 into the plasma membrane	Complex209	PhysicalEntity12	
+BiochemicalReaction145	Reinsertion of L1 into the plasma membrane	Complex209	Protein361	
+BiochemicalReaction146	L1 dimer binds Ankyrin	Complex210	Complex211	
+BiochemicalReaction146	L1 dimer binds Ankyrin	Protein392	Complex211	
+BiochemicalReaction147	L1 linked to actin cytoskeleton by ankyrin	Complex212	Complex213	
+BiochemicalReaction147	L1 linked to actin cytoskeleton by ankyrin	Complex211	Complex213	
+BiochemicalReaction148	Ankyrins link voltage-gated sodium and potassium channels to spectrin and L1	Complex214	Complex217	
+BiochemicalReaction148	Ankyrins link voltage-gated sodium and potassium channels to spectrin and L1	PhysicalEntity13	Complex217	
+BiochemicalReaction149	Phosphorylation of Y1229 in L1	Complex211	Complex218	
+BiochemicalReaction149	Phosphorylation of Y1229 in L1	SmallMolecule1	Complex218	
+BiochemicalReaction149	Phosphorylation of Y1229 in L1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction149	Phosphorylation of Y1229 in L1	Complex211	SmallMolecule2	
+BiochemicalReaction149	Phosphorylation of Y1229 in L1	SmallMolecule1	Protein392	
+BiochemicalReaction149	Phosphorylation of Y1229 in L1	Complex211	Protein392	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Protein52	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Plexin-A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Complex29	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Complex29	Complex31	
+BiochemicalReaction15	Phosphorylation of Plexin-A	SmallMolecule1	Complex31	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Protein52	Complex31	
+BiochemicalReaction150	L1 and NCAM1 engaged in cis-interaction	Protein361	Complex219	
+BiochemicalReaction150	L1 and NCAM1 engaged in cis-interaction	Protein114	Complex219	
+BiochemicalReaction151	L1-FGFR cis-heterodimerization	Protein115	Complex220	
+BiochemicalReaction151	L1-FGFR cis-heterodimerization	Complex210	Complex220	
+BiochemicalReaction152	L1-EGFR trans-heterodimerization	Protein415	Complex221	
+BiochemicalReaction152	L1-EGFR trans-heterodimerization	Protein361	Complex221	
+BiochemicalReaction153	L1 binds NRP1	Protein43	Complex222	
+BiochemicalReaction153	L1 binds NRP1	Protein361	Complex222	
+BiochemicalReaction154	L1 interaction with Integrins	Complex223	Complex229	
+BiochemicalReaction154	L1 interaction with Integrins	Protein361	Complex229	
+BiochemicalReaction155	Phosphorylation of VAV2	Protein421	SmallMolecule2	
+BiochemicalReaction155	Phosphorylation of VAV2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction155	Phosphorylation of VAV2	SmallMolecule1	Protein422	
+BiochemicalReaction155	Phosphorylation of VAV2	Protein421	Protein422	
+BiochemicalReaction156	Activation of Rac1 by VAV2	SmallMolecule3	Complex5	
+BiochemicalReaction156	Activation of Rac1 by VAV2	Complex34	Complex5	
+BiochemicalReaction156	Activation of Rac1 by VAV2	Complex34	SmallMolecule8	
+BiochemicalReaction156	Activation of Rac1 by VAV2	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	Protein61	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	Complex230	Protein61	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	Complex5	Protein61	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	Complex5	SmallMolecule2	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	Complex230	SmallMolecule2	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	Complex5	Complex231	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	Complex230	Complex231	
+BiochemicalReaction157	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	Complex231	
+BiochemicalReaction158	Phosphorylation of L1 by CK-II	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction158	Phosphorylation of L1 by CK-II	Complex232	SmallMolecule2	
+BiochemicalReaction158	Phosphorylation of L1 by CK-II	Protein361	SmallMolecule2	
+BiochemicalReaction158	Phosphorylation of L1 by CK-II	Protein361	Complex233	
+BiochemicalReaction158	Phosphorylation of L1 by CK-II	Complex232	Complex233	
+BiochemicalReaction158	Phosphorylation of L1 by CK-II	SmallMolecule1	Complex233	
+BiochemicalReaction159	Interaction of L1 with Neurocan	Protein179	Complex234	
+BiochemicalReaction159	Interaction of L1 with Neurocan	Protein361	Complex234	
+BiochemicalReaction16	Activation of Rac1 by FARP2	SmallMolecule3	Complex5	
+BiochemicalReaction16	Activation of Rac1 by FARP2	Complex34	Complex5	
+BiochemicalReaction16	Activation of Rac1 by FARP2	Complex34	SmallMolecule8	
+BiochemicalReaction16	Activation of Rac1 by FARP2	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction160	Interaction of L1 with Laminin-1	Complex235	Complex237	
+BiochemicalReaction160	Interaction of L1 with Laminin-1	Complex236	Complex237	
+BiochemicalReaction161	Cis-heterodimerization of L1 and Axonin-1	Protein255	Complex238	
+BiochemicalReaction161	Cis-heterodimerization of L1 and Axonin-1	Protein361	Complex238	
+BiochemicalReaction162	Cis-heterodimerization of L1 and Contactin-1/F3/F11	Protein430	Complex239	
+BiochemicalReaction162	Cis-heterodimerization of L1 and Contactin-1/F3/F11	Protein361	Complex239	
+BiochemicalReaction163	Cis-heterodimerization of L1 and DM-GRASP/ALCAM/BEN	Protein431	Complex240	
+BiochemicalReaction163	Cis-heterodimerization of L1 and DM-GRASP/ALCAM/BEN	Protein361	Complex240	
+BiochemicalReaction164	L1 binds RanBPM	Protein432	Complex241	
+BiochemicalReaction164	L1 binds RanBPM	Protein361	Complex241	
+BiochemicalReaction165	Heat-Stable Antigen binds L1	Protein433	Complex242	
+BiochemicalReaction165	Heat-Stable Antigen binds L1	Protein361	Complex242	
+BiochemicalReaction166	Phosphorylation of L1 by EPHB2	Protein434	SmallMolecule2	
+BiochemicalReaction166	Phosphorylation of L1 by EPHB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction166	Phosphorylation of L1 by EPHB2	Protein361	SmallMolecule2	
+BiochemicalReaction166	Phosphorylation of L1 by EPHB2	Protein361	Complex243	
+BiochemicalReaction166	Phosphorylation of L1 by EPHB2	SmallMolecule1	Complex243	
+BiochemicalReaction166	Phosphorylation of L1 by EPHB2	Protein434	Complex243	
+BiochemicalReaction167	CHL1 interacts with Ankyrin-G	Protein393	Complex244	
+BiochemicalReaction167	CHL1 interacts with Ankyrin-G	Protein436	Complex244	
+BiochemicalReaction168	CHL1 interacts with HSP7C	SmallMolecule2	Complex245	
+BiochemicalReaction168	CHL1 interacts with HSP7C	Protein437	Complex245	
+BiochemicalReaction168	CHL1 interacts with HSP7C	Protein436	Complex245	
+BiochemicalReaction169	CHL1 interacts with NRP1	Protein43	Complex246	
+BiochemicalReaction169	CHL1 interacts with NRP1	Protein436	Complex246	
+BiochemicalReaction17	Rac1 binds PlexinA	Complex31	Complex35	
+BiochemicalReaction17	Rac1 binds PlexinA	Complex5	Complex35	
+BiochemicalReaction170	CHL1 interacts with beta1 integrins	Complex247	Complex250	
+BiochemicalReaction170	CHL1 interacts with beta1 integrins	Protein436	Complex250	
+BiochemicalReaction171	CHL1 interacts with contactin-6	Protein440	Complex251	
+BiochemicalReaction171	CHL1 interacts with contactin-6	Protein436	Complex251	
+BiochemicalReaction172	Neurofascin binds Ankyrin-G	Protein393	Complex252	
+BiochemicalReaction172	Neurofascin binds Ankyrin-G	Protein396	Complex252	
+BiochemicalReaction173	Trans-homodimerization of Neurofascin	Protein396	Complex253	
+BiochemicalReaction173	Trans-homodimerization of Neurofascin	Complex252	Complex253	
+BiochemicalReaction174	Neurofascin and NrCAM heterodimerization	Protein396	Complex215	
+BiochemicalReaction174	Neurofascin and NrCAM heterodimerization	Protein397	Complex215	
+BiochemicalReaction175	Phosphorylation of Neurofascin	Complex253	SmallMolecule2	
+BiochemicalReaction175	Phosphorylation of Neurofascin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction175	Phosphorylation of Neurofascin	SmallMolecule1	Protein393	
+BiochemicalReaction175	Phosphorylation of Neurofascin	Complex253	Protein393	
+BiochemicalReaction175	Phosphorylation of Neurofascin	SmallMolecule1	Complex254	
+BiochemicalReaction175	Phosphorylation of Neurofascin	Complex253	Complex254	
+BiochemicalReaction176	Doublecortin binds phosphorylated neurofascin	Protein442	Complex255	
+BiochemicalReaction176	Doublecortin binds phosphorylated neurofascin	Complex254	Complex255	
+BiochemicalReaction177	Neurofascin interacts with syntenin-1	Protein443	Complex256	
+BiochemicalReaction177	Neurofascin interacts with syntenin-1	Protein396	Complex256	
+BiochemicalReaction178	Neurofascin binds contactin-1:CASPR complex	Protein396	Complex258	
+BiochemicalReaction178	Neurofascin binds contactin-1:CASPR complex	Complex257	Complex258	
+BiochemicalReaction179	NrCAM binds Ankyrin-G	Protein393	Complex259	
+BiochemicalReaction179	NrCAM binds Ankyrin-G	Protein397	Complex259	
+BiochemicalReaction18	Recruitment of Rnd1 to Plexin A	Complex7	Complex36	
+BiochemicalReaction18	Recruitment of Rnd1 to Plexin A	Complex35	Complex36	
+BiochemicalReaction180	NrCAM binds axonin-1	Protein255	Complex260	
+BiochemicalReaction180	NrCAM binds axonin-1	Protein397	Complex260	
+BiochemicalReaction181	NrCAM binds synapse-associated proteins	Protein445	Complex261	
+BiochemicalReaction181	NrCAM binds synapse-associated proteins	Protein397	Complex261	
+BiochemicalReaction182	NrCAM binds Neuropilin-2	Protein449	Complex262	
+BiochemicalReaction182	NrCAM binds Neuropilin-2	Protein397	Complex262	
+BiochemicalReaction183	CDO binds BOC	Protein450	Complex263	
+BiochemicalReaction183	CDO binds BOC	Protein451	Complex263	
+BiochemicalReaction184	CDO binds promyogenic cadherins	Complex263	Complex266	
+BiochemicalReaction184	CDO binds promyogenic cadherins	Complex264	Complex266	
+BiochemicalReaction185	Bnip2 interacts with CDO complex	Protein460	Complex267	
+BiochemicalReaction185	Bnip2 interacts with CDO complex	Complex266	Complex267	
+BiochemicalReaction186	Interaction of Bnip-2 with Cdc42	Complex267	Complex268	
+BiochemicalReaction186	Interaction of Bnip-2 with Cdc42	Complex149	Complex268	
+BiochemicalReaction187	JLP interacts with CDO complex	Protein461	Complex269	
+BiochemicalReaction187	JLP interacts with CDO complex	Complex268	Complex269	
+BiochemicalReaction188	Interaction of ABL1 with CDO complex	Protein352	Complex270	
+BiochemicalReaction188	Interaction of ABL1 with CDO complex	Complex269	Complex270	
+BiochemicalReaction189	Interaction of p38 MAPK with JLP	Complex270	Complex271	
+BiochemicalReaction189	Interaction of p38 MAPK with JLP	Protein462	Complex271	
+BiochemicalReaction19	Inactivation of R-Ras by Sema3A-Plexin-A GAP activity	Complex9	SmallMolecule5	
+BiochemicalReaction19	Inactivation of R-Ras by Sema3A-Plexin-A GAP activity	Complex9	Complex10	
+BiochemicalReaction190	Activation of p38 alpha/beta MAPK	Complex271	SmallMolecule2	
+BiochemicalReaction190	Activation of p38 alpha/beta MAPK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction190	Activation of p38 alpha/beta MAPK	SmallMolecule1	Complex272	
+BiochemicalReaction190	Activation of p38 alpha/beta MAPK	Complex271	Complex272	
+BiochemicalReaction191	Nuclear translocation of p38 MAPK	Complex272	Complex270	
+BiochemicalReaction191	Nuclear translocation of p38 MAPK	Complex272	Protein471	
+BiochemicalReaction192	Phosphorylation of E proteins by p38 MAPK	Protein475	SmallMolecule11	
+BiochemicalReaction192	Phosphorylation of E proteins by p38 MAPK	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction192	Phosphorylation of E proteins by p38 MAPK	SmallMolecule10	Protein476	
+BiochemicalReaction192	Phosphorylation of E proteins by p38 MAPK	Protein475	Protein476	
+BiochemicalReaction193	Heterodimerization of E proteins with Myod	Protein477	Complex273	
+BiochemicalReaction193	Heterodimerization of E proteins with Myod	Protein482	Complex273	
+BiochemicalReaction194	Phosphorylation of MEF2 proteins by p38	Protein471	SmallMolecule11	
+BiochemicalReaction194	Phosphorylation of MEF2 proteins by p38	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction194	Phosphorylation of MEF2 proteins by p38	Protein485	SmallMolecule11	
+BiochemicalReaction194	Phosphorylation of MEF2 proteins by p38	Protein485	Complex274	
+BiochemicalReaction194	Phosphorylation of MEF2 proteins by p38	SmallMolecule10	Complex274	
+BiochemicalReaction194	Phosphorylation of MEF2 proteins by p38	Protein471	Complex274	
+BiochemicalReaction195	Interaction of MyoD:E protein with MEF2	Protein490	Complex275	
+BiochemicalReaction195	Interaction of MyoD:E protein with MEF2	Complex273	Complex275	
+BiochemicalReaction196	Neogenin:Netrin-3 binds CDO complex	Complex263	Complex277	
+BiochemicalReaction196	Neogenin:Netrin-3 binds CDO complex	Complex276	Complex277	
+BiochemicalReaction197	AKT phosphorylates FOXO1A	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction197	AKT phosphorylates FOXO1A	Protein510	SmallMolecule11	
+BiochemicalReaction197	AKT phosphorylates FOXO1A	Protein510	Protein511	
+BiochemicalReaction197	AKT phosphorylates FOXO1A	SmallMolecule10	Protein511	
+BiochemicalReaction198	Phosphorylated FOXO1A is excluded from the nucleus	Protein511	Protein516	
+BiochemicalReaction199	Cleavage of NODAL Proprotein	Protein532	Protein533	
+BiochemicalReaction2	Active Rac1 interacts with Plexin-B1:Sema4D	Complex5	Complex6	
+BiochemicalReaction2	Active Rac1 interacts with Plexin-B1:Sema4D	Complex3	Complex6	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Complex37	Complex38	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Protein44	Complex38	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Protein44	Protein58	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Complex37	Protein58	
+BiochemicalReaction200	The NODAL Receptor Binds NODAL Ligands	Complex278	Complex284	
+BiochemicalReaction200	The NODAL Receptor Binds NODAL Ligands	Complex281	Complex284	
+BiochemicalReaction201	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	SmallMolecule1	Complex286	
+BiochemicalReaction201	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	Complex285	Complex286	
+BiochemicalReaction201	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	Complex285	SmallMolecule2	
+BiochemicalReaction201	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction202	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction202	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	Complex288	SmallMolecule2	
+BiochemicalReaction202	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	Complex288	Complex289	
+BiochemicalReaction202	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	SmallMolecule1	Complex289	
+BiochemicalReaction203	Phosphorylation of R-SMAD2/3 by NODAL Receptor	Protein548	SmallMolecule2	
+BiochemicalReaction203	Phosphorylation of R-SMAD2/3 by NODAL Receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction203	Phosphorylation of R-SMAD2/3 by NODAL Receptor	SmallMolecule1	Protein551	
+BiochemicalReaction203	Phosphorylation of R-SMAD2/3 by NODAL Receptor	Protein548	Protein551	
+BiochemicalReaction204	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein554	Complex293	
+BiochemicalReaction204	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein551	Complex293	
+BiochemicalReaction205	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex293	Complex294	
+BiochemicalReaction206	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	Protein559	Complex295	
+BiochemicalReaction206	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	Complex294	Complex295	
+BiochemicalReaction206	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	PhysicalEntity15	Complex295	
+BiochemicalReaction207	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXO3 Binds FoxO3a-binding Elements	Protein561	Complex297	
+BiochemicalReaction207	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXO3 Binds FoxO3a-binding Elements	PhysicalEntity16	Complex297	
+BiochemicalReaction207	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXO3 Binds FoxO3a-binding Elements	Complex294	Complex297	
+BiochemicalReaction208	CERBERUS Binds NODAL	Protein533	Complex298	
+BiochemicalReaction208	CERBERUS Binds NODAL	Protein562	Complex298	
+BiochemicalReaction209	LEFTY Binds NODAL	Protein533	Complex299	
+BiochemicalReaction209	LEFTY Binds NODAL	Protein563	Complex299	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex39	Protein60	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex35	Protein60	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex35	Complex40	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex39	Complex40	
+BiochemicalReaction210	LEFTY Binds the EGF-CFC Coreceptor in the NODAL Receptor	Protein563	Complex300	
+BiochemicalReaction210	LEFTY Binds the EGF-CFC Coreceptor in the NODAL Receptor	Complex278	Complex300	
+BiochemicalReaction211	Formation of PPARG:RXRA Heterodimer (ARF6 Complex)	Protein572	Complex302	
+BiochemicalReaction211	Formation of PPARG:RXRA Heterodimer (ARF6 Complex)	Protein580	Complex302	
+BiochemicalReaction212	PPARG:RXRA Heterodimer binds to PPARG corepressors	Complex302	Complex303	
+BiochemicalReaction212	PPARG:RXRA Heterodimer binds to PPARG corepressors	Protein581	Complex303	
+BiochemicalReaction212	PPARG:RXRA Heterodimer binds to PPARG corepressors	Protein582	Complex303	
+BiochemicalReaction212	PPARG:RXRA Heterodimer binds to PPARG corepressors	Protein583	Complex303	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein584	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein585	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein586	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein587	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein588	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein589	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex303	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex304	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein591	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex305	Protein581	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex305	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein591	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex304	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex303	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein589	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein588	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein587	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein586	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein585	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein584	Complex306	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex305	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein591	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex304	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex303	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein589	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein588	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein587	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein586	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein585	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein584	Protein590	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex305	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein591	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex304	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex303	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein589	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein588	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein587	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein586	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein585	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein584	Protein582	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex305	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein591	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex304	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Complex303	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein589	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein588	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein587	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein586	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein585	Protein583	
+BiochemicalReaction213	PPARG:RXRA Heterodimer Binds to Fatty Acid-like Ligands	Protein584	Protein583	
+BiochemicalReaction22	Autophosphorylation of PAK	SmallMolecule1	Complex41	
+BiochemicalReaction22	Autophosphorylation of PAK	Complex40	Complex41	
+BiochemicalReaction22	Autophosphorylation of PAK	Complex40	SmallMolecule2	
+BiochemicalReaction22	Autophosphorylation of PAK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	Protein38	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	Protein38	Protein41	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	SmallMolecule1	Protein41	
+BiochemicalReaction24	Dimerization of LIMK1 by Hsp90	Protein66	Complex42	
+BiochemicalReaction24	Dimerization of LIMK1 by Hsp90	Protein41	Complex42	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	SmallMolecule1	Protein66	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	Complex42	Protein66	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	Complex42	SmallMolecule2	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	Complex42	Complex43	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	SmallMolecule1	Complex43	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Protein70	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Complex43	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Complex43	Complex44	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	SmallMolecule1	Complex44	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Protein70	Complex44	
+BiochemicalReaction27	Activation of Fyn	Complex28	Complex47	
+BiochemicalReaction27	Activation of Fyn	Complex45	Complex47	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex48	Complex49	
+BiochemicalReaction28	Recruitment and activation of Cdk5	SmallMolecule1	Complex49	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex47	Complex49	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex47	SmallMolecule2	
+BiochemicalReaction28	Recruitment and activation of Cdk5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex48	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex49	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex54	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	SmallMolecule1	Complex55	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex54	Complex55	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex49	Complex55	
+BiochemicalReaction3	Rnd1 interacts with Plexin-B1:Sema4D	Complex7	Complex8	
+BiochemicalReaction3	Rnd1 interacts with Plexin-B1:Sema4D	Complex3	Complex8	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	Complex55	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	Complex55	Complex59	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	SmallMolecule1	Complex59	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex54	SmallMolecule2	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex31	SmallMolecule2	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	SmallMolecule1	Complex63	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex31	Complex63	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex54	Complex63	
+BiochemicalReaction32	SEMA3E binds to PLXND1	Protein98	Complex65	
+BiochemicalReaction32	SEMA3E binds to PLXND1	Protein99	Complex65	
+BiochemicalReaction33	SEMA4A binds to PLXND1	Protein98	Complex66	
+BiochemicalReaction33	SEMA4A binds to PLXND1	Protein100	Complex66	
+BiochemicalReaction34	SEMA4D interacts with CD45	Protein1	Complex67	
+BiochemicalReaction34	SEMA4D interacts with CD45	Protein101	Complex67	
+BiochemicalReaction35	SEMA4D interacts with CD72	Protein1	Complex68	
+BiochemicalReaction35	SEMA4D interacts with CD72	Protein102	Complex68	
+BiochemicalReaction36	SEMA5A binds to PLXNB3	Protein103	Complex69	
+BiochemicalReaction36	SEMA5A binds to PLXNB3	Protein104	Complex69	
+BiochemicalReaction37	SEMA6A binds to PLXNA2 and PLXNA4	Protein105	Complex70	
+BiochemicalReaction37	SEMA6A binds to PLXNA2 and PLXNA4	Protein106	Complex70	
+BiochemicalReaction38	SEMA6D binds to PLXNA1:TREM2:DAP12	Complex71	Complex74	
+BiochemicalReaction38	SEMA6D binds to PLXNA1:TREM2:DAP12	Protein109	Complex74	
+BiochemicalReaction39	SEMA7A binds to PLXNC1	Protein110	Complex75	
+BiochemicalReaction39	SEMA7A binds to PLXNC1	Protein111	Complex75	
+BiochemicalReaction4	Inactivation of R-Ras by Sema4D-Plexin-B1 GAP activity	Complex9	SmallMolecule5	
+BiochemicalReaction4	Inactivation of R-Ras by Sema4D-Plexin-B1 GAP activity	Complex9	Complex10	
+BiochemicalReaction40	SEMA7A binds to integrin alpha1beta1	Complex76	Complex77	
+BiochemicalReaction40	SEMA7A binds to integrin alpha1beta1	Protein110	Complex77	
+BiochemicalReaction41	NCAM1 cis-homophilic interaction	Protein114	Complex78	
+BiochemicalReaction42	NCAM1 trans-homophilic interaction	Complex78	Complex79	
+BiochemicalReaction43	NCAM1 binds FGFR-1	Complex80	Complex81	
+BiochemicalReaction43	NCAM1 binds FGFR-1	Complex78	Complex81	
+BiochemicalReaction44	Fyn binds NCAM1	Complex79	Complex83	
+BiochemicalReaction44	Fyn binds NCAM1	Protein116	Complex83	
+BiochemicalReaction45	Dephosphorylation of NCAM1 bound pFyn	Complex84	SmallMolecule5	
+BiochemicalReaction45	Dephosphorylation of NCAM1 bound pFyn	Protein126	SmallMolecule5	
+BiochemicalReaction45	Dephosphorylation of NCAM1 bound pFyn	Complex83	SmallMolecule5	
+BiochemicalReaction45	Dephosphorylation of NCAM1 bound pFyn	Complex83	Complex85	
+BiochemicalReaction45	Dephosphorylation of NCAM1 bound pFyn	Protein126	Complex85	
+BiochemicalReaction45	Dephosphorylation of NCAM1 bound pFyn	Complex84	Complex85	
+BiochemicalReaction46	Autophosphorylation of NCAM1 bound Fyn	SmallMolecule1	Complex87	
+BiochemicalReaction46	Autophosphorylation of NCAM1 bound Fyn	Complex85	Complex87	
+BiochemicalReaction46	Autophosphorylation of NCAM1 bound Fyn	Complex85	SmallMolecule2	
+BiochemicalReaction46	Autophosphorylation of NCAM1 bound Fyn	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction47	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Complex87	SmallMolecule2	
+BiochemicalReaction47	Recruitment of FAK to NCAM1:Fyn in lipid rafts	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction47	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Protein128	SmallMolecule2	
+BiochemicalReaction47	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Protein128	Complex89	
+BiochemicalReaction47	Recruitment of FAK to NCAM1:Fyn in lipid rafts	SmallMolecule1	Complex89	
+BiochemicalReaction47	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Complex87	Complex89	
+BiochemicalReaction48	Phosphorylation of FAK by Src kinase	Complex89	SmallMolecule2	
+BiochemicalReaction48	Phosphorylation of FAK by Src kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction48	Phosphorylation of FAK by Src kinase	SmallMolecule1	Complex90	
+BiochemicalReaction48	Phosphorylation of FAK by Src kinase	Complex89	Complex90	
+BiochemicalReaction49	Recruitment of Grb2 to pFAK:NCAM1	Complex90	Complex91	
+BiochemicalReaction49	Recruitment of Grb2 to pFAK:NCAM1	Protein132	Complex91	
+BiochemicalReaction5	p190RhoGAP binds Plexin-B1	Complex8	Complex11	
+BiochemicalReaction5	p190RhoGAP binds Plexin-B1	Protein8	Complex11	
+BiochemicalReaction50	SOS binds Grb2 bound to pFAK:NCAM1	Complex91	Complex93	
+BiochemicalReaction50	SOS binds Grb2 bound to pFAK:NCAM1	Protein133	Complex93	
+BiochemicalReaction51	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	SmallMolecule3	Complex96	
+BiochemicalReaction51	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	Complex95	Complex96	
+BiochemicalReaction51	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	Complex95	SmallMolecule8	
+BiochemicalReaction51	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction52	p-RAF binds 14-3-3 beta/alpha	Protein138	Complex97	
+BiochemicalReaction52	p-RAF binds 14-3-3 beta/alpha	Protein139	Complex97	
+BiochemicalReaction53	Transient dissociation of 14-3-3 upon Ras binding	Complex97	Complex98	
+BiochemicalReaction53	Transient dissociation of 14-3-3 upon Ras binding	Complex96	Complex98	
+BiochemicalReaction53	Transient dissociation of 14-3-3 upon Ras binding	Complex96	Protein138	
+BiochemicalReaction53	Transient dissociation of 14-3-3 upon Ras binding	Complex97	Protein138	
+BiochemicalReaction54	Stabilisation of RAS:RAF by 14-3-3	Complex98	Complex99	
+BiochemicalReaction54	Stabilisation of RAS:RAF by 14-3-3	Protein138	Complex99	
+BiochemicalReaction55	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex100	
+BiochemicalReaction55	Stabilisation of RAF by further phosphorylation	Complex99	Complex100	
+BiochemicalReaction55	Stabilisation of RAF by further phosphorylation	Complex99	SmallMolecule2	
+BiochemicalReaction55	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction56	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein139	Complex102	
+BiochemicalReaction56	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex101	Complex102	
+BiochemicalReaction57	Activated RAF1 complex binds MEK	Protein141	Complex103	
+BiochemicalReaction57	Activated RAF1 complex binds MEK	Complex100	Complex103	
+BiochemicalReaction58	RAF1  phosphorylates MEK1	SmallMolecule1	Protein144	
+BiochemicalReaction58	RAF1  phosphorylates MEK1	Complex104	Protein144	
+BiochemicalReaction58	RAF1  phosphorylates MEK1	Complex104	Complex100	
+BiochemicalReaction58	RAF1  phosphorylates MEK1	SmallMolecule1	Complex100	
+BiochemicalReaction58	RAF1  phosphorylates MEK1	Complex104	SmallMolecule2	
+BiochemicalReaction58	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction59	RAF1 phosphorylates MEK2	Complex105	Complex100	
+BiochemicalReaction59	RAF1 phosphorylates MEK2	SmallMolecule1	Complex100	
+BiochemicalReaction59	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction59	RAF1 phosphorylates MEK2	Complex105	SmallMolecule2	
+BiochemicalReaction59	RAF1 phosphorylates MEK2	SmallMolecule1	Protein145	
+BiochemicalReaction59	RAF1 phosphorylates MEK2	Complex105	Protein145	
+BiochemicalReaction6	Inactivation of Rho-GTP by p190RhoGAP	Complex12	SmallMolecule5	
+BiochemicalReaction6	Inactivation of Rho-GTP by p190RhoGAP	Complex12	Complex13	
+BiochemicalReaction60	Inactivation of MEK1 by p34cdc2	Protein146	SmallMolecule2	
+BiochemicalReaction60	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction60	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein147	
+BiochemicalReaction60	Inactivation of MEK1 by p34cdc2	Protein146	Protein147	
+BiochemicalReaction61	MEK1 binds ERK-1	Protein144	Complex106	
+BiochemicalReaction61	MEK1 binds ERK-1	Protein151	Complex106	
+BiochemicalReaction62	MEK1 phosphorylates ERK-1	Complex106	Complex107	
+BiochemicalReaction62	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex107	
+BiochemicalReaction62	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction62	MEK1 phosphorylates ERK-1	Complex106	SmallMolecule2	
+BiochemicalReaction63	Dissociation of phospho-ERK-1:MEK1	Complex107	Protein144	
+BiochemicalReaction63	Dissociation of phospho-ERK-1:MEK1	Complex107	Protein152	
+BiochemicalReaction64	Dimerisation of phospho-ERK-1	Protein152	Complex108	
+BiochemicalReaction65	Nuclear translocation of phospho-ERK-1 dimer	Complex108	Complex109	
+BiochemicalReaction66	MEK2 binds ERK-2	Protein145	Complex118	
+BiochemicalReaction66	MEK2 binds ERK-2	Protein163	Complex118	
+BiochemicalReaction67	MEK2 phosphorylates ERK-2	Complex118	SmallMolecule2	
+BiochemicalReaction67	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction67	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex119	
+BiochemicalReaction67	MEK2 phosphorylates ERK-2	Complex118	Complex119	
+BiochemicalReaction68	Dissociation of phospho-ERK-2:MEK2	Complex119	Protein145	
+BiochemicalReaction68	Dissociation of phospho-ERK-2:MEK2	Complex119	Protein164	
+BiochemicalReaction69	Dimerisation of phospho-ERK-2	Protein164	Complex120	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex14	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex14	Complex15	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	Complex15	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	Complex15	
+BiochemicalReaction70	Nuclear translocation of phospho-ERK-2 dimer	Complex120	Complex121	
+BiochemicalReaction71	ERK1/2 phosphorylates MSK1	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction71	ERK1/2 phosphorylates MSK1	Protein166	SmallMolecule11	
+BiochemicalReaction71	ERK1/2 phosphorylates MSK1	Protein166	Protein167	
+BiochemicalReaction71	ERK1/2 phosphorylates MSK1	SmallMolecule10	Protein167	
+BiochemicalReaction72	MSK1 activates CREB	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction72	MSK1 activates CREB	Protein168	SmallMolecule11	
+BiochemicalReaction72	MSK1 activates CREB	Protein168	Protein169	
+BiochemicalReaction72	MSK1 activates CREB	SmallMolecule10	Protein169	
+BiochemicalReaction73	Interaction of NCAM1 with GFRalpha-1	Protein170	Complex123	
+BiochemicalReaction73	Interaction of NCAM1 with GFRalpha-1	Protein114	Complex123	
+BiochemicalReaction74	Interaction of NCAM1:GFRalpha-1 with GDNF	Complex123	Complex124	
+BiochemicalReaction74	Interaction of NCAM1:GFRalpha-1 with GDNF	Protein174	Complex124	
+BiochemicalReaction75	Interaction of NCAM1 with Neurocan	Protein179	Complex125	
+BiochemicalReaction75	Interaction of NCAM1 with Neurocan	Protein114	Complex125	
+BiochemicalReaction76	Interaction of NCAM1 with collagens	PhysicalEntity2	Complex131	
+BiochemicalReaction76	Interaction of NCAM1 with collagens	Protein114	Complex131	
+BiochemicalReaction77	Interaction of NCAM1 with Major prion protein (PrP)	Protein253	Complex132	
+BiochemicalReaction77	Interaction of NCAM1 with Major prion protein (PrP)	Protein114	Complex132	
+BiochemicalReaction78	Interaction of NCAM1 with agrin	Protein254	Complex133	
+BiochemicalReaction78	Interaction of NCAM1 with agrin	Protein114	Complex133	
+BiochemicalReaction79	Interaction of NCAM1 with contactin-2	Protein255	Complex134	
+BiochemicalReaction79	Interaction of NCAM1 with contactin-2	Protein114	Complex134	
+BiochemicalReaction8	LARG and PDZ-RhoGEF binds to Plexin-B1	Complex17	Complex19	
+BiochemicalReaction8	LARG and PDZ-RhoGEF binds to Plexin-B1	Protein16	Complex19	
+BiochemicalReaction80	NCAM1 binds to ATP	SmallMolecule9	Complex82	
+BiochemicalReaction80	NCAM1 binds to ATP	Protein114	Complex82	
+BiochemicalReaction81	Polysialylation of NCAM1	PhysicalEntity7	Complex135	
+BiochemicalReaction81	Polysialylation of NCAM1	Protein256	Complex135	
+BiochemicalReaction82	NCAM1 interacts with T- and L-type VDCC	Complex79	Complex136	
+BiochemicalReaction82	NCAM1 interacts with T- and L-type VDCC	PhysicalEntity8	Complex136	
+BiochemicalReaction83	DCC interaction with Netrin-1	Protein272	Complex137	
+BiochemicalReaction83	DCC interaction with Netrin-1	Protein273	Complex137	
+BiochemicalReaction84	Netrin-1 induced DCC clustering	Complex137	Complex138	
+BiochemicalReaction84	Netrin-1 induced DCC clustering	Protein273	Complex138	
+BiochemicalReaction85	FADK1 interaction with DCC	Complex138	Complex139	
+BiochemicalReaction85	FADK1 interaction with DCC	Protein128	Complex139	
+BiochemicalReaction86	Phosphorylation of FADK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction86	Phosphorylation of FADK1	Complex139	SmallMolecule2	
+BiochemicalReaction86	Phosphorylation of FADK1	Complex139	Complex140	
+BiochemicalReaction86	Phosphorylation of FADK1	SmallMolecule1	Complex140	
+BiochemicalReaction87	Recruitment of Src and Fyn to DCC:FADK1	Complex140	Complex141	
+BiochemicalReaction87	Recruitment of Src and Fyn to DCC:FADK1	Protein274	Complex141	
+BiochemicalReaction88	Phosphorylation of DCC by Fyn	Complex141	SmallMolecule2	
+BiochemicalReaction88	Phosphorylation of DCC by Fyn	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction88	Phosphorylation of DCC by Fyn	SmallMolecule1	Complex142	
+BiochemicalReaction88	Phosphorylation of DCC by Fyn	Complex141	Complex142	
+BiochemicalReaction89	DCC interacting NCK-1	Protein276	Complex145	
+BiochemicalReaction89	DCC interacting NCK-1	Complex142	Complex145	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	Complex21	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	Complex20	Complex21	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	Complex20	SmallMolecule8	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction90	RhoGTPase GEF's recruited to DCC	Complex145	Complex146	
+BiochemicalReaction90	RhoGTPase GEF's recruited to DCC	Protein277	Complex146	
+BiochemicalReaction91	Activation of Cdc42	Complex146	Complex148	
+BiochemicalReaction91	Activation of Cdc42	SmallMolecule3	Complex148	
+BiochemicalReaction91	Activation of Cdc42	Complex147	Complex148	
+BiochemicalReaction91	Activation of Cdc42	Complex147	SmallMolecule8	
+BiochemicalReaction91	Activation of Cdc42	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction91	Activation of Cdc42	Complex146	SmallMolecule8	
+BiochemicalReaction92	Activation of Rac1	Complex146	Complex150	
+BiochemicalReaction92	Activation of Rac1	SmallMolecule3	Complex150	
+BiochemicalReaction92	Activation of Rac1	Complex34	Complex150	
+BiochemicalReaction92	Activation of Rac1	Complex34	SmallMolecule8	
+BiochemicalReaction92	Activation of Rac1	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction92	Activation of Rac1	Complex146	SmallMolecule8	
+BiochemicalReaction93	Recruitment and activation of N-WASP by Cdc42	Protein280	Complex151	
+BiochemicalReaction93	Recruitment and activation of N-WASP by Cdc42	Complex148	Complex151	
+BiochemicalReaction93	Recruitment and activation of N-WASP by Cdc42	SmallMolecule12	Complex151	
+BiochemicalReaction94	Recruitment of ABLIM to the plasma membrane	Complex150	Complex152	
+BiochemicalReaction94	Recruitment of ABLIM to the plasma membrane	Protein282	Complex152	
+BiochemicalReaction95	UNC-5 binds Netrin-1	Protein286	Complex153	
+BiochemicalReaction95	UNC-5 binds Netrin-1	Protein272	Complex153	
+BiochemicalReaction96	DCC heterodimerizes with UNC-5:Netrin-1	Complex153	Complex154	
+BiochemicalReaction96	DCC heterodimerizes with UNC-5:Netrin-1	Protein273	Complex154	
+BiochemicalReaction97	Phosphorylation of Unc5C	Complex155	SmallMolecule2	
+BiochemicalReaction97	Phosphorylation of Unc5C	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction97	Phosphorylation of Unc5C	SmallMolecule1	Complex157	
+BiochemicalReaction97	Phosphorylation of Unc5C	Complex155	Complex157	
+BiochemicalReaction98	Shp2 binds pUnc5C	Complex157	Complex159	
+BiochemicalReaction98	Shp2 binds pUnc5C	Protein292	Complex159	
+BiochemicalReaction99	DCC interaction with ROBO-1	Complex160	Complex161	
+BiochemicalReaction99	DCC interaction with ROBO-1	Protein273	Complex161	
+TemplateReaction1	HNF1B-dependent synthesis of HNF6 protein	NA	Protein494	
+TemplateReaction10	RBPJ- and NOTCH1-dependent synthesis of HES1 protein during morphogenesis	NA	Protein503	
+TemplateReaction11	NEUROG3-dependent synthesis of PAX4 protein	NA	Protein506	
+TemplateReaction12	NEUROG3-dependent synthesis of NEUROD1	NA	Protein507	
+TemplateReaction13	NEUROG3-dependent synthesis of NKX2-2	NA	Protein508	
+TemplateReaction14	NEUROG3-dependent synthesis of INSM1	NA	Protein509	
+TemplateReaction15	FOXOA2-, MAFA-, and PAX6-dependent synthesis of PDX1 protein	NA	Protein499	
+TemplateReaction16	MAFA-, NKX2-2-, PAX6-, and PDX1-dependent synthesis of insulin precursor protein	NA	Protein520	
+TemplateReaction17	PDX1-dependent synthesis of IAPP protein	NA	Protein521	
+TemplateReaction18	PDX1-dependent synthesis of NKX6-1 protein	NA	Protein501	
+TemplateReaction19	NEUROD1- and PDX1-dependent synthesis of glucokinase (GCK) protein	NA	Protein522	
+TemplateReaction2	HNF1B- and FGF10-dependent synthesis of PTF1A protein	NA	Protein496	
+TemplateReaction20	HNF1A-dependent synthesis of GLUT2 protein	NA	Protein523	
+TemplateReaction21	HNF1A-dependent synthesis of the L isoform of PKLR protein	NA	Protein525	
+TemplateReaction22	HNF1A-dependent synthesis of HNF4A	NA	Protein526	
+TemplateReaction23	HNF1A-dependent synthesis of HNF4G protein	NA	Protein530	
+TemplateReaction24	HNF1A-dependent synthesis of FOXA3	NA	Protein531	
+TemplateReaction25	Expression of CEBPB	NA	Protein566	
+TemplateReaction26	Expression of CEBPD	NA	Protein569	
+TemplateReaction27	Expression of KLF5	NA	Protein570	
+TemplateReaction28	Expression of EBF1	NA	Protein571	
+TemplateReaction29	Expression of PPARG	NA	Protein572	
+TemplateReaction3	HNF6-dependent synthesis of ONECUT3 protein during early pancreas specification	NA	Protein498	
+TemplateReaction30	Expression of FABP4 (aP2)	NA	Protein623	
+TemplateReaction31	Expression of Perilipin (PLIN)	NA	Protein626	
+TemplateReaction32	Expression of Phosphoenolpyruvate carboxykinase 1 (PEPCK-C)	NA	Protein627	
+TemplateReaction33	Expression of ANGPTL4	NA	Protein628	
+TemplateReaction34	Expression of Lipoprotein lipase (LPL)	NA	Protein638	
+TemplateReaction35	Expression of CEBPA	NA	Protein639	
+TemplateReaction36	Expression of CD36 (platelet glycoprotein IV, FAT)	NA	Protein644	
+TemplateReaction37	Maintenance of PPARG Expression in Differentiated Adipocytes	NA	Protein572	
+TemplateReaction38	Expression of Leptin	NA	Protein645	
+TemplateReaction39	Expression of Adiponectin	NA	Protein646	
+TemplateReaction4	HNF6- and FGF10-dependent synthesis of PDX1 protein	NA	Protein499	
+TemplateReaction40	Expression of GLUT4	NA	Complex312	
+TemplateReaction5	PDX1-dependent synthesis of NR5A2 protein	NA	Protein500	
+TemplateReaction6	PDX1-dependent synthesis of NKX6-1 protein	NA	Protein501	
+TemplateReaction7	HNF6-dependent synthesis of HNF1B protein	NA	Protein495	
+TemplateReaction8	HNF6-dependent synthesis of ONECUT3 protein during morphogenesis	NA	Protein498	
+TemplateReaction9	HNF6-dependent synthesis of NEUROG3 protein during morphogenesis	NA	Protein502	

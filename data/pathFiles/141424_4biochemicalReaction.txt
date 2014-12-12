@@ -1,0 +1,7 @@
+BiochemicalReaction1	Mad1 binds kinetochore	Protein1	Complex1	
+BiochemicalReaction1	Mad1 binds kinetochore	PhysicalEntity1	Complex1	
+BiochemicalReaction2	MAD2 associates with the Mad1 kinetochore complex	Protein2	Complex2	
+BiochemicalReaction2	MAD2 associates with the Mad1 kinetochore complex	Complex1	Complex2	
+BiochemicalReaction3	MAD2 converted  to an inhibitory state via interaction with Mad1	Complex2	Complex3	
+BiochemicalReaction4	Release of activated MAD2 from kinetochores	Complex3	Protein3	
+BiochemicalReaction4	Release of activated MAD2 from kinetochores	Complex3	Complex1	

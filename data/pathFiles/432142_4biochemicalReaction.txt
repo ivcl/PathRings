@@ -1,0 +1,23 @@
+BiochemicalReaction1	LDL binds to LRP8	Complex1	Complex2	
+BiochemicalReaction1	LDL binds to LRP8	Protein2	Complex2	
+BiochemicalReaction2	FGR binds and phosphorylates LRP8	Protein3	SmallMolecule6	
+BiochemicalReaction2	FGR binds and phosphorylates LRP8	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	FGR binds and phosphorylates LRP8	Complex2	SmallMolecule6	
+BiochemicalReaction2	FGR binds and phosphorylates LRP8	Complex2	Complex3	
+BiochemicalReaction2	FGR binds and phosphorylates LRP8	SmallMolecule5	Complex3	
+BiochemicalReaction2	FGR binds and phosphorylates LRP8	Protein3	Complex3	
+BiochemicalReaction3	Fgr may phosphorylate p38 MAPK	SmallMolecule5	Protein6	
+BiochemicalReaction3	Fgr may phosphorylate p38 MAPK	Protein5	Protein6	
+BiochemicalReaction3	Fgr may phosphorylate p38 MAPK	Protein5	SmallMolecule6	
+BiochemicalReaction3	Fgr may phosphorylate p38 MAPK	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein7	Protein8	
+BiochemicalReaction4	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule5	Protein8	
+BiochemicalReaction4	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein7	SmallMolecule6	
+BiochemicalReaction5	LDL leads to activation of PECAM1	Complex1	Protein9	
+BiochemicalReaction6	PECAM-1 binds PP2A	Complex5	Complex6	
+BiochemicalReaction6	PECAM-1 binds PP2A	Protein9	Complex6	
+BiochemicalReaction7	Interaction of PECAM-1 and SHP-1	Protein9	Complex7	
+BiochemicalReaction7	Interaction of PECAM-1 and SHP-1	Protein22	Complex7	
+BiochemicalReaction8	Interaction of PECAM-1 and SHP-2	Protein9	Complex8	
+BiochemicalReaction8	Interaction of PECAM-1 and SHP-2	Protein23	Complex8	

@@ -1,0 +1,38 @@
+Complex1	Connexin 32 connexon	endoplasmic reticulum membrane	Reactome DB_ID: 190647	Protein19	
+Complex11	Junctional channel	plasma membrane	Reactome DB_ID: 191068	Complex10	
+Complex12	gap junction plaque	plasma membrane	Reactome DB_ID: 191660	Complex11	
+Complex13	planar gap junction plaques	plasma membrane	Reactome DB_ID: 196020	Complex14	
+Complex13	planar gap junction plaques	plasma membrane	Reactome DB_ID: 196020	Complex12	
+Complex13	planar gap junction plaques	plasma membrane	Reactome DB_ID: 196020	Protein35	
+Complex13	planar gap junction plaques	plasma membrane	Reactome DB_ID: 196020	PhysicalEntity2	
+Complex14	Clathrin	plasma membrane	Reactome DB_ID: 196043	Protein29	
+Complex14	Clathrin	plasma membrane	Reactome DB_ID: 196043	Protein32	
+Complex15	planar gap junction plaques associated with Dab2	plasma membrane	Reactome DB_ID: 196033	Complex13	
+Complex15	planar gap junction plaques associated with Dab2	plasma membrane	Reactome DB_ID: 196033	Protein36	
+Complex16	Planar gap junction plaques associated with Dab2 and Dynamin	plasma membrane	Reactome DB_ID: 196018	Complex15	
+Complex16	Planar gap junction plaques associated with Dab2 and Dynamin	plasma membrane	Reactome DB_ID: 196018	Protein37	
+Complex17	Invaginating gap junction plaques	lysosomal membrane	Reactome DB_ID: 196145	Protein41	
+Complex17	Invaginating gap junction plaques	lysosomal membrane	Reactome DB_ID: 196145	Complex18	
+Complex17	Invaginating gap junction plaques	lysosomal membrane	Reactome DB_ID: 196145	Protein53	
+Complex18	planar gap junction plaques containing Dab2	lysosomal membrane	Reactome DB_ID: 196148	Protein44	
+Complex18	planar gap junction plaques containing Dab2	lysosomal membrane	Reactome DB_ID: 196148	Complex19	
+Complex19	junctional plaque prior to invagination	lysosomal membrane	Reactome DB_ID: 196167	Complex20	
+Complex19	junctional plaque prior to invagination	lysosomal membrane	Reactome DB_ID: 196167	PhysicalEntity3	
+Complex19	junctional plaque prior to invagination	lysosomal membrane	Reactome DB_ID: 196167	Protein51	
+Complex19	junctional plaque prior to invagination	lysosomal membrane	Reactome DB_ID: 196167	Complex21	
+Complex2	Connexin 26:Connexin 32 connexon	endoplasmic reticulum-Golgi intermediate compartment	Reactome DB_ID: 190632	Protein24	
+Complex2	Connexin 26:Connexin 32 connexon	endoplasmic reticulum-Golgi intermediate compartment	Reactome DB_ID: 190632	Protein23	
+Complex20	Clathrin	lysosomal membrane	Reactome DB_ID: 196154	Protein45	
+Complex20	Clathrin	lysosomal membrane	Reactome DB_ID: 196154	Protein48	
+Complex21	gap junction plaque	lysosomal membrane	Reactome DB_ID: 196152	Complex22	
+Complex22	Junctional channel	lysosomal membrane	Reactome DB_ID: 196171	Complex23	
+Complex24	Connexin 43 hemi-channel	lysosomal membrane	Reactome DB_ID: 196166	Protein52	
+Complex3	Connexin 43 connexon	Golgi membrane	Reactome DB_ID: 190652	Protein25	
+Complex4	Connexin 26 Connexon	endoplasmic reticulum-Golgi intermediate compartment	Reactome DB_ID: 190641	Protein23	
+Complex5	Connexon 26	plasma membrane	Reactome DB_ID: 112301	Protein26	
+Complex6	Connexin 43 connexon in Golgi transport vesicle	Golgi-associated vesicle membrane	Reactome DB_ID: 190583	Protein27	
+Complex7	connexons in Golgi transport vesicle docked to microtubules	cytosol	Reactome DB_ID: 190556	Complex6	
+Complex7	connexons in Golgi transport vesicle docked to microtubules	cytosol	Reactome DB_ID: 190556	PhysicalEntity1	
+Complex8	Docked Cx43-containing transport vesicles	plasma membrane	Reactome DB_ID: 194780	Complex6	
+Complex8	Docked Cx43-containing transport vesicles	plasma membrane	Reactome DB_ID: 194780	PhysicalEntity1	
+Complex9	Connexin 43  hemi-channel	plasma membrane	Reactome DB_ID: 158053	Protein28	

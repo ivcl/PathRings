@@ -1,0 +1,42 @@
+BiochemicalReaction1	Proteolytic Processing of SUMO1	Protein1	Protein2	
+BiochemicalReaction2	Proteolytic Processing of SUMO2	Protein7	Protein8	
+BiochemicalReaction3	Proteolytic Processing of SUMO3	Protein9	Protein10	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	Protein2	Complex2	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	Complex1	Complex2	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	SmallMolecule1	Complex2	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	Complex1	SmallMolecule2	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	Protein2	SmallMolecule2	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	Complex1	SmallMolecule3	
+BiochemicalReaction4	Conjugation of SUMO1 to UBA2:SAE1	Protein2	SmallMolecule3	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	Complex1	Complex4	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	SmallMolecule1	Complex4	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	Protein8	Complex4	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	Protein8	SmallMolecule2	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	Complex1	SmallMolecule2	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	Protein8	SmallMolecule3	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction5	Conjugation of SUMO2 to UBA2:SAE1	Complex1	SmallMolecule3	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	Complex1	Complex6	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	Protein10	Complex6	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	SmallMolecule1	Complex6	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	Protein10	SmallMolecule2	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	Complex1	SmallMolecule2	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	Protein10	SmallMolecule3	
+BiochemicalReaction6	Conjugation of SUMO3 to UBA2:SAE1	Complex1	SmallMolecule3	
+BiochemicalReaction7	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Complex2	Complex1	
+BiochemicalReaction7	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Protein19	Complex1	
+BiochemicalReaction7	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Protein19	Complex8	
+BiochemicalReaction7	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Complex2	Complex8	
+BiochemicalReaction8	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Protein19	Complex1	
+BiochemicalReaction8	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Complex4	Complex1	
+BiochemicalReaction8	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Complex4	Complex9	
+BiochemicalReaction8	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Protein19	Complex9	
+BiochemicalReaction9	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Protein19	Complex10	
+BiochemicalReaction9	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Complex6	Complex10	
+BiochemicalReaction9	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Complex6	Complex1	
+BiochemicalReaction9	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Protein19	Complex1	

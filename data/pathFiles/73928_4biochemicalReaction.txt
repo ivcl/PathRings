@@ -1,0 +1,48 @@
+BiochemicalReaction1	UNG glycosylase mediated recognition and binding of a 5-hydroxyuracil opposite to a guanine	PhysicalEntity1	Complex1	
+BiochemicalReaction1	UNG glycosylase mediated recognition and binding of a 5-hydroxyuracil opposite to a guanine	Protein1	Complex1	
+BiochemicalReaction10	hNTH1 glycosylase mediated recognition and binding of dihydrouracil 	PhysicalEntity9	Complex10	
+BiochemicalReaction10	hNTH1 glycosylase mediated recognition and binding of dihydrouracil 	Protein5	Complex10	
+BiochemicalReaction11	hNTH1 glycosylase mediated recognition and binding of formamidopyrimidine	PhysicalEntity10	Complex11	
+BiochemicalReaction11	hNTH1 glycosylase mediated recognition and binding of formamidopyrimidine	Protein5	Complex11	
+BiochemicalReaction12	hNTH1 glycosylase mediated recognition and binding of thymine glycol	PhysicalEntity11	Complex12	
+BiochemicalReaction12	hNTH1 glycosylase mediated recognition and binding of thymine glycol	Protein5	Complex12	
+BiochemicalReaction13	Cleavage of uracil by UNG2 glycosylase	Complex2	Complex13	
+BiochemicalReaction13	Cleavage of uracil by UNG2 glycosylase	Complex2	SmallMolecule1	
+BiochemicalReaction14	Cleavage of 5-hydroxyluracil by UNG2 glycosylase 	Complex1	Complex13	
+BiochemicalReaction14	Cleavage of 5-hydroxyluracil by UNG2 glycosylase 	Complex1	SmallMolecule2	
+BiochemicalReaction15	Cleavage of uracil by TDG glycosylase	Complex5	Complex14	
+BiochemicalReaction15	Cleavage of uracil by TDG glycosylase	Complex5	SmallMolecule1	
+BiochemicalReaction16	Cleavage of  thymine by TDG glycosylase	Complex4	Complex14	
+BiochemicalReaction16	Cleavage of  thymine by TDG glycosylase	Complex4	SmallMolecule3	
+BiochemicalReaction17	Cleavage of uracil by hSMUG1 glycosylase	Complex6	Complex15	
+BiochemicalReaction17	Cleavage of uracil by hSMUG1 glycosylase	Complex6	SmallMolecule1	
+BiochemicalReaction18	Cleavage of thymine glycol  by hNTH1 glycosylase  	Complex12	Complex16	
+BiochemicalReaction18	Cleavage of thymine glycol  by hNTH1 glycosylase  	Complex12	PhysicalEntity13	
+BiochemicalReaction19	Cleavage of cytosine glycol by hNTH1 glycosylase	Complex9	Complex16	
+BiochemicalReaction19	Cleavage of cytosine glycol by hNTH1 glycosylase	Complex9	PhysicalEntity14	
+BiochemicalReaction2	UNG glycosylase mediated recognition and binding of an uracil opposite to a guanine	Protein1	Complex2	
+BiochemicalReaction2	UNG glycosylase mediated recognition and binding of an uracil opposite to a guanine	PhysicalEntity2	Complex2	
+BiochemicalReaction20	Cleavage of dihydrouracil by hNTH1 glycosylase	Complex10	SmallMolecule4	
+BiochemicalReaction20	Cleavage of dihydrouracil by hNTH1 glycosylase	Complex10	Complex16	
+BiochemicalReaction21	Cleavage of formamidopyrimidine  by hNTH1 glycosylase 	Complex11	SmallMolecule5	
+BiochemicalReaction21	Cleavage of formamidopyrimidine  by hNTH1 glycosylase 	Complex11	Complex16	
+BiochemicalReaction22	Cleavage of uracil by MBD4 glycosylase	Complex8	Complex17	
+BiochemicalReaction22	Cleavage of uracil by MBD4 glycosylase	Complex8	SmallMolecule1	
+BiochemicalReaction23	Cleavage of  thymine by MBD4 glycosylase	Complex7	Complex17	
+BiochemicalReaction23	Cleavage of  thymine by MBD4 glycosylase	Complex7	SmallMolecule3	
+BiochemicalReaction24	Cleavage of ethenocytosine by TDG glycosylase 	Complex3	Complex14	
+BiochemicalReaction24	Cleavage of ethenocytosine by TDG glycosylase 	Complex3	SmallMolecule6	
+BiochemicalReaction3	TDG glycosylase mediated recognition and binding of an ethenocytosine	PhysicalEntity3	Complex3	
+BiochemicalReaction3	TDG glycosylase mediated recognition and binding of an ethenocytosine	Protein2	Complex3	
+BiochemicalReaction4	TDG glycosylase mediated recognition and binding of an thymine opposite to a guanine	PhysicalEntity4	Complex4	
+BiochemicalReaction4	TDG glycosylase mediated recognition and binding of an thymine opposite to a guanine	Protein2	Complex4	
+BiochemicalReaction5	TDG glycosylase mediated recognition and binding of an uracil opposite to a guanine	PhysicalEntity2	Complex5	
+BiochemicalReaction5	TDG glycosylase mediated recognition and binding of an uracil opposite to a guanine	Protein2	Complex5	
+BiochemicalReaction6	hSMUG1 glycosylase mediated recognition and binding of uracil within single-stranded DNA	PhysicalEntity5	Complex6	
+BiochemicalReaction6	hSMUG1 glycosylase mediated recognition and binding of uracil within single-stranded DNA	Protein3	Complex6	
+BiochemicalReaction7	MBD4 glycosylase mediated recognition and binding of a thymine opposite to a guanine at CpG sequences	PhysicalEntity6	Complex7	
+BiochemicalReaction7	MBD4 glycosylase mediated recognition and binding of a thymine opposite to a guanine at CpG sequences	Protein4	Complex7	
+BiochemicalReaction8	MBD4 glycosylase mediated recognition and binding of an uracil opposite to a guanine at CpG sequences	PhysicalEntity7	Complex8	
+BiochemicalReaction8	MBD4 glycosylase mediated recognition and binding of an uracil opposite to a guanine at CpG sequences	Protein4	Complex8	
+BiochemicalReaction9	hNTH1 glycosylase mediated recognition and binding of cytosine glycol	PhysicalEntity8	Complex9	
+BiochemicalReaction9	hNTH1 glycosylase mediated recognition and binding of cytosine glycol	Protein5	Complex9	

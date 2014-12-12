@@ -1,0 +1,8 @@
+Complex1	FN1 dimer	extracellular region	Reactome DB_ID: 266103	Protein1	
+Complex2	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein2	
+Complex2	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein3	
+Complex3	Integrin alpha5beta1:FN1 dimer	plasma membrane	Reactome DB_ID: 202708	Complex1	
+Complex3	Integrin alpha5beta1:FN1 dimer	plasma membrane	Reactome DB_ID: 202708	SmallMolecule1	
+Complex3	Integrin alpha5beta1:FN1 dimer	plasma membrane	Reactome DB_ID: 202708	Complex2	
+Complex4	Integrin alpha5beta1:Fibronectin matrix	plasma membrane	Reactome DB_ID: 2327790	PhysicalEntity1	
+Complex4	Integrin alpha5beta1:Fibronectin matrix	plasma membrane	Reactome DB_ID: 2327790	Complex2	

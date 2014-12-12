@@ -1,0 +1,16 @@
+BiochemicalReaction1	Inhibition of JAK kinase activity by SOCS1/3	Protein1	Complex5	
+BiochemicalReaction1	Inhibition of JAK kinase activity by SOCS1/3	Complex1	Complex5	
+BiochemicalReaction2	UBP43 binds IFNAR2 and prevents JAK1 interaction	Protein7	Complex9	
+BiochemicalReaction2	UBP43 binds IFNAR2 and prevents JAK1 interaction	Protein26	Complex9	
+BiochemicalReaction3	Dephosphorylation of TYK2 by PTP1B	Complex10	SmallMolecule2	
+BiochemicalReaction3	Dephosphorylation of TYK2 by PTP1B	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Dephosphorylation of TYK2 by PTP1B	SmallMolecule1	Complex12	
+BiochemicalReaction3	Dephosphorylation of TYK2 by PTP1B	Complex10	Complex12	
+BiochemicalReaction4	Dephosphorylation of JAK1 by SHP1	Complex12	SmallMolecule2	
+BiochemicalReaction4	Dephosphorylation of JAK1 by SHP1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Dephosphorylation of JAK1 by SHP1	SmallMolecule1	Complex1	
+BiochemicalReaction4	Dephosphorylation of JAK1 by SHP1	Complex12	Complex1	
+BiochemicalReaction5	Dephosphorylation of STAT1 by SHP2	Complex13	SmallMolecule2	
+BiochemicalReaction5	Dephosphorylation of STAT1 by SHP2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Dephosphorylation of STAT1 by SHP2	SmallMolecule1	Complex16	
+BiochemicalReaction5	Dephosphorylation of STAT1 by SHP2	Complex13	Complex16	

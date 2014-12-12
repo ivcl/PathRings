@@ -1,0 +1,337 @@
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein2	
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein3	
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein4	
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein5	
+BiochemicalReaction10	IL1R1:IL1:IL1RAP binds MYD88 homodimer	Complex7	Complex9	
+BiochemicalReaction10	IL1R1:IL1:IL1RAP binds MYD88 homodimer	Complex8	Complex9	
+BiochemicalReaction100	CBL:CRKL binds RAPGEF1	Protein186	Complex185	
+BiochemicalReaction100	CBL:CRKL binds RAPGEF1	Complex184	Complex185	
+BiochemicalReaction101	CBL binds B-cell linker protein	Protein178	Complex186	
+BiochemicalReaction101	CBL binds B-cell linker protein	Protein187	Complex186	
+BiochemicalReaction102	CBL binds VAV	Protein178	Complex187	
+BiochemicalReaction102	CBL binds VAV	Protein188	Complex187	
+BiochemicalReaction103	IL3 stimulation induces Vav binding to Tec kinase	Protein189	Complex188	
+BiochemicalReaction103	IL3 stimulation induces Vav binding to Tec kinase	Protein188	Complex188	
+BiochemicalReaction104	SHP1 and SHP2 bind the common beta chain	Protein190	Complex189	
+BiochemicalReaction104	SHP1 and SHP2 bind the common beta chain	Complex170	Complex189	
+BiochemicalReaction105	SHP1 and SHP2 dephosphorylate Y628 of IL3RB	Complex189	Complex190	
+BiochemicalReaction106	SHP2 can recruit GRB2	Protein117	Complex199	
+BiochemicalReaction106	SHP2 can recruit GRB2	Protein191	Complex199	
+BiochemicalReaction107	IL3RB is phosphorylated on Ser-585	Complex150	Complex200	
+BiochemicalReaction108	p-S585-IL3RB binds 14-3-3 proteins	Protein198	Complex208	
+BiochemicalReaction108	p-S585-IL3RB binds 14-3-3 proteins	Complex200	Complex208	
+BiochemicalReaction109	14-3-3 zeta binding allows recruitment of PI3K	Complex208	Complex209	
+BiochemicalReaction109	14-3-3 zeta binding allows recruitment of PI3K	Complex97	Complex209	
+BiochemicalReaction11	IL1R1:IL1:IL1RAP:MYD88 homodimer binds IRAK4	Complex9	Complex10	
+BiochemicalReaction11	IL1R1:IL1:IL1RAP:MYD88 homodimer binds IRAK4	Protein33	Complex10	
+BiochemicalReaction110	JAKs associate with IL6RB (gp130)	Protein199	Complex210	
+BiochemicalReaction110	JAKs associate with IL6RB (gp130)	Protein200	Complex210	
+BiochemicalReaction111	Interleukin-6 binds to soluble IL-6 receptor	Protein155	Complex133	
+BiochemicalReaction111	Interleukin-6 binds to soluble IL-6 receptor	Protein157	Complex133	
+BiochemicalReaction112	IL6:sIL6R binds sgp130	Protein202	Complex211	
+BiochemicalReaction112	IL6:sIL6R binds sgp130	Complex133	Complex211	
+BiochemicalReaction113	Interleukin-6 binds to IL-6 receptor alpha subunit	Protein155	Complex131	
+BiochemicalReaction113	Interleukin-6 binds to IL-6 receptor alpha subunit	Protein156	Complex131	
+BiochemicalReaction114	IL6:sIL6R binds to JAKs:IL6RB (gp130)	Complex133	Complex212	
+BiochemicalReaction114	IL6:sIL6R binds to JAKs:IL6RB (gp130)	Complex210	Complex212	
+BiochemicalReaction115	IL6:IL6RA binds JAKs:IL6RB (gp130)	Complex131	Complex213	
+BiochemicalReaction115	IL6:IL6RA binds JAKs:IL6RB (gp130)	Complex210	Complex213	
+BiochemicalReaction116	Assembly of a hexameric IL-6 receptor	Complex214	Complex215	
+BiochemicalReaction117	JAK activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction117	JAK activation	Complex215	SmallMolecule2	
+BiochemicalReaction117	JAK activation	Complex215	Complex216	
+BiochemicalReaction117	JAK activation	SmallMolecule1	Complex216	
+BiochemicalReaction118	Phosphorylation of gp130	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction118	Phosphorylation of gp130	Complex216	SmallMolecule2	
+BiochemicalReaction118	Phosphorylation of gp130	Complex216	Complex127	
+BiochemicalReaction118	Phosphorylation of gp130	SmallMolecule1	Complex127	
+BiochemicalReaction119	STATs bind gp130 phosphotyrosines	Complex127	Complex221	
+BiochemicalReaction119	STATs bind gp130 phosphotyrosines	Protein203	Complex221	
+BiochemicalReaction12	The Interleukin 1 receptor complex binds Tollip	Protein34	Complex11	
+BiochemicalReaction12	The Interleukin 1 receptor complex binds Tollip	Complex10	Complex11	
+BiochemicalReaction120	Tyrosine phosphorylation of STATs by IL6 receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction120	Tyrosine phosphorylation of STATs by IL6 receptor	Complex221	SmallMolecule2	
+BiochemicalReaction120	Tyrosine phosphorylation of STATs by IL6 receptor	Complex221	Complex222	
+BiochemicalReaction120	Tyrosine phosphorylation of STATs by IL6 receptor	SmallMolecule1	Complex222	
+BiochemicalReaction121	Serine phosphorylation of STATs	Complex222	Complex224	
+BiochemicalReaction121	Serine phosphorylation of STATs	SmallMolecule1	Complex224	
+BiochemicalReaction121	Serine phosphorylation of STATs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction121	Serine phosphorylation of STATs	Complex222	SmallMolecule2	
+BiochemicalReaction122	Phosphorylated STATs are released	Complex222	Complex127	
+BiochemicalReaction122	Phosphorylated STATs are released	Complex222	Protein206	
+BiochemicalReaction123	Phosphorylated STAT1, STAT3 form dimers	Protein206	Complex225	
+BiochemicalReaction124	STAT1/3 dimers translocate to the nucleus	Complex225	Complex229	
+BiochemicalReaction125	SHP2 binds gp130 phosphotyrosine-759	Complex127	Complex233	
+BiochemicalReaction125	SHP2 binds gp130 phosphotyrosine-759	Protein191	Complex233	
+BiochemicalReaction126	SHP2 is phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction126	SHP2 is phosphorylated	Complex233	SmallMolecule2	
+BiochemicalReaction126	SHP2 is phosphorylated	Complex233	Complex126	
+BiochemicalReaction126	SHP2 is phosphorylated	SmallMolecule1	Complex126	
+BiochemicalReaction127	SOCS3 binds gp130	Protein209	Complex223	
+BiochemicalReaction127	SOCS3 binds gp130	Complex127	Complex223	
+BiochemicalReaction128	SHP2 binds c-Cbl upon IL-6 stimulation	Protein172	Complex234	
+BiochemicalReaction128	SHP2 binds c-Cbl upon IL-6 stimulation	Complex233	Complex234	
+BiochemicalReaction129	PPBSF is a complex of IL7 and HGFbeta	Protein215	Complex235	
+BiochemicalReaction129	PPBSF is a complex of IL7 and HGFbeta	Protein216	Complex235	
+BiochemicalReaction13	IRAK4 is activated by autophosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	IRAK4 is activated by autophosphorylation	Complex11	SmallMolecule2	
+BiochemicalReaction13	IRAK4 is activated by autophosphorylation	Complex11	Complex12	
+BiochemicalReaction13	IRAK4 is activated by autophosphorylation	SmallMolecule1	Complex12	
+BiochemicalReaction130	IL7RA associates with JAK1	Protein92	Complex236	
+BiochemicalReaction130	IL7RA associates with JAK1	Protein217	Complex236	
+BiochemicalReaction131	Interleukin-7 binds IL7RA:JAK1	Protein215	Complex237	
+BiochemicalReaction131	Interleukin-7 binds IL7RA:JAK1	Complex236	Complex237	
+BiochemicalReaction132	Interleukin-7:IL7RA:JAK1 binds Gc:JAK3	Complex52	Complex238	
+BiochemicalReaction132	Interleukin-7:IL7RA:JAK1 binds Gc:JAK3	Complex237	Complex238	
+BiochemicalReaction133	IL7RA is phosphorylated on Y449	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction133	IL7RA is phosphorylated on Y449	Complex238	SmallMolecule2	
+BiochemicalReaction133	IL7RA is phosphorylated on Y449	Complex238	Complex239	
+BiochemicalReaction133	IL7RA is phosphorylated on Y449	SmallMolecule1	Complex239	
+BiochemicalReaction134	p(Y449)-IL7RA mediates STAT5 activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction134	p(Y449)-IL7RA mediates STAT5 activation	Protein219	SmallMolecule2	
+BiochemicalReaction134	p(Y449)-IL7RA mediates STAT5 activation	Protein219	Protein220	
+BiochemicalReaction134	p(Y449)-IL7RA mediates STAT5 activation	SmallMolecule1	Protein220	
+BiochemicalReaction135	p85 binds p(Y449)-IL7RA	Complex239	Complex242	
+BiochemicalReaction135	p85 binds p(Y449)-IL7RA	Protein221	Complex242	
+BiochemicalReaction14	IRAK1 binds to MYD88 within the IL1R complex	Protein36	Complex13	
+BiochemicalReaction14	IRAK1 binds to MYD88 within the IL1R complex	Complex12	Complex13	
+BiochemicalReaction15	IRAK4 phosphorylates IRAK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	IRAK4 phosphorylates IRAK1	Complex13	SmallMolecule2	
+BiochemicalReaction15	IRAK4 phosphorylates IRAK1	Complex13	Complex14	
+BiochemicalReaction15	IRAK4 phosphorylates IRAK1	SmallMolecule1	Complex14	
+BiochemicalReaction16	IRAK4-activated IRAK1 autophosphorylates	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	IRAK4-activated IRAK1 autophosphorylates	Complex14	SmallMolecule2	
+BiochemicalReaction16	IRAK4-activated IRAK1 autophosphorylates	Complex14	Complex15	
+BiochemicalReaction16	IRAK4-activated IRAK1 autophosphorylates	SmallMolecule1	Complex15	
+BiochemicalReaction17	IRAK2 is phosphorylated downstream of IRAK4 following IL1 receptor activation	Protein39	Protein40	
+BiochemicalReaction17	IRAK2 is phosphorylated downstream of IRAK4 following IL1 receptor activation	Complex12	Protein40	
+BiochemicalReaction18	Hyperphosphorylated IRAK1 associates with TRAF6	Protein41	Complex16	
+BiochemicalReaction18	Hyperphosphorylated IRAK1 associates with TRAF6	Complex15	Complex16	
+BiochemicalReaction19	p62:MEKK3 binds to TRAF6	Protein41	Complex18	
+BiochemicalReaction19	p62:MEKK3 binds to TRAF6	Complex17	Complex18	
+BiochemicalReaction2	Formation of caspase-1 p10/p20 dimer	Protein2	Complex1	
+BiochemicalReaction2	Formation of caspase-1 p10/p20 dimer	Protein3	Complex1	
+BiochemicalReaction20	TRAF6 binding leads to IRAK1:TRAF6 release	Complex16	Protein34	
+BiochemicalReaction20	TRAF6 binding leads to IRAK1:TRAF6 release	Complex16	Complex9	
+BiochemicalReaction20	TRAF6 binding leads to IRAK1:TRAF6 release	Complex16	Protein35	
+BiochemicalReaction20	TRAF6 binding leads to IRAK1:TRAF6 release	Complex16	Complex19	
+BiochemicalReaction21	IRAK1 induces oligomerisation of TRAF6	Protein41	Complex20	
+BiochemicalReaction21	IRAK1 induces oligomerisation of TRAF6	Complex19	Complex20	
+BiochemicalReaction22	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex20	Complex21	
+BiochemicalReaction22	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex21	Complex21	
+BiochemicalReaction22	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	PhysicalEntity1	Complex21	
+BiochemicalReaction22	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	PhysicalEntity1	Complex22	
+BiochemicalReaction22	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex21	Complex22	
+BiochemicalReaction22	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex20	Complex22	
+BiochemicalReaction23	Polyubiquitinated TRAF6 interacts with TAK1 complex	Complex24	Complex25	
+BiochemicalReaction23	Polyubiquitinated TRAF6 interacts with TAK1 complex	Complex22	Complex25	
+BiochemicalReaction24	TAK1 is activated within the TAK1 complex	Complex25	Complex26	
+BiochemicalReaction25	IRAK1 and 4  interact with Pellino1,2 and 3	Protein53	Complex27	
+BiochemicalReaction25	IRAK1 and 4  interact with Pellino1,2 and 3	Protein57	Complex27	
+BiochemicalReaction26	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	Complex27	SmallMolecule2	
+BiochemicalReaction26	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	SmallMolecule1	Complex30	
+BiochemicalReaction26	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	Complex27	Complex30	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	Complex31	Protein58	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	Complex21	Protein58	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	PhysicalEntity1	Protein58	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	PhysicalEntity1	Protein62	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	Complex21	Protein62	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	Complex31	Protein62	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	PhysicalEntity1	Complex21	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	Complex21	Complex21	
+BiochemicalReaction27	Pellino ubiquitinates IRAK1	Complex31	Complex21	
+BiochemicalReaction28	NEMO binds polyubiquitinated IRAK1	Protein62	Complex34	
+BiochemicalReaction28	NEMO binds polyubiquitinated IRAK1	Complex33	Complex34	
+BiochemicalReaction29	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex33	SmallMolecule2	
+BiochemicalReaction29	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex33	Complex35	
+BiochemicalReaction29	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule1	Complex35	
+BiochemicalReaction3	Caspase-1 active tetramer formation	Complex1	Complex2	
+BiochemicalReaction30	TAK1 phosphorylates MKK6	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	TAK1 phosphorylates MKK6	Protein75	SmallMolecule2	
+BiochemicalReaction30	TAK1 phosphorylates MKK6	Protein75	Protein76	
+BiochemicalReaction30	TAK1 phosphorylates MKK6	SmallMolecule1	Protein76	
+BiochemicalReaction31	The IKKB complex phosphorylates NFkB p105	Protein77	SmallMolecule2	
+BiochemicalReaction31	The IKKB complex phosphorylates NFkB p105	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	The IKKB complex phosphorylates NFkB p105	SmallMolecule1	Protein78	
+BiochemicalReaction31	The IKKB complex phosphorylates NFkB p105	Protein77	Protein78	
+BiochemicalReaction32	The SCF betaTrCP complex binds p-NFkB p105	Protein78	Complex49	
+BiochemicalReaction32	The SCF betaTrCP complex binds p-NFkB p105	Complex48	Complex49	
+BiochemicalReaction33	Beta-TrCP ubiquitinates then dissociates from p-NFKB p105	Complex49	Protein83	
+BiochemicalReaction33	Beta-TrCP ubiquitinates then dissociates from p-NFKB p105	Complex49	Complex48	
+BiochemicalReaction34	NFKB p105, TPL2 (COT) and ABIN2 form a stable complex	Protein77	Complex50	
+BiochemicalReaction34	NFKB p105, TPL2 (COT) and ABIN2 form a stable complex	Protein84	Complex50	
+BiochemicalReaction34	NFKB p105, TPL2 (COT) and ABIN2 form a stable complex	Protein85	Complex50	
+BiochemicalReaction35	TPL2 phosphorylates MEK1, SEK1	SmallMolecule1	Protein89	
+BiochemicalReaction35	TPL2 phosphorylates MEK1, SEK1	Protein86	Protein89	
+BiochemicalReaction35	TPL2 phosphorylates MEK1, SEK1	Protein86	SmallMolecule2	
+BiochemicalReaction35	TPL2 phosphorylates MEK1, SEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction36	IL2RB associates with JAK1	Protein92	Complex51	
+BiochemicalReaction36	IL2RB associates with JAK1	Protein93	Complex51	
+BiochemicalReaction37	IL2RG associates with JAK3	Protein94	Complex52	
+BiochemicalReaction37	IL2RG associates with JAK3	Protein95	Complex52	
+BiochemicalReaction38	Interleukin-2 receptor alpha binds interleukin-2	Protein96	Complex53	
+BiochemicalReaction38	Interleukin-2 receptor alpha binds interleukin-2	Protein97	Complex53	
+BiochemicalReaction39	Interleukin-2 receptor alpha:IL2 binds Interleukin-2 receptor beta	Complex51	Complex54	
+BiochemicalReaction39	Interleukin-2 receptor alpha:IL2 binds Interleukin-2 receptor beta	Complex53	Complex54	
+BiochemicalReaction4	Interleukin-1 family precursors are cleaved by caspase-1	Protein6	Protein10	
+BiochemicalReaction4	Interleukin-1 family precursors are cleaved by caspase-1	Protein6	Protein14	
+BiochemicalReaction40	Interleukin-2: IL2 receptor alpha:beta binds IL2 receptor gamma subunit	Complex54	Complex55	
+BiochemicalReaction40	Interleukin-2: IL2 receptor alpha:beta binds IL2 receptor gamma subunit	Complex52	Complex55	
+BiochemicalReaction41	Within the IL-2R complex JAK3 phosphorylates JAK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction41	Within the IL-2R complex JAK3 phosphorylates JAK1	Complex55	SmallMolecule2	
+BiochemicalReaction41	Within the IL-2R complex JAK3 phosphorylates JAK1	Complex55	Complex56	
+BiochemicalReaction41	Within the IL-2R complex JAK3 phosphorylates JAK1	SmallMolecule1	Complex56	
+BiochemicalReaction42	JAK1 phosphorylates Y338, Y392 and Y510 of IL2RB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction42	JAK1 phosphorylates Y338, Y392 and Y510 of IL2RB	Complex56	SmallMolecule2	
+BiochemicalReaction42	JAK1 phosphorylates Y338, Y392 and Y510 of IL2RB	Complex56	Complex60	
+BiochemicalReaction42	JAK1 phosphorylates Y338, Y392 and Y510 of IL2RB	SmallMolecule1	Complex60	
+BiochemicalReaction43	Phosphorylation of IL2RB Y338 enables SHC recruitment	Complex60	Complex61	
+BiochemicalReaction43	Phosphorylation of IL2RB Y338 enables SHC recruitment	Protein100	Complex61	
+BiochemicalReaction44	Phosphorylation of IL2RB Y338, Y392 or Y510 enables STAT recruitment	Protein101	Complex62	
+BiochemicalReaction44	Phosphorylation of IL2RB Y338, Y392 or Y510 enables STAT recruitment	Complex60	Complex62	
+BiochemicalReaction45	SHC1 bound to IL2 receptor is phosphorylated	SmallMolecule1	Complex63	
+BiochemicalReaction45	SHC1 bound to IL2 receptor is phosphorylated	Complex61	Complex63	
+BiochemicalReaction45	SHC1 bound to IL2 receptor is phosphorylated	Complex61	SmallMolecule2	
+BiochemicalReaction45	SHC1 bound to IL2 receptor is phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	Phosphorylated SHC1 recruits GRB2:GAB2	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction46	Phosphorylated SHC1 recruits GRB2:GAB2	Complex80	PhysicalEntity3	
+BiochemicalReaction47	SHC1 mediates cytokine-induced phosphorylation of GAB2	SmallMolecule1	PhysicalEntity4	
+BiochemicalReaction47	SHC1 mediates cytokine-induced phosphorylation of GAB2	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction47	SHC1 mediates cytokine-induced phosphorylation of GAB2	PhysicalEntity3	SmallMolecule2	
+BiochemicalReaction47	SHC1 mediates cytokine-induced phosphorylation of GAB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction48	Gab2 binds the p85 subunit of Class 1A PI3 kinases	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction48	Gab2 binds the p85 subunit of Class 1A PI3 kinases	Complex97	PhysicalEntity5	
+BiochemicalReaction49	Phosphorylated SHC recruits GRB2:SOS1	PhysicalEntity2	Complex107	
+BiochemicalReaction49	Phosphorylated SHC recruits GRB2:SOS1	Complex106	Complex107	
+BiochemicalReaction5	Interleukin-1 family are secreted	Protein14	Protein22	
+BiochemicalReaction50	SOS1 activates H-Ras	SmallMolecule5	Complex109	
+BiochemicalReaction50	SOS1 activates H-Ras	Complex108	Complex109	
+BiochemicalReaction50	SOS1 activates H-Ras	Complex108	SmallMolecule6	
+BiochemicalReaction50	SOS1 activates H-Ras	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction51	Phosphorylated SHC1 recruits SHIP	PhysicalEntity2	Complex110	
+BiochemicalReaction51	Phosphorylated SHC1 recruits SHIP	Protein129	Complex110	
+BiochemicalReaction52	The SHC1:SHIP1 complex is stabilized by GRB2	Complex111	Complex112	
+BiochemicalReaction52	The SHC1:SHIP1 complex is stabilized by GRB2	Protein117	Complex112	
+BiochemicalReaction53	p-RAF binds 14-3-3 beta/alpha	Protein133	Complex113	
+BiochemicalReaction53	p-RAF binds 14-3-3 beta/alpha	Protein134	Complex113	
+BiochemicalReaction54	Transient dissociation of 14-3-3 upon Ras binding	Complex113	Complex115	
+BiochemicalReaction54	Transient dissociation of 14-3-3 upon Ras binding	Complex114	Complex115	
+BiochemicalReaction54	Transient dissociation of 14-3-3 upon Ras binding	Complex114	Protein133	
+BiochemicalReaction54	Transient dissociation of 14-3-3 upon Ras binding	Complex113	Protein133	
+BiochemicalReaction55	Stabilisation of RAS:RAF by 14-3-3	Complex115	Complex116	
+BiochemicalReaction55	Stabilisation of RAS:RAF by 14-3-3	Protein133	Complex116	
+BiochemicalReaction56	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex117	
+BiochemicalReaction56	Stabilisation of RAF by further phosphorylation	Complex116	Complex117	
+BiochemicalReaction56	Stabilisation of RAF by further phosphorylation	Complex116	SmallMolecule2	
+BiochemicalReaction56	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction57	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein134	Complex118	
+BiochemicalReaction57	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex109	Complex118	
+BiochemicalReaction58	Activated RAF1 complex binds MEK	Protein139	Complex119	
+BiochemicalReaction58	Activated RAF1 complex binds MEK	Complex117	Complex119	
+BiochemicalReaction59	RAF1  phosphorylates MEK1	SmallMolecule1	Protein90	
+BiochemicalReaction59	RAF1  phosphorylates MEK1	Complex120	Protein90	
+BiochemicalReaction59	RAF1  phosphorylates MEK1	Complex120	Complex117	
+BiochemicalReaction59	RAF1  phosphorylates MEK1	SmallMolecule1	Complex117	
+BiochemicalReaction59	RAF1  phosphorylates MEK1	Complex120	SmallMolecule2	
+BiochemicalReaction59	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Interleukin-1 receptor type 1 binds Interleukin 1	Protein26	Complex4	
+BiochemicalReaction6	Interleukin-1 receptor type 1 binds Interleukin 1	Protein27	Complex4	
+BiochemicalReaction60	RAF1 phosphorylates MEK2	Complex121	Complex117	
+BiochemicalReaction60	RAF1 phosphorylates MEK2	SmallMolecule1	Complex117	
+BiochemicalReaction60	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction60	RAF1 phosphorylates MEK2	Complex121	SmallMolecule2	
+BiochemicalReaction60	RAF1 phosphorylates MEK2	SmallMolecule1	Protein141	
+BiochemicalReaction60	RAF1 phosphorylates MEK2	Complex121	Protein141	
+BiochemicalReaction61	Inactivation of MEK1 by p34cdc2	Protein142	SmallMolecule2	
+BiochemicalReaction61	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction61	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein143	
+BiochemicalReaction61	Inactivation of MEK1 by p34cdc2	Protein142	Protein143	
+BiochemicalReaction62	MEK1 binds ERK-1	Protein90	Complex122	
+BiochemicalReaction62	MEK1 binds ERK-1	Protein147	Complex122	
+BiochemicalReaction63	MEK1 phosphorylates ERK-1	Complex122	Complex123	
+BiochemicalReaction63	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex123	
+BiochemicalReaction63	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction63	MEK1 phosphorylates ERK-1	Complex122	SmallMolecule2	
+BiochemicalReaction64	Dissociation of phospho-ERK-1:MEK1	Complex123	Protein90	
+BiochemicalReaction64	Dissociation of phospho-ERK-1:MEK1	Complex123	Protein148	
+BiochemicalReaction65	Dimerisation of phospho-ERK-1	Protein148	Complex124	
+BiochemicalReaction66	Nuclear translocation of phospho-ERK-1 dimer	Complex124	Complex125	
+BiochemicalReaction67	MEK2 binds ERK-2	Protein141	Complex134	
+BiochemicalReaction67	MEK2 binds ERK-2	Protein158	Complex134	
+BiochemicalReaction68	MEK2 phosphorylates ERK-2	Complex134	SmallMolecule2	
+BiochemicalReaction68	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction68	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex135	
+BiochemicalReaction68	MEK2 phosphorylates ERK-2	Complex134	Complex135	
+BiochemicalReaction69	Dissociation of phospho-ERK-2:MEK2	Complex135	Protein141	
+BiochemicalReaction69	Dissociation of phospho-ERK-2:MEK2	Complex135	Protein159	
+BiochemicalReaction7	Interleukin-1 receptor type 2 binds Interleukin 1	Protein26	Complex5	
+BiochemicalReaction7	Interleukin-1 receptor type 2 binds Interleukin 1	Protein28	Complex5	
+BiochemicalReaction70	Dimerisation of phospho-ERK-2	Protein159	Complex136	
+BiochemicalReaction71	Nuclear translocation of phospho-ERK-2 dimer	Complex136	Complex137	
+BiochemicalReaction72	Recruited STAT5 is phosphorylated	Complex62	Complex138	
+BiochemicalReaction72	Recruited STAT5 is phosphorylated	SmallMolecule1	Complex138	
+BiochemicalReaction72	Recruited STAT5 is phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction72	Recruited STAT5 is phosphorylated	Complex62	SmallMolecule2	
+BiochemicalReaction73	Phosphorylated STAT5 is released	Complex138	Protein161	
+BiochemicalReaction73	Phosphorylated STAT5 is released	Complex138	Complex60	
+BiochemicalReaction74	Phosphorylated STAT5 forms dimers	Protein161	Complex139	
+BiochemicalReaction75	STAT5 dimers translocate to the nucleus and bind to specific DNA sequences	Complex139	Complex140	
+BiochemicalReaction76	Syk binds IL2RB	Protein167	Complex141	
+BiochemicalReaction76	Syk binds IL2RB	Complex56	Complex141	
+BiochemicalReaction77	SYK is a substrate for JAK1	Complex141	Complex142	
+BiochemicalReaction78	Pyk2 associates with Jak3	Protein169	Complex143	
+BiochemicalReaction78	Pyk2 associates with Jak3	Protein95	Complex143	
+BiochemicalReaction79	Pyk2 is activated following IL2 stimulation	Complex143	Complex144	
+BiochemicalReaction8	IL1 receptor antagonist protein binds Interleukin 1 receptors	Protein29	Complex6	
+BiochemicalReaction8	IL1 receptor antagonist protein binds Interleukin 1 receptors	Protein30	Complex6	
+BiochemicalReaction80	The common beta chain IL3RB binds JAK2	Protein108	Complex145	
+BiochemicalReaction80	The common beta chain IL3RB binds JAK2	Protein171	Complex145	
+BiochemicalReaction81	GM-CSF receptor alpha subunit binds GM-CSF	Protein112	Complex74	
+BiochemicalReaction81	GM-CSF receptor alpha subunit binds GM-CSF	Protein113	Complex74	
+BiochemicalReaction82	GM-CSF receptor alpha:GM-CSF binds Bc	Complex74	Complex146	
+BiochemicalReaction82	GM-CSF receptor alpha:GM-CSF binds Bc	Complex145	Complex146	
+BiochemicalReaction83	Interleukin-5 is a homodimer	Protein114	Complex79	
+BiochemicalReaction84	Interleukin-5 receptor alpha subunit binds Interleukin-5	Complex79	Complex78	
+BiochemicalReaction84	Interleukin-5 receptor alpha subunit binds Interleukin-5	Protein115	Complex78	
+BiochemicalReaction85	Interleukin-5:Interleukin-5 receptor alpha binds IL3RB:JAK2	Complex145	Complex147	
+BiochemicalReaction85	Interleukin-5:Interleukin-5 receptor alpha binds IL3RB:JAK2	Complex78	Complex147	
+BiochemicalReaction86	Interleukin-3 receptor alpha subunit binds Interleukin-3	Protein109	Complex70	
+BiochemicalReaction86	Interleukin-3 receptor alpha subunit binds Interleukin-3	Protein110	Complex70	
+BiochemicalReaction87	Interleukin-3 receptor alpha: Interleukin-3 binds IL3RB:JAK2	Complex145	Complex148	
+BiochemicalReaction87	Interleukin-3 receptor alpha: Interleukin-3 binds IL3RB:JAK2	Complex70	Complex148	
+BiochemicalReaction88	The receptor is activated	Complex149	Complex150	
+BiochemicalReaction89	JAK2 is phosphorylated, activated	Complex150	SmallMolecule2	
+BiochemicalReaction89	JAK2 is phosphorylated, activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction89	JAK2 is phosphorylated, activated	SmallMolecule1	Complex154	
+BiochemicalReaction89	JAK2 is phosphorylated, activated	Complex150	Complex154	
+BiochemicalReaction9	Interleukin-1 receptor type 1: Interleukin 1 binds Interleukin-1 receptor accessory protein, membrane associated isoform	Protein31	Complex7	
+BiochemicalReaction9	Interleukin-1 receptor type 1: Interleukin 1 binds Interleukin-1 receptor accessory protein, membrane associated isoform	Complex4	Complex7	
+BiochemicalReaction90	STAT5 is recruited by JAK2	Protein101	Complex162	
+BiochemicalReaction90	STAT5 is recruited by JAK2	Complex154	Complex162	
+BiochemicalReaction91	Activation of STAT5a/b by JAK2	SmallMolecule1	Complex166	
+BiochemicalReaction91	Activation of STAT5a/b by JAK2	Complex162	Complex166	
+BiochemicalReaction91	Activation of STAT5a/b by JAK2	Complex162	SmallMolecule2	
+BiochemicalReaction91	Activation of STAT5a/b by JAK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction92	p-STAT5 is released from the receptor complex	Complex166	Protein161	
+BiochemicalReaction92	p-STAT5 is released from the receptor complex	Complex166	Complex154	
+BiochemicalReaction93	Tyrosine kinases phosphorylate the receptor	Complex150	SmallMolecule2	
+BiochemicalReaction93	Tyrosine kinases phosphorylate the receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction93	Tyrosine kinases phosphorylate the receptor	SmallMolecule1	Complex170	
+BiochemicalReaction93	Tyrosine kinases phosphorylate the receptor	Complex150	Complex170	
+BiochemicalReaction94	Recruitment of SHC1 is mediated by Y593 of the common beta chain	Complex170	Complex173	
+BiochemicalReaction94	Recruitment of SHC1 is mediated by Y593 of the common beta chain	Protein100	Complex173	
+BiochemicalReaction95	SHC1 bound to the common beta chain becomes tyrosine phosphorylated	Complex173	Complex65	
+BiochemicalReaction96	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein172	Complex177	
+BiochemicalReaction96	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein117	Complex177	
+BiochemicalReaction96	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein173	Complex177	
+BiochemicalReaction96	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Complex97	Complex177	
+BiochemicalReaction97	CBL is tyrosine phosphorylated	Complex177	SmallMolecule2	
+BiochemicalReaction97	CBL is tyrosine phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction97	CBL is tyrosine phosphorylated	SmallMolecule1	Complex178	
+BiochemicalReaction97	CBL is tyrosine phosphorylated	Complex177	Complex178	
+BiochemicalReaction98	CBL ubiquitinates PI3K	Complex178	Complex179	
+BiochemicalReaction98	CBL ubiquitinates PI3K	PhysicalEntity7	Complex179	
+BiochemicalReaction99	CBL binds CRK	Protein178	Complex184	
+BiochemicalReaction99	CBL binds CRK	Protein183	Complex184	

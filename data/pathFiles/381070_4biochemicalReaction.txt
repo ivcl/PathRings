@@ -1,0 +1,58 @@
+BiochemicalReaction1	Dissociation of IRE1:BiP heterodimer	Complex1	Complex2	
+BiochemicalReaction1	Dissociation of IRE1:BiP heterodimer	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Dissociation of IRE1:BiP heterodimer	PhysicalEntity1	Protein2	
+BiochemicalReaction1	Dissociation of IRE1:BiP heterodimer	Complex1	Protein2	
+BiochemicalReaction2	Dimerization of IRE1	Protein2	Complex3	
+BiochemicalReaction3	Autophosphorylation of IRE1 dimer	Complex3	Complex4	
+BiochemicalReaction3	Autophosphorylation of IRE1 dimer	SmallMolecule1	Complex4	
+BiochemicalReaction3	Autophosphorylation of IRE1 dimer	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Autophosphorylation of IRE1 dimer	Complex3	SmallMolecule2	
+BiochemicalReaction4	ADP Binding by Phosphorylated IRE1 Homodimer	Complex4	Complex5	
+BiochemicalReaction4	ADP Binding by Phosphorylated IRE1 Homodimer	SmallMolecule2	Complex5	
+BiochemicalReaction5	Cleavage of Xbp1 mRNA by IRE1alpha and Splicing of Cleaved Xbp1 mRNA	Rna1	Rna2	
+BiochemicalReaction6	Translation and translocation of XBP1(S) to the Nucleus	Rna2	Protein5	
+TemplateReaction1	Expression of ACADVL	NA	Protein6	
+TemplateReaction10	Expression of DNAJB11	NA	Protein15	
+TemplateReaction11	Expression of DNAJB9	NA	Protein16	
+TemplateReaction12	Expression of EDEM	NA	Protein17	
+TemplateReaction13	Expression of EXTL3	NA	Protein18	
+TemplateReaction14	Expression of FKBP14	NA	Protein19	
+TemplateReaction15	Expression of ARFGAP1 (GAP)	NA	Protein20	
+TemplateReaction16	Expression of GFPT1	NA	Protein21	
+TemplateReaction17	Expression of GOSR2	NA	Protein22	
+TemplateReaction18	Expression of GSK3A	NA	Protein23	
+TemplateReaction19	Expression of HDGF	NA	Protein24	
+TemplateReaction2	Expression of ADD1 (Adducin alpha)	NA	Protein7	
+TemplateReaction20	Expression of HYOU1	NA	Protein25	
+TemplateReaction21	Expression of KDELR3	NA	Protein26	
+TemplateReaction22	Expression of KLHDC3	NA	Protein27	
+TemplateReaction23	Expression of LMNA	NA	Protein28	
+TemplateReaction24	Expression of PDIA5	NA	Protein29	
+TemplateReaction25	Expression of PDIA6 (Protein disulfide-isomerase A6)	NA	Protein30	
+TemplateReaction26	Expression of PLA2G4B	NA	Protein31	
+TemplateReaction27	Expression of PPP2R5B	NA	Protein32	
+TemplateReaction28	Expression of SERP1 (RAMP4)	NA	Protein33	
+TemplateReaction29	Expression of SHC1	NA	Protein34	
+TemplateReaction3	Expression of ATP6VOD1	NA	Protein8	
+TemplateReaction30	Expression of SRPR (SRP Receptor subunit alpha)	NA	Protein35	
+TemplateReaction31	Expression of SRPRB (SRP Receptor subunit beta)	NA	Protein36	
+TemplateReaction32	Expression of SSR1 (Trap alpha)	NA	Protein37	
+TemplateReaction33	Expression of SULT1A3	NA	Protein38	
+TemplateReaction34	Expression of SYVN1 (HRD1)	NA	Protein39	
+TemplateReaction35	Expression of Sec12	NA	Protein40	
+TemplateReaction36	Expression of Sec31A	NA	Protein41	
+TemplateReaction37	Expression of TATDN2	NA	Protein42	
+TemplateReaction38	Expression of TPP1	NA	Protein43	
+TemplateReaction39	Expression of TSPYL2	NA	Protein44	
+TemplateReaction4	Expression of C19orf10	NA	Protein9	
+TemplateReaction40	Expression of Talin-1	NA	Protein45	
+TemplateReaction41	Expression of WFS1	NA	Protein46	
+TemplateReaction42	Expression of WIPI1	NA	Protein47	
+TemplateReaction43	Expression of YIF1A	NA	Protein48	
+TemplateReaction44	Expression of ZBTB17	NA	Protein49	
+TemplateReaction45	Expression of DNAJC3 (p58IPK)	NA	Protein50	
+TemplateReaction5	Expression of CTDSP2	NA	Protein10	
+TemplateReaction6	Expression of CXXC1	NA	Protein11	
+TemplateReaction7	Expression of Cullin-7	NA	Protein12	
+TemplateReaction8	Expression of DCTN1	NA	Protein13	
+TemplateReaction9	Expression of DDX11	NA	Protein14	

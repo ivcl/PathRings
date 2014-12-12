@@ -1,0 +1,26 @@
+BiochemicalReaction1	Rhodopsin activation	Complex1	Complex2	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	Complex3	SmallMolecule4	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	Complex3	Complex6	
+BiochemicalReaction2	MII catalyses GDP/GTP exchange on Gt	SmallMolecule3	Complex6	
+BiochemicalReaction3	Gt-GTP dissociates to GNAT1-GTP and GNB1:GNGT1	Complex6	Complex7	
+BiochemicalReaction3	Gt-GTP dissociates to GNAT1-GTP and GNB1:GNGT1	Complex6	Complex5	
+BiochemicalReaction4	GNAT1-GTP binds PDE6 and activates it	Complex8	Complex9	
+BiochemicalReaction4	GNAT1-GTP binds PDE6 and activates it	Complex7	Complex9	
+BiochemicalReaction5	PDE hydrolyses cGMP to GMP	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	PDE hydrolyses cGMP to GMP	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule12	SmallMolecule10	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule12	SmallMolecule8	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction7	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule11	SmallMolecule8	
+BiochemicalReaction8	cGMP dissociates from CNG channels	Complex10	Complex11	
+BiochemicalReaction8	cGMP dissociates from CNG channels	Complex10	SmallMolecule6	

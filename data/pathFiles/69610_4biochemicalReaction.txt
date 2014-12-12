@@ -1,0 +1,19 @@
+BiochemicalReaction1	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	Protein2	
+BiochemicalReaction2	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein1	Protein2	
+BiochemicalReaction2	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	Protein2	
+BiochemicalReaction3	Ubiquitination of phosphorylated Cdc25A	Protein4	Complex1	
+BiochemicalReaction3	Ubiquitination of phosphorylated Cdc25A	Protein19	Complex1	
+BiochemicalReaction4	Proteolytic degradation of ubiquitinated-Cdc25A	Complex1	PhysicalEntity3	
+BiochemicalReaction5	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	Protein65	
+BiochemicalReaction5	Phosphorylation and activation of Chk1 by ATM	Protein64	Protein65	
+BiochemicalReaction5	Phosphorylation and activation of Chk1 by ATM	Protein64	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein1	Protein2	
+BiochemicalReaction6	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	Protein2	

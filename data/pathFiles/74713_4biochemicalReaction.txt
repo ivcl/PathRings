@@ -1,0 +1,8 @@
+BiochemicalReaction1	Binding of IRS to insulin receptor	Complex1	Complex4	
+BiochemicalReaction1	Binding of IRS to insulin receptor	Protein5	Complex4	
+BiochemicalReaction2	Phosphorylation of IRS	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of IRS	Complex4	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of IRS	Complex4	Complex5	
+BiochemicalReaction2	Phosphorylation of IRS	SmallMolecule1	Complex5	
+BiochemicalReaction3	Dissociation of IRS-P from insulin receptor	Complex5	Protein9	
+BiochemicalReaction3	Dissociation of IRS-P from insulin receptor	Complex5	Complex1	

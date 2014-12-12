@@ -1,0 +1,15 @@
+BiochemicalReaction1	TGFBR1 is recruited to tight junctions by PARD6A	Complex1	Complex4	
+BiochemicalReaction1	TGFBR1 is recruited to tight junctions by PARD6A	Complex3	Complex4	
+BiochemicalReaction2	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex4	Protein9	
+BiochemicalReaction2	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex5	Protein9	
+BiochemicalReaction2	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex5	Complex8	
+BiochemicalReaction2	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex4	Complex8	
+BiochemicalReaction3	TGFBR2 phosphorylates TGFBR1 and PARD6A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	TGFBR2 phosphorylates TGFBR1 and PARD6A	Complex8	SmallMolecule2	
+BiochemicalReaction3	TGFBR2 phosphorylates TGFBR1 and PARD6A	Complex8	Complex11	
+BiochemicalReaction3	TGFBR2 phosphorylates TGFBR1 and PARD6A	SmallMolecule1	Complex11	
+BiochemicalReaction4	SMURF1 binds phosphorylated PARD6A	Complex11	Complex16	
+BiochemicalReaction4	SMURF1 binds phosphorylated PARD6A	Protein14	Complex16	
+BiochemicalReaction5	SMURF1 ubiquitinates RHOA	Complex16	Complex17	
+BiochemicalReaction5	SMURF1 ubiquitinates RHOA	Protein15	Complex17	
+BiochemicalReaction6	Disassembly of tight junctions	Complex17	NA	

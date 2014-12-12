@@ -1,0 +1,155 @@
+BiochemicalReaction1	Liganded Gs-activating GPCRs bind inactive heterotrimeric Gs	Complex1	Complex55	
+BiochemicalReaction1	Liganded Gs-activating GPCRs bind inactive heterotrimeric Gs	Complex52	Complex55	
+BiochemicalReaction10	Liganded Gi-activating GPCR acts as a GEF for Gi	SmallMolecule19	Complex133	
+BiochemicalReaction10	Liganded Gi-activating GPCR acts as a GEF for Gi	Complex132	Complex133	
+BiochemicalReaction10	Liganded Gi-activating GPCR acts as a GEF for Gi	Complex132	SmallMolecule21	
+BiochemicalReaction10	Liganded Gi-activating GPCR acts as a GEF for Gi	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction11	The Ligand:GPCR:Gi complex dissociates	Complex133	PhysicalEntity8	
+BiochemicalReaction11	The Ligand:GPCR:Gi complex dissociates	Complex133	PhysicalEntity9	
+BiochemicalReaction11	The Ligand:GPCR:Gi complex dissociates	Complex133	Complex62	
+BiochemicalReaction11	The Ligand:GPCR:Gi complex dissociates	Complex133	Complex53	
+BiochemicalReaction12	G alpha (i) inhibits adenylate cyclase	Complex59	Complex61	
+BiochemicalReaction12	G alpha (i) inhibits adenylate cyclase	Complex62	Complex61	
+BiochemicalReaction13	Opsins that act as GEFs for G alpha-t	SmallMolecule19	Complex137	
+BiochemicalReaction13	Opsins that act as GEFs for G alpha-t	Complex135	Complex137	
+BiochemicalReaction13	Opsins that act as GEFs for G alpha-t	Complex135	SmallMolecule21	
+BiochemicalReaction13	Opsins that act as GEFs for G alpha-t	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction13	Opsins that act as GEFs for G alpha-t	Complex135	Complex53	
+BiochemicalReaction13	Opsins that act as GEFs for G alpha-t	SmallMolecule19	Complex53	
+BiochemicalReaction14	G alpha (i) auto-inactivates by hydrolysing GTP to GDP	Complex62	Complex131	
+BiochemicalReaction15	Inactive G alpha (i) reassociates with G beta:gamma	Complex131	Complex130	
+BiochemicalReaction15	Inactive G alpha (i) reassociates with G beta:gamma	Complex53	Complex130	
+BiochemicalReaction16	Liganded Gz-activating GPCRs bind inactive heterotrimeric G-protein Gz	Complex139	Complex142	
+BiochemicalReaction16	Liganded Gz-activating GPCRs bind inactive heterotrimeric G-protein Gz	Complex141	Complex142	
+BiochemicalReaction17	Liganded Gz-activating GPCR acts as a GEF for Gz	SmallMolecule19	Complex143	
+BiochemicalReaction17	Liganded Gz-activating GPCR acts as a GEF for Gz	Complex142	Complex143	
+BiochemicalReaction17	Liganded Gz-activating GPCR acts as a GEF for Gz	Complex142	SmallMolecule21	
+BiochemicalReaction17	Liganded Gz-activating GPCR acts as a GEF for Gz	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction18	The Ligand:GPCR:Gz complex dissociates	Complex143	Complex64	
+BiochemicalReaction18	The Ligand:GPCR:Gz complex dissociates	Complex143	PhysicalEntity11	
+BiochemicalReaction18	The Ligand:GPCR:Gz complex dissociates	Complex143	PhysicalEntity12	
+BiochemicalReaction18	The Ligand:GPCR:Gz complex dissociates	Complex143	Complex53	
+BiochemicalReaction19	G alpha (z) inhibits adenylate cyclase	Complex64	Complex63	
+BiochemicalReaction19	G alpha (z) inhibits adenylate cyclase	Complex59	Complex63	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	SmallMolecule19	Complex56	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	Complex55	Complex56	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	Complex55	SmallMolecule21	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction20	Gz is a substrate for PKC	Complex64	Complex145	
+BiochemicalReaction21	G alpha (z) auto-inactivates by hydrolysing GTP to GDP	Complex64	Complex140	
+BiochemicalReaction22	Inactive G alpha (z) reassociates with G beta:gamma	Complex140	Complex139	
+BiochemicalReaction22	Inactive G alpha (z) reassociates with G beta:gamma	Complex53	Complex139	
+BiochemicalReaction23	Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq	Complex151	Complex203	
+BiochemicalReaction23	Liganded Gq-activating GPCRs bind inactive heterotrimeric Gq	Complex153	Complex203	
+BiochemicalReaction24	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	SmallMolecule19	Complex204	
+BiochemicalReaction24	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	Complex203	Complex204	
+BiochemicalReaction24	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	Complex203	SmallMolecule21	
+BiochemicalReaction24	Liganded Gq/11-activating GPCRs act as GEFs for Gq/11	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction25	The Ligand:GPCR:Gq complex dissociates	Complex204	PhysicalEntity15	
+BiochemicalReaction25	The Ligand:GPCR:Gq complex dissociates	Complex204	PhysicalEntity16	
+BiochemicalReaction25	The Ligand:GPCR:Gq complex dissociates	Complex204	Complex206	
+BiochemicalReaction25	The Ligand:GPCR:Gq complex dissociates	Complex204	Complex53	
+BiochemicalReaction26	GRK2 sequesters activated Gq	Protein569	Complex207	
+BiochemicalReaction26	GRK2 sequesters activated Gq	Complex206	Complex207	
+BiochemicalReaction27	GRK5 sequesters activated Gq	Protein570	Complex208	
+BiochemicalReaction27	GRK5 sequesters activated Gq	Complex206	Complex208	
+BiochemicalReaction28	G alpha (q) binds to Trio family RhoGEFs	Protein571	Complex209	
+BiochemicalReaction28	G alpha (q) binds to Trio family RhoGEFs	Complex206	Complex209	
+BiochemicalReaction29	PLC beta is activated by G alpha (q)	Protein575	Complex210	
+BiochemicalReaction29	PLC beta is activated by G alpha (q)	Complex206	Complex210	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	PhysicalEntity1	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	PhysicalEntity2	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	Complex58	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	Complex53	
+BiochemicalReaction30	G alpha (q) inhibits PI3K alpha	Complex211	Complex212	
+BiochemicalReaction30	G alpha (q) inhibits PI3K alpha	Complex206	Complex212	
+BiochemicalReaction31	PLC beta-mediated PIP2 hydrolysis	SmallMolecule134	SmallMolecule135	
+BiochemicalReaction31	PLC beta-mediated PIP2 hydrolysis	SmallMolecule134	SmallMolecule101	
+BiochemicalReaction32	Binding of IP3 to IP3 receptor	SmallMolecule135	Complex214	
+BiochemicalReaction32	Binding of IP3 to IP3 receptor	Complex213	Complex214	
+BiochemicalReaction33	Transport of Ca++ from platelet dense tubular system to cytoplasm	SmallMolecule138	SmallMolecule139	
+BiochemicalReaction34	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule101	Complex215	
+BiochemicalReaction34	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule139	Complex215	
+BiochemicalReaction34	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	Protein589	Complex215	
+BiochemicalReaction35	Activation of Protein Kinase C novel isoforms	Protein425	Complex150	
+BiochemicalReaction35	Activation of Protein Kinase C novel isoforms	SmallMolecule101	Complex150	
+BiochemicalReaction36	DAG activation of TRPC channels	Protein592	Complex216	
+BiochemicalReaction36	DAG activation of TRPC channels	SmallMolecule101	Complex216	
+BiochemicalReaction37	DAG is metabolized by DAGL to 2-AG	SmallMolecule101	SmallMolecule140	
+BiochemicalReaction37	DAG is metabolized by DAGL to 2-AG	SmallMolecule101	SmallMolecule141	
+BiochemicalReaction38	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule141	SmallMolecule142	
+BiochemicalReaction38	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule26	SmallMolecule142	
+BiochemicalReaction38	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule26	SmallMolecule143	
+BiochemicalReaction38	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule141	SmallMolecule143	
+BiochemicalReaction38	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule26	SmallMolecule144	
+BiochemicalReaction38	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule141	SmallMolecule144	
+BiochemicalReaction39	DAG kinase produces phosphatidic acid from DAG	SmallMolecule101	SmallMolecule145	
+BiochemicalReaction39	DAG kinase produces phosphatidic acid from DAG	SmallMolecule23	SmallMolecule145	
+BiochemicalReaction39	DAG kinase produces phosphatidic acid from DAG	SmallMolecule23	SmallMolecule146	
+BiochemicalReaction39	DAG kinase produces phosphatidic acid from DAG	SmallMolecule101	SmallMolecule146	
+BiochemicalReaction4	G alpha (s) activates adenylate cyclase	Complex58	Complex60	
+BiochemicalReaction4	G alpha (s) activates adenylate cyclase	Complex59	Complex60	
+BiochemicalReaction40	G alpha (q) auto-inactivates by hydrolysing GTP to GDP	Complex206	Complex152	
+BiochemicalReaction41	Inactive G alpha (q) reassociates with G beta:gamma	Complex152	Complex151	
+BiochemicalReaction41	Inactive G alpha (q) reassociates with G beta:gamma	Complex53	Complex151	
+BiochemicalReaction42	Liganded G12/13-activating GPCRs bind inactive heterotrimeric G-protein G12/13	Complex217	Complex223	
+BiochemicalReaction42	Liganded G12/13-activating GPCRs bind inactive heterotrimeric G-protein G12/13	Complex218	Complex223	
+BiochemicalReaction43	Liganded G12/13-activating GPCR acts as a GEF for G12/13	SmallMolecule19	Complex224	
+BiochemicalReaction43	Liganded G12/13-activating GPCR acts as a GEF for G12/13	Complex223	Complex224	
+BiochemicalReaction43	Liganded G12/13-activating GPCR acts as a GEF for G12/13	Complex223	SmallMolecule21	
+BiochemicalReaction43	Liganded G12/13-activating GPCR acts as a GEF for G12/13	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction44	The Ligand:GPCR:G12/13 complex dissociates	Complex224	PhysicalEntity17	
+BiochemicalReaction44	The Ligand:GPCR:G12/13 complex dissociates	Complex224	Complex230	
+BiochemicalReaction44	The Ligand:GPCR:G12/13 complex dissociates	Complex224	PhysicalEntity18	
+BiochemicalReaction44	The Ligand:GPCR:G12/13 complex dissociates	Complex224	Complex53	
+BiochemicalReaction45	G alpha (13) activates Rho guanine nucleotide exchange factor 1 (p115-RhoGEF)	Protein615	Complex231	
+BiochemicalReaction45	G alpha (13) activates Rho guanine nucleotide exchange factor 1 (p115-RhoGEF)	Complex229	Complex231	
+BiochemicalReaction46	p115-RhoGEF activation of Rac1	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction46	p115-RhoGEF activation of Rac1	Complex232	SmallMolecule21	
+BiochemicalReaction46	p115-RhoGEF activation of Rac1	Complex232	Complex233	
+BiochemicalReaction46	p115-RhoGEF activation of Rac1	SmallMolecule19	Complex233	
+BiochemicalReaction47	Rac1 activation of  PI3K	Complex211	Complex234	
+BiochemicalReaction47	Rac1 activation of  PI3K	Complex233	Complex234	
+BiochemicalReaction48	GEFs activate RhoA,B,C	SmallMolecule19	Complex236	
+BiochemicalReaction48	GEFs activate RhoA,B,C	Complex235	Complex236	
+BiochemicalReaction48	GEFs activate RhoA,B,C	Complex235	SmallMolecule21	
+BiochemicalReaction48	GEFs activate RhoA,B,C	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction49	ROCK activation by Rho	Protein663	Complex237	
+BiochemicalReaction49	ROCK activation by Rho	Complex236	Complex237	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction50	LARG activation by G alpha 12/13	Complex230	Complex238	
+BiochemicalReaction50	LARG activation by G alpha 12/13	Protein653	Complex238	
+BiochemicalReaction51	LARG binds plexin B1	Protein666	Complex239	
+BiochemicalReaction51	LARG binds plexin B1	Complex238	Complex239	
+BiochemicalReaction52	G alpha (12/13) auto-inactivates by hydrolysing GTP to GDP	Complex230	Complex240	
+BiochemicalReaction53	Inactive G alpha (12/13) reassociates with G beta:gamma	Complex240	Complex218	
+BiochemicalReaction53	Inactive G alpha (12/13) reassociates with G beta:gamma	Complex53	Complex218	
+BiochemicalReaction54	Gbeta:gamma recruits PI3K gamma	Complex241	Complex242	
+BiochemicalReaction54	Gbeta:gamma recruits PI3K gamma	Complex53	Complex242	
+BiochemicalReaction55	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule134	SmallMolecule145	
+BiochemicalReaction55	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule23	SmallMolecule145	
+BiochemicalReaction55	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule23	SmallMolecule147	
+BiochemicalReaction55	G beta:gamma activated PI3Kgamma converts PIP2 to PIP3	SmallMolecule134	SmallMolecule147	
+BiochemicalReaction56	PIP3 recruits PDK1 and AKT to the membrane	Protein671	Complex243	
+BiochemicalReaction56	PIP3 recruits PDK1 and AKT to the membrane	Protein672	Complex243	
+BiochemicalReaction56	PIP3 recruits PDK1 and AKT to the membrane	SmallMolecule147	Complex243	
+BiochemicalReaction57	PIP3 binds to RhoA and activates it	Protein624	Complex244	
+BiochemicalReaction57	PIP3 binds to RhoA and activates it	SmallMolecule147	Complex244	
+BiochemicalReaction58	Gbeta:gamma activation of PLC beta	Protein681	Complex245	
+BiochemicalReaction58	Gbeta:gamma activation of PLC beta	Complex53	Complex245	
+BiochemicalReaction59	PLC beta-mediated PIP2 hydrolysis	SmallMolecule134	SmallMolecule135	
+BiochemicalReaction59	PLC beta-mediated PIP2 hydrolysis	SmallMolecule134	SmallMolecule101	
+BiochemicalReaction6	cAMP degradation by Phosphodiesterases	SmallMolecule24	SmallMolecule27	
+BiochemicalReaction6	cAMP degradation by Phosphodiesterases	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction60	G Protein trimer formation (olfactory)	Protein109	Complex246	
+BiochemicalReaction60	G Protein trimer formation (olfactory)	Protein126	Complex246	
+BiochemicalReaction60	G Protein trimer formation (olfactory)	Protein682	Complex246	
+BiochemicalReaction61	Olfactory Receptor - G Protein olfactory trimer complex formation	Protein683	Complex247	
+BiochemicalReaction61	Olfactory Receptor - G Protein olfactory trimer complex formation	Complex246	Complex247	
+BiochemicalReaction7	G alpha (s) auto-inactivates by hydrolysing GTP to GDP	Complex58	SmallMolecule28	
+BiochemicalReaction7	G alpha (s) auto-inactivates by hydrolysing GTP to GDP	Complex58	Complex54	
+BiochemicalReaction8	Inactive G alpha (s) reassociates with G beta:gamma	Complex53	Complex52	
+BiochemicalReaction8	Inactive G alpha (s) reassociates with G beta:gamma	Complex54	Complex52	
+BiochemicalReaction9	Liganded Gi-activating GPCRs bind inactive heterotrimeric G-protein Gi	Complex65	Complex132	
+BiochemicalReaction9	Liganded Gi-activating GPCRs bind inactive heterotrimeric G-protein Gi	Complex130	Complex132	

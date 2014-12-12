@@ -1,0 +1,6 @@
+BiochemicalReaction1	tBID binds to inactive BAX protein	Protein1	Complex1	
+BiochemicalReaction1	tBID binds to inactive BAX protein	Protein2	Complex1	
+BiochemicalReaction2	tBID activates BAX protein	Complex1	Protein1	
+BiochemicalReaction2	tBID activates BAX protein	Complex1	Protein3	
+BiochemicalReaction3	Translocation of activated BAX to the mitochondria	Protein3	Protein4	
+BiochemicalReaction4	Oligomerization of BAX at the mitochondrial membrane	Protein4	Complex2	

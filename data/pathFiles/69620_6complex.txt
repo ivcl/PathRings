@@ -1,0 +1,151 @@
+Complex1	TP53 Tetramer	nucleoplasm	Reactome DB_ID: 3209194	Protein1	
+Complex10	ATR-ATRIP	nucleoplasm	Reactome DB_ID: 176269	Protein81	
+Complex10	ATR-ATRIP	nucleoplasm	Reactome DB_ID: 176269	Protein82	
+Complex11	phospho-Cdc25C:14-3-3 protein complex	cytosol	Reactome DB_ID: 75005	Protein86	
+Complex11	phospho-Cdc25C:14-3-3 protein complex	cytosol	Reactome DB_ID: 75005	PhysicalEntity4	
+Complex12	CCNB1:p-T14,T161-CDK1	nucleoplasm	Reactome DB_ID: 170073	Protein89	
+Complex12	CCNB1:p-T14,T161-CDK1	nucleoplasm	Reactome DB_ID: 170073	Protein90	
+Complex13	CCNB1:p-T14,Y15,T161-CDK1	nucleoplasm	Reactome DB_ID: 170065	Protein91	
+Complex13	CCNB1:p-T14,Y15,T161-CDK1	nucleoplasm	Reactome DB_ID: 170065	Protein90	
+Complex14	CCNB:CDK1	cytosol	Reactome DB_ID: 170077	Protein92	
+Complex14	CCNB:CDK1	cytosol	Reactome DB_ID: 170077	Protein93	
+Complex15	CCNB:p-T14-CDK1	cytosol	Reactome DB_ID: 170069	Protein96	
+Complex15	CCNB:p-T14-CDK1	cytosol	Reactome DB_ID: 170069	Protein93	
+Complex16	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein98	
+Complex16	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein99	
+Complex16	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein100	
+Complex17	RPA-ssDNA complex	nucleoplasm	Reactome DB_ID: 176293	Complex16	
+Complex17	RPA-ssDNA complex	nucleoplasm	Reactome DB_ID: 176293	PhysicalEntity5	
+Complex18	ATR-ATRIP-RPA-ssDNA signaling complex	nucleoplasm	Reactome DB_ID: 176281	Complex10	
+Complex18	ATR-ATRIP-RPA-ssDNA signaling complex	nucleoplasm	Reactome DB_ID: 176281	Complex17	
+Complex19	Rad17-RFC complex	nucleoplasm	Reactome DB_ID: 176353	Protein101	
+Complex19	Rad17-RFC complex	nucleoplasm	Reactome DB_ID: 176353	Protein102	
+Complex19	Rad17-RFC complex	nucleoplasm	Reactome DB_ID: 176353	Protein103	
+Complex19	Rad17-RFC complex	nucleoplasm	Reactome DB_ID: 176353	Protein104	
+Complex19	Rad17-RFC complex	nucleoplasm	Reactome DB_ID: 176353	Protein105	
+Complex2	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein2	
+Complex20	Rad17-RFC complex bound to DNA	nucleoplasm	Reactome DB_ID: 176204	Complex19	
+Complex20	Rad17-RFC complex bound to DNA	nucleoplasm	Reactome DB_ID: 176204	Complex17	
+Complex21	9-1-1 complex	nucleoplasm	Reactome DB_ID: 176312	Protein106	
+Complex21	9-1-1 complex	nucleoplasm	Reactome DB_ID: 176312	Protein109	
+Complex21	9-1-1 complex	nucleoplasm	Reactome DB_ID: 176312	Protein110	
+Complex22	Rad9-Hus1-Rad1 bound to DNA	nucleoplasm	Reactome DB_ID: 176256	Complex21	
+Complex22	Rad9-Hus1-Rad1 bound to DNA	nucleoplasm	Reactome DB_ID: 176256	Complex20	
+Complex23	Cdc45:CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68564	Complex24	
+Complex23	Cdc45:CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68564	Protein128	
+Complex24	CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68561	Complex25	
+Complex24	CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68561	Complex26	
+Complex24	CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68561	Complex32	
+Complex25	DDK	nucleoplasm	Reactome DB_ID: 68388	Protein111	
+Complex25	DDK	nucleoplasm	Reactome DB_ID: 68388	Protein112	
+Complex26	Mcm10:active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156564	Complex27	
+Complex26	Mcm10:active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156564	Protein127	
+Complex27	active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156562	Complex28	
+Complex27	active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156562	Complex29	
+Complex28	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein113	
+Complex28	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein114	
+Complex28	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein115	
+Complex28	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein116	
+Complex28	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein117	
+Complex28	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein118	
+Complex29	CDC6:ORC:origin complex	nucleoplasm	Reactome DB_ID: 68543	Protein119	
+Complex29	CDC6:ORC:origin complex	nucleoplasm	Reactome DB_ID: 68543	Complex30	
+Complex3	p-S387-RFWD2:p-S15-TP53	nucleoplasm	Reactome DB_ID: 349420	Protein7	
+Complex3	p-S387-RFWD2:p-S15-TP53	nucleoplasm	Reactome DB_ID: 349420	Complex2	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein120	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Complex31	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein123	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	PhysicalEntity6	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein124	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein125	
+Complex30	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein126	
+Complex31	Orc2 associated with MCM8	nucleoplasm	Reactome DB_ID: 176970	Protein121	
+Complex31	Orc2 associated with MCM8	nucleoplasm	Reactome DB_ID: 176970	Protein122	
+Complex32	CDK	nucleoplasm	Reactome DB_ID: 68380	PhysicalEntity7	
+Complex32	CDK	nucleoplasm	Reactome DB_ID: 68380	Protein69	
+Complex33	claspin bound to DNA replication fork	nucleoplasm	Reactome DB_ID: 176229	Complex23	
+Complex33	claspin bound to DNA replication fork	nucleoplasm	Reactome DB_ID: 176229	Protein129	
+Complex34	Activated claspin bound to DNA replication fork	nucleoplasm	Reactome DB_ID: 176182	Complex23	
+Complex34	Activated claspin bound to DNA replication fork	nucleoplasm	Reactome DB_ID: 176182	Protein130	
+Complex35	Mad1:kinetochore complex	cytosol	Reactome DB_ID: 141441	Protein131	
+Complex35	Mad1:kinetochore complex	cytosol	Reactome DB_ID: 141441	PhysicalEntity8	
+Complex36	Kinetochore:Mad1:MAD2 Complex	cytosol	Reactome DB_ID: 141427	Protein132	
+Complex36	Kinetochore:Mad1:MAD2 Complex	cytosol	Reactome DB_ID: 141427	Complex35	
+Complex37	Kinetochore:Mad1:MAD2* Complex	cytosol	Reactome DB_ID: 141432	Protein133	
+Complex37	Kinetochore:Mad1:MAD2* Complex	cytosol	Reactome DB_ID: 141432	Complex35	
+Complex38	MAD2*CDC20 complex	cytosol	Reactome DB_ID: 141408	Protein133	
+Complex38	MAD2*CDC20 complex	cytosol	Reactome DB_ID: 141408	Protein134	
+Complex39	hBUBR1:hBUB3:MAD2*:CDC20 complex	cytosol	Reactome DB_ID: 141440	Protein133	
+Complex39	hBUBR1:hBUB3:MAD2*:CDC20 complex	cytosol	Reactome DB_ID: 141440	Protein135	
+Complex39	hBUBR1:hBUB3:MAD2*:CDC20 complex	cytosol	Reactome DB_ID: 141440	Protein134	
+Complex39	hBUBR1:hBUB3:MAD2*:CDC20 complex	cytosol	Reactome DB_ID: 141440	Protein136	
+Complex4	ubiquitinated phospho-COP1(ser-387)	cytosol	Reactome DB_ID: 349433	Protein9	
+Complex4	ubiquitinated phospho-COP1(ser-387)	cytosol	Reactome DB_ID: 349433	Protein8	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein137	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein138	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein139	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein140	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein141	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein142	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein143	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein144	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein145	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein146	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein147	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein148	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein149	
+Complex40	phosphorylated anaphase promoting complex (APC/C)	cytosol	Reactome DB_ID: 174191	Protein150	
+Complex41	MCC:APC/C complex	cytosol	Reactome DB_ID: 141410	Complex39	
+Complex41	MCC:APC/C complex	cytosol	Reactome DB_ID: 141410	Complex40	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein24	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein25	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein26	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein27	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein28	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein29	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein30	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein31	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein32	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein33	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein34	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein35	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein36	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein37	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein38	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein39	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein40	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein41	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein42	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein43	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein44	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein45	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein46	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein47	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein48	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein49	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein50	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein51	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein52	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein53	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein54	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein55	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein56	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein57	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein58	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein59	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein60	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein61	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein62	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein63	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein64	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein65	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein66	
+Complex5	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein67	
+Complex6	p-15-TP53 Tetramer:CDKN1A Gene	nucleoplasm	Reactome DB_ID: 3786257	Dna1	
+Complex6	p-15-TP53 Tetramer:CDKN1A Gene	nucleoplasm	Reactome DB_ID: 3786257	Complex2	
+Complex7	Cyclin E:Cdk2 complexes	nucleoplasm	Reactome DB_ID: 68374	Protein69	
+Complex7	Cyclin E:Cdk2 complexes	nucleoplasm	Reactome DB_ID: 68374	Protein70	
+Complex8	Cyclin E:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 68376	Complex7	
+Complex8	Cyclin E:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 68376	Protein73	
+Complex9	Ub-p-S123-CDC25A	cytosol	Reactome DB_ID: 69589	Protein9	
+Complex9	Ub-p-S123-CDC25A	cytosol	Reactome DB_ID: 69589	Protein78	

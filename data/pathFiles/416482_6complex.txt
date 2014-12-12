@@ -1,0 +1,46 @@
+Complex10	Ligand:GPCR complexes that activate G12/13:Heterotrimeric G-protein G12/13 (inactive).	plasma membrane	Reactome DB_ID: 750994	Complex1	
+Complex10	Ligand:GPCR complexes that activate G12/13:Heterotrimeric G-protein G12/13 (inactive).	plasma membrane	Reactome DB_ID: 750994	Complex4	
+Complex11	Ligand:GPCR complexes that activate G12/13:Heterotrimeric G-protein G12/13 (active).	plasma membrane	Reactome DB_ID: 751015	Complex1	
+Complex11	Ligand:GPCR complexes that activate G12/13:Heterotrimeric G-protein G12/13 (active).	plasma membrane	Reactome DB_ID: 751015	Complex12	
+Complex13	Heterotrimeric G-protein G12 (active)	plasma membrane	Reactome DB_ID: 114547	Complex14	
+Complex13	Heterotrimeric G-protein G12 (active)	plasma membrane	Reactome DB_ID: 114547	Complex7	
+Complex14	G-protein alpha (12):GTP	plasma membrane	Reactome DB_ID: 114525	SmallMolecule7	
+Complex14	G-protein alpha (12):GTP	plasma membrane	Reactome DB_ID: 114525	Protein6	
+Complex15	Heterotrimeric G-protein G13 (active)	plasma membrane	Reactome DB_ID: 398074	Complex16	
+Complex15	Heterotrimeric G-protein G13 (active)	plasma membrane	Reactome DB_ID: 398074	Complex7	
+Complex16	G-protein alpha (13):GTP	plasma membrane	Reactome DB_ID: 398056	SmallMolecule7	
+Complex16	G-protein alpha (13):GTP	plasma membrane	Reactome DB_ID: 398056	Protein26	
+Complex18	G13-activated p115-RhoGEF	plasma membrane	Reactome DB_ID: 114527	Protein28	
+Complex18	G13-activated p115-RhoGEF	plasma membrane	Reactome DB_ID: 114527	Complex16	
+Complex19	VAV1 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 114543	SmallMolecule8	
+Complex19	VAV1 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 114543	Protein29	
+Complex2	TP receptor:Thromboxane A2	plasma membrane	Reactome DB_ID: 391925	SmallMolecule1	
+Complex2	TP receptor:Thromboxane A2	plasma membrane	Reactome DB_ID: 391925	Protein1	
+Complex20	VAV1 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 114539	SmallMolecule6	
+Complex20	VAV1 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 114539	Protein29	
+Complex21	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein35	
+Complex21	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein36	
+Complex22	Activated Rac1:PI3K alpha	cytosol	Reactome DB_ID: 114540	Complex21	
+Complex22	Activated Rac1:PI3K alpha	cytosol	Reactome DB_ID: 114540	Complex20	
+Complex23	RhoA,B,C:GDP	plasma membrane	Reactome DB_ID: 419164	SmallMolecule5	
+Complex23	RhoA,B,C:GDP	plasma membrane	Reactome DB_ID: 419164	Protein40	
+Complex24	RhoA/B/C:GTP	plasma membrane	Reactome DB_ID: 419161	SmallMolecule7	
+Complex24	RhoA/B/C:GTP	plasma membrane	Reactome DB_ID: 419161	Protein40	
+Complex25	Activated ROCK:RhoA/B/C:GTP	plasma membrane	Reactome DB_ID: 422483	Protein82	
+Complex25	Activated ROCK:RhoA/B/C:GTP	plasma membrane	Reactome DB_ID: 422483	Complex24	
+Complex26	G-protein alpha (12/13):LARG	plasma membrane	Reactome DB_ID: 398145	Complex17	
+Complex26	G-protein alpha (12/13):LARG	plasma membrane	Reactome DB_ID: 398145	Protein71	
+Complex27	G-protein alpha (12/13):LARG:Plexin B1	plasma membrane	Reactome DB_ID: 398146	Protein85	
+Complex27	G-protein alpha (12/13):LARG:Plexin B1	plasma membrane	Reactome DB_ID: 398146	Complex26	
+Complex3	Alpha-1 adrenoceptor:Catecholamine	plasma membrane	Reactome DB_ID: 390633	Protein2	
+Complex3	Alpha-1 adrenoceptor:Catecholamine	plasma membrane	Reactome DB_ID: 390633	SmallMolecule2	
+Complex5	Heterotrimeric G-protein G12 (inactive)	plasma membrane	Reactome DB_ID: 114551	Complex6	
+Complex5	Heterotrimeric G-protein G12 (inactive)	plasma membrane	Reactome DB_ID: 114551	Complex7	
+Complex6	G-protein alpha (12):GDP	plasma membrane	Reactome DB_ID: 114550	SmallMolecule5	
+Complex6	G-protein alpha (12):GDP	plasma membrane	Reactome DB_ID: 114550	Protein6	
+Complex7	G-protein beta-gamma complex	plasma membrane	Reactome DB_ID: 167434	Protein7	
+Complex7	G-protein beta-gamma complex	plasma membrane	Reactome DB_ID: 167434	Protein13	
+Complex8	Heterotrimeric G-protein G13 (inactive)	plasma membrane	Reactome DB_ID: 398072	Complex9	
+Complex8	Heterotrimeric G-protein G13 (inactive)	plasma membrane	Reactome DB_ID: 398072	Complex7	
+Complex9	G-protein alpha (13):GDP	plasma membrane	Reactome DB_ID: 398057	SmallMolecule5	
+Complex9	G-protein alpha (13):GDP	plasma membrane	Reactome DB_ID: 398057	Protein26	

@@ -1,0 +1,48 @@
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Complex1	Protein3	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein15	Protein3	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein16	Protein3	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein17	Protein3	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein17	Complex2	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein16	Complex2	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein15	Complex2	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Complex1	Complex2	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein17	Complex4	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein16	Complex4	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Protein15	Complex4	
+BiochemicalReaction1	Formation of Pre-Integration Complex (PIC)	Complex1	Complex4	
+BiochemicalReaction10	Association of  XRCC4:DNA ligase IV complex with viral DNA ends	Complex21	Complex23	
+BiochemicalReaction10	Association of  XRCC4:DNA ligase IV complex with viral DNA ends	Complex22	Complex23	
+BiochemicalReaction11	2-LTR formation due to circularization of viral DNA	Complex23	Complex20	
+BiochemicalReaction11	2-LTR formation due to circularization of viral DNA	Complex23	Complex22	
+BiochemicalReaction11	2-LTR formation due to circularization of viral DNA	Complex23	Protein22	
+BiochemicalReaction11	2-LTR formation due to circularization of viral DNA	Complex23	Complex24	
+BiochemicalReaction12	Suicidal integration leading to inverted circle formation	Complex10	Complex25	
+BiochemicalReaction12	Suicidal integration leading to inverted circle formation	Complex10	Complex14	
+BiochemicalReaction12	Suicidal integration leading to inverted circle formation	Complex10	Protein22	
+BiochemicalReaction13	Suicidal integration leading to smaller circles of viral DNA	Complex10	Complex14	
+BiochemicalReaction13	Suicidal integration leading to smaller circles of viral DNA	Complex10	Protein22	
+BiochemicalReaction13	Suicidal integration leading to smaller circles of viral DNA	Complex10	Complex26	
+BiochemicalReaction2	Integrase binds viral DNA ends	Complex4	Complex5	
+BiochemicalReaction3	Terminal (3' end) cleavage of viral DNA	Complex5	Complex7	
+BiochemicalReaction4	Import of PIC to the Host Nucleus	Complex7	Complex10	
+BiochemicalReaction5	Target DNA binding	Complex10	Complex13	
+BiochemicalReaction5	Target DNA binding	PhysicalEntity7	Complex13	
+BiochemicalReaction5	Target DNA binding	PhysicalEntity7	Complex14	
+BiochemicalReaction5	Target DNA binding	Complex10	Complex14	
+BiochemicalReaction6	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex13	Complex14	
+BiochemicalReaction6	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex14	Complex14	
+BiochemicalReaction6	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex14	Complex15	
+BiochemicalReaction6	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex13	Complex15	
+BiochemicalReaction7	Gap repair completes provirus integration	Complex14	Complex14	
+BiochemicalReaction7	Gap repair completes provirus integration	Complex15	Complex14	
+BiochemicalReaction7	Gap repair completes provirus integration	Complex15	Complex17	
+BiochemicalReaction7	Gap repair completes provirus integration	Complex14	Complex17	
+BiochemicalReaction7	Gap repair completes provirus integration	Complex15	Protein22	
+BiochemicalReaction7	Gap repair completes provirus integration	Complex14	Protein22	
+BiochemicalReaction8	1-LTR circle formation	Complex10	Complex14	
+BiochemicalReaction8	1-LTR circle formation	Complex10	Complex19	
+BiochemicalReaction8	1-LTR circle formation	Complex10	Protein22	
+BiochemicalReaction9	Association of Ku heterodimer with viral DNA ends	Complex20	Complex21	
+BiochemicalReaction9	Association of Ku heterodimer with viral DNA ends	Complex10	Complex21	
+BiochemicalReaction9	Association of Ku heterodimer with viral DNA ends	Complex10	Complex14	
+BiochemicalReaction9	Association of Ku heterodimer with viral DNA ends	Complex20	Complex14	

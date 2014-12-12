@@ -1,0 +1,7 @@
+BiochemicalReaction1	Notch 4 heterodimer binds with a Notch ligand in the extracellular space	Protein1	Complex2	
+BiochemicalReaction1	Notch 4 heterodimer binds with a Notch ligand in the extracellular space	Complex1	Complex2	
+BiochemicalReaction2	Notch 4-ligand complex is cleaved to produce NEXT4	Complex2	Complex3	
+BiochemicalReaction2	Notch 4-ligand complex is cleaved to produce NEXT4	Complex2	Protein9	
+BiochemicalReaction3	NEXT4 is cleaved to produce NICD4	Protein9	Protein11	
+BiochemicalReaction3	NEXT4 is cleaved to produce NICD4	Protein9	Protein12	
+BiochemicalReaction4	NICD4 traffics to the nucleus	Protein12	Protein19	

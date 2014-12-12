@@ -1,0 +1,15 @@
+BiochemicalReaction1	DSCAM/DSCAML1 homodimerization	Protein1	Complex1	
+BiochemicalReaction2	DSCAM binds DCC	Protein2	Complex2	
+BiochemicalReaction2	DSCAM binds DCC	Protein4	Complex2	
+BiochemicalReaction3	DSCAM binds Netrin-1	Protein2	Complex3	
+BiochemicalReaction3	DSCAM binds Netrin-1	Protein5	Complex3	
+BiochemicalReaction4	DSCAM associates with Rac1-GTP:pPAK1	Protein2	Complex6	
+BiochemicalReaction4	DSCAM associates with Rac1-GTP:pPAK1	Complex4	Complex6	
+BiochemicalReaction5	Activation of JNK by DSCAM	Protein8	SmallMolecule3	
+BiochemicalReaction5	Activation of JNK by DSCAM	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Activation of JNK by DSCAM	SmallMolecule2	Protein9	
+BiochemicalReaction5	Activation of JNK by DSCAM	Protein8	Protein9	
+BiochemicalReaction6	Activation of p38MAPK by DSCAM	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	Activation of p38MAPK by DSCAM	Complex7	SmallMolecule3	
+BiochemicalReaction6	Activation of p38MAPK by DSCAM	Complex7	Complex8	
+BiochemicalReaction6	Activation of p38MAPK by DSCAM	SmallMolecule2	Complex8	

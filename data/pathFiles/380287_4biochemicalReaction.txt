@@ -1,0 +1,22 @@
+BiochemicalReaction1	Recruitment of CDK11p58 to the centrosomes	Protein1	Complex2	
+BiochemicalReaction1	Recruitment of CDK11p58 to the centrosomes	Complex1	Complex2	
+BiochemicalReaction2	Recruitment of Plk1 to centrosomes	Protein32	Complex3	
+BiochemicalReaction2	Recruitment of Plk1 to centrosomes	Complex1	Complex3	
+BiochemicalReaction3	Cyclin B/Cdk1 mediate phosphorylation of NuMA	Protein66	SmallMolecule2	
+BiochemicalReaction3	Cyclin B/Cdk1 mediate phosphorylation of NuMA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Cyclin B/Cdk1 mediate phosphorylation of NuMA	SmallMolecule1	Protein67	
+BiochemicalReaction3	Cyclin B/Cdk1 mediate phosphorylation of NuMA	Protein66	Protein67	
+BiochemicalReaction4	Translocation of NuMA  to the centrosomes	Complex5	Complex9	
+BiochemicalReaction4	Translocation of NuMA  to the centrosomes	Complex8	Complex9	
+BiochemicalReaction5	Association of NuMA with microtubules	Complex5	Complex10	
+BiochemicalReaction5	Association of NuMA with microtubules	Complex8	Complex10	
+BiochemicalReaction6	Recruitment of additional gamma tubulin/ gamma TuRC to the centrosome	Complex1	Complex11	
+BiochemicalReaction6	Recruitment of additional gamma tubulin/ gamma TuRC to the centrosome	Complex6	Complex11	
+BiochemicalReaction7	Loss of C-Nap-1 from centrosomes	Complex1	Protein20	
+BiochemicalReaction7	Loss of C-Nap-1 from centrosomes	Complex1	Complex12	
+BiochemicalReaction8	Plk1-mediated phosphorylation of Nlp	Complex1	SmallMolecule4	
+BiochemicalReaction8	Plk1-mediated phosphorylation of Nlp	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	Plk1-mediated phosphorylation of Nlp	SmallMolecule3	Complex13	
+BiochemicalReaction8	Plk1-mediated phosphorylation of Nlp	Complex1	Complex13	
+BiochemicalReaction9	Dissociation of Phospho-Nlp from the centrosome	Complex13	Complex14	
+BiochemicalReaction9	Dissociation of Phospho-Nlp from the centrosome	Complex13	Protein77	

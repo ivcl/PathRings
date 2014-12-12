@@ -1,0 +1,15 @@
+BiochemicalReaction1	The high affinity receptor complex binds to G-protein	Complex1	Complex5	
+BiochemicalReaction1	The high affinity receptor complex binds to G-protein	Complex2	Complex5	
+BiochemicalReaction2	The receptor:G-protein complex releases GDP	Complex5	Complex6	
+BiochemicalReaction2	The receptor:G-protein complex releases GDP	Complex5	SmallMolecule1	
+BiochemicalReaction3	The receptor:G-protein complex  binds GTP	SmallMolecule2	Complex8	
+BiochemicalReaction3	The receptor:G-protein complex  binds GTP	Complex6	Complex8	
+BiochemicalReaction4	The receptor:G-protein complex dissociates	Complex8	Complex10	
+BiochemicalReaction4	The receptor:G-protein complex dissociates	Complex8	Complex1	
+BiochemicalReaction4	The receptor:G-protein complex dissociates	Complex8	Complex4	
+BiochemicalReaction5	G-protein alpha subunit is inactivated	Complex10	SmallMolecule2	
+BiochemicalReaction5	G-protein alpha subunit is inactivated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	G-protein alpha subunit is inactivated	SmallMolecule1	Complex11	
+BiochemicalReaction5	G-protein alpha subunit is inactivated	Complex10	Complex11	
+BiochemicalReaction6	G-protein beta-gamma subunits rebind the alpha-GDP subunit	Complex11	Complex2	
+BiochemicalReaction6	G-protein beta-gamma subunits rebind the alpha-GDP subunit	Complex4	Complex2	

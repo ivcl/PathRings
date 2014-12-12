@@ -1,0 +1,14 @@
+BiochemicalReaction1	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein1	Complex1	
+BiochemicalReaction1	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein2	Complex1	
+BiochemicalReaction1	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	PhysicalEntity1	Complex1	
+BiochemicalReaction2	TTP Recruits RNA Degradation Activities	Protein3	Complex4	
+BiochemicalReaction2	TTP Recruits RNA Degradation Activities	Complex1	Complex4	
+BiochemicalReaction2	TTP Recruits RNA Degradation Activities	Complex2	Complex4	
+BiochemicalReaction2	TTP Recruits RNA Degradation Activities	Protein14	Complex4	
+BiochemicalReaction2	TTP Recruits RNA Degradation Activities	Protein15	Complex4	
+BiochemicalReaction3	Phosphorylation of Tristetraproline (TTP) by MK2	Complex1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule1	Complex5	
+BiochemicalReaction3	Phosphorylation of Tristetraproline (TTP) by MK2	Complex1	Complex5	
+BiochemicalReaction4	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Complex5	Complex6	
+BiochemicalReaction4	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Protein18	Complex6	

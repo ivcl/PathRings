@@ -1,0 +1,36 @@
+BiochemicalReaction1	Inactivation of Wee1 kinase	Protein1	Protein2	
+BiochemicalReaction10	FOXM1 binds CCNB1 promoter	Protein13	Complex5	
+BiochemicalReaction10	FOXM1 binds CCNB1 promoter	Complex3	Complex5	
+BiochemicalReaction10	FOXM1 binds CCNB1 promoter	Dna3	Complex5	
+BiochemicalReaction10	FOXM1 binds CCNB1 promoter	Protein10	Complex5	
+BiochemicalReaction11	FOXM1 stimulates CCNB1 transcription	Dna3	Protein20	
+BiochemicalReaction12	FOXM1 binds CCNB2 promoter	Protein13	Complex6	
+BiochemicalReaction12	FOXM1 binds CCNB2 promoter	Complex3	Complex6	
+BiochemicalReaction12	FOXM1 binds CCNB2 promoter	Protein10	Complex6	
+BiochemicalReaction12	FOXM1 binds CCNB2 promoter	Dna4	Complex6	
+BiochemicalReaction13	FOXM1 stimulates CCNB2 transcription	Dna4	Protein21	
+BiochemicalReaction14	FOXM1 binds CENPF promoter	Dna5	Complex7	
+BiochemicalReaction14	FOXM1 binds CENPF promoter	Protein10	Complex7	
+BiochemicalReaction15	FOXM1 stimulates CENPF transcription	Dna5	Protein22	
+BiochemicalReaction2	Activation of Cdc25C	Protein4	SmallMolecule2	
+BiochemicalReaction2	Activation of Cdc25C	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Activation of Cdc25C	SmallMolecule1	Protein5	
+BiochemicalReaction2	Activation of Cdc25C	Protein4	Protein5	
+BiochemicalReaction3	Inactivation of Myt1 kinase	Protein6	Protein7	
+BiochemicalReaction4	PLK1 binds FOXM1	Protein8	Complex1	
+BiochemicalReaction4	PLK1 binds FOXM1	Protein9	Complex1	
+BiochemicalReaction5	PLK1 phosphorylates FOXM1	SmallMolecule1	Protein8	
+BiochemicalReaction5	PLK1 phosphorylates FOXM1	Complex1	Protein8	
+BiochemicalReaction5	PLK1 phosphorylates FOXM1	Complex1	SmallMolecule2	
+BiochemicalReaction5	PLK1 phosphorylates FOXM1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	PLK1 phosphorylates FOXM1	Complex1	Protein10	
+BiochemicalReaction5	PLK1 phosphorylates FOXM1	SmallMolecule1	Protein10	
+BiochemicalReaction6	FOXM1 binds CDC25A promoter	Protein11	Complex2	
+BiochemicalReaction6	FOXM1 binds CDC25A promoter	Dna1	Complex2	
+BiochemicalReaction6	FOXM1 binds CDC25A promoter	Protein10	Complex2	
+BiochemicalReaction7	FOXM1 stimulates CDC25A transcription	Dna1	Protein12	
+BiochemicalReaction8	FOXM1 binds PLK1 promoter	Protein13	Complex4	
+BiochemicalReaction8	FOXM1 binds PLK1 promoter	Complex3	Complex4	
+BiochemicalReaction8	FOXM1 binds PLK1 promoter	Protein10	Complex4	
+BiochemicalReaction8	FOXM1 binds PLK1 promoter	Dna2	Complex4	
+BiochemicalReaction9	FOXM1 stimulates PLK1 transcription	Dna2	Protein19	

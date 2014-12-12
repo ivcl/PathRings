@@ -1,0 +1,11 @@
+Complex1	RhoGTPase:GDP	plasma membrane	Reactome DB_ID: 194915	PhysicalEntity1	
+Complex1	RhoGTPase:GDP	plasma membrane	Reactome DB_ID: 194915	SmallMolecule2	
+Complex2	RhoGTPase:GTP	plasma membrane	Reactome DB_ID: 194890	PhysicalEntity1	
+Complex2	RhoGTPase:GTP	plasma membrane	Reactome DB_ID: 194890	SmallMolecule3	
+Complex3	RhoGTPase:GTP:Effectors complex	plasma membrane	Reactome DB_ID: 194875	PhysicalEntity1	
+Complex3	RhoGTPase:GTP:Effectors complex	plasma membrane	Reactome DB_ID: 194875	SmallMolecule3	
+Complex3	RhoGTPase:GTP:Effectors complex	plasma membrane	Reactome DB_ID: 194875	PhysicalEntity2	
+Complex4	Inactivated RhoGTPase:GDP:GDI complex	cytosol	Reactome DB_ID: 194912	Protein122	
+Complex4	Inactivated RhoGTPase:GDP:GDI complex	cytosol	Reactome DB_ID: 194912	Complex5	
+Complex5	RhoGTPase:GDP	cytosol	Reactome DB_ID: 194900	PhysicalEntity4	
+Complex5	RhoGTPase:GDP	cytosol	Reactome DB_ID: 194900	SmallMolecule4	

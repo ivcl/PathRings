@@ -1,0 +1,16 @@
+BiochemicalReaction1	MDC1/NFBD1 associates with gamma H2AX at nuclear foci	Complex1	Complex2	
+BiochemicalReaction1	MDC1/NFBD1 associates with gamma H2AX at nuclear foci	Protein2	Complex2	
+BiochemicalReaction2	phospho-ATM (Serine 1981) associates with DNA at the site of double-strand breaks	Protein4	Complex4	
+BiochemicalReaction2	phospho-ATM (Serine 1981) associates with DNA at the site of double-strand breaks	Complex3	Complex4	
+BiochemicalReaction3	53BP1 associates with gamma H2AX at nuclear foci	Protein5	Complex5	
+BiochemicalReaction3	53BP1 associates with gamma H2AX at nuclear foci	Complex2	Complex5	
+BiochemicalReaction4	Association of gamma-H2AX with NBS1 	Complex1	Complex6	
+BiochemicalReaction4	Association of gamma-H2AX with NBS1 	Protein6	Complex6	
+BiochemicalReaction5	Formation of RAD50:MRE11 complex	Protein7	Complex7	
+BiochemicalReaction5	Formation of RAD50:MRE11 complex	Protein8	Complex7	
+BiochemicalReaction6	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Complex7	Complex8	
+BiochemicalReaction6	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Protein6	Complex8	
+BiochemicalReaction7	Association of MRN with sites of DSB 	Complex6	Complex9	
+BiochemicalReaction7	Association of MRN with sites of DSB 	Complex8	Complex9	
+BiochemicalReaction8	BRCA1 associates with 53BP1at the site of DNA double-strand break	Protein9	Complex10	
+BiochemicalReaction8	BRCA1 associates with 53BP1at the site of DNA double-strand break	Complex5	Complex10	

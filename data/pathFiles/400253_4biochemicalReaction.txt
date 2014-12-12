@@ -1,0 +1,56 @@
+BiochemicalReaction1	Formation of BMAL1:CLOCK/NPAS2 Heterodimer	Protein25	Complex7	
+BiochemicalReaction1	Formation of BMAL1:CLOCK/NPAS2 Heterodimer	Protein1	Complex7	
+BiochemicalReaction10	Binding of FBXL3 to Phosphorylated CRY proteins	Protein67	Complex17	
+BiochemicalReaction10	Binding of FBXL3 to Phosphorylated CRY proteins	Protein60	Complex17	
+BiochemicalReaction11	Ubiquitination of CRY Proteins	Complex17	Protein67	
+BiochemicalReaction11	Ubiquitination of CRY Proteins	Protein68	Protein67	
+BiochemicalReaction11	Ubiquitination of CRY Proteins	Protein68	Protein83	
+BiochemicalReaction11	Ubiquitination of CRY Proteins	Complex17	Protein83	
+BiochemicalReaction12	Ubiquitination of PER Proteins	Protein86	Protein101	
+BiochemicalReaction12	Ubiquitination of PER Proteins	Complex16	Protein101	
+BiochemicalReaction12	Ubiquitination of PER Proteins	Complex16	Protein66	
+BiochemicalReaction12	Ubiquitination of PER Proteins	Protein86	Protein66	
+BiochemicalReaction13	Formation of ROR-alpha Coactivator Complex	Protein5	Complex3	
+BiochemicalReaction13	Formation of ROR-alpha Coactivator Complex	Protein6	Complex3	
+BiochemicalReaction13	Formation of ROR-alpha Coactivator Complex	PhysicalEntity1	Complex3	
+BiochemicalReaction13	Formation of ROR-alpha Coactivator Complex	Protein7	Complex3	
+BiochemicalReaction2	Phosphorylation and Nuclear Translocation of the BMAL1:CLOCK/NPAS2 Heterodimer	Complex7	Complex8	
+BiochemicalReaction2	Phosphorylation and Nuclear Translocation of the BMAL1:CLOCK/NPAS2 Heterodimer	PhysicalEntity3	Complex8	
+BiochemicalReaction3	NR1D1 (REV-ERBA) Binds Heme and Corepressors	Protein2	Complex1	
+BiochemicalReaction3	NR1D1 (REV-ERBA) Binds Heme and Corepressors	PhysicalEntity1	Complex1	
+BiochemicalReaction3	NR1D1 (REV-ERBA) Binds Heme and Corepressors	Protein3	Complex1	
+BiochemicalReaction3	NR1D1 (REV-ERBA) Binds Heme and Corepressors	Protein4	Complex1	
+BiochemicalReaction3	NR1D1 (REV-ERBA) Binds Heme and Corepressors	SmallMolecule9	Complex1	
+BiochemicalReaction4	Stabilization of Unphosphorylated BMAL1:CLOCK/NPAS2 Heterodimer by CRY Proteins	Complex7	Complex11	
+BiochemicalReaction4	Stabilization of Unphosphorylated BMAL1:CLOCK/NPAS2 Heterodimer by CRY Proteins	Protein46	Complex11	
+BiochemicalReaction5	Formation of CRY:PER:Kinase Complex	Protein47	Complex12	
+BiochemicalReaction5	Formation of CRY:PER:Kinase Complex	Protein50	Complex12	
+BiochemicalReaction5	Formation of CRY:PER:Kinase Complex	Protein46	Complex12	
+BiochemicalReaction6	Phosphorylation of CRY and PER Proteins	Complex12	Complex13	
+BiochemicalReaction7	Translocation of CRY:PER:Kinase Ternary Complex into the Nucleus	Complex13	Complex14	
+BiochemicalReaction8	Binding of CRY:PER Heterodimer to the BMAL1:CLOCK/NPAS2 Heterodimer	Complex8	Complex15	
+BiochemicalReaction8	Binding of CRY:PER Heterodimer to the BMAL1:CLOCK/NPAS2 Heterodimer	Complex14	Complex15	
+BiochemicalReaction9	Binding of Beta-TrCP1 to phosphorylated PER proteins	Protein66	Complex16	
+BiochemicalReaction9	Binding of Beta-TrCP1 to phosphorylated PER proteins	Protein54	Complex16	
+TemplateReaction1	Expression of BMAL1 (ARNTL).	NA	Protein1	
+TemplateReaction10	Expression of PAI-1	NA	Protein36	
+TemplateReaction11	Expression of PPARA	NA	Protein10	
+TemplateReaction12	Expression of NAMPT (NamPRT, PBEF, Visfatin)	NA	Protein39	
+TemplateReaction13	Expression of CRYPTOCHROME-1	NA	Protein40	
+TemplateReaction14	Expression of CRYPTOCHROME-2	NA	Protein41	
+TemplateReaction15	Expression of PERIOD-1	NA	Protein42	
+TemplateReaction16	Expression of PERIOD-2	NA	Protein43	
+TemplateReaction17	Expression of NR1D1 (REV-ERBA)	NA	Protein2	
+TemplateReaction18	Expression of ELOVL3	NA	Protein45	
+TemplateReaction19	Expression of PPARGC1A (PGC-1alpha)	NA	Protein6	
+TemplateReaction2	Expression of CLOCK	NA	Protein8	
+TemplateReaction20	Expression of RORA (ROR-alpha)	NA	Protein7	
+TemplateReaction21	Expression of SREBF1 (SREBP1)	NA	Protein115	
+TemplateReaction22	Expression of CPT1A	NA	Protein116	
+TemplateReaction3	Expression of NPAS2	NA	Protein9	
+TemplateReaction4	Expression of AVP	NA	Protein30	
+TemplateReaction5	Expression of DBP	NA	Protein31	
+TemplateReaction6	Expression of DEC1 (BHLHE40, BHLHB2)	NA	Protein32	
+TemplateReaction7	Expression of DEC2 (BHLHE41, BHLHB3)	NA	Protein33	
+TemplateReaction8	Expression of FACTOR VII (F7)	NA	Protein34	
+TemplateReaction9	Expression of NOCTURNIN	NA	Protein35	

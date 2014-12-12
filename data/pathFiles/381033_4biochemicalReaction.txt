@@ -1,0 +1,15 @@
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	Complex1	Complex2	
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	Complex1	Protein2	
+BiochemicalReaction1	Dissociation of ATF6-alpha:BiP Complex	PhysicalEntity1	Protein2	
+BiochemicalReaction2	Translocation of ATF6-alpha to the Golgi	Protein2	Protein4	
+BiochemicalReaction3	Cleavage of ATF6-alpha by S1P	Protein4	Protein5	
+BiochemicalReaction3	Cleavage of ATF6-alpha by S1P	Protein4	Protein6	
+BiochemicalReaction4	Cleavage of ATF6-alpha by S2P	Protein5	Protein8	
+BiochemicalReaction4	Cleavage of ATF6-alpha by S2P	Protein5	Protein9	
+BiochemicalReaction5	Translocation of ATF6-alpha to the Nucleus	Protein8	Protein11	
+TemplateReaction1	Expression of BIP (78 kDa Glucose-regulated protein, GRP78, HSPA5)	NA	Protein1	
+TemplateReaction2	Expression of CHOP (DDIT3, GADD153)	NA	Protein16	
+TemplateReaction3	Expression of Calreticulin	NA	Protein17	
+TemplateReaction4	Expression of HSP90B1 (Endoplasmin)	NA	Protein18	
+TemplateReaction5	Expression of Xbp1(S)	NA	Protein19	

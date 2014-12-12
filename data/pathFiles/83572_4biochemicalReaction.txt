@@ -1,0 +1,8 @@
+BiochemicalReaction1	Association of gamma-H2AX with NBS1 	Complex1	Complex2	
+BiochemicalReaction1	Association of gamma-H2AX with NBS1 	Protein2	Complex2	
+BiochemicalReaction2	Formation of RAD50:MRE11 complex	Protein3	Complex3	
+BiochemicalReaction2	Formation of RAD50:MRE11 complex	Protein4	Complex3	
+BiochemicalReaction3	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Complex3	Complex4	
+BiochemicalReaction3	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Protein2	Complex4	
+BiochemicalReaction4	Association of MRN with sites of DSB 	Complex2	Complex5	
+BiochemicalReaction4	Association of MRN with sites of DSB 	Complex4	Complex5	

@@ -1,0 +1,11 @@
+BiochemicalReaction1	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex1	SmallMolecule2	
+BiochemicalReaction1	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex1	Complex2	
+BiochemicalReaction1	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule1	Complex2	
+BiochemicalReaction2	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex19	Protein28	
+BiochemicalReaction2	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Protein28	
+BiochemicalReaction2	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex19	SmallMolecule2	
+BiochemicalReaction2	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Complex20	
+BiochemicalReaction2	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex19	Complex20	
+BiochemicalReaction3	Released NFkB complex is transported to nucleus	Complex20	Complex21	

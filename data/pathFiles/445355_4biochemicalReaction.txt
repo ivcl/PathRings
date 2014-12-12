@@ -1,0 +1,16 @@
+BiochemicalReaction1	Calcium binds calmodulin	SmallMolecule1	Complex1	
+BiochemicalReaction1	Calcium binds calmodulin	Protein1	Complex1	
+BiochemicalReaction2	MLCK Active Calmodulin Binding	Complex1	Complex2	
+BiochemicalReaction2	MLCK Active Calmodulin Binding	Protein2	Complex2	
+BiochemicalReaction3	Phosphorylation of Smooth Muscle Myosin Light Chains	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of Smooth Muscle Myosin Light Chains	Protein3	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of Smooth Muscle Myosin Light Chains	Protein3	Protein8	
+BiochemicalReaction3	Phosphorylation of Smooth Muscle Myosin Light Chains	SmallMolecule2	Protein8	
+BiochemicalReaction4	Calcium Binds Caldesmon	Complex3	Complex5	
+BiochemicalReaction4	Calcium Binds Caldesmon	SmallMolecule1	Complex5	
+BiochemicalReaction5	Release Of ADP From Myosin	Complex7	SmallMolecule3	
+BiochemicalReaction5	Release Of ADP From Myosin	Complex7	Complex5	
+BiochemicalReaction6	Myosin Binds ATP	Complex5	Complex9	
+BiochemicalReaction6	Myosin Binds ATP	SmallMolecule2	Complex9	
+BiochemicalReaction7	ATP Hydrolysis By Myosin	Complex9	SmallMolecule4	
+BiochemicalReaction7	ATP Hydrolysis By Myosin	Complex9	Complex7	

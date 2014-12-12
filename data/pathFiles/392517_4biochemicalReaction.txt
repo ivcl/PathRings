@@ -1,0 +1,20 @@
+BiochemicalReaction1	PKA/PKG phosphorylate Rap1GAP2	Protein1	Protein2	
+BiochemicalReaction1	PKA/PKG phosphorylate Rap1GAP2	SmallMolecule1	Protein2	
+BiochemicalReaction1	PKA/PKG phosphorylate Rap1GAP2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	PKA/PKG phosphorylate Rap1GAP2	Protein1	SmallMolecule2	
+BiochemicalReaction2	14-3-3 proteins beta and zeta bind and inhibit Rap1Gap2	Protein2	Complex1	
+BiochemicalReaction2	14-3-3 proteins beta and zeta bind and inhibit Rap1Gap2	Protein8	Complex1	
+BiochemicalReaction3	Activation of EPACs by cAMP	SmallMolecule3	Complex2	
+BiochemicalReaction3	Activation of EPACs by cAMP	Protein11	Complex2	
+BiochemicalReaction4	Activation of Rap1 by membrane-associated GEFs	SmallMolecule4	Complex4	
+BiochemicalReaction4	Activation of Rap1 by membrane-associated GEFs	Complex3	Complex4	
+BiochemicalReaction4	Activation of Rap1 by membrane-associated GEFs	Complex3	SmallMolecule7	
+BiochemicalReaction4	Activation of Rap1 by membrane-associated GEFs	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction5	Activation of Rap1 by cytosolic GEFs	SmallMolecule4	Complex4	
+BiochemicalReaction5	Activation of Rap1 by cytosolic GEFs	Complex3	Complex4	
+BiochemicalReaction5	Activation of Rap1 by cytosolic GEFs	Complex3	SmallMolecule7	
+BiochemicalReaction5	Activation of Rap1 by cytosolic GEFs	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction6	Rap1 signal termination by Rap1GAPs	Complex4	Complex3	
+BiochemicalReaction6	Rap1 signal termination by Rap1GAPs	Complex4	SmallMolecule8	
+BiochemicalReaction7	Rap1 sequesters Raf1 to inhibit ERK cascade	Complex4	Complex5	
+BiochemicalReaction7	Rap1 sequesters Raf1 to inhibit ERK cascade	Protein23	Complex5	

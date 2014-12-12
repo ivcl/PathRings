@@ -1,0 +1,26 @@
+BiochemicalReaction1	Binding of Glucagon-like Peptide-1 by Glucagon-like Peptide-1 Receptor	Protein1	Complex4	
+BiochemicalReaction1	Binding of Glucagon-like Peptide-1 by Glucagon-like Peptide-1 Receptor	Complex1	Complex4	
+BiochemicalReaction10	Activation of Epac2 by cAMP	SmallMolecule6	Complex23	
+BiochemicalReaction10	Activation of Epac2 by cAMP	Protein53	Complex23	
+BiochemicalReaction11	Exchange of GDP for GTP by Rap1A	SmallMolecule2	Complex25	
+BiochemicalReaction11	Exchange of GDP for GTP by Rap1A	Complex24	Complex25	
+BiochemicalReaction11	Exchange of GDP for GTP by Rap1A	Complex24	SmallMolecule4	
+BiochemicalReaction11	Exchange of GDP for GTP by Rap1A	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Activation of G(s) by GLP-1R	SmallMolecule2	Complex6	
+BiochemicalReaction2	Activation of G(s) by GLP-1R	Complex4	Complex6	
+BiochemicalReaction2	Activation of G(s) by GLP-1R	Complex4	SmallMolecule4	
+BiochemicalReaction2	Activation of G(s) by GLP-1R	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Rearrangement of the heterotrimeric G(s) complex	Complex8	Complex7	
+BiochemicalReaction3	Rearrangement of the heterotrimeric G(s) complex	Complex8	Complex2	
+BiochemicalReaction4	Activation of Adenylyl Cyclase by G(s):GTP	Protein28	Complex9	
+BiochemicalReaction4	Activation of Adenylyl Cyclase by G(s):GTP	Complex7	Complex9	
+BiochemicalReaction5	Production of Cyclic AMP by Activated Adenylyl Cyclase	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction5	Production of Cyclic AMP by Activated Adenylyl Cyclase	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction6	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	SmallMolecule6	Protein37	
+BiochemicalReaction6	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	Complex10	Protein37	
+BiochemicalReaction6	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	Complex10	Complex12	
+BiochemicalReaction6	cAMP induces dissociation of active PKA catalytic subunits from the PKA:AKAP79:IQGAP1 Complex	SmallMolecule6	Complex12	
+BiochemicalReaction7	Closing of Potassium voltage-gated channels by PKA	Protein43	Protein48	
+BiochemicalReaction8	Opening of ER calcium channels by activated PKA	Complex14	Complex18	
+BiochemicalReaction9	Activation of Epac1 by cAMP	SmallMolecule6	Complex22	
+BiochemicalReaction9	Activation of Epac1 by cAMP	Protein52	Complex22	

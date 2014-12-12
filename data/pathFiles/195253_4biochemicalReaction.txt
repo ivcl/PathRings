@@ -1,0 +1,36 @@
+BiochemicalReaction1	Assembly of the destruction complex	Protein1	Complex2	
+BiochemicalReaction1	Assembly of the destruction complex	Complex1	Complex2	
+BiochemicalReaction1	Assembly of the destruction complex	Protein14	Complex2	
+BiochemicalReaction1	Assembly of the destruction complex	Protein15	Complex2	
+BiochemicalReaction1	Assembly of the destruction complex	Protein16	Complex2	
+BiochemicalReaction1	Assembly of the destruction complex	Protein17	Complex2	
+BiochemicalReaction10	Multi-ubiquitination of phospho-beta-catenin by SCF-beta-TrCP1	Protein35	Complex13	
+BiochemicalReaction10	Multi-ubiquitination of phospho-beta-catenin by SCF-beta-TrCP1	Complex12	Complex13	
+BiochemicalReaction11	Degradation of ubiquitinated -beta catenin by the proteasome	Complex13	Protein35	
+BiochemicalReaction11	Degradation of ubiquitinated -beta catenin by the proteasome	Complex13	Complex14	
+BiochemicalReaction11	Degradation of ubiquitinated -beta catenin by the proteasome	Complex13	Complex11	
+BiochemicalReaction2	Association of beta-catenin with the destruction complex	Protein18	Complex3	
+BiochemicalReaction2	Association of beta-catenin with the destruction complex	Complex2	Complex3	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	Complex3	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	SmallMolecule1	Complex4	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	Complex3	Complex4	
+BiochemicalReaction4	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	Complex4	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	SmallMolecule1	Complex5	
+BiochemicalReaction4	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	Complex4	Complex5	
+BiochemicalReaction5	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	Complex5	Complex7	
+BiochemicalReaction5	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	SmallMolecule1	Complex7	
+BiochemicalReaction5	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	Complex5	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	Complex7	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	SmallMolecule1	Complex8	
+BiochemicalReaction6	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	Complex7	Complex8	
+BiochemicalReaction7	Phosphorylation of APC component of the destruction complex	SmallMolecule1	Complex9	
+BiochemicalReaction7	Phosphorylation of APC component of the destruction complex	Complex8	Complex9	
+BiochemicalReaction7	Phosphorylation of APC component of the destruction complex	Complex8	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of APC component of the destruction complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Dissociation of beta-catenin from Axin and association of beta catenin with phospho-(20 aa) APC in the detruction complex	Complex9	Complex10	
+BiochemicalReaction9	Association of beta-catenin with  the SCF-beta-TrCP1 ubiquitin ligase complex	Complex10	Complex12	
+BiochemicalReaction9	Association of beta-catenin with  the SCF-beta-TrCP1 ubiquitin ligase complex	Complex11	Complex12	

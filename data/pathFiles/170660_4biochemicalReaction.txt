@@ -1,0 +1,8 @@
+BiochemicalReaction1	Galpha-olf:GTP binds to adenylate cyclase and activates it	Complex1	Complex3	
+BiochemicalReaction1	Galpha-olf:GTP binds to adenylate cyclase and activates it	Complex2	Complex3	
+BiochemicalReaction2	Adenylate cyclase converts ATP into cyclic AMP	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Adenylate cyclase converts ATP into cyclic AMP	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction3	Adenylaye cyclase increases the GTPase activity of G alpha-olf	Complex3	SmallMolecule6	
+BiochemicalReaction3	Adenylaye cyclase increases the GTPase activity of G alpha-olf	Complex3	Complex4	
+BiochemicalReaction4	The G alpha-olf:GDP:Adenylate cyclase complex dissociates	Complex4	Complex1	
+BiochemicalReaction4	The G alpha-olf:GDP:Adenylate cyclase complex dissociates	Complex4	Complex5	

@@ -1,0 +1,315 @@
+BiochemicalReaction1	Hydrolysis of phosphatidylcholine	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Hydrolysis of phosphatidylcholine	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Hydrolysis of phosphatidylcholine	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Hydrolysis of phosphatidylcholine	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	PGH2 diffuses from the endoplasmic reticulum lumen to the cytosol	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction11	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction11	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction11	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule19	SmallMolecule22	
+BiochemicalReaction11	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule19	SmallMolecule23	
+BiochemicalReaction11	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction11	PGH2 is reduced to PGF2a by AKR1C3	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction12	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule19	SmallMolecule23	
+BiochemicalReaction12	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule24	SmallMolecule23	
+BiochemicalReaction12	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction12	PGH2 is reduced to PGF2a by FAM213B	SmallMolecule19	SmallMolecule25	
+BiochemicalReaction13	PGH2 is isomerised to PGE2 by PTGES	SmallMolecule19	SmallMolecule26	
+BiochemicalReaction14	Prostaglandin E synthase isomerizes PGH2 to PGE2	SmallMolecule19	SmallMolecule26	
+BiochemicalReaction15	PGE2 is converted to PGF2a by CBR1	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction15	PGE2 is converted to PGF2a by CBR1	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction15	PGE2 is converted to PGF2a by CBR1	SmallMolecule26	SmallMolecule22	
+BiochemicalReaction15	PGE2 is converted to PGF2a by CBR1	SmallMolecule26	SmallMolecule23	
+BiochemicalReaction15	PGE2 is converted to PGF2a by CBR1	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction15	PGE2 is converted to PGF2a by CBR1	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction16	PGE2 is dehydrated to PGA2	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction16	PGE2 is dehydrated to PGA2	SmallMolecule26	SmallMolecule2	
+BiochemicalReaction17	PGA2 is isomerised to PGC2	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction18	PGC2 is isomerised to PGB2	SmallMolecule29	SmallMolecule30	
+BiochemicalReaction19	PGA2 is dehydrated to 15d-PGA2	SmallMolecule28	SmallMolecule31	
+BiochemicalReaction19	PGA2 is dehydrated to 15d-PGA2	SmallMolecule28	SmallMolecule2	
+BiochemicalReaction2	Arachidonate diffuses across the ER membrane	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction20	PGH2 is isomerised to PGD2 by PTGDS	SmallMolecule17	SmallMolecule32	
+BiochemicalReaction21	PGH2 is isomerised to PGD2 by HPGDS	SmallMolecule19	SmallMolecule33	
+BiochemicalReaction22	PGD2 is dehydrated to PGJ2	SmallMolecule32	SmallMolecule35	
+BiochemicalReaction22	PGD2 is dehydrated to PGJ2	SmallMolecule32	SmallMolecule18	
+BiochemicalReaction23	PGJ2 is isomerised to delta12-PGJ2	SmallMolecule35	SmallMolecule36	
+BiochemicalReaction24	Delta12-PGJ2 is dehydrated to 15d-PGJ2	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction24	Delta12-PGJ2 is dehydrated to 15d-PGJ2	SmallMolecule36	SmallMolecule18	
+BiochemicalReaction25	PGD2 is dehydrated to 15d-PGD2	SmallMolecule32	SmallMolecule38	
+BiochemicalReaction25	PGD2 is dehydrated to 15d-PGD2	SmallMolecule32	SmallMolecule18	
+BiochemicalReaction26	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule20	SmallMolecule39	
+BiochemicalReaction26	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule21	SmallMolecule39	
+BiochemicalReaction26	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule33	SmallMolecule39	
+BiochemicalReaction26	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule33	SmallMolecule22	
+BiochemicalReaction26	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction26	PGD2 is reduced to 11-epi-PGF2a by AKRIC3	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction27	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule40	SmallMolecule21	
+BiochemicalReaction27	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule41	SmallMolecule21	
+BiochemicalReaction27	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule41	SmallMolecule42	
+BiochemicalReaction27	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule40	SmallMolecule42	
+BiochemicalReaction27	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule41	SmallMolecule46	
+BiochemicalReaction27	PGD2/E2/F2a is oxidised to 15k-PGD2/E2/F2a by HPGD	SmallMolecule40	SmallMolecule46	
+BiochemicalReaction28	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction28	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction28	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule47	SmallMolecule22	
+BiochemicalReaction28	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule47	SmallMolecule48	
+BiochemicalReaction28	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule21	SmallMolecule48	
+BiochemicalReaction28	15k-PGE2/F2a is reduced to dhk-PGE2/F2a by PTGR1	SmallMolecule20	SmallMolecule48	
+BiochemicalReaction29	PGH2 is isomerised to PGI2 by PTGIS	SmallMolecule17	SmallMolecule51	
+BiochemicalReaction3	PTGS2 dimer binds celecoxib	SmallMolecule8	Complex3	
+BiochemicalReaction3	PTGS2 dimer binds celecoxib	Complex2	Complex3	
+BiochemicalReaction30	PGI2 is hydrolysed to 6k-PGF1a	SmallMolecule51	SmallMolecule52	
+BiochemicalReaction30	PGI2 is hydrolysed to 6k-PGF1a	SmallMolecule18	SmallMolecule52	
+BiochemicalReaction31	PGH2 is isomerised to TXA2 by TBXAS1	SmallMolecule17	SmallMolecule53	
+BiochemicalReaction32	TXA2 is hydrolysed to TXB2	SmallMolecule53	SmallMolecule54	
+BiochemicalReaction32	TXA2 is hydrolysed to TXB2	SmallMolecule18	SmallMolecule54	
+BiochemicalReaction33	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule55	SmallMolecule15	
+BiochemicalReaction33	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule54	SmallMolecule15	
+BiochemicalReaction33	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule54	SmallMolecule56	
+BiochemicalReaction33	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction33	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule54	SmallMolecule57	
+BiochemicalReaction33	TXB2 is converted to 11dh-TXB2 by TXDH	SmallMolecule55	SmallMolecule57	
+BiochemicalReaction34	PGH2 is degraded to 12S-HHT and MDA by TBXAS1	SmallMolecule17	SmallMolecule58	
+BiochemicalReaction34	PGH2 is degraded to 12S-HHT and MDA by TBXAS1	SmallMolecule17	SmallMolecule59	
+BiochemicalReaction35	ALOX5 is phosphorylated by MAPKAP2	Complex10	Complex11	
+BiochemicalReaction36	Oxidation of arachidonic acid to 5-HpETE	SmallMolecule7	SmallMolecule62	
+BiochemicalReaction36	Oxidation of arachidonic acid to 5-HpETE	SmallMolecule61	SmallMolecule62	
+BiochemicalReaction37	5S-HpETE is dehydrated to LTA4 by ALOX5	SmallMolecule62	SmallMolecule65	
+BiochemicalReaction37	5S-HpETE is dehydrated to LTA4 by ALOX5	SmallMolecule62	SmallMolecule2	
+BiochemicalReaction38	LTA4 is hydrolyzed to LTB4	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction38	LTA4 is hydrolyzed to LTB4	SmallMolecule2	SmallMolecule66	
+BiochemicalReaction39	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule22	SmallMolecule20	
+BiochemicalReaction39	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule66	SmallMolecule20	
+BiochemicalReaction39	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule66	SmallMolecule21	
+BiochemicalReaction39	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule22	SmallMolecule21	
+BiochemicalReaction39	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule66	SmallMolecule68	
+BiochemicalReaction39	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule22	SmallMolecule68	
+BiochemicalReaction4	Aspirin acetylates PTGS1	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction4	Aspirin acetylates PTGS1	Complex4	SmallMolecule12	
+BiochemicalReaction4	Aspirin acetylates PTGS1	Complex4	Complex5	
+BiochemicalReaction4	Aspirin acetylates PTGS1	SmallMolecule11	Complex5	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule66	SmallMolecule22	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule66	SmallMolecule2	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule69	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule66	SmallMolecule69	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule69	
+BiochemicalReaction40	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule69	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule70	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule70	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule70	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule69	SmallMolecule70	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule69	SmallMolecule22	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule69	SmallMolecule2	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction41	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule70	SmallMolecule71	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule71	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule71	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule71	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule70	SmallMolecule22	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction42	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule70	SmallMolecule2	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule70	SmallMolecule71	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule20	SmallMolecule71	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule21	SmallMolecule71	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule61	SmallMolecule71	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule70	SmallMolecule22	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction43	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule70	SmallMolecule2	
+BiochemicalReaction44	20cooh-LTB4 is converted to 18cooh-LTB4	SmallMolecule71	SmallMolecule72	
+BiochemicalReaction45	LTA4 is converted to LTC4 by LTC4S	SmallMolecule34	SmallMolecule73	
+BiochemicalReaction45	LTA4 is converted to LTC4 by LTC4S	SmallMolecule65	SmallMolecule73	
+BiochemicalReaction46	ABCC1 mediates LTC4 export from the cell	SmallMolecule73	SmallMolecule74	
+BiochemicalReaction47	LTC4 is converted to LTD4 by GGT1/5	SmallMolecule74	SmallMolecule75	
+BiochemicalReaction47	LTC4 is converted to LTD4 by GGT1/5	SmallMolecule74	SmallMolecule76	
+BiochemicalReaction48	Further cleavage of LTD4 forms LTE4	SmallMolecule75	SmallMolecule78	
+BiochemicalReaction48	Further cleavage of LTD4 forms LTE4	SmallMolecule77	SmallMolecule78	
+BiochemicalReaction48	Further cleavage of LTD4 forms LTE4	SmallMolecule77	SmallMolecule79	
+BiochemicalReaction48	Further cleavage of LTD4 forms LTE4	SmallMolecule75	SmallMolecule79	
+BiochemicalReaction49	LTA4 is hydrolysed to 6t-/6t,12epi-LTB4	SmallMolecule65	SmallMolecule80	
+BiochemicalReaction49	LTA4 is hydrolysed to 6t-/6t,12epi-LTB4	SmallMolecule2	SmallMolecule80	
+BiochemicalReaction5	Aspirin acetylates PTGS2	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	Aspirin acetylates PTGS2	Complex2	SmallMolecule12	
+BiochemicalReaction5	Aspirin acetylates PTGS2	Complex2	Complex6	
+BiochemicalReaction5	Aspirin acetylates PTGS2	SmallMolecule11	Complex6	
+BiochemicalReaction50	LTA4 is converted to EXA4 by ALOX15	SmallMolecule65	SmallMolecule83	
+BiochemicalReaction51	EXA4 is converted to EXC4 by LTC4S	SmallMolecule83	SmallMolecule84	
+BiochemicalReaction51	EXA4 is converted to EXC4 by LTC4S	SmallMolecule34	SmallMolecule84	
+BiochemicalReaction52	EXC4 is converted to EXD4 by GGT	SmallMolecule84	SmallMolecule85	
+BiochemicalReaction52	EXC4 is converted to EXD4 by GGT	SmallMolecule84	SmallMolecule86	
+BiochemicalReaction53	EXD4 is converted to EXE4 by DPEP	SmallMolecule85	SmallMolecule87	
+BiochemicalReaction53	EXD4 is converted to EXE4 by DPEP	SmallMolecule2	SmallMolecule87	
+BiochemicalReaction53	EXD4 is converted to EXE4 by DPEP	SmallMolecule2	SmallMolecule88	
+BiochemicalReaction53	EXD4 is converted to EXE4 by DPEP	SmallMolecule85	SmallMolecule88	
+BiochemicalReaction54	5S-HpETE is reduced to 5S-HETE by GPX1/2/4	SmallMolecule62	SmallMolecule89	
+BiochemicalReaction54	5S-HpETE is reduced to 5S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule89	
+BiochemicalReaction54	5S-HpETE is reduced to 5S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule2	
+BiochemicalReaction54	5S-HpETE is reduced to 5S-HETE by GPX1/2/4	SmallMolecule62	SmallMolecule2	
+BiochemicalReaction54	5S-HpETE is reduced to 5S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule90	
+BiochemicalReaction54	5S-HpETE is reduced to 5S-HETE by GPX1/2/4	SmallMolecule62	SmallMolecule90	
+BiochemicalReaction55	5S-HETE is oxidised to 5-oxoETE by 5-HEDH	SmallMolecule22	SmallMolecule20	
+BiochemicalReaction55	5S-HETE is oxidised to 5-oxoETE by 5-HEDH	SmallMolecule90	SmallMolecule20	
+BiochemicalReaction55	5S-HETE is oxidised to 5-oxoETE by 5-HEDH	SmallMolecule90	SmallMolecule21	
+BiochemicalReaction55	5S-HETE is oxidised to 5-oxoETE by 5-HEDH	SmallMolecule22	SmallMolecule21	
+BiochemicalReaction55	5S-HETE is oxidised to 5-oxoETE by 5-HEDH	SmallMolecule90	SmallMolecule91	
+BiochemicalReaction55	5S-HETE is oxidised to 5-oxoETE by 5-HEDH	SmallMolecule22	SmallMolecule91	
+BiochemicalReaction56	Arachidonic acid is oxidised to 15S-HpETE by ALOX15/15B	SmallMolecule7	SmallMolecule92	
+BiochemicalReaction56	Arachidonic acid is oxidised to 15S-HpETE by ALOX15/15B	SmallMolecule61	SmallMolecule92	
+BiochemicalReaction57	15S-HpETE is reduced to 15S-HETE by GPX1/2/4	SmallMolecule92	SmallMolecule89	
+BiochemicalReaction57	15S-HpETE is reduced to 15S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule89	
+BiochemicalReaction57	15S-HpETE is reduced to 15S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule93	
+BiochemicalReaction57	15S-HpETE is reduced to 15S-HETE by GPX1/2/4	SmallMolecule92	SmallMolecule93	
+BiochemicalReaction57	15S-HpETE is reduced to 15S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule2	
+BiochemicalReaction57	15S-HpETE is reduced to 15S-HETE by GPX1/2/4	SmallMolecule92	SmallMolecule2	
+BiochemicalReaction58	15S-HETE is oxidised to 15-oxoETE by 15-HEDH	SmallMolecule93	SmallMolecule95	
+BiochemicalReaction58	15S-HETE is oxidised to 15-oxoETE by 15-HEDH	SmallMolecule94	SmallMolecule95	
+BiochemicalReaction58	15S-HETE is oxidised to 15-oxoETE by 15-HEDH	SmallMolecule94	SmallMolecule21	
+BiochemicalReaction58	15S-HETE is oxidised to 15-oxoETE by 15-HEDH	SmallMolecule93	SmallMolecule21	
+BiochemicalReaction58	15S-HETE is oxidised to 15-oxoETE by 15-HEDH	SmallMolecule94	SmallMolecule96	
+BiochemicalReaction58	15S-HETE is oxidised to 15-oxoETE by 15-HEDH	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule7	SmallMolecule22	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule61	SmallMolecule97	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule21	SmallMolecule97	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule7	SmallMolecule97	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule20	SmallMolecule97	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule7	SmallMolecule2	
+BiochemicalReaction59	Arachidonic acid is oxidised to 15R-HETE by Acetyl-PTGS2	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction6	Arachidonic acid oxidised to PGG2	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction6	Arachidonic acid oxidised to PGG2	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction60	Arachidonic acid is oxidised to 12R-HpETE by ALOX12B	SmallMolecule7	SmallMolecule98	
+BiochemicalReaction60	Arachidonic acid is oxidised to 12R-HpETE by ALOX12B	SmallMolecule61	SmallMolecule98	
+BiochemicalReaction61	12R-HpETE is reduced to 12R-HETE by GPX1/2/4	SmallMolecule98	SmallMolecule89	
+BiochemicalReaction61	12R-HpETE is reduced to 12R-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule89	
+BiochemicalReaction61	12R-HpETE is reduced to 12R-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule99	
+BiochemicalReaction61	12R-HpETE is reduced to 12R-HETE by GPX1/2/4	SmallMolecule98	SmallMolecule99	
+BiochemicalReaction61	12R-HpETE is reduced to 12R-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule2	
+BiochemicalReaction61	12R-HpETE is reduced to 12R-HETE by GPX1/2/4	SmallMolecule98	SmallMolecule2	
+BiochemicalReaction62	Arachidonic acid is oxidised to 12S-HpETE by ALOX12/15	SmallMolecule7	SmallMolecule100	
+BiochemicalReaction62	Arachidonic acid is oxidised to 12S-HpETE by ALOX12/15	SmallMolecule61	SmallMolecule100	
+BiochemicalReaction63	12S-HpETE is reduced to 12S-HETE by GPX1/2/4	SmallMolecule100	SmallMolecule89	
+BiochemicalReaction63	12S-HpETE is reduced to 12S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule89	
+BiochemicalReaction63	12S-HpETE is reduced to 12S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule101	
+BiochemicalReaction63	12S-HpETE is reduced to 12S-HETE by GPX1/2/4	SmallMolecule100	SmallMolecule101	
+BiochemicalReaction63	12S-HpETE is reduced to 12S-HETE by GPX1/2/4	SmallMolecule34	SmallMolecule2	
+BiochemicalReaction63	12S-HpETE is reduced to 12S-HETE by GPX1/2/4	SmallMolecule100	SmallMolecule2	
+BiochemicalReaction64	Arachidonic acid  is converted to 12-oxoETE by ALOX12	SmallMolecule7	SmallMolecule102	
+BiochemicalReaction65	LTA4 is converted to LXA4/B4 by ALOX12	SmallMolecule65	SmallMolecule103	
+BiochemicalReaction66	15S-HpETE is oxidised to LXA4/B4 by ALOX5	SmallMolecule92	SmallMolecule103	
+BiochemicalReaction67	15R-HETE is converted to 15epi-LXA4/B4 by ALOX5	SmallMolecule97	SmallMolecule106	
+BiochemicalReaction68	LXA4 is oxidised to 15k-LXA4 by HPGD	SmallMolecule104	SmallMolecule21	
+BiochemicalReaction68	LXA4 is oxidised to 15k-LXA4 by HPGD	SmallMolecule41	SmallMolecule21	
+BiochemicalReaction68	LXA4 is oxidised to 15k-LXA4 by HPGD	SmallMolecule41	SmallMolecule109	
+BiochemicalReaction68	LXA4 is oxidised to 15k-LXA4 by HPGD	SmallMolecule104	SmallMolecule109	
+BiochemicalReaction68	LXA4 is oxidised to 15k-LXA4 by HPGD	SmallMolecule41	SmallMolecule46	
+BiochemicalReaction68	LXA4 is oxidised to 15k-LXA4 by HPGD	SmallMolecule104	SmallMolecule46	
+BiochemicalReaction69	15k-LXA4 is reduced to dhk-LXA4 by PTGR1	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction69	15k-LXA4 is reduced to dhk-LXA4 by PTGR1	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction69	15k-LXA4 is reduced to dhk-LXA4 by PTGR1	SmallMolecule109	SmallMolecule22	
+BiochemicalReaction69	15k-LXA4 is reduced to dhk-LXA4 by PTGR1	SmallMolecule109	SmallMolecule110	
+BiochemicalReaction69	15k-LXA4 is reduced to dhk-LXA4 by PTGR1	SmallMolecule21	SmallMolecule110	
+BiochemicalReaction69	15k-LXA4 is reduced to dhk-LXA4 by PTGR1	SmallMolecule20	SmallMolecule110	
+BiochemicalReaction7	Arachidonic acid oxidised to PGG2	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction7	Arachidonic acid oxidised to PGG2	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction70	Arachidonic acid is converted to HXA3/B3 by ALOX12	SmallMolecule7	SmallMolecule111	
+BiochemicalReaction70	Arachidonic acid is converted to HXA3/B3 by ALOX12	SmallMolecule61	SmallMolecule111	
+BiochemicalReaction71	HXA3/B3 is hydrolysed to TrXA3/B3 by HXEH	SmallMolecule111	SmallMolecule114	
+BiochemicalReaction71	HXA3/B3 is hydrolysed to TrXA3/B3 by HXEH	SmallMolecule2	SmallMolecule114	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule15	SmallMolecule118	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule117	SmallMolecule118	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule4	SmallMolecule118	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule13	SmallMolecule118	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule13	SmallMolecule119	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule4	SmallMolecule119	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule117	SmallMolecule119	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule15	SmallMolecule119	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule13	SmallMolecule18	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule4	SmallMolecule18	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule117	SmallMolecule18	
+BiochemicalReaction72	Arachidonic acid is hydroxylated to 16/17/18-HETE by CYP(1)	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule15	SmallMolecule118	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule117	SmallMolecule118	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule4	SmallMolecule118	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule13	SmallMolecule118	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule13	SmallMolecule123	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule4	SmallMolecule123	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule117	SmallMolecule123	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule15	SmallMolecule123	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule13	SmallMolecule18	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule4	SmallMolecule18	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule117	SmallMolecule18	
+BiochemicalReaction73	Arachidonic acid is hydroxylated to 19-HETE by CYP(2)	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule15	SmallMolecule118	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule117	SmallMolecule118	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule4	SmallMolecule118	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule13	SmallMolecule118	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule13	SmallMolecule124	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule4	SmallMolecule124	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule117	SmallMolecule124	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule15	SmallMolecule124	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule13	SmallMolecule18	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule4	SmallMolecule18	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule117	SmallMolecule18	
+BiochemicalReaction74	Arachidonic acid is hydroxylated to 20-HETE by CYP(3)	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule7	SmallMolecule22	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule61	SmallMolecule125	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule21	SmallMolecule125	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule7	SmallMolecule125	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule20	SmallMolecule125	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule7	SmallMolecule2	
+BiochemicalReaction75	Arachidonic acid is epoxidated to 5,6-EET by CYP(4)	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule7	SmallMolecule22	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule61	SmallMolecule22	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule61	SmallMolecule126	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule21	SmallMolecule126	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule7	SmallMolecule126	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule20	SmallMolecule126	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule61	SmallMolecule2	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule21	SmallMolecule2	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule7	SmallMolecule2	
+BiochemicalReaction76	Arachidonic acid is epoxidated to 8,9/11,12/14,15-EET by CYP(5)	SmallMolecule20	SmallMolecule2	
+BiochemicalReaction77	EET(1) is hydrolysed to DHET(1) by EPHX2	SmallMolecule130	SmallMolecule131	
+BiochemicalReaction77	EET(1) is hydrolysed to DHET(1) by EPHX2	SmallMolecule2	SmallMolecule131	
+BiochemicalReaction8	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction8	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction8	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction8	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction8	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction8	PGG2 is reduced to PGH2 by PTGS1	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction9	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction9	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction9	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction9	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction9	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction9	PGG2 is reduced to PGH2 by PTGS2	SmallMolecule15	SmallMolecule18	

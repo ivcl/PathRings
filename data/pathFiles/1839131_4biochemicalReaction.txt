@@ -1,0 +1,171 @@
+BiochemicalReaction1	Ligand-independent dimerization of overexpressed FGFR1	PhysicalEntity1	Complex1	
+BiochemicalReaction10	FGFR1 fusion proteins recruit PIK3R1	Protein27	Complex34	
+BiochemicalReaction10	FGFR1 fusion proteins recruit PIK3R1	Complex19	Complex34	
+BiochemicalReaction11	Recruitment of the catalytic subunit of PI3K to activated FGFR1 fusions	Protein28	Complex35	
+BiochemicalReaction11	Recruitment of the catalytic subunit of PI3K to activated FGFR1 fusions	Complex34	Complex35	
+BiochemicalReaction12	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule16	SmallMolecule2	
+BiochemicalReaction12	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule15	
+BiochemicalReaction12	FGFR1 fusion protein-associated PI3K phosphorylates PIP2 to PIP3	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction13	Phosphorylation of BCR moiety of BCR-FGFR1	Complex20	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of BCR moiety of BCR-FGFR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of BCR moiety of BCR-FGFR1	SmallMolecule1	Complex31	
+BiochemicalReaction13	Phosphorylation of BCR moiety of BCR-FGFR1	Complex20	Complex31	
+BiochemicalReaction14	p-BCR-pFGFR1 recruits GRB2:GAB2	Complex31	Complex37	
+BiochemicalReaction14	p-BCR-pFGFR1 recruits GRB2:GAB2	Complex36	Complex37	
+BiochemicalReaction15	GAB2 is phosphorylated by p-BCR-p-FGFR1	Complex37	SmallMolecule2	
+BiochemicalReaction15	GAB2 is phosphorylated by p-BCR-p-FGFR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	GAB2 is phosphorylated by p-BCR-p-FGFR1	SmallMolecule1	Complex38	
+BiochemicalReaction15	GAB2 is phosphorylated by p-BCR-p-FGFR1	Complex37	Complex38	
+BiochemicalReaction16	Recruitment of the p85 regulatory subunit of PI3K to the BCR-FGFR1 complex.	Protein27	Complex40	
+BiochemicalReaction16	Recruitment of the p85 regulatory subunit of PI3K to the BCR-FGFR1 complex.	Complex38	Complex40	
+BiochemicalReaction17	The catalytic subunit of PI3K is recruited to the BCR-FGFR1 fusion.	Complex40	Complex41	
+BiochemicalReaction17	The catalytic subunit of PI3K is recruited to the BCR-FGFR1 fusion.	Protein28	Complex41	
+BiochemicalReaction18	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule16	SmallMolecule2	
+BiochemicalReaction18	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule1	SmallMolecule15	
+BiochemicalReaction18	BCR-FGFR1-associated PI3K phosphorylates PIP2 to PIP3.	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction19	Phosphorylation of STAT5 by FGFR1 fusions	Protein32	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of STAT5 by FGFR1 fusions	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of STAT5 by FGFR1 fusions	SmallMolecule1	Protein35	
+BiochemicalReaction19	Phosphorylation of STAT5 by FGFR1 fusions	Protein32	Protein35	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	Complex1	SmallMolecule2	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	SmallMolecule1	Complex4	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	Complex1	Complex4	
+BiochemicalReaction20	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	Protein38	SmallMolecule2	
+BiochemicalReaction20	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	Protein38	Protein41	
+BiochemicalReaction20	FGFR1OP-FGFR1 phosphorylates STAT1 and STAT3	SmallMolecule1	Protein41	
+BiochemicalReaction21	FGFR1 P252X mutants bind ligand with enhanced affinity	Protein44	Complex43	
+BiochemicalReaction21	FGFR1 P252X mutants bind ligand with enhanced affinity	Protein48	Complex43	
+BiochemicalReaction21	FGFR1 P252X mutants bind ligand with enhanced affinity	SmallMolecule17	Complex43	
+BiochemicalReaction22	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	Complex43	SmallMolecule2	
+BiochemicalReaction22	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	SmallMolecule1	Complex48	
+BiochemicalReaction22	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	Complex43	Complex48	
+BiochemicalReaction23	Dimerization of FGFR1 point mutants with enhanced kinase activity	Protein62	Complex53	
+BiochemicalReaction24	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	Complex53	SmallMolecule2	
+BiochemicalReaction24	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction24	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	SmallMolecule1	Complex57	
+BiochemicalReaction24	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	Complex53	Complex57	
+BiochemicalReaction25	Dimerization of FGFR2 ligand-independent mutants	Protein69	Complex61	
+BiochemicalReaction26	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	SmallMolecule1	Complex70	
+BiochemicalReaction26	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	Complex61	Complex70	
+BiochemicalReaction26	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	Complex61	SmallMolecule2	
+BiochemicalReaction26	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	FGFR2b mutants bind an expanded range of ligands	Protein86	Complex79	
+BiochemicalReaction27	FGFR2b mutants bind an expanded range of ligands	SmallMolecule17	Complex79	
+BiochemicalReaction27	FGFR2b mutants bind an expanded range of ligands	PhysicalEntity5	Complex79	
+BiochemicalReaction28	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	Complex79	Complex83	
+BiochemicalReaction28	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	SmallMolecule1	Complex83	
+BiochemicalReaction28	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	Complex79	SmallMolecule2	
+BiochemicalReaction29	FP-1039 acts as a ligand-trap for FGFR2b-binding ligands in endometrial cancer	PhysicalEntity6	Complex87	
+BiochemicalReaction29	FP-1039 acts as a ligand-trap for FGFR2b-binding ligands in endometrial cancer	PhysicalEntity5	Complex87	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers	Complex1	Complex7	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers	SmallMolecule3	Complex7	
+BiochemicalReaction30	FGFR2c mutants bind an expanded range of ligands	Protein96	Complex88	
+BiochemicalReaction30	FGFR2c mutants bind an expanded range of ligands	PhysicalEntity7	Complex88	
+BiochemicalReaction30	FGFR2c mutants bind an expanded range of ligands	SmallMolecule17	Complex88	
+BiochemicalReaction31	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	Complex88	SmallMolecule2	
+BiochemicalReaction31	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	SmallMolecule1	Complex96	
+BiochemicalReaction31	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	Complex88	Complex96	
+BiochemicalReaction32	Dimerization of FGFR2 point mutants with enhanced kinase activity	Protein112	Complex104	
+BiochemicalReaction33	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	Complex104	SmallMolecule2	
+BiochemicalReaction33	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction33	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	SmallMolecule1	Complex110	
+BiochemicalReaction33	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	Complex104	Complex110	
+BiochemicalReaction34	Point mutants of FGFR2 bind and are inactivated by tyrosine kinase inhibitors	PhysicalEntity8	Complex116	
+BiochemicalReaction34	Point mutants of FGFR2 bind and are inactivated by tyrosine kinase inhibitors	SmallMolecule18	Complex116	
+BiochemicalReaction35	Dimerization of overexpressed FGFR2	Protein123	Complex117	
+BiochemicalReaction36	Autocatalytic phosphorylation of overexpressed FGFR2 variants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction36	Autocatalytic phosphorylation of overexpressed FGFR2 variants	Complex117	SmallMolecule2	
+BiochemicalReaction36	Autocatalytic phosphorylation of overexpressed FGFR2 variants	Complex117	Complex120	
+BiochemicalReaction36	Autocatalytic phosphorylation of overexpressed FGFR2 variants	SmallMolecule1	Complex120	
+BiochemicalReaction37	Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants	SmallMolecule20	Complex123	
+BiochemicalReaction37	Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants	Complex117	Complex123	
+BiochemicalReaction38	GP369 inhibits activation of amplified FGFR2 signaling	Complex117	Complex124	
+BiochemicalReaction38	GP369 inhibits activation of amplified FGFR2 signaling	PhysicalEntity9	Complex124	
+BiochemicalReaction39	Constitutive dimerization of FGFR3 cysteine mutants	Protein128	Complex125	
+BiochemicalReaction4	Dimerization of FGFR1 fusion proteins	Protein3	Complex8	
+BiochemicalReaction40	Autocatalytic phosphorylation of FGFR3 cysteine mutants	Complex125	SmallMolecule2	
+BiochemicalReaction40	Autocatalytic phosphorylation of FGFR3 cysteine mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction40	Autocatalytic phosphorylation of FGFR3 cysteine mutants	SmallMolecule1	Complex131	
+BiochemicalReaction40	Autocatalytic phosphorylation of FGFR3 cysteine mutants	Complex125	Complex131	
+BiochemicalReaction41	Dimerization of FGFR3 point mutants with enhanced kinase activity	Protein139	Complex137	
+BiochemicalReaction42	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	SmallMolecule1	Complex147	
+BiochemicalReaction42	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	Complex137	Complex147	
+BiochemicalReaction42	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	Complex137	SmallMolecule2	
+BiochemicalReaction42	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction43	FGFR3c P250R mutant binds to ligand with enhanced affinity	SmallMolecule17	Complex157	
+BiochemicalReaction43	FGFR3c P250R mutant binds to ligand with enhanced affinity	Protein158	Complex157	
+BiochemicalReaction43	FGFR3c P250R mutant binds to ligand with enhanced affinity	Protein159	Complex157	
+BiochemicalReaction44	Autocatalytic phosphorylation of FGFR3c P250R mutant	Complex157	SmallMolecule2	
+BiochemicalReaction44	Autocatalytic phosphorylation of FGFR3c P250R mutant	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction44	Autocatalytic phosphorylation of FGFR3c P250R mutant	SmallMolecule1	Complex159	
+BiochemicalReaction44	Autocatalytic phosphorylation of FGFR3c P250R mutant	Complex157	Complex159	
+BiochemicalReaction45	Dimerization of FGFR3 t(4;14) translocation mutants	Protein161	Complex161	
+BiochemicalReaction46	Autocatalytic phosphorylation of FGFR3 t(4;14) translocation mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	Autocatalytic phosphorylation of FGFR3 t(4;14) translocation mutants	Complex161	SmallMolecule2	
+BiochemicalReaction46	Autocatalytic phosphorylation of FGFR3 t(4;14) translocation mutants	Complex161	Complex164	
+BiochemicalReaction46	Autocatalytic phosphorylation of FGFR3 t(4;14) translocation mutants	SmallMolecule1	Complex164	
+BiochemicalReaction47	FGFR3 mutants bind and are inactivated by tyrosine kinase inhibitors	SmallMolecule21	Complex167	
+BiochemicalReaction47	FGFR3 mutants bind and are inactivated by tyrosine kinase inhibitors	PhysicalEntity10	Complex167	
+BiochemicalReaction48	Constitutive dimerization of FGFR4 Y367C mutant	Protein166	Complex168	
+BiochemicalReaction49	Autocatalytic phosphorylation of FGFR4 Y367C mutant	Complex168	SmallMolecule2	
+BiochemicalReaction49	Autocatalytic phosphorylation of FGFR4 Y367C mutant	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction49	Autocatalytic phosphorylation of FGFR4 Y367C mutant	SmallMolecule1	Complex169	
+BiochemicalReaction49	Autocatalytic phosphorylation of FGFR4 Y367C mutant	Complex168	Complex169	
+BiochemicalReaction5	Phosphorylation of FGFR1 fusion dimers	Complex8	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of FGFR1 fusion dimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of FGFR1 fusion dimers	SmallMolecule1	Complex19	
+BiochemicalReaction5	Phosphorylation of FGFR1 fusion dimers	Complex8	Complex19	
+BiochemicalReaction50	Dimerization of FGFR4 mutants with enhanced kinase activity	Protein168	Complex170	
+BiochemicalReaction51	Autocatalytic phosphorylation of FGFR4 mutants with enhanced kinase activity	Complex170	SmallMolecule2	
+BiochemicalReaction51	Autocatalytic phosphorylation of FGFR4 mutants with enhanced kinase activity	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction51	Autocatalytic phosphorylation of FGFR4 mutants with enhanced kinase activity	SmallMolecule1	Complex175	
+BiochemicalReaction51	Autocatalytic phosphorylation of FGFR4 mutants with enhanced kinase activity	Complex170	Complex175	
+BiochemicalReaction52	FGFR4 kinase mutants are inhibited by PD170734	Complex170	Complex180	
+BiochemicalReaction52	FGFR4 kinase mutants are inhibited by PD170734	SmallMolecule7	Complex180	
+BiochemicalReaction53	Activated FGFR mutants bind FRS2alpha	PhysicalEntity11	Complex181	
+BiochemicalReaction53	Activated FGFR mutants bind FRS2alpha	Protein177	Complex181	
+BiochemicalReaction54	FGFR mutants phosphorylate FRS2alpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction54	FGFR mutants phosphorylate FRS2alpha	Complex181	SmallMolecule2	
+BiochemicalReaction54	FGFR mutants phosphorylate FRS2alpha	Complex181	Complex182	
+BiochemicalReaction54	FGFR mutants phosphorylate FRS2alpha	SmallMolecule1	Complex182	
+BiochemicalReaction55	GRB2-SOS1 is recruited by activated FGFR mutants	Complex182	Complex184	
+BiochemicalReaction55	GRB2-SOS1 is recruited by activated FGFR mutants	Complex183	Complex184	
+BiochemicalReaction56	Ras nucleotide exchange mediated by GRB2-SOS1 bound to FGFR mutants	SmallMolecule23	Complex186	
+BiochemicalReaction56	Ras nucleotide exchange mediated by GRB2-SOS1 bound to FGFR mutants	Complex185	Complex186	
+BiochemicalReaction56	Ras nucleotide exchange mediated by GRB2-SOS1 bound to FGFR mutants	Complex185	SmallMolecule24	
+BiochemicalReaction56	Ras nucleotide exchange mediated by GRB2-SOS1 bound to FGFR mutants	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction57	GRB2:GAB1:PI3Kreg binds to p-FRS2:activated FGFR mutants	Complex187	Complex188	
+BiochemicalReaction57	GRB2:GAB1:PI3Kreg binds to p-FRS2:activated FGFR mutants	Complex182	Complex188	
+BiochemicalReaction58	Recruitment of the catalytic subunit of PI3K by activated FGFR1 mutants	Protein28	Complex189	
+BiochemicalReaction58	Recruitment of the catalytic subunit of PI3K by activated FGFR1 mutants	Complex188	Complex189	
+BiochemicalReaction59	Conversion of PIP2 to PIP3 by PI3K associated with FGFR mutants	SmallMolecule16	SmallMolecule2	
+BiochemicalReaction59	Conversion of PIP2 to PIP3 by PI3K associated with FGFR mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction59	Conversion of PIP2 to PIP3 by PI3K associated with FGFR mutants	SmallMolecule1	SmallMolecule15	
+BiochemicalReaction59	Conversion of PIP2 to PIP3 by PI3K associated with FGFR mutants	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction6	Tyrosine kinase inhibitors bind and inhibit FGFR1 fusion dimer phosphorylation	SmallMolecule13	Complex30	
+BiochemicalReaction6	Tyrosine kinase inhibitors bind and inhibit FGFR1 fusion dimer phosphorylation	Complex8	Complex30	
+BiochemicalReaction60	Activated FGFR mutants bind PLC-gamma	PhysicalEntity11	Complex190	
+BiochemicalReaction60	Activated FGFR mutants bind PLC-gamma	Protein25	Complex190	
+BiochemicalReaction60	Activated FGFR mutants bind PLC-gamma	SmallMolecule15	Complex190	
+BiochemicalReaction61	PLC-gamma phosphorylation by FGFR mutants	Complex190	SmallMolecule2	
+BiochemicalReaction61	PLC-gamma phosphorylation by FGFR mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction61	PLC-gamma phosphorylation by FGFR mutants	SmallMolecule1	Complex191	
+BiochemicalReaction61	PLC-gamma phosphorylation by FGFR mutants	Complex190	Complex191	
+BiochemicalReaction62	Activated PLC-gamma release by activated FGFR mutants	Complex191	Protein26	
+BiochemicalReaction62	Activated PLC-gamma release by activated FGFR mutants	Complex191	PhysicalEntity11	
+BiochemicalReaction7	FGFR1 fusions bind PLCgamma	PhysicalEntity4	Complex32	
+BiochemicalReaction7	FGFR1 fusions bind PLCgamma	Protein25	Complex32	
+BiochemicalReaction7	FGFR1 fusions bind PLCgamma	SmallMolecule15	Complex32	
+BiochemicalReaction8	PLCgamma is phosphorylated by FGFR1-fusions	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	PLCgamma is phosphorylated by FGFR1-fusions	Complex32	SmallMolecule2	
+BiochemicalReaction8	PLCgamma is phosphorylated by FGFR1-fusions	Complex32	Complex33	
+BiochemicalReaction8	PLCgamma is phosphorylated by FGFR1-fusions	SmallMolecule1	Complex33	
+BiochemicalReaction9	p-PLCgamma dissociates from FGFR1 fusions	Complex33	PhysicalEntity4	
+BiochemicalReaction9	p-PLCgamma dissociates from FGFR1 fusions	Complex33	Protein26	

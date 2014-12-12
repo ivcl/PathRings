@@ -1,0 +1,8 @@
+BiochemicalReaction1	Calcium Binds Troponin-C	SmallMolecule1	Complex7	
+BiochemicalReaction1	Calcium Binds Troponin-C	Complex1	Complex7	
+BiochemicalReaction2	Myosin Binds ATP	Complex7	Complex11	
+BiochemicalReaction2	Myosin Binds ATP	SmallMolecule2	Complex11	
+BiochemicalReaction3	ATP Hydrolysis By Myosin	Complex11	SmallMolecule3	
+BiochemicalReaction3	ATP Hydrolysis By Myosin	Complex11	Complex13	
+BiochemicalReaction4	Release Of ADP From Myosin	Complex13	SmallMolecule4	
+BiochemicalReaction4	Release Of ADP From Myosin	Complex13	Complex7	

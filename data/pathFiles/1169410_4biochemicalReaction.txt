@@ -1,0 +1,120 @@
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	Protein1	SmallMolecule2	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	Protein2	SmallMolecule2	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	Protein2	SmallMolecule3	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	Protein1	SmallMolecule3	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	Protein2	Complex1	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	Protein1	Complex1	
+BiochemicalReaction1	Activation of ISG15 by UBE1L E1 ligase	SmallMolecule1	Complex1	
+BiochemicalReaction10	Translocation of Influenza A virus nonstructural protein 1 (NS1A) into the nucleus	Complex10	Complex11	
+BiochemicalReaction10	Translocation of Influenza A virus nonstructural protein 1 (NS1A) into the nucleus	PhysicalEntity2	Complex11	
+BiochemicalReaction11	ISGylation of IRF3	SmallMolecule1	Protein4	
+BiochemicalReaction11	ISGylation of IRF3	Complex3	Protein4	
+BiochemicalReaction11	ISGylation of IRF3	Protein73	Protein4	
+BiochemicalReaction11	ISGylation of IRF3	Protein73	Protein3	
+BiochemicalReaction11	ISGylation of IRF3	Complex3	Protein3	
+BiochemicalReaction11	ISGylation of IRF3	SmallMolecule1	Protein3	
+BiochemicalReaction11	ISGylation of IRF3	Protein73	SmallMolecule2	
+BiochemicalReaction11	ISGylation of IRF3	Complex3	SmallMolecule2	
+BiochemicalReaction11	ISGylation of IRF3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	ISGylation of IRF3	Protein73	SmallMolecule3	
+BiochemicalReaction11	ISGylation of IRF3	Complex3	SmallMolecule3	
+BiochemicalReaction11	ISGylation of IRF3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction11	ISGylation of IRF3	Protein73	Complex16	
+BiochemicalReaction11	ISGylation of IRF3	Complex3	Complex16	
+BiochemicalReaction11	ISGylation of IRF3	SmallMolecule1	Complex16	
+BiochemicalReaction12	ISGylation of protein translation regulator 4EHP	Protein74	Complex17	
+BiochemicalReaction12	ISGylation of protein translation regulator 4EHP	Complex3	Complex17	
+BiochemicalReaction13	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex18	Complex19	
+BiochemicalReaction13	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex17	Complex19	
+BiochemicalReaction13	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex17	Complex20	
+BiochemicalReaction13	Competitive inhibition of translation initiation by ISGylated 4EHP	Complex18	Complex20	
+BiochemicalReaction14	PIN1 mediated IRF3 degradation	Complex21	Protein86	
+BiochemicalReaction15	Monoubiquitination of N-myristoyl GAG (P12493) protein	Protein88	Complex23	
+BiochemicalReaction15	Monoubiquitination of N-myristoyl GAG (P12493) protein	Protein103	Complex23	
+BiochemicalReaction16	Regulation of protein ISGylation by ISG15 deconjugating enzyme USP18	Complex4	PhysicalEntity1	
+BiochemicalReaction16	Regulation of protein ISGylation by ISG15 deconjugating enzyme USP18	Complex4	PhysicalEntity4	
+BiochemicalReaction2	Transfer of ISG15 from E1 to E2 (UBCH8)	Protein3	Complex2	
+BiochemicalReaction2	Transfer of ISG15 from E1 to E2 (UBCH8)	Complex1	Complex2	
+BiochemicalReaction2	Transfer of ISG15 from E1 to E2 (UBCH8)	Complex1	Protein2	
+BiochemicalReaction2	Transfer of ISG15 from E1 to E2 (UBCH8)	Protein3	Protein2	
+BiochemicalReaction3	Interaction of E3 ligase with ISG15:E2 complex	Protein4	Complex3	
+BiochemicalReaction3	Interaction of E3 ligase with ISG15:E2 complex	Complex2	Complex3	
+BiochemicalReaction4	ISGylation of host proteins	PhysicalEntity1	Protein4	
+BiochemicalReaction4	ISGylation of host proteins	SmallMolecule1	Protein4	
+BiochemicalReaction4	ISGylation of host proteins	Complex3	Protein4	
+BiochemicalReaction4	ISGylation of host proteins	Complex3	Protein3	
+BiochemicalReaction4	ISGylation of host proteins	SmallMolecule1	Protein3	
+BiochemicalReaction4	ISGylation of host proteins	PhysicalEntity1	Protein3	
+BiochemicalReaction4	ISGylation of host proteins	Complex3	SmallMolecule2	
+BiochemicalReaction4	ISGylation of host proteins	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	ISGylation of host proteins	PhysicalEntity1	SmallMolecule2	
+BiochemicalReaction4	ISGylation of host proteins	Complex3	SmallMolecule3	
+BiochemicalReaction4	ISGylation of host proteins	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	ISGylation of host proteins	PhysicalEntity1	SmallMolecule3	
+BiochemicalReaction4	ISGylation of host proteins	Complex3	Complex4	
+BiochemicalReaction4	ISGylation of host proteins	SmallMolecule1	Complex4	
+BiochemicalReaction4	ISGylation of host proteins	PhysicalEntity1	Complex4	
+BiochemicalReaction5	ISGylation of host protein filamin B	Protein19	Complex5	
+BiochemicalReaction5	ISGylation of host protein filamin B	SmallMolecule1	Complex5	
+BiochemicalReaction5	ISGylation of host protein filamin B	Complex3	Complex5	
+BiochemicalReaction5	ISGylation of host protein filamin B	Complex3	Protein4	
+BiochemicalReaction5	ISGylation of host protein filamin B	SmallMolecule1	Protein4	
+BiochemicalReaction5	ISGylation of host protein filamin B	Protein19	Protein4	
+BiochemicalReaction5	ISGylation of host protein filamin B	Complex3	Protein3	
+BiochemicalReaction5	ISGylation of host protein filamin B	SmallMolecule1	Protein3	
+BiochemicalReaction5	ISGylation of host protein filamin B	Protein19	Protein3	
+BiochemicalReaction5	ISGylation of host protein filamin B	Complex3	SmallMolecule2	
+BiochemicalReaction5	ISGylation of host protein filamin B	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	ISGylation of host protein filamin B	Protein19	SmallMolecule2	
+BiochemicalReaction5	ISGylation of host protein filamin B	Complex3	SmallMolecule3	
+BiochemicalReaction5	ISGylation of host protein filamin B	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction5	ISGylation of host protein filamin B	Protein19	SmallMolecule3	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein20	Complex6	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	Complex6	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex3	Complex6	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex3	Protein4	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	Protein4	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein20	Protein4	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex3	Protein3	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	Protein3	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein20	Protein3	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex3	SmallMolecule2	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein20	SmallMolecule2	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Complex3	SmallMolecule3	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	ISGylation of protein phosphatase 1 beta (PP2CB)	Protein20	SmallMolecule3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	SmallMolecule1	Protein4	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Complex3	Protein4	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Protein21	Protein4	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Protein21	Protein3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Complex3	Protein3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	SmallMolecule1	Protein3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Protein21	SmallMolecule2	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Complex3	SmallMolecule2	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Protein21	SmallMolecule3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Complex3	SmallMolecule3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Protein21	Complex7	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	Complex3	Complex7	
+BiochemicalReaction7	ISGylation of E2 conjugating enzymes	SmallMolecule1	Complex7	
+BiochemicalReaction8	Interaction of ISG15 with NEDD4 and inhibition of Ebola virus budding	Protein1	Complex8	
+BiochemicalReaction8	Interaction of ISG15 with NEDD4 and inhibition of Ebola virus budding	Protein23	Complex8	
+BiochemicalReaction9	ISGylation of viral protein NS1	Protein24	Protein4	
+BiochemicalReaction9	ISGylation of viral protein NS1	SmallMolecule1	Protein4	
+BiochemicalReaction9	ISGylation of viral protein NS1	Complex3	Protein4	
+BiochemicalReaction9	ISGylation of viral protein NS1	Complex3	Protein3	
+BiochemicalReaction9	ISGylation of viral protein NS1	SmallMolecule1	Protein3	
+BiochemicalReaction9	ISGylation of viral protein NS1	Protein24	Protein3	
+BiochemicalReaction9	ISGylation of viral protein NS1	Complex3	SmallMolecule2	
+BiochemicalReaction9	ISGylation of viral protein NS1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	ISGylation of viral protein NS1	Protein24	SmallMolecule2	
+BiochemicalReaction9	ISGylation of viral protein NS1	Complex3	SmallMolecule3	
+BiochemicalReaction9	ISGylation of viral protein NS1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction9	ISGylation of viral protein NS1	Protein24	SmallMolecule3	
+BiochemicalReaction9	ISGylation of viral protein NS1	Complex3	Complex9	
+BiochemicalReaction9	ISGylation of viral protein NS1	SmallMolecule1	Complex9	
+BiochemicalReaction9	ISGylation of viral protein NS1	Protein24	Complex9	

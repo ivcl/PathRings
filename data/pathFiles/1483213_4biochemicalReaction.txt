@@ -1,0 +1,24 @@
+BiochemicalReaction1	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	ETA is phosphorylated to PETA by CHK/ETNK	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction2	PETA is dephosphorylated to ETA by PHOSPHO1	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction3	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction3	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule4	SmallMolecule10	
+BiochemicalReaction3	PETA and CTP are condensed to CDP-ETA by PCY2	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction4	PA is dephosphorylated to DAG by LPIN	SmallMolecule11	SmallMolecule6	
+BiochemicalReaction4	PA is dephosphorylated to DAG by LPIN	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	PA is dephosphorylated to DAG by LPIN	SmallMolecule5	SmallMolecule12	
+BiochemicalReaction4	PA is dephosphorylated to DAG by LPIN	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction5	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction5	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction5	CDP-ETA and DAG are converted to PE by CEPT1/EPT1	SmallMolecule9	SmallMolecule15	
+BiochemicalReaction6	PS transports from the ER membrane to the IM membrane	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction7	PS is decarboxylated to PE by PISD	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction7	PS is decarboxylated to PE by PISD	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction8	PE transports from the mitochondrial membrane to the ER	SmallMolecule21	SmallMolecule14	

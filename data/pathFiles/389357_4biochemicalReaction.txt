@@ -1,0 +1,30 @@
+BiochemicalReaction1	PI3K binds CD28	Complex1	Complex5	
+BiochemicalReaction1	PI3K binds CD28	Complex2	Complex5	
+BiochemicalReaction2	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	PIP3 recruits PDPK1 to the membrane	Protein12	Complex6	
+BiochemicalReaction3	PIP3 recruits PDPK1 to the membrane	SmallMolecule4	Complex6	
+BiochemicalReaction4	PIP3 recruits AKT to the membrane	Protein14	Complex7	
+BiochemicalReaction4	PIP3 recruits AKT to the membrane	SmallMolecule4	Complex7	
+BiochemicalReaction5	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	TORC2 (mTOR) phosphorylates AKT at S473	Complex7	SmallMolecule3	
+BiochemicalReaction5	TORC2 (mTOR) phosphorylates AKT at S473	Complex7	Complex8	
+BiochemicalReaction5	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule2	Complex8	
+BiochemicalReaction6	AKT binds PDPK1	Complex6	Complex11	
+BiochemicalReaction6	AKT binds PDPK1	Complex8	Complex11	
+BiochemicalReaction7	PDPK1 phosphorylates AKT at T308	Complex11	Complex6	
+BiochemicalReaction7	PDPK1 phosphorylates AKT at T308	SmallMolecule2	Complex6	
+BiochemicalReaction7	PDPK1 phosphorylates AKT at T308	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction7	PDPK1 phosphorylates AKT at T308	Complex11	SmallMolecule3	
+BiochemicalReaction7	PDPK1 phosphorylates AKT at T308	SmallMolecule2	Protein33	
+BiochemicalReaction7	PDPK1 phosphorylates AKT at T308	Complex11	Protein33	
+BiochemicalReaction8	AKT interacts and phosphorylates Cot	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	AKT interacts and phosphorylates Cot	Protein37	SmallMolecule3	
+BiochemicalReaction8	AKT interacts and phosphorylates Cot	Protein37	Protein38	
+BiochemicalReaction8	AKT interacts and phosphorylates Cot	SmallMolecule2	Protein38	
+BiochemicalReaction9	p-S400-Cot phosphorylates NIK	Protein39	SmallMolecule3	
+BiochemicalReaction9	p-S400-Cot phosphorylates NIK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction9	p-S400-Cot phosphorylates NIK	SmallMolecule2	Protein40	
+BiochemicalReaction9	p-S400-Cot phosphorylates NIK	Protein39	Protein40	

@@ -1,0 +1,9 @@
+Complex1	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein1	
+Complex1	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein2	
+Complex2	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Protein3	
+Complex2	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Complex1	
+Complex2	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	SmallMolecule1	
+Complex3	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex1	
+Complex3	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex4	
+Complex4	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein4	
+Complex4	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein5	

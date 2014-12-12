@@ -1,0 +1,5 @@
+BiochemicalReaction1	Binding of REV1 to lesioned DNA template	Protein1	Complex1	
+BiochemicalReaction1	Binding of REV1 to lesioned DNA template	PhysicalEntity1	Complex1	
+BiochemicalReaction2	Misinsertion of  bases opposite to the lesion by HREV1	Complex1	Complex2	
+BiochemicalReaction3	Elongation by REV1 protein	Complex2	Protein1	
+BiochemicalReaction3	Elongation by REV1 protein	Complex2	PhysicalEntity3	

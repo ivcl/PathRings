@@ -1,0 +1,27 @@
+Complex1	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein1	
+Complex1	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein2	
+Complex10	SMAC:XIAP:Caspase-7	cytosol	Reactome DB_ID: 114353	Complex9	
+Complex10	SMAC:XIAP:Caspase-7	cytosol	Reactome DB_ID: 114353	Protein13	
+Complex11	XIAP:Caspase-9	cytosol	Reactome DB_ID: 114317	Protein12	
+Complex11	XIAP:Caspase-9	cytosol	Reactome DB_ID: 114317	Complex4	
+Complex12	SMAC:XIAP:Caspase-9	cytosol	Reactome DB_ID: 114318	Protein13	
+Complex12	SMAC:XIAP:Caspase-9	cytosol	Reactome DB_ID: 114318	Complex11	
+Complex13	SMAC:XIAP	cytosol	Reactome DB_ID: 114391	Protein12	
+Complex13	SMAC:XIAP	cytosol	Reactome DB_ID: 114391	Protein13	
+Complex2	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Protein3	
+Complex2	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Complex1	
+Complex2	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	SmallMolecule1	
+Complex3	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex1	
+Complex3	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex4	
+Complex4	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein4	
+Complex4	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein5	
+Complex5	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein7	
+Complex5	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein8	
+Complex6	active caspase-7	cytosol	Reactome DB_ID: 141643	Protein10	
+Complex6	active caspase-7	cytosol	Reactome DB_ID: 141643	Protein11	
+Complex7	XIAP:Caspase-3	cytosol	Reactome DB_ID: 114304	Protein12	
+Complex7	XIAP:Caspase-3	cytosol	Reactome DB_ID: 114304	Complex5	
+Complex8	SMAC:XIAP:Caspase-3	cytosol	Reactome DB_ID: 114305	Complex7	
+Complex8	SMAC:XIAP:Caspase-3	cytosol	Reactome DB_ID: 114305	Protein13	
+Complex9	XIAP:Caspase-7	cytosol	Reactome DB_ID: 114308	Protein12	
+Complex9	XIAP:Caspase-7	cytosol	Reactome DB_ID: 114308	Complex6	

@@ -1,0 +1,17 @@
+BiochemicalReaction1	Constitutive dimerization of FGFR3 cysteine mutants	Protein1	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3 cysteine mutants	Complex1	SmallMolecule2	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3 cysteine mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3 cysteine mutants	SmallMolecule1	Complex7	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR3 cysteine mutants	Complex1	Complex7	
+BiochemicalReaction3	Dimerization of FGFR3 point mutants with enhanced kinase activity	Protein12	Complex13	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	SmallMolecule1	Complex23	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	Complex13	Complex23	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	Complex13	SmallMolecule2	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR3 point mutants with enhanced kinase activity	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	FGFR3c P250R mutant binds to ligand with enhanced affinity	SmallMolecule3	Complex33	
+BiochemicalReaction5	FGFR3c P250R mutant binds to ligand with enhanced affinity	Protein31	Complex33	
+BiochemicalReaction5	FGFR3c P250R mutant binds to ligand with enhanced affinity	Protein32	Complex33	
+BiochemicalReaction6	Autocatalytic phosphorylation of FGFR3c P250R mutant	Complex33	SmallMolecule2	
+BiochemicalReaction6	Autocatalytic phosphorylation of FGFR3c P250R mutant	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Autocatalytic phosphorylation of FGFR3c P250R mutant	SmallMolecule1	Complex35	
+BiochemicalReaction6	Autocatalytic phosphorylation of FGFR3c P250R mutant	Complex33	Complex35	

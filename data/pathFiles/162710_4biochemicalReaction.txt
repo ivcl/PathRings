@@ -1,0 +1,36 @@
+BiochemicalReaction1	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI -> mannose (a1) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	SmallMolecule17	PhysicalEntity2	
+BiochemicalReaction10	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI -> mannose (a1) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	SmallMolecule11	PhysicalEntity2	
+BiochemicalReaction11	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI -> (ethanolamineP) mannose (a1-2) (ethanolamineP) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction2	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	Reorientation of glucosaminyl-acyl-PI in the endoplasmic reticulum membrane	SmallMolecule8	SmallMolecule8	
+BiochemicalReaction4	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction4	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction5	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction5	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction5	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule8	SmallMolecule13	
+BiochemicalReaction6	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule14	PhysicalEntity1	
+BiochemicalReaction6	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule13	PhysicalEntity1	
+BiochemicalReaction6	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction6	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction7	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	PhysicalEntity1	SmallMolecule12	
+BiochemicalReaction7	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction7	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule11	SmallMolecule16	
+BiochemicalReaction7	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	PhysicalEntity1	SmallMolecule16	
+BiochemicalReaction8	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction8	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule16	SmallMolecule12	
+BiochemicalReaction8	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction8	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule11	SmallMolecule17	
+BiochemicalReaction9	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction9	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction9	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule17	SmallMolecule15	
+BiochemicalReaction9	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule14	SmallMolecule15	

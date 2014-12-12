@@ -1,0 +1,11 @@
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	Protein1	SmallMolecule2	
+BiochemicalReaction2	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	Protein2	Complex1	
+BiochemicalReaction2	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	SmallMolecule3	Complex1	
+BiochemicalReaction2	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	SmallMolecule4	Complex1	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule5	SmallMolecule8	

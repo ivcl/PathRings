@@ -1,0 +1,37 @@
+BiochemicalReaction1	Dimerization of FGFR2 ligand-independent mutants	Protein1	Complex1	
+BiochemicalReaction10	Point mutants of FGFR2 bind and are inactivated by tyrosine kinase inhibitors	PhysicalEntity4	Complex56	
+BiochemicalReaction10	Point mutants of FGFR2 bind and are inactivated by tyrosine kinase inhibitors	SmallMolecule4	Complex56	
+BiochemicalReaction11	Dimerization of overexpressed FGFR2	Protein65	Complex57	
+BiochemicalReaction12	Autocatalytic phosphorylation of overexpressed FGFR2 variants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Autocatalytic phosphorylation of overexpressed FGFR2 variants	Complex57	SmallMolecule2	
+BiochemicalReaction12	Autocatalytic phosphorylation of overexpressed FGFR2 variants	Complex57	Complex60	
+BiochemicalReaction12	Autocatalytic phosphorylation of overexpressed FGFR2 variants	SmallMolecule1	Complex60	
+BiochemicalReaction13	Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants	SmallMolecule11	Complex63	
+BiochemicalReaction13	Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants	Complex57	Complex63	
+BiochemicalReaction14	GP369 inhibits activation of amplified FGFR2 signaling	Complex57	Complex64	
+BiochemicalReaction14	GP369 inhibits activation of amplified FGFR2 signaling	PhysicalEntity5	Complex64	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	SmallMolecule1	Complex10	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	Complex1	Complex10	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	Complex1	SmallMolecule2	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR2 ligand-independent  mutants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	FGFR2b mutants bind an expanded range of ligands	Protein18	Complex19	
+BiochemicalReaction3	FGFR2b mutants bind an expanded range of ligands	SmallMolecule3	Complex19	
+BiochemicalReaction3	FGFR2b mutants bind an expanded range of ligands	PhysicalEntity1	Complex19	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	Complex19	Complex23	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	SmallMolecule1	Complex23	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR2b mutants with enhanced ligand binding	Complex19	SmallMolecule2	
+BiochemicalReaction5	FP-1039 acts as a ligand-trap for FGFR2b-binding ligands in endometrial cancer	PhysicalEntity2	Complex27	
+BiochemicalReaction5	FP-1039 acts as a ligand-trap for FGFR2b-binding ligands in endometrial cancer	PhysicalEntity1	Complex27	
+BiochemicalReaction6	FGFR2c mutants bind an expanded range of ligands	Protein32	Complex28	
+BiochemicalReaction6	FGFR2c mutants bind an expanded range of ligands	PhysicalEntity3	Complex28	
+BiochemicalReaction6	FGFR2c mutants bind an expanded range of ligands	SmallMolecule3	Complex28	
+BiochemicalReaction7	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	Complex28	SmallMolecule2	
+BiochemicalReaction7	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	SmallMolecule1	Complex36	
+BiochemicalReaction7	Autocatalytic phosphorylation of FGFR2c mutants with enhanced ligand binding	Complex28	Complex36	
+BiochemicalReaction8	Dimerization of FGFR2 point mutants with enhanced kinase activity	Protein54	Complex44	
+BiochemicalReaction9	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	Complex44	SmallMolecule2	
+BiochemicalReaction9	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	SmallMolecule1	Complex50	
+BiochemicalReaction9	Autocatalytic phosphorylation of FGFR2 point mutants with enhanced kinase activity	Complex44	Complex50	

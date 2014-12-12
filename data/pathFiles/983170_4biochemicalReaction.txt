@@ -1,0 +1,65 @@
+BiochemicalReaction1	Binding of newly synthesized MHC class I heavy chain (HC) with calnexin	Complex1	Complex2	
+BiochemicalReaction1	Binding of newly synthesized MHC class I heavy chain (HC) with calnexin	Protein74	Complex2	
+BiochemicalReaction10	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Protein93	Complex14	
+BiochemicalReaction10	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Complex13	Complex14	
+BiochemicalReaction10	Recruitment of Sec31p:Sec13p to prebudding complex and formation of COPII vesicle	Protein94	Complex14	
+BiochemicalReaction11	Budding of COPII coated vesicle	Complex14	Complex16	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	Protein93	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	Protein93	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	Protein93	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	SmallMolecule27	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	SmallMolecule27	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	SmallMolecule27	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	Protein94	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	Protein94	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	Protein94	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	Protein180	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	Protein180	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	Protein180	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	Complex19	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	Complex19	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	Complex19	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	Protein185	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	Protein185	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	Protein185	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule30	Complex22	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	SmallMolecule3	Complex22	
+BiochemicalReaction12	Disassembly of COPII coated vesicle	Complex16	Complex22	
+BiochemicalReaction13	Journey of cargo through Golgi complex	Complex19	Complex24	
+BiochemicalReaction14	Expression of peptide bound class I MHC on cell surface	Complex24	Complex26	
+BiochemicalReaction2	Interaction of Erp57 with MHC class I HC	Complex2	Complex3	
+BiochemicalReaction2	Interaction of Erp57 with MHC class I HC	Protein77	Complex3	
+BiochemicalReaction3	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Protein78	Complex4	
+BiochemicalReaction3	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Complex3	Complex4	
+BiochemicalReaction3	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Complex3	Protein74	
+BiochemicalReaction3	Interaction of beta-2-microglobulin (B2M) chain with  class I HC	Protein78	Protein74	
+BiochemicalReaction4	Formation of peptide loading complex (PLC)	Protein79	Complex6	
+BiochemicalReaction4	Formation of peptide loading complex (PLC)	Complex5	Complex6	
+BiochemicalReaction4	Formation of peptide loading complex (PLC)	Protein82	Complex6	
+BiochemicalReaction4	Formation of peptide loading complex (PLC)	Complex4	Complex6	
+BiochemicalReaction4	Formation of peptide loading complex (PLC)	PhysicalEntity1	Complex6	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	PhysicalEntity2	SmallMolecule4	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	SmallMolecule3	PhysicalEntity3	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	SmallMolecule2	PhysicalEntity3	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction5	Transport of Antigen peptide in to ER	PhysicalEntity2	SmallMolecule5	
+BiochemicalReaction6	Trimming of peptides in ER	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction6	Trimming of peptides in ER	PhysicalEntity3	SmallMolecule6	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	PhysicalEntity4	Protein79	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	Complex6	Protein79	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	Complex6	Complex5	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	PhysicalEntity4	Complex5	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	Complex6	Protein82	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	PhysicalEntity4	Protein82	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	Complex6	Protein77	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	PhysicalEntity4	Protein77	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	Complex6	Complex7	
+BiochemicalReaction7	Loading of antigenic peptides on to class I MHC	PhysicalEntity4	Complex7	
+BiochemicalReaction8	Transport of MHC heterotrimer to ER exit site	Complex7	PhysicalEntity1	
+BiochemicalReaction8	Transport of MHC heterotrimer to ER exit site	Complex7	Complex9	
+BiochemicalReaction9	Capturing cargo and formation of prebudding complex	Complex10	Complex13	
+BiochemicalReaction9	Capturing cargo and formation of prebudding complex	Complex9	Complex13	

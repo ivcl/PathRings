@@ -1,0 +1,12 @@
+Complex1	Ca(4)CaM	cytosol	Reactome DB_ID: 74294	SmallMolecule3	
+Complex1	Ca(4)CaM	cytosol	Reactome DB_ID: 74294	Protein3	
+Complex2	Calmodulin:CaMK IV	cytosol	Reactome DB_ID: 111900	Protein4	
+Complex2	Calmodulin:CaMK IV	cytosol	Reactome DB_ID: 111900	Complex1	
+Complex3	Calmodulin:CaMK IV	nucleoplasm	Reactome DB_ID: 112281	Complex4	
+Complex3	Calmodulin:CaMK IV	nucleoplasm	Reactome DB_ID: 112281	Protein6	
+Complex4	Ca(4)CaM	nucleoplasm	Reactome DB_ID: 629658	SmallMolecule4	
+Complex4	Ca(4)CaM	nucleoplasm	Reactome DB_ID: 629658	Protein5	
+Complex5	phospho-CaMK IV:Calmodulin	nucleoplasm	Reactome DB_ID: 111904	Protein7	
+Complex5	phospho-CaMK IV:Calmodulin	nucleoplasm	Reactome DB_ID: 111904	Complex6	
+Complex6	active Calmodulin	nucleoplasm	Reactome DB_ID: 194846	SmallMolecule4	
+Complex6	active Calmodulin	nucleoplasm	Reactome DB_ID: 194846	Protein5	

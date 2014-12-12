@@ -1,0 +1,22 @@
+BiochemicalReaction1	Egress of internalized antigen to the cytosol via sec61	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	Proteasomal cleavage of substrate	PhysicalEntity3	Protein6	
+BiochemicalReaction2	Proteasomal cleavage of substrate	PhysicalEntity3	SmallMolecule1	
+BiochemicalReaction2	Proteasomal cleavage of substrate	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity4	SmallMolecule24	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity4	SmallMolecule25	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule23	PhysicalEntity5	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	SmallMolecule22	PhysicalEntity5	
+BiochemicalReaction3	Translocation of antigenic peptides back to phagosomes via TAP	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	Complex4	Protein67	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	PhysicalEntity5	Protein67	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	PhysicalEntity5	Protein143	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	Complex4	Protein143	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	PhysicalEntity5	Protein142	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	Complex4	Protein142	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	PhysicalEntity5	Complex6	
+BiochemicalReaction4	Peptide loading on MHC class I in phagosome	Complex4	Complex6	
+BiochemicalReaction5	Export of peptide loaded MHC class I complex to PM	Complex6	Complex8	

@@ -1,0 +1,20 @@
+BiochemicalReaction1	DLL1 binds NOTCH2	Protein1	Complex4	
+BiochemicalReaction1	DLL1 binds NOTCH2	Complex1	Complex4	
+BiochemicalReaction10	Gamma-secretase cleaves CNTN1:NOTCH2 to release NICD2	Complex14	Protein33	
+BiochemicalReaction11	NOTCH2 binds MDK	Complex2	Complex16	
+BiochemicalReaction11	NOTCH2 binds MDK	Complex15	Complex16	
+BiochemicalReaction2	JAG1 binds NOTCH2	Protein5	Complex5	
+BiochemicalReaction2	JAG1 binds NOTCH2	Complex1	Complex5	
+BiochemicalReaction3	JAG2 binds NOTCH2	Complex2	Complex6	
+BiochemicalReaction3	JAG2 binds NOTCH2	Protein6	Complex6	
+BiochemicalReaction4	DLL4 binds NOTCH2	Complex2	Complex7	
+BiochemicalReaction4	DLL4 binds NOTCH2	Protein7	Complex7	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH2	Protein8	Complex9	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH2	Complex8	Complex9	
+BiochemicalReaction6	NOTCH2-ligand complex is cleaved to produce NEXT2	Complex9	Protein28	
+BiochemicalReaction6	NOTCH2-ligand complex is cleaved to produce NEXT2	Complex9	Complex10	
+BiochemicalReaction7	NEXT2 is cleaved to produce NICD2	Protein28	Protein32	
+BiochemicalReaction7	NEXT2 is cleaved to produce NICD2	Protein28	Protein33	
+BiochemicalReaction8	NICD2 traffics to the nucleus	Protein33	Protein40	
+BiochemicalReaction9	NOTCH2 binds CNTN1	Protein41	Complex14	
+BiochemicalReaction9	NOTCH2 binds CNTN1	Complex2	Complex14	

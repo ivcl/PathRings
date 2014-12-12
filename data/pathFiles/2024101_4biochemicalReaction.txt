@@ -1,0 +1,34 @@
+BiochemicalReaction1	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity1	PhysicalEntity3	
+BiochemicalReaction1	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction1	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity2	PhysicalEntity4	
+BiochemicalReaction1	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity1	PhysicalEntity4	
+BiochemicalReaction2	DS is cleaved from its proteoglycan	Protein81	SmallMolecule2	
+BiochemicalReaction2	DS is cleaved from its proteoglycan	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	DS is cleaved from its proteoglycan	SmallMolecule1	Protein97	
+BiochemicalReaction2	DS is cleaved from its proteoglycan	Protein81	Protein97	
+BiochemicalReaction3	CS is cleaved from its proteoglycan	PhysicalEntity3	SmallMolecule3	
+BiochemicalReaction3	CS is cleaved from its proteoglycan	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	CS is cleaved from its proteoglycan	SmallMolecule1	Protein97	
+BiochemicalReaction3	CS is cleaved from its proteoglycan	PhysicalEntity3	Protein97	
+BiochemicalReaction4	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction4	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction4	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction4	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction5	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction5	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction5	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction5	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction6	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule1	SmallMolecule10	
+BiochemicalReaction6	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule1	SmallMolecule11	
+BiochemicalReaction7	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule1	SmallMolecule12	
+BiochemicalReaction7	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction7	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction7	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule1	SmallMolecule13	
+BiochemicalReaction8	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction8	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction8	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule1	SmallMolecule14	
+BiochemicalReaction8	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule3	SmallMolecule14	
+BiochemicalReaction9	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule1	SmallMolecule17	
+BiochemicalReaction9	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule15	SmallMolecule17	

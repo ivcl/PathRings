@@ -1,0 +1,20 @@
+BiochemicalReaction1	TRAF3 binds to TRIF:activated TLR3/4 complex	Complex1	Complex8	
+BiochemicalReaction1	TRAF3 binds to TRIF:activated TLR3/4 complex	Protein8	Complex8	
+BiochemicalReaction2	Auto-ubiquitination of TRAF3	Protein10	Complex10	
+BiochemicalReaction2	Auto-ubiquitination of TRAF3	Complex8	Complex10	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon to K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4 followed by their phosphorylation	Protein26	Complex11	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon to K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4 followed by their phosphorylation	SmallMolecule2	Complex11	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon to K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4 followed by their phosphorylation	Complex10	Complex11	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon to K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4 followed by their phosphorylation	Complex10	SmallMolecule3	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon to K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4 followed by their phosphorylation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon to K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4 followed by their phosphorylation	Protein26	SmallMolecule3	
+BiochemicalReaction4	IRF3/IRF7 recruitment to p-TBK1/p-IKK epsilon bound to the activated TLR	Complex11	Complex12	
+BiochemicalReaction4	IRF3/IRF7 recruitment to p-TBK1/p-IKK epsilon bound to the activated TLR	Protein32	Complex12	
+BiochemicalReaction5	Phosphorylation of IRF-3/IRF7 and their release from the activated TLR complex 	SmallMolecule2	Complex11	
+BiochemicalReaction5	Phosphorylation of IRF-3/IRF7 and their release from the activated TLR complex 	Complex12	Complex11	
+BiochemicalReaction5	Phosphorylation of IRF-3/IRF7 and their release from the activated TLR complex 	Complex12	SmallMolecule3	
+BiochemicalReaction5	Phosphorylation of IRF-3/IRF7 and their release from the activated TLR complex 	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Phosphorylation of IRF-3/IRF7 and their release from the activated TLR complex 	Complex12	Protein36	
+BiochemicalReaction5	Phosphorylation of IRF-3/IRF7 and their release from the activated TLR complex 	SmallMolecule2	Protein36	
+BiochemicalReaction6	Dimerization of phosphorylated IRF3/IRF7	Protein36	Complex13	
+BiochemicalReaction7	Dimerized phospho-IRF3/IRF7 is transported to the nucleus	Complex13	Complex16	

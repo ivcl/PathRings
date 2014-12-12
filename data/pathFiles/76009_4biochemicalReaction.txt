@@ -1,0 +1,70 @@
+BiochemicalReaction1	Activation of Rap1 by cytosolic GEFs	SmallMolecule1	Complex2	
+BiochemicalReaction1	Activation of Rap1 by cytosolic GEFs	Complex1	Complex2	
+BiochemicalReaction1	Activation of Rap1 by cytosolic GEFs	Complex1	SmallMolecule4	
+BiochemicalReaction1	Activation of Rap1 by cytosolic GEFs	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	Autophosphorylation of SRC	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction10	Autophosphorylation of SRC	Complex14	SmallMolecule13	
+BiochemicalReaction10	Autophosphorylation of SRC	Complex14	Complex16	
+BiochemicalReaction10	Autophosphorylation of SRC	SmallMolecule12	Complex16	
+BiochemicalReaction11	Translocation of FADK1 to Focal complexes	Complex16	Complex18	
+BiochemicalReaction11	Translocation of FADK1 to Focal complexes	Protein24	Complex18	
+BiochemicalReaction12	Autophosphorylation of FADK1 at Y397	SmallMolecule12	Complex19	
+BiochemicalReaction12	Autophosphorylation of FADK1 at Y397	Complex18	Complex19	
+BiochemicalReaction12	Autophosphorylation of FADK1 at Y397	Complex18	SmallMolecule13	
+BiochemicalReaction12	Autophosphorylation of FADK1 at Y397	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction13	Phosphorylation of pFADK1 by SRC	Complex19	SmallMolecule13	
+BiochemicalReaction13	Phosphorylation of pFADK1 by SRC	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction13	Phosphorylation of pFADK1 by SRC	SmallMolecule12	Complex20	
+BiochemicalReaction13	Phosphorylation of pFADK1 by SRC	Complex19	Complex20	
+BiochemicalReaction14	Recruitment of GRB2 to p-FADK1	Protein27	Complex21	
+BiochemicalReaction14	Recruitment of GRB2 to p-FADK1	Complex20	Complex21	
+BiochemicalReaction15	Interaction of SOS with GRB2 bound to FADK1	Protein28	Complex22	
+BiochemicalReaction15	Interaction of SOS with GRB2 bound to FADK1	Complex21	Complex22	
+BiochemicalReaction16	Recruitment of p130Cas to FADK1	Protein29	Complex23	
+BiochemicalReaction16	Recruitment of p130Cas to FADK1	Complex20	Complex23	
+BiochemicalReaction17	Phosphorylation of p130Cas by SRC-FADK1 complex	Complex23	Complex24	
+BiochemicalReaction17	Phosphorylation of p130Cas by SRC-FADK1 complex	SmallMolecule12	Complex24	
+BiochemicalReaction17	Phosphorylation of p130Cas by SRC-FADK1 complex	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction17	Phosphorylation of p130Cas by SRC-FADK1 complex	Complex23	SmallMolecule13	
+BiochemicalReaction18	Crk binding to p130cas	Complex24	Complex25	
+BiochemicalReaction18	Crk binding to p130cas	Protein31	Complex25	
+BiochemicalReaction19	Integrin alpha IIb beta3 T779 phosphorylation blocks SHC binding	Complex7	Complex26	
+BiochemicalReaction2	Activation of Rap1 by membrane-associated GEFs	SmallMolecule1	Complex2	
+BiochemicalReaction2	Activation of Rap1 by membrane-associated GEFs	Complex1	Complex2	
+BiochemicalReaction2	Activation of Rap1 by membrane-associated GEFs	Complex1	SmallMolecule4	
+BiochemicalReaction2	Activation of Rap1 by membrane-associated GEFs	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction20	Activated integrin alphaIIb beta3 binds SHC1	Complex8	Complex27	
+BiochemicalReaction20	Activated integrin alphaIIb beta3 binds SHC1	Protein36	Complex27	
+BiochemicalReaction21	SHC1 bound to integrin alphaIIb beta3 is phosphorylated somehow	Complex27	Complex28	
+BiochemicalReaction22	SHC1 dissociates from integrin alphaIIb beta3	Complex28	Protein37	
+BiochemicalReaction22	SHC1 dissociates from integrin alphaIIb beta3	Complex28	Complex8	
+BiochemicalReaction23	SYK binds to integrin alphaIIb beta3	Complex16	Complex29	
+BiochemicalReaction23	SYK binds to integrin alphaIIb beta3	Protein38	Complex29	
+BiochemicalReaction24	SYK activation by SRC	Complex29	SmallMolecule13	
+BiochemicalReaction24	SYK activation by SRC	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction24	SYK activation by SRC	SmallMolecule12	Complex30	
+BiochemicalReaction24	SYK activation by SRC	Complex29	Complex30	
+BiochemicalReaction25	Alpha-2 adrenoceptors bind catecholamines	SmallMolecule14	Complex31	
+BiochemicalReaction25	Alpha-2 adrenoceptors bind catecholamines	Protein40	Complex31	
+BiochemicalReaction26	Thrombin binding to GP1b:IX:V	Complex32	Complex35	
+BiochemicalReaction26	Thrombin binding to GP1b:IX:V	Complex34	Complex35	
+BiochemicalReaction27	Thrombopoietin binds the thrombopoietin receptor	Protein50	Complex36	
+BiochemicalReaction27	Thrombopoietin binds the thrombopoietin receptor	Protein51	Complex36	
+BiochemicalReaction3	Translocation of RIAM to plasma membrane	SmallMolecule5	Complex3	
+BiochemicalReaction3	Translocation of RIAM to plasma membrane	Complex2	Complex3	
+BiochemicalReaction3	Translocation of RIAM to plasma membrane	Protein10	Complex3	
+BiochemicalReaction4	Activation of Talin	Complex3	Complex4	
+BiochemicalReaction4	Activation of Talin	Protein11	Complex4	
+BiochemicalReaction5	Integrin alphaIIb beta3 activation	Complex4	Complex8	
+BiochemicalReaction5	Integrin alphaIIb beta3 activation	Complex5	Complex8	
+BiochemicalReaction6	Interaction of integrin alphaIIb beta3 with Fibrinogen	SmallMolecule6	Complex10	
+BiochemicalReaction6	Interaction of integrin alphaIIb beta3 with Fibrinogen	PhysicalEntity1	Complex10	
+BiochemicalReaction6	Interaction of integrin alphaIIb beta3 with Fibrinogen	Complex8	Complex10	
+BiochemicalReaction7	Clustering of Integrin alphaIIb beta3 complexes	Complex10	Complex11	
+BiochemicalReaction7	Clustering of Integrin alphaIIb beta3 complexes	Complex5	Complex11	
+BiochemicalReaction8	Release of CSK from SRC	Complex11	Complex12	
+BiochemicalReaction8	Release of CSK from SRC	Complex11	Protein12	
+BiochemicalReaction9	Dephosphorylation of inactive SRC by PTPB1	Complex12	SmallMolecule11	
+BiochemicalReaction9	Dephosphorylation of inactive SRC by PTPB1	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction9	Dephosphorylation of inactive SRC by PTPB1	SmallMolecule10	Complex14	
+BiochemicalReaction9	Dephosphorylation of inactive SRC by PTPB1	Complex12	Complex14	

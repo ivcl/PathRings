@@ -1,0 +1,118 @@
+Complex1	CD28 homodimer	plasma membrane	Reactome DB_ID: 179780	Protein1	
+Complex10	CD28:PI3K	plasma membrane	Reactome DB_ID: 388783	Complex9	
+Complex10	CD28:PI3K	plasma membrane	Reactome DB_ID: 388783	Complex6	
+Complex11	PDK1:PIP3	plasma membrane	Reactome DB_ID: 377179	Protein19	
+Complex11	PDK1:PIP3	plasma membrane	Reactome DB_ID: 377179	SmallMolecule4	
+Complex12	AKT:PIP3	plasma membrane	Reactome DB_ID: 2317329	Protein24	
+Complex12	AKT:PIP3	plasma membrane	Reactome DB_ID: 2317329	SmallMolecule4	
+Complex13	p-S-AKT:PIP3	plasma membrane	Reactome DB_ID: 2317310	Protein28	
+Complex13	p-S-AKT:PIP3	plasma membrane	Reactome DB_ID: 2317310	SmallMolecule4	
+Complex14	TORC2 complex	cytosol	Reactome DB_ID: 198626	Protein32	
+Complex14	TORC2 complex	cytosol	Reactome DB_ID: 198626	Protein33	
+Complex14	TORC2 complex	cytosol	Reactome DB_ID: 198626	Protein34	
+Complex14	TORC2 complex	cytosol	Reactome DB_ID: 198626	Protein35	
+Complex15	AKT:PIP3:THEM4/TRIB3	plasma membrane	Reactome DB_ID: 199453	Protein36	
+Complex15	AKT:PIP3:THEM4/TRIB3	plasma membrane	Reactome DB_ID: 199453	Complex12	
+Complex16	p-S-AKT:PDPK1:PIP3	plasma membrane	Reactome DB_ID: 2317313	Complex11	
+Complex16	p-S-AKT:PDPK1:PIP3	plasma membrane	Reactome DB_ID: 2317313	Complex13	
+Complex17	CD28:Grb2	plasma membrane	Reactome DB_ID: 388786	Complex6	
+Complex17	CD28:Grb2	plasma membrane	Reactome DB_ID: 388786	Protein47	
+Complex18	Vav1 bound to PIP3 and Grb2:CD28	plasma membrane	Reactome DB_ID: 389334	Complex17	
+Complex18	Vav1 bound to PIP3 and Grb2:CD28	plasma membrane	Reactome DB_ID: 389334	Protein48	
+Complex18	Vav1 bound to PIP3 and Grb2:CD28	plasma membrane	Reactome DB_ID: 389334	SmallMolecule4	
+Complex19	pVav1:PIP3:Grb2:CD28	plasma membrane	Reactome DB_ID: 389332	Complex17	
+Complex19	pVav1:PIP3:Grb2:CD28	plasma membrane	Reactome DB_ID: 389332	Protein49	
+Complex19	pVav1:PIP3:Grb2:CD28	plasma membrane	Reactome DB_ID: 389332	SmallMolecule4	
+Complex2	CD80 (B7-1) homodimer	plasma membrane	Reactome DB_ID: 179787	Protein2	
+Complex20	RAC1-GDP	cytosol	Reactome DB_ID: 445010	SmallMolecule6	
+Complex20	RAC1-GDP	cytosol	Reactome DB_ID: 445010	Protein50	
+Complex21	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule5	
+Complex21	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein50	
+Complex22	CDC42:GDP	cytosol	Reactome DB_ID: 418830	Protein51	
+Complex22	CDC42:GDP	cytosol	Reactome DB_ID: 418830	SmallMolecule6	
+Complex23	CDC42:GTP	cytosol	Reactome DB_ID: 182921	Protein51	
+Complex23	CDC42:GTP	cytosol	Reactome DB_ID: 182921	SmallMolecule5	
+Complex24	PAK homodimer	cytosol	Reactome DB_ID: 399856	Protein52	
+Complex26	PAK bound to Rac1 and Cdc42	cytosol	Reactome DB_ID: 389782	Complex25	
+Complex26	PAK bound to Rac1 and Cdc42	cytosol	Reactome DB_ID: 389782	Protein52	
+Complex27	PP2A	cytosol	Reactome DB_ID: 196206	Protein55	
+Complex27	PP2A	cytosol	Reactome DB_ID: 196206	Protein58	
+Complex27	PP2A	cytosol	Reactome DB_ID: 196206	Protein61	
+Complex28	CTLA-4 homodimer	plasma membrane	Reactome DB_ID: 179766	Protein67	
+Complex29	CTLA-4:PP2A	plasma membrane	Reactome DB_ID: 389533	Complex27	
+Complex29	CTLA-4:PP2A	plasma membrane	Reactome DB_ID: 389533	Complex28	
+Complex3	CD28:B7-1	plasma membrane	Reactome DB_ID: 388767	Complex1	
+Complex3	CD28:B7-1	plasma membrane	Reactome DB_ID: 388767	Complex2	
+Complex30	PP2A:CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388784	PhysicalEntity1	
+Complex30	PP2A:CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388784	Complex29	
+Complex31	Phosphorylated CTLA-4 bound to kinases	plasma membrane	Reactome DB_ID: 388795	Complex32	
+Complex31	Phosphorylated CTLA-4 bound to kinases	plasma membrane	Reactome DB_ID: 388795	Protein8	
+Complex32	phospho CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388796	PhysicalEntity1	
+Complex32	phospho CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388796	Complex33	
+Complex33	Phospho CTLA-4 dimer	plasma membrane	Reactome DB_ID: 388794	Protein68	
+Complex34	pCTLA-4:Src kinases:SHP2	plasma membrane	Reactome DB_ID: 388793	Complex31	
+Complex34	pCTLA-4:Src kinases:SHP2	plasma membrane	Reactome DB_ID: 388793	Protein69	
+Complex35	PIP3:PDK1:active AKT	plasma membrane	Reactome DB_ID: 198338	Protein19	
+Complex35	PIP3:PDK1:active AKT	plasma membrane	Reactome DB_ID: 198338	Protein39	
+Complex35	PIP3:PDK1:active AKT	plasma membrane	Reactome DB_ID: 198338	SmallMolecule4	
+Complex36	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	Protein19	
+Complex36	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	Protein24	
+Complex36	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	SmallMolecule4	
+Complex37	ICOS:ICOSL	plasma membrane	Reactome DB_ID: 388788	Protein70	
+Complex37	ICOS:ICOSL	plasma membrane	Reactome DB_ID: 388788	Protein71	
+Complex38	ICOS:PI3K	plasma membrane	Reactome DB_ID: 388785	Protein72	
+Complex38	ICOS:PI3K	plasma membrane	Reactome DB_ID: 388785	Complex9	
+Complex39	PD-1:PD-1 ligands	plasma membrane	Reactome DB_ID: 388800	Protein73	
+Complex39	PD-1:PD-1 ligands	plasma membrane	Reactome DB_ID: 388800	Protein76	
+Complex4	CD28:B7-2	plasma membrane	Reactome DB_ID: 388768	Protein3	
+Complex4	CD28:B7-2	plasma membrane	Reactome DB_ID: 388768	Complex1	
+Complex40	Phosphorylated PD-1 bound to B7DC/B7H1	plasma membrane	Reactome DB_ID: 389746	Protein77	
+Complex40	Phosphorylated PD-1 bound to B7DC/B7H1	plasma membrane	Reactome DB_ID: 389746	Protein79	
+Complex40	Phosphorylated PD-1 bound to B7DC/B7H1	plasma membrane	Reactome DB_ID: 389746	Protein73	
+Complex41	SHP-1/SHP-2 bound to phospho PD-1	plasma membrane	Reactome DB_ID: 389749	Protein80	
+Complex41	SHP-1/SHP-2 bound to phospho PD-1	plasma membrane	Reactome DB_ID: 389749	Complex40	
+Complex42	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Complex43	
+Complex42	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Protein108	
+Complex42	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Protein109	
+Complex42	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Complex45	
+Complex43	MHC Class II bearing antigen peptide	plasma membrane	Reactome DB_ID: 203463	PhysicalEntity2	
+Complex43	MHC Class II bearing antigen peptide	plasma membrane	Reactome DB_ID: 203463	Complex44	
+Complex44	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein82	
+Complex44	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein103	
+Complex45	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex46	
+Complex45	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex47	
+Complex45	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex48	
+Complex45	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex49	
+Complex46	CD3 zeta dimer with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202303	Protein110	
+Complex47	CD3 epsilon: CD3 gamma with phosphorylated ITAM	plasma membrane	Reactome DB_ID: 202167	Protein111	
+Complex47	CD3 epsilon: CD3 gamma with phosphorylated ITAM	plasma membrane	Reactome DB_ID: 202167	Protein112	
+Complex48	CD3 epsilon: CD3 delta with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202336	Protein113	
+Complex48	CD3 epsilon: CD3 delta with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202336	Protein112	
+Complex49	T-cell receptor	plasma membrane	Reactome DB_ID: 198183	Protein114	
+Complex49	T-cell receptor	plasma membrane	Reactome DB_ID: 198183	Protein119	
+Complex5	CD28 bound to B7 ligands	plasma membrane	Reactome DB_ID: 388765	PhysicalEntity1	
+Complex5	CD28 bound to B7 ligands	plasma membrane	Reactome DB_ID: 388765	Complex1	
+Complex50	Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4	plasma membrane	Reactome DB_ID: 390339	Complex51	
+Complex50	Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4	plasma membrane	Reactome DB_ID: 390339	Complex43	
+Complex50	Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4	plasma membrane	Reactome DB_ID: 390339	Protein108	
+Complex50	Antigen-bearing MHC Class II: TCR with dephosphorylated CD3 zeta chain:CD4	plasma membrane	Reactome DB_ID: 390339	Protein109	
+Complex51	T-cell receptor complex with dephosphorylated CD3 zeta chain	plasma membrane	Reactome DB_ID: 390341	Complex47	
+Complex51	T-cell receptor complex with dephosphorylated CD3 zeta chain	plasma membrane	Reactome DB_ID: 390341	Protein123	
+Complex51	T-cell receptor complex with dephosphorylated CD3 zeta chain	plasma membrane	Reactome DB_ID: 390341	Complex48	
+Complex51	T-cell receptor complex with dephosphorylated CD3 zeta chain	plasma membrane	Reactome DB_ID: 390341	Complex49	
+Complex52	BTLA-HVEM complex	plasma membrane	Reactome DB_ID: 389525	Protein124	
+Complex52	BTLA-HVEM complex	plasma membrane	Reactome DB_ID: 389525	Protein125	
+Complex53	pBTLA-HVEM complex	plasma membrane	Reactome DB_ID: 389920	Protein125	
+Complex53	pBTLA-HVEM complex	plasma membrane	Reactome DB_ID: 389920	Protein126	
+Complex54	SHP-1/SHP-2:pBTLA:HVEM	plasma membrane	Reactome DB_ID: 389935	Protein80	
+Complex54	SHP-1/SHP-2:pBTLA:HVEM	plasma membrane	Reactome DB_ID: 389935	Complex53	
+Complex55	Grb2:pBTLA:HVEM	plasma membrane	Reactome DB_ID: 389921	Protein47	
+Complex55	Grb2:pBTLA:HVEM	plasma membrane	Reactome DB_ID: 389921	Complex53	
+Complex6	phospho CD28:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388777	PhysicalEntity1	
+Complex6	phospho CD28:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388777	Complex7	
+Complex6	phospho CD28:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388777	Protein4	
+Complex7	Phospho CD28 homodimer	plasma membrane	Reactome DB_ID: 388778	Protein7	
+Complex8	CD28:Gads	plasma membrane	Reactome DB_ID: 389384	Protein12	
+Complex8	CD28:Gads	plasma membrane	Reactome DB_ID: 389384	Complex6	
+Complex9	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein13	
+Complex9	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein14	

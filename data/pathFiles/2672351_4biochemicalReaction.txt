@@ -1,0 +1,51 @@
+BiochemicalReaction1	ASICs transport extracellular Na+ to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	CLCN7:OSTM1 exchanges Cl- for H+	SmallMolecule15	SmallMolecule9	
+BiochemicalReaction10	CLCN7:OSTM1 exchanges Cl- for H+	SmallMolecule20	SmallMolecule9	
+BiochemicalReaction10	CLCN7:OSTM1 exchanges Cl- for H+	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction10	CLCN7:OSTM1 exchanges Cl- for H+	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction11	TTYH1 transports cytosolic Cl- to extracellular region	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction12	TTYH2/3 transport cytosolic Cl- to extracellular region	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction13	BESTs transport cytosolic Cl- to extracellular region	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction14	BESTs transport cytosolic HCO3- to extracellular region	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction15	RYR tetramers transport sarcoplasmic Ca2+ to cytosol	SmallMolecule24	SmallMolecule11	
+BiochemicalReaction16	SLC17A3-1 cotransports extracellular Na+ and Pi to cytosol	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction16	SLC17A3-1 cotransports extracellular Na+ and Pi to cytosol	SmallMolecule2	SmallMolecule26	
+BiochemicalReaction16	SLC17A3-1 cotransports extracellular Na+ and Pi to cytosol	SmallMolecule2	SmallMolecule27	
+BiochemicalReaction16	SLC17A3-1 cotransports extracellular Na+ and Pi to cytosol	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction17	SLC17A3-2 transports cytosolic urate to extracellular region	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction18	SLC9B1/C2 exchange Na+ for H+	SmallMolecule15	SmallMolecule3	
+BiochemicalReaction18	SLC9B1/C2 exchange Na+ for H+	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction18	SLC9B1/C2 exchange Na+ for H+	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	SLC9B1/C2 exchange Na+ for H+	SmallMolecule15	SmallMolecule2	
+BiochemicalReaction19	SLC9B2 exchanges Na+, Li+ for H+	SmallMolecule30	SmallMolecule34	
+BiochemicalReaction19	SLC9B2 exchanges Na+, Li+ for H+	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction19	SLC9B2 exchanges Na+, Li+ for H+	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction19	SLC9B2 exchanges Na+, Li+ for H+	SmallMolecule30	SmallMolecule35	
+BiochemicalReaction2	SCNN channels transport extracellular Na+ to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	SLC9C1 exchanges Na+ for H+	SmallMolecule38	SmallMolecule3	
+BiochemicalReaction20	SLC9C1 exchanges Na+ for H+	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction20	SLC9C1 exchanges Na+ for H+	SmallMolecule1	SmallMolecule39	
+BiochemicalReaction20	SLC9C1 exchanges Na+ for H+	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction21	TRPs transport extracellular Ca2+ to cytosol	SmallMolecule14	SmallMolecule11	
+BiochemicalReaction22	TRPM4,5 transport extracellular Na+ to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	Protein11	Complex7	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	SmallMolecule6	Complex7	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	Complex6	Complex7	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	Complex6	SmallMolecule7	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	Protein11	SmallMolecule7	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	Complex6	SmallMolecule8	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	RAF1:SGK:TSC22D3:WPP ubiquitinates SCNN channels	Protein11	SmallMolecule8	
+BiochemicalReaction4	ANOs transport cytosolic Cl- to extracellular region	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction5	TPCN1/2 transport lysosomal Ca2+ to cytosol 	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction6	UNC79:UNC80:NALCN transports cytosolic Na+ to extracellular region	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction7	CLCN1/2/KA/KB transport cytosolic Cl- to extracellular region	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction8	CLCN3 exchanges Cl- for H+	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction8	CLCN3 exchanges Cl- for H+	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction8	CLCN3 exchanges Cl- for H+	SmallMolecule16	SmallMolecule9	
+BiochemicalReaction8	CLCN3 exchanges Cl- for H+	SmallMolecule15	SmallMolecule9	
+BiochemicalReaction9	CLCN4/5/6 exchange Cl- for H+	SmallMolecule15	SmallMolecule9	
+BiochemicalReaction9	CLCN4/5/6 exchange Cl- for H+	SmallMolecule18	SmallMolecule9	
+BiochemicalReaction9	CLCN4/5/6 exchange Cl- for H+	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction9	CLCN4/5/6 exchange Cl- for H+	SmallMolecule15	SmallMolecule19	

@@ -1,0 +1,6 @@
+BiochemicalReaction1	De novo formation of eIF2:GTP	SmallMolecule1	Complex2	
+BiochemicalReaction1	De novo formation of eIF2:GTP	Complex1	Complex2	
+BiochemicalReaction2	Met-tRNAi binds to eIF2:GTP to form the ternary complex	Complex2	Complex3	
+BiochemicalReaction2	Met-tRNAi binds to eIF2:GTP to form the ternary complex	PhysicalEntity1	Complex3	
+BiochemicalReaction3	Formation of the 43S pre-initiation complex	Complex3	Complex7	
+BiochemicalReaction3	Formation of the 43S pre-initiation complex	Complex4	Complex7	

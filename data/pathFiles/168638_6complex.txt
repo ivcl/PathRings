@@ -1,0 +1,56 @@
+Complex1	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	Protein1	
+Complex1	NOD1:iE-DAP	cytosol	Reactome DB_ID: 168408	SmallMolecule1	
+Complex10	TRAF6 E3/E2 ubiquitin ligase complex	cytosol	Reactome DB_ID: 1248657	Complex11	
+Complex10	TRAF6 E3/E2 ubiquitin ligase complex	cytosol	Reactome DB_ID: 1248657	Protein8	
+Complex11	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein6	
+Complex11	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein7	
+Complex12	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Complex13	
+Complex12	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	PhysicalEntity1	
+Complex12	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO	cytosol	Reactome DB_ID: 706480	Protein4	
+Complex13	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Complex5	
+Complex13	PAMP:NOD oligomer:K63-Ub-RIP2	cytosol	Reactome DB_ID: 706482	Protein10	
+Complex14	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein15	
+Complex14	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein16	
+Complex14	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein17	
+Complex15	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:TAK1 complex	plasma membrane	Reactome DB_ID: 706478	Complex14	
+Complex15	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:TAK1 complex	plasma membrane	Reactome DB_ID: 706478	Complex12	
+Complex16	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex14	
+Complex16	PAMP:NOD oligomer:K63-polyUb-RIP2:NEMO:activated TAK1 complex	cytosol	Reactome DB_ID: 706477	Complex12	
+Complex17	IKK complex	cytosol	Reactome DB_ID: 168113	Protein20	
+Complex17	IKK complex	cytosol	Reactome DB_ID: 168113	Protein4	
+Complex17	IKK complex	cytosol	Reactome DB_ID: 168113	Protein21	
+Complex18	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein22	
+Complex18	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein4	
+Complex18	Activated IKK Complex	cytosol	Reactome DB_ID: 177663	Protein23	
+Complex2	MDP:NOD2	cytosol	Reactome DB_ID: 168414	SmallMolecule2	
+Complex2	MDP:NOD2	cytosol	Reactome DB_ID: 168414	Protein2	
+Complex20	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex14	
+Complex20	hp-IRAK1:K6-poly-Ub oligo-TRAF6:Activated TAK1 complex	cytosol	Reactome DB_ID: 450186	Complex21	
+Complex21	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Complex22	
+Complex21	hp-IRAK1:K6 poly-Ub oligo-TRAF6	cytosol	Reactome DB_ID: 450144	Protein25	
+Complex22	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein24	
+Complex22	hp-IRAK1:K6-polyUb TRAF6	cytosol	Reactome DB_ID: 450147	Protein25	
+Complex23	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein15	
+Complex23	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein25	
+Complex23	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	PhysicalEntity1	
+Complex23	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein26	
+Complex23	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein29	
+Complex24	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	PhysicalEntity1	
+Complex24	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Complex25	
+Complex24	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	cytosol	Reactome DB_ID: 937060	Protein29	
+Complex25	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein30	
+Complex25	p-IRAK2:K63-linked pUb oligo-TRAF6	cytosol	Reactome DB_ID: 937064	Protein25	
+Complex26	NOD1:iE-DAP:Long prodomain caspases	cytosol	Reactome DB_ID: 622417	Complex1	
+Complex26	NOD1:iE-DAP:Long prodomain caspases	cytosol	Reactome DB_ID: 622417	Protein33	
+Complex27	PAMP:NOD oligomer:RIP2:CARD9	cytosol	Reactome DB_ID: 741403	Complex6	
+Complex27	PAMP:NOD oligomer:RIP2:CARD9	cytosol	Reactome DB_ID: 741403	Protein39	
+Complex3	NOD1:iE-DAP oligomer	cytosol	Reactome DB_ID: 622306	Complex1	
+Complex4	MDP:NOD2 oligomer	cytosol	Reactome DB_ID: 708350	Complex2	
+Complex6	PAMP:NOD oligomer:RIP2	cytosol	Reactome DB_ID: 168409	Complex5	
+Complex6	PAMP:NOD oligomer:RIP2	cytosol	Reactome DB_ID: 168409	Protein3	
+Complex7	PAMP:NOD oligomer:RIP2:NEMO	cytosol	Reactome DB_ID: 688994	Complex6	
+Complex7	PAMP:NOD oligomer:RIP2:NEMO	cytosol	Reactome DB_ID: 688994	Protein4	
+Complex8	PAMP:NOD oligomer:RIP2:K63-pUb-K285-NEMO	cytosol	Reactome DB_ID: 741418	PhysicalEntity1	
+Complex8	PAMP:NOD oligomer:RIP2:K63-pUb-K285-NEMO	cytosol	Reactome DB_ID: 741418	Complex9	
+Complex9	PAMP:NOD oligomer:RIP2:K63-Ub-K285-NEMO	cytosol	Reactome DB_ID: 741389	Protein5	
+Complex9	PAMP:NOD oligomer:RIP2:K63-Ub-K285-NEMO	cytosol	Reactome DB_ID: 741389	Complex6	

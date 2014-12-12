@@ -1,0 +1,11 @@
+BiochemicalReaction1	FA anion diffuses laterally to UCP	Complex1	Complex2	
+BiochemicalReaction1	FA anion diffuses laterally to UCP	SmallMolecule1	Complex2	
+BiochemicalReaction2	FA anion flip-flops to the opposite surface	Complex2	Complex3	
+BiochemicalReaction3	The FA anion diffuses away laterally from UCP	Complex3	SmallMolecule2	
+BiochemicalReaction3	The FA anion diffuses away laterally from UCP	Complex3	Complex1	
+BiochemicalReaction4	FA anion picks up a proton	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	FA anion picks up a proton	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	FA spontaneously flip-flops back to the matrix side	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction6	The proton is delivered to the matrix side	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction6	The proton is delivered to the matrix side	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7	Protons are translocated from the intermembrane space to the matrix	SmallMolecule3	SmallMolecule6	

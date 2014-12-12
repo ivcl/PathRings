@@ -1,0 +1,10 @@
+BiochemicalReaction1	AMP binds to gamma subunit of AMP kinase heterotrimer	Complex1	Complex2	
+BiochemicalReaction1	AMP binds to gamma subunit of AMP kinase heterotrimer	SmallMolecule1	Complex2	
+BiochemicalReaction2	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	Complex2	SmallMolecule3	
+BiochemicalReaction2	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	Complex2	Complex4	
+BiochemicalReaction2	LKB1 phosphorylates the alpha subunit of AMPK heterotrimer	SmallMolecule2	Complex4	
+BiochemicalReaction3	Phosphorylation of ChREBP at Serine 568 by AMPK	Protein6	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of ChREBP at Serine 568 by AMPK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of ChREBP at Serine 568 by AMPK	SmallMolecule2	Protein7	
+BiochemicalReaction3	Phosphorylation of ChREBP at Serine 568 by AMPK	Protein6	Protein7	

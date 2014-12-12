@@ -1,0 +1,12 @@
+BiochemicalReaction1	Calmodulin binds CaMK IV	Complex1	Complex2	
+BiochemicalReaction1	Calmodulin binds CaMK IV	Protein2	Complex2	
+BiochemicalReaction2	CamKIV enters the nucleus	Complex2	Complex3	
+BiochemicalReaction3	CaMK IV autophosphorylation	Complex3	Complex5	
+BiochemicalReaction3	CaMK IV autophosphorylation	SmallMolecule3	Complex5	
+BiochemicalReaction3	CaMK IV autophosphorylation	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	CaMK IV autophosphorylation	Complex3	SmallMolecule4	
+BiochemicalReaction4	CaMK IV phosphorylates CREB	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	CaMK IV phosphorylates CREB	Protein6	SmallMolecule4	
+BiochemicalReaction4	CaMK IV phosphorylates CREB	Protein6	Protein7	
+BiochemicalReaction4	CaMK IV phosphorylates CREB	SmallMolecule3	Protein7	
+BiochemicalReaction5	Dimerisation of CREB	Protein7	Complex7	

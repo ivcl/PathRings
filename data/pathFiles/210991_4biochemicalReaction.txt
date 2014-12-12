@@ -1,0 +1,19 @@
+BiochemicalReaction1	CyP60 chaperones Basigin	Protein1	Complex1	
+BiochemicalReaction1	CyP60 chaperones Basigin	Protein2	Complex1	
+BiochemicalReaction10	Basigin binds CD98 complex	Complex18	Complex26	
+BiochemicalReaction10	Basigin binds CD98 complex	Protein3	Complex26	
+BiochemicalReaction2	Basigin homodimerises	Protein3	Complex2	
+BiochemicalReaction3	Caveolin-1 binds Basigin	Protein4	Complex3	
+BiochemicalReaction3	Caveolin-1 binds Basigin	Protein1	Complex3	
+BiochemicalReaction4	Basigin binds CyPA	Protein3	Complex4	
+BiochemicalReaction4	Basigin binds CyPA	Protein5	Complex4	
+BiochemicalReaction5	Basigin interacts with CD43	Protein6	Complex5	
+BiochemicalReaction5	Basigin interacts with CD43	Protein3	Complex5	
+BiochemicalReaction6	Basigin binds Matrix metalloproteinase-1	Protein7	Complex6	
+BiochemicalReaction6	Basigin binds Matrix metalloproteinase-1	Protein3	Complex6	
+BiochemicalReaction7	Basigin binds Mannose-carrying cell recognition molecules	PhysicalEntity1	Complex8	
+BiochemicalReaction7	Basigin binds Mannose-carrying cell recognition molecules	Protein3	Complex8	
+BiochemicalReaction8	Basigin binds to integrins	Complex9	Complex12	
+BiochemicalReaction8	Basigin binds to integrins	Protein3	Complex12	
+BiochemicalReaction9	Basigin binds MCT1, MCT3 and MCT4	Protein16	Complex13	
+BiochemicalReaction9	Basigin binds MCT1, MCT3 and MCT4	Protein3	Complex13	

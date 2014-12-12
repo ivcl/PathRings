@@ -1,0 +1,55 @@
+BiochemicalReaction1	Correctly folded glycoproteins translocate to the Golgi	Complex1	Complex2	
+BiochemicalReaction10	Progressive trimming of alpha-1,2-linked mannose residues from Man9GlcNAc2 to produce Man5GlcNAc2	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction10	Progressive trimming of alpha-1,2-linked mannose residues from Man9GlcNAc2 to produce Man5GlcNAc2	SmallMolecule2	SmallMolecule16	
+BiochemicalReaction11	Progressive trimming of alpha-1,2-linked mannose residues from Man8GlcNAc2 to produce Man5GlcNAc2	SmallMolecule17	SmallMolecule15	
+BiochemicalReaction11	Progressive trimming of alpha-1,2-linked mannose residues from Man8GlcNAc2 to produce Man5GlcNAc2	SmallMolecule17	SmallMolecule16	
+BiochemicalReaction12	Progressive trimming of alpha-1,2-linked mannose residues from Man7GlcNAc2 to produce Man5GlcNAc2	SmallMolecule18	SmallMolecule15	
+BiochemicalReaction12	Progressive trimming of alpha-1,2-linked mannose residues from Man7GlcNAc2 to produce Man5GlcNAc2	SmallMolecule18	SmallMolecule16	
+BiochemicalReaction13	Addition of GlcNAc to the glycan on the A arm	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction13	Addition of GlcNAc to the glycan on the A arm	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction13	Addition of GlcNAc to the glycan on the A arm	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction13	Addition of GlcNAc to the glycan on the A arm	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction14	Addition of a bifurcating GlcNAc to the N-glycan by MGAT3	SmallMolecule22	PhysicalEntity4	
+BiochemicalReaction14	Addition of a bifurcating GlcNAc to the N-glycan by MGAT3	SmallMolecule19	PhysicalEntity4	
+BiochemicalReaction15	Trimming of mannoses on the alpha1,6 arm by MAN2A1	SmallMolecule20	SmallMolecule16	
+BiochemicalReaction15	Trimming of mannoses on the alpha1,6 arm by MAN2A1	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction16	Addition of a GlcNAc on the alpha 1,4 branch by MGAT2	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction16	Addition of a GlcNAc on the alpha 1,4 branch by MGAT2	SmallMolecule19	SmallMolecule25	
+BiochemicalReaction17	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule22	PhysicalEntity5	
+BiochemicalReaction17	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule26	PhysicalEntity5	
+BiochemicalReaction17	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction17	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule22	SmallMolecule27	
+BiochemicalReaction18	Addition of GlcNAc to position 4 by N-acetylglucosaminyltransferase (GnT)-IV	SmallMolecule22	PhysicalEntity6	
+BiochemicalReaction18	Addition of GlcNAc to position 4 by N-acetylglucosaminyltransferase (GnT)-IV	SmallMolecule19	PhysicalEntity6	
+BiochemicalReaction19	Addition of GlcNAc to position 5 by MGAT5	SmallMolecule22	PhysicalEntity7	
+BiochemicalReaction19	Addition of GlcNAc to position 5 by MGAT5	SmallMolecule19	PhysicalEntity7	
+BiochemicalReaction2	Transport of glycoproteins with Man8 (or Man9) N-glycans to the Golgi	Complex3	Complex7	
+BiochemicalReaction20	Addition of galactose by beta 4-galactosyltransferases	SmallMolecule22	PhysicalEntity8	
+BiochemicalReaction20	Addition of galactose by beta 4-galactosyltransferases	SmallMolecule28	PhysicalEntity8	
+BiochemicalReaction21	ST6GAL1 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule29	PhysicalEntity9	
+BiochemicalReaction21	ST6GAL1 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule22	PhysicalEntity9	
+BiochemicalReaction22	ST8SIA2,3,6 transfer Neu5Ac to terminal Gal of N-glycans	SmallMolecule29	PhysicalEntity9	
+BiochemicalReaction22	ST8SIA2,3,6 transfer Neu5Ac to terminal Gal of N-glycans	SmallMolecule22	PhysicalEntity9	
+BiochemicalReaction23	ST3GAL4 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule29	PhysicalEntity9	
+BiochemicalReaction23	ST3GAL4 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule22	PhysicalEntity9	
+BiochemicalReaction3	Sar1p Activation And Membrane Binding	SmallMolecule9	Complex13	
+BiochemicalReaction3	Sar1p Activation And Membrane Binding	Complex12	Complex13	
+BiochemicalReaction3	Sar1p Activation And Membrane Binding	Complex12	SmallMolecule10	
+BiochemicalReaction3	Sar1p Activation And Membrane Binding	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	Coat Assembly	Complex13	Complex15	
+BiochemicalReaction4	Coat Assembly	Complex14	Complex15	
+BiochemicalReaction5	Loss of Sar1b GTPase	Complex15	SmallMolecule11	
+BiochemicalReaction5	Loss of Sar1b GTPase	Complex15	Complex14	
+BiochemicalReaction5	Loss of Sar1b GTPase	Complex15	Complex12	
+BiochemicalReaction6	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein18	Complex17	
+BiochemicalReaction6	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Complex15	Complex17	
+BiochemicalReaction6	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein19	Complex17	
+BiochemicalReaction7	Vesicle Budding	Complex17	Complex19	
+BiochemicalReaction8	Vesicle Uncoating	Complex19	SmallMolecule11	
+BiochemicalReaction8	Vesicle Uncoating	Complex19	Protein18	
+BiochemicalReaction8	Vesicle Uncoating	Complex19	Protein12	
+BiochemicalReaction8	Vesicle Uncoating	Complex19	Protein3	
+BiochemicalReaction8	Vesicle Uncoating	Complex19	Protein19	
+BiochemicalReaction8	Vesicle Uncoating	Complex19	Protein6	
+BiochemicalReaction9	Alternative endo-mannosidase I route	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction9	Alternative endo-mannosidase I route	SmallMolecule12	SmallMolecule14	

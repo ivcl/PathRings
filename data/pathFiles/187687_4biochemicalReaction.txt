@@ -1,0 +1,120 @@
+BiochemicalReaction1	SHC binds to the activated TrkA receptor	Complex1	Complex3	
+BiochemicalReaction1	SHC binds to the activated TrkA receptor	Protein3	Complex3	
+BiochemicalReaction10	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein18	Complex14	
+BiochemicalReaction10	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex13	Complex14	
+BiochemicalReaction11	Activated RAF1 complex binds MEK	Protein20	Complex15	
+BiochemicalReaction11	Activated RAF1 complex binds MEK	Complex12	Complex15	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	SmallMolecule3	Protein23	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	Complex16	Protein23	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	Complex16	Complex12	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	SmallMolecule3	Complex12	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	Complex16	SmallMolecule4	
+BiochemicalReaction12	RAF1  phosphorylates MEK1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	Complex17	Complex12	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	SmallMolecule3	Complex12	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	Complex17	SmallMolecule4	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	SmallMolecule3	Protein24	
+BiochemicalReaction13	RAF1 phosphorylates MEK2	Complex17	Protein24	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	Protein25	SmallMolecule4	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	SmallMolecule3	Protein26	
+BiochemicalReaction14	Inactivation of MEK1 by p34cdc2	Protein25	Protein26	
+BiochemicalReaction15	MEK1 binds ERK-1	Protein23	Complex18	
+BiochemicalReaction15	MEK1 binds ERK-1	Protein30	Complex18	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	Complex18	Complex19	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	SmallMolecule3	Complex19	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction16	MEK1 phosphorylates ERK-1	Complex18	SmallMolecule4	
+BiochemicalReaction17	Dissociation of phospho-ERK-1:MEK1	Complex19	Protein23	
+BiochemicalReaction17	Dissociation of phospho-ERK-1:MEK1	Complex19	Protein31	
+BiochemicalReaction18	Dimerisation of phospho-ERK-1	Protein31	Complex20	
+BiochemicalReaction19	Nuclear translocation of phospho-ERK-1 dimer	Complex20	Complex21	
+BiochemicalReaction2	SHC, complexed with TrkA, is tyrosine-phosphorylated	Complex3	Complex4	
+BiochemicalReaction20	MEK2 binds ERK-2	Protein24	Complex30	
+BiochemicalReaction20	MEK2 binds ERK-2	Protein42	Complex30	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	Complex30	SmallMolecule4	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	SmallMolecule3	Complex31	
+BiochemicalReaction21	MEK2 phosphorylates ERK-2	Complex30	Complex31	
+BiochemicalReaction22	Dissociation of phospho-ERK-2:MEK2	Complex31	Protein24	
+BiochemicalReaction22	Dissociation of phospho-ERK-2:MEK2	Complex31	Protein43	
+BiochemicalReaction23	Dimerisation of phospho-ERK-2	Protein43	Complex32	
+BiochemicalReaction24	Nuclear translocation of phospho-ERK-2 dimer	Complex32	Complex33	
+BiochemicalReaction25	Ral-GDS binds to Ras-GTP	Protein45	Complex34	
+BiochemicalReaction25	Ral-GDS binds to Ras-GTP	Complex8	Complex34	
+BiochemicalReaction26	Guanine nucleotide exchange on RAL	SmallMolecule1	Complex38	
+BiochemicalReaction26	Guanine nucleotide exchange on RAL	Complex35	Complex38	
+BiochemicalReaction26	Guanine nucleotide exchange on RAL	Complex35	SmallMolecule2	
+BiochemicalReaction26	Guanine nucleotide exchange on RAL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	Activation of SRC by RAL-GTP	Protein48	Complex35	
+BiochemicalReaction27	Activation of SRC by RAL-GTP	Complex38	Complex35	
+BiochemicalReaction27	Activation of SRC by RAL-GTP	Complex38	Protein49	
+BiochemicalReaction27	Activation of SRC by RAL-GTP	Protein48	Protein49	
+BiochemicalReaction28	Binding and activation of MAP Kinase	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction28	Binding and activation of MAP Kinase	Complex41	SmallMolecule4	
+BiochemicalReaction28	Binding and activation of MAP Kinase	Complex41	Complex42	
+BiochemicalReaction28	Binding and activation of MAP Kinase	SmallMolecule3	Complex42	
+BiochemicalReaction29	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	Protein58	Protein61	
+BiochemicalReaction29	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	SmallMolecule3	Protein61	
+BiochemicalReaction29	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction29	MAP kinase activates MAPKAPK2, MAPKAPK3 and MSK1	Protein58	SmallMolecule4	
+BiochemicalReaction3	Phospho-Shc dissociates from the TrkA receptor	Complex4	Complex1	
+BiochemicalReaction3	Phospho-Shc dissociates from the TrkA receptor	Complex4	Protein7	
+BiochemicalReaction30	TRKA recruits RIT and RIN	Complex43	Complex44	
+BiochemicalReaction30	TRKA recruits RIT and RIN	Complex1	Complex44	
+BiochemicalReaction31	RIT/RIN are activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	RIT/RIN are activated	Complex44	SmallMolecule2	
+BiochemicalReaction31	RIT/RIN are activated	Complex44	Complex45	
+BiochemicalReaction31	RIT/RIN are activated	SmallMolecule1	Complex45	
+BiochemicalReaction32	RIT/RIN-GTP binds B-RAF	Complex47	Complex48	
+BiochemicalReaction32	RIT/RIN-GTP binds B-RAF	Complex45	Complex48	
+BiochemicalReaction33	FRS2 binds to active TrkA receptor	Protein68	Complex51	
+BiochemicalReaction33	FRS2 binds to active TrkA receptor	Complex49	Complex51	
+BiochemicalReaction34	FRS2 is phosphorylated by active TrkA receptor	Complex51	SmallMolecule8	
+BiochemicalReaction34	FRS2 is phosphorylated by active TrkA receptor	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction34	FRS2 is phosphorylated by active TrkA receptor	SmallMolecule7	Complex52	
+BiochemicalReaction34	FRS2 is phosphorylated by active TrkA receptor	Complex51	Complex52	
+BiochemicalReaction35	p-FRS2 binds CRKL	Protein73	Complex54	
+BiochemicalReaction35	p-FRS2 binds CRKL	Complex52	Complex54	
+BiochemicalReaction36	Phospho-Frs2:CrkL engages C3G	Complex54	Complex55	
+BiochemicalReaction36	Phospho-Frs2:CrkL engages C3G	Protein74	Complex55	
+BiochemicalReaction37	(Frs2)C3G stimulates nucleotide exchange on Rap1	Complex56	SmallMolecule9	
+BiochemicalReaction37	(Frs2)C3G stimulates nucleotide exchange on Rap1	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction37	(Frs2)C3G stimulates nucleotide exchange on Rap1	SmallMolecule10	Complex57	
+BiochemicalReaction37	(Frs2)C3G stimulates nucleotide exchange on Rap1	Complex56	Complex57	
+BiochemicalReaction38	(Frs2)Rap1-GTP binds to and activates B-Raf	Complex58	Complex59	
+BiochemicalReaction38	(Frs2)Rap1-GTP binds to and activates B-Raf	Complex57	Complex59	
+BiochemicalReaction39	ARMS:Crk complex binds to active TrkA receptor	Complex60	Complex61	
+BiochemicalReaction39	ARMS:Crk complex binds to active TrkA receptor	Complex1	Complex61	
+BiochemicalReaction4	GRB2:SOS binds to SHC-P	Protein7	Complex6	
+BiochemicalReaction4	GRB2:SOS binds to SHC-P	Complex5	Complex6	
+BiochemicalReaction40	ARMS is phosphorylated by active TrkA receptor	Complex61	Complex62	
+BiochemicalReaction40	ARMS is phosphorylated by active TrkA receptor	SmallMolecule3	Complex62	
+BiochemicalReaction40	ARMS is phosphorylated by active TrkA receptor	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction40	ARMS is phosphorylated by active TrkA receptor	Complex61	SmallMolecule4	
+BiochemicalReaction41	Crk's SH3 domain engages C3G	Complex62	Complex64	
+BiochemicalReaction42	C3G stimulates nucleotide exchange on Rap1	SmallMolecule1	Complex66	
+BiochemicalReaction42	C3G stimulates nucleotide exchange on Rap1	Complex65	Complex66	
+BiochemicalReaction42	C3G stimulates nucleotide exchange on Rap1	Complex65	SmallMolecule2	
+BiochemicalReaction42	C3G stimulates nucleotide exchange on Rap1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction43	(ARMS)Rap1-GTP binds and activates B-Raf	Complex67	Complex69	
+BiochemicalReaction43	(ARMS)Rap1-GTP binds and activates B-Raf	Complex68	Complex69	
+BiochemicalReaction43	(ARMS)Rap1-GTP binds and activates B-Raf	Complex68	Protein17	
+BiochemicalReaction43	(ARMS)Rap1-GTP binds and activates B-Raf	Complex67	Protein17	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule1	Complex8	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	Complex7	Complex8	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	Complex7	SmallMolecule2	
+BiochemicalReaction5	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	p-RAF binds 14-3-3 beta/alpha	Protein17	Complex9	
+BiochemicalReaction6	p-RAF binds 14-3-3 beta/alpha	Protein18	Complex9	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex9	Complex10	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex8	Complex10	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex8	Protein17	
+BiochemicalReaction7	Transient dissociation of 14-3-3 upon Ras binding	Complex9	Protein17	
+BiochemicalReaction8	Stabilisation of RAS:RAF by 14-3-3	Complex10	Complex11	
+BiochemicalReaction8	Stabilisation of RAS:RAF by 14-3-3	Protein17	Complex11	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	SmallMolecule3	Complex12	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	Complex11	Complex12	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	Complex11	SmallMolecule4	
+BiochemicalReaction9	Stabilisation of RAF by further phosphorylation	SmallMolecule3	SmallMolecule4	

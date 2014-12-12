@@ -1,0 +1,19 @@
+BiochemicalReaction1	N-linked glycosylation of WNTs	Protein1	Protein21	
+BiochemicalReaction10	WLS dissociates from retromer	Complex5	Protein83	
+BiochemicalReaction10	WLS dissociates from retromer	Complex5	Protein126	
+BiochemicalReaction10	WLS dissociates from retromer	Complex5	Complex3	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	Protein21	SmallMolecule2	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	SmallMolecule1	Protein41	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	Protein21	Protein41	
+BiochemicalReaction3	WNT ligands traffic to the Golgi	Protein41	Protein62	
+BiochemicalReaction4	WLS binds WNT ligands in the Golgi	Protein83	Complex1	
+BiochemicalReaction4	WLS binds WNT ligands in the Golgi	Protein62	Complex1	
+BiochemicalReaction5	WNT ligands traffic to the plasma membrane	Complex1	Complex2	
+BiochemicalReaction6	secretion of WNT ligands	Complex2	Protein104	
+BiochemicalReaction6	secretion of WNT ligands	Complex2	Protein105	
+BiochemicalReaction7	WLS is endocytosed to the early endosome	Protein104	Protein125	
+BiochemicalReaction8	Retromer associates with WLS	Protein126	Complex4	
+BiochemicalReaction8	Retromer associates with WLS	Complex3	Complex4	
+BiochemicalReaction8	Retromer associates with WLS	Protein125	Complex4	
+BiochemicalReaction9	Retromer recycles WLS to the Golgi	Complex4	Complex5	

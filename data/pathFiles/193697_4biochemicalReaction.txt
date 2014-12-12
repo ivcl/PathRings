@@ -1,0 +1,13 @@
+BiochemicalReaction1	p75NTR and RHOA-GDI interact	Complex1	Complex3	
+BiochemicalReaction1	p75NTR and RHOA-GDI interact	Protein3	Complex3	
+BiochemicalReaction2	NGF binding to p75NTR inactivates RHOA	Complex3	Complex5	
+BiochemicalReaction2	NGF binding to p75NTR inactivates RHOA	Complex4	Complex5	
+BiochemicalReaction3	p75NTR interacts with the NOGO receptor	PhysicalEntity1	Complex6	
+BiochemicalReaction3	p75NTR interacts with the NOGO receptor	Protein3	Complex6	
+BiochemicalReaction4	p75NTR:NgR complex interacts with the axonal inhibitor LINGO1	Protein5	Complex7	
+BiochemicalReaction4	p75NTR:NgR complex interacts with the axonal inhibitor LINGO1	Complex6	Complex7	
+BiochemicalReaction5	Myelin components can interact with p75NTR:NgR:LINGO1	Protein6	Complex8	
+BiochemicalReaction5	Myelin components can interact with p75NTR:NgR:LINGO1	Complex7	Complex8	
+BiochemicalReaction6	The p75NTR:NgR:MDGI complex reduces RHOA-GDI activity, displacing RHOA	Complex9	Complex10	
+BiochemicalReaction6	The p75NTR:NgR:MDGI complex reduces RHOA-GDI activity, displacing RHOA	Complex9	Complex2	
+BiochemicalReaction7	RhoA is activated by nucleotide exchange and inhibits axonal growth	Complex2	Complex11	

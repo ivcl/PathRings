@@ -1,0 +1,31 @@
+BiochemicalReaction1	Capping complex formation	Complex1	Complex7	
+BiochemicalReaction1	Capping complex formation	PhysicalEntity2	Complex7	
+BiochemicalReaction1	Capping complex formation	PhysicalEntity3	Complex7	
+BiochemicalReaction10	Activation of GT	Complex18	Complex17	
+BiochemicalReaction11	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex19	Complex18	
+BiochemicalReaction11	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein26	Complex18	
+BiochemicalReaction2	Hydrolysis of the 5'-end of the nascent transcript by the capping enzyme	Complex7	Complex8	
+BiochemicalReaction2	Hydrolysis of the 5'-end of the nascent transcript by the capping enzyme	Complex7	SmallMolecule1	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	Complex8	SmallMolecule3	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	SmallMolecule2	Complex9	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	Complex8	Complex9	
+BiochemicalReaction4	Transfer of GMP from the capping enzyme GT site to 5'-end of mRNA	Complex9	Complex11	
+BiochemicalReaction5	Dissociation of  transcript with 5'-GMP from GT	Complex11	Complex12	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	SmallMolecule6	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Protein1	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Protein1	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Complex13	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Complex13	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Complex14	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Complex14	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Complex5	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Complex5	
+BiochemicalReaction7	Recognition and binding of the mRNA cap by the cap-binding complex 	Complex13	Complex16	
+BiochemicalReaction7	Recognition and binding of the mRNA cap by the cap-binding complex 	Complex15	Complex16	
+BiochemicalReaction8	Formation of cap binding complex (CBC)	Protein27	Complex15	
+BiochemicalReaction8	Formation of cap binding complex (CBC)	Protein28	Complex15	
+BiochemicalReaction9	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein1	Complex1	
+BiochemicalReaction9	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein16	Complex1	
+BiochemicalReaction9	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex17	Complex1	

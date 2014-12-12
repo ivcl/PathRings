@@ -1,0 +1,133 @@
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex2	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex2	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	SmallMolecule1	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:Met	Complex1	Complex3	
+BiochemicalReaction10	ROCK activation by Rho	Protein22	Complex22	
+BiochemicalReaction10	ROCK activation by Rho	Complex21	Complex22	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	Complex24	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	Complex23	Complex24	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	Complex23	SmallMolecule2	
+BiochemicalReaction11	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	Protein37	SmallMolecule2	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	Protein37	Protein40	
+BiochemicalReaction12	LIM kinase phosphorylation by ROCK	SmallMolecule1	Protein40	
+BiochemicalReaction13	Plexin-A1-4 binds NRP1	Protein43	Complex26	
+BiochemicalReaction13	Plexin-A1-4 binds NRP1	Protein44	Complex26	
+BiochemicalReaction13	Plexin-A1-4 binds NRP1	Complex25	Complex26	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex28	Protein44	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex26	Protein44	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex26	Complex29	
+BiochemicalReaction14	Sema3A binds Nrp-1 bound to PlexinA	Complex28	Complex29	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Protein52	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Plexin-A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Complex29	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Complex29	Complex31	
+BiochemicalReaction15	Phosphorylation of Plexin-A	SmallMolecule1	Complex31	
+BiochemicalReaction15	Phosphorylation of Plexin-A	Protein52	Complex31	
+BiochemicalReaction16	Activation of Rac1 by FARP2	SmallMolecule3	Complex5	
+BiochemicalReaction16	Activation of Rac1 by FARP2	Complex34	Complex5	
+BiochemicalReaction16	Activation of Rac1 by FARP2	Complex34	SmallMolecule8	
+BiochemicalReaction16	Activation of Rac1 by FARP2	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction17	Rac1 binds PlexinA	Complex31	Complex35	
+BiochemicalReaction17	Rac1 binds PlexinA	Complex5	Complex35	
+BiochemicalReaction18	Recruitment of Rnd1 to Plexin A	Complex7	Complex36	
+BiochemicalReaction18	Recruitment of Rnd1 to Plexin A	Complex35	Complex36	
+BiochemicalReaction19	Inactivation of R-Ras by Sema3A-Plexin-A GAP activity	Complex9	SmallMolecule5	
+BiochemicalReaction19	Inactivation of R-Ras by Sema3A-Plexin-A GAP activity	Complex9	Complex10	
+BiochemicalReaction2	Active Rac1 interacts with Plexin-B1:Sema4D	Complex5	Complex6	
+BiochemicalReaction2	Active Rac1 interacts with Plexin-B1:Sema4D	Complex3	Complex6	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Complex37	Complex38	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Protein44	Complex38	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Protein44	Protein58	
+BiochemicalReaction20	Inhibition of integrin activation by sequestering PIP5KIgamma	Complex37	Protein58	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex39	Protein60	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex35	Protein60	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex35	Complex40	
+BiochemicalReaction21	Activation of PAK by Rac1	Complex39	Complex40	
+BiochemicalReaction22	Autophosphorylation of PAK	SmallMolecule1	Complex41	
+BiochemicalReaction22	Autophosphorylation of PAK	Complex40	Complex41	
+BiochemicalReaction22	Autophosphorylation of PAK	Complex40	SmallMolecule2	
+BiochemicalReaction22	Autophosphorylation of PAK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	Protein38	SmallMolecule2	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	Protein38	Protein41	
+BiochemicalReaction23	Phosphorylation of LIMK-1 by PAK	SmallMolecule1	Protein41	
+BiochemicalReaction24	Dimerization of LIMK1 by Hsp90	Protein66	Complex42	
+BiochemicalReaction24	Dimerization of LIMK1 by Hsp90	Protein41	Complex42	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	SmallMolecule1	Protein66	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	Complex42	Protein66	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	Complex42	SmallMolecule2	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	Complex42	Complex43	
+BiochemicalReaction25	Transphosphorylation of pLIMK1	SmallMolecule1	Complex43	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Protein70	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Complex43	SmallMolecule2	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Complex43	Complex44	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	SmallMolecule1	Complex44	
+BiochemicalReaction26	Phosphorylation of cofilin by LIMK-1	Protein70	Complex44	
+BiochemicalReaction27	Activation of Fyn	Complex28	Complex47	
+BiochemicalReaction27	Activation of Fyn	Complex45	Complex47	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex48	Complex49	
+BiochemicalReaction28	Recruitment and activation of Cdk5	SmallMolecule1	Complex49	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex47	Complex49	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex47	SmallMolecule2	
+BiochemicalReaction28	Recruitment and activation of Cdk5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	Recruitment and activation of Cdk5	Complex48	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex49	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex54	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	SmallMolecule1	Complex55	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex54	Complex55	
+BiochemicalReaction29	Phosphorylation of CRMPs by Cdk5	Complex49	Complex55	
+BiochemicalReaction3	Rnd1 interacts with Plexin-B1:Sema4D	Complex7	Complex8	
+BiochemicalReaction3	Rnd1 interacts with Plexin-B1:Sema4D	Complex3	Complex8	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	Complex55	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	Complex55	Complex59	
+BiochemicalReaction30	Phosphorylation of CRMPs by GSK3beta	SmallMolecule1	Complex59	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex54	SmallMolecule2	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex31	SmallMolecule2	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	SmallMolecule1	Complex63	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex31	Complex63	
+BiochemicalReaction31	Tyrosine phosphorylation of CRMPs by Fes	Complex54	Complex63	
+BiochemicalReaction32	SEMA3E binds to PLXND1	Protein98	Complex65	
+BiochemicalReaction32	SEMA3E binds to PLXND1	Protein99	Complex65	
+BiochemicalReaction33	SEMA4A binds to PLXND1	Protein98	Complex66	
+BiochemicalReaction33	SEMA4A binds to PLXND1	Protein100	Complex66	
+BiochemicalReaction34	SEMA4D interacts with CD45	Protein1	Complex67	
+BiochemicalReaction34	SEMA4D interacts with CD45	Protein101	Complex67	
+BiochemicalReaction35	SEMA4D interacts with CD72	Protein1	Complex68	
+BiochemicalReaction35	SEMA4D interacts with CD72	Protein102	Complex68	
+BiochemicalReaction36	SEMA5A binds to PLXNB3	Protein103	Complex69	
+BiochemicalReaction36	SEMA5A binds to PLXNB3	Protein104	Complex69	
+BiochemicalReaction37	SEMA6A binds to PLXNA2 and PLXNA4	Protein105	Complex70	
+BiochemicalReaction37	SEMA6A binds to PLXNA2 and PLXNA4	Protein106	Complex70	
+BiochemicalReaction38	SEMA6D binds to PLXNA1:TREM2:DAP12	Complex71	Complex74	
+BiochemicalReaction38	SEMA6D binds to PLXNA1:TREM2:DAP12	Protein109	Complex74	
+BiochemicalReaction39	SEMA7A binds to PLXNC1	Protein110	Complex75	
+BiochemicalReaction39	SEMA7A binds to PLXNC1	Protein111	Complex75	
+BiochemicalReaction4	Inactivation of R-Ras by Sema4D-Plexin-B1 GAP activity	Complex9	SmallMolecule5	
+BiochemicalReaction4	Inactivation of R-Ras by Sema4D-Plexin-B1 GAP activity	Complex9	Complex10	
+BiochemicalReaction40	SEMA7A binds to integrin alpha1beta1	Complex76	Complex77	
+BiochemicalReaction40	SEMA7A binds to integrin alpha1beta1	Protein110	Complex77	
+BiochemicalReaction5	p190RhoGAP binds Plexin-B1	Complex8	Complex11	
+BiochemicalReaction5	p190RhoGAP binds Plexin-B1	Protein8	Complex11	
+BiochemicalReaction6	Inactivation of Rho-GTP by p190RhoGAP	Complex12	SmallMolecule5	
+BiochemicalReaction6	Inactivation of Rho-GTP by p190RhoGAP	Complex12	Complex13	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex14	SmallMolecule2	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex14	Complex15	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	Complex15	
+BiochemicalReaction7	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	Complex15	
+BiochemicalReaction8	LARG and PDZ-RhoGEF binds to Plexin-B1	Complex17	Complex19	
+BiochemicalReaction8	LARG and PDZ-RhoGEF binds to Plexin-B1	Protein16	Complex19	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	Complex21	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	Complex20	Complex21	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	Complex20	SmallMolecule8	
+BiochemicalReaction9	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	SmallMolecule8	

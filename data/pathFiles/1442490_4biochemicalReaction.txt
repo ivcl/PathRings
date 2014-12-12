@@ -1,0 +1,39 @@
+BiochemicalReaction1	Collagen type I degradation by MMP1,2,8,13, PRSS2	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction10	Collagen type III degradation by MMP15	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction11	Collagen type IV degradation by MMP2,3,4,9,10,12	PhysicalEntity7	PhysicalEntity11	
+BiochemicalReaction12	Collagen type V degradation by MMP2,9,10	PhysicalEntity15	PhysicalEntity16	
+BiochemicalReaction13	Collagen type VI degradation by MMP2,9,11	PhysicalEntity17	PhysicalEntity18	
+BiochemicalReaction14	Collagen type VII degradation by MMP1,2,3	PhysicalEntity19	PhysicalEntity20	
+BiochemicalReaction15	Collagen type VIII degradation by MMP1	PhysicalEntity21	PhysicalEntity22	
+BiochemicalReaction16	Collagen type VIII degradation by ELANE	PhysicalEntity21	PhysicalEntity22	
+BiochemicalReaction17	Collagen type IX degradation by MMP3,13	Complex1	Complex2	
+BiochemicalReaction18	Collagen type X degradation by MMP1,2	PhysicalEntity23	PhysicalEntity24	
+BiochemicalReaction19	Collagen type X degradation by MMP3, 13	PhysicalEntity23	PhysicalEntity24	
+BiochemicalReaction2	Collagen type I degradation by MMP14	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction20	Collagen type XI degradation by MMP1,2,3,9	PhysicalEntity25	PhysicalEntity26	
+BiochemicalReaction21	Collagen type XII degradation by MMP12	Complex3	Complex4	
+BiochemicalReaction22	Collagen type XIV degradation by MMP9,13	Complex5	Complex6	
+BiochemicalReaction23	Collagen type XV restin release	PhysicalEntity27	Protein217	
+BiochemicalReaction23	Collagen type XV restin release	PhysicalEntity27	PhysicalEntity28	
+BiochemicalReaction24	Collagen type XVI degradation by MMP9	Complex7	Complex8	
+BiochemicalReaction25	Collagen type XVIII endostatin release	PhysicalEntity29	Protein268	
+BiochemicalReaction25	Collagen type XVIII endostatin release	PhysicalEntity29	PhysicalEntity30	
+BiochemicalReaction26	Collagen type XIII ectodomain shedding	Complex13	Protein315	
+BiochemicalReaction26	Collagen type XIII ectodomain shedding	Complex13	Complex14	
+BiochemicalReaction27	Collagen type XVII ectodomain shedding	Complex15	Complex16	
+BiochemicalReaction27	Collagen type XVII ectodomain shedding	Complex15	Protein367	
+BiochemicalReaction28	Collagen type XXIII ectodomain shedding	Complex17	Protein397	
+BiochemicalReaction28	Collagen type XXIII ectodomain shedding	Complex17	Complex18	
+BiochemicalReaction29	Collagen type XXV ectomain shedding	Complex19	Protein437	
+BiochemicalReaction29	Collagen type XXV ectomain shedding	Complex19	Complex20	
+BiochemicalReaction3	Collagen type I degradation by MMP15	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction4	Collagen type II degradation by MMP1,3,8,13,PRSS2	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction5	Collagen type II degradation by MMP14	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction6	Collagen type II degradation by MMP15	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction7	Collagen type III degradation by MMP1,8,9,13	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction8	Collagen type III degradation by MMP10	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction9	Collagen type III degradation by MMP14	PhysicalEntity5	PhysicalEntity6	
+Degradation1	Endostatin degradation by cathepsins	Protein268	NA	
+Degradation2	Collagen type XIX degradation	Complex12	NA	
+Degradation3	Gelatin degradation by MMP1, 2, 3, 7, 8, 9, 12, 13	PhysicalEntity33	NA	
+Degradation4	Gelatin degradation by MMP19	PhysicalEntity33	NA	

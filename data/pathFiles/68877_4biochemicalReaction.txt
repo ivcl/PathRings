@@ -1,0 +1,44 @@
+BiochemicalReaction1	Kinetochore capture of astral microtubules	Complex1	Complex13	
+BiochemicalReaction1	Kinetochore capture of astral microtubules	PhysicalEntity2	Complex13	
+BiochemicalReaction10	CK2 phosphorylates condensin I subunits	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	CK2 phosphorylates condensin I subunits	Complex41	SmallMolecule2	
+BiochemicalReaction10	CK2 phosphorylates condensin I subunits	Complex41	Complex42	
+BiochemicalReaction10	CK2 phosphorylates condensin I subunits	SmallMolecule1	Complex42	
+BiochemicalReaction11	Dephosphorylation of CK2-modified condensin I	Complex42	SmallMolecule6	
+BiochemicalReaction11	Dephosphorylation of CK2-modified condensin I	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction11	Dephosphorylation of CK2-modified condensin I	SmallMolecule5	Complex41	
+BiochemicalReaction11	Dephosphorylation of CK2-modified condensin I	Complex42	Complex41	
+BiochemicalReaction12	CDK1 phosphorylates condensin I	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	CDK1 phosphorylates condensin I	Complex41	SmallMolecule2	
+BiochemicalReaction12	CDK1 phosphorylates condensin I	Complex41	Complex44	
+BiochemicalReaction12	CDK1 phosphorylates condensin I	SmallMolecule1	Complex44	
+BiochemicalReaction13	Phosphorylated condensin I promotes condensation of prometaphase chromosomes	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction2	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex14	SmallMolecule2	
+BiochemicalReaction2	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex14	Complex17	
+BiochemicalReaction2	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule1	Complex17	
+BiochemicalReaction3	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex17	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule1	Complex22	
+BiochemicalReaction3	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex17	Complex22	
+BiochemicalReaction4	Resolution of sister chromatids	Complex22	Protein107	
+BiochemicalReaction4	Resolution of sister chromatids	Complex22	Complex25	
+BiochemicalReaction4	Resolution of sister chromatids	Complex22	PhysicalEntity3	
+BiochemicalReaction5	Deacetylation of cohesin	Complex25	SmallMolecule4	
+BiochemicalReaction5	Deacetylation of cohesin	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Deacetylation of cohesin	SmallMolecule3	Complex27	
+BiochemicalReaction5	Deacetylation of cohesin	Complex25	Complex27	
+BiochemicalReaction6	Kinetochore assembly	Complex29	Complex33	
+BiochemicalReaction6	Kinetochore assembly	Complex13	Complex33	
+BiochemicalReaction7	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex33	SmallMolecule2	
+BiochemicalReaction7	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule1	Complex36	
+BiochemicalReaction7	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex33	Complex36	
+BiochemicalReaction8	Phosphorylation of cohesin by PLK1 at centromeres	Complex36	Complex37	
+BiochemicalReaction8	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule1	Complex37	
+BiochemicalReaction8	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of cohesin by PLK1 at centromeres	Complex36	SmallMolecule2	
+BiochemicalReaction9	PP2A-B56 dephosphorylates centromeric cohesin	Complex37	Complex39	
+BiochemicalReaction9	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule5	Complex39	
+BiochemicalReaction9	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction9	PP2A-B56 dephosphorylates centromeric cohesin	Complex37	SmallMolecule6	

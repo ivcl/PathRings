@@ -1,0 +1,38 @@
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	PhysicalEntity1	SmallMolecule2	
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	PhysicalEntity1	SmallMolecule3	
+BiochemicalReaction1	Digestion of linear starch (amylose) by extracellular amylase	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction10	trehalose + H2O => 2 D-glucose	SmallMolecule10	SmallMolecule5	
+BiochemicalReaction10	trehalose + H2O => 2 D-glucose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	PhysicalEntity2	SmallMolecule4	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	PhysicalEntity2	SmallMolecule2	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Digestion of branched starch (amylopectin) by extracellular amylase	PhysicalEntity2	SmallMolecule3	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction3	Digestion of 1-6 linkages of limit dextrins to yield maltose, maltotriose, longer maltosides, and glucose	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction4	maltotriose + H2O => maltose + D-glucose (maltase-glucoamylase)	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction5	maltotriose + H2O => maltose + D-glucose (sucrase-isomaltase)	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction6	maltose + H2O => 2 D-glucose (maltase-glucoamylase)	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction6	maltose + H2O => 2 D-glucose (maltase-glucoamylase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction7	maltose + H2O => 2 D-glucose (sucrase-isomaltase)	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction7	maltose + H2O => 2 D-glucose (sucrase-isomaltase)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction8	lactose + H2O => D-glucose + D-galactose	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction9	sucrose + H2O => glucose + fructose	SmallMolecule8	SmallMolecule9	

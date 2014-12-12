@@ -1,0 +1,51 @@
+BiochemicalReaction1	PDI is a chaperone for collagen peptides	Protein1	Complex1	
+BiochemicalReaction1	PDI is a chaperone for collagen peptides	Protein46	Complex1	
+BiochemicalReaction10	Dimerization of procollagen type VI	Complex85	Complex86	
+BiochemicalReaction11	Tetramerization of procollagen VI	Complex86	Complex87	
+BiochemicalReaction12	Secretion of collagens	Complex88	PhysicalEntity41	
+BiochemicalReaction12	Secretion of collagens	Complex88	Protein599	
+BiochemicalReaction13	Secretion of transmembrane collagens	Complex80	Complex121	
+BiochemicalReaction14	Removal of fibrillar collagen N-propeptides	PhysicalEntity42	PhysicalEntity45	
+BiochemicalReaction15	Removal of fibrillar collagen C-propeptides	PhysicalEntity45	PhysicalEntity46	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	SmallMolecule4	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	Complex8	SmallMolecule9	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	SmallMolecule8	Complex13	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	Complex8	Complex13	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	Complex8	SmallMolecule9	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	SmallMolecule8	Complex13	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	Complex8	Complex13	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	Complex13	SmallMolecule9	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	SmallMolecule10	Complex14	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	Complex13	Complex14	
+BiochemicalReaction8	Association of procollagen chains	PhysicalEntity6	PhysicalEntity36	
+BiochemicalReaction9	Procollagen triple helix formation	Protein599	Complex49	
+BiochemicalReaction9	Procollagen triple helix formation	PhysicalEntity36	Complex49	

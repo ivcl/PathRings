@@ -1,0 +1,19 @@
+BiochemicalReaction1	Assembly of an Active Transcription Complex	PhysicalEntity1	Complex3	
+BiochemicalReaction1	Assembly of an Active Transcription Complex	Complex1	Complex3	
+BiochemicalReaction1	Assembly of an Active Transcription Complex	Complex2	Complex3	
+BiochemicalReaction2	Priming and Initiation of Transcription	Complex3	PhysicalEntity3	
+BiochemicalReaction2	Priming and Initiation of Transcription	Complex3	Complex8	
+BiochemicalReaction3	Elongation of viral mRNA	Complex8	Complex9	
+BiochemicalReaction3	Elongation of viral mRNA	SmallMolecule2	Complex9	
+BiochemicalReaction4	Polyadenylation and Termination	Complex9	Complex1	
+BiochemicalReaction4	Polyadenylation and Termination	Complex9	Rna20	
+BiochemicalReaction4	Polyadenylation and Termination	Complex9	Complex2	
+BiochemicalReaction5	Viral mRNA Splicing (M, NS segments)	Rna16	Rna17	
+BiochemicalReaction5	Viral mRNA Splicing (M, NS segments)	Rna12	Rna17	
+BiochemicalReaction5	Viral mRNA Splicing (M, NS segments)	Rna12	Rna13	
+BiochemicalReaction5	Viral mRNA Splicing (M, NS segments)	Rna16	Rna13	
+BiochemicalReaction6	Export of Spliced Viral mRNA	Rna17	Rna21	
+BiochemicalReaction6	Export of Spliced Viral mRNA	Rna13	Rna21	
+BiochemicalReaction6	Export of Spliced Viral mRNA	Rna13	Rna22	
+BiochemicalReaction6	Export of Spliced Viral mRNA	Rna17	Rna22	
+BiochemicalReaction7	Viral mRNA Export	Rna20	Rna23	

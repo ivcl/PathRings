@@ -1,0 +1,16 @@
+BiochemicalReaction1	KSRP Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity1	Complex1	
+BiochemicalReaction1	KSRP Binds AU-rich Element in 3' UTR of mRNA	Protein1	Complex1	
+BiochemicalReaction2	KSRP Recruits RNA Degradation Activities	Complex2	Complex4	
+BiochemicalReaction2	KSRP Recruits RNA Degradation Activities	Protein12	Complex4	
+BiochemicalReaction2	KSRP Recruits RNA Degradation Activities	Complex1	Complex4	
+BiochemicalReaction2	KSRP Recruits RNA Degradation Activities	Protein13	Complex4	
+BiochemicalReaction3	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein1	Protein14	
+BiochemicalReaction3	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule1	Protein14	
+BiochemicalReaction4	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein14	Complex5	
+BiochemicalReaction4	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein16	Complex5	
+BiochemicalReaction5	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of KSRP by MAP kinase p38	Protein1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of KSRP by MAP kinase p38	Protein1	Protein18	
+BiochemicalReaction5	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule1	Protein18	

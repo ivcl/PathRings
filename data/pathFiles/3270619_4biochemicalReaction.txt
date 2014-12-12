@@ -1,0 +1,15 @@
+BiochemicalReaction1	STING recruits TBK1 and IRF3	Protein1	Complex2	
+BiochemicalReaction1	STING recruits TBK1 and IRF3	Complex1	Complex2	
+BiochemicalReaction1	STING recruits TBK1 and IRF3	Protein3	Complex2	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	Complex2	SmallMolecule6	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	SmallMolecule5	Complex9	
+BiochemicalReaction2	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	Complex2	Complex9	
+BiochemicalReaction3	IRF3 is phosphorylated by TBK1	Complex9	SmallMolecule6	
+BiochemicalReaction3	IRF3 is phosphorylated by TBK1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	IRF3 is phosphorylated by TBK1	SmallMolecule5	Complex10	
+BiochemicalReaction3	IRF3 is phosphorylated by TBK1	Complex9	Complex10	
+BiochemicalReaction3	IRF3 is phosphorylated by TBK1	SmallMolecule5	Protein12	
+BiochemicalReaction3	IRF3 is phosphorylated by TBK1	Complex9	Protein12	
+BiochemicalReaction4	p-T,4S-IRF3 is dimerized	Protein12	Complex16	
+BiochemicalReaction5	Dimerized phospho-IRF3 migrates to the nucleus	Complex16	Complex17	

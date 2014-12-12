@@ -1,0 +1,55 @@
+BiochemicalReaction1	Co-transport (influx) of bile salts and acids and sodium ions by ASBT	Protein1	SmallMolecule9	
+BiochemicalReaction1	Co-transport (influx) of bile salts and acids and sodium ions by ASBT	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction1	Co-transport (influx) of bile salts and acids and sodium ions by ASBT	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction1	Co-transport (influx) of bile salts and acids and sodium ions by ASBT	SmallMolecule2	Complex1	
+BiochemicalReaction1	Co-transport (influx) of bile salts and acids and sodium ions by ASBT	SmallMolecule1	Complex1	
+BiochemicalReaction1	Co-transport (influx) of bile salts and acids and sodium ions by ASBT	Protein1	Complex1	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Protein5	SmallMolecule18	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Complex1	SmallMolecule18	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Complex1	Complex2	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	SmallMolecule17	Complex2	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Protein5	Complex2	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Complex1	SmallMolecule19	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Protein5	SmallMolecule19	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Complex1	Protein1	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	SmallMolecule17	Protein1	
+BiochemicalReaction2	Transport (efflux) of bile salts by ABCC3 (MRP3)	Protein5	Protein1	
+BiochemicalReaction3	Co-transport (influx) of bile salts and sodium ions by NTCP	SmallMolecule1	Protein5	
+BiochemicalReaction3	Co-transport (influx) of bile salts and sodium ions by NTCP	Complex3	Protein5	
+BiochemicalReaction3	Co-transport (influx) of bile salts and sodium ions by NTCP	Complex3	SmallMolecule9	
+BiochemicalReaction3	Co-transport (influx) of bile salts and sodium ions by NTCP	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction3	Co-transport (influx) of bile salts and sodium ions by NTCP	Complex3	SmallMolecule21	
+BiochemicalReaction3	Co-transport (influx) of bile salts and sodium ions by NTCP	SmallMolecule1	SmallMolecule21	
+BiochemicalReaction4	Transport (influx) of bile salts and acids by OATP-A	Complex4	Protein5	
+BiochemicalReaction4	Transport (influx) of bile salts and acids by OATP-A	Complex4	SmallMolecule23	
+BiochemicalReaction5	Transport (influx) of glycocholate and taurocholate by OATP-C	Complex5	Protein5	
+BiochemicalReaction5	Transport (influx) of glycocholate and taurocholate by OATP-C	Complex5	SmallMolecule25	
+BiochemicalReaction6	Transport (influx) of glycocholate and taurocholate by OATP-8	Complex5	Protein5	
+BiochemicalReaction6	Transport (influx) of glycocholate and taurocholate by OATP-8	Complex5	SmallMolecule25	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule17	SmallMolecule28	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule17	SmallMolecule29	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule17	SmallMolecule30	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule26	SmallMolecule30	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule17	SmallMolecule31	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule27	SmallMolecule31	
+BiochemicalReaction7	Cytosolic cholate and chenodeoxycholate are conjugated with Coenzyme A (SLC27A5 BACS)	SmallMolecule26	SmallMolecule31	
+BiochemicalReaction8	Cytosolic chenodeoxycholoyl-CoA or choloyl-CoA are conjugated with glycine or taurine	SmallMolecule34	SmallMolecule21	
+BiochemicalReaction8	Cytosolic chenodeoxycholoyl-CoA or choloyl-CoA are conjugated with glycine or taurine	SmallMolecule31	SmallMolecule21	
+BiochemicalReaction8	Cytosolic chenodeoxycholoyl-CoA or choloyl-CoA are conjugated with glycine or taurine	SmallMolecule31	SmallMolecule27	
+BiochemicalReaction8	Cytosolic chenodeoxycholoyl-CoA or choloyl-CoA are conjugated with glycine or taurine	SmallMolecule34	SmallMolecule27	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule21	SmallMolecule18	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule30	SmallMolecule18	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule30	SmallMolecule19	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule21	SmallMolecule19	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule30	SmallMolecule20	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule17	SmallMolecule20	
+BiochemicalReaction9	Transport (efflux) of bile salts by ABCB11 (bile salt export pump)	SmallMolecule21	SmallMolecule20	

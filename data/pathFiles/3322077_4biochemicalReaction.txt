@@ -1,0 +1,72 @@
+BiochemicalReaction1	alpha-D-Glucose 6-phosphate <=> D-Glucose 1-phosphate	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-a	Complex13	Complex16	
+BiochemicalReaction11	GBE1 catalyzes branch formation in polyGlc-GYG1 complexed with GYS1-b	Complex14	Complex17	
+BiochemicalReaction12	GBE1 catalyzes branch formation in polyGlc-GYG2 complexed with GYS2-a	Complex15	Complex18	
+BiochemicalReaction13	PPP1R3C binds to glycogen:GYG1:GYS1	Complex16	Complex19	
+BiochemicalReaction13	PPP1R3C binds to glycogen:GYG1:GYS1	Protein17	Complex19	
+BiochemicalReaction14	PPP1R3C binds to glycogen:GYG2:GYS2	Complex18	Complex20	
+BiochemicalReaction14	PPP1R3C binds to glycogen:GYG2:GYS2	Protein17	Complex20	
+BiochemicalReaction15	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	Complex19	SmallMolecule8	
+BiochemicalReaction15	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction15	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	SmallMolecule6	Complex21	
+BiochemicalReaction15	GYS1 catalyzes the incorporation of phosphoglucose into glycogen-GYG1	Complex19	Complex21	
+BiochemicalReaction16	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	Complex20	SmallMolecule8	
+BiochemicalReaction16	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction16	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	SmallMolecule6	Complex22	
+BiochemicalReaction16	GYS2 catalyzes the incorporation of phosphoglucose into glycogen-GYG2	Complex20	Complex22	
+BiochemicalReaction17	EPM2A binds PPP1R3C:phosphoglycogen-GYG1 complex	Protein20	Complex23	
+BiochemicalReaction17	EPM2A binds PPP1R3C:phosphoglycogen-GYG1 complex	Complex21	Complex23	
+BiochemicalReaction18	EPM2A binds PPP1R3C:phosphoglycogen-GYG2 complex	Protein20	Complex24	
+BiochemicalReaction18	EPM2A binds PPP1R3C:phosphoglycogen-GYG2 complex	Complex22	Complex24	
+BiochemicalReaction19	EPM2A dephosphorylates phosphoglycogen-GYG1	Complex23	SmallMolecule10	
+BiochemicalReaction19	EPM2A dephosphorylates phosphoglycogen-GYG1	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction19	EPM2A dephosphorylates phosphoglycogen-GYG1	SmallMolecule9	Complex25	
+BiochemicalReaction19	EPM2A dephosphorylates phosphoglycogen-GYG1	Complex23	Complex25	
+BiochemicalReaction2	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction2	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction2	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	UTP + D-glucose 1-phosphate <=> pyrophosphate + UDP-glucose	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction20	EPM2A dephosphorylates phosphoglycogen-GYG2	Complex24	SmallMolecule10	
+BiochemicalReaction20	EPM2A dephosphorylates phosphoglycogen-GYG2	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction20	EPM2A dephosphorylates phosphoglycogen-GYG2	SmallMolecule9	Complex26	
+BiochemicalReaction20	EPM2A dephosphorylates phosphoglycogen-GYG2	Complex24	Complex26	
+BiochemicalReaction21	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein21	Protein36	
+BiochemicalReaction21	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex25	Protein36	
+BiochemicalReaction21	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex25	Complex16	
+BiochemicalReaction21	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein21	Complex16	
+BiochemicalReaction21	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Complex25	Protein37	
+BiochemicalReaction21	NHLRC1 mediated ubiquitination of EPM2A and PPP1RC3 associated with glycogen-GYG1	Protein21	Protein37	
+BiochemicalReaction22	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein21	Complex18	
+BiochemicalReaction22	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex26	Complex18	
+BiochemicalReaction22	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex26	Protein36	
+BiochemicalReaction22	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein21	Protein36	
+BiochemicalReaction22	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Complex26	Protein37	
+BiochemicalReaction22	NHLRC1 mediated ubiquitination of EPM2A (laforin) and PPP1RC3 (PTG) associated with glycogen-GYG2	Protein21	Protein37	
+BiochemicalReaction3	Autoglucosylation of GYG1 complexed with GYS1-a	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	Autoglucosylation of GYG1 complexed with GYS1-a	Complex5	SmallMolecule7	
+BiochemicalReaction3	Autoglucosylation of GYG1 complexed with GYS1-a	Complex5	Complex6	
+BiochemicalReaction3	Autoglucosylation of GYG1 complexed with GYS1-a	SmallMolecule6	Complex6	
+BiochemicalReaction4	Autoglucosylation of GYG1 complexed with GYS1-b	Complex7	SmallMolecule7	
+BiochemicalReaction4	Autoglucosylation of GYG1 complexed with GYS1-b	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	Autoglucosylation of GYG1 complexed with GYS1-b	SmallMolecule6	Complex8	
+BiochemicalReaction4	Autoglucosylation of GYG1 complexed with GYS1-b	Complex7	Complex8	
+BiochemicalReaction5	Autoglucosylation of GYG2 complexed with GYS2-a	Complex9	SmallMolecule7	
+BiochemicalReaction5	Autoglucosylation of GYG2 complexed with GYS2-a	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	Autoglucosylation of GYG2 complexed with GYS2-a	SmallMolecule6	Complex10	
+BiochemicalReaction5	Autoglucosylation of GYG2 complexed with GYS2-a	Complex9	Complex10	
+BiochemicalReaction6	Autoglucosylation of GYG2 complexed with GYS2-b	Complex11	SmallMolecule7	
+BiochemicalReaction6	Autoglucosylation of GYG2 complexed with GYS2-b	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction6	Autoglucosylation of GYG2 complexed with GYS2-b	SmallMolecule6	Complex12	
+BiochemicalReaction6	Autoglucosylation of GYG2 complexed with GYS2-b	Complex11	Complex12	
+BiochemicalReaction7	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex6	SmallMolecule7	
+BiochemicalReaction7	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction7	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule6	Complex13	
+BiochemicalReaction7	GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex6	Complex13	
+BiochemicalReaction8	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex8	SmallMolecule7	
+BiochemicalReaction8	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction8	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	SmallMolecule6	Complex14	
+BiochemicalReaction8	Phosphorylated GYS1 catalyzes the polyglucosylation of oligoGlc-GYG1	Complex8	Complex14	
+BiochemicalReaction9	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	SmallMolecule6	Complex15	
+BiochemicalReaction9	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	Complex10	Complex15	
+BiochemicalReaction9	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	Complex10	SmallMolecule7	
+BiochemicalReaction9	GYS2 catalyzes the polyglucosylation of oligoGlc-GYG2	SmallMolecule6	SmallMolecule7	

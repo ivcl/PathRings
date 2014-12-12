@@ -1,0 +1,123 @@
+BiochemicalReaction1	Opioid binds MOR	Protein1	Complex1	
+BiochemicalReaction1	Opioid binds MOR	Protein5	Complex1	
+BiochemicalReaction10	PIP2 hydrolysis	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction10	PIP2 hydrolysis	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction10	PIP2 hydrolysis	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction10	PIP2 hydrolysis	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction11	Inactivation of PLC beta	Complex12	SmallMolecule7	
+BiochemicalReaction11	Inactivation of PLC beta	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction11	Inactivation of PLC beta	SmallMolecule4	Protein34	
+BiochemicalReaction11	Inactivation of PLC beta	Complex12	Protein34	
+BiochemicalReaction11	Inactivation of PLC beta	SmallMolecule4	Complex11	
+BiochemicalReaction11	Inactivation of PLC beta	Complex12	Complex11	
+BiochemicalReaction12	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule5	Complex14	
+BiochemicalReaction12	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex13	Complex14	
+BiochemicalReaction13	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction14	Phosphorylation of cPLA2 by ERK-2	Protein43	Protein44	
+BiochemicalReaction14	Phosphorylation of cPLA2 by ERK-2	SmallMolecule10	Protein44	
+BiochemicalReaction14	Phosphorylation of cPLA2 by ERK-2	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction14	Phosphorylation of cPLA2 by ERK-2	Protein43	SmallMolecule11	
+BiochemicalReaction15	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	Protein44	Complex15	
+BiochemicalReaction15	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	SmallMolecule12	Complex15	
+BiochemicalReaction15	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	SmallMolecule9	Complex15	
+BiochemicalReaction16	Hydrolysis of phosphatidylcholine	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction16	Hydrolysis of phosphatidylcholine	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction16	Hydrolysis of phosphatidylcholine	SmallMolecule4	SmallMolecule15	
+BiochemicalReaction16	Hydrolysis of phosphatidylcholine	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction17	Calcium binds calmodulin	SmallMolecule9	Complex16	
+BiochemicalReaction17	Calcium binds calmodulin	Protein46	Complex16	
+BiochemicalReaction18	Adenylate cyclase produces cAMP	SmallMolecule10	SmallMolecule16	
+BiochemicalReaction18	Adenylate cyclase produces cAMP	SmallMolecule10	SmallMolecule17	
+BiochemicalReaction19	cAMP induces dissociation of inactive PKA tetramers	Complex19	Protein62	
+BiochemicalReaction19	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule16	Protein62	
+BiochemicalReaction19	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule16	Complex20	
+BiochemicalReaction19	cAMP induces dissociation of inactive PKA tetramers	Complex19	Complex20	
+BiochemicalReaction2	The high affinity receptor complex binds to G-protein	Complex1	Complex5	
+BiochemicalReaction2	The high affinity receptor complex binds to G-protein	Complex2	Complex5	
+BiochemicalReaction20	PKA catalytic subunit translocates to the nucleus	Protein62	Protein66	
+BiochemicalReaction21	PKA phosphorylates CREB	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction21	PKA phosphorylates CREB	Protein70	SmallMolecule20	
+BiochemicalReaction21	PKA phosphorylates CREB	Protein70	Protein71	
+BiochemicalReaction21	PKA phosphorylates CREB	SmallMolecule19	Protein71	
+BiochemicalReaction22	Dimerisation of CREB	Protein71	Complex21	
+BiochemicalReaction23	Calmodulin binds CaMK IV	Complex16	Complex22	
+BiochemicalReaction23	Calmodulin binds CaMK IV	Protein72	Complex22	
+BiochemicalReaction24	CamKIV enters the nucleus	Complex22	Complex23	
+BiochemicalReaction25	CaMK IV autophosphorylation	Complex23	Complex25	
+BiochemicalReaction25	CaMK IV autophosphorylation	SmallMolecule19	Complex25	
+BiochemicalReaction25	CaMK IV autophosphorylation	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction25	CaMK IV autophosphorylation	Complex23	SmallMolecule20	
+BiochemicalReaction26	CaMK IV phosphorylates CREB	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction26	CaMK IV phosphorylates CREB	Protein70	SmallMolecule20	
+BiochemicalReaction26	CaMK IV phosphorylates CREB	Protein70	Protein71	
+BiochemicalReaction26	CaMK IV phosphorylates CREB	SmallMolecule19	Protein71	
+BiochemicalReaction27	Calmodulin activates Cam-PDE 1	Complex27	Complex31	
+BiochemicalReaction28	cAMP hydrolysis by Cam-PDE 1	SmallMolecule16	SmallMolecule22	
+BiochemicalReaction28	cAMP hydrolysis by Cam-PDE 1	SmallMolecule4	SmallMolecule22	
+BiochemicalReaction29	Inhibition of GRK2 by calmodulin	Protein79	Complex32	
+BiochemicalReaction29	Inhibition of GRK2 by calmodulin	Protein46	Complex32	
+BiochemicalReaction3	The receptor:G-protein complex releases GDP	Complex5	Complex6	
+BiochemicalReaction3	The receptor:G-protein complex releases GDP	Complex5	SmallMolecule1	
+BiochemicalReaction30	PKC phosphorylates GRK2	Protein79	SmallMolecule11	
+BiochemicalReaction30	PKC phosphorylates GRK2	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction30	PKC phosphorylates GRK2	SmallMolecule10	Protein80	
+BiochemicalReaction30	PKC phosphorylates GRK2	Protein79	Protein80	
+BiochemicalReaction31	Galpha-olf:GTP binds to adenylate cyclase and activates it	Complex17	Complex35	
+BiochemicalReaction31	Galpha-olf:GTP binds to adenylate cyclase and activates it	Complex34	Complex35	
+BiochemicalReaction32	Adenylate cyclase converts ATP into cyclic AMP	SmallMolecule10	SmallMolecule16	
+BiochemicalReaction32	Adenylate cyclase converts ATP into cyclic AMP	SmallMolecule10	SmallMolecule17	
+BiochemicalReaction33	Adenylaye cyclase increases the GTPase activity of G alpha-olf	Complex35	SmallMolecule7	
+BiochemicalReaction33	Adenylaye cyclase increases the GTPase activity of G alpha-olf	Complex35	Complex36	
+BiochemicalReaction34	The G alpha-olf:GDP:Adenylate cyclase complex dissociates	Complex36	Complex17	
+BiochemicalReaction34	The G alpha-olf:GDP:Adenylate cyclase complex dissociates	Complex36	Complex37	
+BiochemicalReaction35	G alpha (i) inhibits adenylate cyclase	Complex17	Complex39	
+BiochemicalReaction35	G alpha (i) inhibits adenylate cyclase	Complex38	Complex39	
+BiochemicalReaction36	G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex	Complex34	Complex40	
+BiochemicalReaction36	G alpha-olf:GTP binds to Gi alpha1:GTP:adenylate cyclase complex	Complex39	Complex40	
+BiochemicalReaction37	Adenylate cyclase increases the GTPase activity of G alpha-olf	Complex40	SmallMolecule7	
+BiochemicalReaction37	Adenylate cyclase increases the GTPase activity of G alpha-olf	Complex40	Complex41	
+BiochemicalReaction38	Adenylate cyclase increases the GTPase activity of Gi alpha	Complex40	SmallMolecule7	
+BiochemicalReaction38	Adenylate cyclase increases the GTPase activity of Gi alpha	Complex40	Complex42	
+BiochemicalReaction39	Dissociation of the Gi alpha:G olf complex	Complex42	Complex43	
+BiochemicalReaction39	Dissociation of the Gi alpha:G olf complex	Complex42	Complex17	
+BiochemicalReaction39	Dissociation of the Gi alpha:G olf complex	Complex42	Complex37	
+BiochemicalReaction4	The receptor:G-protein complex  binds GTP	SmallMolecule2	Complex8	
+BiochemicalReaction4	The receptor:G-protein complex  binds GTP	Complex6	Complex8	
+BiochemicalReaction40	PKA phosphorylates PDE4B	Protein87	SmallMolecule11	
+BiochemicalReaction40	PKA phosphorylates PDE4B	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction40	PKA phosphorylates PDE4B	SmallMolecule10	Protein88	
+BiochemicalReaction40	PKA phosphorylates PDE4B	Protein87	Protein88	
+BiochemicalReaction41	cAMP hydrolysis by PDE 4	SmallMolecule16	SmallMolecule22	
+BiochemicalReaction41	cAMP hydrolysis by PDE 4	SmallMolecule4	SmallMolecule22	
+BiochemicalReaction42	PKA phosphorylates DARPP-32 on Thr34	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction42	PKA phosphorylates DARPP-32 on Thr34	Protein102	SmallMolecule11	
+BiochemicalReaction42	PKA phosphorylates DARPP-32 on Thr34	Protein102	Protein107	
+BiochemicalReaction42	PKA phosphorylates DARPP-32 on Thr34	SmallMolecule10	Protein107	
+BiochemicalReaction43	DARPP-32 phosphorylated on T34 binds to PP1, inhibiting its function	Protein112	Complex44	
+BiochemicalReaction43	DARPP-32 phosphorylated on T34 binds to PP1, inhibiting its function	Protein107	Complex44	
+BiochemicalReaction44	CDK5 phosphorylates DARPP-32 on Thr75	Protein113	Protein89	
+BiochemicalReaction45	DARPP-32 phosphorylated on Thr75 binds to PKA, inhibiting its function	Protein63	Complex46	
+BiochemicalReaction45	DARPP-32 phosphorylated on Thr75 binds to PKA, inhibiting its function	Protein89	Complex46	
+BiochemicalReaction46	DARPP-32 is dephosphorylated on Thr75 by PP2A	Protein89	SmallMolecule7	
+BiochemicalReaction46	DARPP-32 is dephosphorylated on Thr75 by PP2A	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction46	DARPP-32 is dephosphorylated on Thr75 by PP2A	SmallMolecule4	Protein113	
+BiochemicalReaction46	DARPP-32 is dephosphorylated on Thr75 by PP2A	Protein89	Protein113	
+BiochemicalReaction47	Inactive catalytic PP2B is activated by the binding of calmodulin	Complex16	Complex49	
+BiochemicalReaction47	Inactive catalytic PP2B is activated by the binding of calmodulin	Complex48	Complex49	
+BiochemicalReaction48	DARPP-32 is dephosphorylated on Thr34 by PP2B	Protein107	SmallMolecule7	
+BiochemicalReaction48	DARPP-32 is dephosphorylated on Thr34 by PP2B	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction48	DARPP-32 is dephosphorylated on Thr34 by PP2B	SmallMolecule4	Protein102	
+BiochemicalReaction48	DARPP-32 is dephosphorylated on Thr34 by PP2B	Protein107	Protein102	
+BiochemicalReaction5	The receptor:G-protein complex dissociates	Complex8	Complex10	
+BiochemicalReaction5	The receptor:G-protein complex dissociates	Complex8	Complex1	
+BiochemicalReaction5	The receptor:G-protein complex dissociates	Complex8	Complex4	
+BiochemicalReaction6	G-protein alpha subunit is inactivated	Complex10	SmallMolecule2	
+BiochemicalReaction6	G-protein alpha subunit is inactivated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	G-protein alpha subunit is inactivated	SmallMolecule1	Complex11	
+BiochemicalReaction6	G-protein alpha subunit is inactivated	Complex10	Complex11	
+BiochemicalReaction7	G-protein beta-gamma subunits rebind the alpha-GDP subunit	Complex11	Complex2	
+BiochemicalReaction7	G-protein beta-gamma subunits rebind the alpha-GDP subunit	Complex4	Complex2	
+BiochemicalReaction8	Opioid dissociates from MOR	Complex1	Protein1	
+BiochemicalReaction8	Opioid dissociates from MOR	Complex1	Protein5	
+BiochemicalReaction9	Activation of PLC beta-1/4	Complex10	Complex12	
+BiochemicalReaction9	Activation of PLC beta-1/4	Protein34	Complex12	

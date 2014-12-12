@@ -1,0 +1,36 @@
+BiochemicalReaction1	CDO binds BOC	Protein1	Complex1	
+BiochemicalReaction1	CDO binds BOC	Protein2	Complex1	
+BiochemicalReaction10	Phosphorylation of E proteins by p38 MAPK	Protein28	SmallMolecule5	
+BiochemicalReaction10	Phosphorylation of E proteins by p38 MAPK	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction10	Phosphorylation of E proteins by p38 MAPK	SmallMolecule4	Protein29	
+BiochemicalReaction10	Phosphorylation of E proteins by p38 MAPK	Protein28	Protein29	
+BiochemicalReaction11	Heterodimerization of E proteins with Myod	Protein30	Complex12	
+BiochemicalReaction11	Heterodimerization of E proteins with Myod	Protein35	Complex12	
+BiochemicalReaction12	Phosphorylation of MEF2 proteins by p38	Protein24	SmallMolecule5	
+BiochemicalReaction12	Phosphorylation of MEF2 proteins by p38	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction12	Phosphorylation of MEF2 proteins by p38	Protein38	SmallMolecule5	
+BiochemicalReaction12	Phosphorylation of MEF2 proteins by p38	Protein38	Complex13	
+BiochemicalReaction12	Phosphorylation of MEF2 proteins by p38	SmallMolecule4	Complex13	
+BiochemicalReaction12	Phosphorylation of MEF2 proteins by p38	Protein24	Complex13	
+BiochemicalReaction13	Interaction of MyoD:E protein with MEF2	Protein43	Complex14	
+BiochemicalReaction13	Interaction of MyoD:E protein with MEF2	Complex12	Complex14	
+BiochemicalReaction14	Neogenin:Netrin-3 binds CDO complex	Complex1	Complex16	
+BiochemicalReaction14	Neogenin:Netrin-3 binds CDO complex	Complex15	Complex16	
+BiochemicalReaction2	CDO binds promyogenic cadherins	Complex1	Complex4	
+BiochemicalReaction2	CDO binds promyogenic cadherins	Complex2	Complex4	
+BiochemicalReaction3	Bnip2 interacts with CDO complex	Protein11	Complex5	
+BiochemicalReaction3	Bnip2 interacts with CDO complex	Complex4	Complex5	
+BiochemicalReaction4	Interaction of Bnip-2 with Cdc42	Complex5	Complex7	
+BiochemicalReaction4	Interaction of Bnip-2 with Cdc42	Complex6	Complex7	
+BiochemicalReaction5	JLP interacts with CDO complex	Protein13	Complex8	
+BiochemicalReaction5	JLP interacts with CDO complex	Complex7	Complex8	
+BiochemicalReaction6	Interaction of ABL1 with CDO complex	Protein14	Complex9	
+BiochemicalReaction6	Interaction of ABL1 with CDO complex	Complex8	Complex9	
+BiochemicalReaction7	Interaction of p38 MAPK with JLP	Complex9	Complex10	
+BiochemicalReaction7	Interaction of p38 MAPK with JLP	Protein15	Complex10	
+BiochemicalReaction8	Activation of p38 alpha/beta MAPK	Complex10	SmallMolecule3	
+BiochemicalReaction8	Activation of p38 alpha/beta MAPK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	Activation of p38 alpha/beta MAPK	SmallMolecule2	Complex11	
+BiochemicalReaction8	Activation of p38 alpha/beta MAPK	Complex10	Complex11	
+BiochemicalReaction9	Nuclear translocation of p38 MAPK	Complex11	Complex9	
+BiochemicalReaction9	Nuclear translocation of p38 MAPK	Complex11	Protein24	

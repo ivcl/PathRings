@@ -1,0 +1,12 @@
+BiochemicalReaction1	PD-1 binds B7DC and B7H1	Protein1	Complex1	
+BiochemicalReaction1	PD-1 binds B7DC and B7H1	Protein4	Complex1	
+BiochemicalReaction2	Phosphorylation of PD-1	Protein5	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of PD-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of PD-1	Complex1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of PD-1	Complex1	Complex2	
+BiochemicalReaction2	Phosphorylation of PD-1	SmallMolecule1	Complex2	
+BiochemicalReaction2	Phosphorylation of PD-1	Protein5	Complex2	
+BiochemicalReaction3	Interaction of SHP-1 or SHP-2 with phospho PD-1	Protein9	Complex3	
+BiochemicalReaction3	Interaction of SHP-1 or SHP-2 with phospho PD-1	Complex2	Complex3	
+BiochemicalReaction4	Dephosphorylation of CD3-zeta by PD-1 bound phosphatases	Complex4	Complex12	
+BiochemicalReaction4	Dephosphorylation of CD3-zeta by PD-1 bound phosphatases	Complex4	SmallMolecule3	

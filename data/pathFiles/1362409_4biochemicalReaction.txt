@@ -1,0 +1,24 @@
+BiochemicalReaction1	Mitoferrin Transports Iron Across the Mitochondrial Inner Membrane	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Frataxin Binds Iron	Complex1	Complex3	
+BiochemicalReaction2	Frataxin Binds Iron	SmallMolecule2	Complex3	
+BiochemicalReaction3	Transfer of Electrons from NADPH to FDXR	Complex5	SmallMolecule7	
+BiochemicalReaction3	Transfer of Electrons from NADPH to FDXR	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	Transfer of Electrons from NADPH to FDXR	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	Transfer of Electrons from NADPH to FDXR	SmallMolecule6	Complex6	
+BiochemicalReaction3	Transfer of Electrons from NADPH to FDXR	SmallMolecule5	Complex6	
+BiochemicalReaction3	Transfer of Electrons from NADPH to FDXR	Complex5	Complex6	
+BiochemicalReaction4	Transfer of Electrons from FDXR to FDX1/1L	Complex7	Complex5	
+BiochemicalReaction4	Transfer of Electrons from FDXR to FDX1/1L	Complex6	Complex5	
+BiochemicalReaction4	Transfer of Electrons from FDXR to FDX1/1L	Complex6	Complex10	
+BiochemicalReaction4	Transfer of Electrons from FDXR to FDX1/1L	Complex7	Complex10	
+BiochemicalReaction4	Transfer of Electrons from FDXR to FDX1/1L	Complex6	SmallMolecule6	
+BiochemicalReaction4	Transfer of Electrons from FDXR to FDX1/1L	Complex7	SmallMolecule6	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	SmallMolecule11	Complex7	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	Complex10	Complex7	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	Complex3	Complex7	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	Complex3	SmallMolecule12	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	Complex10	SmallMolecule12	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	Complex3	Complex13	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	Complex10	Complex13	
+BiochemicalReaction5	FXN:NFS1:ISD11:ISCU Synthesizes Iron-Sulfur Cluster	SmallMolecule11	Complex13	

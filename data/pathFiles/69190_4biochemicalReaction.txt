@@ -1,0 +1,39 @@
+BiochemicalReaction1	MCM2-7 mediated fork unwinding	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction10	Formation of Okazaki fragments	Complex13	Complex14	
+BiochemicalReaction11	Formation of the Flap Intermediate	Complex14	Complex15	
+BiochemicalReaction12	RPA binds to the Flap	Complex15	Complex17	
+BiochemicalReaction12	RPA binds to the Flap	Complex16	Complex17	
+BiochemicalReaction13	Recruitment of Dna2 endonuclease	Complex17	Complex18	
+BiochemicalReaction13	Recruitment of Dna2 endonuclease	Protein29	Complex18	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	Protein29	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	SmallMolecule3	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	SmallMolecule4	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	SmallMolecule5	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	Complex19	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	SmallMolecule6	
+BiochemicalReaction14	Removal of RNA primer and dissociation of RPA and Dna2	Complex18	Complex16	
+BiochemicalReaction15	Removal of remaining Flap	Complex19	Complex20	
+BiochemicalReaction16	Joining of adjacent Okazaki fragments	PhysicalEntity7	PhysicalEntity11	
+BiochemicalReaction2	MCM8 mediated fork unwinding	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction3	Formation of GINS complex	Protein8	Complex2	
+BiochemicalReaction3	Formation of GINS complex	Protein9	Complex2	
+BiochemicalReaction3	Formation of GINS complex	PhysicalEntity3	Complex2	
+BiochemicalReaction3	Formation of GINS complex	Protein10	Complex2	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	PhysicalEntity1	Complex3	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	Complex1	Complex3	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	Protein11	Complex3	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	Complex2	Complex3	
+BiochemicalReaction5	RFC binding displaces Pol Alpha	Complex4	Complex8	
+BiochemicalReaction5	RFC binding displaces Pol Alpha	Complex7	Complex8	
+BiochemicalReaction6	Loading of PCNA - Sliding Clamp Formation	Complex9	Complex10	
+BiochemicalReaction6	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	Complex10	
+BiochemicalReaction6	Loading of PCNA - Sliding Clamp Formation	Complex8	Complex10	
+BiochemicalReaction6	Loading of PCNA - Sliding Clamp Formation	Complex8	SmallMolecule2	
+BiochemicalReaction6	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Loading of PCNA - Sliding Clamp Formation	Complex9	SmallMolecule2	
+BiochemicalReaction7	RFC dissociates after sliding clamp formation	Complex10	Complex11	
+BiochemicalReaction7	RFC dissociates after sliding clamp formation	Complex10	Complex7	
+BiochemicalReaction8	Formation of Processive Complex	Complex12	Complex13	
+BiochemicalReaction8	Formation of Processive Complex	Complex11	Complex13	
+BiochemicalReaction9	Processive synthesis on the leading strand	Complex12	Complex13	
+BiochemicalReaction9	Processive synthesis on the leading strand	Complex11	Complex13	

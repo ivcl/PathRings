@@ -1,0 +1,73 @@
+BiochemicalReaction1	Formation of Cyclin A:Cdc2 complexes	Protein1	Complex1	
+BiochemicalReaction1	Formation of Cyclin A:Cdc2 complexes	Protein4	Complex1	
+BiochemicalReaction10	Formation of Cyclin B:Cdc2 complexes	Protein24	Complex10	
+BiochemicalReaction10	Formation of Cyclin B:Cdc2 complexes	Protein4	Complex10	
+BiochemicalReaction11	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex10	SmallMolecule2	
+BiochemicalReaction11	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule1	Complex11	
+BiochemicalReaction11	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex10	Complex11	
+BiochemicalReaction12	Translocation of Cyclin B1:phospho-Cdc2 complexes to the nucleus	Complex12	Complex16	
+BiochemicalReaction13	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	Complex17	SmallMolecule4	
+BiochemicalReaction13	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	Complex17	Complex20	
+BiochemicalReaction13	CAK-mediated phosphorylation of Cyclin B1:Cdc2 complexes	SmallMolecule3	Complex20	
+BiochemicalReaction14	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex20	SmallMolecule4	
+BiochemicalReaction14	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule3	Complex18	
+BiochemicalReaction14	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex20	Complex18	
+BiochemicalReaction15	Translocation of Cyclin B1:phospho-Cdc2 to the cytoplasm	Complex18	Complex14	
+BiochemicalReaction16	Translocation of Cdc25B to the cytoplasm	Protein22	Protein33	
+BiochemicalReaction17	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	Complex14	SmallMolecule8	
+BiochemicalReaction17	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction17	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	SmallMolecule7	Complex21	
+BiochemicalReaction17	Dephosphorylation of cytoplasmic Cyclin B1:phospho-Cdc2 (Thr 14, Tyr 15) complexes by Cdc25 phosphatases	Complex14	Complex21	
+BiochemicalReaction18	Phosphorylation of Cyclin B1 in the CRS domain	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation of Cyclin B1 in the CRS domain	Complex21	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation of Cyclin B1 in the CRS domain	Complex21	Complex22	
+BiochemicalReaction18	Phosphorylation of Cyclin B1 in the CRS domain	SmallMolecule1	Complex22	
+BiochemicalReaction19	Translocation of CRS phosphorylated Cyclin B1:Cdc2 complexes	Complex15	Complex23	
+BiochemicalReaction2	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	Complex1	SmallMolecule2	
+BiochemicalReaction2	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	SmallMolecule1	Complex2	
+BiochemicalReaction2	Myt-1 mediated phosphorylation of Cyclin A:Cdc2	Complex1	Complex2	
+BiochemicalReaction20	Translocation of Cdc25 to the nucleus	Protein34	Protein37	
+BiochemicalReaction21	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	Complex18	SmallMolecule6	
+BiochemicalReaction21	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction21	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	SmallMolecule5	Complex24	
+BiochemicalReaction21	Dephosphorylation of nuclear Cyclin B1:phospho-Cdc2 (Thr 14, Tyr15) complexes by Cdc25 phosphatases	Complex18	Complex24	
+BiochemicalReaction22	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	SmallMolecule3	PhysicalEntity8	
+BiochemicalReaction22	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction22	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	PhysicalEntity7	SmallMolecule4	
+BiochemicalReaction22	Phosphorylation of M phase proteins by active Cyclin B1:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction23	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction23	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	Protein38	SmallMolecule4	
+BiochemicalReaction23	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	Protein38	Protein39	
+BiochemicalReaction23	CCNA:CDK1/2 complexes and CCNB:CDK1 complexes phosphorylate FOXM1	SmallMolecule3	Protein39	
+BiochemicalReaction24	PP2A-PPP2R2A dephosphorylates FOXM1	Protein39	SmallMolecule6	
+BiochemicalReaction24	PP2A-PPP2R2A dephosphorylates FOXM1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction24	PP2A-PPP2R2A dephosphorylates FOXM1	SmallMolecule5	Protein38	
+BiochemicalReaction24	PP2A-PPP2R2A dephosphorylates FOXM1	Protein39	Protein38	
+BiochemicalReaction3	Translocation of Cyclin A:phospho-Cdc2 (Thr 14) to the nucleus	Complex2	Complex3	
+BiochemicalReaction4	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	Complex3	SmallMolecule4	
+BiochemicalReaction4	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	Complex3	Complex4	
+BiochemicalReaction4	CAK-mediated phosphorylation of Cyclin A:Cdc2 complexes	SmallMolecule3	Complex4	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	Complex4	SmallMolecule4	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	Complex4	Complex6	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin A:phospho-Cdc2 complexes	SmallMolecule3	Complex6	
+BiochemicalReaction6	Translocation of active Cdc25C to the nucleus	Protein17	Protein18	
+BiochemicalReaction7	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	Complex6	Complex7	
+BiochemicalReaction7	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	SmallMolecule5	Complex7	
+BiochemicalReaction7	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7	Dephosphorylation of nuclear Cyclin A:phospho-Cdc2 complexes	Complex6	SmallMolecule6	
+BiochemicalReaction8	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	PhysicalEntity1	SmallMolecule4	
+BiochemicalReaction8	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction8	Phosphorylation of proteins involved in G2/M transition by active Cyclin A1:Cdc2 complexes	SmallMolecule3	PhysicalEntity2	
+BiochemicalReaction9	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	PhysicalEntity3	SmallMolecule4	
+BiochemicalReaction9	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction9	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	SmallMolecule3	PhysicalEntity4	
+BiochemicalReaction9	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	PhysicalEntity3	PhysicalEntity5	
+BiochemicalReaction9	Phosphorylation of proteins involved in G2/M transition by active Cyclin A2:Cdc2 complexes	SmallMolecule3	PhysicalEntity5	

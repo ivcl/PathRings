@@ -1,0 +1,16 @@
+BiochemicalReaction1	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Complex1	SmallMolecule2	
+BiochemicalReaction1	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Protein2	SmallMolecule2	
+BiochemicalReaction1	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	SmallMolecule1	Complex3	
+BiochemicalReaction1	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Protein2	Complex3	
+BiochemicalReaction1	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Complex1	Complex3	
+BiochemicalReaction2	Recruitment of IRF3 to activated ZBP1:TBK1	Protein4	Complex4	
+BiochemicalReaction2	Recruitment of IRF3 to activated ZBP1:TBK1	Complex3	Complex4	
+BiochemicalReaction3	Phosphorylation and release of IRF3 	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation and release of IRF3 	Complex4	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation and release of IRF3 	Complex4	Protein5	
+BiochemicalReaction3	Phosphorylation and release of IRF3 	SmallMolecule1	Protein5	
+BiochemicalReaction3	Phosphorylation and release of IRF3 	Complex4	Complex3	
+BiochemicalReaction3	Phosphorylation and release of IRF3 	SmallMolecule1	Complex3	
+BiochemicalReaction4	p-T,4S-IRF3 is dimerized	Protein5	Complex9	
+BiochemicalReaction5	Dimerized phospho-IRF3 migrates to the nucleus	Complex9	Complex10	

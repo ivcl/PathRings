@@ -1,0 +1,39 @@
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	Complex2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	Complex2	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex7	Complex8	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein73	Complex8	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein75	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein75	Protein76	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	Protein76	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein75	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein75	Protein76	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	Protein76	
+BiochemicalReaction13	Ubiquitination of phosphorylated Cdc25A	Protein9	Complex9	
+BiochemicalReaction13	Ubiquitination of phosphorylated Cdc25A	Protein78	Complex9	
+BiochemicalReaction14	Proteolytic degradation of ubiquitinated-Cdc25A	Complex9	PhysicalEntity3	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	Protein80	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	Protein79	Protein80	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	Protein79	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein75	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein75	Protein76	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	Protein76	
+BiochemicalReaction2	Phosphorylation of MDM2 at serine-395 by ATM kinase	Protein4	Protein5	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	Protein7	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	Protein7	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Protein7	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Complex2	
+BiochemicalReaction5	Translocation of COP1 from the nucleus to the cytoplasm	Protein7	Protein8	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein9	Complex4	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein8	Complex4	
+BiochemicalReaction7	Proteasome mediated degradation of COP1	Complex4	Protein9	
+BiochemicalReaction8	TP53 binds CDKN1A promoter	Dna1	Complex6	
+BiochemicalReaction8	TP53 binds CDKN1A promoter	Complex2	Complex6	
+BiochemicalReaction9	Transcriptional activation of p21 by p53 after DNA damage	Dna1	Protein68	

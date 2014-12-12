@@ -1,0 +1,8 @@
+BiochemicalReaction1	Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF)	Protein1	Complex2	
+BiochemicalReaction1	Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF)	Complex1	Complex2	
+BiochemicalReaction2	Binding of NS1 to poly(A)-binding protein II (PABII)	Complex1	Complex3	
+BiochemicalReaction2	Binding of NS1 to poly(A)-binding protein II (PABII)	Protein3	Complex3	
+BiochemicalReaction3	Binding of NS1 to dsRNA	Complex4	Complex5	
+BiochemicalReaction3	Binding of NS1 to dsRNA	PhysicalEntity1	Complex5	
+BiochemicalReaction4	Binding of NS1 to PKR	Protein5	Complex6	
+BiochemicalReaction4	Binding of NS1 to PKR	Complex4	Complex6	

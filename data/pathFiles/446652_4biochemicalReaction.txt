@@ -1,0 +1,89 @@
+BiochemicalReaction1	Interleukin-1 receptor type 1 binds Interleukin 1	Protein1	Complex1	
+BiochemicalReaction1	Interleukin-1 receptor type 1 binds Interleukin 1	Protein4	Complex1	
+BiochemicalReaction10	IRAK4 phosphorylates IRAK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	IRAK4 phosphorylates IRAK1	Complex10	SmallMolecule2	
+BiochemicalReaction10	IRAK4 phosphorylates IRAK1	Complex10	Complex11	
+BiochemicalReaction10	IRAK4 phosphorylates IRAK1	SmallMolecule1	Complex11	
+BiochemicalReaction11	IRAK4-activated IRAK1 autophosphorylates	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	IRAK4-activated IRAK1 autophosphorylates	Complex11	SmallMolecule2	
+BiochemicalReaction11	IRAK4-activated IRAK1 autophosphorylates	Complex11	Complex12	
+BiochemicalReaction11	IRAK4-activated IRAK1 autophosphorylates	SmallMolecule1	Complex12	
+BiochemicalReaction12	IRAK2 is phosphorylated downstream of IRAK4 following IL1 receptor activation	Protein16	Protein17	
+BiochemicalReaction12	IRAK2 is phosphorylated downstream of IRAK4 following IL1 receptor activation	Complex9	Protein17	
+BiochemicalReaction13	Hyperphosphorylated IRAK1 associates with TRAF6	Protein18	Complex13	
+BiochemicalReaction13	Hyperphosphorylated IRAK1 associates with TRAF6	Complex12	Complex13	
+BiochemicalReaction14	p62:MEKK3 binds to TRAF6	Protein18	Complex15	
+BiochemicalReaction14	p62:MEKK3 binds to TRAF6	Complex14	Complex15	
+BiochemicalReaction15	TRAF6 binding leads to IRAK1:TRAF6 release	Complex13	Protein11	
+BiochemicalReaction15	TRAF6 binding leads to IRAK1:TRAF6 release	Complex13	Complex6	
+BiochemicalReaction15	TRAF6 binding leads to IRAK1:TRAF6 release	Complex13	Protein12	
+BiochemicalReaction15	TRAF6 binding leads to IRAK1:TRAF6 release	Complex13	Complex16	
+BiochemicalReaction16	IRAK1 induces oligomerisation of TRAF6	Protein18	Complex17	
+BiochemicalReaction16	IRAK1 induces oligomerisation of TRAF6	Complex16	Complex17	
+BiochemicalReaction17	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex17	Complex18	
+BiochemicalReaction17	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex18	Complex18	
+BiochemicalReaction17	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	PhysicalEntity1	Complex18	
+BiochemicalReaction17	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	PhysicalEntity1	Complex19	
+BiochemicalReaction17	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex18	Complex19	
+BiochemicalReaction17	TRAF6 auto-ubiquitinates with Lys63-linked polyubiquitin chains	Complex17	Complex19	
+BiochemicalReaction18	Polyubiquitinated TRAF6 interacts with TAK1 complex	Complex21	Complex22	
+BiochemicalReaction18	Polyubiquitinated TRAF6 interacts with TAK1 complex	Complex19	Complex22	
+BiochemicalReaction19	TAK1 is activated within the TAK1 complex	Complex22	Complex23	
+BiochemicalReaction2	Interleukin-1 receptor type 2 binds Interleukin 1	Protein1	Complex2	
+BiochemicalReaction2	Interleukin-1 receptor type 2 binds Interleukin 1	Protein5	Complex2	
+BiochemicalReaction20	IRAK1 and 4  interact with Pellino1,2 and 3	Protein31	Complex24	
+BiochemicalReaction20	IRAK1 and 4  interact with Pellino1,2 and 3	Protein35	Complex24	
+BiochemicalReaction21	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	Complex24	SmallMolecule2	
+BiochemicalReaction21	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	SmallMolecule1	Complex27	
+BiochemicalReaction21	IRAK1 and 4 can phosphorylate Pellino-1 and 2.	Complex24	Complex27	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	Complex28	Protein36	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	Complex18	Protein36	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	PhysicalEntity1	Protein36	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	PhysicalEntity1	Protein40	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	Complex18	Protein40	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	Complex28	Protein40	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	PhysicalEntity1	Complex18	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	Complex18	Complex18	
+BiochemicalReaction22	Pellino ubiquitinates IRAK1	Complex28	Complex18	
+BiochemicalReaction23	NEMO binds polyubiquitinated IRAK1	Protein40	Complex31	
+BiochemicalReaction23	NEMO binds polyubiquitinated IRAK1	Complex30	Complex31	
+BiochemicalReaction24	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction24	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex30	SmallMolecule2	
+BiochemicalReaction24	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex30	Complex32	
+BiochemicalReaction24	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule1	Complex32	
+BiochemicalReaction25	TAK1 phosphorylates MKK6	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction25	TAK1 phosphorylates MKK6	Protein53	SmallMolecule2	
+BiochemicalReaction25	TAK1 phosphorylates MKK6	Protein53	Protein54	
+BiochemicalReaction25	TAK1 phosphorylates MKK6	SmallMolecule1	Protein54	
+BiochemicalReaction26	The IKKB complex phosphorylates NFkB p105	Protein55	SmallMolecule2	
+BiochemicalReaction26	The IKKB complex phosphorylates NFkB p105	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	The IKKB complex phosphorylates NFkB p105	SmallMolecule1	Protein56	
+BiochemicalReaction26	The IKKB complex phosphorylates NFkB p105	Protein55	Protein56	
+BiochemicalReaction27	The SCF betaTrCP complex binds p-NFkB p105	Protein56	Complex46	
+BiochemicalReaction27	The SCF betaTrCP complex binds p-NFkB p105	Complex45	Complex46	
+BiochemicalReaction28	Beta-TrCP ubiquitinates then dissociates from p-NFKB p105	Complex46	Protein61	
+BiochemicalReaction28	Beta-TrCP ubiquitinates then dissociates from p-NFKB p105	Complex46	Complex45	
+BiochemicalReaction29	NFKB p105, TPL2 (COT) and ABIN2 form a stable complex	Protein55	Complex47	
+BiochemicalReaction29	NFKB p105, TPL2 (COT) and ABIN2 form a stable complex	Protein62	Complex47	
+BiochemicalReaction29	NFKB p105, TPL2 (COT) and ABIN2 form a stable complex	Protein63	Complex47	
+BiochemicalReaction3	IL1 receptor antagonist protein binds Interleukin 1 receptors	Protein6	Complex3	
+BiochemicalReaction3	IL1 receptor antagonist protein binds Interleukin 1 receptors	Protein7	Complex3	
+BiochemicalReaction30	TPL2 phosphorylates MEK1, SEK1	SmallMolecule1	Protein67	
+BiochemicalReaction30	TPL2 phosphorylates MEK1, SEK1	Protein64	Protein67	
+BiochemicalReaction30	TPL2 phosphorylates MEK1, SEK1	Protein64	SmallMolecule2	
+BiochemicalReaction30	TPL2 phosphorylates MEK1, SEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Interleukin-1 receptor type 1: Interleukin 1 binds Interleukin-1 receptor accessory protein, membrane associated isoform	Protein8	Complex4	
+BiochemicalReaction4	Interleukin-1 receptor type 1: Interleukin 1 binds Interleukin-1 receptor accessory protein, membrane associated isoform	Complex1	Complex4	
+BiochemicalReaction5	IL1R1:IL1:IL1RAP binds MYD88 homodimer	Complex4	Complex6	
+BiochemicalReaction5	IL1R1:IL1:IL1RAP binds MYD88 homodimer	Complex5	Complex6	
+BiochemicalReaction6	IL1R1:IL1:IL1RAP:MYD88 homodimer binds IRAK4	Complex6	Complex7	
+BiochemicalReaction6	IL1R1:IL1:IL1RAP:MYD88 homodimer binds IRAK4	Protein10	Complex7	
+BiochemicalReaction7	The Interleukin 1 receptor complex binds Tollip	Protein11	Complex8	
+BiochemicalReaction7	The Interleukin 1 receptor complex binds Tollip	Complex7	Complex8	
+BiochemicalReaction8	IRAK4 is activated by autophosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	IRAK4 is activated by autophosphorylation	Complex8	SmallMolecule2	
+BiochemicalReaction8	IRAK4 is activated by autophosphorylation	Complex8	Complex9	
+BiochemicalReaction8	IRAK4 is activated by autophosphorylation	SmallMolecule1	Complex9	
+BiochemicalReaction9	IRAK1 binds to MYD88 within the IL1R complex	Protein13	Complex10	
+BiochemicalReaction9	IRAK1 binds to MYD88 within the IL1R complex	Complex9	Complex10	

@@ -1,0 +1,72 @@
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	Synthesis of GABA by GAD1	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction2	Synthesis of GABA by GAD2	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction3	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	Complex6	SmallMolecule6	
+BiochemicalReaction3	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	Complex6	Complex7	
+BiochemicalReaction3	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	SmallMolecule5	Complex7	
+BiochemicalReaction4	GABA loaded synaptic vesicle Docking and Priming	Protein9	Complex8	
+BiochemicalReaction4	GABA loaded synaptic vesicle Docking and Priming	Protein10	Complex8	
+BiochemicalReaction4	GABA loaded synaptic vesicle Docking and Priming	Protein11	Complex8	
+BiochemicalReaction4	GABA loaded synaptic vesicle Docking and Priming	Protein12	Complex8	
+BiochemicalReaction4	GABA loaded synaptic vesicle Docking and Priming	Protein13	Complex8	
+BiochemicalReaction4	GABA loaded synaptic vesicle Docking and Priming	Complex7	Complex8	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein9	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Complex9	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein11	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein16	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein13	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein17	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Complex12	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	SmallMolecule7	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein19	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein20	
+BiochemicalReaction5	Release of GABA at the synapse	Complex8	Protein21	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule9	SmallMolecule5	
+BiochemicalReaction6	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule12	SmallMolecule10	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule9	SmallMolecule16	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule8	SmallMolecule16	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction7	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule20	SmallMolecule1	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule21	SmallMolecule1	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule1	SmallMolecule22	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule1	SmallMolecule23	
+BiochemicalReaction8	Conversion of GABA to Succinate Semialdehyde	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction9	Conversion of succinate semialdehyde to succinate	SmallMolecule24	SmallMolecule26	
+BiochemicalReaction9	Conversion of succinate semialdehyde to succinate	SmallMolecule22	SmallMolecule26	
+BiochemicalReaction9	Conversion of succinate semialdehyde to succinate	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction9	Conversion of succinate semialdehyde to succinate	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction9	Conversion of succinate semialdehyde to succinate	SmallMolecule22	SmallMolecule27	
+BiochemicalReaction9	Conversion of succinate semialdehyde to succinate	SmallMolecule24	SmallMolecule27	

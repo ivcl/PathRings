@@ -1,0 +1,8 @@
+BiochemicalReaction1	Association of cell cycle proteins with the APC/C:Cdh1 complex	Protein1	Complex3	
+BiochemicalReaction1	Association of cell cycle proteins with the APC/C:Cdh1 complex	Complex1	Complex3	
+BiochemicalReaction2	Ubiquitination of cell cycle proteins targeted by the APC/C:Cdh1complex	Protein22	Complex4	
+BiochemicalReaction2	Ubiquitination of cell cycle proteins targeted by the APC/C:Cdh1complex	Complex3	Complex4	
+BiochemicalReaction3	Degradation of multiubiquitinated cell cycle proteins	Complex4	Protein22	
+BiochemicalReaction3	Degradation of multiubiquitinated cell cycle proteins	Complex4	Complex1	
+BiochemicalReaction4	APC/C:Cdh1-mediated degradation of Skp2	Complex6	Protein22	
+BiochemicalReaction4	APC/C:Cdh1-mediated degradation of Skp2	Complex6	Complex1	

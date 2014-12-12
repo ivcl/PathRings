@@ -1,0 +1,19 @@
+BiochemicalReaction1	Formation of C-strand Okazaki fragments	Complex1	Complex5	
+BiochemicalReaction1	Formation of C-strand Okazaki fragments	SmallMolecule2	Complex5	
+BiochemicalReaction1	Formation of C-strand Okazaki fragments	SmallMolecule3	Complex5	
+BiochemicalReaction1	Formation of C-strand Okazaki fragments	SmallMolecule4	Complex5	
+BiochemicalReaction1	Formation of C-strand Okazaki fragments	SmallMolecule5	Complex5	
+BiochemicalReaction2	Formation of the Flap Intermediate on the C-strand	Complex5	Complex6	
+BiochemicalReaction3	RPA binds to the Flap on the C-strand	Complex6	Complex8	
+BiochemicalReaction3	RPA binds to the Flap on the C-strand	Complex7	Complex8	
+BiochemicalReaction4	Recruitment of Dna2 endonuclease to the C strand	Protein9	Complex9	
+BiochemicalReaction4	Recruitment of Dna2 endonuclease to the C strand	Complex8	Complex9	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	Protein9	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	SmallMolecule6	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	SmallMolecule7	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	SmallMolecule8	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	Complex10	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	SmallMolecule9	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex9	Complex7	
+BiochemicalReaction6	Removal of remaining Flap from the C-strand	Complex10	Complex11	
+BiochemicalReaction7	Joining of adjacent Okazaki fragments of the C-strand	Complex11	Complex12	

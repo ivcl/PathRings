@@ -1,0 +1,24 @@
+BiochemicalReaction1	Ubiquitination of PAK-2p34	Protein1	Protein17	
+BiochemicalReaction1	Ubiquitination of PAK-2p34	Protein16	Protein17	
+BiochemicalReaction10	DAPK binds UNC5B	Protein73	Complex10	
+BiochemicalReaction10	DAPK binds UNC5B	Protein75	Complex10	
+BiochemicalReaction11	Caspase cleavage of UNC5A	Protein79	Protein80	
+BiochemicalReaction11	Caspase cleavage of UNC5A	Protein79	Protein81	
+BiochemicalReaction12	UNC5A binds NRAGE	Protein82	Complex11	
+BiochemicalReaction12	UNC5A binds NRAGE	Protein80	Complex11	
+BiochemicalReaction2	Proteasome mediated degradation of PAK-2p34	Protein17	Protein1	
+BiochemicalReaction3	Rho GTPase-activating protein 10 (RHG10) interacts with caspase-activated PAK-2p34	Protein62	Complex2	
+BiochemicalReaction3	Rho GTPase-activating protein 10 (RHG10) interacts with caspase-activated PAK-2p34	Protein16	Complex2	
+BiochemicalReaction4	Interaction of PAK-2p34 with RGH10/ PS-GAP results in accumulation of PAK-2p34 in the perinuclear region	Complex2	Complex3	
+BiochemicalReaction5	Caspase cleavage of DCC	Protein63	Protein64	
+BiochemicalReaction5	Caspase cleavage of DCC	Protein63	Protein65	
+BiochemicalReaction6	DCC interacts with DIP13alpha	Protein68	Complex6	
+BiochemicalReaction6	DCC interacts with DIP13alpha	Protein65	Complex6	
+BiochemicalReaction7	Caspase-9 binds DCC:DIP13alpha complex	Complex6	Complex8	
+BiochemicalReaction7	Caspase-9 binds DCC:DIP13alpha complex	Complex7	Complex8	
+BiochemicalReaction8	Activation of caspase-3	Protein71	SmallMolecule2	
+BiochemicalReaction8	Activation of caspase-3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Activation of caspase-3	SmallMolecule1	Complex9	
+BiochemicalReaction8	Activation of caspase-3	Protein71	Complex9	
+BiochemicalReaction9	Caspase cleavage of UNC5B	Protein72	Protein73	
+BiochemicalReaction9	Caspase cleavage of UNC5B	Protein72	Protein74	

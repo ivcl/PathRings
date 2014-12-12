@@ -1,0 +1,54 @@
+Complex1	GPVI:FceRI gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434812	PhysicalEntity1	
+Complex1	GPVI:FceRI gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434812	Complex2	
+Complex10	p-SYK(Y348):Vav family	cytosol	Reactome DB_ID: 437941	Protein8	
+Complex10	p-SYK(Y348):Vav family	cytosol	Reactome DB_ID: 437941	Protein7	
+Complex11	p-SYK(Y348):p-Vav family	cytosol	Reactome DB_ID: 437934	Protein12	
+Complex11	p-SYK(Y348):p-Vav family	cytosol	Reactome DB_ID: 437934	Protein7	
+Complex12	VAV1 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 114543	SmallMolecule4	
+Complex12	VAV1 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 114543	Protein16	
+Complex13	VAV1 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 114539	SmallMolecule3	
+Complex13	VAV1 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 114539	Protein16	
+Complex14	VAV2 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 442278	SmallMolecule4	
+Complex14	VAV2 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 442278	Protein22	
+Complex15	VAV2 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 442290	SmallMolecule3	
+Complex15	VAV2 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 442290	Protein22	
+Complex16	VAV3 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 442313	Protein24	
+Complex16	VAV3 Rho/Rac effectors:GDP	cytosol	Reactome DB_ID: 442313	SmallMolecule4	
+Complex17	VAV3 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 442315	SmallMolecule3	
+Complex17	VAV3 Rho/Rac effectors:GTP	cytosol	Reactome DB_ID: 442315	Protein24	
+Complex18	p-SLP-76:VAV	cytosol	Reactome DB_ID: 430155	Protein30	
+Complex18	p-SLP-76:VAV	cytosol	Reactome DB_ID: 430155	Protein33	
+Complex19	VAV family:PIP3	cytosol	Reactome DB_ID: 434635	Protein8	
+Complex19	VAV family:PIP3	cytosol	Reactome DB_ID: 434635	SmallMolecule8	
+Complex2	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Complex3	
+Complex2	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Protein3	
+Complex2	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Protein4	
+Complex20	VAV family:PIP2	cytosol	Reactome DB_ID: 434632	SmallMolecule5	
+Complex20	VAV family:PIP2	cytosol	Reactome DB_ID: 434632	Protein8	
+Complex21	PI3K gamma	cytosol	Reactome DB_ID: 392291	Protein34	
+Complex21	PI3K gamma	cytosol	Reactome DB_ID: 392291	Protein35	
+Complex22	PI3K beta	cytosol	Reactome DB_ID: 437110	Protein38	
+Complex22	PI3K beta	cytosol	Reactome DB_ID: 437110	Protein42	
+Complex24	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein43	
+Complex24	PI3K alpha	cytosol	Reactome DB_ID: 198379	Protein38	
+Complex25	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	Protein49	
+Complex25	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	Protein50	
+Complex25	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	SmallMolecule8	
+Complex26	PIP3:PDK1:AKT:PKC zeta	plasma membrane	Reactome DB_ID: 437191	Complex25	
+Complex26	PIP3:PDK1:AKT:PKC zeta	plasma membrane	Reactome DB_ID: 437191	Protein54	
+Complex27	PIP3:PDK1:AKT:p(T410)-PKC zeta	plasma membrane	Reactome DB_ID: 437184	Protein55	
+Complex27	PIP3:PDK1:AKT:p(T410)-PKC zeta	plasma membrane	Reactome DB_ID: 437184	Complex25	
+Complex3	GP VI : FceRI gamma dimer	plasma membrane	Reactome DB_ID: 114575	Complex4	
+Complex3	GP VI : FceRI gamma dimer	plasma membrane	Reactome DB_ID: 114575	Protein2	
+Complex4	FCERIG dimer	plasma membrane	Reactome DB_ID: 210223	Protein1	
+Complex5	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434822	PhysicalEntity1	
+Complex5	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434822	Complex6	
+Complex6	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 434820	Protein3	
+Complex6	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 434820	Protein4	
+Complex6	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 434820	Complex7	
+Complex7	GP VI : phosphorylated Fc Epsilon R1 gamma complex	plasma membrane	Reactome DB_ID: 114598	Protein5	
+Complex7	GP VI : phosphorylated Fc Epsilon R1 gamma complex	plasma membrane	Reactome DB_ID: 114598	Protein2	
+Complex8	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	plasma membrane	Reactome DB_ID: 434911	Complex5	
+Complex8	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:SYK	plasma membrane	Reactome DB_ID: 434911	Protein6	
+Complex9	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	plasma membrane	Reactome DB_ID: 453171	Complex5	
+Complex9	GPVI:phosphorylated Fc Epsilon R1 gamma:FYN:LYN:Collagen type I:p-SYK(Y348)	plasma membrane	Reactome DB_ID: 453171	Protein7	

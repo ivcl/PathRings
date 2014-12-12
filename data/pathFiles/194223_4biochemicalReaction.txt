@@ -1,0 +1,77 @@
+BiochemicalReaction1	Conversion of pro-apoA-I to apoA-I	Protein1	Protein2	
+BiochemicalReaction10	LCAT:discoidal HDL complex <=> LCAT + discoidal HDL	Complex9	Complex5	
+BiochemicalReaction10	LCAT:discoidal HDL complex <=> LCAT + discoidal HDL	Complex9	Protein8	
+BiochemicalReaction11	Spherical HDL binds C and E apolipoproteins	Protein9	Complex11	
+BiochemicalReaction11	Spherical HDL binds C and E apolipoproteins	Protein10	Complex11	
+BiochemicalReaction11	Spherical HDL binds C and E apolipoproteins	Protein11	Complex11	
+BiochemicalReaction11	Spherical HDL binds C and E apolipoproteins	Complex10	Complex11	
+BiochemicalReaction12	Spherical HDL binds membrane-associated free cholesterol and phospholipids	SmallMolecule9	Complex10	
+BiochemicalReaction12	Spherical HDL binds membrane-associated free cholesterol and phospholipids	Complex10	Complex10	
+BiochemicalReaction12	Spherical HDL binds membrane-associated free cholesterol and phospholipids	SmallMolecule7	Complex10	
+BiochemicalReaction13	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction13	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction13	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule10	SmallMolecule15	
+BiochemicalReaction13	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction14	Serum albumin binds 2-lysophosphatidylcholine	SmallMolecule15	Complex12	
+BiochemicalReaction14	Serum albumin binds 2-lysophosphatidylcholine	Protein15	Complex12	
+BiochemicalReaction15	LCAT + spherical HDL <=> LCAT:spherical HDL complex	Complex10	Complex13	
+BiochemicalReaction15	LCAT + spherical HDL <=> LCAT:spherical HDL complex	Protein8	Complex13	
+BiochemicalReaction16	LCAT:spherical HDL complex <=> LCAT + spherical HDL	Complex13	Complex10	
+BiochemicalReaction16	LCAT:spherical HDL complex <=> LCAT + spherical HDL	Complex13	Protein8	
+BiochemicalReaction17	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex10	Complex15	
+BiochemicalReaction17	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex14	Complex15	
+BiochemicalReaction17	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex14	Complex16	
+BiochemicalReaction17	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex10	Complex16	
+BiochemicalReaction18	CETP + spherical HDL + torcetrapib => CETP:spherical HDL:torcetrapib complex	SmallMolecule16	Complex17	
+BiochemicalReaction18	CETP + spherical HDL + torcetrapib => CETP:spherical HDL:torcetrapib complex	Complex10	Complex17	
+BiochemicalReaction18	CETP + spherical HDL + torcetrapib => CETP:spherical HDL:torcetrapib complex	Complex14	Complex17	
+BiochemicalReaction19	spherical HDL and SR-BI receptor form a complex at the cell surface	Protein17	Complex18	
+BiochemicalReaction19	spherical HDL and SR-BI receptor form a complex at the cell surface	Complex10	Complex18	
+BiochemicalReaction2	ABCA1 tetramer binds apoA-I	Protein2	Complex4	
+BiochemicalReaction2	ABCA1 tetramer binds apoA-I	Complex3	Complex4	
+BiochemicalReaction20	Disassembly of SR-BI-bound spherical HDL	Complex18	SmallMolecule17	
+BiochemicalReaction20	Disassembly of SR-BI-bound spherical HDL	Complex18	SmallMolecule9	
+BiochemicalReaction20	Disassembly of SR-BI-bound spherical HDL	Complex18	Protein17	
+BiochemicalReaction20	Disassembly of SR-BI-bound spherical HDL	Complex18	Complex6	
+BiochemicalReaction20	Disassembly of SR-BI-bound spherical HDL	Complex18	SmallMolecule18	
+BiochemicalReaction20	Disassembly of SR-BI-bound spherical HDL	Complex18	SmallMolecule7	
+BiochemicalReaction21	apoA-I binds to CUBN:AMN	Protein2	Complex21	
+BiochemicalReaction21	apoA-I binds to CUBN:AMN	Complex20	Complex21	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule3	SmallMolecule9	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction4	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction5	Apolipoprotein A-I binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule9	Complex5	
+BiochemicalReaction5	Apolipoprotein A-I binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	Protein2	Complex5	
+BiochemicalReaction5	Apolipoprotein A-I binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule7	Complex5	
+BiochemicalReaction6	pre-beta HDL binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule9	Complex5	
+BiochemicalReaction6	pre-beta HDL binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	Complex6	Complex5	
+BiochemicalReaction6	pre-beta HDL binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule7	Complex5	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction7	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction8	Discoidal HDL binds membrane-associated free cholesterol	Complex5	Complex8	
+BiochemicalReaction8	Discoidal HDL binds membrane-associated free cholesterol	SmallMolecule7	Complex8	
+BiochemicalReaction9	LCAT + discoidal HDL <=> LCAT:discoidal HDL complex	Complex5	Complex9	
+BiochemicalReaction9	LCAT + discoidal HDL <=> LCAT:discoidal HDL complex	Protein8	Complex9	
+Degradation1	Endocytosis and degradation of apoA-I	Complex21	NA	

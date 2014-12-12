@@ -1,0 +1,114 @@
+BiochemicalReaction1	NCAM1 cis-homophilic interaction	Protein1	Complex1	
+BiochemicalReaction10	SOS binds Grb2 bound to pFAK:NCAM1	Complex14	Complex16	
+BiochemicalReaction10	SOS binds Grb2 bound to pFAK:NCAM1	Protein21	Complex16	
+BiochemicalReaction11	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	SmallMolecule5	Complex19	
+BiochemicalReaction11	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	Complex18	Complex19	
+BiochemicalReaction11	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	Complex18	SmallMolecule6	
+BiochemicalReaction11	NCAM1:pFAK:Grb2:Sos-mediated nucleotide exchange of Ras	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction12	p-RAF binds 14-3-3 beta/alpha	Protein26	Complex20	
+BiochemicalReaction12	p-RAF binds 14-3-3 beta/alpha	Protein27	Complex20	
+BiochemicalReaction13	Transient dissociation of 14-3-3 upon Ras binding	Complex20	Complex21	
+BiochemicalReaction13	Transient dissociation of 14-3-3 upon Ras binding	Complex19	Complex21	
+BiochemicalReaction13	Transient dissociation of 14-3-3 upon Ras binding	Complex19	Protein26	
+BiochemicalReaction13	Transient dissociation of 14-3-3 upon Ras binding	Complex20	Protein26	
+BiochemicalReaction14	Stabilisation of RAS:RAF by 14-3-3	Complex21	Complex22	
+BiochemicalReaction14	Stabilisation of RAS:RAF by 14-3-3	Protein26	Complex22	
+BiochemicalReaction15	Stabilisation of RAF by further phosphorylation	SmallMolecule3	Complex23	
+BiochemicalReaction15	Stabilisation of RAF by further phosphorylation	Complex22	Complex23	
+BiochemicalReaction15	Stabilisation of RAF by further phosphorylation	Complex22	SmallMolecule4	
+BiochemicalReaction15	Stabilisation of RAF by further phosphorylation	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction16	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein27	Complex25	
+BiochemicalReaction16	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex24	Complex25	
+BiochemicalReaction17	Activated RAF1 complex binds MEK	Protein29	Complex26	
+BiochemicalReaction17	Activated RAF1 complex binds MEK	Complex23	Complex26	
+BiochemicalReaction18	RAF1  phosphorylates MEK1	SmallMolecule3	Protein32	
+BiochemicalReaction18	RAF1  phosphorylates MEK1	Complex27	Protein32	
+BiochemicalReaction18	RAF1  phosphorylates MEK1	Complex27	Complex23	
+BiochemicalReaction18	RAF1  phosphorylates MEK1	SmallMolecule3	Complex23	
+BiochemicalReaction18	RAF1  phosphorylates MEK1	Complex27	SmallMolecule4	
+BiochemicalReaction18	RAF1  phosphorylates MEK1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction19	RAF1 phosphorylates MEK2	Complex28	Complex23	
+BiochemicalReaction19	RAF1 phosphorylates MEK2	SmallMolecule3	Complex23	
+BiochemicalReaction19	RAF1 phosphorylates MEK2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction19	RAF1 phosphorylates MEK2	Complex28	SmallMolecule4	
+BiochemicalReaction19	RAF1 phosphorylates MEK2	SmallMolecule3	Protein33	
+BiochemicalReaction19	RAF1 phosphorylates MEK2	Complex28	Protein33	
+BiochemicalReaction2	NCAM1 trans-homophilic interaction	Complex1	Complex2	
+BiochemicalReaction20	Inactivation of MEK1 by p34cdc2	Protein34	SmallMolecule4	
+BiochemicalReaction20	Inactivation of MEK1 by p34cdc2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction20	Inactivation of MEK1 by p34cdc2	SmallMolecule3	Protein35	
+BiochemicalReaction20	Inactivation of MEK1 by p34cdc2	Protein34	Protein35	
+BiochemicalReaction21	MEK1 binds ERK-1	Protein32	Complex29	
+BiochemicalReaction21	MEK1 binds ERK-1	Protein39	Complex29	
+BiochemicalReaction22	MEK1 phosphorylates ERK-1	Complex29	Complex30	
+BiochemicalReaction22	MEK1 phosphorylates ERK-1	SmallMolecule3	Complex30	
+BiochemicalReaction22	MEK1 phosphorylates ERK-1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction22	MEK1 phosphorylates ERK-1	Complex29	SmallMolecule4	
+BiochemicalReaction23	Dissociation of phospho-ERK-1:MEK1	Complex30	Protein32	
+BiochemicalReaction23	Dissociation of phospho-ERK-1:MEK1	Complex30	Protein40	
+BiochemicalReaction24	Dimerisation of phospho-ERK-1	Protein40	Complex31	
+BiochemicalReaction25	Nuclear translocation of phospho-ERK-1 dimer	Complex31	Complex32	
+BiochemicalReaction26	MEK2 binds ERK-2	Protein33	Complex41	
+BiochemicalReaction26	MEK2 binds ERK-2	Protein51	Complex41	
+BiochemicalReaction27	MEK2 phosphorylates ERK-2	Complex41	SmallMolecule4	
+BiochemicalReaction27	MEK2 phosphorylates ERK-2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction27	MEK2 phosphorylates ERK-2	SmallMolecule3	Complex42	
+BiochemicalReaction27	MEK2 phosphorylates ERK-2	Complex41	Complex42	
+BiochemicalReaction28	Dissociation of phospho-ERK-2:MEK2	Complex42	Protein33	
+BiochemicalReaction28	Dissociation of phospho-ERK-2:MEK2	Complex42	Protein52	
+BiochemicalReaction29	Dimerisation of phospho-ERK-2	Protein52	Complex43	
+BiochemicalReaction3	NCAM1 binds FGFR-1	Complex3	Complex4	
+BiochemicalReaction3	NCAM1 binds FGFR-1	Complex1	Complex4	
+BiochemicalReaction30	Nuclear translocation of phospho-ERK-2 dimer	Complex43	Complex44	
+BiochemicalReaction31	ERK1/2 phosphorylates MSK1	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction31	ERK1/2 phosphorylates MSK1	Protein54	SmallMolecule8	
+BiochemicalReaction31	ERK1/2 phosphorylates MSK1	Protein54	Protein55	
+BiochemicalReaction31	ERK1/2 phosphorylates MSK1	SmallMolecule7	Protein55	
+BiochemicalReaction32	MSK1 activates CREB	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction32	MSK1 activates CREB	Protein56	SmallMolecule8	
+BiochemicalReaction32	MSK1 activates CREB	Protein56	Protein57	
+BiochemicalReaction32	MSK1 activates CREB	SmallMolecule7	Protein57	
+BiochemicalReaction33	Interaction of NCAM1 with GFRalpha-1	Protein58	Complex46	
+BiochemicalReaction33	Interaction of NCAM1 with GFRalpha-1	Protein1	Complex46	
+BiochemicalReaction34	Interaction of NCAM1:GFRalpha-1 with GDNF	Complex46	Complex47	
+BiochemicalReaction34	Interaction of NCAM1:GFRalpha-1 with GDNF	Protein62	Complex47	
+BiochemicalReaction35	Interaction of NCAM1 with Neurocan	Protein67	Complex48	
+BiochemicalReaction35	Interaction of NCAM1 with Neurocan	Protein1	Complex48	
+BiochemicalReaction36	Interaction of NCAM1 with collagens	PhysicalEntity2	Complex54	
+BiochemicalReaction36	Interaction of NCAM1 with collagens	Protein1	Complex54	
+BiochemicalReaction37	Interaction of NCAM1 with Major prion protein (PrP)	Protein141	Complex55	
+BiochemicalReaction37	Interaction of NCAM1 with Major prion protein (PrP)	Protein1	Complex55	
+BiochemicalReaction38	Interaction of NCAM1 with agrin	Protein142	Complex56	
+BiochemicalReaction38	Interaction of NCAM1 with agrin	Protein1	Complex56	
+BiochemicalReaction39	Interaction of NCAM1 with contactin-2	Protein143	Complex57	
+BiochemicalReaction39	Interaction of NCAM1 with contactin-2	Protein1	Complex57	
+BiochemicalReaction4	Fyn binds NCAM1	Complex2	Complex6	
+BiochemicalReaction4	Fyn binds NCAM1	Protein3	Complex6	
+BiochemicalReaction40	NCAM1 binds to ATP	SmallMolecule1	Complex5	
+BiochemicalReaction40	NCAM1 binds to ATP	Protein1	Complex5	
+BiochemicalReaction41	Polysialylation of NCAM1	PhysicalEntity7	Complex58	
+BiochemicalReaction41	Polysialylation of NCAM1	Protein144	Complex58	
+BiochemicalReaction42	NCAM1 interacts with T- and L-type VDCC	Complex2	Complex59	
+BiochemicalReaction42	NCAM1 interacts with T- and L-type VDCC	PhysicalEntity8	Complex59	
+BiochemicalReaction5	Dephosphorylation of NCAM1 bound pFyn	Complex7	SmallMolecule2	
+BiochemicalReaction5	Dephosphorylation of NCAM1 bound pFyn	Protein13	SmallMolecule2	
+BiochemicalReaction5	Dephosphorylation of NCAM1 bound pFyn	Complex6	SmallMolecule2	
+BiochemicalReaction5	Dephosphorylation of NCAM1 bound pFyn	Complex6	Complex8	
+BiochemicalReaction5	Dephosphorylation of NCAM1 bound pFyn	Protein13	Complex8	
+BiochemicalReaction5	Dephosphorylation of NCAM1 bound pFyn	Complex7	Complex8	
+BiochemicalReaction6	Autophosphorylation of NCAM1 bound Fyn	SmallMolecule3	Complex10	
+BiochemicalReaction6	Autophosphorylation of NCAM1 bound Fyn	Complex8	Complex10	
+BiochemicalReaction6	Autophosphorylation of NCAM1 bound Fyn	Complex8	SmallMolecule4	
+BiochemicalReaction6	Autophosphorylation of NCAM1 bound Fyn	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Complex10	SmallMolecule4	
+BiochemicalReaction7	Recruitment of FAK to NCAM1:Fyn in lipid rafts	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Protein16	SmallMolecule4	
+BiochemicalReaction7	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Protein16	Complex12	
+BiochemicalReaction7	Recruitment of FAK to NCAM1:Fyn in lipid rafts	SmallMolecule3	Complex12	
+BiochemicalReaction7	Recruitment of FAK to NCAM1:Fyn in lipid rafts	Complex10	Complex12	
+BiochemicalReaction8	Phosphorylation of FAK by Src kinase	Complex12	SmallMolecule4	
+BiochemicalReaction8	Phosphorylation of FAK by Src kinase	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	Phosphorylation of FAK by Src kinase	SmallMolecule3	Complex13	
+BiochemicalReaction8	Phosphorylation of FAK by Src kinase	Complex12	Complex13	
+BiochemicalReaction9	Recruitment of Grb2 to pFAK:NCAM1	Complex13	Complex14	
+BiochemicalReaction9	Recruitment of Grb2 to pFAK:NCAM1	Protein20	Complex14	

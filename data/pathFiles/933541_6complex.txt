@@ -1,0 +1,41 @@
+Complex1	dsRNA:RIG-I/MDA5:IPS-1	mitochondrial outer membrane	Reactome DB_ID: 918201	Complex2	
+Complex1	dsRNA:RIG-I/MDA5:IPS-1	mitochondrial outer membrane	Reactome DB_ID: 918201	Protein9	
+Complex10	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:TBK1/IKKi:IRF7	mitochondrial outer membrane	Reactome DB_ID: 933470	Protein15	
+Complex10	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:TBK1/IKKi:IRF7	mitochondrial outer membrane	Reactome DB_ID: 933470	Complex9	
+Complex11	p-2S-IRF7:p-2S-IRF7	cytosol	Reactome DB_ID: 450344	Protein16	
+Complex12	p-2S-IRF7:p-2S-IRF7	nucleoplasm	Reactome DB_ID: 450306	Protein17	
+Complex13	DHX36:CpG:MyD88	cytosol	Reactome DB_ID: 3134859	Protein18	
+Complex13	DHX36:CpG:MyD88	cytosol	Reactome DB_ID: 3134859	Complex14	
+Complex14	DHX36:CpG	cytosol	Reactome DB_ID: 3134858	Protein19	
+Complex14	DHX36:CpG	cytosol	Reactome DB_ID: 3134858	PhysicalEntity2	
+Complex15	CBP/p300:pIRF7:pIRF7	nucleoplasm	Reactome DB_ID: 933471	Complex12	
+Complex15	CBP/p300:pIRF7:pIRF7	nucleoplasm	Reactome DB_ID: 933471	Protein20	
+Complex16	IRF3-P:IRF7-P	nucleoplasm	Reactome DB_ID: 1027365	Protein23	
+Complex16	IRF3-P:IRF7-P	nucleoplasm	Reactome DB_ID: 1027365	Protein17	
+Complex17	VAF (virus-activated factor)	nucleoplasm	Reactome DB_ID: 1027360	Complex16	
+Complex17	VAF (virus-activated factor)	nucleoplasm	Reactome DB_ID: 1027360	Protein20	
+Complex19	VAF/pIRF7:CBP/p300 bound to type I IFN gene promoter	nucleoplasm	Reactome DB_ID: 1027368	Complex18	
+Complex19	VAF/pIRF7:CBP/p300 bound to type I IFN gene promoter	nucleoplasm	Reactome DB_ID: 1027368	PhysicalEntity3	
+Complex21	IRF2:Promoter region of INF alpha	nucleoplasm	Reactome DB_ID: 994019	Protein38	
+Complex21	IRF2:Promoter region of INF alpha	nucleoplasm	Reactome DB_ID: 994019	PhysicalEntity4	
+Complex22	IRF2:Promoter region of INF beta	nucleoplasm	Reactome DB_ID: 1018384	Protein38	
+Complex22	IRF2:Promoter region of INF beta	nucleoplasm	Reactome DB_ID: 1018384	PhysicalEntity5	
+Complex24	IRF-1:IFN-alpha promoter	nucleoplasm	Reactome DB_ID: 994039	Protein39	
+Complex24	IRF-1:IFN-alpha promoter	nucleoplasm	Reactome DB_ID: 994039	PhysicalEntity4	
+Complex25	IRF1:Promoter region of IFN beta	nucleoplasm	Reactome DB_ID: 1008252	Protein39	
+Complex3	dsRNA:MDA5	cytosol	Reactome DB_ID: 913727	PhysicalEntity1	
+Complex3	dsRNA:MDA5	cytosol	Reactome DB_ID: 913727	Protein4	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	Protein5	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	SmallMolecule1	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	PhysicalEntity1	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	Protein6	
+Complex5	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6	mitochondrial outer membrane	Reactome DB_ID: 933467	Complex2	
+Complex5	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6	mitochondrial outer membrane	Reactome DB_ID: 933467	Complex6	
+Complex6	IPS-1:TRAF2/TRAF6	mitochondrial outer membrane	Reactome DB_ID: 933465	Protein1	
+Complex6	IPS-1:TRAF2/TRAF6	mitochondrial outer membrane	Reactome DB_ID: 933465	Protein9	
+Complex7	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK	mitochondrial outer membrane	Reactome DB_ID: 933472	Complex5	
+Complex7	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK	mitochondrial outer membrane	Reactome DB_ID: 933472	Protein10	
+Complex8	TBK1/IKKi:SIKE1	cytosol	Reactome DB_ID: 918197	Protein11	
+Complex8	TBK1/IKKi:SIKE1	cytosol	Reactome DB_ID: 918197	Protein14	
+Complex9	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:TBK1/IKKi	mitochondrial outer membrane	Reactome DB_ID: 933479	Complex7	
+Complex9	dsRNA:RIG-I/MDA5:IPS-1:TRAF2/TRAF6:TANK:TBK1/IKKi	mitochondrial outer membrane	Reactome DB_ID: 933479	Protein11	

@@ -1,0 +1,72 @@
+Complex1	Prefoldin	cytosol	Reactome DB_ID: 390452	Protein14	
+Complex1	Prefoldin	cytosol	Reactome DB_ID: 390452	Protein15	
+Complex1	Prefoldin	cytosol	Reactome DB_ID: 390452	Protein16	
+Complex1	Prefoldin	cytosol	Reactome DB_ID: 390452	Protein17	
+Complex1	Prefoldin	cytosol	Reactome DB_ID: 390452	Protein18	
+Complex1	Prefoldin	cytosol	Reactome DB_ID: 390452	Protein19	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein20	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein21	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein22	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein23	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein24	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein25	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein26	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	SmallMolecule2	
+Complex10	CCT/TriC(ATP)	cytosol	Reactome DB_ID: 390474	Protein27	
+Complex11	CCT/TriC(ADP):Sphingosine kinase 1	cytosol	Reactome DB_ID: 391256	Complex3	
+Complex11	CCT/TriC(ADP):Sphingosine kinase 1	cytosol	Reactome DB_ID: 391256	Protein45	
+Complex12	CCT/TriC:substrate complex	cytosol	Reactome DB_ID: 390481	PhysicalEntity2	
+Complex12	CCT/TriC:substrate complex	cytosol	Reactome DB_ID: 390481	Complex3	
+Complex13	GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391246	SmallMolecule3	
+Complex13	GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391246	Protein30	
+Complex14	cofactor A:GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391239	Protein67	
+Complex14	cofactor A:GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391239	Complex13	
+Complex15	Cofactor D:GTP:beta tubulin	cytosol	Reactome DB_ID: 391245	Protein68	
+Complex15	Cofactor D:GTP:beta tubulin	cytosol	Reactome DB_ID: 391245	Complex13	
+Complex16	GTP-alpha-tubulin folding intermediate	cytosol	Reactome DB_ID: 391235	SmallMolecule3	
+Complex16	GTP-alpha-tubulin folding intermediate	cytosol	Reactome DB_ID: 391235	Protein38	
+Complex17	Cofactor B:GTP-alpha tubulin	cytosol	Reactome DB_ID: 391241	Complex16	
+Complex17	Cofactor B:GTP-alpha tubulin	cytosol	Reactome DB_ID: 391241	Protein69	
+Complex18	Cofactor E:GTP-alpha tubulin folding	cytosol	Reactome DB_ID: 391242	Complex16	
+Complex18	Cofactor E:GTP-alpha tubulin folding	cytosol	Reactome DB_ID: 391242	Protein70	
+Complex19	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	cytosol	Reactome DB_ID: 391236	Complex15	
+Complex19	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	cytosol	Reactome DB_ID: 391236	Complex18	
+Complex2	Prefoldin-associated actin/tubulin	cytosol	Reactome DB_ID: 390460	Protein1	
+Complex2	Prefoldin-associated actin/tubulin	cytosol	Reactome DB_ID: 390460	Complex1	
+Complex20	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	cytosol	Reactome DB_ID: 391240	Complex19	
+Complex20	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	cytosol	Reactome DB_ID: 391240	Protein71	
+Complex21	alpha-beta heterodimer	cytosol	Reactome DB_ID: 391248	Complex22	
+Complex21	alpha-beta heterodimer	cytosol	Reactome DB_ID: 391248	Complex23	
+Complex22	native alpha tubulin-GTP	cytosol	Reactome DB_ID: 391249	SmallMolecule3	
+Complex22	native alpha tubulin-GTP	cytosol	Reactome DB_ID: 391249	Protein72	
+Complex23	native beta-tubulin:GTP	cytosol	Reactome DB_ID: 391237	SmallMolecule3	
+Complex23	native beta-tubulin:GTP	cytosol	Reactome DB_ID: 391237	Protein78	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein20	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein21	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	SmallMolecule1	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein22	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein23	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein24	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein25	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein26	
+Complex3	CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390455	Protein27	
+Complex4	actin/tubulin-bound CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390495	Complex3	
+Complex4	actin/tubulin-bound CCT/TriC(ADP)	cytosol	Reactome DB_ID: 390495	Protein1	
+Complex5	CCT/TriC(ADP)-associated non-native tubulin	cytosol	Reactome DB_ID: 390501	Complex3	
+Complex5	CCT/TriC(ADP)-associated non-native tubulin	cytosol	Reactome DB_ID: 390501	Protein28	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein20	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein21	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein22	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein23	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein24	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein25	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein26	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein28	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	SmallMolecule2	
+Complex6	CCT/TriC(ATP):unfolded tubulin complex	cytosol	Reactome DB_ID: 390446	Protein27	
+Complex7	tubulin-GTP folding intermediate	cytosol	Reactome DB_ID: 390457	SmallMolecule3	
+Complex7	tubulin-GTP folding intermediate	cytosol	Reactome DB_ID: 390457	PhysicalEntity1	
+Complex8	CCT/TriC (ADP) associated actin	cytosol	Reactome DB_ID: 390476	Complex3	
+Complex8	CCT/TriC (ADP) associated actin	cytosol	Reactome DB_ID: 390476	Protein2	
+Complex9	CCT/TriC(ATP)-associated actin	cytosol	Reactome DB_ID: 390499	Protein2	
+Complex9	CCT/TriC(ATP)-associated actin	cytosol	Reactome DB_ID: 390499	Complex10	

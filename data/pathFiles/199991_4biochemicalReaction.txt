@@ -1,0 +1,322 @@
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	SmallMolecule1	Complex2	
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	Complex1	Complex2	
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	Complex1	SmallMolecule2	
+BiochemicalReaction1	Sar1p Activation And Membrane Binding	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Coatomer:Arf1-GTP:GAP lattice formation on golgi membrane	Complex15	PhysicalEntity1	
+BiochemicalReaction11	Sculpting and pinching-off of Golgi vessicle	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction12	Hydrolysis of Arf1-GTP to Arf1-GDP	Complex15	SmallMolecule3	
+BiochemicalReaction12	Hydrolysis of Arf1-GTP to Arf1-GDP	Complex15	PhysicalEntity4	
+BiochemicalReaction13	Diffusion of inactive Arf1-GDP from membrane	PhysicalEntity4	Complex16	
+BiochemicalReaction13	Diffusion of inactive Arf1-GDP from membrane	PhysicalEntity4	PhysicalEntity2	
+BiochemicalReaction14	Golgi vesicle lattice disassociation	PhysicalEntity3	Complex13	
+BiochemicalReaction14	Golgi vesicle lattice disassociation	PhysicalEntity3	Protein38	
+BiochemicalReaction15	trans-Golgi Network Coat Activation	SmallMolecule1	Complex12	
+BiochemicalReaction15	trans-Golgi Network Coat Activation	Complex16	Complex12	
+BiochemicalReaction15	trans-Golgi Network Coat Activation	Complex16	SmallMolecule2	
+BiochemicalReaction15	trans-Golgi Network Coat Activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein40	Complex17	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein41	Complex17	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein42	Complex17	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein43	Complex17	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein44	Complex17	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein45	Complex17	
+BiochemicalReaction16	Formation Of Bloc-1 Complex	Protein46	Complex17	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein47	Protein47	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein51	Protein47	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein52	Protein47	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein53	Protein47	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Complex18	Protein47	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Complex18	PhysicalEntity5	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein53	PhysicalEntity5	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein52	PhysicalEntity5	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein51	PhysicalEntity5	
+BiochemicalReaction17	Recruitment Of Cytoplasmic Proteins To Vesicles	Protein47	PhysicalEntity5	
+BiochemicalReaction18	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein57	Complex20	
+BiochemicalReaction18	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein79	Complex20	
+BiochemicalReaction18	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Complex12	Complex20	
+BiochemicalReaction18	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein83	Complex20	
+BiochemicalReaction18	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Protein87	Complex20	
+BiochemicalReaction18	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture	Complex19	Complex20	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Protein107	SmallMolecule3	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Complex22	SmallMolecule3	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Complex20	SmallMolecule3	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Protein110	SmallMolecule3	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Protein110	Complex23	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Complex20	Complex23	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Complex22	Complex23	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Protein107	Complex23	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Protein110	Complex16	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Complex20	Complex16	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Complex22	Complex16	
+BiochemicalReaction19	trans-Golgi Network Coat Assembly	Protein107	Complex16	
+BiochemicalReaction2	Coat Assembly	Complex2	Complex4	
+BiochemicalReaction2	Coat Assembly	Complex3	Complex4	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	SmallMolecule3	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	SmallMolecule3	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Protein113	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein113	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Protein113	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Protein47	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein47	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Protein47	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	SmallMolecule5	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	SmallMolecule5	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Protein87	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein87	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Protein87	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Protein145	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Protein145	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Protein145	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Complex22	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Complex22	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Complex22	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Complex19	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Complex19	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Complex19	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex27	Complex27	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	SmallMolecule4	Complex27	
+BiochemicalReaction20	trans-Golgi Network Derived Vesicle Uncoating	Complex25	Complex27	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	Complex23	SmallMolecule3	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	SmallMolecule1	Protein107	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	Complex23	Protein107	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	SmallMolecule1	Complex25	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	Complex23	Complex25	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	SmallMolecule1	Protein110	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	Complex23	Protein110	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	trans-Golgi Network Vesicle Scission	Complex23	SmallMolecule2	
+BiochemicalReaction22	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture On Lysosome Vesicle Destined Golgi Membrane	Complex12	Complex28	
+BiochemicalReaction22	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture On Lysosome Vesicle Destined Golgi Membrane	Protein83	Complex28	
+BiochemicalReaction22	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture On Lysosome Vesicle Destined Golgi Membrane	Protein87	Complex28	
+BiochemicalReaction22	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture On Lysosome Vesicle Destined Golgi Membrane	Complex19	Complex28	
+BiochemicalReaction22	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture On Lysosome Vesicle Destined Golgi Membrane	Protein151	Complex28	
+BiochemicalReaction22	Vamp And trans-Golgi Network AP-1 Binding Coupled With Cargo Capture On Lysosome Vesicle Destined Golgi Membrane	Protein154	Complex28	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Protein107	SmallMolecule3	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Complex28	SmallMolecule3	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Complex22	SmallMolecule3	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Protein110	SmallMolecule3	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Protein110	Complex29	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Complex22	Complex29	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Complex28	Complex29	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Protein107	Complex29	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Protein110	Complex16	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Complex22	Complex16	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Complex28	Complex16	
+BiochemicalReaction23	trans-Golgi Network Lysosome Vesicle Destined Membrane Coat Assembly	Protein107	Complex16	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	Complex29	SmallMolecule3	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	SmallMolecule1	Protein107	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	Complex29	Protein107	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	SmallMolecule1	Complex31	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	Complex29	Complex31	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	SmallMolecule1	Protein110	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	Complex29	Protein110	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction24	trans-Golgi Network Lysosomal Vesicle Scission	Complex29	SmallMolecule2	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Protein159	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Protein159	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Protein159	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	SmallMolecule3	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	SmallMolecule3	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	SmallMolecule5	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	SmallMolecule5	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Protein163	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Protein163	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Protein163	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Protein87	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Protein87	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Protein87	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Complex22	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Complex22	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Complex22	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Complex19	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Complex19	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Complex19	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Protein177	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Protein177	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Protein177	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex27	Complex27	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	SmallMolecule4	Complex27	
+BiochemicalReaction25	trans-Golgi Network Derived Lysosomal Vesicle Uncoating	Complex31	Complex27	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein179	Protein179	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein180	Protein179	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein181	Protein179	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein181	Protein182	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein180	Protein182	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein179	Protein182	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein181	Protein181	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein180	Protein181	
+BiochemicalReaction26	Vamp2 associated secretory vesicle to plasma membrane transport	Protein179	Protein181	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein179	Protein179	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein161	Protein179	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein181	Protein179	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein181	Protein181	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein161	Protein181	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein179	Protein181	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein181	Protein183	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein161	Protein183	
+BiochemicalReaction27	Vamp7 associated Lysosome to Plasma membrane transport	Protein179	Protein183	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein184	Protein185	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein179	Protein185	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein181	Protein185	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein181	Protein179	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein179	Protein179	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein184	Protein179	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein181	Protein181	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein179	Protein181	
+BiochemicalReaction28	Vamp8 associated secretory vesicle to plasma membrane transport	Protein184	Protein181	
+BiochemicalReaction29	Transport of connexins to the ER-Golgi intermediate compartment	Protein206	Protein207	
+BiochemicalReaction3	Loss of Sar1b GTPase	Complex4	SmallMolecule3	
+BiochemicalReaction3	Loss of Sar1b GTPase	Complex4	Complex3	
+BiochemicalReaction3	Loss of Sar1b GTPase	Complex4	Complex1	
+BiochemicalReaction30	Transport of connexins to the Trans-Golgi Network (TGN)	Protein205	Protein210	
+BiochemicalReaction31	Connexin oligomerization in endoplasmic reticulum membrane	Protein204	Complex36	
+BiochemicalReaction32	Connexin oligomerization in  ER-Golgi-Intermediate Compartment	Protein209	Complex37	
+BiochemicalReaction32	Connexin oligomerization in  ER-Golgi-Intermediate Compartment	Protein208	Complex37	
+BiochemicalReaction33	Connexin oligomerization in Trans-Golgi Network (TGN)	Protein210	Complex38	
+BiochemicalReaction34	Microtubule-independent trafficking of connexons to the plasma membrane	Complex39	Complex40	
+BiochemicalReaction35	Budding of connexon-containing transport vesicles from the Golgi	Complex38	Complex41	
+BiochemicalReaction36	Association of Golgi  transport vesicles with microtubules	Complex41	Complex42	
+BiochemicalReaction36	Association of Golgi  transport vesicles with microtubules	PhysicalEntity6	Complex42	
+BiochemicalReaction37	Docking of connexons into junctional, double-membrane spanning channels	Complex42	Complex43	
+BiochemicalReaction38	Insertion of connexons into the plasma membrane resulting in the formation of hemi-channels	Complex43	Complex44	
+BiochemicalReaction38	Insertion of connexons into the plasma membrane resulting in the formation of hemi-channels	Complex43	PhysicalEntity6	
+BiochemicalReaction39	Formation of junctional channels	Complex45	Complex46	
+BiochemicalReaction4	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein16	Complex6	
+BiochemicalReaction4	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Complex4	Complex6	
+BiochemicalReaction4	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein17	Complex6	
+BiochemicalReaction40	Assembly of gap junction plaques	Complex46	Complex47	
+BiochemicalReaction41	Dab2 is recruited to the junctional plaques	Complex48	Complex50	
+BiochemicalReaction41	Dab2 is recruited to the junctional plaques	Protein221	Complex50	
+BiochemicalReaction42	Dynamin is recruited to the gap junction plaque	Complex50	Complex51	
+BiochemicalReaction42	Dynamin is recruited to the gap junction plaque	Protein222	Complex51	
+BiochemicalReaction43	Internalization of gap junction plaques	Complex51	Complex52	
+BiochemicalReaction43	Internalization of gap junction plaques	Protein225	Complex52	
+BiochemicalReaction44	Association of Cx43  with TJP1	Protein239	Complex60	
+BiochemicalReaction44	Association of Cx43  with TJP1	Complex41	Complex60	
+BiochemicalReaction45	c-src associates with Cx43 in gap junctions	Protein241	Complex63	
+BiochemicalReaction45	c-src associates with Cx43 in gap junctions	Complex61	Complex63	
+BiochemicalReaction46	Phosphorylation of Cx43 by c-src	Complex63	SmallMolecule5	
+BiochemicalReaction46	Phosphorylation of Cx43 by c-src	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction46	Phosphorylation of Cx43 by c-src	SmallMolecule4	Complex65	
+BiochemicalReaction46	Phosphorylation of Cx43 by c-src	Complex63	Complex65	
+BiochemicalReaction47	Closure of gap junction	Complex67	Complex69	
+BiochemicalReaction48	Cargo Recognition And Sorting	Complex70	Complex74	
+BiochemicalReaction48	Cargo Recognition And Sorting	Complex73	Complex74	
+BiochemicalReaction48	Cargo Recognition And Sorting	Complex73	Complex71	
+BiochemicalReaction48	Cargo Recognition And Sorting	Complex70	Complex71	
+BiochemicalReaction49	Cargo Sequestration	Complex74	Complex76	
+BiochemicalReaction49	Cargo Sequestration	Complex75	Complex76	
+BiochemicalReaction49	Cargo Sequestration	Complex75	Complex73	
+BiochemicalReaction49	Cargo Sequestration	Complex74	Complex73	
+BiochemicalReaction5	Vesicle Budding	Complex6	Complex8	
+BiochemicalReaction50	MVB Vesicle Formation	Complex76	Complex75	
+BiochemicalReaction50	MVB Vesicle Formation	Complex77	Complex75	
+BiochemicalReaction50	MVB Vesicle Formation	Complex77	Complex78	
+BiochemicalReaction50	MVB Vesicle Formation	Complex76	Complex78	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	SmallMolecule3	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	Complex79	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	Complex79	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	SmallMolecule5	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	Protein273	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	Protein273	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	Protein277	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	Protein277	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	Protein278	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	Protein278	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	Protein279	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	Protein279	
+BiochemicalReaction51	ESCRT Disassembly	SmallMolecule4	Protein280	
+BiochemicalReaction51	ESCRT Disassembly	Complex78	Protein280	
+BiochemicalReaction52	RAB4A:GTP Activates KIF3	Complex81	Complex83	
+BiochemicalReaction52	RAB4A:GTP Activates KIF3	Complex82	Complex83	
+BiochemicalReaction52	RAB4A:GTP Activates KIF3	PhysicalEntity6	Complex83	
+BiochemicalReaction53	AKT1/2 Phosphorylates AS160 (TBC1D4)	Complex84	Complex85	
+BiochemicalReaction53	AKT1/2 Phosphorylates AS160 (TBC1D4)	SmallMolecule4	Complex85	
+BiochemicalReaction53	AKT1/2 Phosphorylates AS160 (TBC1D4)	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction53	AKT1/2 Phosphorylates AS160 (TBC1D4)	Complex84	SmallMolecule5	
+BiochemicalReaction54	14-3-3 Binds Phosphorylated AS160 (TBC1D4)	Complex85	Complex94	
+BiochemicalReaction54	14-3-3 Binds Phosphorylated AS160 (TBC1D4)	Complex86	Complex94	
+BiochemicalReaction55	AMPK-alpha2 Phosphorylates TBC1D1	Protein325	SmallMolecule5	
+BiochemicalReaction55	AMPK-alpha2 Phosphorylates TBC1D1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction55	AMPK-alpha2 Phosphorylates TBC1D1	SmallMolecule4	Protein326	
+BiochemicalReaction55	AMPK-alpha2 Phosphorylates TBC1D1	Protein325	Protein326	
+BiochemicalReaction56	14-3-3 Binds Phosphorylated TBC1D1	Complex86	Complex106	
+BiochemicalReaction56	14-3-3 Binds Phosphorylated TBC1D1	Protein326	Complex106	
+BiochemicalReaction57	RAB8A/10/13/14 Exchange GDP for GTP	SmallMolecule8	Complex108	
+BiochemicalReaction57	RAB8A/10/13/14 Exchange GDP for GTP	Complex107	Complex108	
+BiochemicalReaction57	RAB8A/10/13/14 Exchange GDP for GTP	Complex107	SmallMolecule10	
+BiochemicalReaction57	RAB8A/10/13/14 Exchange GDP for GTP	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction58	RAB8A/10/13/14 Hydrolyze GTP	Complex108	Complex107	
+BiochemicalReaction59	AKT2 Phosphorylates RGC2	Complex109	Complex110	
+BiochemicalReaction59	AKT2 Phosphorylates RGC2	SmallMolecule4	Complex110	
+BiochemicalReaction59	AKT2 Phosphorylates RGC2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction59	AKT2 Phosphorylates RGC2	Complex109	SmallMolecule5	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	SmallMolecule3	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein16	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein10	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein1	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein17	
+BiochemicalReaction6	Vesicle Uncoating	Complex8	Protein4	
+BiochemicalReaction60	Activation of RALA	Complex111	SmallMolecule10	
+BiochemicalReaction60	Activation of RALA	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction60	Activation of RALA	SmallMolecule8	Complex112	
+BiochemicalReaction60	Activation of RALA	Complex111	Complex112	
+BiochemicalReaction61	RALA:GTP Activates MYO1C	Complex112	Complex114	
+BiochemicalReaction61	RALA:GTP Activates MYO1C	Complex113	Complex114	
+BiochemicalReaction61	RALA:GTP Activates MYO1C	PhysicalEntity9	Complex114	
+BiochemicalReaction62	RALA Hydrolyzes GTP	Complex112	Complex111	
+BiochemicalReaction62	RALA Hydrolyzes GTP	Complex112	SmallMolecule11	
+BiochemicalReaction63	AKT2 Phosphorylates Myosin 5A	Protein346	SmallMolecule5	
+BiochemicalReaction63	AKT2 Phosphorylates Myosin 5A	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction63	AKT2 Phosphorylates Myosin 5A	PhysicalEntity9	SmallMolecule5	
+BiochemicalReaction63	AKT2 Phosphorylates Myosin 5A	PhysicalEntity9	Complex115	
+BiochemicalReaction63	AKT2 Phosphorylates Myosin 5A	SmallMolecule4	Complex115	
+BiochemicalReaction63	AKT2 Phosphorylates Myosin 5A	Protein346	Complex115	
+BiochemicalReaction64	Translocation of GLUT4 Vesicle and Docking at the Plasma Membrane	Complex116	Complex117	
+BiochemicalReaction64	Translocation of GLUT4 Vesicle and Docking at the Plasma Membrane	Complex114	Complex117	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein371	Protein375	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex121	Protein375	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule4	Protein375	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein181	Protein375	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex122	Protein375	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex122	Protein372	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein181	Protein372	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule4	Protein372	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex121	Protein372	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein371	Protein372	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex122	SmallMolecule5	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein181	SmallMolecule5	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex121	SmallMolecule5	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein371	SmallMolecule5	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex122	Protein376	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein181	Protein376	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule4	Protein376	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex121	Protein376	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein371	Protein376	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex122	Complex123	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein181	Complex123	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	SmallMolecule4	Complex123	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Complex121	Complex123	
+BiochemicalReaction65	Fusion of GLUT4 Vesicle with the Plasma Membrane	Protein371	Complex123	
+BiochemicalReaction7	Arf1 Activation by GBF1	SmallMolecule1	Complex12	
+BiochemicalReaction7	Arf1 Activation by GBF1	Complex11	Complex12	
+BiochemicalReaction7	Arf1 Activation by GBF1	Complex11	SmallMolecule2	
+BiochemicalReaction7	Arf1 Activation by GBF1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Coat Complex Formation	Complex13	Complex14	
+BiochemicalReaction8	Coat Complex Formation	Complex12	Complex14	
+BiochemicalReaction9	GAP Recruitment to the Coatomer:Arf1-GTP Complex	Complex14	Complex15	
+BiochemicalReaction9	GAP Recruitment to the Coatomer:Arf1-GTP Complex	Protein38	Complex15	
+Degradation1	Lysosomal degradation of gap junction plaques	Complex52	NA	
+TemplateReaction1	Connexin synthesis (generic)	NA	Protein186	
+TemplateReaction2	Synthesis of Cx26	NA	Protein203	
+TemplateReaction3	Synthesis of Cx32	NA	Protein204	
+TemplateReaction4	Synthesis of Cx43	NA	Protein205	

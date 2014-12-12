@@ -1,0 +1,18 @@
+BiochemicalReaction1	Phosphorylated SHC1 recruits GRB2:GAB2	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction1	Phosphorylated SHC1 recruits GRB2:GAB2	Complex19	PhysicalEntity2	
+BiochemicalReaction2	SHC1 mediates cytokine-induced phosphorylation of GAB2	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction2	SHC1 mediates cytokine-induced phosphorylation of GAB2	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction2	SHC1 mediates cytokine-induced phosphorylation of GAB2	PhysicalEntity2	SmallMolecule2	
+BiochemicalReaction2	SHC1 mediates cytokine-induced phosphorylation of GAB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Gab2 binds the p85 subunit of Class 1A PI3 kinases	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction3	Gab2 binds the p85 subunit of Class 1A PI3 kinases	Complex36	PhysicalEntity4	
+BiochemicalReaction4	Phosphorylated SHC recruits GRB2:SOS1	PhysicalEntity1	Complex46	
+BiochemicalReaction4	Phosphorylated SHC recruits GRB2:SOS1	Complex45	Complex46	
+BiochemicalReaction5	SOS1 activates H-Ras	SmallMolecule3	Complex48	
+BiochemicalReaction5	SOS1 activates H-Ras	Complex47	Complex48	
+BiochemicalReaction5	SOS1 activates H-Ras	Complex47	SmallMolecule4	
+BiochemicalReaction5	SOS1 activates H-Ras	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction6	Phosphorylated SHC1 recruits SHIP	PhysicalEntity1	Complex49	
+BiochemicalReaction6	Phosphorylated SHC1 recruits SHIP	Protein30	Complex49	
+BiochemicalReaction7	The SHC1:SHIP1 complex is stabilized by GRB2	Complex50	Complex51	
+BiochemicalReaction7	The SHC1:SHIP1 complex is stabilized by GRB2	Protein18	Complex51	

@@ -1,0 +1,40 @@
+Complex1	Robo1/Robo2:Robo3A.1	plasma membrane	Reactome DB_ID: 428496	Protein4	
+Complex1	Robo1/Robo2:Robo3A.1	plasma membrane	Reactome DB_ID: 428496	Protein5	
+Complex10	Robo1:Slit2:KIAA1688	plasma membrane	Reactome DB_ID: 428491	Protein21	
+Complex10	Robo1:Slit2:KIAA1688	plasma membrane	Reactome DB_ID: 428491	Complex4	
+Complex11	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule2	
+Complex11	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein22	
+Complex12	RAC1-GDP	cytosol	Reactome DB_ID: 445010	SmallMolecule4	
+Complex12	RAC1-GDP	cytosol	Reactome DB_ID: 445010	Protein22	
+Complex13	Nck:Robo1:Slit2:Glypican	plasma membrane	Reactome DB_ID: 428486	Protein23	
+Complex13	Nck:Robo1:Slit2:Glypican	plasma membrane	Reactome DB_ID: 428486	Complex4	
+Complex14	Pak:Nck:Robo1:Slit2:Glypican	plasma membrane	Reactome DB_ID: 428482	Complex13	
+Complex14	Pak:Nck:Robo1:Slit2:Glypican	plasma membrane	Reactome DB_ID: 428482	Protein26	
+Complex15	SOS:PAK:Nck:Robo1:Slit2:Glypican	plasma membrane	Reactome DB_ID: 428481	Complex14	
+Complex15	SOS:PAK:Nck:Robo1:Slit2:Glypican	plasma membrane	Reactome DB_ID: 428481	Protein33	
+Complex16	Abl:Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428873	Complex4	
+Complex16	Abl:Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428873	Protein36	
+Complex17	Abl:pRobo1:slit2:Glypican-1	plasma membrane	Reactome DB_ID: 376027	Complex18	
+Complex17	Abl:pRobo1:slit2:Glypican-1	plasma membrane	Reactome DB_ID: 376027	Protein36	
+Complex18	Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428499	Protein39	
+Complex18	Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428499	Complex3	
+Complex19	Clasp:Abl:Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428876	Protein40	
+Complex19	Clasp:Abl:Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428876	Complex16	
+Complex2	Glypican-1:HSPG	plasma membrane	Reactome DB_ID: 428493	Protein8	
+Complex2	Glypican-1:HSPG	plasma membrane	Reactome DB_ID: 428493	SmallMolecule1	
+Complex20	CAP:Abl:Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428875	Complex16	
+Complex20	CAP:Abl:Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428875	Protein43	
+Complex3	Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428489	Protein1	
+Complex3	Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 428489	Complex2	
+Complex4	Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 390371	Complex3	
+Complex4	Robo1:Slit2:Glypican-1	plasma membrane	Reactome DB_ID: 390371	Protein6	
+Complex5	Glypican-1:Slit2:Robo1:Ena/Vasp proteins	plasma membrane	Reactome DB_ID: 376032	Protein9	
+Complex5	Glypican-1:Slit2:Robo1:Ena/Vasp proteins	plasma membrane	Reactome DB_ID: 376032	Complex4	
+Complex6	Glypican-1:Slit2:Robo1:Ena/Vasp:Profilin	plasma membrane	Reactome DB_ID: 428492	Protein13	
+Complex6	Glypican-1:Slit2:Robo1:Ena/Vasp:Profilin	plasma membrane	Reactome DB_ID: 428492	Complex5	
+Complex7	Robo1:Slit2:SrGAP	plasma membrane	Reactome DB_ID: 376031	Protein16	
+Complex7	Robo1:Slit2:SrGAP	plasma membrane	Reactome DB_ID: 376031	Complex4	
+Complex8	CDC42:GTP	cytosol	Reactome DB_ID: 182921	Protein20	
+Complex8	CDC42:GTP	cytosol	Reactome DB_ID: 182921	SmallMolecule2	
+Complex9	CDC42:GDP	cytosol	Reactome DB_ID: 418830	Protein20	
+Complex9	CDC42:GDP	cytosol	Reactome DB_ID: 418830	SmallMolecule4	

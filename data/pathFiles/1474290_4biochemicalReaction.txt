@@ -1,0 +1,121 @@
+BiochemicalReaction1	PDI is a chaperone for collagen peptides	Protein1	Complex1	
+BiochemicalReaction1	PDI is a chaperone for collagen peptides	Protein46	Complex1	
+BiochemicalReaction10	Dimerization of procollagen type VI	Complex85	Complex86	
+BiochemicalReaction11	Tetramerization of procollagen VI	Complex86	Complex87	
+BiochemicalReaction12	Secretion of collagens	Complex88	PhysicalEntity41	
+BiochemicalReaction12	Secretion of collagens	Complex88	Protein599	
+BiochemicalReaction13	Secretion of transmembrane collagens	Complex80	Complex121	
+BiochemicalReaction14	Removal of fibrillar collagen N-propeptides	PhysicalEntity42	PhysicalEntity45	
+BiochemicalReaction15	Removal of fibrillar collagen C-propeptides	PhysicalEntity45	PhysicalEntity46	
+BiochemicalReaction16	Formation of collagen fibrils	PhysicalEntity48	PhysicalEntity49	
+BiochemicalReaction17	Formation of collagen networks	PhysicalEntity57	PhysicalEntity58	
+BiochemicalReaction18	Collagen type VII dimerization	Complex106	Complex147	
+BiochemicalReaction19	Cleavage of collagen VII NC2 region by BMP1	Complex147	Protein1466	
+BiochemicalReaction19	Cleavage of collagen VII NC2 region by BMP1	Complex147	Complex148	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	SmallMolecule4	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction20	Formation of anchoring fibrils	Complex148	PhysicalEntity66	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity50	Complex151	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	Complex150	Complex151	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity66	Complex151	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity62	Complex151	
+BiochemicalReaction22	Prolysyl oxidase activation	Protein1498	Protein1504	
+BiochemicalReaction22	Prolysyl oxidase activation	Protein1498	Protein1510	
+BiochemicalReaction23	Formation of allysine by LOX	PhysicalEntity50	PhysicalEntity67	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule11	PhysicalEntity67	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule12	PhysicalEntity67	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction23	Formation of allysine by LOX	PhysicalEntity50	SmallMolecule13	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction23	Formation of allysine by LOX	PhysicalEntity50	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity50	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity68	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule12	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity68	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule11	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity50	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity68	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity50	SmallMolecule14	
+BiochemicalReaction25	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity67	Complex153	
+BiochemicalReaction25	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity50	Complex153	
+BiochemicalReaction26	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity67	Complex154	
+BiochemicalReaction26	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity50	Complex154	
+BiochemicalReaction27	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity50	Complex155	
+BiochemicalReaction27	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity69	Complex155	
+BiochemicalReaction28	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity50	Complex156	
+BiochemicalReaction28	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity69	Complex156	
+BiochemicalReaction29	Formation of lysyl-pyridinoline cross-links	Complex156	Complex157	
+BiochemicalReaction29	Formation of lysyl-pyridinoline cross-links	Complex155	Complex157	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction30	Formation of hydroxylysyl-pyridinoline cross-links	Complex156	Complex158	
+BiochemicalReaction31	Formation of lysyl-pyrrole cross-links	Complex154	Complex159	
+BiochemicalReaction31	Formation of lysyl-pyrrole cross-links	Complex155	Complex159	
+BiochemicalReaction32	Formation of hydroxylysyl-pyrrole cross-links	Complex156	Complex160	
+BiochemicalReaction32	Formation of hydroxylysyl-pyrrole cross-links	Complex154	Complex160	
+BiochemicalReaction33	Formation of histidino-hydroxylysinonorleucine cross-links	PhysicalEntity50	Complex161	
+BiochemicalReaction33	Formation of histidino-hydroxylysinonorleucine cross-links	Complex154	Complex161	
+BiochemicalReaction34	Formation of collagen fibres	PhysicalEntity49	PhysicalEntity79	
+BiochemicalReaction35	Collagen XI cross-links with collagen II	PhysicalEntity51	Complex162	
+BiochemicalReaction35	Collagen XI cross-links with collagen II	PhysicalEntity54	Complex162	
+BiochemicalReaction36	Collagen IX is cross-linked to the surface of collagen type II fibrils	PhysicalEntity51	Complex163	
+BiochemicalReaction37	Type XII and XIV collagens associate with type I and type II fibrils.	PhysicalEntity87	Complex164	
+BiochemicalReaction37	Type XII and XIV collagens associate with type I and type II fibrils.	PhysicalEntity88	Complex164	
+BiochemicalReaction38	Type X collagen associates with collagen type II fibrils	PhysicalEntity51	Complex165	
+BiochemicalReaction38	Type X collagen associates with collagen type II fibrils	PhysicalEntity61	Complex165	
+BiochemicalReaction39	Hemidesmosome formation	Complex166	Complex170	
+BiochemicalReaction39	Hemidesmosome formation	Complex167	Complex170	
+BiochemicalReaction39	Hemidesmosome formation	Protein1520	Complex170	
+BiochemicalReaction39	Hemidesmosome formation	Complex169	Complex170	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1521	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1521	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1522	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1522	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1523	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1523	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1524	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1524	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	Complex8	SmallMolecule9	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	SmallMolecule8	Complex13	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	Complex8	Complex13	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	Complex8	SmallMolecule9	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	SmallMolecule8	Complex13	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	Complex8	Complex13	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	Complex13	SmallMolecule9	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	SmallMolecule10	Complex14	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	Complex13	Complex14	
+BiochemicalReaction8	Association of procollagen chains	PhysicalEntity6	PhysicalEntity36	
+BiochemicalReaction9	Procollagen triple helix formation	Protein599	Complex49	
+BiochemicalReaction9	Procollagen triple helix formation	PhysicalEntity36	Complex49	

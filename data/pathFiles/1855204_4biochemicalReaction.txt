@@ -1,0 +1,48 @@
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule13	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule13	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule17	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule17	SmallMolecule11	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule16	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule17	SmallMolecule16	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule3	SmallMolecule11	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule3	SmallMolecule12	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule12	SmallMolecule3	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule11	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule12	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule11	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule16	

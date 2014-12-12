@@ -1,0 +1,66 @@
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	Complex1	Complex2	
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	SmallMolecule1	Complex2	
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	Complex1	SmallMolecule2	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein1	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein1	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein5	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein5	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein6	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein6	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	SmallMolecule2	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein7	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein7	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	PhysicalEntity3	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein8	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein8	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	SmallMolecule1	Protein9	
+BiochemicalReaction2	Deadenylation of mRNA by PARN	Complex2	Protein9	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein1	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein1	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein5	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein5	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein6	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein6	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	SmallMolecule2	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein7	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein7	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	PhysicalEntity3	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein8	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein8	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule1	Protein9	
+BiochemicalReaction3	Deadenylation of mRNA by the CCR4-NOT Complex	Complex2	Protein9	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule3	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule5	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	PhysicalEntity4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity3	SmallMolecule2	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	SmallMolecule1	PhysicalEntity5	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction5	Scavenging of the 7-methylguanosine Cap by DCPS	PhysicalEntity4	SmallMolecule6	
+BiochemicalReaction6	Binding of Lsm1-7 Complex to Deadenylated mRNA	Complex8	Complex9	
+BiochemicalReaction6	Binding of Lsm1-7 Complex to Deadenylated mRNA	PhysicalEntity3	Complex9	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	Complex9	Complex10	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	SmallMolecule1	Complex10	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction7	Decapping of mRNA by the DCP1-DCP2 Complex	Complex9	SmallMolecule7	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	Complex8	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	Complex8	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule3	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule4	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule5	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex10	SmallMolecule2	

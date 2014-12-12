@@ -1,0 +1,66 @@
+BiochemicalReaction1	Growth hormone forms dimers and oligomers	Protein1	PhysicalEntity1	
+BiochemicalReaction10	STAT5 tyrosine phosphorylation	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction10	STAT5 tyrosine phosphorylation	Complex24	SmallMolecule3	
+BiochemicalReaction10	STAT5 tyrosine phosphorylation	Complex24	Complex25	
+BiochemicalReaction10	STAT5 tyrosine phosphorylation	SmallMolecule1	Complex25	
+BiochemicalReaction11	Phosphorylated STAT5 is released	Complex25	Protein23	
+BiochemicalReaction11	Phosphorylated STAT5 is released	Complex25	Complex21	
+BiochemicalReaction12	Phosphorylated STAT5 forms dimers	Protein23	Complex26	
+BiochemicalReaction13	STAT5 dimers translocate to the nucleus and bind to specific DNA sequences	Complex26	Complex27	
+BiochemicalReaction14	Growth hormone receptor binds Lyn	Complex4	Complex28	
+BiochemicalReaction14	Growth hormone receptor binds Lyn	Protein29	Complex28	
+BiochemicalReaction15	Lyn activates ERK	Protein30	SmallMolecule3	
+BiochemicalReaction15	Lyn activates ERK	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction15	Lyn activates ERK	SmallMolecule1	Protein33	
+BiochemicalReaction15	Lyn activates ERK	Protein30	Protein33	
+BiochemicalReaction16	JAK2 binds STAT1/3	Protein36	Complex29	
+BiochemicalReaction16	JAK2 binds STAT1/3	Complex14	Complex29	
+BiochemicalReaction17	JAK2 phosphorylates STAT1/STAT3	SmallMolecule1	Complex30	
+BiochemicalReaction17	JAK2 phosphorylates STAT1/STAT3	Complex29	Complex30	
+BiochemicalReaction17	JAK2 phosphorylates STAT1/STAT3	Complex29	SmallMolecule3	
+BiochemicalReaction17	JAK2 phosphorylates STAT1/STAT3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction18	SOCS binding to GHR	Protein42	Complex31	
+BiochemicalReaction18	SOCS binding to GHR	Complex21	Complex31	
+BiochemicalReaction19	SOCS binding to JAK2	Protein47	Complex32	
+BiochemicalReaction19	SOCS binding to JAK2	Complex21	Complex32	
+BiochemicalReaction2	Growth hormone receptor binds JAK2	Protein4	Complex1	
+BiochemicalReaction2	Growth hormone receptor binds JAK2	Protein5	Complex1	
+BiochemicalReaction20	PTP1B binds the GH receptor complex	Protein48	Complex33	
+BiochemicalReaction20	PTP1B binds the GH receptor complex	Complex21	Complex33	
+BiochemicalReaction21	PTP1B dephosphorylates GHR	Complex33	SmallMolecule5	
+BiochemicalReaction21	PTP1B dephosphorylates GHR	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction21	PTP1B dephosphorylates GHR	SmallMolecule4	Complex34	
+BiochemicalReaction21	PTP1B dephosphorylates GHR	Complex33	Complex34	
+BiochemicalReaction22	PTP1B dephosphorylates JAK2	Complex33	SmallMolecule5	
+BiochemicalReaction22	PTP1B dephosphorylates JAK2	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction22	PTP1B dephosphorylates JAK2	SmallMolecule4	Complex38	
+BiochemicalReaction22	PTP1B dephosphorylates JAK2	Complex33	Complex38	
+BiochemicalReaction23	SHP1 (PTPN6) binds JAK2 in the receptor complex	Protein50	Complex42	
+BiochemicalReaction23	SHP1 (PTPN6) binds JAK2 in the receptor complex	Complex21	Complex42	
+BiochemicalReaction24	SHP1 (PTPN6) dephosphorylates JAK2	Complex42	SmallMolecule5	
+BiochemicalReaction24	SHP1 (PTPN6) dephosphorylates JAK2	Complex42	Complex43	
+BiochemicalReaction25	Metalloprotease cleavage of GHR	Protein5	Protein6	
+BiochemicalReaction25	Metalloprotease cleavage of GHR	Protein5	Protein51	
+BiochemicalReaction26	GHBP binds GH	Protein6	Complex44	
+BiochemicalReaction26	GHBP binds GH	Protein1	Complex44	
+BiochemicalReaction27	GHBP binds GHR	Protein6	Complex3	
+BiochemicalReaction27	GHBP binds GHR	Protein5	Complex3	
+BiochemicalReaction28	GHR internalization	Protein5	Protein53	
+BiochemicalReaction3	Growth hormone receptor dimerizes	Complex1	Complex2	
+BiochemicalReaction4	Growth hormone binds the growth hormone receptor	Complex2	Complex4	
+BiochemicalReaction4	Growth hormone binds the growth hormone receptor	Protein1	Complex4	
+BiochemicalReaction5	GH:GHR:JAK2 complex undergoes a conformational change	Complex4	Complex5	
+BiochemicalReaction6	JAK2 phosphorylation	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	JAK2 phosphorylation	Complex8	SmallMolecule3	
+BiochemicalReaction6	JAK2 phosphorylation	Complex8	Complex13	
+BiochemicalReaction6	JAK2 phosphorylation	SmallMolecule1	Complex13	
+BiochemicalReaction7	JAK2 phosphorylation of IRS-1/2	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction7	JAK2 phosphorylation of IRS-1/2	Protein13	SmallMolecule3	
+BiochemicalReaction7	JAK2 phosphorylation of IRS-1/2	Protein13	Protein16	
+BiochemicalReaction7	JAK2 phosphorylation of IRS-1/2	SmallMolecule1	Protein16	
+BiochemicalReaction8	JAK2 phosphorylation of GHR	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction8	JAK2 phosphorylation of GHR	Complex14	SmallMolecule3	
+BiochemicalReaction8	JAK2 phosphorylation of GHR	Complex14	Complex21	
+BiochemicalReaction8	JAK2 phosphorylation of GHR	SmallMolecule1	Complex21	
+BiochemicalReaction9	STAT5 association with GHR	Protein20	Complex24	
+BiochemicalReaction9	STAT5 association with GHR	Complex21	Complex24	

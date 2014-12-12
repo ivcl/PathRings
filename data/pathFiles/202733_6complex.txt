@@ -1,0 +1,158 @@
+Complex1	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Complex2	
+Complex1	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Protein3	
+Complex1	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Protein4	
+Complex10	JAM-A Homodimer	plasma membrane	Reactome DB_ID: 202763	Protein11	
+Complex11	Integrin CD11a-CD18 (LFA-1)	plasma membrane	Reactome DB_ID: 198196	Protein7	
+Complex11	Integrin CD11a-CD18 (LFA-1)	plasma membrane	Reactome DB_ID: 198196	Protein12	
+Complex12	Integrin alphaLbeta2:F11R	plasma membrane	Reactome DB_ID: 202749	Protein11	
+Complex12	Integrin alphaLbeta2:F11R	plasma membrane	Reactome DB_ID: 202749	Complex11	
+Complex13	Integrin alphaXbeta2	plasma membrane	Reactome DB_ID: 202766	Protein13	
+Complex13	Integrin alphaXbeta2	plasma membrane	Reactome DB_ID: 202766	Protein7	
+Complex14	Integrin alphaXbeta2:JAM3	plasma membrane	Reactome DB_ID: 202765	Complex13	
+Complex14	Integrin alphaXbeta2:JAM3	plasma membrane	Reactome DB_ID: 202765	Protein5	
+Complex15	MERTK bound to its ligand	plasma membrane	Reactome DB_ID: 202770	Protein14	
+Complex15	MERTK bound to its ligand	plasma membrane	Reactome DB_ID: 202770	Protein15	
+Complex16	CD84 dimer	plasma membrane	Reactome DB_ID: 202774	Protein18	
+Complex17	P-selectin bound to its ligand	plasma membrane	Reactome DB_ID: 202776	Protein19	
+Complex17	P-selectin bound to its ligand	plasma membrane	Reactome DB_ID: 202776	Protein20	
+Complex18	JAM-B homodimer	plasma membrane	Reactome DB_ID: 202780	Protein25	
+Complex19	JAM-C homodimer	plasma membrane	Reactome DB_ID: 202782	Protein5	
+Complex2	GP VI : FceRI gamma dimer	plasma membrane	Reactome DB_ID: 114575	Complex3	
+Complex2	GP VI : FceRI gamma dimer	plasma membrane	Reactome DB_ID: 114575	Protein2	
+Complex20	PECAM-1 bound to CD177	plasma membrane	Reactome DB_ID: 202785	Protein26	
+Complex20	PECAM-1 bound to CD177	plasma membrane	Reactome DB_ID: 202785	Protein27	
+Complex21	CD47 bound to its ligand	plasma membrane	Reactome DB_ID: 202787	Protein28	
+Complex21	CD47 bound to its ligand	plasma membrane	Reactome DB_ID: 202787	Protein31	
+Complex22	CD48 bound to CD244	plasma membrane	Reactome DB_ID: 202790	Protein32	
+Complex22	CD48 bound to CD244	plasma membrane	Reactome DB_ID: 202790	Protein33	
+Complex23	CD58 bound to CD2	plasma membrane	Reactome DB_ID: 202794	Protein34	
+Complex23	CD58 bound to CD2	plasma membrane	Reactome DB_ID: 202794	Protein35	
+Complex24	FN1 dimer	extracellular region	Reactome DB_ID: 266103	Protein36	
+Complex25	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein37	
+Complex25	Integrin alpha5beta1	plasma membrane	Reactome DB_ID: 202730	Protein10	
+Complex26	Integrin alpha5beta1:FN1 dimer	plasma membrane	Reactome DB_ID: 202708	Complex24	
+Complex26	Integrin alpha5beta1:FN1 dimer	plasma membrane	Reactome DB_ID: 202708	SmallMolecule1	
+Complex26	Integrin alpha5beta1:FN1 dimer	plasma membrane	Reactome DB_ID: 202708	Complex25	
+Complex27	CXADR bound to JAML	plasma membrane	Reactome DB_ID: 198198	Protein38	
+Complex27	CXADR bound to JAML	plasma membrane	Reactome DB_ID: 198198	Protein39	
+Complex28	protein C	extracellular region	Reactome DB_ID: 141043	Protein40	
+Complex28	protein C	extracellular region	Reactome DB_ID: 141043	Protein41	
+Complex29	activated protein C	extracellular region	Reactome DB_ID: 141050	SmallMolecule2	
+Complex29	activated protein C	extracellular region	Reactome DB_ID: 141050	Protein42	
+Complex29	activated protein C	extracellular region	Reactome DB_ID: 141050	Protein41	
+Complex3	FCERIG dimer	plasma membrane	Reactome DB_ID: 210223	Protein1	
+Complex30	activated thrombin:thrombomodulin	plasma membrane	Reactome DB_ID: 141038	Complex31	
+Complex30	activated thrombin:thrombomodulin	plasma membrane	Reactome DB_ID: 141038	Protein46	
+Complex31	activated thrombin (factor IIa)	plasma membrane	Reactome DB_ID: 140811	Protein44	
+Complex31	activated thrombin (factor IIa)	plasma membrane	Reactome DB_ID: 140811	Protein45	
+Complex31	activated thrombin (factor IIa)	plasma membrane	Reactome DB_ID: 140811	SmallMolecule3	
+Complex32	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule4	
+Complex32	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule5	
+Complex32	LDL	extracellular region	Reactome DB_ID: 171131	Protein50	
+Complex32	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule6	
+Complex32	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule7	
+Complex33	OLR1 bound to oxidized LDL	plasma membrane	Reactome DB_ID: 203127	Complex32	
+Complex33	OLR1 bound to oxidized LDL	plasma membrane	Reactome DB_ID: 203127	Protein51	
+Complex34	TREM-1 bound to its ligand	plasma membrane	Reactome DB_ID: 203154	Protein52	
+Complex34	TREM-1 bound to its ligand	plasma membrane	Reactome DB_ID: 203154	PhysicalEntity2	
+Complex35	Complex of Tie2:Ang-1	plasma membrane	Reactome DB_ID: 204807	Protein53	
+Complex35	Complex of Tie2:Ang-1	plasma membrane	Reactome DB_ID: 204807	Protein54	
+Complex36	Tie2/Ang1 dimer	plasma membrane	Reactome DB_ID: 210862	Complex35	
+Complex37	Phosphorylated Tie2 in Tie2/Akt dimer	plasma membrane	Reactome DB_ID: 210859	Complex38	
+Complex38	pTie2:Ang-1	plasma membrane	Reactome DB_ID: 204783	Protein53	
+Complex38	pTie2:Ang-1	plasma membrane	Reactome DB_ID: 204783	Protein55	
+Complex39	PI3K	cytosol	Reactome DB_ID: 74693	Protein56	
+Complex39	PI3K	cytosol	Reactome DB_ID: 74693	Protein59	
+Complex4	GPVI:FceRI gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434812	PhysicalEntity1	
+Complex4	GPVI:FceRI gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434812	Complex1	
+Complex40	p85 bound to Tie2	plasma membrane	Reactome DB_ID: 204834	Complex38	
+Complex40	p85 bound to Tie2	plasma membrane	Reactome DB_ID: 204834	Complex39	
+Complex41	Grb2 bound to Tie2	plasma membrane	Reactome DB_ID: 204865	Complex38	
+Complex41	Grb2 bound to Tie2	plasma membrane	Reactome DB_ID: 204865	Protein62	
+Complex42	SOS-1 bound to Tie2:Grb2	plasma membrane	Reactome DB_ID: 210970	Complex41	
+Complex42	SOS-1 bound to Tie2:Grb2	plasma membrane	Reactome DB_ID: 210970	Protein63	
+Complex43	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	Protein64	
+Complex43	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	SmallMolecule11	
+Complex44	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule10	
+Complex44	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein64	
+Complex45	pTie2:SHC1 complex	plasma membrane	Reactome DB_ID: 204857	Protein68	
+Complex45	pTie2:SHC1 complex	plasma membrane	Reactome DB_ID: 204857	Complex38	
+Complex46	Tie2 and Dok-2 complex	plasma membrane	Reactome DB_ID: 204788	Complex38	
+Complex46	Tie2 and Dok-2 complex	plasma membrane	Reactome DB_ID: 204788	Protein69	
+Complex47	Complex of Tie2:Ang2	plasma membrane	Reactome DB_ID: 204810	Protein54	
+Complex47	Complex of Tie2:Ang2	plasma membrane	Reactome DB_ID: 204810	Protein70	
+Complex48	Tie2 and Ang4 complex	plasma membrane	Reactome DB_ID: 204789	Protein71	
+Complex48	Tie2 and Ang4 complex	plasma membrane	Reactome DB_ID: 204789	Protein54	
+Complex49	pTie2 and SHP2 complex	plasma membrane	Reactome DB_ID: 204767	Complex38	
+Complex49	pTie2 and SHP2 complex	plasma membrane	Reactome DB_ID: 204767	Protein72	
+Complex5	Integrin MAC-1	plasma membrane	Reactome DB_ID: 202755	Protein6	
+Complex5	Integrin MAC-1	plasma membrane	Reactome DB_ID: 202755	Protein7	
+Complex50	Tie2:Grb7 complex	plasma membrane	Reactome DB_ID: 204799	Protein73	
+Complex50	Tie2:Grb7 complex	plasma membrane	Reactome DB_ID: 204799	Complex38	
+Complex51	Tie2 and Grb14 complex	plasma membrane	Reactome DB_ID: 204809	Protein74	
+Complex51	Tie2 and Grb14 complex	plasma membrane	Reactome DB_ID: 204809	Complex38	
+Complex52	PECAM-1:PECAM-1	plasma membrane	Reactome DB_ID: 210238	Protein26	
+Complex53	Integrin alphaVbeta3	plasma membrane	Reactome DB_ID: 210216	Protein75	
+Complex53	Integrin alphaVbeta3	plasma membrane	Reactome DB_ID: 210216	Protein76	
+Complex54	Integrin alphaVbeta3:PECAM1	plasma membrane	Reactome DB_ID: 210229	Protein26	
+Complex54	Integrin alphaVbeta3:PECAM1	plasma membrane	Reactome DB_ID: 210229	Complex53	
+Complex55	p-PECAM1:p-PECAM1	plasma membrane	Reactome DB_ID: 211539	Protein77	
+Complex56	PECAM-1:SHIP1 complex	plasma membrane	Reactome DB_ID: 210218	Protein82	
+Complex56	PECAM-1:SHIP1 complex	plasma membrane	Reactome DB_ID: 210218	Protein77	
+Complex57	PECAM-1:SHP-2 complex	plasma membrane	Reactome DB_ID: 210219	Protein77	
+Complex57	PECAM-1:SHP-2 complex	plasma membrane	Reactome DB_ID: 210219	Protein72	
+Complex58	PECAM-1:PLC gamma1 complex	plasma membrane	Reactome DB_ID: 210240	Protein83	
+Complex58	PECAM-1:PLC gamma1 complex	plasma membrane	Reactome DB_ID: 210240	Protein77	
+Complex59	PECAM-1:SHP-1 complex	plasma membrane	Reactome DB_ID: 210221	Protein77	
+Complex59	PECAM-1:SHP-1 complex	plasma membrane	Reactome DB_ID: 210221	Protein84	
+Complex6	Integrin alphaMbeta2:JAM3	plasma membrane	Reactome DB_ID: 202754	Protein5	
+Complex6	Integrin alphaMbeta2:JAM3	plasma membrane	Reactome DB_ID: 202754	Complex5	
+Complex60	CyP60 complexed with Basigin	Golgi membrane	Reactome DB_ID: 204498	Protein85	
+Complex60	CyP60 complexed with Basigin	Golgi membrane	Reactome DB_ID: 204498	Protein86	
+Complex61	Basigin homodimer	plasma membrane	Reactome DB_ID: 204594	Protein87	
+Complex62	Caveolin-1 bound to Basigin	Golgi membrane	Reactome DB_ID: 204550	Protein88	
+Complex62	Caveolin-1 bound to Basigin	Golgi membrane	Reactome DB_ID: 204550	Protein85	
+Complex63	Basigin bound to CyPA	plasma membrane	Reactome DB_ID: 204480	Protein87	
+Complex63	Basigin bound to CyPA	plasma membrane	Reactome DB_ID: 204480	Protein89	
+Complex64	Basigin bound to CD43	plasma membrane	Reactome DB_ID: 204467	Protein90	
+Complex64	Basigin bound to CD43	plasma membrane	Reactome DB_ID: 204467	Protein87	
+Complex65	BSG:MMP1(100-469)	plasma membrane	Reactome DB_ID: 375089	Protein91	
+Complex65	BSG:MMP1(100-469)	plasma membrane	Reactome DB_ID: 375089	Protein87	
+Complex66	Sodium/potassium-transporting ATPase beta subunit	plasma membrane	Reactome DB_ID: 375085	Protein93	
+Complex66	Sodium/potassium-transporting ATPase beta subunit	plasma membrane	Reactome DB_ID: 375085	Protein94	
+Complex66	Sodium/potassium-transporting ATPase beta subunit	plasma membrane	Reactome DB_ID: 375085	Protein95	
+Complex67	Basigin:Mannose-carrying cell recognition molecules	plasma membrane	Reactome DB_ID: 375090	PhysicalEntity3	
+Complex67	Basigin:Mannose-carrying cell recognition molecules	plasma membrane	Reactome DB_ID: 375090	Protein87	
+Complex69	Integrin alpha3beta1	plasma membrane	Reactome DB_ID: 204444	Protein97	
+Complex69	Integrin alpha3beta1	plasma membrane	Reactome DB_ID: 204444	Protein10	
+Complex7	JAM-B bound to JAM-C	plasma membrane	Reactome DB_ID: 202761	Protein8	
+Complex7	JAM-B bound to JAM-C	plasma membrane	Reactome DB_ID: 202761	Protein5	
+Complex70	Integrin alpha6beta1	plasma membrane	Reactome DB_ID: 204443	Protein98	
+Complex70	Integrin alpha6beta1	plasma membrane	Reactome DB_ID: 204443	Protein10	
+Complex71	BSG:Integrin alpha3beta1, alpha6beta1	plasma membrane	Reactome DB_ID: 204472	Protein87	
+Complex71	BSG:Integrin alpha3beta1, alpha6beta1	plasma membrane	Reactome DB_ID: 204472	Complex68	
+Complex72	Basigin bound to MCTs	plasma membrane	Reactome DB_ID: 204396	Complex73	
+Complex72	Basigin bound to MCTs	plasma membrane	Reactome DB_ID: 204396	Protein87	
+Complex74	MCT1 homodimer	plasma membrane	Reactome DB_ID: 374001	Protein100	
+Complex75	MCT3 homodimer	plasma membrane	Reactome DB_ID: 374006	Protein101	
+Complex76	MCT4 homodimer	plasma membrane	Reactome DB_ID: 374004	Protein102	
+Complex78	SLC7A10:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 376183	Protein103	
+Complex78	SLC7A10:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 376183	Protein104	
+Complex79	SLC7A11:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 378505	Protein103	
+Complex79	SLC7A11:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 378505	Protein105	
+Complex8	VLA-4	plasma membrane	Reactome DB_ID: 198201	Protein9	
+Complex8	VLA-4	plasma membrane	Reactome DB_ID: 198201	Protein10	
+Complex80	SLC7A5:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 352221	Protein106	
+Complex80	SLC7A5:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 352221	Protein103	
+Complex81	SLC7A6:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 379421	Protein103	
+Complex81	SLC7A6:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 379421	Protein107	
+Complex82	SLC7A7:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 379424	Protein103	
+Complex82	SLC7A7:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 379424	Protein108	
+Complex83	SLC7A8:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 352162	Protein103	
+Complex83	SLC7A8:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 352162	Protein109	
+Complex84	SLC7A9:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 390758	Protein103	
+Complex84	SLC7A9:SLC3A2 heterodimer	plasma membrane	Reactome DB_ID: 390758	Protein110	
+Complex85	Basigin:CD98hc complex	plasma membrane	Reactome DB_ID: 375086	Complex77	
+Complex85	Basigin:CD98hc complex	plasma membrane	Reactome DB_ID: 375086	Protein87	
+Complex9	integrin alpha4beta1:JAM2	plasma membrane	Reactome DB_ID: 202759	Protein8	
+Complex9	integrin alpha4beta1:JAM2	plasma membrane	Reactome DB_ID: 202759	Complex8	

@@ -1,0 +1,201 @@
+BiochemicalReaction1	Digestion of cholesterol esters by extracellular CEL (bile salt-dependent lipase)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Digestion of cholesterol esters by extracellular CEL (bile salt-dependent lipase)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Digestion of cholesterol esters by extracellular CEL (bile salt-dependent lipase)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Digestion of cholesterol esters by extracellular CEL (bile salt-dependent lipase)	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	NPC1L1 inactivation by ezetimibe	Protein7	Complex4	
+BiochemicalReaction10	NPC1L1 inactivation by ezetimibe	SmallMolecule22	Complex4	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule24	SmallMolecule27	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule24	SmallMolecule28	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule25	SmallMolecule29	
+BiochemicalReaction11	ABCG5:ABCG8-mediated export of cholesterol and phytosterols	SmallMolecule24	SmallMolecule29	
+BiochemicalReaction12	ApoB-48 + 40 triacylglycerol + 60 phospholipid => ApoB-48:TG:PL complex	SmallMolecule30	Complex6	
+BiochemicalReaction12	ApoB-48 + 40 triacylglycerol + 60 phospholipid => ApoB-48:TG:PL complex	Protein10	Complex6	
+BiochemicalReaction12	ApoB-48 + 40 triacylglycerol + 60 phospholipid => ApoB-48:TG:PL complex	SmallMolecule31	Complex6	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	SmallMolecule32	Complex9	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	SmallMolecule34	Complex9	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Protein14	Complex9	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Protein15	Complex9	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	SmallMolecule35	Complex9	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Complex8	Complex9	
+BiochemicalReaction13	ApoB-48:TG:PL complex + 100 triacylglycerols + ApoA-I + ApoA-IV => nascent chylomicron	Protein16	Complex9	
+BiochemicalReaction14	Exocytosis of nascent chylomicrons	Complex9	Complex10	
+BiochemicalReaction15	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex10	Complex14	
+BiochemicalReaction15	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex12	Complex14	
+BiochemicalReaction15	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex12	Complex13	
+BiochemicalReaction15	nascent chylomicron + spherical HDL:apoC-II:apoC-III:apoE =>spherical  HDL + chylomicron	Complex10	Complex13	
+BiochemicalReaction16	chylomicron => TG-depleted chylomicron + 50 long-chain fatty acids + 50 diacylglycerols	Complex14	SmallMolecule14	
+BiochemicalReaction16	chylomicron => TG-depleted chylomicron + 50 long-chain fatty acids + 50 diacylglycerols	Complex14	SmallMolecule4	
+BiochemicalReaction16	chylomicron => TG-depleted chylomicron + 50 long-chain fatty acids + 50 diacylglycerols	Complex14	Complex15	
+BiochemicalReaction17	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex13	Complex18	
+BiochemicalReaction17	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex15	Complex18	
+BiochemicalReaction17	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex15	Complex19	
+BiochemicalReaction17	TG-depleted chylomicron + spherical HDL => chylomicron remnant + spherical HDL:apoA-I:apoA-II:apoA-IV:apoC-II:apoC-III	Complex13	Complex19	
+BiochemicalReaction18	chylomicron remnant + apoE => chylomicron remnant:apoE complex	Complex18	Complex20	
+BiochemicalReaction18	chylomicron remnant + apoE => chylomicron remnant:apoE complex	Protein24	Complex20	
+BiochemicalReaction19	chylomicron remnant:apoE complex + LDLR => chylomicron remnant:apoE:LDLR complex	Protein30	Complex21	
+BiochemicalReaction19	chylomicron remnant:apoE complex + LDLR => chylomicron remnant:apoE:LDLR complex	Complex20	Complex21	
+BiochemicalReaction2	Digestion of monoacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Digestion of monoacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule12	SmallMolecule4	
+BiochemicalReaction2	Digestion of monoacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction2	Digestion of monoacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction20	chylomicron remnant:apoE:LDLR complex [plasma membrane] => chylomicron remnant:apoE:LDLR complex [clathrin-coated vesicle] (LDLRAP1-dependent)	Complex21	Complex25	
+BiochemicalReaction21	chylomicron remnant:apoE:LDLR complex [coated vesicle membrane] => chylomicron remnant:apoE:LDLR complex [endosome membrane]	Complex25	Complex29	
+BiochemicalReaction22	chylomicron remnant:apoE:LDLR complex => chylomicron remnant:apoE + LDLR	Complex29	Protein40	
+BiochemicalReaction22	chylomicron remnant:apoE:LDLR complex => chylomicron remnant:apoE + LDLR	Complex29	Complex33	
+BiochemicalReaction23	Conversion of pro-apoA-I to apoA-I	Protein43	Protein18	
+BiochemicalReaction24	ABCA1 tetramer binds apoA-I	Protein18	Complex39	
+BiochemicalReaction24	ABCA1 tetramer binds apoA-I	Complex38	Complex39	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule53	SmallMolecule27	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule53	SmallMolecule28	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule53	SmallMolecule39	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule26	SmallMolecule39	
+BiochemicalReaction25	ABCA1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule25	SmallMolecule39	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule54	SmallMolecule27	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule26	SmallMolecule37	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule25	SmallMolecule37	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule54	SmallMolecule37	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction26	ABCA1-mediated transport of intracellular phospholipid to the cell surface	SmallMolecule54	SmallMolecule28	
+BiochemicalReaction27	Apolipoprotein A-I binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule37	Complex40	
+BiochemicalReaction27	Apolipoprotein A-I binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	Protein18	Complex40	
+BiochemicalReaction27	Apolipoprotein A-I binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule39	Complex40	
+BiochemicalReaction28	pre-beta HDL binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule37	Complex40	
+BiochemicalReaction28	pre-beta HDL binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	Complex41	Complex40	
+BiochemicalReaction28	pre-beta HDL binds membrane-associated cholesterol and phospholipid to form a discoidal HDL particle	SmallMolecule39	Complex40	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule53	SmallMolecule27	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule53	SmallMolecule28	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule53	SmallMolecule39	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule26	SmallMolecule39	
+BiochemicalReaction29	ABCG1-mediated transport of intracellular cholesterol to the cell surface	SmallMolecule25	SmallMolecule39	
+BiochemicalReaction3	Digestion of diacylglycerols by extracellular PTL:colipase	SmallMolecule14	SmallMolecule4	
+BiochemicalReaction3	Digestion of diacylglycerols by extracellular PTL:colipase	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Digestion of diacylglycerols by extracellular PTL:colipase	SmallMolecule2	SmallMolecule12	
+BiochemicalReaction3	Digestion of diacylglycerols by extracellular PTL:colipase	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction30	Discoidal HDL binds membrane-associated free cholesterol	Complex40	Complex43	
+BiochemicalReaction30	Discoidal HDL binds membrane-associated free cholesterol	SmallMolecule39	Complex43	
+BiochemicalReaction31	LCAT + discoidal HDL <=> LCAT:discoidal HDL complex	Complex40	Complex44	
+BiochemicalReaction31	LCAT + discoidal HDL <=> LCAT:discoidal HDL complex	Protein49	Complex44	
+BiochemicalReaction32	LCAT:discoidal HDL complex <=> LCAT + discoidal HDL	Complex44	Complex40	
+BiochemicalReaction32	LCAT:discoidal HDL complex <=> LCAT + discoidal HDL	Complex44	Protein49	
+BiochemicalReaction33	Spherical HDL binds C and E apolipoproteins	Protein22	Complex12	
+BiochemicalReaction33	Spherical HDL binds C and E apolipoproteins	Protein23	Complex12	
+BiochemicalReaction33	Spherical HDL binds C and E apolipoproteins	Protein24	Complex12	
+BiochemicalReaction33	Spherical HDL binds C and E apolipoproteins	Complex13	Complex12	
+BiochemicalReaction34	Spherical HDL binds membrane-associated free cholesterol and phospholipids	SmallMolecule37	Complex13	
+BiochemicalReaction34	Spherical HDL binds membrane-associated free cholesterol and phospholipids	Complex13	Complex13	
+BiochemicalReaction34	Spherical HDL binds membrane-associated free cholesterol and phospholipids	SmallMolecule39	Complex13	
+BiochemicalReaction35	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule55	SmallMolecule1	
+BiochemicalReaction35	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction35	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule3	SmallMolecule56	
+BiochemicalReaction35	cholesterol + phosphatidylcholine (lecithin) => cholesterol ester + 2-lysophosphatidylcholine (lysolecithin)	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction36	Serum albumin binds 2-lysophosphatidylcholine	SmallMolecule56	Complex45	
+BiochemicalReaction36	Serum albumin binds 2-lysophosphatidylcholine	Protein53	Complex45	
+BiochemicalReaction37	LCAT + spherical HDL <=> LCAT:spherical HDL complex	Complex13	Complex46	
+BiochemicalReaction37	LCAT + spherical HDL <=> LCAT:spherical HDL complex	Protein49	Complex46	
+BiochemicalReaction38	LCAT:spherical HDL complex <=> LCAT + spherical HDL	Complex46	Complex13	
+BiochemicalReaction38	LCAT:spherical HDL complex <=> LCAT + spherical HDL	Complex46	Protein49	
+BiochemicalReaction39	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex13	Complex48	
+BiochemicalReaction39	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex47	Complex48	
+BiochemicalReaction39	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex47	Complex49	
+BiochemicalReaction39	CETP-mediated lipid exchange: spherical HDL gains triacylglycerol	Complex13	Complex49	
+BiochemicalReaction4	Digestion of triacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction4	Digestion of triacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule2	SmallMolecule14	
+BiochemicalReaction4	Digestion of triacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Digestion of triacylglycerols by extracellular CEL (bile salt-dependent lipase)	SmallMolecule15	SmallMolecule4	
+BiochemicalReaction40	CETP + spherical HDL + torcetrapib => CETP:spherical HDL:torcetrapib complex	SmallMolecule57	Complex50	
+BiochemicalReaction40	CETP + spherical HDL + torcetrapib => CETP:spherical HDL:torcetrapib complex	Complex13	Complex50	
+BiochemicalReaction40	CETP + spherical HDL + torcetrapib => CETP:spherical HDL:torcetrapib complex	Complex47	Complex50	
+BiochemicalReaction41	spherical HDL and SR-BI receptor form a complex at the cell surface	Protein55	Complex51	
+BiochemicalReaction41	spherical HDL and SR-BI receptor form a complex at the cell surface	Complex13	Complex51	
+BiochemicalReaction42	Disassembly of SR-BI-bound spherical HDL	Complex51	SmallMolecule58	
+BiochemicalReaction42	Disassembly of SR-BI-bound spherical HDL	Complex51	SmallMolecule37	
+BiochemicalReaction42	Disassembly of SR-BI-bound spherical HDL	Complex51	Protein55	
+BiochemicalReaction42	Disassembly of SR-BI-bound spherical HDL	Complex51	Complex41	
+BiochemicalReaction42	Disassembly of SR-BI-bound spherical HDL	Complex51	SmallMolecule38	
+BiochemicalReaction42	Disassembly of SR-BI-bound spherical HDL	Complex51	SmallMolecule39	
+BiochemicalReaction43	apoA-I binds to CUBN:AMN	Protein18	Complex54	
+BiochemicalReaction43	apoA-I binds to CUBN:AMN	Complex53	Complex54	
+BiochemicalReaction44	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex55	Complex56	
+BiochemicalReaction44	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex48	Complex56	
+BiochemicalReaction44	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex48	Complex47	
+BiochemicalReaction44	CETP-mediated lipid exchange: LDL gains cholesterol ester	Complex55	Complex47	
+BiochemicalReaction45	apolipoprotein(a) + LDL => Lp(a)	Complex55	Complex57	
+BiochemicalReaction45	apolipoprotein(a) + LDL => Lp(a)	Protein59	Complex57	
+BiochemicalReaction46	LDL + LDLR => LDL:LDLR complex	Complex55	Complex58	
+BiochemicalReaction46	LDL + LDLR => LDL:LDLR complex	Protein30	Complex58	
+BiochemicalReaction47	Internalization of LDL:LDLR complex (LDLRAP1-dependent)	Complex58	Complex60	
+BiochemicalReaction48	Internalization of LDL:LDLR complex (LDLRAP1-independent)	Complex58	Complex60	
+BiochemicalReaction49	Movement of LDL:LDLR complex to early endosome	Complex60	Complex62	
+BiochemicalReaction5	Digestion of triacylglycerols by extracellular PTL:colipase	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction5	Digestion of triacylglycerols by extracellular PTL:colipase	SmallMolecule2	SmallMolecule14	
+BiochemicalReaction5	Digestion of triacylglycerols by extracellular PTL:colipase	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	Digestion of triacylglycerols by extracellular PTL:colipase	SmallMolecule15	SmallMolecule4	
+BiochemicalReaction50	LDLR:LDL complex => LDLR + LDL	Complex62	Complex64	
+BiochemicalReaction50	LDLR:LDL complex => LDLR + LDL	Complex62	Protein40	
+BiochemicalReaction51	Recycling of LDLR to plasma membrane	Protein40	Protein30	
+BiochemicalReaction52	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	Protein64	SmallMolecule28	
+BiochemicalReaction52	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction52	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	SmallMolecule25	Protein65	
+BiochemicalReaction52	hormone-sensitive lipase (HSL) + 2 ATP -> phosphorylated HSL + 2 ADP	Protein64	Protein65	
+BiochemicalReaction53	2 phosphorylated HSL monomers -> phosphorylated HSL dimer	Protein65	Complex65	
+BiochemicalReaction54	perilipin:CGI-58 complex -> perilipin + CGI-58	Complex66	Protein72	
+BiochemicalReaction54	perilipin:CGI-58 complex -> perilipin + CGI-58	Complex66	Protein71	
+BiochemicalReaction55	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction55	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	Protein71	SmallMolecule28	
+BiochemicalReaction55	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	Protein71	Protein73	
+BiochemicalReaction55	perilipin + 2 ATP -> phosphorylated perilipin + 2 ADP	SmallMolecule25	Protein73	
+BiochemicalReaction56	Phosphorylated HSL dimer translocates from the cytosol to the lipid particle	Complex65	Complex67	
+BiochemicalReaction57	phosphorylated HSL dimer + FABP4 -> phosphorylated HSL dimer:FABP4 complex	Protein76	Complex68	
+BiochemicalReaction57	phosphorylated HSL dimer + FABP4 -> phosphorylated HSL dimer:FABP4 complex	Complex67	Complex68	
+BiochemicalReaction58	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction58	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule26	SmallMolecule60	
+BiochemicalReaction58	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule26	SmallMolecule61	
+BiochemicalReaction58	cholesterol ester + H2O -> cholesterol + fatty acid	SmallMolecule59	SmallMolecule61	
+BiochemicalReaction59	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule62	SmallMolecule60	
+BiochemicalReaction59	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule26	SmallMolecule60	
+BiochemicalReaction59	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule26	SmallMolecule63	
+BiochemicalReaction59	triacylglycerol + H2O -> diacylglycerol + fatty acid	SmallMolecule62	SmallMolecule63	
+BiochemicalReaction6	Digestion of triacylglycerols by extracellular pancreatic lipase-related protein 2	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction6	Digestion of triacylglycerols by extracellular pancreatic lipase-related protein 2	SmallMolecule2	SmallMolecule14	
+BiochemicalReaction6	Digestion of triacylglycerols by extracellular pancreatic lipase-related protein 2	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction6	Digestion of triacylglycerols by extracellular pancreatic lipase-related protein 2	SmallMolecule15	SmallMolecule4	
+BiochemicalReaction60	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule26	SmallMolecule64	
+BiochemicalReaction60	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule63	SmallMolecule64	
+BiochemicalReaction60	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule63	SmallMolecule60	
+BiochemicalReaction60	diacylglycerol + H2O -> 2-acylglycerol + fatty acid	SmallMolecule26	SmallMolecule60	
+BiochemicalReaction61	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule64	SmallMolecule60	
+BiochemicalReaction61	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule26	SmallMolecule60	
+BiochemicalReaction61	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule26	SmallMolecule65	
+BiochemicalReaction61	2-acylglycerol + H2O -> glycerol + fatty acid	SmallMolecule64	SmallMolecule65	
+BiochemicalReaction62	phosphorylated HSL + H2O -> HSL + orthophosphate	Protein65	SmallMolecule27	
+BiochemicalReaction62	phosphorylated HSL + H2O -> HSL + orthophosphate	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction62	phosphorylated HSL + H2O -> HSL + orthophosphate	SmallMolecule26	Protein64	
+BiochemicalReaction62	phosphorylated HSL + H2O -> HSL + orthophosphate	Protein65	Protein64	
+BiochemicalReaction63	phosphorylated perilipin + H2O -> perilipin + orthophosphate	Protein73	SmallMolecule27	
+BiochemicalReaction63	phosphorylated perilipin + H2O -> perilipin + orthophosphate	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction63	phosphorylated perilipin + H2O -> perilipin + orthophosphate	SmallMolecule26	Protein71	
+BiochemicalReaction63	phosphorylated perilipin + H2O -> perilipin + orthophosphate	Protein73	Protein71	
+BiochemicalReaction7	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction7	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule2	SmallMolecule17	
+BiochemicalReaction7	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule2	SmallMolecule18	
+BiochemicalReaction7	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction8	NPC1L1-mediated cholesterol uptake	SmallMolecule3	SmallMolecule19	
+BiochemicalReaction9	NPC1L1-mediated phytosterol uptake	SmallMolecule20	SmallMolecule21	
+Degradation1	Degradation of newly synthesized ApoB-48	Protein13	NA	
+Degradation2	Endocytosis and degradation of apoA-I	Complex54	NA	

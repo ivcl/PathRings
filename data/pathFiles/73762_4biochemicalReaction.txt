@@ -1,0 +1,18 @@
+BiochemicalReaction1	Formation of SL1	Protein1	Complex1	
+BiochemicalReaction1	Formation of SL1	Protein2	Complex1	
+BiochemicalReaction1	Formation of SL1	Protein3	Complex1	
+BiochemicalReaction2	Acetylation of SL1	SmallMolecule1	Complex2	
+BiochemicalReaction2	Acetylation of SL1	Complex1	Complex2	
+BiochemicalReaction3	Recruitment of Acetylated SL1 to phosUBF-1:rDNA Promoter	Complex2	Complex4	
+BiochemicalReaction3	Recruitment of Acetylated SL1 to phosUBF-1:rDNA Promoter	Complex3	Complex4	
+BiochemicalReaction4	Assembly of RNA Polymerase I Holoenzyme (human)	Protein11	Complex7	
+BiochemicalReaction4	Assembly of RNA Polymerase I Holoenzyme (human)	Protein12	Complex7	
+BiochemicalReaction4	Assembly of RNA Polymerase I Holoenzyme (human)	Protein13	Complex7	
+BiochemicalReaction4	Assembly of RNA Polymerase I Holoenzyme (human)	Protein14	Complex7	
+BiochemicalReaction4	Assembly of RNA Polymerase I Holoenzyme (human)	Protein15	Complex7	
+BiochemicalReaction4	Assembly of RNA Polymerase I Holoenzyme (human)	Protein16	Complex7	
+BiochemicalReaction5	Binding of Rrn3 to RNA Polymerase I	Protein17	Complex8	
+BiochemicalReaction5	Binding of Rrn3 to RNA Polymerase I	Complex7	Complex8	
+BiochemicalReaction6	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex8	Complex11	
+BiochemicalReaction6	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex9	Complex11	
+BiochemicalReaction6	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex4	Complex11	

@@ -1,0 +1,17 @@
+BiochemicalReaction1	Trimming of the terminal mannose on the B branch	Complex1	Complex2	
+BiochemicalReaction1	Trimming of the terminal mannose on the B branch	Complex1	SmallMolecule3	
+BiochemicalReaction2	Trimming of the terminal mannose on the C branch	Complex1	Complex3	
+BiochemicalReaction2	Trimming of the terminal mannose on the C branch	Complex1	SmallMolecule3	
+BiochemicalReaction3	Trimming of the first mannose on the A branch	Complex1	Complex4	
+BiochemicalReaction3	Trimming of the first mannose on the A branch	Complex1	SmallMolecule3	
+BiochemicalReaction4	Trimming of the second mannose on the A branch	Complex4	Complex5	
+BiochemicalReaction4	Trimming of the second mannose on the A branch	Complex4	SmallMolecule3	
+BiochemicalReaction5	Re-addition of a glucose on the alpha 1,3 branch	SmallMolecule7	Complex6	
+BiochemicalReaction5	Re-addition of a glucose on the alpha 1,3 branch	Complex1	Complex6	
+BiochemicalReaction5	Re-addition of a glucose on the alpha 1,3 branch	Complex1	SmallMolecule9	
+BiochemicalReaction5	Re-addition of a glucose on the alpha 1,3 branch	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction6	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex5	Complex7	
+BiochemicalReaction6	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex4	Complex7	
+BiochemicalReaction6	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex4	Complex8	
+BiochemicalReaction6	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex5	Complex8	
+BiochemicalReaction7	Glycoproteins with lesser folding defects get transported back to the ER and the CNX/CRT complex	Complex6	Complex9	

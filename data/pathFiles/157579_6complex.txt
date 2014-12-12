@@ -1,0 +1,101 @@
+Complex1	Telomerase RNP	nucleoplasm	Reactome DB_ID: 163101	Rna1	
+Complex1	Telomerase RNP	nucleoplasm	Reactome DB_ID: 163101	Protein1	
+Complex1	Telomerase RNP	nucleoplasm	Reactome DB_ID: 163101	Protein2	
+Complex10	DNA polymerase epsilon	nucleoplasm	Reactome DB_ID: 68483	Protein11	
+Complex10	DNA polymerase epsilon	nucleoplasm	Reactome DB_ID: 68483	Protein12	
+Complex11	RNA primer:G-strand extended telomere end:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 174434	SmallMolecule7	
+Complex11	RNA primer:G-strand extended telomere end:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 174434	PhysicalEntity1	
+Complex11	RNA primer:G-strand extended telomere end:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 174434	Complex8	
+Complex12	RNA primer-DNA primer:G-strand extended telomere	nucleoplasm	Reactome DB_ID: 174433	PhysicalEntity2	
+Complex12	RNA primer-DNA primer:G-strand extended telomere	nucleoplasm	Reactome DB_ID: 174433	Complex11	
+Complex13	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein13	
+Complex13	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein14	
+Complex13	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein15	
+Complex13	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein16	
+Complex13	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein17	
+Complex14	RFC Heteropentamer:RNA primer-DNA primer:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174454	SmallMolecule7	
+Complex14	RFC Heteropentamer:RNA primer-DNA primer:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174454	PhysicalEntity2	
+Complex14	RFC Heteropentamer:RNA primer-DNA primer:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174454	PhysicalEntity1	
+Complex14	RFC Heteropentamer:RNA primer-DNA primer:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174454	Complex13	
+Complex15	PCNA homotrimer	nucleoplasm	Reactome DB_ID: 68440	Protein18	
+Complex16	RFC Heteropentamer:RNA primer-DNA primer:G-strand extended telomere end duplex:PCNA homotrimer	nucleoplasm	Reactome DB_ID: 174449	Complex15	
+Complex16	RFC Heteropentamer:RNA primer-DNA primer:G-strand extended telomere end duplex:PCNA homotrimer	nucleoplasm	Reactome DB_ID: 174449	Complex14	
+Complex17	RNA primer-DNA primer:G-strand extended telomere:PCNA 	nucleoplasm	Reactome DB_ID: 174450	SmallMolecule7	
+Complex17	RNA primer-DNA primer:G-strand extended telomere:PCNA 	nucleoplasm	Reactome DB_ID: 174450	Complex15	
+Complex17	RNA primer-DNA primer:G-strand extended telomere:PCNA 	nucleoplasm	Reactome DB_ID: 174450	PhysicalEntity2	
+Complex17	RNA primer-DNA primer:G-strand extended telomere:PCNA 	nucleoplasm	Reactome DB_ID: 174450	PhysicalEntity1	
+Complex18	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein19	
+Complex18	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein20	
+Complex18	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein21	
+Complex18	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein22	
+Complex19	Processive complex loaded on telomere	nucleoplasm	Reactome DB_ID: 174453	Complex18	
+Complex19	Processive complex loaded on telomere	nucleoplasm	Reactome DB_ID: 174453	Complex17	
+Complex2	Telomerase RNP Bound to the Telomeric Chromosome End	nucleoplasm	Reactome DB_ID: 163088	SmallMolecule1	
+Complex2	Telomerase RNP Bound to the Telomeric Chromosome End	nucleoplasm	Reactome DB_ID: 163088	Complex1	
+Complex20	Processive complex loaded on telomere:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 174435	SmallMolecule7	
+Complex20	Processive complex loaded on telomere:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 174435	Complex15	
+Complex20	Processive complex loaded on telomere:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 174435	PhysicalEntity3	
+Complex20	Processive complex loaded on telomere:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 174435	Complex18	
+Complex20	Processive complex loaded on telomere:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 174435	PhysicalEntity1	
+Complex21	Processive complex loaded on telomere:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 174431	SmallMolecule7	
+Complex21	Processive complex loaded on telomere:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 174431	Complex15	
+Complex21	Processive complex loaded on telomere:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 174431	PhysicalEntity3	
+Complex21	Processive complex loaded on telomere:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 174431	Complex18	
+Complex21	Processive complex loaded on telomere:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 174431	PhysicalEntity4	
+Complex22	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein23	
+Complex22	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein24	
+Complex22	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein25	
+Complex23	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer	nucleoplasm	Reactome DB_ID: 174436	Complex21	
+Complex23	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer	nucleoplasm	Reactome DB_ID: 174436	Complex22	
+Complex24	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	nucleoplasm	Reactome DB_ID: 174442	Protein26	
+Complex24	Processive complex loaded on telomere:Okazaki fragment:Flap:RPA heterotrimer:dna2	nucleoplasm	Reactome DB_ID: 174442	Complex23	
+Complex25	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 174440	SmallMolecule7	
+Complex25	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 174440	Complex15	
+Complex25	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 174440	PhysicalEntity3	
+Complex25	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 174440	Complex18	
+Complex25	Processive complex loaded on telomere:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 174440	PhysicalEntity5	
+Complex26	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	nucleoplasm	Reactome DB_ID: 174432	SmallMolecule7	
+Complex26	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	nucleoplasm	Reactome DB_ID: 174432	Complex15	
+Complex26	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	nucleoplasm	Reactome DB_ID: 174432	Complex18	
+Complex26	Processive complex loaded on telomere:nicked DNA from adjacent Okazaki fragments	nucleoplasm	Reactome DB_ID: 174432	PhysicalEntity6	
+Complex27	Processive complex loaded on telomere:ligated C-strand Okazaki fragments	nucleoplasm	Reactome DB_ID: 176394	SmallMolecule7	
+Complex27	Processive complex loaded on telomere:ligated C-strand Okazaki fragments	nucleoplasm	Reactome DB_ID: 176394	Complex15	
+Complex27	Processive complex loaded on telomere:ligated C-strand Okazaki fragments	nucleoplasm	Reactome DB_ID: 176394	Complex18	
+Complex27	Processive complex loaded on telomere:ligated C-strand Okazaki fragments	nucleoplasm	Reactome DB_ID: 176394	PhysicalEntity7	
+Complex28	Extended And Processed Telomere End	nucleoplasm	Reactome DB_ID: 176706	SmallMolecule7	
+Complex28	Extended And Processed Telomere End	nucleoplasm	Reactome DB_ID: 176706	PhysicalEntity7	
+Complex29	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein30	
+Complex29	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein29	
+Complex29	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein31	
+Complex29	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein32	
+Complex29	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein33	
+Complex29	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein34	
+Complex3	Telomerase RNP Bound and base-paired to the Telomeric Chromosome End	nucleoplasm	Reactome DB_ID: 164683	SmallMolecule1	
+Complex3	Telomerase RNP Bound and base-paired to the Telomeric Chromosome End	nucleoplasm	Reactome DB_ID: 164683	Complex1	
+Complex30	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein35	
+Complex30	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein36	
+Complex30	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein51	
+Complex30	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein61	
+Complex31	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex	nucleoplasm	Reactome DB_ID: 176703	Protein29	
+Complex31	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex	nucleoplasm	Reactome DB_ID: 176703	Complex29	
+Complex31	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex	nucleoplasm	Reactome DB_ID: 176703	Complex28	
+Complex31	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex	nucleoplasm	Reactome DB_ID: 176703	Complex30	
+Complex32	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Protein29	
+Complex32	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex29	
+Complex32	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex33	
+Complex32	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex30	
+Complex33	Extended And Processed Telomere End Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182752	PhysicalEntity8	
+Complex33	Extended And Processed Telomere End Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182752	PhysicalEntity7	
+Complex4	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	nucleoplasm	Reactome DB_ID: 163098	SmallMolecule6	
+Complex4	Telomerase RNP:Telomeric Chromosome End with an Additional single Stranded Telomere repeat	nucleoplasm	Reactome DB_ID: 163098	Complex1	
+Complex5	Telomerase Holoenzyme Base-paired to the Telomeric Chromosome End with an Additional single Stranded Telomere repeat	nucleoplasm	Reactome DB_ID: 164684	SmallMolecule6	
+Complex5	Telomerase Holoenzyme Base-paired to the Telomeric Chromosome End with an Additional single Stranded Telomere repeat	nucleoplasm	Reactome DB_ID: 164684	Complex1	
+Complex6	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	nucleoplasm	Reactome DB_ID: 164619	SmallMolecule7	
+Complex6	Telomerase Holoenzyme:Telomeric RNP End with Two Additional Single Stranded Telomere Repeats	nucleoplasm	Reactome DB_ID: 164619	Complex1	
+Complex7	DNA polymerase alpha:primase:DNA polymerase alpha:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174473	Complex8	
+Complex7	DNA polymerase alpha:primase:DNA polymerase alpha:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174473	Complex9	
+Complex8	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein7	
+Complex8	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein8	
+Complex8	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein9	
+Complex8	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein10	
+Complex9	DNA polymerase epsilon:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174471	Complex10	

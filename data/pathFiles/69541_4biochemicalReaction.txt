@@ -1,0 +1,15 @@
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	Complex2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	Complex2	
+BiochemicalReaction2	Phosphorylation of MDM2 at serine-395 by ATM kinase	Protein4	Protein5	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	Protein7	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	Protein7	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Protein7	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Complex2	
+BiochemicalReaction5	Translocation of COP1 from the nucleus to the cytoplasm	Protein7	Protein8	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein9	Complex4	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein8	Complex4	
+BiochemicalReaction7	Proteasome mediated degradation of COP1	Complex4	Protein9	

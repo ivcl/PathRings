@@ -1,0 +1,115 @@
+BiochemicalReaction1	Formation of active Pol II complex with lesioned DNA template	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Formation of active Pol II complex with lesioned DNA template	Complex1	Complex2	
+BiochemicalReaction10	Resumption of transcription after TC-NER	PhysicalEntity7	Complex14	
+BiochemicalReaction10	Resumption of transcription after TC-NER	Complex8	Complex14	
+BiochemicalReaction2	RNA Pol II is blocked by the lesion leading to reduced transcription	Complex2	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein13	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex4	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex3	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein16	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein17	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex5	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein27	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein28	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein28	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein27	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex5	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein17	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein16	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex3	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex4	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein13	Complex7	
+BiochemicalReaction4	Displacement of stalled Pol II  from the lesion site 	Complex3	PhysicalEntity1	
+BiochemicalReaction4	Displacement of stalled Pol II  from the lesion site 	Complex7	PhysicalEntity1	
+BiochemicalReaction4	Displacement of stalled Pol II  from the lesion site 	Complex7	Complex8	
+BiochemicalReaction4	Displacement of stalled Pol II  from the lesion site 	Complex3	Complex8	
+BiochemicalReaction4	Displacement of stalled Pol II  from the lesion site 	Complex7	Complex7	
+BiochemicalReaction4	Displacement of stalled Pol II  from the lesion site 	Complex3	Complex7	
+BiochemicalReaction5	3' incision of the lesioned strand of DNA in TC-NER	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction5	3' incision of the lesioned strand of DNA in TC-NER	Complex7	PhysicalEntity2	
+BiochemicalReaction5	3' incision of the lesioned strand of DNA in TC-NER	Complex7	Complex7	
+BiochemicalReaction5	3' incision of the lesioned strand of DNA in TC-NER	PhysicalEntity1	Complex7	
+BiochemicalReaction6	5' incision leading to excision of DNA fragment with lesion in TC-NER	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction6	5' incision leading to excision of DNA fragment with lesion in TC-NER	Complex7	PhysicalEntity3	
+BiochemicalReaction6	5' incision leading to excision of DNA fragment with lesion in TC-NER	Complex7	Complex7	
+BiochemicalReaction6	5' incision leading to excision of DNA fragment with lesion in TC-NER	PhysicalEntity2	Complex7	
+BiochemicalReaction6	5' incision leading to excision of DNA fragment with lesion in TC-NER	Complex7	PhysicalEntity4	
+BiochemicalReaction6	5' incision leading to excision of DNA fragment with lesion in TC-NER	PhysicalEntity2	PhysicalEntity4	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex9	PhysicalEntity6	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex10	PhysicalEntity6	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex11	PhysicalEntity6	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex12	PhysicalEntity6	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity4	PhysicalEntity6	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity4	Complex9	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex12	Complex9	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex11	Complex9	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity5	Complex9	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex10	Complex9	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex9	Complex9	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity4	Complex10	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex12	Complex10	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex11	Complex10	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity5	Complex10	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex10	Complex10	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex9	Complex10	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity4	Complex11	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex12	Complex11	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex11	Complex11	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity5	Complex11	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex10	Complex11	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex9	Complex11	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity4	Complex12	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex12	Complex12	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex11	Complex12	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity5	Complex12	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex10	Complex12	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex9	Complex12	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity4	PhysicalEntity4	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex12	PhysicalEntity4	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex11	PhysicalEntity4	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity5	PhysicalEntity4	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex10	PhysicalEntity4	
+BiochemicalReaction7	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex9	PhysicalEntity4	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex9	PhysicalEntity6	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex13	PhysicalEntity6	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex11	PhysicalEntity6	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex12	PhysicalEntity6	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity4	PhysicalEntity6	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity4	Complex9	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex12	Complex9	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex11	Complex9	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity5	Complex9	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex13	Complex9	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex9	Complex9	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity4	Complex13	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex12	Complex13	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex11	Complex13	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity5	Complex13	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex13	Complex13	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex9	Complex13	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity4	Complex11	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex12	Complex11	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex11	Complex11	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity5	Complex11	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex13	Complex11	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex9	Complex11	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity4	Complex12	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex12	Complex12	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex11	Complex12	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity5	Complex12	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex13	Complex12	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex9	Complex12	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity4	PhysicalEntity4	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex12	PhysicalEntity4	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex11	PhysicalEntity4	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity5	PhysicalEntity4	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex13	PhysicalEntity4	
+BiochemicalReaction8	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex9	PhysicalEntity4	
+BiochemicalReaction9	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction9	Ligation of newly synthesized repair patch to incised DNA in TC-NER	Protein44	PhysicalEntity7	
+BiochemicalReaction9	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity4	PhysicalEntity7	
+BiochemicalReaction9	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity4	Protein44	
+BiochemicalReaction9	Ligation of newly synthesized repair patch to incised DNA in TC-NER	Protein44	Protein44	
+BiochemicalReaction9	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity6	Protein44	

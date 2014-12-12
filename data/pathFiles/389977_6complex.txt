@@ -1,0 +1,22 @@
+Complex1	GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391246	SmallMolecule1	
+Complex1	GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391246	Protein2	
+Complex10	native alpha tubulin-GTP	cytosol	Reactome DB_ID: 391249	SmallMolecule1	
+Complex10	native alpha tubulin-GTP	cytosol	Reactome DB_ID: 391249	Protein20	
+Complex11	native beta-tubulin:GTP	cytosol	Reactome DB_ID: 391237	SmallMolecule1	
+Complex11	native beta-tubulin:GTP	cytosol	Reactome DB_ID: 391237	Protein26	
+Complex2	cofactor A:GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391239	Protein1	
+Complex2	cofactor A:GTP:beta-tubulin folding intermediate	cytosol	Reactome DB_ID: 391239	Complex1	
+Complex3	Cofactor D:GTP:beta tubulin	cytosol	Reactome DB_ID: 391245	Protein10	
+Complex3	Cofactor D:GTP:beta tubulin	cytosol	Reactome DB_ID: 391245	Complex1	
+Complex4	GTP-alpha-tubulin folding intermediate	cytosol	Reactome DB_ID: 391235	SmallMolecule1	
+Complex4	GTP-alpha-tubulin folding intermediate	cytosol	Reactome DB_ID: 391235	Protein11	
+Complex5	Cofactor B:GTP-alpha tubulin	cytosol	Reactome DB_ID: 391241	Complex4	
+Complex5	Cofactor B:GTP-alpha tubulin	cytosol	Reactome DB_ID: 391241	Protein17	
+Complex6	Cofactor E:GTP-alpha tubulin folding	cytosol	Reactome DB_ID: 391242	Complex4	
+Complex6	Cofactor E:GTP-alpha tubulin folding	cytosol	Reactome DB_ID: 391242	Protein18	
+Complex7	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	cytosol	Reactome DB_ID: 391236	Complex3	
+Complex7	beta tubulin:GTP: Cofactor D:alpha tubulin:GTP:Cofactor E	cytosol	Reactome DB_ID: 391236	Complex6	
+Complex8	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	cytosol	Reactome DB_ID: 391240	Complex7	
+Complex8	beta-tubulin:GTP:Cofactor D:alpha-tubulin:GTP:Cofactor E : Cofactor C	cytosol	Reactome DB_ID: 391240	Protein19	
+Complex9	alpha-beta heterodimer	cytosol	Reactome DB_ID: 391248	Complex10	
+Complex9	alpha-beta heterodimer	cytosol	Reactome DB_ID: 391248	Complex11	

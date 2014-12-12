@@ -1,0 +1,8 @@
+BiochemicalReaction1	Binding of Pol zeta to lesioned DNA template	Complex1	Complex2	
+BiochemicalReaction1	Binding of Pol zeta to lesioned DNA template	PhysicalEntity1	Complex2	
+BiochemicalReaction2	Formation of Pol zeta complex	Protein1	Complex1	
+BiochemicalReaction2	Formation of Pol zeta complex	Protein2	Complex1	
+BiochemicalReaction3	Elongation by Pol zeta complex	Complex2	Complex1	
+BiochemicalReaction3	Elongation by Pol zeta complex	PhysicalEntity2	Complex1	
+BiochemicalReaction3	Elongation by Pol zeta complex	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction3	Elongation by Pol zeta complex	Complex2	PhysicalEntity3	

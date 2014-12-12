@@ -1,0 +1,10 @@
+BiochemicalReaction1	Association of Vpu with CD4	Protein1	Complex1	
+BiochemicalReaction1	Association of Vpu with CD4	Protein2	Complex1	
+BiochemicalReaction2	Vpu:CD4 associates with beta-TrCP	Complex1	Complex2	
+BiochemicalReaction2	Vpu:CD4 associates with beta-TrCP	Protein3	Complex2	
+BiochemicalReaction3	The Vpu:CD4:beta-TrCP complex recruits SKP1	Complex2	Complex3	
+BiochemicalReaction3	The Vpu:CD4:beta-TrCP complex recruits SKP1	Protein4	Complex3	
+BiochemicalReaction4	Ubiquitination of CD4 by Vpu:CD4:beta-TrCP:SKP1 complex	Complex3	Complex4	
+BiochemicalReaction4	Ubiquitination of CD4 by Vpu:CD4:beta-TrCP:SKP1 complex	Protein5	Complex4	
+BiochemicalReaction5	Degradation of ubiquitinated CD4	Complex4	Complex5	
+BiochemicalReaction5	Degradation of ubiquitinated CD4	Complex4	Protein5	

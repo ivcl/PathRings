@@ -1,0 +1,34 @@
+BiochemicalReaction1	Association of Securin with Cdc20:APC/C complex	Protein1	Complex3	
+BiochemicalReaction1	Association of Securin with Cdc20:APC/C complex	Complex1	Complex3	
+BiochemicalReaction2	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Protein17	Complex4	
+BiochemicalReaction2	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Complex3	Complex4	
+BiochemicalReaction3	Degradation of multiubiquitinated Securin	Complex4	Protein17	
+BiochemicalReaction3	Degradation of multiubiquitinated Securin	Complex4	Complex1	
+BiochemicalReaction4	Securin sequesters Separase	Protein77	Complex6	
+BiochemicalReaction4	Securin sequesters Separase	Protein1	Complex6	
+BiochemicalReaction5	Autocleavage of Separin	Protein77	Complex7	
+BiochemicalReaction6	ESPL1 (Separase) cleaves centromeric cohesin	Complex8	Complex23	
+BiochemicalReaction7	Separation of sister chromatids	Complex23	Complex25	
+BiochemicalReaction7	Separation of sister chromatids	Complex23	Protein183	
+BiochemicalReaction7	Separation of sister chromatids	Complex23	Complex26	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	Protein189	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	Protein189	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	Protein189	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	Protein184	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	Protein184	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	Protein184	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	SmallMolecule2	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	SmallMolecule2	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	Protein187	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	Protein187	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	Protein187	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	Complex28	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	Complex28	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	Complex28	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	Protein192	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	Protein192	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	Protein192	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Protein195	Protein193	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	Complex26	Protein193	
+BiochemicalReaction8	Deacetylation of cleaved cohesin	SmallMolecule1	Protein193	

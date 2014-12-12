@@ -1,0 +1,216 @@
+BiochemicalReaction1	Latent TGF-beta-1 is cleaved by furin	Complex1	Complex2	
+BiochemicalReaction10	I-SMAD competes with SMAD2/3 for type I receptor (TGFBR1)	Complex9	Complex15	
+BiochemicalReaction10	I-SMAD competes with SMAD2/3 for type I receptor (TGFBR1)	Protein18	Complex15	
+BiochemicalReaction11	STRAP binds phosphorylated TGF-beta receptor complex	Complex9	Complex16	
+BiochemicalReaction11	STRAP binds phosphorylated TGF-beta receptor complex	Protein19	Complex16	
+BiochemicalReaction12	STRAP stabilizes interaction of activated TGF-beta receptor complex with SMAD7	Complex16	Complex17	
+BiochemicalReaction12	STRAP stabilizes interaction of activated TGF-beta receptor complex with SMAD7	Protein18	Complex17	
+BiochemicalReaction13	BAMBI interferes with the interaction of type I receptor with type II receptor	Complex9	Complex18	
+BiochemicalReaction13	BAMBI interferes with the interaction of type I receptor with type II receptor	Protein18	Complex18	
+BiochemicalReaction13	BAMBI interferes with the interaction of type I receptor with type II receptor	Protein20	Complex18	
+BiochemicalReaction14	SMAD7 recruits GADD34:PP1 to phosphorylated TGFBR	Complex19	Complex20	
+BiochemicalReaction14	SMAD7 recruits GADD34:PP1 to phosphorylated TGFBR	Protein13	Complex20	
+BiochemicalReaction14	SMAD7 recruits GADD34:PP1 to phosphorylated TGFBR	Complex15	Complex20	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	Complex20	SmallMolecule4	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	SmallMolecule3	Complex21	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	Complex20	Complex21	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	SmallMolecule3	Protein18	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	Complex20	Protein18	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	SmallMolecule3	Complex19	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	Complex20	Complex19	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	SmallMolecule3	Protein13	
+BiochemicalReaction15	PP1 dephosphorylates TGFBR1	Complex20	Protein13	
+BiochemicalReaction16	SMAD7 binds to SMURF2	Protein26	Complex22	
+BiochemicalReaction16	SMAD7 binds to SMURF2	Protein27	Complex22	
+BiochemicalReaction17	SMAD7:SMURF2 complex translocates to the cytosol	Complex22	Complex23	
+BiochemicalReaction18	SMAD7 binds to SMURF1	Protein26	Complex24	
+BiochemicalReaction18	SMAD7 binds to SMURF1	Protein29	Complex24	
+BiochemicalReaction19	SMAD7:SMURF1 complex binds XPO1 (CRM1)	Protein30	Complex25	
+BiochemicalReaction19	SMAD7:SMURF1 complex binds XPO1 (CRM1)	Complex24	Complex25	
+BiochemicalReaction2	Secretion and activation of the latent large complex of TGF-beta-1	Complex2	Complex3	
+BiochemicalReaction20	SMAD7:SMURF1 complex is exported to the cytosol	Complex25	Complex26	
+BiochemicalReaction20	SMAD7:SMURF1 complex is exported to the cytosol	Complex25	Protein32	
+BiochemicalReaction21	NEDD4L ubiquitin ligase binds SMAD7	Protein26	Complex27	
+BiochemicalReaction21	NEDD4L ubiquitin ligase binds SMAD7	Protein33	Complex27	
+BiochemicalReaction22	SMAD7:NEDD4L complex translocates to the cytosol	Complex27	Complex28	
+BiochemicalReaction23	SMAD7:SMURF complex binds to phosphorylated TGFBR1	Complex9	Complex30	
+BiochemicalReaction23	SMAD7:SMURF complex binds to phosphorylated TGFBR1	Complex29	Complex30	
+BiochemicalReaction24	SMURFs/NEDD4L ubiquitinate phosphorylated TGFBR1 and SMAD7	Protein36	Protein35	
+BiochemicalReaction24	SMURFs/NEDD4L ubiquitinate phosphorylated TGFBR1 and SMAD7	Complex30	Protein35	
+BiochemicalReaction24	SMURFs/NEDD4L ubiquitinate phosphorylated TGFBR1 and SMAD7	Complex30	Complex31	
+BiochemicalReaction24	SMURFs/NEDD4L ubiquitinate phosphorylated TGFBR1 and SMAD7	Protein36	Complex31	
+BiochemicalReaction25	UCHL5 binds SMAD7 in complex with ubiquitinated TGFBR1	Protein51	Complex32	
+BiochemicalReaction25	UCHL5 binds SMAD7 in complex with ubiquitinated TGFBR1	Complex31	Complex32	
+BiochemicalReaction26	UCHL5 or USP15 deubiquitinates TGFBR1	Complex32	Protein36	
+BiochemicalReaction26	UCHL5 or USP15 deubiquitinates TGFBR1	SmallMolecule3	Protein36	
+BiochemicalReaction26	UCHL5 or USP15 deubiquitinates TGFBR1	SmallMolecule3	Complex33	
+BiochemicalReaction26	UCHL5 or USP15 deubiquitinates TGFBR1	Complex32	Complex33	
+BiochemicalReaction26	UCHL5 or USP15 deubiquitinates TGFBR1	SmallMolecule3	Protein51	
+BiochemicalReaction26	UCHL5 or USP15 deubiquitinates TGFBR1	Complex32	Protein51	
+BiochemicalReaction27	SMURF2 binds SMAD2	Protein28	Complex34	
+BiochemicalReaction27	SMURF2 binds SMAD2	Protein11	Complex34	
+BiochemicalReaction28	SMURF2 ubiquitinates SMAD2	Protein36	Protein28	
+BiochemicalReaction28	SMURF2 ubiquitinates SMAD2	Complex34	Protein28	
+BiochemicalReaction28	SMURF2 ubiquitinates SMAD2	Complex34	Complex35	
+BiochemicalReaction28	SMURF2 ubiquitinates SMAD2	Protein36	Complex35	
+BiochemicalReaction29	SMAD3 binds STUB1 (CHIP)	Protein54	Complex36	
+BiochemicalReaction29	SMAD3 binds STUB1 (CHIP)	Protein12	Complex36	
+BiochemicalReaction3	Dimeric TGFB1 binds to TGFBR2 homodimer	Complex3	Complex4	
+BiochemicalReaction3	Dimeric TGFB1 binds to TGFBR2 homodimer	Protein6	Complex4	
+BiochemicalReaction30	STUB1 (CHIP) ubiquitinates SMAD3	Protein36	Complex37	
+BiochemicalReaction30	STUB1 (CHIP) ubiquitinates SMAD3	Complex36	Complex37	
+BiochemicalReaction30	STUB1 (CHIP) ubiquitinates SMAD3	Complex36	Protein54	
+BiochemicalReaction30	STUB1 (CHIP) ubiquitinates SMAD3	Protein36	Protein54	
+BiochemicalReaction31	PMEPA1 sequesters phosphorylated SMAD2/3	Protein14	Complex38	
+BiochemicalReaction31	PMEPA1 sequesters phosphorylated SMAD2/3	Protein55	Complex38	
+BiochemicalReaction32	PMEPA1 sequesters unphosphorylated SMAD2/3	Protein10	Complex39	
+BiochemicalReaction32	PMEPA1 sequesters unphosphorylated SMAD2/3	Protein56	Complex39	
+BiochemicalReaction33	MTMR4 binds phosphorylated SMAD2/3	Protein14	Complex40	
+BiochemicalReaction33	MTMR4 binds phosphorylated SMAD2/3	Protein57	Complex40	
+BiochemicalReaction34	MTMR4 dephosphorylates SMAD2/3	Complex40	SmallMolecule4	
+BiochemicalReaction34	MTMR4 dephosphorylates SMAD2/3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction34	MTMR4 dephosphorylates SMAD2/3	SmallMolecule3	Protein10	
+BiochemicalReaction34	MTMR4 dephosphorylates SMAD2/3	Complex40	Protein10	
+BiochemicalReaction34	MTMR4 dephosphorylates SMAD2/3	SmallMolecule3	Protein57	
+BiochemicalReaction34	MTMR4 dephosphorylates SMAD2/3	Complex40	Protein57	
+BiochemicalReaction35	CBL binds TGFBR2	Protein58	Complex41	
+BiochemicalReaction35	CBL binds TGFBR2	Protein6	Complex41	
+BiochemicalReaction36	CBL neddylates TGFBR2	Complex41	Protein58	
+BiochemicalReaction36	CBL neddylates TGFBR2	Complex42	Protein58	
+BiochemicalReaction36	CBL neddylates TGFBR2	Complex42	Complex43	
+BiochemicalReaction36	CBL neddylates TGFBR2	Complex41	Complex43	
+BiochemicalReaction36	CBL neddylates TGFBR2	Complex42	Protein64	
+BiochemicalReaction36	CBL neddylates TGFBR2	Complex41	Protein64	
+BiochemicalReaction37	TGFBR1 is recruited to tight junctions by PARD6A	Complex44	Complex46	
+BiochemicalReaction37	TGFBR1 is recruited to tight junctions by PARD6A	Complex6	Complex46	
+BiochemicalReaction38	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex46	Protein8	
+BiochemicalReaction38	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex4	Protein8	
+BiochemicalReaction38	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex4	Complex47	
+BiochemicalReaction38	TGFBR2 is recruited to tight junctions after TGF-beta stimulation	Complex46	Complex47	
+BiochemicalReaction39	TGFBR2 phosphorylates TGFBR1 and PARD6A	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction39	TGFBR2 phosphorylates TGFBR1 and PARD6A	Complex47	SmallMolecule2	
+BiochemicalReaction39	TGFBR2 phosphorylates TGFBR1 and PARD6A	Complex47	Complex48	
+BiochemicalReaction39	TGFBR2 phosphorylates TGFBR1 and PARD6A	SmallMolecule1	Complex48	
+BiochemicalReaction4	TGFBR2 recruits TGFBR1	Complex6	Complex7	
+BiochemicalReaction4	TGFBR2 recruits TGFBR1	Complex4	Complex7	
+BiochemicalReaction4	TGFBR2 recruits TGFBR1	Complex4	Protein8	
+BiochemicalReaction4	TGFBR2 recruits TGFBR1	Complex6	Protein8	
+BiochemicalReaction40	SMURF1 binds phosphorylated PARD6A	Complex48	Complex51	
+BiochemicalReaction40	SMURF1 binds phosphorylated PARD6A	Protein31	Complex51	
+BiochemicalReaction41	SMURF1 ubiquitinates RHOA	Complex51	Complex52	
+BiochemicalReaction41	SMURF1 ubiquitinates RHOA	Protein36	Complex52	
+BiochemicalReaction42	Disassembly of tight junctions	Complex52	NA	
+BiochemicalReaction43	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex14	Complex53	
+BiochemicalReaction44	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction44	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex53	SmallMolecule6	
+BiochemicalReaction44	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex53	Complex54	
+BiochemicalReaction44	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule5	Complex54	
+BiochemicalReaction45	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Complex14	Complex58	
+BiochemicalReaction45	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Protein85	Complex58	
+BiochemicalReaction46	WWTR1:SMAD translocates to the nucleus	Complex58	Complex59	
+BiochemicalReaction47	WWTR1:SMAD stimulates transcription of SMAD7	Dna1	Protein26	
+BiochemicalReaction48	WWTR1:SMAD stimulates transcription of SERPINE1 while TGIF:SMAD and SMAD7 inhibit it	Dna2	Protein87	
+BiochemicalReaction49	RNF111 binds SMAD7	Protein26	Complex61	
+BiochemicalReaction49	RNF111 binds SMAD7	Protein92	Complex61	
+BiochemicalReaction5	TGFBR2 phosphorylates TGFBR1	Complex7	Complex9	
+BiochemicalReaction5	TGFBR2 phosphorylates TGFBR1	SmallMolecule1	Complex9	
+BiochemicalReaction5	TGFBR2 phosphorylates TGFBR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	TGFBR2 phosphorylates TGFBR1	Complex7	SmallMolecule2	
+BiochemicalReaction50	RNF111 ubiquitinates SMAD7	Complex61	Complex62	
+BiochemicalReaction50	RNF111 ubiquitinates SMAD7	Protein93	Complex62	
+BiochemicalReaction50	RNF111 ubiquitinates SMAD7	Protein93	Protein92	
+BiochemicalReaction50	RNF111 ubiquitinates SMAD7	Complex61	Protein92	
+BiochemicalReaction51	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex63	Complex64	
+BiochemicalReaction51	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex53	Complex64	
+BiochemicalReaction52	MYC trancscription is negatively regulated by SMAD2/3:SMAD4:RBL1:E2F4/5:DP1/2 complex	Dna3	Protein115	
+BiochemicalReaction53	SMAD2/3:SMAD4 heterotrimer binds SP1	Complex53	Complex65	
+BiochemicalReaction53	SMAD2/3:SMAD4 heterotrimer binds SP1	Protein116	Complex65	
+BiochemicalReaction54	SMAD2/3:SMAD4:SP1 complex stimulates transcription of CDKN2B	Dna4	Protein117	
+BiochemicalReaction55	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Complex53	Complex66	
+BiochemicalReaction55	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Protein118	Complex66	
+BiochemicalReaction56	SMAD2/3:SMAD4 complex positively regulates JUNB transcription	Dna5	Protein119	
+BiochemicalReaction57	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Protein120	Complex67	
+BiochemicalReaction57	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Complex53	Complex67	
+BiochemicalReaction57	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Protein123	Complex67	
+BiochemicalReaction58	SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL	Complex67	Complex68	
+BiochemicalReaction58	SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL	Protein126	Complex68	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex68	Protein120	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein93	Protein120	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein93	Complex69	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex68	Complex69	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein93	Complex53	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex68	Complex53	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein93	Protein126	
+BiochemicalReaction59	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex68	Protein126	
+BiochemicalReaction6	An anchoring protein, ZFYVE9 (SARA), recruits SMAD2/3	Complex9	Complex11	
+BiochemicalReaction6	An anchoring protein, ZFYVE9 (SARA), recruits SMAD2/3	Protein10	Complex11	
+BiochemicalReaction6	An anchoring protein, ZFYVE9 (SARA), recruits SMAD2/3	Protein13	Complex11	
+BiochemicalReaction60	TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus	Protein127	Complex70	
+BiochemicalReaction60	TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus	Complex53	Complex70	
+BiochemicalReaction61	TRIM33 monoubiquitinates SMAD4	Complex70	Protein127	
+BiochemicalReaction61	TRIM33 monoubiquitinates SMAD4	Protein93	Protein127	
+BiochemicalReaction61	TRIM33 monoubiquitinates SMAD4	Protein93	Complex71	
+BiochemicalReaction61	TRIM33 monoubiquitinates SMAD4	Complex70	Complex71	
+BiochemicalReaction61	TRIM33 monoubiquitinates SMAD4	Protein93	Protein74	
+BiochemicalReaction61	TRIM33 monoubiquitinates SMAD4	Complex70	Protein74	
+BiochemicalReaction62	Ubiquitinated SMAD4 translocates from the nucleus to the cytosol	Complex71	Complex72	
+BiochemicalReaction63	USP9X (FAM) binds to ubiquitinated SMAD4	Protein128	Complex73	
+BiochemicalReaction63	USP9X (FAM) binds to ubiquitinated SMAD4	Complex72	Complex73	
+BiochemicalReaction64	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule3	Protein36	
+BiochemicalReaction64	USP9X (FAM) deubiquitinates SMAD4	Complex73	Protein36	
+BiochemicalReaction64	USP9X (FAM) deubiquitinates SMAD4	Complex73	Protein17	
+BiochemicalReaction64	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule3	Protein17	
+BiochemicalReaction64	USP9X (FAM) deubiquitinates SMAD4	Complex73	Protein128	
+BiochemicalReaction64	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule3	Protein128	
+BiochemicalReaction65	NEDD4L binds phosphorylated linker region of SMAD2/3	Protein33	Complex74	
+BiochemicalReaction65	NEDD4L binds phosphorylated linker region of SMAD2/3	Complex54	Complex74	
+BiochemicalReaction66	NEDD4L ubiquitinates SMAD2/3	Protein93	Complex75	
+BiochemicalReaction66	NEDD4L ubiquitinates SMAD2/3	Complex74	Complex75	
+BiochemicalReaction66	NEDD4L ubiquitinates SMAD2/3	Complex74	Protein33	
+BiochemicalReaction66	NEDD4L ubiquitinates SMAD2/3	Protein93	Protein33	
+BiochemicalReaction67	SMURF2 binds SMAD3 phosphorylated in the linker region	Protein27	Complex76	
+BiochemicalReaction67	SMURF2 binds SMAD3 phosphorylated in the linker region	Complex54	Complex76	
+BiochemicalReaction68	SMURF2 monoubiquitinates SMAD3	Complex76	Protein27	
+BiochemicalReaction68	SMURF2 monoubiquitinates SMAD3	Protein93	Protein27	
+BiochemicalReaction68	SMURF2 monoubiquitinates SMAD3	Protein93	Protein73	
+BiochemicalReaction68	SMURF2 monoubiquitinates SMAD3	Complex76	Protein73	
+BiochemicalReaction68	SMURF2 monoubiquitinates SMAD3	Protein93	Complex77	
+BiochemicalReaction68	SMURF2 monoubiquitinates SMAD3	Complex76	Complex77	
+BiochemicalReaction69	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Complex53	Complex60	
+BiochemicalReaction69	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Protein88	Complex60	
+BiochemicalReaction69	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Protein89	Complex60	
+BiochemicalReaction7	Activated type I receptor phosphorylates SMAD2/3 directly	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Activated type I receptor phosphorylates SMAD2/3 directly	Complex11	SmallMolecule2	
+BiochemicalReaction7	Activated type I receptor phosphorylates SMAD2/3 directly	Complex11	Complex12	
+BiochemicalReaction7	Activated type I receptor phosphorylates SMAD2/3 directly	SmallMolecule1	Complex12	
+BiochemicalReaction70	PARP1 binds SMAD2/3:SMAD4 heterotrimer	Complex53	Complex78	
+BiochemicalReaction70	PARP1 binds SMAD2/3:SMAD4 heterotrimer	Protein129	Complex78	
+BiochemicalReaction71	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex78	SmallMolecule8	
+BiochemicalReaction71	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction71	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule7	Protein129	
+BiochemicalReaction71	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex78	Protein129	
+BiochemicalReaction71	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule7	Complex79	
+BiochemicalReaction71	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex78	Complex79	
+BiochemicalReaction72	PPM1A protein phosphatase binds phosphorylated SMAD2/3	Complex53	Complex80	
+BiochemicalReaction72	PPM1A protein phosphatase binds phosphorylated SMAD2/3	Protein133	Complex80	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	Complex80	SmallMolecule10	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule9	Protein134	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	Complex80	Protein134	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule9	Protein73	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	Complex80	Protein73	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule9	Protein133	
+BiochemicalReaction73	PPM1A dephosphorylates nuclear SMAD2/3	Complex80	Protein133	
+BiochemicalReaction74	Dephosphorylated SMAD2/3 translocates to the cytosol	Protein134	Protein10	
+BiochemicalReaction8	Phosphorylated SMAD2/3 dissociates from TGFBR	Complex12	Complex13	
+BiochemicalReaction8	Phosphorylated SMAD2/3 dissociates from TGFBR	Complex12	Protein14	
+BiochemicalReaction9	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein17	Complex14	
+BiochemicalReaction9	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein14	Complex14	
+Degradation1	Degradation of TGF-beta receptor complex	Complex31	NA	
+Degradation2	Degradation of ubiquitinated SMAD2	Complex35	NA	
+Degradation3	Degradation of ubiquitinated SMAD3	Complex37	NA	
+Degradation4	Degradation of Ub-SMAD7	Complex62	NA	
+Degradation5	Degradation of ubiquitinated SKI/SKIL	Complex69	NA	
+Degradation6	Degradation of SMAD2/3:SMAD4 complex	Complex75	NA	
+Degradation7	Ubiquitin-dependent degradation of the SMAD complex terminates TGF-beta signaling	Complex53	NA	

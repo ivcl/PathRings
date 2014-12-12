@@ -1,0 +1,125 @@
+BiochemicalReaction1	dsRNA binds to RIG-I	SmallMolecule1	Complex1	
+BiochemicalReaction1	dsRNA binds to RIG-I	Protein1	Complex1	
+BiochemicalReaction1	dsRNA binds to RIG-I	PhysicalEntity1	Complex1	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex15	Complex18	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex16	Complex18	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex17	Complex18	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex17	Complex19	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex16	Complex19	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex15	Complex19	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex17	Complex20	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex16	Complex20	
+BiochemicalReaction10	Translocation of phosphorylated IRF3/7 dimers into nucleus	Complex15	Complex20	
+BiochemicalReaction11	Interaction of CBP/p300 with p-IRF3 dimer	Complex18	Complex21	
+BiochemicalReaction11	Interaction of CBP/p300 with p-IRF3 dimer	Protein30	Complex21	
+BiochemicalReaction12	IRF3:CBP/p300 complex binds the promoters of IFN-beta	Complex21	Complex22	
+BiochemicalReaction12	IRF3:CBP/p300 complex binds the promoters of IFN-beta	PhysicalEntity3	Complex22	
+BiochemicalReaction13	IPS-1 interacts with RIP-1 and FADD	Protein34	Complex23	
+BiochemicalReaction13	IPS-1 interacts with RIP-1 and FADD	Complex8	Complex23	
+BiochemicalReaction13	IPS-1 interacts with RIP-1 and FADD	Protein35	Complex23	
+BiochemicalReaction14	Recruitment of caspase-8 and -10 to FADD complex	Complex23	Complex25	
+BiochemicalReaction14	Recruitment of caspase-8 and -10 to FADD complex	Protein36	Complex25	
+BiochemicalReaction15	Dimerzation of procaspase-8/10	Complex25	Complex28	
+BiochemicalReaction15	Dimerzation of procaspase-8/10	Protein36	Complex28	
+BiochemicalReaction16	Processing of caspases	Complex28	Protein39	
+BiochemicalReaction16	Processing of caspases	Complex28	Protein40	
+BiochemicalReaction16	Processing of caspases	Complex28	Protein41	
+BiochemicalReaction16	Processing of caspases	Complex28	Complex32	
+BiochemicalReaction16	Processing of caspases	Complex28	Protein45	
+BiochemicalReaction16	Processing of caspases	Complex28	Protein46	
+BiochemicalReaction17	Recruitment of IKK complex	Complex32	Complex36	
+BiochemicalReaction17	Recruitment of IKK complex	Complex35	Complex36	
+BiochemicalReaction18	Recruitment of TRAF6/TRAF2 to IPS-1	Protein50	Complex37	
+BiochemicalReaction18	Recruitment of TRAF6/TRAF2 to IPS-1	Complex8	Complex37	
+BiochemicalReaction19	Recruitment of TANK to TRAF6	Complex37	Complex39	
+BiochemicalReaction19	Recruitment of TANK to TRAF6	Protein53	Complex39	
+BiochemicalReaction2	K-63-linked polyubiquitination of RIG-I	Complex1	Complex4	
+BiochemicalReaction2	K-63-linked polyubiquitination of RIG-I	PhysicalEntity2	Complex4	
+BiochemicalReaction2	K-63-linked polyubiquitination of RIG-I	Protein8	Complex4	
+BiochemicalReaction20	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex39	Complex40	
+BiochemicalReaction20	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex12	Complex40	
+BiochemicalReaction20	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex12	Protein21	
+BiochemicalReaction20	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex39	Protein21	
+BiochemicalReaction21	Recruitment of IRF7 to TRAF6	Protein24	Complex41	
+BiochemicalReaction21	Recruitment of IRF7 to TRAF6	Complex40	Complex41	
+BiochemicalReaction22	Phosphorylation and release of IRF7	Complex41	SmallMolecule2	
+BiochemicalReaction22	Phosphorylation and release of IRF7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	Phosphorylation and release of IRF7	SmallMolecule1	Complex40	
+BiochemicalReaction22	Phosphorylation and release of IRF7	Complex41	Complex40	
+BiochemicalReaction22	Phosphorylation and release of IRF7	SmallMolecule1	Protein27	
+BiochemicalReaction22	Phosphorylation and release of IRF7	Complex41	Protein27	
+BiochemicalReaction23	Dimerization of p-IRF7	Protein27	Complex15	
+BiochemicalReaction24	Translocation of p-IRF7:p-IRF7 to nucleus	Complex15	Complex19	
+BiochemicalReaction25	p-IRF7 dimer interacts with coactivator CBP/p300	Complex19	Complex44	
+BiochemicalReaction25	p-IRF7 dimer interacts with coactivator CBP/p300	Protein30	Complex44	
+BiochemicalReaction26	Formation of VAF (virus-activated factor) complex	Protein30	Complex45	
+BiochemicalReaction26	Formation of VAF (virus-activated factor) complex	Complex20	Complex45	
+BiochemicalReaction27	VAF/pIRF7:CBP/p300 binds the promoters of type-I IFN genes	Complex46	Complex47	
+BiochemicalReaction27	VAF/pIRF7:CBP/p300 binds the promoters of type-I IFN genes	PhysicalEntity5	Complex47	
+BiochemicalReaction28	Interaction of MEKK1 with TRAF6	Protein71	Complex54	
+BiochemicalReaction28	Interaction of MEKK1 with TRAF6	Complex37	Complex54	
+BiochemicalReaction29	Activation of IKK by MEKK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	Activation of IKK by MEKK1	Complex35	SmallMolecule2	
+BiochemicalReaction29	Activation of IKK by MEKK1	Complex35	Complex55	
+BiochemicalReaction29	Activation of IKK by MEKK1	SmallMolecule1	Complex55	
+BiochemicalReaction3	dsRNA binds to MDA5	Complex5	Complex6	
+BiochemicalReaction3	dsRNA binds to MDA5	PhysicalEntity1	Complex6	
+BiochemicalReaction3	dsRNA binds to MDA5	PhysicalEntity1	Protein12	
+BiochemicalReaction3	dsRNA binds to MDA5	Complex5	Protein12	
+BiochemicalReaction30	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex56	Protein81	
+BiochemicalReaction30	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Protein81	
+BiochemicalReaction30	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex56	SmallMolecule2	
+BiochemicalReaction30	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Complex57	
+BiochemicalReaction30	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex56	Complex57	
+BiochemicalReaction31	Released NFkB complex is transported to nucleus	Complex57	Complex58	
+BiochemicalReaction32	RNF125 mediated ubiquitination of RIG-I, MDA5 and IPS-1	Protein96	Protein97	
+BiochemicalReaction32	RNF125 mediated ubiquitination of RIG-I, MDA5 and IPS-1	Protein96	Protein98	
+BiochemicalReaction32	RNF125 mediated ubiquitination of RIG-I, MDA5 and IPS-1	Protein96	Protein103	
+BiochemicalReaction33	Interaction of PIN1 with p-IRF3	Protein107	Complex67	
+BiochemicalReaction33	Interaction of PIN1 with p-IRF3	Complex66	Complex67	
+BiochemicalReaction34	PIN1 mediated IRF3 degradation	Complex67	Protein107	
+BiochemicalReaction35	Inhibition of RIG-I/MDA5 signaling by ATG5-ATG12 conjugate	Complex69	Complex71	
+BiochemicalReaction35	Inhibition of RIG-I/MDA5 signaling by ATG5-ATG12 conjugate	Complex7	Complex71	
+BiochemicalReaction36	CYLD mediated deubiquitination of RIG-I	Protein11	Protein111	
+BiochemicalReaction36	CYLD mediated deubiquitination of RIG-I	Protein11	Protein1	
+BiochemicalReaction37	Negative regulation of RIG-I/MDA5 signaling by DUBA	Complex11	Protein127	
+BiochemicalReaction37	Negative regulation of RIG-I/MDA5 signaling by DUBA	Complex11	Complex72	
+BiochemicalReaction38	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	Complex72	Protein144	
+BiochemicalReaction38	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	PhysicalEntity9	Protein144	
+BiochemicalReaction38	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	PhysicalEntity9	Complex8	
+BiochemicalReaction38	Negative regulation of RIG-I/MDA5 signaling by TRIAD3A	Complex72	Complex8	
+BiochemicalReaction39	NLRX1 inhibits IPS-1-RIG-I interaction.	Protein16	Complex10	
+BiochemicalReaction39	NLRX1 inhibits IPS-1-RIG-I interaction.	Protein14	Complex10	
+BiochemicalReaction4	RIG-I/MDA5 interacts with IPS-1	Complex7	Complex8	
+BiochemicalReaction4	RIG-I/MDA5 interacts with IPS-1	Protein14	Complex8	
+BiochemicalReaction40	ISGylation of RIG-I	Complex3	Complex2	
+BiochemicalReaction40	ISGylation of RIG-I	Protein1	Complex2	
+BiochemicalReaction41	TAX1BP1:A20 inhibit TBK1/IKKi K63-polyubiquitination	Complex73	Complex74	
+BiochemicalReaction41	TAX1BP1:A20 inhibit TBK1/IKKi K63-polyubiquitination	Protein18	Complex74	
+BiochemicalReaction42	NLRC5 interacts with RIG-I/MDA5 and inhibit IPS-1 binding	Complex7	Complex9	
+BiochemicalReaction42	NLRC5 interacts with RIG-I/MDA5 and inhibit IPS-1 binding	Protein15	Complex9	
+BiochemicalReaction43	Interaction of PCBP2 with MAVS/IPS-1	Protein147	Complex75	
+BiochemicalReaction43	Interaction of PCBP2 with MAVS/IPS-1	Complex8	Complex75	
+BiochemicalReaction44	Recruitment of AIP4 and K-48 ubiquitination of MAVS/IPS-1	Complex75	Complex76	
+BiochemicalReaction44	Recruitment of AIP4 and K-48 ubiquitination of MAVS/IPS-1	Protein148	Complex76	
+BiochemicalReaction44	Recruitment of AIP4 and K-48 ubiquitination of MAVS/IPS-1	PhysicalEntity9	Complex76	
+BiochemicalReaction5	Recruitment of TRAF3 to IPS-1	Complex8	Complex11	
+BiochemicalReaction5	Recruitment of TRAF3 to IPS-1	Protein17	Complex11	
+BiochemicalReaction6	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex11	Complex13	
+BiochemicalReaction6	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex12	Complex13	
+BiochemicalReaction6	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex12	Protein21	
+BiochemicalReaction6	TBK1/IKK epsilon complex interacts with IPS-1 bound TRAF3	Complex11	Protein21	
+BiochemicalReaction7	Recruitment of IRF3/7\u00C2\u00A0	Complex13	Complex14	
+BiochemicalReaction7	Recruitment of IRF3/7\u00C2\u00A0	Protein22	Complex14	
+BiochemicalReaction8	Phosphorylation and release of IRF3/IRF7	Complex14	Protein25	
+BiochemicalReaction8	Phosphorylation and release of IRF3/IRF7	SmallMolecule1	Protein25	
+BiochemicalReaction8	Phosphorylation and release of IRF3/IRF7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation and release of IRF3/IRF7	Complex14	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation and release of IRF3/IRF7	SmallMolecule1	Complex13	
+BiochemicalReaction8	Phosphorylation and release of IRF3/IRF7	Complex14	Complex13	
+BiochemicalReaction9	Dimerization of Phospho IRF3 or phospho IRF7	Protein25	Complex15	
+BiochemicalReaction9	Dimerization of Phospho IRF3 or phospho IRF7	Protein25	Complex16	
+BiochemicalReaction9	Dimerization of Phospho IRF3 or phospho IRF7	Protein25	Complex17	
+TemplateReaction1	Expression of IFN-beta	NA	Protein33	
+TemplateReaction2	Expression of Interferon-alpha and beta	NA	PhysicalEntity7	

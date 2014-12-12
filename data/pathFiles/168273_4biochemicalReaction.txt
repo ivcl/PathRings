@@ -1,0 +1,56 @@
+BiochemicalReaction1	Viral Polymerase Assembly	Protein1	Complex1	
+BiochemicalReaction1	Viral Polymerase Assembly	Protein2	Complex1	
+BiochemicalReaction1	Viral Polymerase Assembly	Protein3	Complex1	
+BiochemicalReaction10	Initiation of cRNA Synthesis	Complex2	Complex10	
+BiochemicalReaction10	Initiation of cRNA Synthesis	SmallMolecule2	Complex10	
+BiochemicalReaction10	Initiation of cRNA Synthesis	Complex1	Complex10	
+BiochemicalReaction11	cRNA Extension	Complex10	Complex11	
+BiochemicalReaction11	cRNA Extension	Protein6	Complex11	
+BiochemicalReaction11	cRNA Extension	SmallMolecule2	Complex11	
+BiochemicalReaction11	cRNA Extension	SmallMolecule2	Complex2	
+BiochemicalReaction11	cRNA Extension	Protein6	Complex2	
+BiochemicalReaction11	cRNA Extension	Complex10	Complex2	
+BiochemicalReaction11	cRNA Extension	SmallMolecule2	Complex1	
+BiochemicalReaction11	cRNA Extension	Protein6	Complex1	
+BiochemicalReaction11	cRNA Extension	Complex10	Complex1	
+BiochemicalReaction12	Initiation of vRNA Synthesis	Complex11	Complex12	
+BiochemicalReaction12	Initiation of vRNA Synthesis	Complex1	Complex12	
+BiochemicalReaction13	vRNA Extension	Protein6	Complex11	
+BiochemicalReaction13	vRNA Extension	SmallMolecule2	Complex11	
+BiochemicalReaction13	vRNA Extension	Complex12	Complex11	
+BiochemicalReaction13	vRNA Extension	Complex12	Complex2	
+BiochemicalReaction13	vRNA Extension	SmallMolecule2	Complex2	
+BiochemicalReaction13	vRNA Extension	Protein6	Complex2	
+BiochemicalReaction13	vRNA Extension	Complex12	PhysicalEntity5	
+BiochemicalReaction13	vRNA Extension	SmallMolecule2	PhysicalEntity5	
+BiochemicalReaction13	vRNA Extension	Protein6	PhysicalEntity5	
+BiochemicalReaction13	vRNA Extension	Complex12	Complex1	
+BiochemicalReaction13	vRNA Extension	SmallMolecule2	Complex1	
+BiochemicalReaction13	vRNA Extension	Protein6	Complex1	
+BiochemicalReaction14	Synthesis of PB1-F2	Rna29	Protein21	
+BiochemicalReaction14	Synthesis of PB1-F2	SmallMolecule7	Protein21	
+BiochemicalReaction15	Viral Protein Synthesis	Rna23	Complex16	
+BiochemicalReaction15	Viral Protein Synthesis	SmallMolecule7	Complex16	
+BiochemicalReaction15	Viral Protein Synthesis	SmallMolecule7	Complex17	
+BiochemicalReaction15	Viral Protein Synthesis	Rna23	Complex17	
+BiochemicalReaction2	NP binds vRNA	Protein6	Complex2	
+BiochemicalReaction2	NP binds vRNA	Rna1	Complex2	
+BiochemicalReaction3	Assembly of an Active Transcription Complex	PhysicalEntity1	Complex3	
+BiochemicalReaction3	Assembly of an Active Transcription Complex	Complex2	Complex3	
+BiochemicalReaction3	Assembly of an Active Transcription Complex	Complex1	Complex3	
+BiochemicalReaction4	Priming and Initiation of Transcription	Complex3	PhysicalEntity3	
+BiochemicalReaction4	Priming and Initiation of Transcription	Complex3	Complex8	
+BiochemicalReaction5	Elongation of viral mRNA	Complex8	Complex9	
+BiochemicalReaction5	Elongation of viral mRNA	SmallMolecule2	Complex9	
+BiochemicalReaction6	Polyadenylation and Termination	Complex9	Complex2	
+BiochemicalReaction6	Polyadenylation and Termination	Complex9	Rna20	
+BiochemicalReaction6	Polyadenylation and Termination	Complex9	Complex1	
+BiochemicalReaction7	Viral mRNA Splicing (M, NS segments)	Rna16	Rna17	
+BiochemicalReaction7	Viral mRNA Splicing (M, NS segments)	Rna12	Rna17	
+BiochemicalReaction7	Viral mRNA Splicing (M, NS segments)	Rna12	Rna13	
+BiochemicalReaction7	Viral mRNA Splicing (M, NS segments)	Rna16	Rna13	
+BiochemicalReaction8	Export of Spliced Viral mRNA	Rna17	Rna21	
+BiochemicalReaction8	Export of Spliced Viral mRNA	Rna13	Rna21	
+BiochemicalReaction8	Export of Spliced Viral mRNA	Rna13	Rna22	
+BiochemicalReaction8	Export of Spliced Viral mRNA	Rna17	Rna22	
+BiochemicalReaction9	Viral mRNA Export	Rna20	Rna23	

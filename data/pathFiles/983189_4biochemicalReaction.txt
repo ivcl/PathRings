@@ -1,0 +1,22 @@
+BiochemicalReaction1	Kinesin-1 is a heterotetramer	Protein1	Complex1	
+BiochemicalReaction1	Kinesin-1 is a heterotetramer	Protein4	Complex1	
+BiochemicalReaction10	Kinesin-12 is a dimer	Protein29	Complex17	
+BiochemicalReaction11	Kinesin-13 is a dimer	Protein30	Complex18	
+BiochemicalReaction12	Kinesin-14 is a dimer	Protein34	Complex22	
+BiochemicalReaction13	Kinesins bind microtubules	PhysicalEntity3	Complex23	
+BiochemicalReaction13	Kinesins bind microtubules	PhysicalEntity4	Complex23	
+BiochemicalReaction14	Kinesins move along microtubules consuming ATP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	Kinesins move along microtubules consuming ATP	Complex23	SmallMolecule2	
+BiochemicalReaction14	Kinesins move along microtubules consuming ATP	Complex23	Complex23	
+BiochemicalReaction14	Kinesins move along microtubules consuming ATP	SmallMolecule1	Complex23	
+BiochemicalReaction2	Kinesin-2 is a heterotrimer	Protein9	Complex2	
+BiochemicalReaction2	Kinesin-2 is a heterotrimer	Protein10	Complex2	
+BiochemicalReaction2	Kinesin-2 is a heterotrimer	Protein13	Complex2	
+BiochemicalReaction3	Kinesin-3 is a dimer	Protein14	Complex3	
+BiochemicalReaction4	Chromokinesins form dimers	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction5	Kinesin-5 is a homotetramer	Protein21	Complex12	
+BiochemicalReaction6	Kinesin-6 and RACGAP1 form the heterotetrameric complex centralspindlin	Protein22	Complex13	
+BiochemicalReaction6	Kinesin-6 and RACGAP1 form the heterotetrameric complex centralspindlin	Protein23	Complex13	
+BiochemicalReaction7	Kinesin-7 is a dimer	Protein26	Complex14	
+BiochemicalReaction8	Kinesin-8 is a dimer	Protein27	Complex15	
+BiochemicalReaction9	Kinesin-9 is a dimer	Protein28	Complex16	

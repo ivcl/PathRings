@@ -1,0 +1,40 @@
+Complex1	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Protein1	
+Complex1	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex2	
+Complex1	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex3	
+Complex1	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex4	
+Complex10	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein40	
+Complex11	p-15-TP53 Tetramer:CDKN1A Gene	nucleoplasm	Reactome DB_ID: 3786257	Dna1	
+Complex11	p-15-TP53 Tetramer:CDKN1A Gene	nucleoplasm	Reactome DB_ID: 3786257	Complex10	
+Complex12	Cyclin A:Cdk2 complex	nucleoplasm	Reactome DB_ID: 141608	Protein42	
+Complex12	Cyclin A:Cdk2 complex	nucleoplasm	Reactome DB_ID: 141608	Protein45	
+Complex13	Cyclin A:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 187926	Complex12	
+Complex13	Cyclin A:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 187926	Protein46	
+Complex14	Cyclin E:Cdk2 complexes	nucleoplasm	Reactome DB_ID: 68374	Protein45	
+Complex14	Cyclin E:Cdk2 complexes	nucleoplasm	Reactome DB_ID: 68374	Protein48	
+Complex15	Cyclin E:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 68376	Complex14	
+Complex15	Cyclin E:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 68376	Protein46	
+Complex16	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein51	
+Complex16	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein52	
+Complex16	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein53	
+Complex16	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein54	
+Complex2	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein2	
+Complex2	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein1	
+Complex2	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein3	
+Complex2	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein4	
+Complex2	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein5	
+Complex2	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein6	
+Complex3	Extended And Processed Telomere End Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182752	PhysicalEntity3	
+Complex3	Extended And Processed Telomere End Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182752	PhysicalEntity4	
+Complex4	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein7	
+Complex4	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein8	
+Complex4	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein23	
+Complex4	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein33	
+Complex5	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein34	
+Complex5	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein35	
+Complex5	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein36	
+Complex6	DNA DSBs/Shortened telomeres:MRN	nucleoplasm	Reactome DB_ID: 3785763	Complex5	
+Complex6	DNA DSBs/Shortened telomeres:MRN	nucleoplasm	Reactome DB_ID: 3785763	PhysicalEntity6	
+Complex7	dimeric ATM kinase	nucleoplasm	Reactome DB_ID: 83538	Protein37	
+Complex8	DNA DSBs/Shortened telomeres:MRN:ATM dimer	nucleoplasm	Reactome DB_ID: 3785779	Complex6	
+Complex8	DNA DSBs/Shortened telomeres:MRN:ATM dimer	nucleoplasm	Reactome DB_ID: 3785779	Complex7	
+Complex9	TP53 Tetramer	nucleoplasm	Reactome DB_ID: 3209194	Protein39	

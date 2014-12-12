@@ -1,0 +1,76 @@
+BiochemicalReaction1	Activated FGFR binds FRS2alpha	PhysicalEntity1	Complex19	
+BiochemicalReaction1	Activated FGFR binds FRS2alpha	Protein36	Complex19	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex31	Complex32	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex30	Complex32	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex30	Protein49	
+BiochemicalReaction10	Transient dissociation of 14-3-3 upon Ras binding	Complex31	Protein49	
+BiochemicalReaction11	Stabilisation of RAS:RAF by 14-3-3	Complex32	Complex33	
+BiochemicalReaction11	Stabilisation of RAS:RAF by 14-3-3	Protein49	Complex33	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	SmallMolecule2	Complex34	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	Complex33	Complex34	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	Complex33	SmallMolecule3	
+BiochemicalReaction12	Stabilisation of RAF by further phosphorylation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction13	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein50	Complex36	
+BiochemicalReaction13	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex35	Complex36	
+BiochemicalReaction14	Activated RAF1 complex binds MEK	Protein52	Complex37	
+BiochemicalReaction14	Activated RAF1 complex binds MEK	Complex34	Complex37	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	SmallMolecule2	Protein55	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	Complex38	Protein55	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	Complex38	Complex34	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	SmallMolecule2	Complex34	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	Complex38	SmallMolecule3	
+BiochemicalReaction15	RAF1  phosphorylates MEK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	Complex39	Complex34	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	SmallMolecule2	Complex34	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	Complex39	SmallMolecule3	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	SmallMolecule2	Protein56	
+BiochemicalReaction16	RAF1 phosphorylates MEK2	Complex39	Protein56	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	Protein57	SmallMolecule3	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	SmallMolecule2	Protein58	
+BiochemicalReaction17	Inactivation of MEK1 by p34cdc2	Protein57	Protein58	
+BiochemicalReaction18	MEK1 binds ERK-1	Protein55	Complex40	
+BiochemicalReaction18	MEK1 binds ERK-1	Protein62	Complex40	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	Complex40	Complex41	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	SmallMolecule2	Complex41	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction19	MEK1 phosphorylates ERK-1	Complex40	SmallMolecule3	
+BiochemicalReaction2	Activated FGFR binds FRS2beta	Protein37	Complex20	
+BiochemicalReaction2	Activated FGFR binds FRS2beta	PhysicalEntity1	Complex20	
+BiochemicalReaction20	Dissociation of phospho-ERK-1:MEK1	Complex41	Protein55	
+BiochemicalReaction20	Dissociation of phospho-ERK-1:MEK1	Complex41	Protein63	
+BiochemicalReaction21	Dimerisation of phospho-ERK-1	Protein63	Complex42	
+BiochemicalReaction22	Nuclear translocation of phospho-ERK-1 dimer	Complex42	Complex43	
+BiochemicalReaction23	MEK2 binds ERK-2	Protein56	Complex52	
+BiochemicalReaction23	MEK2 binds ERK-2	Protein73	Complex52	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	Complex52	SmallMolecule3	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	SmallMolecule2	Complex53	
+BiochemicalReaction24	MEK2 phosphorylates ERK-2	Complex52	Complex53	
+BiochemicalReaction25	Dissociation of phospho-ERK-2:MEK2	Complex53	Protein56	
+BiochemicalReaction25	Dissociation of phospho-ERK-2:MEK2	Complex53	Protein74	
+BiochemicalReaction26	Dimerisation of phospho-ERK-2	Protein74	Complex54	
+BiochemicalReaction27	Nuclear translocation of phospho-ERK-2 dimer	Complex54	Complex55	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	Complex19	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	Complex19	Complex21	
+BiochemicalReaction3	Phosphorylation of FRS2-alpha by activated FGFR	SmallMolecule2	Complex21	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	Complex20	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	SmallMolecule2	Complex23	
+BiochemicalReaction4	Phosphorylation of FRS2-beta by activated FGFR	Complex20	Complex23	
+BiochemicalReaction5	Activated FGFR and FRS2 bind to SHP2	Complex24	Complex25	
+BiochemicalReaction5	Activated FGFR and FRS2 bind to SHP2	Protein41	Complex25	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	Complex25	SmallMolecule3	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	Complex25	Complex26	
+BiochemicalReaction6	SHP2 is phosphorylated by activated FGFR	SmallMolecule2	Complex26	
+BiochemicalReaction7	GRB2:SOS1 binds to p-FRS2:activated FGFR	Complex24	Complex28	
+BiochemicalReaction7	GRB2:SOS1 binds to p-FRS2:activated FGFR	Complex27	Complex28	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	SmallMolecule4	Complex30	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	Complex29	Complex30	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	Complex29	SmallMolecule5	
+BiochemicalReaction8	Ras nucleotide exchange by GRB2:SOS1 bound to p-FRS2:activated FGFR	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction9	p-RAF binds 14-3-3 beta/alpha	Protein49	Complex31	
+BiochemicalReaction9	p-RAF binds 14-3-3 beta/alpha	Protein50	Complex31	

@@ -1,0 +1,292 @@
+BiochemicalReaction1	ERBB3 binds neuregulins	PhysicalEntity1	Complex1	
+BiochemicalReaction1	ERBB3 binds neuregulins	Protein5	Complex1	
+BiochemicalReaction10	p-RAF binds 14-3-3 beta/alpha	Protein46	Complex39	
+BiochemicalReaction10	p-RAF binds 14-3-3 beta/alpha	Protein47	Complex39	
+BiochemicalReaction11	Transient dissociation of 14-3-3 upon Ras binding	Complex39	Complex40	
+BiochemicalReaction11	Transient dissociation of 14-3-3 upon Ras binding	Complex38	Complex40	
+BiochemicalReaction11	Transient dissociation of 14-3-3 upon Ras binding	Complex38	Protein46	
+BiochemicalReaction11	Transient dissociation of 14-3-3 upon Ras binding	Complex39	Protein46	
+BiochemicalReaction12	Stabilisation of RAS:RAF by 14-3-3	Complex40	Complex41	
+BiochemicalReaction12	Stabilisation of RAS:RAF by 14-3-3	Protein46	Complex41	
+BiochemicalReaction13	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex42	
+BiochemicalReaction13	Stabilisation of RAF by further phosphorylation	Complex41	Complex42	
+BiochemicalReaction13	Stabilisation of RAF by further phosphorylation	Complex41	SmallMolecule2	
+BiochemicalReaction13	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction14	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein47	Complex44	
+BiochemicalReaction14	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex43	Complex44	
+BiochemicalReaction15	Activated RAF1 complex binds MEK	Protein49	Complex45	
+BiochemicalReaction15	Activated RAF1 complex binds MEK	Complex42	Complex45	
+BiochemicalReaction16	RAF1  phosphorylates MEK1	SmallMolecule1	Protein52	
+BiochemicalReaction16	RAF1  phosphorylates MEK1	Complex46	Protein52	
+BiochemicalReaction16	RAF1  phosphorylates MEK1	Complex46	Complex42	
+BiochemicalReaction16	RAF1  phosphorylates MEK1	SmallMolecule1	Complex42	
+BiochemicalReaction16	RAF1  phosphorylates MEK1	Complex46	SmallMolecule2	
+BiochemicalReaction16	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	RAF1 phosphorylates MEK2	Complex47	Complex42	
+BiochemicalReaction17	RAF1 phosphorylates MEK2	SmallMolecule1	Complex42	
+BiochemicalReaction17	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	RAF1 phosphorylates MEK2	Complex47	SmallMolecule2	
+BiochemicalReaction17	RAF1 phosphorylates MEK2	SmallMolecule1	Protein53	
+BiochemicalReaction17	RAF1 phosphorylates MEK2	Complex47	Protein53	
+BiochemicalReaction18	Inactivation of MEK1 by p34cdc2	Protein54	SmallMolecule2	
+BiochemicalReaction18	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein55	
+BiochemicalReaction18	Inactivation of MEK1 by p34cdc2	Protein54	Protein55	
+BiochemicalReaction19	MEK1 binds ERK-1	Protein52	Complex48	
+BiochemicalReaction19	MEK1 binds ERK-1	Protein59	Complex48	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex2	Protein19	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex6	Protein19	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex6	Complex7	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex2	Complex7	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex6	PhysicalEntity3	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex2	PhysicalEntity3	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex6	Complex8	
+BiochemicalReaction2	ERBB2 forms heterodimers with ligand-activated ERBB receptors: EGFR, ERBB3 and ERBB4	Complex2	Complex8	
+BiochemicalReaction20	MEK1 phosphorylates ERK-1	Complex48	Complex49	
+BiochemicalReaction20	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex49	
+BiochemicalReaction20	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	MEK1 phosphorylates ERK-1	Complex48	SmallMolecule2	
+BiochemicalReaction21	Dissociation of phospho-ERK-1:MEK1	Complex49	Protein52	
+BiochemicalReaction21	Dissociation of phospho-ERK-1:MEK1	Complex49	Protein60	
+BiochemicalReaction22	Dimerisation of phospho-ERK-1	Protein60	Complex50	
+BiochemicalReaction23	Nuclear translocation of phospho-ERK-1 dimer	Complex50	Complex51	
+BiochemicalReaction24	MEK2 binds ERK-2	Protein53	Complex60	
+BiochemicalReaction24	MEK2 binds ERK-2	Protein71	Complex60	
+BiochemicalReaction25	MEK2 phosphorylates ERK-2	Complex60	SmallMolecule2	
+BiochemicalReaction25	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction25	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex61	
+BiochemicalReaction25	MEK2 phosphorylates ERK-2	Complex60	Complex61	
+BiochemicalReaction26	Dissociation of phospho-ERK-2:MEK2	Complex61	Protein53	
+BiochemicalReaction26	Dissociation of phospho-ERK-2:MEK2	Complex61	Protein72	
+BiochemicalReaction27	Dimerisation of phospho-ERK-2	Protein72	Complex62	
+BiochemicalReaction28	Nuclear translocation of phospho-ERK-2 dimer	Complex62	Complex63	
+BiochemicalReaction29	GRB2:SOS1 complex binds phosphorylated EGFR:ERBB2 heterodimer	Complex64	Complex65	
+BiochemicalReaction29	GRB2:SOS1 complex binds phosphorylated EGFR:ERBB2 heterodimer	Complex35	Complex65	
+BiochemicalReaction3	SRC family kinases phosphorylate ERBB2	PhysicalEntity3	SmallMolecule2	
+BiochemicalReaction3	SRC family kinases phosphorylate ERBB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	SRC family kinases phosphorylate ERBB2	SmallMolecule1	PhysicalEntity4	
+BiochemicalReaction3	SRC family kinases phosphorylate ERBB2	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction30	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	SmallMolecule3	Complex38	
+BiochemicalReaction30	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	Complex37	Complex38	
+BiochemicalReaction30	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	Complex37	SmallMolecule4	
+BiochemicalReaction30	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and phosphorylated EGFR:ERBB2 heterodimers.	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction31	GRB2:SOS1 complex binds phosphorylated ERBB4:ERBB2 heterodimers	PhysicalEntity9	Complex68	
+BiochemicalReaction31	GRB2:SOS1 complex binds phosphorylated ERBB4:ERBB2 heterodimers	Complex35	Complex68	
+BiochemicalReaction32	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	SmallMolecule3	Complex38	
+BiochemicalReaction32	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	Complex37	Complex38	
+BiochemicalReaction32	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	Complex37	SmallMolecule4	
+BiochemicalReaction32	RAS guanyl nucleotide exchange mediated by SOS1 bound to GRB2 in complex with phosphorylated ERBB4:ERBB2 heterodimers	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction33	Binding of PI3K subunit p85 (PIK3R1) to ERBB2:P-ERBB3 heterodimer	Protein74	Complex70	
+BiochemicalReaction33	Binding of PI3K subunit p85 (PIK3R1) to ERBB2:P-ERBB3 heterodimer	Complex69	Complex70	
+BiochemicalReaction34	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1 bound to phosphorylated heterodimer of ERBB2 and ERBB3. 	Complex70	Complex71	
+BiochemicalReaction34	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1 bound to phosphorylated heterodimer of ERBB2 and ERBB3. 	Protein75	Complex71	
+BiochemicalReaction35	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction35	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction35	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction35	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB3	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction36	Binding of p85 subunit of PI3K (PIK3R1) to p-ERBB2:p-ERBB4 CYT-1 heterodimers	Complex66	Complex72	
+BiochemicalReaction36	Binding of p85 subunit of PI3K (PIK3R1) to p-ERBB2:p-ERBB4 CYT-1 heterodimers	Protein74	Complex72	
+BiochemicalReaction37	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1bound to ERBB2:ERBB4cyt1 heterodimer. 	Protein75	Complex73	
+BiochemicalReaction37	Recruitment of PI3K subunit p110 (PIK3CA) by PIK3R1bound to ERBB2:ERBB4cyt1 heterodimer. 	Complex72	Complex73	
+BiochemicalReaction38	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction38	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction38	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction38	PIP2 to PIP3 conversion by PI3K bound to phosphorylated heterodimer of ERBB2 and ERBB4 CYT1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction39	Binding of GRB2:GAB1 to p-ERBB2:p-EGFR	Complex64	Complex75	
+BiochemicalReaction39	Binding of GRB2:GAB1 to p-ERBB2:p-EGFR	Complex74	Complex75	
+BiochemicalReaction4	Trans-autophosphorylation of p-Y877-ERBB2 heterodimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Trans-autophosphorylation of p-Y877-ERBB2 heterodimers	PhysicalEntity4	SmallMolecule2	
+BiochemicalReaction4	Trans-autophosphorylation of p-Y877-ERBB2 heterodimers	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction4	Trans-autophosphorylation of p-Y877-ERBB2 heterodimers	SmallMolecule1	PhysicalEntity5	
+BiochemicalReaction40	Binding of PI3K subunit p85 (PIK3R1) to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR. 	Protein74	Complex76	
+BiochemicalReaction40	Binding of PI3K subunit p85 (PIK3R1) to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR. 	Complex75	Complex76	
+BiochemicalReaction41	Recruitment of catalytic PI3K subunit p110 (PIK3CA) by PIK3R1 bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	Protein75	Complex77	
+BiochemicalReaction41	Recruitment of catalytic PI3K subunit p110 (PIK3CA) by PIK3R1 bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	Complex76	Complex77	
+BiochemicalReaction42	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction42	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction42	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction42	PIP2 to PIP3 conversion by PI3K bound to GRB2:GAB1 in complex with phosphorylated heterodimer of ERBB2 and EGFR	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction43	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction43	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction43	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction43	PI3K phosphorylates PIP2 to PIP3	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction44	PIP3 recruits AKT to the membrane	Protein144	Complex136	
+BiochemicalReaction44	PIP3 recruits AKT to the membrane	SmallMolecule6	Complex136	
+BiochemicalReaction45	PIP3 recruits PDPK1 to the membrane	Protein152	Complex137	
+BiochemicalReaction45	PIP3 recruits PDPK1 to the membrane	SmallMolecule6	Complex137	
+BiochemicalReaction46	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	TORC2 (mTOR) phosphorylates AKT at S473	Complex136	SmallMolecule2	
+BiochemicalReaction46	TORC2 (mTOR) phosphorylates AKT at S473	Complex136	Complex138	
+BiochemicalReaction46	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	Complex138	
+BiochemicalReaction47	AKT binds PDPK1	Complex137	Complex141	
+BiochemicalReaction47	AKT binds PDPK1	Complex138	Complex141	
+BiochemicalReaction48	PDPK1 phosphorylates AKT at T308	Complex141	Complex137	
+BiochemicalReaction48	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Complex137	
+BiochemicalReaction48	PDPK1 phosphorylates AKT at T308	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction48	PDPK1 phosphorylates AKT at T308	Complex141	SmallMolecule2	
+BiochemicalReaction48	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Protein165	
+BiochemicalReaction48	PDPK1 phosphorylates AKT at T308	Complex141	Protein165	
+BiochemicalReaction49	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction49	AKT phosphorylates BAD	Protein169	SmallMolecule2	
+BiochemicalReaction49	AKT phosphorylates BAD	Protein169	Protein170	
+BiochemicalReaction49	AKT phosphorylates BAD	SmallMolecule1	Protein170	
+BiochemicalReaction5	Trans-autophosphorylation of ERBB2 heterodimers	PhysicalEntity3	SmallMolecule2	
+BiochemicalReaction5	Trans-autophosphorylation of ERBB2 heterodimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Trans-autophosphorylation of ERBB2 heterodimers	SmallMolecule1	PhysicalEntity6	
+BiochemicalReaction5	Trans-autophosphorylation of ERBB2 heterodimers	PhysicalEntity3	PhysicalEntity6	
+BiochemicalReaction50	AKT phosphorylates GSK3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction50	AKT phosphorylates GSK3	Protein171	SmallMolecule2	
+BiochemicalReaction50	AKT phosphorylates GSK3	Protein171	Protein174	
+BiochemicalReaction50	AKT phosphorylates GSK3	SmallMolecule1	Protein174	
+BiochemicalReaction51	AKT phosphorylates caspase-9	Protein177	SmallMolecule2	
+BiochemicalReaction51	AKT phosphorylates caspase-9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction51	AKT phosphorylates caspase-9	SmallMolecule1	Protein178	
+BiochemicalReaction51	AKT phosphorylates caspase-9	Protein177	Protein178	
+BiochemicalReaction52	AKT phosphorylates MDM2	SmallMolecule1	Protein180	
+BiochemicalReaction52	AKT phosphorylates MDM2	Protein179	Protein180	
+BiochemicalReaction52	AKT phosphorylates MDM2	Protein179	SmallMolecule2	
+BiochemicalReaction52	AKT phosphorylates MDM2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction53	AKT phosphorylates IKKalpha	Protein181	SmallMolecule2	
+BiochemicalReaction53	AKT phosphorylates IKKalpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction53	AKT phosphorylates IKKalpha	SmallMolecule1	Protein182	
+BiochemicalReaction53	AKT phosphorylates IKKalpha	Protein181	Protein182	
+BiochemicalReaction54	AKT phosphorylates p21Cip1 and p27Kip1	Protein183	Protein186	
+BiochemicalReaction54	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	Protein186	
+BiochemicalReaction54	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction54	AKT phosphorylates p21Cip1 and p27Kip1	Protein183	SmallMolecule2	
+BiochemicalReaction55	AKT phosphorylates TSC2, inhibiting it	Protein189	SmallMolecule2	
+BiochemicalReaction55	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction55	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	Protein190	
+BiochemicalReaction55	AKT phosphorylates TSC2, inhibiting it	Protein189	Protein190	
+BiochemicalReaction56	AKT phosphorylates AKT1S1 (PRAS40)	Protein191	Protein192	
+BiochemicalReaction56	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	Protein192	
+BiochemicalReaction56	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction56	AKT phosphorylates AKT1S1 (PRAS40)	Protein191	SmallMolecule2	
+BiochemicalReaction57	AKT translocates to the nucleus	Protein165	Protein193	
+BiochemicalReaction58	AKT phosphorylates CREB1	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction58	AKT phosphorylates CREB1	Protein197	SmallMolecule9	
+BiochemicalReaction58	AKT phosphorylates CREB1	Protein197	Protein198	
+BiochemicalReaction58	AKT phosphorylates CREB1	SmallMolecule8	Protein198	
+BiochemicalReaction59	AKT can phosphorylate forkhead box transcription factors	Protein199	SmallMolecule9	
+BiochemicalReaction59	AKT can phosphorylate forkhead box transcription factors	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction59	AKT can phosphorylate forkhead box transcription factors	SmallMolecule8	Protein204	
+BiochemicalReaction59	AKT can phosphorylate forkhead box transcription factors	Protein199	Protein204	
+BiochemicalReaction6	SHC1 binds phosphorylated ERBB2 heterodimers	Protein38	Complex33	
+BiochemicalReaction6	SHC1 binds phosphorylated ERBB2 heterodimers	PhysicalEntity7	Complex33	
+BiochemicalReaction60	AKT can phosphorylate RSK	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction60	AKT can phosphorylate RSK	Protein209	SmallMolecule9	
+BiochemicalReaction60	AKT can phosphorylate RSK	Protein209	Protein210	
+BiochemicalReaction60	AKT can phosphorylate RSK	SmallMolecule8	Protein210	
+BiochemicalReaction61	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule8	Protein212	
+BiochemicalReaction61	AKT can phosphorylate NR4A1 (NUR77)	Protein211	Protein212	
+BiochemicalReaction61	AKT can phosphorylate NR4A1 (NUR77)	Protein211	SmallMolecule9	
+BiochemicalReaction61	AKT can phosphorylate NR4A1 (NUR77)	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction62	PTEN dephosphorylates PIP3	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction62	PTEN dephosphorylates PIP3	SmallMolecule6	SmallMolecule11	
+BiochemicalReaction62	PTEN dephosphorylates PIP3	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction62	PTEN dephosphorylates PIP3	SmallMolecule10	SmallMolecule5	
+BiochemicalReaction63	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Protein162	Complex140	
+BiochemicalReaction63	THEM4 (CTMP) and/or TRIB3 inhibit AKT phosphorylation	Complex136	Complex140	
+BiochemicalReaction64	PHLPP dephosphorylates S473 in AKT	Protein165	SmallMolecule11	
+BiochemicalReaction64	PHLPP dephosphorylates S473 in AKT	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction64	PHLPP dephosphorylates S473 in AKT	SmallMolecule10	Protein214	
+BiochemicalReaction64	PHLPP dephosphorylates S473 in AKT	Protein165	Protein214	
+BiochemicalReaction65	PDPK1 binds PIP2	SmallMolecule5	Complex144	
+BiochemicalReaction65	PDPK1 binds PIP2	Protein152	Complex144	
+BiochemicalReaction66	MIR26A microRNAs bind PTEN mRNA	Complex145	Complex150	
+BiochemicalReaction66	MIR26A microRNAs bind PTEN mRNA	Rna4	Complex150	
+BiochemicalReaction67	PTEN mRNA translation negatively regulated by microRNAs	Rna4	Complex142	
+BiochemicalReaction68	PLCG1 binds to p-ERBB2:p-EGFR	Protein231	Complex151	
+BiochemicalReaction68	PLCG1 binds to p-ERBB2:p-EGFR	Complex64	Complex151	
+BiochemicalReaction69	PLCG1 phosphorylation by p-EGFR:p-ERBB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction69	PLCG1 phosphorylation by p-EGFR:p-ERBB2	Complex151	SmallMolecule2	
+BiochemicalReaction69	PLCG1 phosphorylation by p-EGFR:p-ERBB2	Complex151	Protein232	
+BiochemicalReaction69	PLCG1 phosphorylation by p-EGFR:p-ERBB2	SmallMolecule1	Protein232	
+BiochemicalReaction69	PLCG1 phosphorylation by p-EGFR:p-ERBB2	Complex151	Complex64	
+BiochemicalReaction69	PLCG1 phosphorylation by p-EGFR:p-ERBB2	SmallMolecule1	Complex64	
+BiochemicalReaction7	SHC1 phosphorylation by ERBB2 heterodimers	Complex33	SmallMolecule2	
+BiochemicalReaction7	SHC1 phosphorylation by ERBB2 heterodimers	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	SHC1 phosphorylation by ERBB2 heterodimers	SmallMolecule1	Complex34	
+BiochemicalReaction7	SHC1 phosphorylation by ERBB2 heterodimers	Complex33	Complex34	
+BiochemicalReaction70	Active PLCG1 hydrolyses PIP2	SmallMolecule5	SmallMolecule14	
+BiochemicalReaction70	Active PLCG1 hydrolyses PIP2	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction70	Active PLCG1 hydrolyses PIP2	SmallMolecule10	SmallMolecule15	
+BiochemicalReaction70	Active PLCG1 hydrolyses PIP2	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction71	DAG stimulates protein kinase C-delta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction71	DAG stimulates protein kinase C-delta	Protein233	SmallMolecule2	
+BiochemicalReaction71	DAG stimulates protein kinase C-delta	Protein233	Protein236	
+BiochemicalReaction71	DAG stimulates protein kinase C-delta	SmallMolecule1	Protein236	
+BiochemicalReaction72	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule14	Complex153	
+BiochemicalReaction72	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex152	Complex153	
+BiochemicalReaction73	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction74	Calcium binds calmodulin	SmallMolecule17	Complex154	
+BiochemicalReaction74	Calcium binds calmodulin	Protein243	Complex154	
+BiochemicalReaction75	Adenylate cyclase produces cAMP	SmallMolecule1	SmallMolecule18	
+BiochemicalReaction75	Adenylate cyclase produces cAMP	SmallMolecule1	SmallMolecule19	
+BiochemicalReaction76	cAMP induces dissociation of inactive PKA tetramers	Complex157	Protein259	
+BiochemicalReaction76	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule18	Protein259	
+BiochemicalReaction76	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule18	Complex158	
+BiochemicalReaction76	cAMP induces dissociation of inactive PKA tetramers	Complex157	Complex158	
+BiochemicalReaction77	PKA catalytic subunit translocates to the nucleus	Protein259	Protein263	
+BiochemicalReaction78	PKA phosphorylates CREB	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction78	PKA phosphorylates CREB	Protein197	SmallMolecule9	
+BiochemicalReaction78	PKA phosphorylates CREB	Protein197	Protein198	
+BiochemicalReaction78	PKA phosphorylates CREB	SmallMolecule8	Protein198	
+BiochemicalReaction79	Dimerisation of CREB	Protein198	Complex159	
+BiochemicalReaction8	Recruitment of GRB2:SOS1 to p-SHC1 in complex with phosphorylated ERBB2 heterodimers	Complex34	Complex36	
+BiochemicalReaction8	Recruitment of GRB2:SOS1 to p-SHC1 in complex with phosphorylated ERBB2 heterodimers	Complex35	Complex36	
+BiochemicalReaction80	Calmodulin binds CaMK IV	Complex154	Complex160	
+BiochemicalReaction80	Calmodulin binds CaMK IV	Protein267	Complex160	
+BiochemicalReaction81	CamKIV enters the nucleus	Complex160	Complex161	
+BiochemicalReaction82	CaMK IV autophosphorylation	Complex161	Complex163	
+BiochemicalReaction82	CaMK IV autophosphorylation	SmallMolecule8	Complex163	
+BiochemicalReaction82	CaMK IV autophosphorylation	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction82	CaMK IV autophosphorylation	Complex161	SmallMolecule9	
+BiochemicalReaction83	CaMK IV phosphorylates CREB	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction83	CaMK IV phosphorylates CREB	Protein197	SmallMolecule9	
+BiochemicalReaction83	CaMK IV phosphorylates CREB	Protein197	Protein198	
+BiochemicalReaction83	CaMK IV phosphorylates CREB	SmallMolecule8	Protein198	
+BiochemicalReaction84	Calmodulin activates Cam-PDE 1	Complex165	Complex169	
+BiochemicalReaction85	cAMP hydrolysis by Cam-PDE 1	SmallMolecule18	SmallMolecule22	
+BiochemicalReaction85	cAMP hydrolysis by Cam-PDE 1	SmallMolecule10	SmallMolecule22	
+BiochemicalReaction86	Inhibition of GRK2 by calmodulin	Protein274	Complex170	
+BiochemicalReaction86	Inhibition of GRK2 by calmodulin	Protein243	Complex170	
+BiochemicalReaction87	PKC phosphorylates GRK2	Protein274	SmallMolecule2	
+BiochemicalReaction87	PKC phosphorylates GRK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction87	PKC phosphorylates GRK2	SmallMolecule1	Protein275	
+BiochemicalReaction87	PKC phosphorylates GRK2	Protein274	Protein275	
+BiochemicalReaction88	GRB7 binds phosphorylated heterodimer of ERBB2 and ERBB3	Complex69	Complex172	
+BiochemicalReaction88	GRB7 binds phosphorylated heterodimer of ERBB2 and ERBB3	Protein279	Complex172	
+BiochemicalReaction89	ERBB3 binds RNF41 ubiquitin ligase	Protein5	Complex173	
+BiochemicalReaction89	ERBB3 binds RNF41 ubiquitin ligase	Protein280	Complex173	
+BiochemicalReaction9	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-SHC1:Phosphorylated ERBB2 heterodimers	SmallMolecule3	Complex38	
+BiochemicalReaction9	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-SHC1:Phosphorylated ERBB2 heterodimers	Complex37	Complex38	
+BiochemicalReaction9	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-SHC1:Phosphorylated ERBB2 heterodimers	Complex37	SmallMolecule4	
+BiochemicalReaction9	RAS guanyl-nucleotide exchange mediated by SOS1 in complex with GRB2 and p-SHC1:Phosphorylated ERBB2 heterodimers	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction90	RNF41 ubiquitinates ERBB3	Protein281	Complex174	
+BiochemicalReaction90	RNF41 ubiquitinates ERBB3	Complex173	Complex174	
+BiochemicalReaction90	RNF41 ubiquitinates ERBB3	Complex173	Protein280	
+BiochemicalReaction90	RNF41 ubiquitinates ERBB3	Protein281	Protein280	
+BiochemicalReaction91	Self-ubiquitination of RNF41	Protein281	Complex175	
+BiochemicalReaction91	Self-ubiquitination of RNF41	Protein280	Complex175	
+BiochemicalReaction92	Phosphorylation of USP8 by P-AKT	Protein296	Protein297	
+BiochemicalReaction92	Phosphorylation of USP8 by P-AKT	SmallMolecule1	Protein297	
+BiochemicalReaction92	Phosphorylation of USP8 by P-AKT	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction92	Phosphorylation of USP8 by P-AKT	Protein296	SmallMolecule2	
+BiochemicalReaction93	Ubiquitinated RNF41 binds P-USP8	Protein297	Complex176	
+BiochemicalReaction93	Ubiquitinated RNF41 binds P-USP8	Complex175	Complex176	
+BiochemicalReaction94	Deubiquitination of RNF41 by P-USP8	Complex176	Protein281	
+BiochemicalReaction94	Deubiquitination of RNF41 by P-USP8	Complex176	Protein297	
+BiochemicalReaction94	Deubiquitination of RNF41 by P-USP8	Complex176	Protein280	
+BiochemicalReaction95	RNF41 binds neuregulin-activated ERBB3	Complex69	Complex177	
+BiochemicalReaction95	RNF41 binds neuregulin-activated ERBB3	Protein280	Complex177	
+BiochemicalReaction96	RNF41 ubiquitinates activated ERBB3	Protein281	Complex178	
+BiochemicalReaction96	RNF41 ubiquitinates activated ERBB3	Complex177	Complex178	
+BiochemicalReaction96	RNF41 ubiquitinates activated ERBB3	Complex177	Protein280	
+BiochemicalReaction96	RNF41 ubiquitinates activated ERBB3	Protein281	Protein280	
+BiochemicalReaction97	CHIP (STUB1) mediates ubiquitination of ERBB2	Protein281	Complex179	
+BiochemicalReaction97	CHIP (STUB1) mediates ubiquitination of ERBB2	Complex6	Complex179	
+BiochemicalReaction98	CUL5 mediates ubiquitination of ERBB2	Protein281	Complex180	
+BiochemicalReaction98	CUL5 mediates ubiquitination of ERBB2	Complex6	Complex180	
+BiochemicalReaction99	MATK (CSK homologous kinase) binds phosphorylated ERBB2	Protein300	Complex181	
+BiochemicalReaction99	MATK (CSK homologous kinase) binds phosphorylated ERBB2	PhysicalEntity7	Complex181	

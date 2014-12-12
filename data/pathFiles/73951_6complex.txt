@@ -1,0 +1,46 @@
+Complex1	dimeric ATM kinase	nucleoplasm	Reactome DB_ID: 83538	Protein1	
+Complex10	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein12	
+Complex10	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein13	
+Complex10	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein8	
+Complex11	DNA double-strand break ends: MRN complex	nucleoplasm	Reactome DB_ID: 75166	Complex10	
+Complex11	DNA double-strand break ends: MRN complex	nucleoplasm	Reactome DB_ID: 75166	Protein8	
+Complex11	DNA double-strand break ends: MRN complex	nucleoplasm	Reactome DB_ID: 75166	Protein4	
+Complex11	DNA double-strand break ends: MRN complex	nucleoplasm	Reactome DB_ID: 75166	PhysicalEntity1	
+Complex12	BRCA1:53BP1 complex at site of DNA double-strand break	nucleoplasm	Reactome DB_ID: 110402	Protein5	
+Complex12	BRCA1:53BP1 complex at site of DNA double-strand break	nucleoplasm	Reactome DB_ID: 110402	Complex7	
+Complex13	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein14	
+Complex13	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein15	
+Complex13	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein16	
+Complex14	RPA-coated 3'-ends of DNA double strand break	nucleoplasm	Reactome DB_ID: 75993	PhysicalEntity3	
+Complex14	RPA-coated 3'-ends of DNA double strand break	nucleoplasm	Reactome DB_ID: 75993	Complex13	
+Complex15	RAD51:BRCA2 complex	nucleoplasm	Reactome DB_ID: 83621	Protein17	
+Complex15	RAD51:BRCA2 complex	nucleoplasm	Reactome DB_ID: 83621	Protein18	
+Complex16	heptameric RAD52 complex associated with ssDNA	nucleoplasm	Reactome DB_ID: 83900	Complex14	
+Complex16	heptameric RAD52 complex associated with ssDNA	nucleoplasm	Reactome DB_ID: 83900	Complex17	
+Complex17	heptameric RAD52 complex	nucleoplasm	Reactome DB_ID: 83899	Protein19	
+Complex18	RAD52:RPA complex	nucleoplasm	Reactome DB_ID: 83620	Complex13	
+Complex18	RAD52:RPA complex	nucleoplasm	Reactome DB_ID: 83620	Protein19	
+Complex19	RAD52:DNA double-strand break	nucleoplasm	Reactome DB_ID: 109778	PhysicalEntity2	
+Complex19	RAD52:DNA double-strand break	nucleoplasm	Reactome DB_ID: 109778	Protein19	
+Complex2	dimeric phospho-ATM complex	nucleoplasm	Reactome DB_ID: 83894	Protein2	
+Complex20	RAD51:RAD52:DNA double strand break end  complex	nucleoplasm	Reactome DB_ID: 83619	Protein18	
+Complex20	RAD51:RAD52:DNA double strand break end  complex	nucleoplasm	Reactome DB_ID: 83619	Protein19	
+Complex21	RAD51:RPA complex	nucleoplasm	Reactome DB_ID: 83618	Protein18	
+Complex21	RAD51:RPA complex	nucleoplasm	Reactome DB_ID: 83618	Complex13	
+Complex22	RAD51:resected ends of DNA double-strand break	nucleoplasm	Reactome DB_ID: 109777	PhysicalEntity2	
+Complex22	RAD51:resected ends of DNA double-strand break	nucleoplasm	Reactome DB_ID: 109777	Protein18	
+Complex3	gamma H2AX-coated DNA double-strand break ends	nucleoplasm	Reactome DB_ID: 110399	Protein4	
+Complex3	gamma H2AX-coated DNA double-strand break ends	nucleoplasm	Reactome DB_ID: 110399	PhysicalEntity1	
+Complex4	gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break	nucleoplasm	Reactome DB_ID: 110400	Complex3	
+Complex4	gamma H2AX:MDC1/NFBD1 complex at site of DNA double-strand break	nucleoplasm	Reactome DB_ID: 110400	Protein7	
+Complex5	MDC1/NFBD1:gamma-H2AX complex	nucleoplasm	Reactome DB_ID: 83566	Protein4	
+Complex5	MDC1/NFBD1:gamma-H2AX complex	nucleoplasm	Reactome DB_ID: 83566	Protein7	
+Complex6	ATM associated with DNA double-strand break ends	nucleoplasm	Reactome DB_ID: 110403	Protein2	
+Complex6	ATM associated with DNA double-strand break ends	nucleoplasm	Reactome DB_ID: 110403	Complex5	
+Complex7	53BP1:H2AX complex at site of double-strand break	nucleoplasm	Reactome DB_ID: 110401	Complex4	
+Complex7	53BP1:H2AX complex at site of double-strand break	nucleoplasm	Reactome DB_ID: 110401	Protein11	
+Complex8	gamma-H2AX:NBS1 complex at the site of double-strand break	nucleoplasm	Reactome DB_ID: 75171	Protein8	
+Complex8	gamma-H2AX:NBS1 complex at the site of double-strand break	nucleoplasm	Reactome DB_ID: 75171	PhysicalEntity1	
+Complex8	gamma-H2AX:NBS1 complex at the site of double-strand break	nucleoplasm	Reactome DB_ID: 75171	Protein4	
+Complex9	RAD50:MRE11 complex	nucleoplasm	Reactome DB_ID: 75161	Protein12	
+Complex9	RAD50:MRE11 complex	nucleoplasm	Reactome DB_ID: 75161	Protein13	

@@ -1,0 +1,16 @@
+BiochemicalReaction1	MSR1 (SCARA1, SR-A) Binds Ligands	PhysicalEntity1	Complex5	
+BiochemicalReaction1	MSR1 (SCARA1, SR-A) Binds Ligands	Complex4	Complex5	
+BiochemicalReaction10	COLEC11 Binds Ligands	Complex31	Complex34	
+BiochemicalReaction10	COLEC11 Binds Ligands	PhysicalEntity17	Complex34	
+BiochemicalReaction2	Endocytosis of MSR1:Ligand (SCARA1;Ligand, SR-A:Ligand)	Complex5	Complex6	
+BiochemicalReaction3	MSR1 (SCARA1) Binds Collagen	Complex11	Complex16	
+BiochemicalReaction3	MSR1 (SCARA1) Binds Collagen	Complex4	Complex16	
+BiochemicalReaction4	MARCO (SCARA2) Binds Ligands	PhysicalEntity9	Complex18	
+BiochemicalReaction4	MARCO (SCARA2) Binds Ligands	Complex17	Complex18	
+BiochemicalReaction5	Endocytosis of MARCO:Ligand	Complex18	Complex19	
+BiochemicalReaction6	COLEC12 (SCARA4) Binds Ligands	Complex21	Complex22	
+BiochemicalReaction6	COLEC12 (SCARA4) Binds Ligands	PhysicalEntity13	Complex22	
+BiochemicalReaction7	Endocytosis of COLEC12:Ligand	Complex22	Complex23	
+BiochemicalReaction8	SCARA5 Binds Ligands	Complex25	Complex27	
+BiochemicalReaction8	SCARA5 Binds Ligands	PhysicalEntity15	Complex27	
+BiochemicalReaction9	Endocytosis of SCARA5:Ligand	Complex27	Complex28	

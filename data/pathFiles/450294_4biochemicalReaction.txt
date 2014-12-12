@@ -1,0 +1,107 @@
+BiochemicalReaction1	Activated TAK1 phosphorylates MKK4/MKK7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Activated TAK1 phosphorylates MKK4/MKK7	Protein1	SmallMolecule2	
+BiochemicalReaction1	Activated TAK1 phosphorylates MKK4/MKK7	Protein1	Protein4	
+BiochemicalReaction1	Activated TAK1 phosphorylates MKK4/MKK7	SmallMolecule1	Protein4	
+BiochemicalReaction10	MEK1 binds ERK-1	Protein64	Complex21	
+BiochemicalReaction10	MEK1 binds ERK-1	Protein69	Complex21	
+BiochemicalReaction11	MEK1 phosphorylates ERK-1	Complex21	Complex22	
+BiochemicalReaction11	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex22	
+BiochemicalReaction11	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	MEK1 phosphorylates ERK-1	Complex21	SmallMolecule2	
+BiochemicalReaction12	Dissociation of phospho-ERK-1:MEK1	Complex22	Protein64	
+BiochemicalReaction12	Dissociation of phospho-ERK-1:MEK1	Complex22	Protein70	
+BiochemicalReaction13	Dimerisation of phospho-ERK-1	Protein70	Complex23	
+BiochemicalReaction14	Nuclear translocation of phospho-ERK-1 dimer	Complex23	Complex24	
+BiochemicalReaction15	MEK2 binds ERK-2	Protein81	Complex33	
+BiochemicalReaction15	MEK2 binds ERK-2	Protein82	Complex33	
+BiochemicalReaction16	MEK2 phosphorylates ERK-2	Complex33	SmallMolecule2	
+BiochemicalReaction16	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex34	
+BiochemicalReaction16	MEK2 phosphorylates ERK-2	Complex33	Complex34	
+BiochemicalReaction17	Dissociation of phospho-ERK-2:MEK2	Complex34	Protein81	
+BiochemicalReaction17	Dissociation of phospho-ERK-2:MEK2	Complex34	Protein83	
+BiochemicalReaction18	Dimerisation of phospho-ERK-2	Protein83	Complex35	
+BiochemicalReaction19	Nuclear translocation of phospho-ERK-2 dimer	Complex35	Complex36	
+BiochemicalReaction2	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein23	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule1	Protein27	
+BiochemicalReaction2	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein23	Protein27	
+BiochemicalReaction20	ERK1/2 activates ELK1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction20	ERK1/2 activates ELK1	Protein85	SmallMolecule6	
+BiochemicalReaction20	ERK1/2 activates ELK1	Protein85	Protein86	
+BiochemicalReaction20	ERK1/2 activates ELK1	SmallMolecule5	Protein86	
+BiochemicalReaction21	ERK1/2 phosphorylates MSK1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction21	ERK1/2 phosphorylates MSK1	Protein87	SmallMolecule6	
+BiochemicalReaction21	ERK1/2 phosphorylates MSK1	Protein87	Protein88	
+BiochemicalReaction21	ERK1/2 phosphorylates MSK1	SmallMolecule5	Protein88	
+BiochemicalReaction22	p38MAPK phosphorylates MSK1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction22	p38MAPK phosphorylates MSK1	Protein87	SmallMolecule6	
+BiochemicalReaction22	p38MAPK phosphorylates MSK1	Protein87	Protein88	
+BiochemicalReaction22	p38MAPK phosphorylates MSK1	SmallMolecule5	Protein88	
+BiochemicalReaction23	ERK1/2/5 activate RSK1/2/3	SmallMolecule5	Protein93	
+BiochemicalReaction23	ERK1/2/5 activate RSK1/2/3	Protein89	Protein93	
+BiochemicalReaction23	ERK1/2/5 activate RSK1/2/3	Protein89	SmallMolecule6	
+BiochemicalReaction23	ERK1/2/5 activate RSK1/2/3	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction24	ERK5 activates the transcription factor MEF2	Protein99	SmallMolecule6	
+BiochemicalReaction24	ERK5 activates the transcription factor MEF2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction24	ERK5 activates the transcription factor MEF2	SmallMolecule5	Protein102	
+BiochemicalReaction24	ERK5 activates the transcription factor MEF2	Protein99	Protein102	
+BiochemicalReaction25	ERKs are inactivated by protein phosphatase 2A	Protein97	SmallMolecule8	
+BiochemicalReaction25	ERKs are inactivated by protein phosphatase 2A	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction25	ERKs are inactivated by protein phosphatase 2A	SmallMolecule7	Protein105	
+BiochemicalReaction25	ERKs are inactivated by protein phosphatase 2A	Protein97	Protein105	
+BiochemicalReaction26	ERKs are inactivated by dual-specific phosphatases (DUSPs)	Protein97	SmallMolecule8	
+BiochemicalReaction26	ERKs are inactivated by dual-specific phosphatases (DUSPs)	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction26	ERKs are inactivated by dual-specific phosphatases (DUSPs)	SmallMolecule7	Protein105	
+BiochemicalReaction26	ERKs are inactivated by dual-specific phosphatases (DUSPs)	Protein97	Protein105	
+BiochemicalReaction27	MSK1 activates CREB	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction27	MSK1 activates CREB	Protein121	SmallMolecule6	
+BiochemicalReaction27	MSK1 activates CREB	Protein121	Protein122	
+BiochemicalReaction27	MSK1 activates CREB	SmallMolecule5	Protein122	
+BiochemicalReaction28	MSK1 activates ATF1	Protein123	Protein124	
+BiochemicalReaction28	MSK1 activates ATF1	SmallMolecule5	Protein124	
+BiochemicalReaction28	MSK1 activates ATF1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction28	MSK1 activates ATF1	Protein123	SmallMolecule6	
+BiochemicalReaction29	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction29	RSK1/2/3 phosphorylates CREB at Serine 133	Protein121	SmallMolecule6	
+BiochemicalReaction29	RSK1/2/3 phosphorylates CREB at Serine 133	Protein121	Protein122	
+BiochemicalReaction29	RSK1/2/3 phosphorylates CREB at Serine 133	SmallMolecule5	Protein122	
+BiochemicalReaction3	Activated human JNKs migrate to nucleoplasm	Protein27	Protein31	
+BiochemicalReaction30	MAPKAPK2 phosphorylates CREB at Serine 133	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction30	MAPKAPK2 phosphorylates CREB at Serine 133	Protein121	SmallMolecule6	
+BiochemicalReaction30	MAPKAPK2 phosphorylates CREB at Serine 133	Protein121	Protein122	
+BiochemicalReaction30	MAPKAPK2 phosphorylates CREB at Serine 133	SmallMolecule5	Protein122	
+BiochemicalReaction31	Phosphorylated MAPKs phosphorylate ATF-2	Protein126	Protein127	
+BiochemicalReaction31	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule5	Protein127	
+BiochemicalReaction31	Phosphorylated MAPKs phosphorylate ATF-2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction31	Phosphorylated MAPKs phosphorylate ATF-2	Protein126	SmallMolecule6	
+BiochemicalReaction32	Activated JNKs phosphorylate c-JUN	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction32	Activated JNKs phosphorylate c-JUN	Protein128	SmallMolecule6	
+BiochemicalReaction32	Activated JNKs phosphorylate c-JUN	Protein128	Protein129	
+BiochemicalReaction32	Activated JNKs phosphorylate c-JUN	SmallMolecule5	Protein129	
+BiochemicalReaction33	c-FOS activation by phospho ERK1/2	Protein130	SmallMolecule6	
+BiochemicalReaction33	c-FOS activation by phospho ERK1/2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction33	c-FOS activation by phospho ERK1/2	SmallMolecule5	Protein131	
+BiochemicalReaction33	c-FOS activation by phospho ERK1/2	Protein130	Protein131	
+BiochemicalReaction34	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein127	Complex39	
+BiochemicalReaction34	Formation of Activated Protein 1 (AP-1) complex. ATF2/c-JUN heterodimer. 	Protein129	Complex39	
+BiochemicalReaction35	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein129	Complex40	
+BiochemicalReaction35	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein131	Complex40	
+BiochemicalReaction4	activated human TAK1 phosphorylates MKK3/MKK6	Protein35	Protein38	
+BiochemicalReaction4	activated human TAK1 phosphorylates MKK3/MKK6	SmallMolecule1	Protein38	
+BiochemicalReaction4	activated human TAK1 phosphorylates MKK3/MKK6	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	activated human TAK1 phosphorylates MKK3/MKK6	Protein35	SmallMolecule2	
+BiochemicalReaction5	Phosphorylated MKK3/MKK6 migrates to nucleus	Protein38	Protein41	
+BiochemicalReaction6	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex17	Complex18	
+BiochemicalReaction6	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule5	Complex18	
+BiochemicalReaction6	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex17	SmallMolecule6	
+BiochemicalReaction7		Complex18	SmallMolecule6	
+BiochemicalReaction7		SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7		SmallMolecule5	Complex19	
+BiochemicalReaction7		Complex18	Complex19	
+BiochemicalReaction8	Nuclear export of human p38 MAPK mediated by its substrate MAPKAPK2 or 3	Complex19	Complex20	
+BiochemicalReaction9	Inactivation of MEK1 by p34cdc2	Protein62	SmallMolecule2	
+BiochemicalReaction9	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein65	
+BiochemicalReaction9	Inactivation of MEK1 by p34cdc2	Protein62	Protein65	

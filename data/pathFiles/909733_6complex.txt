@@ -1,0 +1,69 @@
+Complex1	IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918193	Protein1	
+Complex1	IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918193	Protein2	
+Complex1	IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918193	Protein3	
+Complex10	p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909694	Protein22	
+Complex10	p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909694	Protein20	
+Complex11	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2	plasma membrane	Reactome DB_ID: 909696	Complex12	
+Complex11	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2	plasma membrane	Reactome DB_ID: 909696	PhysicalEntity1	
+Complex11	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:STAT2	plasma membrane	Reactome DB_ID: 909696	Complex8	
+Complex12	STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909701	Protein22	
+Complex12	STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909701	Protein20	
+Complex12	STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909701	Protein3	
+Complex13	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2	plasma membrane	Reactome DB_ID: 909697	PhysicalEntity1	
+Complex13	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2	plasma membrane	Reactome DB_ID: 909697	Complex8	
+Complex13	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2	plasma membrane	Reactome DB_ID: 909697	Complex14	
+Complex14	p-STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909709	Protein22	
+Complex14	p-STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909709	Protein23	
+Complex14	p-STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909709	Protein20	
+Complex15	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1	plasma membrane	Reactome DB_ID: 909711	PhysicalEntity1	
+Complex15	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1	plasma membrane	Reactome DB_ID: 909711	Complex8	
+Complex15	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:p-STAT1	plasma membrane	Reactome DB_ID: 909711	Complex16	
+Complex16	p-STAT2:p-STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909712	Complex17	
+Complex16	p-STAT2:p-STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909712	Protein22	
+Complex16	p-STAT2:p-STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909712	Protein20	
+Complex17	p-STAT2:p-STAT1	cytosol	Reactome DB_ID: 909702	Protein27	
+Complex17	p-STAT2:p-STAT1	cytosol	Reactome DB_ID: 909702	Protein23	
+Complex18	ISGF3	cytosol	Reactome DB_ID: 909698	Complex17	
+Complex18	ISGF3	cytosol	Reactome DB_ID: 909698	Protein33	
+Complex19	ISGF3	nucleoplasm	Reactome DB_ID: 913527	Complex20	
+Complex19	ISGF3	nucleoplasm	Reactome DB_ID: 913527	Protein38	
+Complex2	IFNA/B:IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918195	Complex1	
+Complex2	IFNA/B:IFNAR2:JAK1:STAT2	plasma membrane	Reactome DB_ID: 918195	PhysicalEntity1	
+Complex20	ISGF3 alpha	nucleoplasm	Reactome DB_ID: 909693	Protein34	
+Complex20	ISGF3 alpha	nucleoplasm	Reactome DB_ID: 909693	Protein37	
+Complex21	AAF	cytosol	Reactome DB_ID: 913524	Protein28	
+Complex22	AAF	nucleoplasm	Reactome DB_ID: 913526	Protein36	
+Complex23	ISGF3 bound to ISRE promotor elements	nucleoplasm	Reactome DB_ID: 1015697	Complex19	
+Complex23	ISGF3 bound to ISRE promotor elements	nucleoplasm	Reactome DB_ID: 1015697	PhysicalEntity2	
+Complex24	p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 912681	Complex25	
+Complex24	p-TYK2:p-IFNAR1:SOCS-1/SOCS-3:IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 912681	Complex7	
+Complex25	p-IFNAR1:p-TYK2:SOCS-1/SOCS-3	plasma membrane	Reactome DB_ID: 912684	Protein147	
+Complex25	p-IFNAR1:p-TYK2:SOCS-1/SOCS-3	plasma membrane	Reactome DB_ID: 912684	Protein22	
+Complex25	p-IFNAR1:p-TYK2:SOCS-1/SOCS-3	plasma membrane	Reactome DB_ID: 912684	Protein20	
+Complex26	IFNAR2c:UBP43	plasma membrane	Reactome DB_ID: 912690	Protein2	
+Complex26	IFNAR2c:UBP43	plasma membrane	Reactome DB_ID: 912690	Protein150	
+Complex27	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 997300	Complex3	
+Complex27	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 997300	Complex7	
+Complex28	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1	plasma membrane	Reactome DB_ID: 997304	PhysicalEntity1	
+Complex28	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1	plasma membrane	Reactome DB_ID: 997304	Complex8	
+Complex28	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2:p-STAT2:STAT1	plasma membrane	Reactome DB_ID: 997304	Complex29	
+Complex29	p-STAT2:STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 997302	Protein22	
+Complex29	p-STAT2:STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 997302	Protein20	
+Complex29	p-STAT2:STAT1:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 997302	Complex30	
+Complex3	IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909708	Protein18	
+Complex3	IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909708	Protein19	
+Complex30	p-STAT2:STAT1	cytosol	Reactome DB_ID: 997303	Protein24	
+Complex30	p-STAT2:STAT1	cytosol	Reactome DB_ID: 997303	Protein23	
+Complex4	IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909703	Complex3	
+Complex4	IFNA/B:IFNAR2:JAK1:STAT2:IFNAR1:TYK2	plasma membrane	Reactome DB_ID: 909703	Complex2	
+Complex5	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909705	Complex6	
+Complex5	IFNA/B:IFNAR2:p-JAK1:STAT2:IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909705	Complex7	
+Complex6	IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909707	Protein20	
+Complex6	IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909707	Protein19	
+Complex7	IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909692	PhysicalEntity1	
+Complex7	IFNA/B:IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909692	Complex8	
+Complex8	IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909715	Protein21	
+Complex8	IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909715	Protein2	
+Complex8	IFNAR2:p-JAK1:STAT2	plasma membrane	Reactome DB_ID: 909715	Protein3	
+Complex9	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909704	Complex7	
+Complex9	IFNA/B:IFNAR2:p-JAK1:STAT2:p-IFNAR1:p-TYK2	plasma membrane	Reactome DB_ID: 909704	Complex10	

@@ -1,0 +1,311 @@
+BiochemicalReaction1	Cholesterol translocates to the inner mitochondrial membrane	Complex1	Protein1	
+BiochemicalReaction1	Cholesterol translocates to the inner mitochondrial membrane	Protein5	Protein1	
+BiochemicalReaction1	Cholesterol translocates to the inner mitochondrial membrane	Protein5	Complex2	
+BiochemicalReaction1	Cholesterol translocates to the inner mitochondrial membrane	Complex1	Complex2	
+BiochemicalReaction10	17-hydroxypregnenolone + NAD+ => pregn-5-ene-3,20-dione-17-ol + NADH + H+	SmallMolecule20	SmallMolecule15	
+BiochemicalReaction10	17-hydroxypregnenolone + NAD+ => pregn-5-ene-3,20-dione-17-ol + NADH + H+	SmallMolecule22	SmallMolecule15	
+BiochemicalReaction10	17-hydroxypregnenolone + NAD+ => pregn-5-ene-3,20-dione-17-ol + NADH + H+	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction10	17-hydroxypregnenolone + NAD+ => pregn-5-ene-3,20-dione-17-ol + NADH + H+	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction10	17-hydroxypregnenolone + NAD+ => pregn-5-ene-3,20-dione-17-ol + NADH + H+	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction10	17-hydroxypregnenolone + NAD+ => pregn-5-ene-3,20-dione-17-ol + NADH + H+	SmallMolecule20	SmallMolecule24	
+BiochemicalReaction11	Pregn-5-ene-3,20-dione-17-ol isomerizes to 17-hydroxyprogesterone	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule25	SmallMolecule16	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule19	SmallMolecule26	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule15	SmallMolecule26	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule14	SmallMolecule26	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule25	SmallMolecule21	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction12	Hydroxylation of 17-hydroxyprogesterone to form 11-deoxycortisol	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction13	11-deoxycortisol translocates to the mitochondrion	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule4	SmallMolecule28	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule5	SmallMolecule28	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule6	SmallMolecule28	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule27	SmallMolecule8	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule27	SmallMolecule7	
+BiochemicalReaction14	11-deoxycortisol is oxidised to cortisol by CYP11B1	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction15	Cortisol translocates from the mitochondrial matrix to the cytosol	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction16	Oxidation of cortisol to yield cortisone	SmallMolecule16	SmallMolecule14	
+BiochemicalReaction16	Oxidation of cortisol to yield cortisone	SmallMolecule29	SmallMolecule14	
+BiochemicalReaction16	Oxidation of cortisol to yield cortisone	SmallMolecule29	SmallMolecule15	
+BiochemicalReaction16	Oxidation of cortisol to yield cortisone	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction16	Oxidation of cortisol to yield cortisone	SmallMolecule29	SmallMolecule30	
+BiochemicalReaction16	Oxidation of cortisol to yield cortisone	SmallMolecule16	SmallMolecule30	
+BiochemicalReaction17	Pregnenolone + NAD+ => pregn-5-ene-3,20-dione + NADH + H+	SmallMolecule18	SmallMolecule15	
+BiochemicalReaction17	Pregnenolone + NAD+ => pregn-5-ene-3,20-dione + NADH + H+	SmallMolecule22	SmallMolecule15	
+BiochemicalReaction17	Pregnenolone + NAD+ => pregn-5-ene-3,20-dione + NADH + H+	SmallMolecule22	SmallMolecule31	
+BiochemicalReaction17	Pregnenolone + NAD+ => pregn-5-ene-3,20-dione + NADH + H+	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction17	Pregnenolone + NAD+ => pregn-5-ene-3,20-dione + NADH + H+	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction17	Pregnenolone + NAD+ => pregn-5-ene-3,20-dione + NADH + H+	SmallMolecule18	SmallMolecule24	
+BiochemicalReaction18	Pregn-5-ene-3,20-dione isomerizes to progesterone	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule32	SmallMolecule16	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule19	SmallMolecule33	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule15	SmallMolecule33	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule14	SmallMolecule33	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction19	21-hydroxylation of progesterone to form 11-deoxycorticosterone	SmallMolecule32	SmallMolecule21	
+BiochemicalReaction2	Cholesterol is released into the inner mitochondrial membrane	Complex2	SmallMolecule3	
+BiochemicalReaction2	Cholesterol is released into the inner mitochondrial membrane	Complex2	Protein5	
+BiochemicalReaction20	11-deoxycorticosterone translocates from the cytosol to the mitochondrial matrix	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule4	SmallMolecule35	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule5	SmallMolecule35	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule6	SmallMolecule35	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule34	SmallMolecule7	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction21	Hydroxylation of 11-deoxycorticosterone to form corticosterone	SmallMolecule34	SmallMolecule8	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule35	SmallMolecule36	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule4	SmallMolecule36	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule5	SmallMolecule36	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule6	SmallMolecule36	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule35	SmallMolecule8	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction22	Hydroxylation of corticosterone to form 18-hydroxycorticosterone	SmallMolecule35	SmallMolecule7	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule4	SmallMolecule37	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule5	SmallMolecule37	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule6	SmallMolecule37	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule36	SmallMolecule8	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction23	Conversion of 18-hydroxycorticosterone to aldosterone	SmallMolecule36	SmallMolecule7	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule20	SmallMolecule38	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule14	SmallMolecule38	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule15	SmallMolecule38	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule19	SmallMolecule38	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule20	SmallMolecule16	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule19	SmallMolecule39	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule15	SmallMolecule39	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule14	SmallMolecule39	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule20	SmallMolecule39	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction24	Side chain cleavage of 17alpha-hydroxypregnenolone to yield DHA	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction25	DHA isomerizes to 4-Androstene3,17-dione	SmallMolecule39	SmallMolecule15	
+BiochemicalReaction25	DHA isomerizes to 4-Androstene3,17-dione	SmallMolecule22	SmallMolecule15	
+BiochemicalReaction25	DHA isomerizes to 4-Androstene3,17-dione	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction25	DHA isomerizes to 4-Androstene3,17-dione	SmallMolecule39	SmallMolecule24	
+BiochemicalReaction25	DHA isomerizes to 4-Androstene3,17-dione	SmallMolecule22	SmallMolecule40	
+BiochemicalReaction25	DHA isomerizes to 4-Androstene3,17-dione	SmallMolecule39	SmallMolecule40	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule32	SmallMolecule25	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule14	SmallMolecule25	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule15	SmallMolecule25	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule19	SmallMolecule25	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule32	SmallMolecule16	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction26	Hydroxylation of progesterone to form 17alpha-hydroxyprogesterone	SmallMolecule32	SmallMolecule21	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule14	SmallMolecule38	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule15	SmallMolecule38	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule25	SmallMolecule38	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule19	SmallMolecule38	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule25	SmallMolecule16	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule25	SmallMolecule21	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule19	SmallMolecule40	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule25	SmallMolecule40	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule15	SmallMolecule40	
+BiochemicalReaction27	Side chain cleavage of 17alpha-hydroxyprogesterone to form 4-Androstene-3, 17-dione	SmallMolecule14	SmallMolecule40	
+BiochemicalReaction28	Reduction of androstenedione to testosterone	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction28	Reduction of androstenedione to testosterone	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction28	Reduction of androstenedione to testosterone	SmallMolecule40	SmallMolecule16	
+BiochemicalReaction28	Reduction of androstenedione to testosterone	SmallMolecule40	SmallMolecule41	
+BiochemicalReaction28	Reduction of androstenedione to testosterone	SmallMolecule15	SmallMolecule41	
+BiochemicalReaction28	Reduction of androstenedione to testosterone	SmallMolecule14	SmallMolecule41	
+BiochemicalReaction29	Testosterone is converted to 5-alpha-dihydroxytestosterone	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction29	Testosterone is converted to 5-alpha-dihydroxytestosterone	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction29	Testosterone is converted to 5-alpha-dihydroxytestosterone	SmallMolecule41	SmallMolecule16	
+BiochemicalReaction29	Testosterone is converted to 5-alpha-dihydroxytestosterone	SmallMolecule41	SmallMolecule42	
+BiochemicalReaction29	Testosterone is converted to 5-alpha-dihydroxytestosterone	SmallMolecule15	SmallMolecule42	
+BiochemicalReaction29	Testosterone is converted to 5-alpha-dihydroxytestosterone	SmallMolecule14	SmallMolecule42	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule3	SmallMolecule9	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction3	Oxidation of cholesterol	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule14	SmallMolecule43	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule15	SmallMolecule43	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule41	SmallMolecule43	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule19	SmallMolecule43	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule41	SmallMolecule16	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule19	SmallMolecule44	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule41	SmallMolecule44	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule15	SmallMolecule44	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule14	SmallMolecule44	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule41	SmallMolecule21	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction30	Testosterone is converted to estradiol	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule14	SmallMolecule43	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule15	SmallMolecule43	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule19	SmallMolecule43	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule40	SmallMolecule43	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule40	SmallMolecule16	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule40	SmallMolecule21	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule40	SmallMolecule45	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule19	SmallMolecule45	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule15	SmallMolecule45	
+BiochemicalReaction31	Androstenedione is converted to estrone by Aromatase (CYP19A1)	SmallMolecule14	SmallMolecule45	
+BiochemicalReaction32	Estrone is hydrogenated to estradiol	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction32	Estrone is hydrogenated to estradiol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction32	Estrone is hydrogenated to estradiol	SmallMolecule45	SmallMolecule16	
+BiochemicalReaction32	Estrone is hydrogenated to estradiol	SmallMolecule45	SmallMolecule44	
+BiochemicalReaction32	Estrone is hydrogenated to estradiol	SmallMolecule15	SmallMolecule44	
+BiochemicalReaction32	Estrone is hydrogenated to estradiol	SmallMolecule14	SmallMolecule44	
+BiochemicalReaction33	Photolytic cleavage and thermal isomerization of 7-dehydrocholesterol	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction34	Vitamin D3 translocates to the blood serum and is transported to the liver	SmallMolecule47	Complex9	
+BiochemicalReaction34	Vitamin D3 translocates to the blood serum and is transported to the liver	Protein28	Complex9	
+BiochemicalReaction35	Vitamin D3 translocates into the cytosol	Complex9	SmallMolecule47	
+BiochemicalReaction35	Vitamin D3 translocates into the cytosol	Complex9	Protein28	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule47	SmallMolecule16	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule47	SmallMolecule21	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule47	SmallMolecule49	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule19	SmallMolecule49	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule15	SmallMolecule49	
+BiochemicalReaction36	25-Hydroxylation of vitamin D3 in liver	SmallMolecule14	SmallMolecule49	
+BiochemicalReaction37	Calcidiol binds to DBP in the bloodstream and is delivered to the kidney	Protein28	Complex10	
+BiochemicalReaction37	Calcidiol binds to DBP in the bloodstream and is delivered to the kidney	SmallMolecule49	Complex10	
+BiochemicalReaction38	CUBN binds GC:CDL	Complex10	Complex11	
+BiochemicalReaction38	CUBN binds GC:CDL	Protein30	Complex11	
+BiochemicalReaction39	Megalin internalizes the cubilin-DBP:Calcidiol complex	Complex11	Complex12	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule4	SmallMolecule10	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule5	SmallMolecule10	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction4	Oxidation of 22beta-hydroxycholesterol to 20alpha,22beta-hydroxycholesterol	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction40	DBP:Calcidiol translocates into lysosomes	Complex12	Complex14	
+BiochemicalReaction41	Legumain degrades DBP	Complex14	SmallMolecule51	
+BiochemicalReaction41	Legumain degrades DBP	Complex14	Protein35	
+BiochemicalReaction42	Vitamin D3 translocates to the cytosol and binds to IDBP	SmallMolecule51	SmallMolecule49	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule14	SmallMolecule52	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule15	SmallMolecule52	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule19	SmallMolecule52	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule49	SmallMolecule52	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule49	SmallMolecule16	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule49	SmallMolecule21	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction43	Further hydroxylation of calcidiol in kidney to form calcitriol	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule52	SmallMolecule16	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule19	SmallMolecule53	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule15	SmallMolecule53	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule14	SmallMolecule53	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule52	SmallMolecule53	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule14	SmallMolecule21	
+BiochemicalReaction44	1,25-dihydroxyvitamin D3 is deactivated	SmallMolecule52	SmallMolecule21	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule10	SmallMolecule7	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule10	SmallMolecule8	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule6	SmallMolecule11	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule5	SmallMolecule11	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule4	SmallMolecule11	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule6	SmallMolecule12	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule5	SmallMolecule12	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction5	20alpha,22beta-hydroxycholesterol is cleaved by CYP11A1 to yield pregnenolone and isocaproaldehyde	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	Translocation of isocaproaldehyde from the mitochondrial matrix to the cytosol	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	Reduction of isocaproaldehyde to 4-methylpentan-1-ol	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction7	Reduction of isocaproaldehyde to 4-methylpentan-1-ol	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction7	Reduction of isocaproaldehyde to 4-methylpentan-1-ol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction7	Reduction of isocaproaldehyde to 4-methylpentan-1-ol	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction7	Reduction of isocaproaldehyde to 4-methylpentan-1-ol	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction7	Reduction of isocaproaldehyde to 4-methylpentan-1-ol	SmallMolecule13	SmallMolecule17	
+BiochemicalReaction8	Pregnenolone translocates from the mitochondrial matrix to the cytosol	SmallMolecule11	SmallMolecule18	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule14	SmallMolecule20	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule19	SmallMolecule16	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule18	SmallMolecule16	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule15	SmallMolecule21	
+BiochemicalReaction9	Hydroxylation of pregnenolone to form 17alpha-hydroxypregnenolone	SmallMolecule14	SmallMolecule21	

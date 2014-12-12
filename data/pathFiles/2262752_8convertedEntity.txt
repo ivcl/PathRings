@@ -1,0 +1,163 @@
+Complex16	Phospho-ERK dimer	nucleoplasm	Reactome DB_ID: 198701	Complex17	
+Complex16	Phospho-ERK dimer	nucleoplasm	Reactome DB_ID: 198701	Complex18	
+PhysicalEntity1	DNA	nucleoplasm	Reactome DB_ID: 29428	NA	
+PhysicalEntity2	DNA double-strand break ends	nucleoplasm	Reactome DB_ID: 75165	NA	
+PhysicalEntity3	NNNNNNNNNNNTTAGGGTTATTAGGGTTATTAGGGTTA - 3' (in human)	nucleoplasm	Reactome DB_ID: 182791	NA	
+PhysicalEntity4	ligated C-strand Okazaki fragment	nucleoplasm	Reactome DB_ID: 176395	NA	
+PhysicalEntity5	Shortened telomere	nucleoplasm	Reactome DB_ID: 3785706	NA	
+PhysicalEntity6	DNA DSBs/Shortened telomeres	nucleoplasm	Reactome DB_ID: 3785744	PhysicalEntity2	
+PhysicalEntity6	DNA DSBs/Shortened telomeres	nucleoplasm	Reactome DB_ID: 3785744	PhysicalEntity5	
+PhysicalEntity6	DNA DSBs/Shortened telomeres	nucleoplasm	Reactome DB_ID: 3785744	PhysicalEntity2	
+PhysicalEntity6	DNA DSBs/Shortened telomeres	nucleoplasm	Reactome DB_ID: 3785744	PhysicalEntity5	
+Protein1	HIF1A/HIF2A	cytosol	Reactome DB_ID: 1234109	Protein2	
+Protein1	HIF1A/HIF2A	cytosol	Reactome DB_ID: 1234109	Protein3	
+Protein102	E2F1/2/3	nucleoplasm	Reactome DB_ID: 68640	Protein103	
+Protein102	E2F1/2/3	nucleoplasm	Reactome DB_ID: 68640	Protein104	
+Protein102	E2F1/2/3	nucleoplasm	Reactome DB_ID: 68640	Protein105	
+Protein109	Nonendonucleolytic Argonaute	cytosol	Reactome DB_ID: 210613	Protein110	
+Protein109	Nonendonucleolytic Argonaute	cytosol	Reactome DB_ID: 210613	Protein111	
+Protein109	Nonendonucleolytic Argonaute	cytosol	Reactome DB_ID: 210613	Protein112	
+Protein113	TNRC6 (GW182)	cytosol	Reactome DB_ID: 427775	Protein114	
+Protein113	TNRC6 (GW182)	cytosol	Reactome DB_ID: 427775	Protein115	
+Protein113	TNRC6 (GW182)	cytosol	Reactome DB_ID: 427775	Protein116	
+Protein123	MINK1/TNIK	cytosol	Reactome DB_ID: 3214892	Protein124	
+Protein123	MINK1/TNIK	cytosol	Reactome DB_ID: 3214892	Protein125	
+Protein123	MINK1/TNIK	cytosol	Reactome DB_ID: 3214892	Protein126	
+Protein127	MKK3/MKK6	cytosol	Reactome DB_ID: 167916	Protein128	
+Protein127	MKK3/MKK6	cytosol	Reactome DB_ID: 167916	Protein129	
+Protein130	p-MKK3/p-MKK6	cytosol	Reactome DB_ID: 167984	Protein131	
+Protein130	p-MKK3/p-MKK6	cytosol	Reactome DB_ID: 167984	Protein132	
+Protein133	p-MKK3/p-MKK6	nucleoplasm	Reactome DB_ID: 450343	Protein134	
+Protein133	p-MKK3/p-MKK6	nucleoplasm	Reactome DB_ID: 450343	Protein135	
+Protein136	MAPKAP2/3	nucleoplasm	Reactome DB_ID: 450217	Protein137	
+Protein136	MAPKAP2/3	nucleoplasm	Reactome DB_ID: 450217	Protein138	
+Protein139	MAPK14/MAPK11	nucleoplasm	Reactome DB_ID: 203795	Protein140	
+Protein139	MAPK14/MAPK11	nucleoplasm	Reactome DB_ID: 203795	Protein141	
+Protein142	p-MAPK11/p-MAPK14	nucleoplasm	Reactome DB_ID: 198703	Protein143	
+Protein142	p-MAPK11/p-MAPK14	nucleoplasm	Reactome DB_ID: 198703	Protein144	
+Protein145	Active MAPKAP kinase	nucleoplasm	Reactome DB_ID: 450261	Protein146	
+Protein145	Active MAPKAP kinase	nucleoplasm	Reactome DB_ID: 450261	Protein147	
+Protein150	MAPK8/9/10	cytosol	Reactome DB_ID: 450289	Protein151	
+Protein150	MAPK8/9/10	cytosol	Reactome DB_ID: 450289	Protein152	
+Protein150	MAPK8/9/10	cytosol	Reactome DB_ID: 450289	Protein153	
+Protein154	p-MAPK8/9/10	cytosol	Reactome DB_ID: 450226	Protein155	
+Protein154	p-MAPK8/9/10	cytosol	Reactome DB_ID: 450226	Protein156	
+Protein154	p-MAPK8/9/10	cytosol	Reactome DB_ID: 450226	Protein157	
+Protein158	p-MAP2K4/p-MAP2K7	cytosol	Reactome DB_ID: 450299	Protein159	
+Protein158	p-MAP2K4/p-MAP2K7	cytosol	Reactome DB_ID: 450299	Protein149	
+Protein160	p-MAPK8/9/10	nucleoplasm	Reactome DB_ID: 450253	Protein161	
+Protein160	p-MAPK8/9/10	nucleoplasm	Reactome DB_ID: 450253	Protein162	
+Protein160	p-MAPK8/9/10	nucleoplasm	Reactome DB_ID: 450253	Protein163	
+Protein17	PHD1/3	nucleoplasm	Reactome DB_ID: 1234124	Protein18	
+Protein17	PHD1/3	nucleoplasm	Reactome DB_ID: 1234124	Protein19	
+Protein173	Histone H3	nucleoplasm	Reactome DB_ID: 212293	Protein174	
+Protein173	Histone H3	nucleoplasm	Reactome DB_ID: 212293	Protein175	
+Protein173	Histone H3	nucleoplasm	Reactome DB_ID: 212293	Protein176	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein178	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein179	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein180	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein181	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein182	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein183	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein184	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein185	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein186	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein187	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein188	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein189	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein190	
+Protein177	Histone H2B	nucleoplasm	Reactome DB_ID: 181911	Protein191	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein193	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein194	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein195	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein196	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein197	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein198	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein199	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein200	
+Protein192	Histone H2A	nucleoplasm	Reactome DB_ID: 181899	Protein201	
+Protein203	Histone H3 with trimethylated lysine 27	nucleoplasm	Reactome DB_ID: 212266	Protein204	
+Protein203	Histone H3 with trimethylated lysine 27	nucleoplasm	Reactome DB_ID: 212266	Protein205	
+Protein203	Histone H3 with trimethylated lysine 27	nucleoplasm	Reactome DB_ID: 212266	Protein206	
+Protein237	CCNA	nucleoplasm	Reactome DB_ID: 75202	Protein238	
+Protein237	CCNA	nucleoplasm	Reactome DB_ID: 75202	Protein239	
+Protein241	p21/p27	nucleoplasm	Reactome DB_ID: 182558	Protein236	
+Protein241	p21/p27	nucleoplasm	Reactome DB_ID: 182558	Protein242	
+Protein243	Cyclin E	nucleoplasm	Reactome DB_ID: 187493	Protein244	
+Protein243	Cyclin E	nucleoplasm	Reactome DB_ID: 187493	Protein245	
+Protein268	Histone H3 dimethylated at lysine-9	nucleoplasm	Reactome DB_ID: 427406	Protein269	
+Protein268	Histone H3 dimethylated at lysine-9	nucleoplasm	Reactome DB_ID: 427406	Protein270	
+Protein268	Histone H3 dimethylated at lysine-9	nucleoplasm	Reactome DB_ID: 427406	Protein271	
+Protein272	Ribosomal protein S6 kinase	nucleoplasm	Reactome DB_ID: 199858	Protein273	
+Protein272	Ribosomal protein S6 kinase	nucleoplasm	Reactome DB_ID: 199858	Protein274	
+Protein272	Ribosomal protein S6 kinase	nucleoplasm	Reactome DB_ID: 199858	Protein275	
+Protein276	Phospho-Ribosomal protein S6 kinase	nucleoplasm	Reactome DB_ID: 199849	Protein277	
+Protein276	Phospho-Ribosomal protein S6 kinase	nucleoplasm	Reactome DB_ID: 199849	Protein278	
+Protein276	Phospho-Ribosomal protein S6 kinase	nucleoplasm	Reactome DB_ID: 199849	Protein279	
+Protein280	p-ERK1/2/5	nucleoplasm	Reactome DB_ID: 199878	Protein281	
+Protein280	p-ERK1/2/5	nucleoplasm	Reactome DB_ID: 199878	Protein88	
+Protein280	p-ERK1/2/5	nucleoplasm	Reactome DB_ID: 199878	Protein89	
+Protein29	hydroxyPro-HIF-alpha	cytosol	Reactome DB_ID: 1234106	Protein8	
+Protein29	hydroxyPro-HIF-alpha	cytosol	Reactome DB_ID: 1234106	Protein12	
+Protein29	hydroxyPro-HIF-alpha	cytosol	Reactome DB_ID: 1234106	Protein14	
+Protein35	hydroxyPro-HIF-alpha	nucleoplasm	Reactome DB_ID: 1234132	Protein16	
+Protein35	hydroxyPro-HIF-alpha	nucleoplasm	Reactome DB_ID: 1234132	Protein21	
+Protein35	hydroxyPro-HIF-alpha	nucleoplasm	Reactome DB_ID: 1234132	Protein23	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein37	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein38	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein39	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein40	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein41	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein42	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein43	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein44	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein45	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein46	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein47	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein48	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein49	
+Protein36	Ub	cytosol	Reactome DB_ID: 113595	Protein50	
+Protein4	hydroxyAsn-HIF1A/HIF2A	cytosol	Reactome DB_ID: 1234148	Protein5	
+Protein4	hydroxyAsn-HIF1A/HIF2A	cytosol	Reactome DB_ID: 1234148	Protein6	
+Protein51	UBE2D1/2/3	cytosol	Reactome DB_ID: 1234120	Protein52	
+Protein51	UBE2D1/2/3	cytosol	Reactome DB_ID: 1234120	Protein53	
+Protein51	UBE2D1/2/3	cytosol	Reactome DB_ID: 1234120	Protein54	
+Protein55	UBE2D1,2,3	nucleoplasm	Reactome DB_ID: 1234118	Protein56	
+Protein55	UBE2D1,2,3	nucleoplasm	Reactome DB_ID: 1234118	Protein57	
+Protein55	UBE2D1,2,3	nucleoplasm	Reactome DB_ID: 1234118	Protein58	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein60	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein61	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein62	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein63	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein64	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein65	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein66	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein67	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein68	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein69	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein70	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein71	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein72	
+Protein59	ubiquitin	nucleoplasm	Reactome DB_ID: 68524	Protein73	
+Protein74	HIF-alpha	cytosol	Reactome DB_ID: 1234147	Protein2	
+Protein74	HIF-alpha	cytosol	Reactome DB_ID: 1234147	Protein3	
+Protein74	HIF-alpha	cytosol	Reactome DB_ID: 1234147	Protein13	
+Protein75	HIF-alpha	nucleoplasm	Reactome DB_ID: 1234153	Protein15	
+Protein75	HIF-alpha	nucleoplasm	Reactome DB_ID: 1234153	Protein20	
+Protein75	HIF-alpha	nucleoplasm	Reactome DB_ID: 1234153	Protein22	
+Protein82	ETS1/ETS2	nucleoplasm	Reactome DB_ID: 3132719	Protein83	
+Protein82	ETS1/ETS2	nucleoplasm	Reactome DB_ID: 3132719	Protein84	
+Protein85	p-T38-ETS1/ p-T72-ETS2	nucleoplasm	Reactome DB_ID: 3132724	Protein86	
+Protein85	p-T38-ETS1/ p-T72-ETS2	nucleoplasm	Reactome DB_ID: 3132724	Protein87	
+Protein9	PHD2/3	cytosol	Reactome DB_ID: 1234122	Protein10	
+Protein9	PHD2/3	cytosol	Reactome DB_ID: 1234122	Protein11	
+Protein94	INK4A	cytosol	Reactome DB_ID: 182588	Protein95	
+Protein94	INK4A	cytosol	Reactome DB_ID: 182588	Protein96	
+Protein94	INK4A	cytosol	Reactome DB_ID: 182588	Protein97	
+Protein94	INK4A	cytosol	Reactome DB_ID: 182588	Protein98	
+Protein99	Cdk4/6	cytosol	Reactome DB_ID: 69209	Protein100	
+Protein99	Cdk4/6	cytosol	Reactome DB_ID: 69209	Protein101	
+Rna3	p16-INK4a/p14-ARF mRNA	cytosol	Reactome DB_ID: 3209130	Rna1	
+Rna3	p16-INK4a/p14-ARF mRNA	cytosol	Reactome DB_ID: 3209130	Rna2	
+Rna4	miR-24	cytosol	Reactome DB_ID: 3209146	Rna5	
+Rna4	miR-24	cytosol	Reactome DB_ID: 3209146	Rna6	

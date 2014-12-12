@@ -1,0 +1,14 @@
+BiochemicalReaction1	ZBP1(DAI) recruits RIP1 and RIP3	Protein1	Complex3	
+BiochemicalReaction1	ZBP1(DAI) recruits RIP1 and RIP3	Complex1	Complex3	
+BiochemicalReaction1	ZBP1(DAI) recruits RIP1 and RIP3	Protein3	Complex3	
+BiochemicalReaction2	RIP1 facilitates IKK complex phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	RIP1 facilitates IKK complex phosphorylation	Complex4	SmallMolecule2	
+BiochemicalReaction2	RIP1 facilitates IKK complex phosphorylation	Complex4	Complex5	
+BiochemicalReaction2	RIP1 facilitates IKK complex phosphorylation	SmallMolecule1	Complex5	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex9	Protein19	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Protein19	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex9	SmallMolecule2	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Complex10	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex9	Complex10	
+BiochemicalReaction4	Released NFkB complex is transported to nucleus	Complex10	Complex11	

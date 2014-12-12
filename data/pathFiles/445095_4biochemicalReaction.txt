@@ -1,0 +1,12 @@
+BiochemicalReaction1	L1 dimer binds Ankyrin	Complex1	Complex2	
+BiochemicalReaction1	L1 dimer binds Ankyrin	Protein2	Complex2	
+BiochemicalReaction2	L1 linked to actin cytoskeleton by ankyrin	Complex3	Complex5	
+BiochemicalReaction2	L1 linked to actin cytoskeleton by ankyrin	Complex2	Complex5	
+BiochemicalReaction3	Ankyrins link voltage-gated sodium and potassium channels to spectrin and L1	Complex6	Complex9	
+BiochemicalReaction3	Ankyrins link voltage-gated sodium and potassium channels to spectrin and L1	PhysicalEntity2	Complex9	
+BiochemicalReaction4	Phosphorylation of Y1229 in L1	Complex2	Complex10	
+BiochemicalReaction4	Phosphorylation of Y1229 in L1	SmallMolecule1	Complex10	
+BiochemicalReaction4	Phosphorylation of Y1229 in L1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of Y1229 in L1	Complex2	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of Y1229 in L1	SmallMolecule1	Protein2	
+BiochemicalReaction4	Phosphorylation of Y1229 in L1	Complex2	Protein2	

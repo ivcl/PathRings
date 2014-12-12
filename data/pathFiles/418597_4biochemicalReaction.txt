@@ -1,0 +1,18 @@
+BiochemicalReaction1	Liganded Gz-activating GPCRs bind inactive heterotrimeric G-protein Gz	Complex1	Complex6	
+BiochemicalReaction1	Liganded Gz-activating GPCRs bind inactive heterotrimeric G-protein Gz	Complex4	Complex6	
+BiochemicalReaction2	Liganded Gz-activating GPCR acts as a GEF for Gz	SmallMolecule5	Complex7	
+BiochemicalReaction2	Liganded Gz-activating GPCR acts as a GEF for Gz	Complex6	Complex7	
+BiochemicalReaction2	Liganded Gz-activating GPCR acts as a GEF for Gz	Complex6	SmallMolecule7	
+BiochemicalReaction2	Liganded Gz-activating GPCR acts as a GEF for Gz	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	The Ligand:GPCR:Gz complex dissociates	Complex7	Complex9	
+BiochemicalReaction3	The Ligand:GPCR:Gz complex dissociates	Complex7	PhysicalEntity1	
+BiochemicalReaction3	The Ligand:GPCR:Gz complex dissociates	Complex7	PhysicalEntity2	
+BiochemicalReaction3	The Ligand:GPCR:Gz complex dissociates	Complex7	Complex3	
+BiochemicalReaction4	G alpha (z) inhibits adenylate cyclase	Complex9	Complex11	
+BiochemicalReaction4	G alpha (z) inhibits adenylate cyclase	Complex10	Complex11	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction6	Gz is a substrate for PKC	Complex9	Complex16	
+BiochemicalReaction7	G alpha (z) auto-inactivates by hydrolysing GTP to GDP	Complex9	Complex2	
+BiochemicalReaction8	Inactive G alpha (z) reassociates with G beta:gamma	Complex2	Complex1	
+BiochemicalReaction8	Inactive G alpha (z) reassociates with G beta:gamma	Complex3	Complex1	

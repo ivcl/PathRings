@@ -1,0 +1,225 @@
+Complex1	80S ribosome	cytosol	Reactome DB_ID: 72500	Complex2	
+Complex1	80S ribosome	cytosol	Reactome DB_ID: 72500	Complex3	
+Complex10	eIF4E:4E-BP	cytosol	Reactome DB_ID: 72581	Protein98	
+Complex10	eIF4E:4E-BP	cytosol	Reactome DB_ID: 72581	Protein99	
+Complex11	eIF4A subunits complex	cytosol	Reactome DB_ID: 72576	Protein100	
+Complex11	eIF4A subunits complex	cytosol	Reactome DB_ID: 72576	Protein101	
+Complex12	eIF4F	cytosol	Reactome DB_ID: 72587	Protein99	
+Complex12	eIF4F	cytosol	Reactome DB_ID: 72587	Complex11	
+Complex12	eIF4F	cytosol	Reactome DB_ID: 72587	Protein102	
+Complex13	mRNP	cytosol	Reactome DB_ID: 72596	PhysicalEntity2	
+Complex13	mRNP	cytosol	Reactome DB_ID: 72596	Rna5	
+Complex14	eIF4F:mRNP	cytosol	Reactome DB_ID: 72597	Complex13	
+Complex14	eIF4F:mRNP	cytosol	Reactome DB_ID: 72597	Complex12	
+Complex15	mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72593	Protein103	
+Complex15	mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72593	Complex12	
+Complex15	mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72593	Rna5	
+Complex15	mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72593	Protein104	
+Complex16	43S:mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72592	Protein103	
+Complex16	43S:mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72592	Complex12	
+Complex16	43S:mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72592	Rna5	
+Complex16	43S:mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72592	Protein104	
+Complex16	43S:mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 72592	Complex9	
+Complex17	Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 156809	Protein103	
+Complex17	Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 156809	Complex12	
+Complex17	Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 156809	Protein104	
+Complex17	Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H	cytosol	Reactome DB_ID: 156809	Rna6	
+Complex18	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	cytosol	Reactome DB_ID: 156804	Protein103	
+Complex18	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	cytosol	Reactome DB_ID: 156804	Complex12	
+Complex18	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	cytosol	Reactome DB_ID: 156804	Protein105	
+Complex18	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	cytosol	Reactome DB_ID: 156804	Protein104	
+Complex18	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	cytosol	Reactome DB_ID: 156804	Complex9	
+Complex18	43S: Ceruloplasmin mRNA:eIF4F:eIF4B:eIF4H:PABP	cytosol	Reactome DB_ID: 156804	Rna6	
+Complex19	48S complex	cytosol	Reactome DB_ID: 72594	Protein103	
+Complex19	48S complex	cytosol	Reactome DB_ID: 72594	Complex12	
+Complex19	48S complex	cytosol	Reactome DB_ID: 72594	Rna5	
+Complex19	48S complex	cytosol	Reactome DB_ID: 72594	Protein104	
+Complex19	48S complex	cytosol	Reactome DB_ID: 72594	Complex9	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Rna1	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein2	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein3	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein4	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein5	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein6	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Rna2	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein7	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein8	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein9	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein10	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein11	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein12	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein13	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein14	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein15	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein16	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein17	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein18	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein19	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein20	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein21	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein22	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein23	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein24	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein25	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein26	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein27	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein28	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein29	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein30	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein31	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein32	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein33	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein34	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein35	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein36	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein37	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein38	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein39	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein40	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein41	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein42	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Rna3	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein43	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein44	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein45	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein46	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein47	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein48	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein49	
+Complex2	60S ribosomal complex	cytosol	Reactome DB_ID: 72499	Protein50	
+Complex20	40S:Met-tRNAi:mRNA	cytosol	Reactome DB_ID: 72508	Complex3	
+Complex20	40S:Met-tRNAi:mRNA	cytosol	Reactome DB_ID: 72508	Rna5	
+Complex20	40S:Met-tRNAi:mRNA	cytosol	Reactome DB_ID: 72508	PhysicalEntity1	
+Complex21	eIF2:GDP	cytosol	Reactome DB_ID: 72530	Complex6	
+Complex21	eIF2:GDP	cytosol	Reactome DB_ID: 72530	SmallMolecule5	
+Complex22	80S:Met-tRNAi:mRNA:eIF5B:GTP	cytosol	Reactome DB_ID: 72504	Rna5	
+Complex22	80S:Met-tRNAi:mRNA:eIF5B:GTP	cytosol	Reactome DB_ID: 72504	Complex23	
+Complex22	80S:Met-tRNAi:mRNA:eIF5B:GTP	cytosol	Reactome DB_ID: 72504	PhysicalEntity1	
+Complex22	80S:Met-tRNAi:mRNA:eIF5B:GTP	cytosol	Reactome DB_ID: 72504	Complex1	
+Complex23	eIF5B:GTP	cytosol	Reactome DB_ID: 72503	SmallMolecule1	
+Complex23	eIF5B:GTP	cytosol	Reactome DB_ID: 72503	Protein107	
+Complex24	80S:Met-tRNAi:mRNA	cytosol	Reactome DB_ID: 72505	Rna5	
+Complex24	80S:Met-tRNAi:mRNA	cytosol	Reactome DB_ID: 72505	PhysicalEntity1	
+Complex24	80S:Met-tRNAi:mRNA	cytosol	Reactome DB_ID: 72505	Complex1	
+Complex25	eIF5B:GDP	cytosol	Reactome DB_ID: 72502	SmallMolecule5	
+Complex25	eIF5B:GDP	cytosol	Reactome DB_ID: 72502	Protein107	
+Complex26	eIF2B subunits complex	cytosol	Reactome DB_ID: 72526	Protein108	
+Complex26	eIF2B subunits complex	cytosol	Reactome DB_ID: 72526	Protein109	
+Complex26	eIF2B subunits complex	cytosol	Reactome DB_ID: 72526	Protein110	
+Complex26	eIF2B subunits complex	cytosol	Reactome DB_ID: 72526	Protein111	
+Complex26	eIF2B subunits complex	cytosol	Reactome DB_ID: 72526	Protein112	
+Complex27	eIF2:GDP: eIF2B	cytosol	Reactome DB_ID: 72529	Complex6	
+Complex27	eIF2:GDP: eIF2B	cytosol	Reactome DB_ID: 72529	Complex26	
+Complex27	eIF2:GDP: eIF2B	cytosol	Reactome DB_ID: 72529	SmallMolecule5	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Rna1	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein2	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein3	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein4	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein5	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein6	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Rna2	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein8	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein9	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein10	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein11	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein12	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein13	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein14	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein15	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein16	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein17	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein18	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein19	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein20	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein21	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein22	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein23	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein24	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein25	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein26	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein27	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein28	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein29	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein30	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein31	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein32	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein33	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein34	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein35	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein36	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein37	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein38	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein39	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein40	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein41	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein42	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Rna3	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein43	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein44	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein45	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein46	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein47	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein48	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein49	
+Complex28	60s ribosomal complex lacking L13a subunit	cytosol	Reactome DB_ID: 156817	Protein50	
+Complex29	phospho-L13a associated wth the  3' UTR GAIT element of ceruloplasmin mRNA within  the translation initiation complex	cytosol	Reactome DB_ID: 156824	Protein113	
+Complex29	phospho-L13a associated wth the  3' UTR GAIT element of ceruloplasmin mRNA within  the translation initiation complex	cytosol	Reactome DB_ID: 156824	Complex18	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein51	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein52	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein53	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein54	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein55	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein56	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein57	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein58	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein59	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein60	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein61	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein62	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein63	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein64	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein65	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein66	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein67	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein68	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein69	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein70	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein71	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein72	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein73	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein74	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein75	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein76	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein77	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein78	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Rna4	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein79	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein80	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein81	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein82	
+Complex3	40S ribosomal complex	cytosol	Reactome DB_ID: 72392	Protein83	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein84	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein85	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein86	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein87	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein88	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein89	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein90	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein91	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein92	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein93	
+Complex4	eIF3 subunits complex	cytosol	Reactome DB_ID: 72555	Protein94	
+Complex5	40S:eIF3:eIF1A	cytosol	Reactome DB_ID: 72570	Complex4	
+Complex5	40S:eIF3:eIF1A	cytosol	Reactome DB_ID: 72570	Complex3	
+Complex5	40S:eIF3:eIF1A	cytosol	Reactome DB_ID: 72570	Protein1	
+Complex6	MP	cytosol	Reactome DB_ID: 72515	Protein95	
+Complex6	MP	cytosol	Reactome DB_ID: 72515	Protein96	
+Complex6	MP	cytosol	Reactome DB_ID: 72515	Protein97	
+Complex7	eIF2:GTP	cytosol	Reactome DB_ID: 72531	SmallMolecule1	
+Complex7	eIF2:GTP	cytosol	Reactome DB_ID: 72531	Complex6	
+Complex8	ternary complex	cytosol	Reactome DB_ID: 72532	Complex7	
+Complex8	ternary complex	cytosol	Reactome DB_ID: 72532	PhysicalEntity1	
+Complex9	43S complex	cytosol	Reactome DB_ID: 72571	Complex4	
+Complex9	43S complex	cytosol	Reactome DB_ID: 72571	Complex8	
+Complex9	43S complex	cytosol	Reactome DB_ID: 72571	Complex3	
+Complex9	43S complex	cytosol	Reactome DB_ID: 72571	Protein1	

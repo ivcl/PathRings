@@ -1,0 +1,64 @@
+BiochemicalReaction1	Binding of SHC1 by phosphorylated IGF1R	Complex1	Complex3	
+BiochemicalReaction1	Binding of SHC1 by phosphorylated IGF1R	Protein6	Complex3	
+BiochemicalReaction10	Activated RAF1 complex binds MEK	Protein31	Complex15	
+BiochemicalReaction10	Activated RAF1 complex binds MEK	Complex12	Complex15	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule1	Protein34	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex16	Protein34	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex16	Complex12	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule1	Complex12	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	Complex16	SmallMolecule2	
+BiochemicalReaction11	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex17	Complex12	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule1	Complex12	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex17	SmallMolecule2	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	SmallMolecule1	Protein35	
+BiochemicalReaction12	RAF1 phosphorylates MEK2	Complex17	Protein35	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	Protein36	SmallMolecule2	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein37	
+BiochemicalReaction13	Inactivation of MEK1 by p34cdc2	Protein36	Protein37	
+BiochemicalReaction14	MEK1 binds ERK-1	Protein34	Complex18	
+BiochemicalReaction14	MEK1 binds ERK-1	Protein41	Complex18	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	Complex18	Complex19	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex19	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	MEK1 phosphorylates ERK-1	Complex18	SmallMolecule2	
+BiochemicalReaction16	Dissociation of phospho-ERK-1:MEK1	Complex19	Protein34	
+BiochemicalReaction16	Dissociation of phospho-ERK-1:MEK1	Complex19	Protein42	
+BiochemicalReaction17	Dimerisation of phospho-ERK-1	Protein42	Complex20	
+BiochemicalReaction18	Nuclear translocation of phospho-ERK-1 dimer	Complex20	Complex21	
+BiochemicalReaction19	MEK2 binds ERK-2	Protein35	Complex30	
+BiochemicalReaction19	MEK2 binds ERK-2	Protein53	Complex30	
+BiochemicalReaction2	Phosphorylation of SHC1 by IGF1R	Complex3	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of SHC1 by IGF1R	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of SHC1 by IGF1R	SmallMolecule1	Complex4	
+BiochemicalReaction2	Phosphorylation of SHC1 by IGF1R	Complex3	Complex4	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	Complex30	SmallMolecule2	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex31	
+BiochemicalReaction20	MEK2 phosphorylates ERK-2	Complex30	Complex31	
+BiochemicalReaction21	Dissociation of phospho-ERK-2:MEK2	Complex31	Protein35	
+BiochemicalReaction21	Dissociation of phospho-ERK-2:MEK2	Complex31	Protein54	
+BiochemicalReaction22	Dimerisation of phospho-ERK-2	Protein54	Complex32	
+BiochemicalReaction23	Nuclear translocation of phospho-ERK-2 dimer	Complex32	Complex33	
+BiochemicalReaction3	GRB2:SOS binds to SHC-P	Protein18	Complex6	
+BiochemicalReaction3	GRB2:SOS binds to SHC-P	Complex5	Complex6	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule3	Complex8	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	Complex7	Complex8	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	Complex7	SmallMolecule4	
+BiochemicalReaction4	SOS mediated nucleotide exchange of RAS (SHC)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	p-RAF binds 14-3-3 beta/alpha	Protein28	Complex9	
+BiochemicalReaction5	p-RAF binds 14-3-3 beta/alpha	Protein29	Complex9	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex9	Complex10	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex8	Complex10	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex8	Protein28	
+BiochemicalReaction6	Transient dissociation of 14-3-3 upon Ras binding	Complex9	Protein28	
+BiochemicalReaction7	Stabilisation of RAS:RAF by 14-3-3	Complex10	Complex11	
+BiochemicalReaction7	Stabilisation of RAS:RAF by 14-3-3	Protein28	Complex11	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex12	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	Complex11	Complex12	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	Complex11	SmallMolecule2	
+BiochemicalReaction8	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein29	Complex14	
+BiochemicalReaction9	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex13	Complex14	

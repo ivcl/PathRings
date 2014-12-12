@@ -1,0 +1,29 @@
+BiochemicalReaction1	ROS induce double strand DNA breaks	SmallMolecule1	PhysicalEntity2	
+BiochemicalReaction1	ROS induce double strand DNA breaks	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex14	Complex15	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein46	Complex15	
+BiochemicalReaction11	Initiation of SAHF formation	Protein51	Complex16	
+BiochemicalReaction11	Initiation of SAHF formation	Protein52	Complex16	
+BiochemicalReaction11	Initiation of SAHF formation	Protein53	Complex16	
+BiochemicalReaction11	Initiation of SAHF formation	Protein54	Complex16	
+BiochemicalReaction2	Telomere shortening during replicative exhaustion	Complex1	PhysicalEntity5	
+BiochemicalReaction2	Telomere shortening during replicative exhaustion	Complex1	Complex2	
+BiochemicalReaction3	MRN complex binds DNA double strand breaks and shortened telomeres	Complex5	Complex6	
+BiochemicalReaction3	MRN complex binds DNA double strand breaks and shortened telomeres	PhysicalEntity6	Complex6	
+BiochemicalReaction4	MRN complex bound to DNA ends recruits ATM	Complex6	Complex8	
+BiochemicalReaction4	MRN complex bound to DNA ends recruits ATM	Complex7	Complex8	
+BiochemicalReaction5	MRN activates ATM	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	MRN activates ATM	Complex8	SmallMolecule3	
+BiochemicalReaction5	MRN activates ATM	Complex8	Complex6	
+BiochemicalReaction5	MRN activates ATM	SmallMolecule2	Complex6	
+BiochemicalReaction5	MRN activates ATM	Complex8	Protein38	
+BiochemicalReaction5	MRN activates ATM	SmallMolecule2	Protein38	
+BiochemicalReaction6	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	Phosphorylation of p53 at ser-15 by ATM kinase	Complex9	SmallMolecule3	
+BiochemicalReaction6	Phosphorylation of p53 at ser-15 by ATM kinase	Complex9	Complex10	
+BiochemicalReaction6	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule2	Complex10	
+BiochemicalReaction7	TP53 binds CDKN1A promoter	Dna1	Complex11	
+BiochemicalReaction7	TP53 binds CDKN1A promoter	Complex10	Complex11	
+BiochemicalReaction8	Transcriptional activation of p21 by p53 after DNA damage	Dna1	Protein41	
+BiochemicalReaction9	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Complex12	Complex13	
+BiochemicalReaction9	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Protein46	Complex13	

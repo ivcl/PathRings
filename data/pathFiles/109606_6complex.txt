@@ -1,0 +1,76 @@
+Complex1	active caspase-8 	cytosol	Reactome DB_ID: 2562550	Complex2	
+Complex10	YWHAE dimer	cytosol	Reactome DB_ID: 194364	Protein21	
+Complex11	14-3-3 proteins:p-S99-BAD complex	cytosol	Reactome DB_ID: 139904	Complex3	
+Complex11	14-3-3 proteins:p-S99-BAD complex	cytosol	Reactome DB_ID: 139904	Protein10	
+Complex12	Calcineurin B complex	cytosol	Reactome DB_ID: 140202	Protein22	
+Complex12	Calcineurin B complex	cytosol	Reactome DB_ID: 140202	Protein23	
+Complex13	tBID:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114339	Protein25	
+Complex13	tBID:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114339	Protein8	
+Complex14	BAD:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114268	Protein24	
+Complex14	BAD:BCL-2	mitochondrial outer membrane	Reactome DB_ID: 114268	Protein25	
+Complex15	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein26	
+Complex16	p-S15-TP53 Tetramer:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331332	Dna1	
+Complex16	p-S15-TP53 Tetramer:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331332	Complex15	
+Complex17	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein28	
+Complex17	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein29	
+Complex18	E2F1:TFDP1:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331338	Dna1	
+Complex18	E2F1:TFDP1:PMAIP1 Gene	nucleoplasm	Reactome DB_ID: 4331338	Complex17	
+Complex19	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Dna2	
+Complex19	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Complex15	
+Complex2	Caspase-8 dimer	cytosol	Reactome DB_ID: 139950	Protein3	
+Complex2	Caspase-8 dimer	cytosol	Reactome DB_ID: 139950	Protein4	
+Complex20	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Dna2	
+Complex20	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Complex17	
+Complex21	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	Protein33	
+Complex21	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	PhysicalEntity1	
+Complex21	BCL2L11:DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140524	Protein34	
+Complex22	DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140526	PhysicalEntity1	
+Complex22	DYNLL1:microtubules	plasma membrane	Reactome DB_ID: 140526	Protein34	
+Complex23	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	Protein38	
+Complex23	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	Protein39	
+Complex23	BMF sequestered to dynein (DLC2)	plasma membrane	Reactome DB_ID: 140528	PhysicalEntity1	
+Complex24	Dynein (DLC2) on microtubules	plasma membrane	Reactome DB_ID: 140530	Protein39	
+Complex24	Dynein (DLC2) on microtubules	plasma membrane	Reactome DB_ID: 140530	PhysicalEntity1	
+Complex25	Bcl2:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508158	Protein42	
+Complex25	Bcl2:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508158	Protein25	
+Complex26	Bcl-XL:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508159	Protein43	
+Complex26	Bcl-XL:BH3-only protein complex	mitochondrial outer membrane	Reactome DB_ID: 508159	Protein44	
+Complex27	tBID bound to inactive BAX	cytosol	Reactome DB_ID: 168850	Protein2	
+Complex27	tBID bound to inactive BAX	cytosol	Reactome DB_ID: 168850	Protein45	
+Complex28	Activated BAX	mitochondrial outer membrane	Reactome DB_ID: 114269	Protein47	
+Complex29	tBID bound to inactive BAK	mitochondrial outer membrane	Reactome DB_ID: 168847	Protein48	
+Complex29	tBID bound to inactive BAK	mitochondrial outer membrane	Reactome DB_ID: 168847	Protein8	
+Complex30	Active oligomeric BAK	mitochondrial outer membrane	Reactome DB_ID: 114262	Protein49	
+Complex31	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein54	
+Complex31	Apaf-1:Cytochrome C	cytosol	Reactome DB_ID: 114253	Protein51	
+Complex32	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Protein55	
+Complex32	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	Complex31	
+Complex32	Cytochrome C:Apaf-1:ATP:Procaspase-9	cytosol	Reactome DB_ID: 114255	SmallMolecule1	
+Complex33	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex31	
+Complex33	Apoptosome	cytosol	Reactome DB_ID: 114258	Complex34	
+Complex34	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein56	
+Complex34	Cleaved Caspase-9	cytosol	Reactome DB_ID: 141640	Protein57	
+Complex35	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein59	
+Complex35	active caspase-3	cytosol	Reactome DB_ID: 141647	Protein60	
+Complex36	active caspase-7	cytosol	Reactome DB_ID: 141643	Protein62	
+Complex36	active caspase-7	cytosol	Reactome DB_ID: 141643	Protein63	
+Complex37	XIAP:Caspase-3	cytosol	Reactome DB_ID: 114304	Protein64	
+Complex37	XIAP:Caspase-3	cytosol	Reactome DB_ID: 114304	Complex35	
+Complex38	SMAC:XIAP:Caspase-3	cytosol	Reactome DB_ID: 114305	Complex37	
+Complex38	SMAC:XIAP:Caspase-3	cytosol	Reactome DB_ID: 114305	Protein53	
+Complex39	XIAP:Caspase-7	cytosol	Reactome DB_ID: 114308	Protein64	
+Complex39	XIAP:Caspase-7	cytosol	Reactome DB_ID: 114308	Complex36	
+Complex4	14-3-3 eta dimer	cytosol	Reactome DB_ID: 2262715	Protein15	
+Complex40	SMAC:XIAP:Caspase-7	cytosol	Reactome DB_ID: 114353	Complex39	
+Complex40	SMAC:XIAP:Caspase-7	cytosol	Reactome DB_ID: 114353	Protein53	
+Complex41	XIAP:Caspase-9	cytosol	Reactome DB_ID: 114317	Protein64	
+Complex41	XIAP:Caspase-9	cytosol	Reactome DB_ID: 114317	Complex34	
+Complex42	SMAC:XIAP:Caspase-9	cytosol	Reactome DB_ID: 114318	Protein53	
+Complex42	SMAC:XIAP:Caspase-9	cytosol	Reactome DB_ID: 114318	Complex41	
+Complex43	SMAC:XIAP	cytosol	Reactome DB_ID: 114391	Protein64	
+Complex43	SMAC:XIAP	cytosol	Reactome DB_ID: 114391	Protein53	
+Complex5	14-3-3 gamma dimer	cytosol	Reactome DB_ID: 2262713	Protein16	
+Complex6	14-3-3 sigma dimer	cytosol	Reactome DB_ID: 2262716	Protein17	
+Complex7	14-3-3 theta dimer	cytosol	Reactome DB_ID: 2262714	Protein18	
+Complex8	14-3-3zeta dimer	cytosol	Reactome DB_ID: 206751	Protein19	
+Complex9	YWHAB dimer	cytosol	Reactome DB_ID: 2028645	Protein20	

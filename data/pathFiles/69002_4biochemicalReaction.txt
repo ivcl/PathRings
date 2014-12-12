@@ -1,0 +1,43 @@
+BiochemicalReaction1	Orc3 associates with Orc2 constitutively bound at origins of replication	Protein1	Complex2	
+BiochemicalReaction1	Orc3 associates with Orc2 constitutively bound at origins of replication	Complex1	Complex2	
+BiochemicalReaction10	Free CDT1 associates with CDC6:ORC:origin complexes	Protein74	Complex13	
+BiochemicalReaction10	Free CDT1 associates with CDC6:ORC:origin complexes	Complex9	Complex13	
+BiochemicalReaction11	Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)	Complex14	Complex15	
+BiochemicalReaction11	Mcm2-7 associates with the Cdt1:CDC6:ORC:origin complex, forming the pre-replicative complex (preRC)	Complex13	Complex15	
+BiochemicalReaction12	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Complex15	Complex16	
+BiochemicalReaction12	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Protein81	Complex16	
+BiochemicalReaction13	Cdt1 is displaced from the pre-replicative complex.	Complex16	Protein74	
+BiochemicalReaction13	Cdt1 is displaced from the pre-replicative complex.	Complex16	Complex17	
+BiochemicalReaction14	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex19	Complex21	
+BiochemicalReaction14	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex17	Complex21	
+BiochemicalReaction14	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex20	Complex21	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	Complex14	SmallMolecule2	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	Complex22	
+BiochemicalReaction15	Mcm2-7 is phosphorylated by DDK	Complex14	Complex22	
+BiochemicalReaction16	Cdc45 associates with the pre-replicative complex at the origin	Complex21	Complex23	
+BiochemicalReaction16	Cdc45 associates with the pre-replicative complex at the origin	Protein85	Complex23	
+BiochemicalReaction17	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex23	Complex25	
+BiochemicalReaction17	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex24	Complex25	
+BiochemicalReaction18	DNA polymerase alpha:primase binds at the origin	Complex26	Complex29	
+BiochemicalReaction18	DNA polymerase alpha:primase binds at the origin	Complex27	Complex29	
+BiochemicalReaction19	DNA polymerase epsilon binds at the origin	Complex28	Complex27	
+BiochemicalReaction19	DNA polymerase epsilon binds at the origin	PhysicalEntity1	Complex27	
+BiochemicalReaction2	Orc5 associates with Orc3:Orc2:origin complexes	Complex2	Complex3	
+BiochemicalReaction2	Orc5 associates with Orc3:Orc2:origin complexes	Protein3	Complex3	
+BiochemicalReaction3	Orc4 associates with Orc5:Orc3:Orc2:origin complexes	Complex3	Complex4	
+BiochemicalReaction3	Orc4 associates with Orc5:Orc3:Orc2:origin complexes	Protein4	Complex4	
+BiochemicalReaction4	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Complex4	Complex5	
+BiochemicalReaction4	Orc1 associates with Orc4:Orc5:Orc3:Orc2:origin complexes	Protein5	Complex5	
+BiochemicalReaction5	Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes	Protein6	Complex6	
+BiochemicalReaction5	Orc6 associates with Orc1:Orc4:Orc5:Orc3:Orc2:origin complexes, forming ORC:origin complexes	Complex5	Complex6	
+BiochemicalReaction6	Association of MCM8 with ORC:origin complex	Protein7	Complex7	
+BiochemicalReaction6	Association of MCM8 with ORC:origin complex	Complex6	Complex7	
+BiochemicalReaction7	CDC6 association with ORC:origin complexes mediated by MCM8	Protein8	Complex9	
+BiochemicalReaction7	CDC6 association with ORC:origin complexes mediated by MCM8	Complex7	Complex9	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein13	Protein28	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex10	Protein28	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Complex10	Complex11	
+BiochemicalReaction8	The geminin component of geminin:Cdt1 complexes is ubiquitinated, releasing Cdt1	Protein13	Complex11	
+BiochemicalReaction9	Ubiquitinated geminin is degraded by the proteasome	Complex11	Protein13	
+TemplateReaction1	CDC6 protein is synthesized under the control of E2F transcription factors	NA	Protein8	

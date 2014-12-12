@@ -1,0 +1,22 @@
+BiochemicalReaction1	Phosphorylation of HuR by PKCalpha	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of HuR by PKCalpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of HuR by PKCalpha	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of HuR by PKCalpha	Protein1	Protein2	
+BiochemicalReaction2	Phosphorylation of HuR by PKCdelta	Protein1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of HuR by PKCdelta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of HuR by PKCdelta	SmallMolecule1	Protein4	
+BiochemicalReaction2	Phosphorylation of HuR by PKCdelta	Protein1	Protein4	
+BiochemicalReaction3	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	PhysicalEntity1	Complex1	
+BiochemicalReaction3	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	Protein2	Complex1	
+BiochemicalReaction4	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	PhysicalEntity2	Complex2	
+BiochemicalReaction4	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	Protein4	Complex2	
+BiochemicalReaction5	HuR Binds mRNAs in the Nucleus	Protein1	Complex3	
+BiochemicalReaction5	HuR Binds mRNAs in the Nucleus	PhysicalEntity3	Complex3	
+BiochemicalReaction6	Association of HuR with the CRM1 Nuclear Export Machinery	Protein6	Complex5	
+BiochemicalReaction6	Association of HuR with the CRM1 Nuclear Export Machinery	Protein7	Complex5	
+BiochemicalReaction6	Association of HuR with the CRM1 Nuclear Export Machinery	Protein8	Complex5	
+BiochemicalReaction6	Association of HuR with the CRM1 Nuclear Export Machinery	Complex4	Complex5	
+BiochemicalReaction6	Association of HuR with the CRM1 Nuclear Export Machinery	Protein9	Complex5	
+BiochemicalReaction6	Association of HuR with the CRM1 Nuclear Export Machinery	Protein10	Complex5	
+BiochemicalReaction7	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex5	Complex6	
+BiochemicalReaction7	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex5	Protein14	

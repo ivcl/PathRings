@@ -1,0 +1,565 @@
+BiochemicalReaction1	MPG glycosylase mediated recognition and binding of 3-methyladenine 	Protein1	Complex1	
+BiochemicalReaction1	MPG glycosylase mediated recognition and binding of 3-methyladenine 	PhysicalEntity1	Complex1	
+BiochemicalReaction10	Cleavage of hypoxanthine by MPG glycosylase	Complex3	SmallMolecule4	
+BiochemicalReaction10	Cleavage of hypoxanthine by MPG glycosylase	Complex3	Complex8	
+BiochemicalReaction100	DNA repair synthesis 	PhysicalEntity43	PhysicalEntity44	
+BiochemicalReaction100	DNA repair synthesis 	PhysicalEntity24	PhysicalEntity44	
+BiochemicalReaction101	Ligation of DNA and formation of Holliday structures following repair synthesis	PhysicalEntity44	PhysicalEntity45	
+BiochemicalReaction102	Cleavage of Holliday junctions	PhysicalEntity45	PhysicalEntity46	
+BiochemicalReaction103	Dissociation of the extended strands 	PhysicalEntity44	PhysicalEntity47	
+BiochemicalReaction103	Dissociation of the extended strands 	PhysicalEntity44	PhysicalEntity48	
+BiochemicalReaction104	Fill-in DNA synthesis	PhysicalEntity47	PhysicalEntity49	
+BiochemicalReaction105	Association of Ku heterodimer with ends of DNA double-strand break	Complex72	Complex73	
+BiochemicalReaction105	Association of Ku heterodimer with ends of DNA double-strand break	PhysicalEntity39	Complex73	
+BiochemicalReaction106	Association of DNA-PKcs with Ku-bound ends of DNA double-strand breaks	Protein50	Complex74	
+BiochemicalReaction106	Association of DNA-PKcs with Ku-bound ends of DNA double-strand breaks	Complex73	Complex74	
+BiochemicalReaction107	Autophosphorylation of DNA-PKcs	Protein50	SmallMolecule22	
+BiochemicalReaction107	Autophosphorylation of DNA-PKcs	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction107	Autophosphorylation of DNA-PKcs	SmallMolecule21	Protein51	
+BiochemicalReaction107	Autophosphorylation of DNA-PKcs	Protein50	Protein51	
+BiochemicalReaction108	Synapsis, or interaction between two DNA-PK:DNA complexes at opposing ends of DNA DSB 	Complex74	Complex75	
+BiochemicalReaction109	Removal of 3'-phosphoglycolate (PG)  moiety from DSB ends	Complex75	Complex76	
+BiochemicalReaction11	Cleavage of 8-oxo guanine by hOGG1 glycosylase	Complex5	Complex9	
+BiochemicalReaction11	Cleavage of 8-oxo guanine by hOGG1 glycosylase	Complex5	SmallMolecule1	
+BiochemicalReaction110	Removal of  3'-phosphate moiety from DSB ends	Complex75	Complex76	
+BiochemicalReaction111	Association of  the XRCC4:DNA ligase IV complex with the DNA-PK:DNA synaptic complex	Complex77	Complex78	
+BiochemicalReaction111	Association of  the XRCC4:DNA ligase IV complex with the DNA-PK:DNA synaptic complex	Complex76	Complex78	
+BiochemicalReaction112	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex78	Protein54	
+BiochemicalReaction112	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex78	Protein50	
+BiochemicalReaction112	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex78	Protein48	
+BiochemicalReaction112	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex78	PhysicalEntity52	
+BiochemicalReaction112	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex78	Protein55	
+BiochemicalReaction112	Removal of repair proteins and ligation of the processed ends of the DNA double-strand break	Complex78	Protein49	
+BiochemicalReaction113	XPC binds to HR23B forming a heterodimeric complex	Protein56	Complex79	
+BiochemicalReaction113	XPC binds to HR23B forming a heterodimeric complex	Protein57	Complex79	
+BiochemicalReaction114	XPC:HR23B complex binds to damaged DNA site with lesion	Complex79	Complex80	
+BiochemicalReaction114	XPC:HR23B complex binds to damaged DNA site with lesion	PhysicalEntity29	Complex80	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Complex80	Complex83	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Protein58	Complex83	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Protein59	Complex83	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Complex81	Complex83	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Protein69	Complex83	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Complex62	Complex83	
+BiochemicalReaction115	Recruitment of repair factors to form preincision complex	Protein70	Complex83	
+BiochemicalReaction116	Formation of open bubble structure in DNA by helicases	Complex83	Complex84	
+BiochemicalReaction117	Formation of ERCC1-XPF heterodimeric complex	Protein71	Complex85	
+BiochemicalReaction117	Formation of ERCC1-XPF heterodimeric complex	Protein72	Complex85	
+BiochemicalReaction118	Binding of ERCC1-XPF to preincision complex 	Complex85	Complex86	
+BiochemicalReaction118	Binding of ERCC1-XPF to preincision complex 	Complex84	Complex86	
+BiochemicalReaction119	3'- incision of DNA by XPG in GG-NER	Complex86	Complex87	
+BiochemicalReaction12	Cleavage of formamidopyrimidine by hOGG1 glycosylase	Complex6	SmallMolecule5	
+BiochemicalReaction12	Cleavage of formamidopyrimidine by hOGG1 glycosylase	Complex6	Complex9	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Complex79	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	PhysicalEntity55	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	PhysicalEntity56	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Complex85	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Protein58	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Protein59	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Complex81	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Protein69	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Complex62	
+BiochemicalReaction120	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex87	Protein70	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity55	PhysicalEntity55	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex88	PhysicalEntity55	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex89	PhysicalEntity55	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity24	PhysicalEntity55	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex90	PhysicalEntity55	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex62	PhysicalEntity55	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex62	PhysicalEntity57	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex90	PhysicalEntity57	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity24	PhysicalEntity57	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex89	PhysicalEntity57	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex88	PhysicalEntity57	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity55	PhysicalEntity57	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex62	Complex88	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex90	Complex88	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity24	Complex88	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex89	Complex88	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex88	Complex88	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity55	Complex88	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex62	Complex89	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex90	Complex89	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity24	Complex89	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex89	Complex89	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex88	Complex89	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity55	Complex89	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex62	Complex90	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex90	Complex90	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity24	Complex90	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex89	Complex90	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex88	Complex90	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity55	Complex90	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex62	Complex62	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex90	Complex62	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity24	Complex62	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex89	Complex62	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex88	Complex62	
+BiochemicalReaction121	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity55	Complex62	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity55	PhysicalEntity55	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex88	PhysicalEntity55	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex36	PhysicalEntity55	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity24	PhysicalEntity55	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex90	PhysicalEntity55	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex62	PhysicalEntity55	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex62	PhysicalEntity57	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex90	PhysicalEntity57	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity24	PhysicalEntity57	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex36	PhysicalEntity57	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex88	PhysicalEntity57	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity55	PhysicalEntity57	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex62	Complex88	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex90	Complex88	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity24	Complex88	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex36	Complex88	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex88	Complex88	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity55	Complex88	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex62	Complex36	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex90	Complex36	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity24	Complex36	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex36	Complex36	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex88	Complex36	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity55	Complex36	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex62	Complex90	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex90	Complex90	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity24	Complex90	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex36	Complex90	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex88	Complex90	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity55	Complex90	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex62	Complex62	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex90	Complex62	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity24	Complex62	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex36	Complex62	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex88	Complex62	
+BiochemicalReaction122	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity55	Complex62	
+BiochemicalReaction123	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity57	Protein17	
+BiochemicalReaction123	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity55	Protein17	
+BiochemicalReaction123	Ligation of newly synthesized repair patch to incised DNA in GG-NER	Protein17	Protein17	
+BiochemicalReaction123	Ligation of newly synthesized repair patch to incised DNA in GG-NER	Protein17	PhysicalEntity58	
+BiochemicalReaction123	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity55	PhysicalEntity58	
+BiochemicalReaction123	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity57	PhysicalEntity58	
+BiochemicalReaction124	Formation of active Pol II complex with lesioned DNA template	PhysicalEntity59	Complex92	
+BiochemicalReaction124	Formation of active Pol II complex with lesioned DNA template	Complex91	Complex92	
+BiochemicalReaction125	RNA Pol II is blocked by the lesion leading to reduced transcription	Complex92	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein92	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Complex85	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Complex93	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein93	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein94	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Complex81	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein69	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein95	Complex93	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein95	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein69	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Complex81	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein94	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein93	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Complex93	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Complex85	Complex94	
+BiochemicalReaction126	Assembly of repair proteins at the site of Pol II blockage	Protein92	Complex94	
+BiochemicalReaction127	Displacement of stalled Pol II  from the lesion site 	Complex93	PhysicalEntity59	
+BiochemicalReaction127	Displacement of stalled Pol II  from the lesion site 	Complex94	PhysicalEntity59	
+BiochemicalReaction127	Displacement of stalled Pol II  from the lesion site 	Complex94	Complex95	
+BiochemicalReaction127	Displacement of stalled Pol II  from the lesion site 	Complex93	Complex95	
+BiochemicalReaction127	Displacement of stalled Pol II  from the lesion site 	Complex94	Complex94	
+BiochemicalReaction127	Displacement of stalled Pol II  from the lesion site 	Complex93	Complex94	
+BiochemicalReaction128	3' incision of the lesioned strand of DNA in TC-NER	PhysicalEntity59	PhysicalEntity60	
+BiochemicalReaction128	3' incision of the lesioned strand of DNA in TC-NER	Complex94	PhysicalEntity60	
+BiochemicalReaction128	3' incision of the lesioned strand of DNA in TC-NER	Complex94	Complex94	
+BiochemicalReaction128	3' incision of the lesioned strand of DNA in TC-NER	PhysicalEntity59	Complex94	
+BiochemicalReaction129	5' incision leading to excision of DNA fragment with lesion in TC-NER	PhysicalEntity60	PhysicalEntity56	
+BiochemicalReaction129	5' incision leading to excision of DNA fragment with lesion in TC-NER	Complex94	PhysicalEntity56	
+BiochemicalReaction129	5' incision leading to excision of DNA fragment with lesion in TC-NER	Complex94	Complex94	
+BiochemicalReaction129	5' incision leading to excision of DNA fragment with lesion in TC-NER	PhysicalEntity60	Complex94	
+BiochemicalReaction129	5' incision leading to excision of DNA fragment with lesion in TC-NER	Complex94	PhysicalEntity61	
+BiochemicalReaction129	5' incision leading to excision of DNA fragment with lesion in TC-NER	PhysicalEntity60	PhysicalEntity61	
+BiochemicalReaction13	UNG glycosylase mediated recognition and binding of a 5-hydroxyuracil opposite to a guanine	PhysicalEntity8	Complex10	
+BiochemicalReaction13	UNG glycosylase mediated recognition and binding of a 5-hydroxyuracil opposite to a guanine	Protein4	Complex10	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex88	PhysicalEntity57	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex36	PhysicalEntity57	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity24	PhysicalEntity57	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex90	PhysicalEntity57	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex62	PhysicalEntity57	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity61	PhysicalEntity57	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity61	Complex88	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex62	Complex88	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex90	Complex88	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity24	Complex88	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex36	Complex88	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex88	Complex88	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity61	Complex36	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex62	Complex36	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex90	Complex36	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity24	Complex36	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex36	Complex36	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex88	Complex36	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity61	Complex90	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex62	Complex90	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex90	Complex90	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity24	Complex90	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex36	Complex90	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex88	Complex90	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity61	Complex62	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex62	Complex62	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex90	Complex62	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity24	Complex62	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex36	Complex62	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex88	Complex62	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity61	PhysicalEntity61	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex62	PhysicalEntity61	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex90	PhysicalEntity61	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	PhysicalEntity24	PhysicalEntity61	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex36	PhysicalEntity61	
+BiochemicalReaction130	Repair synthesis for gap-filling  by DNA pol delta  in TC-NER	Complex88	PhysicalEntity61	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex88	PhysicalEntity57	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex89	PhysicalEntity57	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity24	PhysicalEntity57	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex90	PhysicalEntity57	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex62	PhysicalEntity57	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity61	PhysicalEntity57	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity61	Complex88	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex62	Complex88	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex90	Complex88	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity24	Complex88	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex89	Complex88	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex88	Complex88	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity61	Complex89	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex62	Complex89	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex90	Complex89	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity24	Complex89	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex89	Complex89	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex88	Complex89	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity61	Complex90	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex62	Complex90	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex90	Complex90	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity24	Complex90	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex89	Complex90	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex88	Complex90	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity61	Complex62	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex62	Complex62	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex90	Complex62	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity24	Complex62	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex89	Complex62	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex88	Complex62	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity61	PhysicalEntity61	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex62	PhysicalEntity61	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex90	PhysicalEntity61	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	PhysicalEntity24	PhysicalEntity61	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex89	PhysicalEntity61	
+BiochemicalReaction131	Repair synthesis for gap-filling by DNA pol epsilon in TC-NER	Complex88	PhysicalEntity61	
+BiochemicalReaction132	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity57	PhysicalEntity62	
+BiochemicalReaction132	Ligation of newly synthesized repair patch to incised DNA in TC-NER	Protein17	PhysicalEntity62	
+BiochemicalReaction132	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity61	PhysicalEntity62	
+BiochemicalReaction132	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity61	Protein17	
+BiochemicalReaction132	Ligation of newly synthesized repair patch to incised DNA in TC-NER	Protein17	Protein17	
+BiochemicalReaction132	Ligation of newly synthesized repair patch to incised DNA in TC-NER	PhysicalEntity57	Protein17	
+BiochemicalReaction133	Resumption of transcription after TC-NER	PhysicalEntity62	Complex96	
+BiochemicalReaction133	Resumption of transcription after TC-NER	Complex95	Complex96	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Complex97	Complex98	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein106	Complex98	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein107	Complex98	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein108	Complex98	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein108	Complex97	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein107	Complex97	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein106	Complex97	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Complex97	Complex97	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein108	Protein107	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein107	Protein107	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Protein106	Protein107	
+BiochemicalReaction134	Monoubiquitination of FANCD2 by the FA ubiquitin ligase complex	Complex97	Protein107	
+BiochemicalReaction135	Monoubiquitination of FANCI by the FA ubiquitin ligase complex	Protein123	Complex97	
+BiochemicalReaction135	Monoubiquitination of FANCI by the FA ubiquitin ligase complex	Complex97	Complex97	
+BiochemicalReaction135	Monoubiquitination of FANCI by the FA ubiquitin ligase complex	Protein108	Complex97	
+BiochemicalReaction135	Monoubiquitination of FANCI by the FA ubiquitin ligase complex	Protein108	Complex99	
+BiochemicalReaction135	Monoubiquitination of FANCI by the FA ubiquitin ligase complex	Complex97	Complex99	
+BiochemicalReaction135	Monoubiquitination of FANCI by the FA ubiquitin ligase complex	Protein123	Complex99	
+BiochemicalReaction136	Translocation of  ub-FANCD2  and  ub-FANCI to chromatin	Complex98	Complex100	
+BiochemicalReaction136	Translocation of  ub-FANCD2  and  ub-FANCI to chromatin	Complex99	Complex100	
+BiochemicalReaction136	Translocation of  ub-FANCD2  and  ub-FANCI to chromatin	PhysicalEntity29	Complex100	
+BiochemicalReaction137	Formation of the BRCA1-PALB2-BRCA2 complex	Protein44	Complex101	
+BiochemicalReaction137	Formation of the BRCA1-PALB2-BRCA2 complex	Protein32	Complex101	
+BiochemicalReaction137	Formation of the BRCA1-PALB2-BRCA2 complex	Protein124	Complex101	
+BiochemicalReaction138	FANCD2 deubiquitination by USP1/UAF1	Complex100	Protein108	
+BiochemicalReaction138	FANCD2 deubiquitination by USP1/UAF1	Complex100	Complex102	
+BiochemicalReaction139	Phosphorylation of FANCD2 by ATR/ATM	Protein106	Protein127	
+BiochemicalReaction139	Phosphorylation of FANCD2 by ATR/ATM	SmallMolecule23	Protein127	
+BiochemicalReaction14	UNG glycosylase mediated recognition and binding of an uracil opposite to a guanine	Protein4	Complex11	
+BiochemicalReaction14	UNG glycosylase mediated recognition and binding of an uracil opposite to a guanine	PhysicalEntity9	Complex11	
+BiochemicalReaction140	Phosphorylation of FANCI by ATM/ATR	Protein123	Protein130	
+BiochemicalReaction15	TDG glycosylase mediated recognition and binding of an ethenocytosine	PhysicalEntity10	Complex12	
+BiochemicalReaction15	TDG glycosylase mediated recognition and binding of an ethenocytosine	Protein5	Complex12	
+BiochemicalReaction16	TDG glycosylase mediated recognition and binding of an thymine opposite to a guanine	PhysicalEntity11	Complex13	
+BiochemicalReaction16	TDG glycosylase mediated recognition and binding of an thymine opposite to a guanine	Protein5	Complex13	
+BiochemicalReaction17	TDG glycosylase mediated recognition and binding of an uracil opposite to a guanine	PhysicalEntity9	Complex14	
+BiochemicalReaction17	TDG glycosylase mediated recognition and binding of an uracil opposite to a guanine	Protein5	Complex14	
+BiochemicalReaction18	hSMUG1 glycosylase mediated recognition and binding of uracil within single-stranded DNA	PhysicalEntity12	Complex15	
+BiochemicalReaction18	hSMUG1 glycosylase mediated recognition and binding of uracil within single-stranded DNA	Protein6	Complex15	
+BiochemicalReaction19	MBD4 glycosylase mediated recognition and binding of a thymine opposite to a guanine at CpG sequences	PhysicalEntity13	Complex16	
+BiochemicalReaction19	MBD4 glycosylase mediated recognition and binding of a thymine opposite to a guanine at CpG sequences	Protein7	Complex16	
+BiochemicalReaction2	MPG glycosylase mediated recognition and binding of ethenoadenine 	Protein1	Complex2	
+BiochemicalReaction2	MPG glycosylase mediated recognition and binding of ethenoadenine 	PhysicalEntity2	Complex2	
+BiochemicalReaction20	MBD4 glycosylase mediated recognition and binding of an uracil opposite to a guanine at CpG sequences	PhysicalEntity14	Complex17	
+BiochemicalReaction20	MBD4 glycosylase mediated recognition and binding of an uracil opposite to a guanine at CpG sequences	Protein7	Complex17	
+BiochemicalReaction21	hNTH1 glycosylase mediated recognition and binding of cytosine glycol	PhysicalEntity15	Complex18	
+BiochemicalReaction21	hNTH1 glycosylase mediated recognition and binding of cytosine glycol	Protein8	Complex18	
+BiochemicalReaction22	hNTH1 glycosylase mediated recognition and binding of dihydrouracil 	PhysicalEntity16	Complex19	
+BiochemicalReaction22	hNTH1 glycosylase mediated recognition and binding of dihydrouracil 	Protein8	Complex19	
+BiochemicalReaction23	hNTH1 glycosylase mediated recognition and binding of formamidopyrimidine	PhysicalEntity6	Complex20	
+BiochemicalReaction23	hNTH1 glycosylase mediated recognition and binding of formamidopyrimidine	Protein8	Complex20	
+BiochemicalReaction24	hNTH1 glycosylase mediated recognition and binding of thymine glycol	PhysicalEntity17	Complex21	
+BiochemicalReaction24	hNTH1 glycosylase mediated recognition and binding of thymine glycol	Protein8	Complex21	
+BiochemicalReaction25	Cleavage of uracil by UNG2 glycosylase	Complex11	Complex22	
+BiochemicalReaction25	Cleavage of uracil by UNG2 glycosylase	Complex11	SmallMolecule6	
+BiochemicalReaction26	Cleavage of 5-hydroxyluracil by UNG2 glycosylase 	Complex10	Complex22	
+BiochemicalReaction26	Cleavage of 5-hydroxyluracil by UNG2 glycosylase 	Complex10	SmallMolecule7	
+BiochemicalReaction27	Cleavage of uracil by TDG glycosylase	Complex14	Complex23	
+BiochemicalReaction27	Cleavage of uracil by TDG glycosylase	Complex14	SmallMolecule6	
+BiochemicalReaction28	Cleavage of  thymine by TDG glycosylase	Complex13	Complex23	
+BiochemicalReaction28	Cleavage of  thymine by TDG glycosylase	Complex13	SmallMolecule8	
+BiochemicalReaction29	Cleavage of uracil by hSMUG1 glycosylase	Complex15	Complex24	
+BiochemicalReaction29	Cleavage of uracil by hSMUG1 glycosylase	Complex15	SmallMolecule6	
+BiochemicalReaction3	MPG glycosylase mediated recognition and binding of hypoxanthine	Protein1	Complex3	
+BiochemicalReaction3	MPG glycosylase mediated recognition and binding of hypoxanthine	PhysicalEntity3	Complex3	
+BiochemicalReaction30	Cleavage of thymine glycol  by hNTH1 glycosylase  	Complex21	Complex25	
+BiochemicalReaction30	Cleavage of thymine glycol  by hNTH1 glycosylase  	Complex21	PhysicalEntity18	
+BiochemicalReaction31	Cleavage of cytosine glycol by hNTH1 glycosylase	Complex18	Complex25	
+BiochemicalReaction31	Cleavage of cytosine glycol by hNTH1 glycosylase	Complex18	PhysicalEntity19	
+BiochemicalReaction32	Cleavage of dihydrouracil by hNTH1 glycosylase	Complex19	SmallMolecule9	
+BiochemicalReaction32	Cleavage of dihydrouracil by hNTH1 glycosylase	Complex19	Complex25	
+BiochemicalReaction33	Cleavage of formamidopyrimidine  by hNTH1 glycosylase 	Complex20	SmallMolecule5	
+BiochemicalReaction33	Cleavage of formamidopyrimidine  by hNTH1 glycosylase 	Complex20	Complex25	
+BiochemicalReaction34	Cleavage of uracil by MBD4 glycosylase	Complex17	Complex26	
+BiochemicalReaction34	Cleavage of uracil by MBD4 glycosylase	Complex17	SmallMolecule6	
+BiochemicalReaction35	Cleavage of  thymine by MBD4 glycosylase	Complex16	Complex26	
+BiochemicalReaction35	Cleavage of  thymine by MBD4 glycosylase	Complex16	SmallMolecule8	
+BiochemicalReaction36	Cleavage of ethenocytosine by TDG glycosylase 	Complex12	Complex23	
+BiochemicalReaction36	Cleavage of ethenocytosine by TDG glycosylase 	Complex12	SmallMolecule10	
+BiochemicalReaction37	Displacement of UNG2 glycosylase by  APE1 at the AP site	Complex22	Protein4	
+BiochemicalReaction37	Displacement of UNG2 glycosylase by  APE1 at the AP site	Protein9	Protein4	
+BiochemicalReaction37	Displacement of UNG2 glycosylase by  APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction37	Displacement of UNG2 glycosylase by  APE1 at the AP site	Complex22	Complex27	
+BiochemicalReaction38	Displacement of TDG glycosylase by APE1 at the AP site	Complex23	Protein5	
+BiochemicalReaction38	Displacement of TDG glycosylase by APE1 at the AP site	Protein9	Protein5	
+BiochemicalReaction38	Displacement of TDG glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction38	Displacement of TDG glycosylase by APE1 at the AP site	Complex23	Complex27	
+BiochemicalReaction39	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Complex24	Complex27	
+BiochemicalReaction39	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction39	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Protein9	Protein6	
+BiochemicalReaction39	Displacement of hSMUG1 glycosylase by APE1 at the AP site	Complex24	Protein6	
+BiochemicalReaction4	MYH glycosylase mediated recognition and binding of an adenine opposite to an 8-oxo guanine	Protein2	Complex4	
+BiochemicalReaction4	MYH glycosylase mediated recognition and binding of an adenine opposite to an 8-oxo guanine	PhysicalEntity4	Complex4	
+BiochemicalReaction40	Displacement of hNTH1 glycosylase by APE1 at the AP site	Complex25	Protein8	
+BiochemicalReaction40	Displacement of hNTH1 glycosylase by APE1 at the AP site	Protein9	Protein8	
+BiochemicalReaction40	Displacement of hNTH1 glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction40	Displacement of hNTH1 glycosylase by APE1 at the AP site	Complex25	Complex27	
+BiochemicalReaction41	Displacement of MBD4 glycosylase by APE1 at the AP site	Complex26	Protein7	
+BiochemicalReaction41	Displacement of MBD4 glycosylase by APE1 at the AP site	Protein9	Protein7	
+BiochemicalReaction41	Displacement of MBD4 glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction41	Displacement of MBD4 glycosylase by APE1 at the AP site	Complex26	Complex27	
+BiochemicalReaction42	Displacement of hOGG1 glycosylase by APE1 at the AP site	Complex9	Protein3	
+BiochemicalReaction42	Displacement of hOGG1 glycosylase by APE1 at the AP site	Protein9	Protein3	
+BiochemicalReaction42	Displacement of hOGG1 glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction42	Displacement of hOGG1 glycosylase by APE1 at the AP site	Complex9	Complex27	
+BiochemicalReaction43	Displacement of MYH glycosylase by APE1 at the AP site	Complex7	Protein2	
+BiochemicalReaction43	Displacement of MYH glycosylase by APE1 at the AP site	Protein9	Protein2	
+BiochemicalReaction43	Displacement of MYH glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction43	Displacement of MYH glycosylase by APE1 at the AP site	Complex7	Complex27	
+BiochemicalReaction44	Displacement of  MPG glycosylase by APE1 at the AP site	Complex8	Protein1	
+BiochemicalReaction44	Displacement of  MPG glycosylase by APE1 at the AP site	Protein9	Protein1	
+BiochemicalReaction44	Displacement of  MPG glycosylase by APE1 at the AP site	Protein9	Complex27	
+BiochemicalReaction44	Displacement of  MPG glycosylase by APE1 at the AP site	Complex8	Complex27	
+BiochemicalReaction45	APE1 mediated endonucleolytic cleavage at the 5' side of the base-free deoxyribose residue 	Complex27	Complex28	
+BiochemicalReaction46	Recruitment of POL Beta to the AP site	Complex28	Complex29	
+BiochemicalReaction46	Recruitment of POL Beta to the AP site	Protein10	Complex29	
+BiochemicalReaction47	Excision of  the abasic sugar phosphate (dRP) residue at the strand break 	Complex29	SmallMolecule11	
+BiochemicalReaction47	Excision of  the abasic sugar phosphate (dRP) residue at the strand break 	Complex29	Complex30	
+BiochemicalReaction47	Excision of  the abasic sugar phosphate (dRP) residue at the strand break 	Complex29	Protein9	
+BiochemicalReaction48	Recruitment  of  LIG3:XRRC1 complex to the site of repair by POL Beta	Complex30	Complex32	
+BiochemicalReaction48	Recruitment  of  LIG3:XRRC1 complex to the site of repair by POL Beta	Complex31	Complex32	
+BiochemicalReaction49	Resynthesis of excised residue	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction49	Resynthesis of excised residue	Complex32	SmallMolecule13	
+BiochemicalReaction49	Resynthesis of excised residue	Complex32	Complex33	
+BiochemicalReaction49	Resynthesis of excised residue	SmallMolecule12	Complex33	
+BiochemicalReaction5	hOGG1 glycosylase mediated recognition and binding of an 8-oxo guanine opposite to a cytosine	Protein3	Complex5	
+BiochemicalReaction5	hOGG1 glycosylase mediated recognition and binding of an 8-oxo guanine opposite to a cytosine	PhysicalEntity5	Complex5	
+BiochemicalReaction50	DNA ligation via the single-nucleotide replacement pathway	Complex33	Complex34	
+BiochemicalReaction51	Dissociation of LIG3:XRCC1 complex from site of BER	Complex34	PhysicalEntity23	
+BiochemicalReaction51	Dissociation of LIG3:XRCC1 complex from site of BER	Complex34	Protein10	
+BiochemicalReaction51	Dissociation of LIG3:XRCC1 complex from site of BER	Complex34	Complex31	
+BiochemicalReaction52	POL Beta mediated incorporation of the first replacement nucleotide	PhysicalEntity24	Complex35	
+BiochemicalReaction52	POL Beta mediated incorporation of the first replacement nucleotide	Complex29	Complex35	
+BiochemicalReaction52	POL Beta mediated incorporation of the first replacement nucleotide	Complex29	SmallMolecule13	
+BiochemicalReaction52	POL Beta mediated incorporation of the first replacement nucleotide	PhysicalEntity24	SmallMolecule13	
+BiochemicalReaction53	POL delta associates with AP site displacing POL Beta	Complex35	Protein10	
+BiochemicalReaction53	POL delta associates with AP site displacing POL Beta	Complex36	Protein10	
+BiochemicalReaction53	POL delta associates with AP site displacing POL Beta	Complex36	Complex37	
+BiochemicalReaction53	POL delta associates with AP site displacing POL Beta	Complex35	Complex37	
+BiochemicalReaction54	DNA strand displacement synthesis	SmallMolecule12	Complex38	
+BiochemicalReaction54	DNA strand displacement synthesis	Complex37	Complex38	
+BiochemicalReaction54	DNA strand displacement synthesis	Complex37	SmallMolecule13	
+BiochemicalReaction54	DNA strand displacement synthesis	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction55	Interaction of APE1 with DNA ligase I	Protein17	Complex39	
+BiochemicalReaction55	Interaction of APE1 with DNA ligase I	Protein9	Complex39	
+BiochemicalReaction56	Interaction of APE1 with FEN1	Protein9	Complex40	
+BiochemicalReaction56	Interaction of APE1 with FEN1	Protein18	Complex40	
+BiochemicalReaction57	Interaction between FEN1 and PCNA	Protein19	Complex41	
+BiochemicalReaction57	Interaction between FEN1 and PCNA	Protein18	Complex41	
+BiochemicalReaction58	Cleavage of  flap structures	Complex38	PhysicalEntity27	
+BiochemicalReaction58	Cleavage of  flap structures	Complex38	Complex42	
+BiochemicalReaction59	Ligation of DNA at sites of patch replacement	Complex42	Complex43	
+BiochemicalReaction6	hOGG1 glycosylase mediated recognition and binding of a formamidopyrimidine	Protein3	Complex6	
+BiochemicalReaction6	hOGG1 glycosylase mediated recognition and binding of a formamidopyrimidine	PhysicalEntity6	Complex6	
+BiochemicalReaction60	Binding of REV1 to lesioned DNA template	Protein20	Complex44	
+BiochemicalReaction60	Binding of REV1 to lesioned DNA template	PhysicalEntity29	Complex44	
+BiochemicalReaction61	Misinsertion of  bases opposite to the lesion by HREV1	Complex44	Complex45	
+BiochemicalReaction62	Elongation by REV1 protein	Complex45	Protein20	
+BiochemicalReaction62	Elongation by REV1 protein	Complex45	PhysicalEntity31	
+BiochemicalReaction63	Binding of Pol eta to lesioned DNA template	Protein21	Complex46	
+BiochemicalReaction63	Binding of Pol eta to lesioned DNA template	PhysicalEntity29	Complex46	
+BiochemicalReaction64	Insertion of correct bases opposite to the lesion by Pol eta	Complex46	Complex47	
+BiochemicalReaction65	Elongation by Pol eta 	Complex47	Protein21	
+BiochemicalReaction65	Elongation by Pol eta 	Complex47	PhysicalEntity31	
+BiochemicalReaction66	Binding of Pol zeta to lesioned DNA template	Complex48	Complex49	
+BiochemicalReaction66	Binding of Pol zeta to lesioned DNA template	PhysicalEntity29	Complex49	
+BiochemicalReaction67	Formation of Pol zeta complex	Protein22	Complex48	
+BiochemicalReaction67	Formation of Pol zeta complex	Protein23	Complex48	
+BiochemicalReaction68	Elongation by Pol zeta complex	Complex49	Complex48	
+BiochemicalReaction68	Elongation by Pol zeta complex	PhysicalEntity24	Complex48	
+BiochemicalReaction68	Elongation by Pol zeta complex	PhysicalEntity24	PhysicalEntity31	
+BiochemicalReaction68	Elongation by Pol zeta complex	Complex49	PhysicalEntity31	
+BiochemicalReaction69	MGMT/hAGT mediated DNA Damage Reversal	PhysicalEntity33	Protein25	
+BiochemicalReaction69	MGMT/hAGT mediated DNA Damage Reversal	Protein24	Protein25	
+BiochemicalReaction69	MGMT/hAGT mediated DNA Damage Reversal	Protein24	PhysicalEntity34	
+BiochemicalReaction69	MGMT/hAGT mediated DNA Damage Reversal	PhysicalEntity33	PhysicalEntity34	
+BiochemicalReaction7	Cleavage 8-oxo guanine  by MYH glycosylase	Complex4	SmallMolecule1	
+BiochemicalReaction7	Cleavage 8-oxo guanine  by MYH glycosylase	Complex4	Complex7	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	PhysicalEntity35	SmallMolecule16	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	PhysicalEntity35	SmallMolecule17	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	PhysicalEntity35	SmallMolecule18	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule15	PhysicalEntity36	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	PhysicalEntity35	PhysicalEntity36	
+BiochemicalReaction70	Oxidative demethylation of 1-MeA damaged DNA By ABH2	SmallMolecule14	PhysicalEntity36	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	PhysicalEntity37	SmallMolecule16	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	PhysicalEntity37	SmallMolecule17	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	PhysicalEntity37	SmallMolecule18	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	PhysicalEntity37	PhysicalEntity36	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule15	PhysicalEntity36	
+BiochemicalReaction71	Oxidative demethylation of 3-MeC damaged DNA By ABH2	SmallMolecule14	PhysicalEntity36	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	PhysicalEntity38	SmallMolecule16	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	PhysicalEntity38	SmallMolecule18	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	PhysicalEntity38	PhysicalEntity36	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule15	PhysicalEntity36	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule14	PhysicalEntity36	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	PhysicalEntity38	SmallMolecule20	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction72	Oxidative demethylation of 1-EtA damaged DNA By ABH2	SmallMolecule14	SmallMolecule20	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	PhysicalEntity35	SmallMolecule16	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	PhysicalEntity35	SmallMolecule17	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	PhysicalEntity35	SmallMolecule18	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule15	PhysicalEntity36	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	PhysicalEntity35	PhysicalEntity36	
+BiochemicalReaction73	Oxidative demethylation of 1-MeA damaged DNA By ABH3	SmallMolecule14	PhysicalEntity36	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	PhysicalEntity37	SmallMolecule16	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	PhysicalEntity37	SmallMolecule17	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	PhysicalEntity37	SmallMolecule18	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	PhysicalEntity37	PhysicalEntity36	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule15	PhysicalEntity36	
+BiochemicalReaction74	Oxidative demethylation of 3-MeC damaged DNA By ABH3	SmallMolecule14	PhysicalEntity36	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	PhysicalEntity38	SmallMolecule16	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	PhysicalEntity38	SmallMolecule18	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	PhysicalEntity38	PhysicalEntity36	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule15	PhysicalEntity36	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule14	PhysicalEntity36	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	PhysicalEntity38	SmallMolecule20	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction75	Oxidative demethylation of 1-EtA damaged DNA By ABH3	SmallMolecule14	SmallMolecule20	
+BiochemicalReaction76	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction76	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	Complex50	SmallMolecule22	
+BiochemicalReaction76	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	Complex50	Complex51	
+BiochemicalReaction76	Intermolecular autophosphorylation of ATM within dimeric ATM complexes	SmallMolecule21	Complex51	
+BiochemicalReaction77	Dissociation of dimeric phospho-ATM complexes	Complex51	Protein29	
+BiochemicalReaction78	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction78	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	Protein30	SmallMolecule22	
+BiochemicalReaction78	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	Protein30	Protein31	
+BiochemicalReaction78	Phosphorylation of histone H2AX at Serine-139 by ATM at the site of DSB	SmallMolecule21	Protein31	
+BiochemicalReaction79	Phosphorylation of  BRCA1 at multiple sites by ATM	Protein32	SmallMolecule22	
+BiochemicalReaction79	Phosphorylation of  BRCA1 at multiple sites by ATM	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction79	Phosphorylation of  BRCA1 at multiple sites by ATM	SmallMolecule21	Protein33	
+BiochemicalReaction79	Phosphorylation of  BRCA1 at multiple sites by ATM	Protein32	Protein33	
+BiochemicalReaction8	Cleavage of 3-methyladenine by MPG glycosylase 	Complex1	Complex8	
+BiochemicalReaction8	Cleavage of 3-methyladenine by MPG glycosylase 	Complex1	SmallMolecule2	
+BiochemicalReaction80	Phosphorylation of  NBS1 by ATM	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction80	Phosphorylation of  NBS1 by ATM	Protein35	SmallMolecule22	
+BiochemicalReaction80	Phosphorylation of  NBS1 by ATM	Protein35	Protein36	
+BiochemicalReaction80	Phosphorylation of  NBS1 by ATM	SmallMolecule21	Protein36	
+BiochemicalReaction81	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	SmallMolecule21	Protein37	
+BiochemicalReaction81	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	Protein34	Protein37	
+BiochemicalReaction81	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	Protein34	SmallMolecule22	
+BiochemicalReaction81	Phosphorylation of MDC1/NFBD1 by ATM (within  2 c-term BRCT domains)	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction82	MDC1/NFBD1 associates with gamma H2AX at nuclear foci	Complex52	Complex53	
+BiochemicalReaction82	MDC1/NFBD1 associates with gamma H2AX at nuclear foci	Protein34	Complex53	
+BiochemicalReaction83	phospho-ATM (Serine 1981) associates with DNA at the site of double-strand breaks	Protein29	Complex55	
+BiochemicalReaction83	phospho-ATM (Serine 1981) associates with DNA at the site of double-strand breaks	Complex54	Complex55	
+BiochemicalReaction84	53BP1 associates with gamma H2AX at nuclear foci	Protein38	Complex56	
+BiochemicalReaction84	53BP1 associates with gamma H2AX at nuclear foci	Complex53	Complex56	
+BiochemicalReaction85	Association of gamma-H2AX with NBS1 	Complex52	Complex57	
+BiochemicalReaction85	Association of gamma-H2AX with NBS1 	Protein35	Complex57	
+BiochemicalReaction86	Formation of RAD50:MRE11 complex	Protein39	Complex58	
+BiochemicalReaction86	Formation of RAD50:MRE11 complex	Protein40	Complex58	
+BiochemicalReaction87	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Complex58	Complex59	
+BiochemicalReaction87	Association of RAD50:MRE11 complex with NBS1 via MRE11 interaction 	Protein35	Complex59	
+BiochemicalReaction88	Association of MRN with sites of DSB 	Complex57	Complex60	
+BiochemicalReaction88	Association of MRN with sites of DSB 	Complex59	Complex60	
+BiochemicalReaction89	BRCA1 associates with 53BP1at the site of DNA double-strand break	Protein32	Complex61	
+BiochemicalReaction89	BRCA1 associates with 53BP1at the site of DNA double-strand break	Complex56	Complex61	
+BiochemicalReaction9	Cleavage of ethenoadenine by MPG glycosylase	Complex2	SmallMolecule3	
+BiochemicalReaction9	Cleavage of ethenoadenine by MPG glycosylase	Complex2	Complex8	
+BiochemicalReaction90	Resection of double-strand break ends	PhysicalEntity39	PhysicalEntity40	
+BiochemicalReaction91	Association of  RPA complexes with ssDNA	PhysicalEntity41	Complex63	
+BiochemicalReaction91	Association of  RPA complexes with ssDNA	Complex62	Complex63	
+BiochemicalReaction92	Association of RAD51 with BRCA2	Protein44	Complex64	
+BiochemicalReaction92	Association of RAD51 with BRCA2	Protein45	Complex64	
+BiochemicalReaction93	Formation of RAD52 heptameric ring structure complexes on ssDNA	Complex63	Complex65	
+BiochemicalReaction93	Formation of RAD52 heptameric ring structure complexes on ssDNA	Protein46	Complex65	
+BiochemicalReaction94	Association of RAD52 with the RPA complex	Complex62	Complex67	
+BiochemicalReaction94	Association of RAD52 with the RPA complex	Protein46	Complex67	
+BiochemicalReaction95	Association of RAD52 with ssDNA at resected ends of double-strand break 	PhysicalEntity40	Complex68	
+BiochemicalReaction95	Association of RAD52 with ssDNA at resected ends of double-strand break 	Protein46	Complex68	
+BiochemicalReaction96	Association of RAD51 with RAD52:DNA double-strand break ends	Protein45	Complex69	
+BiochemicalReaction96	Association of RAD51 with RAD52:DNA double-strand break ends	Complex68	Complex69	
+BiochemicalReaction97	Association of RAD51 with the RPA complex	Complex63	Complex70	
+BiochemicalReaction97	Association of RAD51 with the RPA complex	Protein45	Complex70	
+BiochemicalReaction98	Association of RAD51 with the resected ends of the DNA double-strand break	PhysicalEntity40	Complex71	
+BiochemicalReaction98	Association of RAD51 with the resected ends of the DNA double-strand break	Protein45	Complex71	
+BiochemicalReaction99	Strand exchange/Branch migration	PhysicalEntity42	PhysicalEntity43	

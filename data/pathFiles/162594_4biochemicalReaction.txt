@@ -1,0 +1,85 @@
+BiochemicalReaction1	Binding of gp120 of ENV oligomer to the host CD4	Protein1	Complex7	
+BiochemicalReaction1	Binding of gp120 of ENV oligomer to the host CD4	Complex1	Complex7	
+BiochemicalReaction10	Disassembly of viral capsid	Complex38	PhysicalEntity4	
+BiochemicalReaction10	Disassembly of viral capsid	Complex38	Complex39	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Protein24	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Complex40	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Protein32	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Rna3	
+BiochemicalReaction12	Annealing of 3'-end of unwound transfer RNA primer with genomic RNA	Complex40	Complex41	
+BiochemicalReaction12	Annealing of 3'-end of unwound transfer RNA primer with genomic RNA	PhysicalEntity6	Complex41	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	Complex41	SmallMolecule6	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	SmallMolecule1	Complex43	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	Complex41	Complex43	
+BiochemicalReaction14	RNase H-mediated cleavage of the RNA strand of the -sssDNA:RNA duplex	Complex43	Complex45	
+BiochemicalReaction15	RNase H-mediated degradation of the RNA strand of the -sssDNA:RNA duplex	Complex45	Complex47	
+BiochemicalReaction16	First strand transfer mediated by Repeated (R) sequence	Complex47	Complex49	
+BiochemicalReaction17	Minus strand DNA synthesis resumes	Complex49	Complex51	
+BiochemicalReaction18	RNase H-mediated cleavage of the template strand	Complex51	Complex52	
+BiochemicalReaction19	RNase H-mediated degradation of the template strand	Complex52	Complex54	
+BiochemicalReaction2	Conformational change in gp120 of Env oligomer	Complex7	Complex9	
+BiochemicalReaction20	 	Complex54	Complex55	
+BiochemicalReaction21	RNase H-mediated digestion of tRNA, 3'PPT and cPPT RNA primers	Complex55	Complex56	
+BiochemicalReaction22	Second strand transfer by annealing complementary PBS sequences	Complex56	Complex57	
+BiochemicalReaction23	Synthesis of full-length duplex viral DNA with a discontinuous plus strand	Complex57	Complex58	
+BiochemicalReaction24	Removal of plus-strand flap and gap closure complete synthesis of linear duplex viral DNA	Complex58	Complex59	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Complex59	Protein27	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein45	Protein27	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein46	Protein27	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein47	Protein27	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein47	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein46	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein45	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Complex59	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein47	Complex61	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein46	Complex61	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein45	Complex61	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Complex59	Complex61	
+BiochemicalReaction26	Integrase binds viral DNA ends	Complex61	Complex62	
+BiochemicalReaction27	Terminal (3' end) cleavage of viral DNA	Complex62	Complex64	
+BiochemicalReaction28	Import of PIC to the Host Nucleus	Complex64	Complex67	
+BiochemicalReaction29	Target DNA binding	Complex67	Complex70	
+BiochemicalReaction29	Target DNA binding	PhysicalEntity19	Complex70	
+BiochemicalReaction29	Target DNA binding	PhysicalEntity19	Complex71	
+BiochemicalReaction29	Target DNA binding	Complex67	Complex71	
+BiochemicalReaction3	CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4	Complex9	Complex13	
+BiochemicalReaction3	CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4	Protein20	Complex13	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex70	Complex71	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex71	Complex71	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex71	Complex72	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex70	Complex72	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex71	Complex71	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex72	Complex71	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex72	Complex74	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex71	Complex74	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex72	Protein51	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex71	Protein51	
+BiochemicalReaction32	1-LTR circle formation	Complex67	Complex71	
+BiochemicalReaction32	1-LTR circle formation	Complex67	Complex76	
+BiochemicalReaction32	1-LTR circle formation	Complex67	Protein51	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex77	Complex78	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex67	Complex78	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex67	Complex71	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex77	Complex71	
+BiochemicalReaction34	Association of  XRCC4:DNA ligase IV complex with viral DNA ends	Complex78	Complex80	
+BiochemicalReaction34	Association of  XRCC4:DNA ligase IV complex with viral DNA ends	Complex79	Complex80	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Complex77	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Complex79	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Protein51	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Complex81	
+BiochemicalReaction36	Suicidal integration leading to inverted circle formation	Complex67	Complex82	
+BiochemicalReaction36	Suicidal integration leading to inverted circle formation	Complex67	Complex71	
+BiochemicalReaction36	Suicidal integration leading to inverted circle formation	Complex67	Protein51	
+BiochemicalReaction37	Suicidal integration leading to smaller circles of viral DNA	Complex67	Complex71	
+BiochemicalReaction37	Suicidal integration leading to smaller circles of viral DNA	Complex67	Protein51	
+BiochemicalReaction37	Suicidal integration leading to smaller circles of viral DNA	Complex67	Complex83	
+BiochemicalReaction4	Conformational changes in gp120 exposes gp41	Complex13	Complex15	
+BiochemicalReaction5	Fusogenic activation of gp41	Complex15	Complex20	
+BiochemicalReaction6	Insertion of gp41 fusion peptide into the target membrane	Complex20	Complex25	
+BiochemicalReaction7	N and C terminal heptad repeat helices of gp41 form six-helix bundle	Complex25	Complex30	
+BiochemicalReaction8	Fusion of viral membrane with host cell membrane	Complex30	Complex35	
+BiochemicalReaction8	Fusion of viral membrane with host cell membrane	Complex30	Complex31	
+BiochemicalReaction9	Disintegration of matrix layer	Complex35	Complex38	
+BiochemicalReaction9	Disintegration of matrix layer	Complex35	Protein39	
+BiochemicalReaction9	Disintegration of matrix layer	Complex35	Protein38	

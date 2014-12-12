@@ -1,0 +1,10 @@
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein2	
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein3	
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein4	
+BiochemicalReaction1	Caspase-1 precursor is cleaved releasing p10 and p20 subunits	Protein1	Protein5	
+BiochemicalReaction2	Formation of caspase-1 p10/p20 dimer	Protein2	Complex1	
+BiochemicalReaction2	Formation of caspase-1 p10/p20 dimer	Protein3	Complex1	
+BiochemicalReaction3	Caspase-1 active tetramer formation	Complex1	Complex2	
+BiochemicalReaction4	Interleukin-1 family precursors are cleaved by caspase-1	Protein6	Protein10	
+BiochemicalReaction4	Interleukin-1 family precursors are cleaved by caspase-1	Protein6	Protein14	
+BiochemicalReaction5	Interleukin-1 family are secreted	Protein14	Protein22	

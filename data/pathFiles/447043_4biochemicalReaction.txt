@@ -1,0 +1,18 @@
+BiochemicalReaction1	Neurofascin binds Ankyrin-G	Protein1	Complex1	
+BiochemicalReaction1	Neurofascin binds Ankyrin-G	Protein2	Complex1	
+BiochemicalReaction2	Trans-homodimerization of Neurofascin	Protein2	Complex2	
+BiochemicalReaction2	Trans-homodimerization of Neurofascin	Complex1	Complex2	
+BiochemicalReaction3	Neurofascin and NrCAM heterodimerization	Protein2	Complex3	
+BiochemicalReaction3	Neurofascin and NrCAM heterodimerization	Protein3	Complex3	
+BiochemicalReaction4	Phosphorylation of Neurofascin	Complex2	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of Neurofascin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of Neurofascin	SmallMolecule1	Protein1	
+BiochemicalReaction4	Phosphorylation of Neurofascin	Complex2	Protein1	
+BiochemicalReaction4	Phosphorylation of Neurofascin	SmallMolecule1	Complex4	
+BiochemicalReaction4	Phosphorylation of Neurofascin	Complex2	Complex4	
+BiochemicalReaction5	Doublecortin binds phosphorylated neurofascin	Protein5	Complex5	
+BiochemicalReaction5	Doublecortin binds phosphorylated neurofascin	Complex4	Complex5	
+BiochemicalReaction6	Neurofascin interacts with syntenin-1	Protein6	Complex6	
+BiochemicalReaction6	Neurofascin interacts with syntenin-1	Protein2	Complex6	
+BiochemicalReaction7	Neurofascin binds contactin-1:CASPR complex	Protein2	Complex8	
+BiochemicalReaction7	Neurofascin binds contactin-1:CASPR complex	Complex7	Complex8	

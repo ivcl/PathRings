@@ -1,0 +1,7 @@
+Complex1	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein1	
+Complex2	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Dna1	
+Complex2	p-S15-TP53 Tetramer:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331345	Complex1	
+Complex3	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein3	
+Complex3	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein4	
+Complex4	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Dna1	
+Complex4	E2F1:TFDP1:BBC3 Gene	nucleoplasm	Reactome DB_ID: 4331325	Complex3	

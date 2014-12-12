@@ -1,0 +1,14 @@
+Complex1	DNA polymerase alpha:primase:DNA polymerase alpha:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174473	Complex2	
+Complex1	DNA polymerase alpha:primase:DNA polymerase alpha:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174473	Complex3	
+Complex2	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein1	
+Complex2	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein2	
+Complex2	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein3	
+Complex2	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein4	
+Complex3	DNA polymerase epsilon:G-strand extended telomere end	nucleoplasm	Reactome DB_ID: 174471	Complex4	
+Complex4	DNA polymerase epsilon	nucleoplasm	Reactome DB_ID: 68483	Protein5	
+Complex4	DNA polymerase epsilon	nucleoplasm	Reactome DB_ID: 68483	Protein6	
+Complex5	RNA primer:G-strand extended telomere end:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 174434	SmallMolecule6	
+Complex5	RNA primer:G-strand extended telomere end:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 174434	PhysicalEntity1	
+Complex5	RNA primer:G-strand extended telomere end:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 174434	Complex2	
+Complex6	RNA primer-DNA primer:G-strand extended telomere	nucleoplasm	Reactome DB_ID: 174433	PhysicalEntity2	
+Complex6	RNA primer-DNA primer:G-strand extended telomere	nucleoplasm	Reactome DB_ID: 174433	Complex5	

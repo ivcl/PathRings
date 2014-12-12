@@ -1,0 +1,34 @@
+BiochemicalReaction1	CDK1:CCNB phosphorylates NEK9	Complex1	SmallMolecule2	
+BiochemicalReaction1	CDK1:CCNB phosphorylates NEK9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	CDK1:CCNB phosphorylates NEK9	SmallMolecule1	Complex2	
+BiochemicalReaction1	CDK1:CCNB phosphorylates NEK9	Complex1	Complex2	
+BiochemicalReaction2	PLK1 phosphorylates NEK9	Complex2	SmallMolecule2	
+BiochemicalReaction2	PLK1 phosphorylates NEK9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	PLK1 phosphorylates NEK9	SmallMolecule1	Complex6	
+BiochemicalReaction2	PLK1 phosphorylates NEK9	Complex2	Complex6	
+BiochemicalReaction3	NEK9 binds NEK6/NEK7 in the cytosol	Protein8	Complex7	
+BiochemicalReaction3	NEK9 binds NEK6/NEK7 in the cytosol	Complex6	Complex7	
+BiochemicalReaction4	NEK9 phosphorylates NEK6/NEK7	Complex7	SmallMolecule2	
+BiochemicalReaction4	NEK9 phosphorylates NEK6/NEK7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	NEK9 phosphorylates NEK6/NEK7	SmallMolecule1	Complex8	
+BiochemicalReaction4	NEK9 phosphorylates NEK6/NEK7	Complex7	Complex8	
+BiochemicalReaction5	CDK1 phosphorylates NUP98	Complex9	SmallMolecule2	
+BiochemicalReaction5	CDK1 phosphorylates NUP98	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	CDK1 phosphorylates NUP98	SmallMolecule1	Complex12	
+BiochemicalReaction5	CDK1 phosphorylates NUP98	Complex9	Complex12	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	Complex12	SmallMolecule2	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	Complex12	Complex13	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	SmallMolecule1	Complex13	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	Complex12	Protein48	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	SmallMolecule1	Protein48	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	Complex12	Protein51	
+BiochemicalReaction6	NEK6/NEK7 phosphorylates NUP98	SmallMolecule1	Protein51	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	Complex14	SmallMolecule4	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	Complex14	PhysicalEntity1	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	SmallMolecule3	PhysicalEntity1	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	Complex14	Complex19	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	SmallMolecule3	Complex19	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	Complex14	Complex20	
+BiochemicalReaction7	VRK1/VRK2 phosphorylate BANF1	SmallMolecule3	Complex20	

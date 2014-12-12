@@ -1,0 +1,85 @@
+BiochemicalReaction1	The common beta chain IL3RB binds JAK2	Protein1	Complex1	
+BiochemicalReaction1	The common beta chain IL3RB binds JAK2	Protein2	Complex1	
+BiochemicalReaction10	JAK2 is phosphorylated, activated	Complex10	SmallMolecule2	
+BiochemicalReaction10	JAK2 is phosphorylated, activated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	JAK2 is phosphorylated, activated	SmallMolecule1	Complex14	
+BiochemicalReaction10	JAK2 is phosphorylated, activated	Complex10	Complex14	
+BiochemicalReaction11	STAT5 is recruited by JAK2	Protein10	Complex22	
+BiochemicalReaction11	STAT5 is recruited by JAK2	Complex14	Complex22	
+BiochemicalReaction12	Activation of STAT5a/b by JAK2	SmallMolecule1	Complex26	
+BiochemicalReaction12	Activation of STAT5a/b by JAK2	Complex22	Complex26	
+BiochemicalReaction12	Activation of STAT5a/b by JAK2	Complex22	SmallMolecule2	
+BiochemicalReaction12	Activation of STAT5a/b by JAK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	p-STAT5 is released from the receptor complex	Complex26	Protein13	
+BiochemicalReaction13	p-STAT5 is released from the receptor complex	Complex26	Complex14	
+BiochemicalReaction14	Phosphorylated STAT5 forms dimers	Protein13	Complex30	
+BiochemicalReaction15	STAT5 dimers translocate to the nucleus and bind to specific DNA sequences	Complex30	Complex31	
+BiochemicalReaction16	Tyrosine kinases phosphorylate the receptor	Complex10	SmallMolecule2	
+BiochemicalReaction16	Tyrosine kinases phosphorylate the receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Tyrosine kinases phosphorylate the receptor	SmallMolecule1	Complex32	
+BiochemicalReaction16	Tyrosine kinases phosphorylate the receptor	Complex10	Complex32	
+BiochemicalReaction17	Recruitment of SHC1 is mediated by Y593 of the common beta chain	Complex32	Complex42	
+BiochemicalReaction17	Recruitment of SHC1 is mediated by Y593 of the common beta chain	Protein20	Complex42	
+BiochemicalReaction18	SHC1 bound to the common beta chain becomes tyrosine phosphorylated	Complex42	Complex46	
+BiochemicalReaction19	Phosphorylated SHC1 recruits GRB2:GAB2	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction19	Phosphorylated SHC1 recruits GRB2:GAB2	Complex53	PhysicalEntity2	
+BiochemicalReaction2	GM-CSF receptor alpha subunit binds GM-CSF	Protein3	Complex2	
+BiochemicalReaction2	GM-CSF receptor alpha subunit binds GM-CSF	Protein4	Complex2	
+BiochemicalReaction20	SHC1 mediates cytokine-induced phosphorylation of GAB2	SmallMolecule1	PhysicalEntity3	
+BiochemicalReaction20	SHC1 mediates cytokine-induced phosphorylation of GAB2	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction20	SHC1 mediates cytokine-induced phosphorylation of GAB2	PhysicalEntity2	SmallMolecule2	
+BiochemicalReaction20	SHC1 mediates cytokine-induced phosphorylation of GAB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	Gab2 binds the p85 subunit of Class 1A PI3 kinases	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction21	Gab2 binds the p85 subunit of Class 1A PI3 kinases	Complex70	PhysicalEntity4	
+BiochemicalReaction22	Phosphorylated SHC recruits GRB2:SOS1	PhysicalEntity1	Complex80	
+BiochemicalReaction22	Phosphorylated SHC recruits GRB2:SOS1	Complex79	Complex80	
+BiochemicalReaction23	SOS1 activates H-Ras	SmallMolecule3	Complex82	
+BiochemicalReaction23	SOS1 activates H-Ras	Complex81	Complex82	
+BiochemicalReaction23	SOS1 activates H-Ras	Complex81	SmallMolecule4	
+BiochemicalReaction23	SOS1 activates H-Ras	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction24	Phosphorylated SHC1 recruits SHIP	PhysicalEntity1	Complex83	
+BiochemicalReaction24	Phosphorylated SHC1 recruits SHIP	Protein41	Complex83	
+BiochemicalReaction25	The SHC1:SHIP1 complex is stabilized by GRB2	Complex84	Complex85	
+BiochemicalReaction25	The SHC1:SHIP1 complex is stabilized by GRB2	Protein30	Complex85	
+BiochemicalReaction26	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein45	Complex86	
+BiochemicalReaction26	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein30	Complex86	
+BiochemicalReaction26	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Protein46	Complex86	
+BiochemicalReaction26	CBL, GRB2, FYN and PI3K p85 subunit are constitutively associated	Complex70	Complex86	
+BiochemicalReaction27	CBL is tyrosine phosphorylated	Complex86	SmallMolecule2	
+BiochemicalReaction27	CBL is tyrosine phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	CBL is tyrosine phosphorylated	SmallMolecule1	Complex87	
+BiochemicalReaction27	CBL is tyrosine phosphorylated	Complex86	Complex87	
+BiochemicalReaction28	CBL ubiquitinates PI3K	Complex87	Complex88	
+BiochemicalReaction28	CBL ubiquitinates PI3K	PhysicalEntity5	Complex88	
+BiochemicalReaction29	CBL binds CRK	Protein52	Complex93	
+BiochemicalReaction29	CBL binds CRK	Protein57	Complex93	
+BiochemicalReaction3	GM-CSF receptor alpha:GM-CSF binds Bc	Complex2	Complex3	
+BiochemicalReaction3	GM-CSF receptor alpha:GM-CSF binds Bc	Complex1	Complex3	
+BiochemicalReaction30	CBL:CRKL binds RAPGEF1	Protein60	Complex94	
+BiochemicalReaction30	CBL:CRKL binds RAPGEF1	Complex93	Complex94	
+BiochemicalReaction31	CBL binds B-cell linker protein	Protein52	Complex95	
+BiochemicalReaction31	CBL binds B-cell linker protein	Protein61	Complex95	
+BiochemicalReaction32	CBL binds VAV	Protein52	Complex96	
+BiochemicalReaction32	CBL binds VAV	Protein62	Complex96	
+BiochemicalReaction33	IL3 stimulation induces Vav binding to Tec kinase	Protein63	Complex97	
+BiochemicalReaction33	IL3 stimulation induces Vav binding to Tec kinase	Protein62	Complex97	
+BiochemicalReaction34	SHP1 and SHP2 bind the common beta chain	Protein64	Complex98	
+BiochemicalReaction34	SHP1 and SHP2 bind the common beta chain	Complex32	Complex98	
+BiochemicalReaction35	SHP1 and SHP2 dephosphorylate Y628 of IL3RB	Complex98	Complex99	
+BiochemicalReaction36	SHP2 can recruit GRB2	Protein30	Complex108	
+BiochemicalReaction36	SHP2 can recruit GRB2	Protein65	Complex108	
+BiochemicalReaction37	IL3RB is phosphorylated on Ser-585	Complex10	Complex109	
+BiochemicalReaction38	p-S585-IL3RB binds 14-3-3 proteins	Protein72	Complex117	
+BiochemicalReaction38	p-S585-IL3RB binds 14-3-3 proteins	Complex109	Complex117	
+BiochemicalReaction39	14-3-3 zeta binding allows recruitment of PI3K	Complex117	Complex118	
+BiochemicalReaction39	14-3-3 zeta binding allows recruitment of PI3K	Complex70	Complex118	
+BiochemicalReaction4	Interleukin-5 is a homodimer	Protein5	Complex4	
+BiochemicalReaction5	Interleukin-5 receptor alpha subunit binds Interleukin-5	Complex4	Complex5	
+BiochemicalReaction5	Interleukin-5 receptor alpha subunit binds Interleukin-5	Protein6	Complex5	
+BiochemicalReaction6	Interleukin-5:Interleukin-5 receptor alpha binds IL3RB:JAK2	Complex1	Complex6	
+BiochemicalReaction6	Interleukin-5:Interleukin-5 receptor alpha binds IL3RB:JAK2	Complex5	Complex6	
+BiochemicalReaction7	Interleukin-3 receptor alpha subunit binds Interleukin-3	Protein7	Complex7	
+BiochemicalReaction7	Interleukin-3 receptor alpha subunit binds Interleukin-3	Protein8	Complex7	
+BiochemicalReaction8	Interleukin-3 receptor alpha: Interleukin-3 binds IL3RB:JAK2	Complex1	Complex8	
+BiochemicalReaction8	Interleukin-3 receptor alpha: Interleukin-3 binds IL3RB:JAK2	Complex7	Complex8	
+BiochemicalReaction9	The receptor is activated	Complex9	Complex10	

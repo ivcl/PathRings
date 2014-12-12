@@ -1,0 +1,20 @@
+BiochemicalReaction1	PPBSF is a complex of IL7 and HGFbeta	Protein1	Complex1	
+BiochemicalReaction1	PPBSF is a complex of IL7 and HGFbeta	Protein2	Complex1	
+BiochemicalReaction2	IL7RA associates with JAK1	Protein3	Complex2	
+BiochemicalReaction2	IL7RA associates with JAK1	Protein4	Complex2	
+BiochemicalReaction3	IL2RG associates with JAK3	Protein5	Complex3	
+BiochemicalReaction3	IL2RG associates with JAK3	Protein6	Complex3	
+BiochemicalReaction4	Interleukin-7 binds IL7RA:JAK1	Protein1	Complex4	
+BiochemicalReaction4	Interleukin-7 binds IL7RA:JAK1	Complex2	Complex4	
+BiochemicalReaction5	Interleukin-7:IL7RA:JAK1 binds Gc:JAK3	Complex3	Complex5	
+BiochemicalReaction5	Interleukin-7:IL7RA:JAK1 binds Gc:JAK3	Complex4	Complex5	
+BiochemicalReaction6	IL7RA is phosphorylated on Y449	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	IL7RA is phosphorylated on Y449	Complex5	SmallMolecule2	
+BiochemicalReaction6	IL7RA is phosphorylated on Y449	Complex5	Complex6	
+BiochemicalReaction6	IL7RA is phosphorylated on Y449	SmallMolecule1	Complex6	
+BiochemicalReaction7	p(Y449)-IL7RA mediates STAT5 activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	p(Y449)-IL7RA mediates STAT5 activation	Protein8	SmallMolecule2	
+BiochemicalReaction7	p(Y449)-IL7RA mediates STAT5 activation	Protein8	Protein11	
+BiochemicalReaction7	p(Y449)-IL7RA mediates STAT5 activation	SmallMolecule1	Protein11	
+BiochemicalReaction8	p85 binds p(Y449)-IL7RA	Complex6	Complex9	
+BiochemicalReaction8	p85 binds p(Y449)-IL7RA	Protein14	Complex9	

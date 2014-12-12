@@ -1,0 +1,39 @@
+BiochemicalReaction1	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	RNA Polymerase II Promoter Opening: First Transition	Complex1	SmallMolecule2	
+BiochemicalReaction1	RNA Polymerase II Promoter Opening: First Transition	Complex1	SmallMolecule3	
+BiochemicalReaction1	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	RNA Polymerase II Promoter Opening: First Transition	Complex1	Complex13	
+BiochemicalReaction1	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule1	Complex13	
+BiochemicalReaction2	NTP Binds Active Site of RNA Polymerase II	Complex13	Complex14	
+BiochemicalReaction2	NTP Binds Active Site of RNA Polymerase II	SmallMolecule4	Complex14	
+BiochemicalReaction3	Nucleophillic Attack by 3'-hydroxyl Oxygen of nascent transcript on the Alpha Phosphate of NTP	Complex14	Complex16	
+BiochemicalReaction4	Newly Formed Phosphodiester Bond Stabilized and PPi Released	Complex16	Complex17	
+BiochemicalReaction4	Newly Formed Phosphodiester Bond Stabilized and PPi Released	Complex16	SmallMolecule8	
+BiochemicalReaction5	Addition of the third nucleotide on the nascent transcript	Complex17	SmallMolecule8	
+BiochemicalReaction5	Addition of the third nucleotide on the nascent transcript	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction5	Addition of the third nucleotide on the nascent transcript	SmallMolecule4	Complex18	
+BiochemicalReaction5	Addition of the third nucleotide on the nascent transcript	Complex17	Complex18	
+BiochemicalReaction6	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule4	Protein3	
+BiochemicalReaction6	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex18	Protein3	
+BiochemicalReaction6	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex18	Complex19	
+BiochemicalReaction6	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule4	Complex19	
+BiochemicalReaction6	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex18	SmallMolecule8	
+BiochemicalReaction6	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule4	Complex20	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex19	Complex20	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex19	Complex2	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule4	Complex2	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex19	Complex6	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule4	Complex6	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex19	Complex7	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule4	Complex7	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex19	SmallMolecule8	
+BiochemicalReaction7	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction8	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	Complex20	Complex21	
+BiochemicalReaction8	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	SmallMolecule4	Complex21	
+BiochemicalReaction8	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction8	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	Complex20	SmallMolecule8	
+BiochemicalReaction9	Addition of nucleotides between position +11 and +30	Complex21	Complex22	
+BiochemicalReaction9	Addition of nucleotides between position +11 and +30	SmallMolecule4	Complex22	
+BiochemicalReaction9	Addition of nucleotides between position +11 and +30	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction9	Addition of nucleotides between position +11 and +30	Complex21	SmallMolecule8	

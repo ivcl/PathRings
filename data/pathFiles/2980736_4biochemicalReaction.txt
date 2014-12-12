@@ -1,0 +1,84 @@
+BiochemicalReaction1	Oxidation of Cysteine to Cystine in Proinsulin	Protein1	Protein2	
+BiochemicalReaction10	Octanoylation of Proghrelin by Ghrelin O-acyltransferase	Protein41	Protein47	
+BiochemicalReaction10	Octanoylation of Proghrelin by Ghrelin O-acyltransferase	SmallMolecule5	Protein47	
+BiochemicalReaction11	Decanoylation of Proghrelin by Ghrelin O-acyltransferase	SmallMolecule6	Protein49	
+BiochemicalReaction11	Decanoylation of Proghrelin by Ghrelin O-acyltransferase	Protein41	Protein49	
+BiochemicalReaction12	Cleavage of Acyl Proghrelin by Prohormone Convertase 1/3	Protein50	Protein53	
+BiochemicalReaction12	Cleavage of Acyl Proghrelin by Prohormone Convertase 1/3	Protein50	Protein58	
+BiochemicalReaction13	Secretion of Acyl Ghrelin and C-Ghrelin	Protein53	Protein59	
+BiochemicalReaction13	Secretion of Acyl Ghrelin and C-Ghrelin	Protein58	Protein59	
+BiochemicalReaction13	Secretion of Acyl Ghrelin and C-Ghrelin	Protein58	Protein64	
+BiochemicalReaction13	Secretion of Acyl Ghrelin and C-Ghrelin	Protein53	Protein64	
+BiochemicalReaction14	Deacylation of Acyl Ghrelin	Protein59	Protein71	
+BiochemicalReaction15	Renin Hydrolyzes Angiotensinogen to Yield Angiotensin I	SmallMolecule9	Protein79	
+BiochemicalReaction15	Renin Hydrolyzes Angiotensinogen to Yield Angiotensin I	Protein78	Protein79	
+BiochemicalReaction16	Renin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	SmallMolecule9	Protein79	
+BiochemicalReaction16	Renin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	Protein78	Protein79	
+BiochemicalReaction17	Prorenin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	SmallMolecule9	Protein79	
+BiochemicalReaction17	Prorenin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	Protein78	Protein79	
+BiochemicalReaction18	ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	Protein79	Protein88	
+BiochemicalReaction18	ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	SmallMolecule9	Protein88	
+BiochemicalReaction19	Secreted ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	Protein79	Protein88	
+BiochemicalReaction19	Secreted ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	SmallMolecule9	Protein88	
+BiochemicalReaction2	Translocation of Cystine-bonded Proinsulin from the Endoplasmic Reticulum to the Golgi	Protein2	Protein6	
+BiochemicalReaction20	Chymase Hydrolyzes Angiotensin I to Yield Angiotensin II	Protein79	Protein88	
+BiochemicalReaction20	Chymase Hydrolyzes Angiotensin I to Yield Angiotensin II	SmallMolecule9	Protein88	
+BiochemicalReaction21	Cathepsin G Hydrolyzes Angiotensin I to Yield Angiotensin II	Protein79	Protein88	
+BiochemicalReaction21	Cathepsin G Hydrolyzes Angiotensin I to Yield Angiotensin II	SmallMolecule9	Protein88	
+BiochemicalReaction22	Cathepsin Z (Cathepsin X) Hydrolyzes Angiotensin I to Yield Angiotensin II	Protein79	Protein88	
+BiochemicalReaction22	Cathepsin Z (Cathepsin X) Hydrolyzes Angiotensin I to Yield Angiotensin II	SmallMolecule9	Protein88	
+BiochemicalReaction23	ACE2 Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	Protein79	Protein96	
+BiochemicalReaction23	ACE2 Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	SmallMolecule9	Protein96	
+BiochemicalReaction24	ACE Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	Protein96	Protein98	
+BiochemicalReaction24	ACE Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	SmallMolecule9	Protein98	
+BiochemicalReaction25	Neprilysin Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	Protein96	Protein98	
+BiochemicalReaction25	Neprilysin Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	SmallMolecule9	Protein98	
+BiochemicalReaction26	Neprilysin Hydrolyzes Angiotensin I to Yield Angiotensin-(1-7)	Protein79	Protein98	
+BiochemicalReaction26	Neprilysin Hydrolyzes Angiotensin I to Yield Angiotensin-(1-7)	SmallMolecule9	Protein98	
+BiochemicalReaction27	ENPEP Hydrolyzes Angiotensin II to Yield Angiotensin III	SmallMolecule9	Protein100	
+BiochemicalReaction27	ENPEP Hydrolyzes Angiotensin II to Yield Angiotensin III	Protein88	Protein100	
+BiochemicalReaction28	ANPEP Hydrolyzes Angiotensin III to Yield Angiotensin IV	Protein100	Protein102	
+BiochemicalReaction28	ANPEP Hydrolyzes Angiotensin III to Yield Angiotensin IV	SmallMolecule9	Protein102	
+BiochemicalReaction29	ACE2 Hydrolyzes Angiotensin II to Yield Angiotensin-(1-7)	SmallMolecule9	Protein98	
+BiochemicalReaction29	ACE2 Hydrolyzes Angiotensin II to Yield Angiotensin-(1-7)	Protein88	Protein98	
+BiochemicalReaction3	Formation of Proinsulin-Zinc-Calcium Complex	Protein6	Complex1	
+BiochemicalReaction3	Formation of Proinsulin-Zinc-Calcium Complex	SmallMolecule1	Complex1	
+BiochemicalReaction3	Formation of Proinsulin-Zinc-Calcium Complex	SmallMolecule2	Complex1	
+BiochemicalReaction30	Mast Cell Carboxypeptidase Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	Protein79	Protein96	
+BiochemicalReaction30	Mast Cell Carboxypeptidase Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	SmallMolecule9	Protein96	
+BiochemicalReaction31	Processing of preproGLP-1 to proGLP-1	Protein108	Protein115	
+BiochemicalReaction32	Transit of Proglucagon from the ER Lumen to Secretory Granules	Protein115	Protein116	
+BiochemicalReaction33	Processing of Proglucagon to Glucagon-like Peptide-1	Protein116	Protein117	
+BiochemicalReaction34	Secretion of Glucagon-like Peptide 1 from Intestinal L Cells	Protein117	Protein120	
+BiochemicalReaction35	Proteolytic Cleavage of Glucagon-like Peptide-1 (GLP-1)	Protein120	Protein130	
+BiochemicalReaction36	Processing of preproGIP to proGIP	Protein136	Protein139	
+BiochemicalReaction37	Transit of ProGIP from the ER Lumen to Secretory Granules	Protein139	Protein140	
+BiochemicalReaction38	Processing of proGIP to GIP	Protein140	Protein141	
+BiochemicalReaction39	Secretion of Glucose-dependent Insulinotropic Polypeptide from Intestinal K Cells	Protein141	Protein142	
+BiochemicalReaction4	Transport of Proinsulin-Zinc-Calcium Complex to Immature Secretory Granule	Complex1	Complex2	
+BiochemicalReaction40	Proteolytic Cleavage of Glucose-dependent Insulinotropic Polypeptide (GIP)	Protein142	Protein143	
+BiochemicalReaction41	Corticotropin cleavage from POMC	Protein144	Protein145	
+BiochemicalReaction42	Human chorionic gonadotropin (hCG) is a heterodimer	Protein146	Complex20	
+BiochemicalReaction42	Human chorionic gonadotropin (hCG) is a heterodimer	Protein147	Complex20	
+BiochemicalReaction43	Luteinizing hormone is a heterodimer	Protein146	Complex21	
+BiochemicalReaction43	Luteinizing hormone is a heterodimer	Protein148	Complex21	
+BiochemicalReaction44	Thyrotropin is a heterodimer	Protein146	Complex22	
+BiochemicalReaction44	Thyrotropin is a heterodimer	Protein149	Complex22	
+BiochemicalReaction45	Follitropin is a heterodimer	Protein146	Complex23	
+BiochemicalReaction45	Follitropin is a heterodimer	Protein150	Complex23	
+BiochemicalReaction5	Processing of Proinsulin to Insulin	Complex2	Protein11	
+BiochemicalReaction5	Processing of Proinsulin to Insulin	Complex2	Complex3	
+BiochemicalReaction6	Translocation of Insulin Secretory Granules to Cell Cortex	Complex3	Complex3	
+BiochemicalReaction7	Traversal of the cortical actin network and docking at plasma membrane	Complex3	Complex6	
+BiochemicalReaction8	Exocyst complex formation	Protein27	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein28	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein29	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein30	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein31	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein32	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein33	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein34	Complex8	
+BiochemicalReaction9	Cleavage of the Signal Peptide of Preproghrelin	Protein35	Protein39	
+TemplateReaction1	Synthesis of Preproghrelin	NA	Protein35	
+TemplateReaction2	Synthesis of Preproglucagon in Intestinal L Cells	NA	Protein108	
+TemplateReaction3	Synthesis of prepro-Glucose-dependent Insulinotropic Polypeptide (preproGIP) in Intestinal K Cells	NA	Protein136	

@@ -1,0 +1,47 @@
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	Protein1	Complex1	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	Protein4	Complex1	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	SmallMolecule1	Complex1	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	Protein7	Complex1	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	Protein7	SmallMolecule2	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	Protein4	SmallMolecule2	
+BiochemicalReaction1	Formation of Cyclin D:Cdk4/6 complexes 	Protein1	SmallMolecule2	
+BiochemicalReaction10	Phosphorylated p130 (RBL2) binds SCF(Skp2):Cks1 complex	Complex13	Complex15	
+BiochemicalReaction10	Phosphorylated p130 (RBL2) binds SCF(Skp2):Cks1 complex	Protein57	Complex15	
+BiochemicalReaction11	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Complex15	Complex13	
+BiochemicalReaction11	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Protein62	Complex13	
+BiochemicalReaction11	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Protein62	Complex16	
+BiochemicalReaction11	Ubiquitination of p130 (RBL2) by SCF (Skp2)	Complex15	Complex16	
+BiochemicalReaction2	Translocation of Cyclin D:Cdk4/6 complexes from the cytoplasm to the nucleus	Complex1	Complex3	
+BiochemicalReaction3	Phosphorylation of Cyclin D:Cdk4/6 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Phosphorylation of Cyclin D:Cdk4/6 complexes	Complex3	SmallMolecule4	
+BiochemicalReaction3	Phosphorylation of Cyclin D:Cdk4/6 complexes	Complex3	Complex4	
+BiochemicalReaction3	Phosphorylation of Cyclin D:Cdk4/6 complexes	SmallMolecule3	Complex4	
+BiochemicalReaction4	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	Complex6	Complex7	
+BiochemicalReaction4	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	SmallMolecule3	Complex7	
+BiochemicalReaction4	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	Complex6	SmallMolecule4	
+BiochemicalReaction4	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	SmallMolecule3	Protein39	
+BiochemicalReaction4	Cyclin D:Cdk4/6 mediated phosphorylation of Rb and dissociation of phospho-Rb from the E2F1/2/3:DP-1 complexes	Complex6	Protein39	
+BiochemicalReaction5	Association of INK4A with Cdk4/6	Protein11	Complex2	
+BiochemicalReaction5	Association of INK4A with Cdk4/6	Protein16	Complex2	
+BiochemicalReaction6	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	Complex8	SmallMolecule4	
+BiochemicalReaction6	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction6	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	SmallMolecule3	Complex9	
+BiochemicalReaction6	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	Complex8	Complex9	
+BiochemicalReaction6	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	SmallMolecule3	Protein44	
+BiochemicalReaction6	Cyclin D:CDK4/6 mediated phosphorylation of p107 (RBL1) and dissociation of phosphorylated p107 (p-RBL1) from DP1:E2F4 complex	Complex8	Protein44	
+BiochemicalReaction7	Dephosphorylation of p107 by PP2A	Protein44	SmallMolecule6	
+BiochemicalReaction7	Dephosphorylation of p107 by PP2A	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7	Dephosphorylation of p107 by PP2A	SmallMolecule5	Protein43	
+BiochemicalReaction7	Dephosphorylation of p107 by PP2A	Protein44	Protein43	
+BiochemicalReaction8	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	Complex11	SmallMolecule4	
+BiochemicalReaction8	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	Complex11	Complex12	
+BiochemicalReaction8	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	SmallMolecule3	Complex12	
+BiochemicalReaction8	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	Complex11	Protein57	
+BiochemicalReaction8	Cyclin D:Cdk4/6 mediated phosphorylation of p130 (RBL2) and dissociation of phosphorylated p130 (RBL2) from DP1:E2F4/5 complex	SmallMolecule3	Protein57	
+BiochemicalReaction9	Dephosphorylation of p107 by PP2A	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction9	Dephosphorylation of p107 by PP2A	Protein57	SmallMolecule6	
+BiochemicalReaction9	Dephosphorylation of p107 by PP2A	Protein57	Protein54	
+BiochemicalReaction9	Dephosphorylation of p107 by PP2A	SmallMolecule5	Protein54	

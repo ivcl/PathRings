@@ -1,0 +1,32 @@
+BiochemicalReaction1	Activation of Protein Kinase C beta (PKC-beta)	SmallMolecule1	Complex1	
+BiochemicalReaction1	Activation of Protein Kinase C beta (PKC-beta)	SmallMolecule2	Complex1	
+BiochemicalReaction1	Activation of Protein Kinase C beta (PKC-beta)	SmallMolecule3	Complex1	
+BiochemicalReaction1	Activation of Protein Kinase C beta (PKC-beta)	Protein1	Complex1	
+BiochemicalReaction10	Translocation of NF-kappaB from the Cytosol to the Nucleus	Complex33	Complex35	
+BiochemicalReaction2	Phosphorylation of CARMA1 in B Cells	Complex2	SmallMolecule6	
+BiochemicalReaction2	Phosphorylation of CARMA1 in B Cells	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	Phosphorylation of CARMA1 in B Cells	SmallMolecule5	Complex3	
+BiochemicalReaction2	Phosphorylation of CARMA1 in B Cells	Complex2	Complex3	
+BiochemicalReaction3	Formation of CBM Complex	Protein5	Complex4	
+BiochemicalReaction3	Formation of CBM Complex	Protein6	Complex4	
+BiochemicalReaction3	Formation of CBM Complex	Complex3	Complex4	
+BiochemicalReaction4	CARMA1:BCL10:MALT1 Complex Recruits TAK1 and IKK	Complex4	Complex6	
+BiochemicalReaction4	CARMA1:BCL10:MALT1 Complex Recruits TAK1 and IKK	Protein9	Complex6	
+BiochemicalReaction4	CARMA1:BCL10:MALT1 Complex Recruits TAK1 and IKK	Complex5	Complex6	
+BiochemicalReaction5	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	SmallMolecule5	Complex8	
+BiochemicalReaction5	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	Complex6	Complex8	
+BiochemicalReaction5	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	Complex6	SmallMolecule6	
+BiochemicalReaction5	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction5	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	Complex6	Complex9	
+BiochemicalReaction5	TAK1 Associated with the CBM Complex Phosphorylates IKKbeta	SmallMolecule5	Complex9	
+BiochemicalReaction6	Phosphorylation of I-kappaB by Activated IKK (B cell)	Complex10	SmallMolecule6	
+BiochemicalReaction6	Phosphorylation of I-kappaB by Activated IKK (B cell)	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	Phosphorylation of I-kappaB by Activated IKK (B cell)	SmallMolecule5	Complex19	
+BiochemicalReaction6	Phosphorylation of I-kappaB by Activated IKK (B cell)	Complex10	Complex19	
+BiochemicalReaction7	SCF with beta-TrCP1 or beta-TrCP2 Binds NF-kappaB;phospho-IkB	Complex19	Complex27	
+BiochemicalReaction7	SCF with beta-TrCP1 or beta-TrCP2 Binds NF-kappaB;phospho-IkB	Complex24	Complex27	
+BiochemicalReaction8	Ubiquitination of IkB by SCF-beta-TrCP	Protein33	Complex28	
+BiochemicalReaction8	Ubiquitination of IkB by SCF-beta-TrCP	Complex27	Complex28	
+BiochemicalReaction8	Ubiquitination of IkB by SCF-beta-TrCP	Complex27	Complex24	
+BiochemicalReaction8	Ubiquitination of IkB by SCF-beta-TrCP	Protein33	Complex24	
+BiochemicalReaction9	Degradation of Ubiquitinated IkB (B cell)	Complex28	Complex33	

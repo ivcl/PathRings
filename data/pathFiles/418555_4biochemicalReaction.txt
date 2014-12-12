@@ -1,0 +1,20 @@
+BiochemicalReaction1	Liganded Gs-activating GPCRs bind inactive heterotrimeric Gs	Complex1	Complex55	
+BiochemicalReaction1	Liganded Gs-activating GPCRs bind inactive heterotrimeric Gs	Complex52	Complex55	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	SmallMolecule19	Complex56	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	Complex55	Complex56	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	Complex55	SmallMolecule21	
+BiochemicalReaction2	Liganded Gs-activating GPCR acts as a GEF for Gs	SmallMolecule19	SmallMolecule21	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	PhysicalEntity1	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	PhysicalEntity2	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	Complex58	
+BiochemicalReaction3	The Ligand:GPCR:Gs complex dissociates	Complex56	Complex53	
+BiochemicalReaction4	G alpha (s) activates adenylate cyclase	Complex58	Complex60	
+BiochemicalReaction4	G alpha (s) activates adenylate cyclase	Complex59	Complex60	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction5	Adenylate cyclase converts ATP to 3',5'-cyclic AMP (cAMP) and pyrophosphate	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction6	cAMP degradation by Phosphodiesterases	SmallMolecule24	SmallMolecule27	
+BiochemicalReaction6	cAMP degradation by Phosphodiesterases	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction7	G alpha (s) auto-inactivates by hydrolysing GTP to GDP	Complex58	SmallMolecule28	
+BiochemicalReaction7	G alpha (s) auto-inactivates by hydrolysing GTP to GDP	Complex58	Complex54	
+BiochemicalReaction8	Inactive G alpha (s) reassociates with G beta:gamma	Complex53	Complex52	
+BiochemicalReaction8	Inactive G alpha (s) reassociates with G beta:gamma	Complex54	Complex52	

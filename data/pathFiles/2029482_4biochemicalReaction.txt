@@ -1,0 +1,102 @@
+BiochemicalReaction1	Recruitment of VAV1 to p-6Y-SYK	Protein1	Complex15	
+BiochemicalReaction1	Recruitment of VAV1 to p-6Y-SYK	Complex1	Complex15	
+BiochemicalReaction1	Recruitment of VAV1 to p-6Y-SYK	SmallMolecule1	Complex15	
+BiochemicalReaction10	Activation of WASP and N-WASP by CDC42	Protein208	Complex29	
+BiochemicalReaction10	Activation of WASP and N-WASP by CDC42	SmallMolecule6	Complex29	
+BiochemicalReaction10	Activation of WASP and N-WASP by CDC42	Complex28	Complex29	
+BiochemicalReaction11	Activation of WASP/N-WASP by WIP family and SH3 domain proteins	Protein211	Complex30	
+BiochemicalReaction11	Activation of WASP/N-WASP by WIP family and SH3 domain proteins	Complex29	Complex30	
+BiochemicalReaction11	Activation of WASP/N-WASP by WIP family and SH3 domain proteins	Protein215	Complex30	
+BiochemicalReaction12	Phosphorylation of WASP/N-WASP	Complex30	Complex31	
+BiochemicalReaction12	Phosphorylation of WASP/N-WASP	SmallMolecule2	Complex31	
+BiochemicalReaction12	Phosphorylation of WASP/N-WASP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction12	Phosphorylation of WASP/N-WASP	Complex30	SmallMolecule3	
+BiochemicalReaction13	WAVE2 or WASP/N-WASP activate the ARP2/3 complex	Complex32	Complex37	
+BiochemicalReaction13	WAVE2 or WASP/N-WASP activate the ARP2/3 complex	Complex35	Complex37	
+BiochemicalReaction13	WAVE2 or WASP/N-WASP activate the ARP2/3 complex	Complex36	Complex37	
+BiochemicalReaction14	Attachment of preexisting mother filament and initiation of branching	Complex37	Complex38	
+BiochemicalReaction14	Attachment of preexisting mother filament and initiation of branching	PhysicalEntity3	Complex38	
+BiochemicalReaction15	Detachment of WASP/WAVE	Complex38	Complex39	
+BiochemicalReaction15	Detachment of WASP/WAVE	Complex38	Complex36	
+BiochemicalReaction16	Branching and elongation of mother and daughter filaments	Complex39	SmallMolecule7	
+BiochemicalReaction16	Branching and elongation of mother and daughter filaments	Complex35	SmallMolecule7	
+BiochemicalReaction16	Branching and elongation of mother and daughter filaments	Complex35	Complex40	
+BiochemicalReaction16	Branching and elongation of mother and daughter filaments	Complex39	Complex40	
+BiochemicalReaction16	Branching and elongation of mother and daughter filaments	Complex35	Complex41	
+BiochemicalReaction16	Branching and elongation of mother and daughter filaments	Complex39	Complex41	
+BiochemicalReaction17	RAC and CDC42 activate PAK	Complex42	Complex44	
+BiochemicalReaction17	RAC and CDC42 activate PAK	Complex43	Complex44	
+BiochemicalReaction18	Autophosphorylation of PAK1	SmallMolecule2	Complex45	
+BiochemicalReaction18	Autophosphorylation of PAK1	Complex44	Complex45	
+BiochemicalReaction18	Autophosphorylation of PAK1	Complex44	SmallMolecule3	
+BiochemicalReaction18	Autophosphorylation of PAK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction18	Autophosphorylation of PAK1	Complex44	Protein236	
+BiochemicalReaction18	Autophosphorylation of PAK1	SmallMolecule2	Protein236	
+BiochemicalReaction19	Phosphorylation of LIMK1 by PAK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction19	Phosphorylation of LIMK1 by PAK	Protein237	SmallMolecule3	
+BiochemicalReaction19	Phosphorylation of LIMK1 by PAK	Protein237	Protein238	
+BiochemicalReaction19	Phosphorylation of LIMK1 by PAK	SmallMolecule2	Protein238	
+BiochemicalReaction2	Phosphorylation of VAV	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of VAV	Complex15	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of VAV	Complex15	Complex16	
+BiochemicalReaction2	Phosphorylation of VAV	SmallMolecule2	Complex16	
+BiochemicalReaction20	Dimerization of LIMK1 by Hsp90	Protein239	Complex46	
+BiochemicalReaction20	Dimerization of LIMK1 by Hsp90	Protein238	Complex46	
+BiochemicalReaction21	Transphosphorylation of pLIMK1	SmallMolecule2	Protein239	
+BiochemicalReaction21	Transphosphorylation of pLIMK1	Complex46	Protein239	
+BiochemicalReaction21	Transphosphorylation of pLIMK1	Complex46	SmallMolecule3	
+BiochemicalReaction21	Transphosphorylation of pLIMK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction21	Transphosphorylation of pLIMK1	Complex46	Complex47	
+BiochemicalReaction21	Transphosphorylation of pLIMK1	SmallMolecule2	Complex47	
+BiochemicalReaction22	Phosphorylation of cofilin by LIMK-1	Protein243	SmallMolecule3	
+BiochemicalReaction22	Phosphorylation of cofilin by LIMK-1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction22	Phosphorylation of cofilin by LIMK-1	Complex47	SmallMolecule3	
+BiochemicalReaction22	Phosphorylation of cofilin by LIMK-1	Complex47	Complex48	
+BiochemicalReaction22	Phosphorylation of cofilin by LIMK-1	SmallMolecule2	Complex48	
+BiochemicalReaction22	Phosphorylation of cofilin by LIMK-1	Protein243	Complex48	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	Complex49	SmallMolecule7	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	Complex41	SmallMolecule7	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	SmallMolecule8	Complex50	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	SmallMolecule2	Complex50	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	Complex41	Complex50	
+BiochemicalReaction23	Extension of pseudopodia by myosin-X in a PI3K dependent manner	Complex49	Complex50	
+BiochemicalReaction24	Role of myosins in phagosome formation	Protein246	SmallMolecule7	
+BiochemicalReaction24	Role of myosins in phagosome formation	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction24	Role of myosins in phagosome formation	Complex41	SmallMolecule7	
+BiochemicalReaction24	Role of myosins in phagosome formation	Complex2	SmallMolecule7	
+BiochemicalReaction24	Role of myosins in phagosome formation	Complex2	Complex51	
+BiochemicalReaction24	Role of myosins in phagosome formation	Complex41	Complex51	
+BiochemicalReaction24	Role of myosins in phagosome formation	SmallMolecule2	Complex51	
+BiochemicalReaction24	Role of myosins in phagosome formation	Protein246	Complex51	
+BiochemicalReaction24	Role of myosins in phagosome formation	Complex2	Complex52	
+BiochemicalReaction24	Role of myosins in phagosome formation	Complex41	Complex52	
+BiochemicalReaction24	Role of myosins in phagosome formation	SmallMolecule2	Complex52	
+BiochemicalReaction24	Role of myosins in phagosome formation	Protein246	Complex52	
+BiochemicalReaction3	Activation of RAC1 by VAV	SmallMolecule4	Complex18	
+BiochemicalReaction3	Activation of RAC1 by VAV	Complex17	Complex18	
+BiochemicalReaction3	Activation of RAC1 by VAV	Complex17	SmallMolecule5	
+BiochemicalReaction3	Activation of RAC1 by VAV	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction4	Recruitment of CRKII:DOCK180:ELMO complex to FCGR	Complex1	Complex20	
+BiochemicalReaction4	Recruitment of CRKII:DOCK180:ELMO complex to FCGR	Complex19	Complex20	
+BiochemicalReaction5	Activation of RAC1 by CRKII:DOCK180:ELMO	SmallMolecule4	Complex18	
+BiochemicalReaction5	Activation of RAC1 by CRKII:DOCK180:ELMO	Complex17	Complex18	
+BiochemicalReaction5	Activation of RAC1 by CRKII:DOCK180:ELMO	Complex17	SmallMolecule5	
+BiochemicalReaction5	Activation of RAC1 by CRKII:DOCK180:ELMO	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction6	WAVE Regulatory Complex (WRC) interacts with RAC1 and PIP3 and gets activated	Complex21	Complex22	
+BiochemicalReaction6	WAVE Regulatory Complex (WRC) interacts with RAC1 and PIP3 and gets activated	Protein193	Complex22	
+BiochemicalReaction6	WAVE Regulatory Complex (WRC) interacts with RAC1 and PIP3 and gets activated	SmallMolecule1	Complex22	
+BiochemicalReaction6	WAVE Regulatory Complex (WRC) interacts with RAC1 and PIP3 and gets activated	Complex18	Complex22	
+BiochemicalReaction7	ERK2 phosphorylates WAVE2 and ABI 	Complex22	Complex23	
+BiochemicalReaction7	ERK2 phosphorylates WAVE2 and ABI 	SmallMolecule2	Complex23	
+BiochemicalReaction7	ERK2 phosphorylates WAVE2 and ABI 	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction7	ERK2 phosphorylates WAVE2 and ABI 	Complex22	SmallMolecule3	
+BiochemicalReaction8	ABL phosphorylates WAVE2	Complex22	SmallMolecule3	
+BiochemicalReaction8	ABL phosphorylates WAVE2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	ABL phosphorylates WAVE2	SmallMolecule2	Complex25	
+BiochemicalReaction8	ABL phosphorylates WAVE2	Complex22	Complex25	
+BiochemicalReaction9	Activation of CDC42 by unknown mechanism	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction9	Activation of CDC42 by unknown mechanism	Complex27	SmallMolecule5	
+BiochemicalReaction9	Activation of CDC42 by unknown mechanism	Complex27	Complex28	
+BiochemicalReaction9	Activation of CDC42 by unknown mechanism	SmallMolecule4	Complex28	

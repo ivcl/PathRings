@@ -1,0 +1,45 @@
+BiochemicalReaction1	AJUBA binds centrosome-associated AURKA	Complex1	Complex3	
+BiochemicalReaction1	AJUBA binds centrosome-associated AURKA	Protein64	Complex3	
+BiochemicalReaction10	Phosphorylated OPTN translocates to the nucleus	Protein95	Protein96	
+BiochemicalReaction11	Cytosolic PLK1 translocates to the nucleus	Protein72	Protein97	
+BiochemicalReaction12	Myosin phosphatase dephosphorylates PLK1	Protein97	SmallMolecule5	
+BiochemicalReaction12	Myosin phosphatase dephosphorylates PLK1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction12	Myosin phosphatase dephosphorylates PLK1	SmallMolecule4	Protein98	
+BiochemicalReaction12	Myosin phosphatase dephosphorylates PLK1	Protein97	Protein98	
+BiochemicalReaction2	AJUBA facilitates AURKA autophosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	AJUBA facilitates AURKA autophosphorylation	Complex3	SmallMolecule2	
+BiochemicalReaction2	AJUBA facilitates AURKA autophosphorylation	Complex3	Protein65	
+BiochemicalReaction2	AJUBA facilitates AURKA autophosphorylation	SmallMolecule1	Protein65	
+BiochemicalReaction2	AJUBA facilitates AURKA autophosphorylation	Complex3	Complex4	
+BiochemicalReaction2	AJUBA facilitates AURKA autophosphorylation	SmallMolecule1	Complex4	
+BiochemicalReaction3	CDK1 phosphorylates BORA	Protein67	SmallMolecule2	
+BiochemicalReaction3	CDK1 phosphorylates BORA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	CDK1 phosphorylates BORA	SmallMolecule1	Protein68	
+BiochemicalReaction3	CDK1 phosphorylates BORA	Protein67	Protein68	
+BiochemicalReaction4	BORA binds PLK1 and AURKA	Protein68	Complex8	
+BiochemicalReaction4	BORA binds PLK1 and AURKA	Protein29	Complex8	
+BiochemicalReaction4	BORA binds PLK1 and AURKA	Complex4	Complex8	
+BiochemicalReaction5	AURKA phosphorylates PLK1	SmallMolecule1	Complex10	
+BiochemicalReaction5	AURKA phosphorylates PLK1	Complex8	Complex10	
+BiochemicalReaction5	AURKA phosphorylates PLK1	Complex8	SmallMolecule2	
+BiochemicalReaction5	AURKA phosphorylates PLK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	AURKA phosphorylates PLK1	Complex8	Complex4	
+BiochemicalReaction5	AURKA phosphorylates PLK1	SmallMolecule1	Complex4	
+BiochemicalReaction6	PLK1 phosphorylates BORA	Complex10	SmallMolecule2	
+BiochemicalReaction6	PLK1 phosphorylates BORA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	PLK1 phosphorylates BORA	SmallMolecule1	Protein73	
+BiochemicalReaction6	PLK1 phosphorylates BORA	Complex10	Protein73	
+BiochemicalReaction6	PLK1 phosphorylates BORA	SmallMolecule1	Protein72	
+BiochemicalReaction6	PLK1 phosphorylates BORA	Complex10	Protein72	
+BiochemicalReaction7	Phosphorylated BORA binds SCF-beta-TrCp1/2	Protein73	Complex14	
+BiochemicalReaction7	Phosphorylated BORA binds SCF-beta-TrCp1/2	Complex11	Complex14	
+BiochemicalReaction8	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Protein78	Complex15	
+BiochemicalReaction8	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Complex14	Complex15	
+BiochemicalReaction8	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Complex14	Complex11	
+BiochemicalReaction8	SCF-beta-TrCp1/2 ubiquitinates phosphorylated BORA	Protein78	Complex11	
+BiochemicalReaction9	PLK1 phosphorylates OPTN	Complex16	SmallMolecule2	
+BiochemicalReaction9	PLK1 phosphorylates OPTN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	PLK1 phosphorylates OPTN	SmallMolecule1	Complex17	
+BiochemicalReaction9	PLK1 phosphorylates OPTN	Complex16	Complex17	
+BiochemicalReaction9	PLK1 phosphorylates OPTN	SmallMolecule1	Protein95	
+BiochemicalReaction9	PLK1 phosphorylates OPTN	Complex16	Protein95	

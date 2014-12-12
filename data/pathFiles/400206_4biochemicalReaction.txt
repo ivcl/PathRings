@@ -1,0 +1,58 @@
+BiochemicalReaction1	Formation of PPARA:RXRA Heterodimer at Promoters of Target Genes	Protein1	Complex1	
+BiochemicalReaction1	Formation of PPARA:RXRA Heterodimer at Promoters of Target Genes	Protein2	Complex1	
+BiochemicalReaction1	Formation of PPARA:RXRA Heterodimer at Promoters of Target Genes	PhysicalEntity1	Complex1	
+BiochemicalReaction2	Recruitment of Corepressors by PPARA:RXRA Heterodimer	Protein3	Complex2	
+BiochemicalReaction2	Recruitment of Corepressors by PPARA:RXRA Heterodimer	Protein4	Complex2	
+BiochemicalReaction2	Recruitment of Corepressors by PPARA:RXRA Heterodimer	Complex1	Complex2	
+BiochemicalReaction2	Recruitment of Corepressors by PPARA:RXRA Heterodimer	Protein5	Complex2	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Complex3	Protein11	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Complex2	Protein11	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Protein12	Protein11	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Protein12	Complex4	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Complex2	Complex4	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Complex3	Complex4	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Protein12	Protein5	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Complex2	Protein5	
+BiochemicalReaction3	Activation of PPARA by Fatty Acid Ligands	Complex3	Protein5	
+BiochemicalReaction4	Expression of 3-Hydroxy-3-methylglutaryl-coenzyme A Reductase (HMGCR)	Complex7	Protein29	
+BiochemicalReaction5	Expression of ALAS1	Complex10	Protein38	
+BiochemicalReaction6	Expression of Farnesyldiphosphate Farnesyltransferase (FDFT1, Squalene Synthase)	Complex18	Protein100	
+BiochemicalReaction7	Expression of Hydroxymethylglutaryl coenzyme A synthase (HMGCS1)	Complex20	Protein104	
+TemplateReaction1	Expression of ABCA1	NA	Protein30	
+TemplateReaction10	Expression of APOA2	NA	Protein77	
+TemplateReaction11	Expression of APOA5	NA	Protein78	
+TemplateReaction12	Expression of CD36 (platelet glycoprotein IV, FAT)	NA	Protein79	
+TemplateReaction13	Expression of CPT1A	NA	Protein80	
+TemplateReaction14	Expression of CPT2	NA	Protein82	
+TemplateReaction15	Expression of CTGF	NA	Protein83	
+TemplateReaction16	Expression of CYP1A1	NA	Protein91	
+TemplateReaction17	Expression of CYP4A11	NA	Protein92	
+TemplateReaction18	Expression of CYP7A1	NA	Protein93	
+TemplateReaction19	Expression of FABP1	NA	Protein11	
+TemplateReaction2	Expression of ABCB4	NA	Protein31	
+TemplateReaction20	Expression of FADS1	NA	Protein94	
+TemplateReaction21	Expression of FATP1 (SLC27A1)	NA	Protein95	
+TemplateReaction22	Expression of FHL2	NA	Protein96	
+TemplateReaction23	Expression of G0S2	NA	Protein101	
+TemplateReaction24	Expression of GLIPR1	NA	Protein102	
+TemplateReaction25	Expression of GRHL1	NA	Protein103	
+TemplateReaction26	Expression of HMGCS2	NA	Protein105	
+TemplateReaction27	Expression of ME1	NA	Protein106	
+TemplateReaction28	Expression of NPAS2	NA	Protein107	
+TemplateReaction29	Expression of PEX11A	NA	Protein109	
+TemplateReaction3	Expression of ACADM	NA	Protein32	
+TemplateReaction30	Expression of PLIN2	NA	Protein110	
+TemplateReaction31	Expression of PPARA	NA	Protein1	
+TemplateReaction32	Expression of RGL1	NA	Protein115	
+TemplateReaction33	Expression of SULT2A1	NA	Protein116	
+TemplateReaction34	Expression of TIAM2	NA	Protein117	
+TemplateReaction35	Expression of TNFRSF21	NA	Protein118	
+TemplateReaction36	Expression of TRIB3	NA	Protein119	
+TemplateReaction37	Expression of TXNRD1	NA	Protein120	
+TemplateReaction38	Expression of UGT1A9	NA	Protein121	
+TemplateReaction4	Expression of ACOX1	NA	Protein33	
+TemplateReaction5	Expression of ACSL1	NA	Protein34	
+TemplateReaction6	Expression of AGT	NA	Protein35	
+TemplateReaction7	Expression of ANGPTL4	NA	Protein40	
+TemplateReaction8	Expression of ANKRD1	NA	Protein75	
+TemplateReaction9	Expression of APOA1	NA	Protein76	

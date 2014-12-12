@@ -1,0 +1,20 @@
+Complex1	L1 homodimer	plasma membrane	Reactome DB_ID: 446623	Protein1	
+Complex10	pL1 (Y1229):L1CAM	plasma membrane	Reactome DB_ID: 445008	Protein33	
+Complex10	pL1 (Y1229):L1CAM	plasma membrane	Reactome DB_ID: 445008	Protein1	
+Complex2	L1 trans-homodimer:Ankyrin	plasma membrane	Reactome DB_ID: 374569	Complex1	
+Complex2	L1 trans-homodimer:Ankyrin	plasma membrane	Reactome DB_ID: 374569	Protein2	
+Complex3	spectrin based actin	cytosol	Reactome DB_ID: 392744	Complex4	
+Complex3	spectrin based actin	cytosol	Reactome DB_ID: 392744	PhysicalEntity1	
+Complex4	Spectrin heterodimer	cytosol	Reactome DB_ID: 391839	Protein6	
+Complex4	Spectrin heterodimer	cytosol	Reactome DB_ID: 391839	Protein9	
+Complex5	L1 dimer:Ankyrin:Spectrin:F-actin	plasma membrane	Reactome DB_ID: 443654	Complex3	
+Complex5	L1 dimer:Ankyrin:Spectrin:F-actin	plasma membrane	Reactome DB_ID: 443654	Complex2	
+Complex6	Neurofascin:NrCAM:Ankyrin:spectrin based actin	plasma membrane	Reactome DB_ID: 443650	Complex3	
+Complex6	Neurofascin:NrCAM:Ankyrin:spectrin based actin	plasma membrane	Reactome DB_ID: 443650	Protein2	
+Complex6	Neurofascin:NrCAM:Ankyrin:spectrin based actin	plasma membrane	Reactome DB_ID: 443650	Complex7	
+Complex7	Neurofascin:NrCAM complex	plasma membrane	Reactome DB_ID: 373686	Protein15	
+Complex7	Neurofascin:NrCAM complex	plasma membrane	Reactome DB_ID: 373686	Protein16	
+Complex8	Sodium channel subunits	plasma membrane	Reactome DB_ID: 443632	Protein20	
+Complex8	Sodium channel subunits	plasma membrane	Reactome DB_ID: 443632	Protein29	
+Complex9	Neurofascin:NrCAM:Ankyrin:spectrin based actin:Na+/K+ channel	plasma membrane	Reactome DB_ID: 373687	Complex6	
+Complex9	Neurofascin:NrCAM:Ankyrin:spectrin based actin:Na+/K+ channel	plasma membrane	Reactome DB_ID: 373687	PhysicalEntity2	

@@ -1,0 +1,13 @@
+BiochemicalReaction1	Interaction of MEKK1 with TRAF6	Protein1	Complex6	
+BiochemicalReaction1	Interaction of MEKK1 with TRAF6	Complex1	Complex6	
+BiochemicalReaction2	Activation of IKK by MEKK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Activation of IKK by MEKK1	Complex7	SmallMolecule2	
+BiochemicalReaction2	Activation of IKK by MEKK1	Complex7	Complex8	
+BiochemicalReaction2	Activation of IKK by MEKK1	SmallMolecule1	Complex8	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex9	Protein23	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Protein23	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex9	SmallMolecule2	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Complex10	
+BiochemicalReaction3	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex9	Complex10	
+BiochemicalReaction4	Released NFkB complex is transported to nucleus	Complex10	Complex11	

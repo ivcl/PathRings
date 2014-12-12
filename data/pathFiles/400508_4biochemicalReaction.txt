@@ -1,0 +1,12 @@
+BiochemicalReaction1	Processing of preproGLP-1 to proGLP-1	Protein1	Protein8	
+BiochemicalReaction10	Proteolytic Cleavage of Glucose-dependent Insulinotropic Polypeptide (GIP)	Protein42	Protein43	
+BiochemicalReaction2	Transit of Proglucagon from the ER Lumen to Secretory Granules	Protein8	Protein14	
+BiochemicalReaction3	Processing of Proglucagon to Glucagon-like Peptide-1	Protein14	Protein15	
+BiochemicalReaction4	Secretion of Glucagon-like Peptide 1 from Intestinal L Cells	Protein15	Protein19	
+BiochemicalReaction5	Proteolytic Cleavage of Glucagon-like Peptide-1 (GLP-1)	Protein19	Protein30	
+BiochemicalReaction6	Processing of preproGIP to proGIP	Protein36	Protein39	
+BiochemicalReaction7	Transit of ProGIP from the ER Lumen to Secretory Granules	Protein39	Protein40	
+BiochemicalReaction8	Processing of proGIP to GIP	Protein40	Protein41	
+BiochemicalReaction9	Secretion of Glucose-dependent Insulinotropic Polypeptide from Intestinal K Cells	Protein41	Protein42	
+TemplateReaction1	Synthesis of Preproglucagon in Intestinal L Cells	NA	Protein1	
+TemplateReaction2	Synthesis of prepro-Glucose-dependent Insulinotropic Polypeptide (preproGIP) in Intestinal K Cells	NA	Protein36	

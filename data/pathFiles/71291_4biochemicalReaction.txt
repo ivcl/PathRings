@@ -1,0 +1,860 @@
+BiochemicalReaction1	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT]	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT]	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT]	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT]	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	glutamate + L-glutamate gamma-semialdehyde <=> ornithine + alpha-ketoglutarate [OAT]	SmallMolecule15	SmallMolecule5	
+BiochemicalReaction10	glutamate + L-glutamate gamma-semialdehyde <=> ornithine + alpha-ketoglutarate [OAT]	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction10	glutamate + L-glutamate gamma-semialdehyde <=> ornithine + alpha-ketoglutarate [OAT]	SmallMolecule8	SmallMolecule14	
+BiochemicalReaction10	glutamate + L-glutamate gamma-semialdehyde <=> ornithine + alpha-ketoglutarate [OAT]	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction100	Creatine transport across the plasma membrane	SmallMolecule176	SmallMolecule178	
+BiochemicalReaction100	Creatine transport across the plasma membrane	SmallMolecule177	SmallMolecule178	
+BiochemicalReaction100	Creatine transport across the plasma membrane	SmallMolecule177	SmallMolecule173	
+BiochemicalReaction100	Creatine transport across the plasma membrane	SmallMolecule176	SmallMolecule173	
+BiochemicalReaction101	Arginine<=>Agmatine+CO2	SmallMolecule144	SmallMolecule97	
+BiochemicalReaction101	Arginine<=>Agmatine+CO2	SmallMolecule144	SmallMolecule179	
+BiochemicalReaction102	Agmatine + H2O <=> putrescine + urea	SmallMolecule179	SmallMolecule150	
+BiochemicalReaction102	Agmatine + H2O <=> putrescine + urea	SmallMolecule27	SmallMolecule150	
+BiochemicalReaction102	Agmatine + H2O <=> putrescine + urea	SmallMolecule27	SmallMolecule180	
+BiochemicalReaction102	Agmatine + H2O <=> putrescine + urea	SmallMolecule179	SmallMolecule180	
+BiochemicalReaction103	ornithine => putrescine + CO2	SmallMolecule151	SmallMolecule97	
+BiochemicalReaction103	ornithine => putrescine + CO2	SmallMolecule151	SmallMolecule180	
+BiochemicalReaction104	S-Adenosyl methionine <=> Decarboxylated-Adenosyl methionine + CO2	SmallMolecule170	SmallMolecule181	
+BiochemicalReaction104	S-Adenosyl methionine <=> Decarboxylated-Adenosyl methionine + CO2	SmallMolecule170	SmallMolecule97	
+BiochemicalReaction105	Putrescine + dc-Adenosyl methionine  => Spermidine + 5'-methylthioadenosine	SmallMolecule181	SmallMolecule182	
+BiochemicalReaction105	Putrescine + dc-Adenosyl methionine  => Spermidine + 5'-methylthioadenosine	SmallMolecule180	SmallMolecule182	
+BiochemicalReaction105	Putrescine + dc-Adenosyl methionine  => Spermidine + 5'-methylthioadenosine	SmallMolecule180	SmallMolecule183	
+BiochemicalReaction105	Putrescine + dc-Adenosyl methionine  => Spermidine + 5'-methylthioadenosine	SmallMolecule181	SmallMolecule183	
+BiochemicalReaction106	dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine	SmallMolecule181	SmallMolecule182	
+BiochemicalReaction106	dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine	SmallMolecule183	SmallMolecule182	
+BiochemicalReaction106	dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine	SmallMolecule183	SmallMolecule184	
+BiochemicalReaction106	dc-Adenosyl methionine + Spermidine => Spermine + 5'-methylthioadenosine	SmallMolecule181	SmallMolecule184	
+BiochemicalReaction107	Spermidine  => N-acetylated spermidine	SmallMolecule185	SmallMolecule186	
+BiochemicalReaction107	Spermidine  => N-acetylated spermidine	SmallMolecule183	SmallMolecule186	
+BiochemicalReaction107	Spermidine  => N-acetylated spermidine	SmallMolecule183	SmallMolecule187	
+BiochemicalReaction107	Spermidine  => N-acetylated spermidine	SmallMolecule185	SmallMolecule187	
+BiochemicalReaction108	N-acetylated spermidine (cytosol)=>N-acetylated spermidine (peroxisomal)	SmallMolecule186	SmallMolecule188	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule189	SmallMolecule191	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule188	SmallMolecule191	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule190	SmallMolecule191	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule190	SmallMolecule192	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule188	SmallMolecule192	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule189	SmallMolecule192	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule190	SmallMolecule193	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule188	SmallMolecule193	
+BiochemicalReaction109	N-acetylspermidine is oxidized to putrescine	SmallMolecule189	SmallMolecule193	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule16	SmallMolecule19	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule8	SmallMolecule19	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule8	SmallMolecule20	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule17	SmallMolecule20	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule16	SmallMolecule20	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule8	SmallMolecule21	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule17	SmallMolecule21	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule16	SmallMolecule21	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule18	SmallMolecule15	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule8	SmallMolecule15	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule17	SmallMolecule15	
+BiochemicalReaction11	glutamate + ATP + NADPH + H+ => L-glutamate gamma-semialdehyde + NADP+ + ADP + orthophosphate [P5CS]	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction110	Spermine  => N-acetylated spermine	SmallMolecule184	SmallMolecule195	
+BiochemicalReaction110	Spermine  => N-acetylated spermine	SmallMolecule185	SmallMolecule195	
+BiochemicalReaction110	Spermine  => N-acetylated spermine	SmallMolecule185	SmallMolecule187	
+BiochemicalReaction110	Spermine  => N-acetylated spermine	SmallMolecule184	SmallMolecule187	
+BiochemicalReaction111	N-acetylated spermine (cytosol)=>N-acetylated spermine (peroxisomal)	SmallMolecule195	SmallMolecule196	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule189	SmallMolecule197	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule190	SmallMolecule197	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule196	SmallMolecule197	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule196	SmallMolecule192	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule190	SmallMolecule192	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule189	SmallMolecule192	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule196	SmallMolecule193	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule190	SmallMolecule193	
+BiochemicalReaction112	N-acetylspermine is oxidised to spermidine	SmallMolecule189	SmallMolecule193	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule198	SmallMolecule197	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule189	SmallMolecule197	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule190	SmallMolecule197	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule190	SmallMolecule199	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule189	SmallMolecule199	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule198	SmallMolecule199	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule190	SmallMolecule193	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule189	SmallMolecule193	
+BiochemicalReaction113	Spermine is oxidized to spermidine	SmallMolecule198	SmallMolecule193	
+BiochemicalReaction114	MTA is cleaved and phosphorylated	SmallMolecule42	SmallMolecule200	
+BiochemicalReaction114	MTA is cleaved and phosphorylated	SmallMolecule182	SmallMolecule200	
+BiochemicalReaction114	MTA is cleaved and phosphorylated	SmallMolecule182	SmallMolecule201	
+BiochemicalReaction114	MTA is cleaved and phosphorylated	SmallMolecule42	SmallMolecule201	
+BiochemicalReaction115	Methylthio-ribose-P = Methylthio-ribulose-P	SmallMolecule201	SmallMolecule202	
+BiochemicalReaction116	Methylthio-ribulose-P = Methylthio-ribose-P	SmallMolecule202	SmallMolecule201	
+BiochemicalReaction117	Dehydration of methylthio-ribulose-P	SmallMolecule202	SmallMolecule203	
+BiochemicalReaction117	Dehydration of methylthio-ribulose-P	SmallMolecule202	SmallMolecule27	
+BiochemicalReaction118	Acireductone is created	SmallMolecule203	SmallMolecule42	
+BiochemicalReaction118	Acireductone is created	SmallMolecule27	SmallMolecule42	
+BiochemicalReaction118	Acireductone is created	SmallMolecule27	SmallMolecule48	
+BiochemicalReaction118	Acireductone is created	SmallMolecule203	SmallMolecule48	
+BiochemicalReaction118	Acireductone is created	SmallMolecule27	SmallMolecule205	
+BiochemicalReaction118	Acireductone is created	SmallMolecule203	SmallMolecule205	
+BiochemicalReaction119	Acireductone is oxidized to MOB	SmallMolecule205	SmallMolecule130	
+BiochemicalReaction119	Acireductone is oxidized to MOB	SmallMolecule110	SmallMolecule130	
+BiochemicalReaction119	Acireductone is oxidized to MOB	SmallMolecule110	SmallMolecule206	
+BiochemicalReaction119	Acireductone is oxidized to MOB	SmallMolecule205	SmallMolecule206	
+BiochemicalReaction12	L-glutamate gamma-semialdehyde <=> L-1-pyrroline-5-carboxylate	SmallMolecule15	SmallMolecule22	
+BiochemicalReaction12	L-glutamate gamma-semialdehyde <=> L-1-pyrroline-5-carboxylate	SmallMolecule15	SmallMolecule23	
+BiochemicalReaction120	Transamination of MOB to methionine	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction120	Transamination of MOB to methionine	SmallMolecule206	PhysicalEntity4	
+BiochemicalReaction120	Transamination of MOB to methionine	SmallMolecule206	SmallMolecule207	
+BiochemicalReaction120	Transamination of MOB to methionine	PhysicalEntity3	SmallMolecule207	
+BiochemicalReaction121	Antizyme OAZ binds to Ornithine decarboxylase	Protein94	Complex83	
+BiochemicalReaction121	Antizyme OAZ binds to Ornithine decarboxylase	Protein106	Complex83	
+BiochemicalReaction122	26S proteosome degrades ODC holoenzyme complex	Complex83	Protein106	
+BiochemicalReaction123	Antizyme inhibitor binds to OAZ and stablizes ODC complex	Protein154	Complex85	
+BiochemicalReaction123	Antizyme inhibitor binds to OAZ and stablizes ODC complex	Complex83	Complex85	
+BiochemicalReaction124	NQO1 interaction with ODC	Protein94	Complex87	
+BiochemicalReaction124	NQO1 interaction with ODC	Protein155	Complex87	
+BiochemicalReaction125	Tyrosine is hydroxylated to dopa	SmallMolecule112	SmallMolecule113	
+BiochemicalReaction125	Tyrosine is hydroxylated to dopa	SmallMolecule110	SmallMolecule113	
+BiochemicalReaction125	Tyrosine is hydroxylated to dopa	SmallMolecule111	SmallMolecule113	
+BiochemicalReaction125	Tyrosine is hydroxylated to dopa	SmallMolecule111	SmallMolecule208	
+BiochemicalReaction125	Tyrosine is hydroxylated to dopa	SmallMolecule110	SmallMolecule208	
+BiochemicalReaction125	Tyrosine is hydroxylated to dopa	SmallMolecule112	SmallMolecule208	
+BiochemicalReaction126	Dopa is decarboxylated to dopamine	SmallMolecule208	SmallMolecule97	
+BiochemicalReaction126	Dopa is decarboxylated to dopamine	SmallMolecule208	SmallMolecule209	
+BiochemicalReaction127	Dopamine translocates to a secretory vesicle	SmallMolecule209	SmallMolecule210	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule211	SmallMolecule213	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule210	SmallMolecule213	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule212	SmallMolecule213	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule212	SmallMolecule214	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule210	SmallMolecule214	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule211	SmallMolecule214	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule212	SmallMolecule215	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule210	SmallMolecule215	
+BiochemicalReaction128	Dopamine is oxidised to noradrenaline	SmallMolecule211	SmallMolecule215	
+BiochemicalReaction129	Noradrenaline translocates to the cytosol	SmallMolecule213	SmallMolecule218	
+BiochemicalReaction13	L-1-pyrroline-5-carboxylate + NADPH + H+ => proline + NADP+	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction13	L-1-pyrroline-5-carboxylate + NADPH + H+ => proline + NADP+	SmallMolecule16	SmallMolecule24	
+BiochemicalReaction13	L-1-pyrroline-5-carboxylate + NADPH + H+ => proline + NADP+	SmallMolecule17	SmallMolecule24	
+BiochemicalReaction13	L-1-pyrroline-5-carboxylate + NADPH + H+ => proline + NADP+	SmallMolecule17	SmallMolecule21	
+BiochemicalReaction13	L-1-pyrroline-5-carboxylate + NADPH + H+ => proline + NADP+	SmallMolecule16	SmallMolecule21	
+BiochemicalReaction13	L-1-pyrroline-5-carboxylate + NADPH + H+ => proline + NADP+	SmallMolecule22	SmallMolecule21	
+BiochemicalReaction130	Noradrenaline is converted to adrenaline	SmallMolecule170	SmallMolecule48	
+BiochemicalReaction130	Noradrenaline is converted to adrenaline	SmallMolecule218	SmallMolecule48	
+BiochemicalReaction130	Noradrenaline is converted to adrenaline	SmallMolecule218	SmallMolecule219	
+BiochemicalReaction130	Noradrenaline is converted to adrenaline	SmallMolecule170	SmallMolecule219	
+BiochemicalReaction130	Noradrenaline is converted to adrenaline	SmallMolecule218	SmallMolecule172	
+BiochemicalReaction130	Noradrenaline is converted to adrenaline	SmallMolecule170	SmallMolecule172	
+BiochemicalReaction131	Iodide is taken up by thyroid epithelial cells	SmallMolecule177	SmallMolecule178	
+BiochemicalReaction131	Iodide is taken up by thyroid epithelial cells	SmallMolecule220	SmallMolecule178	
+BiochemicalReaction131	Iodide is taken up by thyroid epithelial cells	SmallMolecule220	SmallMolecule221	
+BiochemicalReaction131	Iodide is taken up by thyroid epithelial cells	SmallMolecule177	SmallMolecule221	
+BiochemicalReaction132	Iodide is organified	SmallMolecule222	SmallMolecule225	
+BiochemicalReaction132	Iodide is organified	SmallMolecule223	SmallMolecule225	
+BiochemicalReaction132	Iodide is organified	SmallMolecule224	SmallMolecule225	
+BiochemicalReaction132	Iodide is organified	SmallMolecule220	SmallMolecule225	
+BiochemicalReaction132	Iodide is organified	SmallMolecule220	SmallMolecule226	
+BiochemicalReaction132	Iodide is organified	SmallMolecule224	SmallMolecule226	
+BiochemicalReaction132	Iodide is organified	SmallMolecule223	SmallMolecule226	
+BiochemicalReaction132	Iodide is organified	SmallMolecule222	SmallMolecule226	
+BiochemicalReaction132	Iodide is organified	SmallMolecule220	SmallMolecule227	
+BiochemicalReaction132	Iodide is organified	SmallMolecule224	SmallMolecule227	
+BiochemicalReaction132	Iodide is organified	SmallMolecule223	SmallMolecule227	
+BiochemicalReaction132	Iodide is organified	SmallMolecule222	SmallMolecule227	
+BiochemicalReaction133	Tyrosine is monoiodinated	SmallMolecule226	SmallMolecule229	
+BiochemicalReaction133	Tyrosine is monoiodinated	SmallMolecule228	SmallMolecule229	
+BiochemicalReaction133	Tyrosine is monoiodinated	SmallMolecule228	SmallMolecule230	
+BiochemicalReaction133	Tyrosine is monoiodinated	SmallMolecule226	SmallMolecule230	
+BiochemicalReaction134	Monoiodinated tyrosine can be deiodinated	SmallMolecule222	SmallMolecule225	
+BiochemicalReaction134	Monoiodinated tyrosine can be deiodinated	SmallMolecule230	SmallMolecule225	
+BiochemicalReaction134	Monoiodinated tyrosine can be deiodinated	SmallMolecule230	SmallMolecule228	
+BiochemicalReaction134	Monoiodinated tyrosine can be deiodinated	SmallMolecule222	SmallMolecule228	
+BiochemicalReaction134	Monoiodinated tyrosine can be deiodinated	SmallMolecule230	SmallMolecule220	
+BiochemicalReaction134	Monoiodinated tyrosine can be deiodinated	SmallMolecule222	SmallMolecule220	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule222	SmallMolecule225	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule223	SmallMolecule225	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule228	SmallMolecule225	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule224	SmallMolecule225	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule220	SmallMolecule225	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule220	SmallMolecule232	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule224	SmallMolecule232	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule228	SmallMolecule232	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule223	SmallMolecule232	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule222	SmallMolecule232	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule220	SmallMolecule227	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule224	SmallMolecule227	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule228	SmallMolecule227	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule223	SmallMolecule227	
+BiochemicalReaction135	Tyrosine is diiodinated	SmallMolecule222	SmallMolecule227	
+BiochemicalReaction136	Diiodinated tyrosine can be deiodinated	SmallMolecule222	SmallMolecule225	
+BiochemicalReaction136	Diiodinated tyrosine can be deiodinated	SmallMolecule232	SmallMolecule225	
+BiochemicalReaction136	Diiodinated tyrosine can be deiodinated	SmallMolecule232	SmallMolecule228	
+BiochemicalReaction136	Diiodinated tyrosine can be deiodinated	SmallMolecule222	SmallMolecule228	
+BiochemicalReaction136	Diiodinated tyrosine can be deiodinated	SmallMolecule232	SmallMolecule220	
+BiochemicalReaction136	Diiodinated tyrosine can be deiodinated	SmallMolecule222	SmallMolecule220	
+BiochemicalReaction137	DIT and MIT combine to form triiodothyronine	SmallMolecule230	SmallMolecule233	
+BiochemicalReaction137	DIT and MIT combine to form triiodothyronine	SmallMolecule232	SmallMolecule233	
+BiochemicalReaction137	DIT and MIT combine to form triiodothyronine	SmallMolecule232	SmallMolecule234	
+BiochemicalReaction137	DIT and MIT combine to form triiodothyronine	SmallMolecule230	SmallMolecule234	
+BiochemicalReaction138	Two DITs combine to form thyroxine	SmallMolecule232	SmallMolecule233	
+BiochemicalReaction138	Two DITs combine to form thyroxine	SmallMolecule232	SmallMolecule235	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule133	SmallMolecule134	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule48	SmallMolecule134	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule236	SmallMolecule134	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule236	SmallMolecule221	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule48	SmallMolecule221	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule133	SmallMolecule221	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule236	SmallMolecule237	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule48	SmallMolecule237	
+BiochemicalReaction139	Thyroxine is deiodinated to triiodothyronine	SmallMolecule133	SmallMolecule237	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule25	SmallMolecule4	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule9	SmallMolecule4	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule26	SmallMolecule4	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule27	SmallMolecule4	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule25	SmallMolecule29	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule26	SmallMolecule30	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule9	SmallMolecule30	
+BiochemicalReaction14	aspartate + glutamine + ATP <=> asparagine + glutamate + AMP + pyrophosphate [ASNS]	SmallMolecule25	SmallMolecule30	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule133	SmallMolecule134	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule48	SmallMolecule134	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule236	SmallMolecule134	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule236	SmallMolecule221	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule48	SmallMolecule221	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule133	SmallMolecule221	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule236	SmallMolecule237	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule48	SmallMolecule237	
+BiochemicalReaction140	Thyroxine is deiodinated to reverse triiodothyronine (RT3)	SmallMolecule133	SmallMolecule237	
+BiochemicalReaction141	Tryptophan is hydroxylated	SmallMolecule126	SmallMolecule238	
+BiochemicalReaction141	Tryptophan is hydroxylated	SmallMolecule110	SmallMolecule238	
+BiochemicalReaction141	Tryptophan is hydroxylated	SmallMolecule111	SmallMolecule238	
+BiochemicalReaction141	Tryptophan is hydroxylated	SmallMolecule111	SmallMolecule113	
+BiochemicalReaction141	Tryptophan is hydroxylated	SmallMolecule110	SmallMolecule113	
+BiochemicalReaction141	Tryptophan is hydroxylated	SmallMolecule126	SmallMolecule113	
+BiochemicalReaction142	Decarboxylation of 5-hydroxytryptophan forms serotonin	SmallMolecule238	SmallMolecule239	
+BiochemicalReaction142	Decarboxylation of 5-hydroxytryptophan forms serotonin	SmallMolecule238	SmallMolecule97	
+BiochemicalReaction143	N-acetylation of serotonin	SmallMolecule239	SmallMolecule240	
+BiochemicalReaction143	N-acetylation of serotonin	SmallMolecule185	SmallMolecule240	
+BiochemicalReaction143	N-acetylation of serotonin	SmallMolecule185	SmallMolecule187	
+BiochemicalReaction143	N-acetylation of serotonin	SmallMolecule239	SmallMolecule187	
+BiochemicalReaction144	Methylation of N-acetyl-5-HT to form melatonin	SmallMolecule170	SmallMolecule241	
+BiochemicalReaction144	Methylation of N-acetyl-5-HT to form melatonin	SmallMolecule240	SmallMolecule241	
+BiochemicalReaction144	Methylation of N-acetyl-5-HT to form melatonin	SmallMolecule240	SmallMolecule48	
+BiochemicalReaction144	Methylation of N-acetyl-5-HT to form melatonin	SmallMolecule170	SmallMolecule48	
+BiochemicalReaction144	Methylation of N-acetyl-5-HT to form melatonin	SmallMolecule240	SmallMolecule172	
+BiochemicalReaction144	Methylation of N-acetyl-5-HT to form melatonin	SmallMolecule170	SmallMolecule172	
+BiochemicalReaction145	Synthesis of glyoxylate from hydroxyproline	SmallMolecule242	SmallMolecule243	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule244	SmallMolecule243	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule189	SmallMolecule243	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule190	SmallMolecule243	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule190	SmallMolecule245	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule189	SmallMolecule245	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule244	SmallMolecule245	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule190	SmallMolecule193	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule189	SmallMolecule193	
+BiochemicalReaction146	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule244	SmallMolecule193	
+BiochemicalReaction147	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule243	SmallMolecule244	
+BiochemicalReaction147	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule246	SmallMolecule244	
+BiochemicalReaction147	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule246	SmallMolecule247	
+BiochemicalReaction147	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule243	SmallMolecule247	
+BiochemicalReaction148	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule248	SmallMolecule249	
+BiochemicalReaction148	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule6	SmallMolecule249	
+BiochemicalReaction148	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction148	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule248	SmallMolecule7	
+BiochemicalReaction149	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule243	SmallMolecule252	
+BiochemicalReaction149	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule250	SmallMolecule252	
+BiochemicalReaction149	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule251	SmallMolecule252	
+BiochemicalReaction149	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule251	SmallMolecule253	
+BiochemicalReaction149	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule250	SmallMolecule253	
+BiochemicalReaction149	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule243	SmallMolecule253	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule5	SmallMolecule23	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule31	SmallMolecule23	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule17	SmallMolecule23	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule33	SmallMolecule23	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule33	SmallMolecule8	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule17	SmallMolecule8	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule31	SmallMolecule8	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule17	SmallMolecule34	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule31	SmallMolecule34	
+BiochemicalReaction15	alpha-ketoglutarate + NH4+ + NAD(P)H + H+ <=> glutamate + NAD(P)+ [GLUD1]	SmallMolecule5	SmallMolecule34	
+BiochemicalReaction150	glycolate + O2 => glyoxylate + H2O2	SmallMolecule189	SmallMolecule243	
+BiochemicalReaction150	glycolate + O2 => glyoxylate + H2O2	SmallMolecule252	SmallMolecule243	
+BiochemicalReaction150	glycolate + O2 => glyoxylate + H2O2	SmallMolecule252	SmallMolecule193	
+BiochemicalReaction150	glycolate + O2 => glyoxylate + H2O2	SmallMolecule189	SmallMolecule193	
+BiochemicalReaction151	Conversion of glyoxylate to oxalate	SmallMolecule243	SmallMolecule193	
+BiochemicalReaction151	Conversion of glyoxylate to oxalate	SmallMolecule189	SmallMolecule193	
+BiochemicalReaction151	Conversion of glyoxylate to oxalate	SmallMolecule190	SmallMolecule193	
+BiochemicalReaction151	Conversion of glyoxylate to oxalate	SmallMolecule190	SmallMolecule255	
+BiochemicalReaction151	Conversion of glyoxylate to oxalate	SmallMolecule189	SmallMolecule255	
+BiochemicalReaction151	Conversion of glyoxylate to oxalate	SmallMolecule243	SmallMolecule255	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule207	SmallMolecule42	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule26	SmallMolecule42	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule27	SmallMolecule42	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule27	SmallMolecule170	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule26	SmallMolecule170	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule207	SmallMolecule170	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction152	SAM is sythesized from methionine's reaction with ATP	SmallMolecule207	SmallMolecule29	
+BiochemicalReaction153	Methionine is reformed	Complex109	Complex112	
+BiochemicalReaction153	Methionine is reformed	SmallMolecule259	Complex112	
+BiochemicalReaction153	Methionine is reformed	SmallMolecule259	SmallMolecule207	
+BiochemicalReaction153	Methionine is reformed	Complex109	SmallMolecule207	
+BiochemicalReaction154	S-adenoylhomocysteine is hydrolyzed	SmallMolecule172	SmallMolecule261	
+BiochemicalReaction154	S-adenoylhomocysteine is hydrolyzed	SmallMolecule27	SmallMolecule261	
+BiochemicalReaction154	S-adenoylhomocysteine is hydrolyzed	SmallMolecule27	SmallMolecule259	
+BiochemicalReaction154	S-adenoylhomocysteine is hydrolyzed	SmallMolecule172	SmallMolecule259	
+BiochemicalReaction155	Remethylation of homocysteine via betaine degradation	SmallMolecule262	SmallMolecule263	
+BiochemicalReaction155	Remethylation of homocysteine via betaine degradation	SmallMolecule259	SmallMolecule263	
+BiochemicalReaction155	Remethylation of homocysteine via betaine degradation	SmallMolecule259	SmallMolecule207	
+BiochemicalReaction155	Remethylation of homocysteine via betaine degradation	SmallMolecule262	SmallMolecule207	
+BiochemicalReaction156	Cystathionine is formed from homocysteine and serine	SmallMolecule51	SmallMolecule27	
+BiochemicalReaction156	Cystathionine is formed from homocysteine and serine	SmallMolecule259	SmallMolecule27	
+BiochemicalReaction156	Cystathionine is formed from homocysteine and serine	SmallMolecule259	SmallMolecule264	
+BiochemicalReaction156	Cystathionine is formed from homocysteine and serine	SmallMolecule51	SmallMolecule264	
+BiochemicalReaction157	Cleavage of cystathionine into cysteine	SmallMolecule27	SmallMolecule265	
+BiochemicalReaction157	Cleavage of cystathionine into cysteine	SmallMolecule264	SmallMolecule265	
+BiochemicalReaction157	Cleavage of cystathionine into cysteine	SmallMolecule264	SmallMolecule266	
+BiochemicalReaction157	Cleavage of cystathionine into cysteine	SmallMolecule27	SmallMolecule266	
+BiochemicalReaction157	Cleavage of cystathionine into cysteine	SmallMolecule264	SmallMolecule267	
+BiochemicalReaction157	Cleavage of cystathionine into cysteine	SmallMolecule27	SmallMolecule267	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule266	SmallMolecule42	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule4	SmallMolecule42	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule26	SmallMolecule42	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule26	SmallMolecule37	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule4	SmallMolecule37	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule266	SmallMolecule37	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule26	SmallMolecule268	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule4	SmallMolecule268	
+BiochemicalReaction158	Glutamate and cysteine combine	SmallMolecule266	SmallMolecule268	
+BiochemicalReaction159	A dipeptidase cleaves cysteinylglycine	SmallMolecule269	SmallMolecule161	
+BiochemicalReaction159	A dipeptidase cleaves cysteinylglycine	SmallMolecule269	SmallMolecule266	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule23	SmallMolecule5	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule34	SmallMolecule5	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule34	SmallMolecule31	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule8	SmallMolecule31	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule23	SmallMolecule31	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule34	SmallMolecule17	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule8	SmallMolecule17	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule23	SmallMolecule17	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule34	SmallMolecule33	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule8	SmallMolecule33	
+BiochemicalReaction16	glutamate + NAD(P)+ => alpha-ketoglutarate + NH4+ + NAD(P)H + H+ [GLUD1]	SmallMolecule23	SmallMolecule33	
+BiochemicalReaction160	Homocysteine is degraded to oxobutanoate and H2S	SmallMolecule27	SmallMolecule265	
+BiochemicalReaction160	Homocysteine is degraded to oxobutanoate and H2S	SmallMolecule259	SmallMolecule265	
+BiochemicalReaction160	Homocysteine is degraded to oxobutanoate and H2S	SmallMolecule259	SmallMolecule270	
+BiochemicalReaction160	Homocysteine is degraded to oxobutanoate and H2S	SmallMolecule27	SmallMolecule270	
+BiochemicalReaction160	Homocysteine is degraded to oxobutanoate and H2S	SmallMolecule259	SmallMolecule267	
+BiochemicalReaction160	Homocysteine is degraded to oxobutanoate and H2S	SmallMolecule27	SmallMolecule267	
+BiochemicalReaction161	Cysteine is degraded to serine and H2S	SmallMolecule266	SmallMolecule51	
+BiochemicalReaction161	Cysteine is degraded to serine and H2S	SmallMolecule27	SmallMolecule51	
+BiochemicalReaction161	Cysteine is degraded to serine and H2S	SmallMolecule27	SmallMolecule270	
+BiochemicalReaction161	Cysteine is degraded to serine and H2S	SmallMolecule266	SmallMolecule270	
+BiochemicalReaction162	Cysteine is oxidized	SmallMolecule266	SmallMolecule271	
+BiochemicalReaction162	Cysteine is oxidized	SmallMolecule110	SmallMolecule271	
+BiochemicalReaction163	CSAD decarboxylates 3-sulfinoalanine to hypotaurine	SmallMolecule271	SmallMolecule97	
+BiochemicalReaction163	CSAD decarboxylates 3-sulfinoalanine to hypotaurine	SmallMolecule271	SmallMolecule272	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule46	SmallMolecule48	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule27	SmallMolecule48	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule272	SmallMolecule48	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule272	SmallMolecule273	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule27	SmallMolecule273	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule46	SmallMolecule273	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule272	SmallMolecule49	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule27	SmallMolecule49	
+BiochemicalReaction164	Oxidation of hypotaurine to taurine	SmallMolecule46	SmallMolecule49	
+BiochemicalReaction165	Excess homocysteine yields homolanthionine and H2S	SmallMolecule259	SmallMolecule274	
+BiochemicalReaction165	Excess homocysteine yields homolanthionine and H2S	SmallMolecule259	SmallMolecule270	
+BiochemicalReaction166	Excess cysteine yields lanthionine and H2S	SmallMolecule266	SmallMolecule275	
+BiochemicalReaction166	Excess cysteine yields lanthionine and H2S	SmallMolecule266	SmallMolecule270	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	Protein192	Protein193	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	SmallMolecule276	Protein193	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	SmallMolecule277	Protein193	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	SmallMolecule270	Protein193	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	SmallMolecule270	SmallMolecule278	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	SmallMolecule277	SmallMolecule278	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	SmallMolecule276	SmallMolecule278	
+BiochemicalReaction167	SQR oxidizes sulfide to bound persulfide	Protein192	SmallMolecule278	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	Protein193	Protein194	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	SmallMolecule23	Protein194	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	SmallMolecule155	Protein194	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	SmallMolecule155	SmallMolecule279	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	SmallMolecule23	SmallMolecule279	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	Protein193	SmallMolecule279	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	SmallMolecule155	SmallMolecule17	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	SmallMolecule23	SmallMolecule17	
+BiochemicalReaction168	Persulfide sulfur is dioxygenated	Protein193	SmallMolecule17	
+BiochemicalReaction169	Persulfide sulfur is transferred onto sulfite	Protein193	Protein194	
+BiochemicalReaction169	Persulfide sulfur is transferred onto sulfite	SmallMolecule279	Protein194	
+BiochemicalReaction169	Persulfide sulfur is transferred onto sulfite	SmallMolecule279	SmallMolecule281	
+BiochemicalReaction169	Persulfide sulfur is transferred onto sulfite	Protein193	SmallMolecule281	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule41	SmallMolecule42	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule4	SmallMolecule42	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule26	SmallMolecule42	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule26	SmallMolecule25	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule4	SmallMolecule25	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule41	SmallMolecule25	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule26	SmallMolecule37	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule4	SmallMolecule37	
+BiochemicalReaction17	glutamate + NH4+ + ATP => glutamine + ADP + orthophosphate [GLUL]	SmallMolecule41	SmallMolecule37	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule281	SmallMolecule283	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule282	SmallMolecule283	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule17	SmallMolecule283	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule17	SmallMolecule279	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule282	SmallMolecule279	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule281	SmallMolecule279	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule17	SmallMolecule284	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule282	SmallMolecule284	
+BiochemicalReaction170	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule281	SmallMolecule284	
+BiochemicalReaction171	Sulfite is oxidized to sulfate	SmallMolecule279	SmallMolecule285	
+BiochemicalReaction171	Sulfite is oxidized to sulfate	SmallMolecule23	SmallMolecule285	
+BiochemicalReaction171	Sulfite is oxidized to sulfate	SmallMolecule155	SmallMolecule285	
+BiochemicalReaction171	Sulfite is oxidized to sulfate	SmallMolecule155	SmallMolecule286	
+BiochemicalReaction171	Sulfite is oxidized to sulfate	SmallMolecule23	SmallMolecule286	
+BiochemicalReaction171	Sulfite is oxidized to sulfate	SmallMolecule279	SmallMolecule286	
+BiochemicalReaction172	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule288	SmallMolecule289	
+BiochemicalReaction172	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule285	SmallMolecule289	
+BiochemicalReaction172	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule285	SmallMolecule290	
+BiochemicalReaction172	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule288	SmallMolecule290	
+BiochemicalReaction18	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule23	SmallMolecule8	
+BiochemicalReaction18	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule43	SmallMolecule8	
+BiochemicalReaction18	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule43	SmallMolecule33	
+BiochemicalReaction18	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule23	SmallMolecule33	
+BiochemicalReaction19	glutamine + pyruvate => 2-oxoglutaramate + alanine	SmallMolecule3	SmallMolecule44	
+BiochemicalReaction19	glutamine + pyruvate => 2-oxoglutaramate + alanine	SmallMolecule25	SmallMolecule44	
+BiochemicalReaction19	glutamine + pyruvate => 2-oxoglutaramate + alanine	SmallMolecule25	SmallMolecule1	
+BiochemicalReaction19	glutamine + pyruvate => 2-oxoglutaramate + alanine	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT]	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT]	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction2	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT]	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction2	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT]	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction20	3-phosphoglycerate is dehydrogenated	SmallMolecule45	SmallMolecule47	
+BiochemicalReaction20	3-phosphoglycerate is dehydrogenated	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction20	3-phosphoglycerate is dehydrogenated	SmallMolecule46	SmallMolecule48	
+BiochemicalReaction20	3-phosphoglycerate is dehydrogenated	SmallMolecule45	SmallMolecule48	
+BiochemicalReaction20	3-phosphoglycerate is dehydrogenated	SmallMolecule46	SmallMolecule49	
+BiochemicalReaction20	3-phosphoglycerate is dehydrogenated	SmallMolecule45	SmallMolecule49	
+BiochemicalReaction21	3-phosphonooxypyruvic acid + L-glutamate = O-phospho-L-serine + 2-oxoglutarate	SmallMolecule47	SmallMolecule50	
+BiochemicalReaction21	3-phosphonooxypyruvic acid + L-glutamate = O-phospho-L-serine + 2-oxoglutarate	SmallMolecule4	SmallMolecule50	
+BiochemicalReaction21	3-phosphonooxypyruvic acid + L-glutamate = O-phospho-L-serine + 2-oxoglutarate	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction21	3-phosphonooxypyruvic acid + L-glutamate = O-phospho-L-serine + 2-oxoglutarate	SmallMolecule47	SmallMolecule2	
+BiochemicalReaction22	phosphoserine is dephosphorylated	SmallMolecule50	SmallMolecule42	
+BiochemicalReaction22	phosphoserine is dephosphorylated	SmallMolecule27	SmallMolecule42	
+BiochemicalReaction22	phosphoserine is dephosphorylated	SmallMolecule27	SmallMolecule51	
+BiochemicalReaction22	phosphoserine is dephosphorylated	SmallMolecule50	SmallMolecule51	
+BiochemicalReaction23	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT1]	SmallMolecule53	SmallMolecule57	
+BiochemicalReaction23	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT1]	SmallMolecule2	SmallMolecule57	
+BiochemicalReaction23	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT1]	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction23	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT1]	SmallMolecule53	SmallMolecule4	
+BiochemicalReaction24	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT1]	SmallMolecule57	SmallMolecule53	
+BiochemicalReaction24	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT1]	SmallMolecule4	SmallMolecule53	
+BiochemicalReaction24	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT1]	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction24	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT1]	SmallMolecule57	SmallMolecule2	
+BiochemicalReaction25	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT2]	SmallMolecule5	SmallMolecule65	
+BiochemicalReaction25	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT2]	SmallMolecule61	SmallMolecule65	
+BiochemicalReaction25	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT2]	SmallMolecule61	SmallMolecule8	
+BiochemicalReaction25	leu, ile, or val + alpha-ketoglutarate <=> a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate [BCAT2]	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction26	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT2]	SmallMolecule65	SmallMolecule5	
+BiochemicalReaction26	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT2]	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction26	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT2]	SmallMolecule8	SmallMolecule61	
+BiochemicalReaction26	a-ketoisocaproate, a-keto-b-methylvalerate, or a-ketoisovalerate + glutamate <=> leu, ile, or val + alpha-ketoglutarate [BCAT2]	SmallMolecule65	SmallMolecule61	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule35	SmallMolecule70	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule65	SmallMolecule70	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule69	SmallMolecule70	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule69	SmallMolecule74	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule65	SmallMolecule74	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule35	SmallMolecule74	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule69	SmallMolecule32	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule65	SmallMolecule32	
+BiochemicalReaction27	Oxidative decarboxylation of branched-chain alpha-keto acids	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction28	isovaleryl-CoA + FAD => beta-methylcrotonyl-CoA + FADH2	SmallMolecule75	SmallMolecule77	
+BiochemicalReaction28	isovaleryl-CoA + FAD => beta-methylcrotonyl-CoA + FADH2	SmallMolecule71	SmallMolecule77	
+BiochemicalReaction28	isovaleryl-CoA + FAD => beta-methylcrotonyl-CoA + FADH2	SmallMolecule71	SmallMolecule78	
+BiochemicalReaction28	isovaleryl-CoA + FAD => beta-methylcrotonyl-CoA + FADH2	SmallMolecule75	SmallMolecule78	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule78	SmallMolecule19	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule79	SmallMolecule19	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule79	SmallMolecule20	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule78	SmallMolecule20	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule18	SmallMolecule80	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule79	SmallMolecule80	
+BiochemicalReaction29	beta-methylcrotonyl-CoA + ATP + CO2 <=> beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O [MCCA]	SmallMolecule78	SmallMolecule80	
+BiochemicalReaction3	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT2]	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT2]	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT2]	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	alanine + alpha-ketoglutarate <=> pyruvate + glutamate [GPT2]	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule19	SmallMolecule78	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule20	SmallMolecule78	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule23	SmallMolecule78	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule80	SmallMolecule78	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule80	SmallMolecule79	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule23	SmallMolecule79	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule20	SmallMolecule79	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule19	SmallMolecule79	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule80	SmallMolecule18	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule23	SmallMolecule18	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule20	SmallMolecule18	
+BiochemicalReaction30	beta-methylglutaconyl-CoA + ADP + orthophosphate + H2O <=> beta-methylcrotonyl-CoA + ATP + CO2 [MCCA]	SmallMolecule19	SmallMolecule18	
+BiochemicalReaction31	beta-methylglutaconyl-CoA + H2O <=> beta-hydroxy-beta-methylglutaryl-CoA	SmallMolecule23	SmallMolecule81	
+BiochemicalReaction31	beta-methylglutaconyl-CoA + H2O <=> beta-hydroxy-beta-methylglutaryl-CoA	SmallMolecule80	SmallMolecule81	
+BiochemicalReaction32	alpha-methylbutyryl-CoA + FAD => tiglyl-CoA + FADH2	SmallMolecule75	SmallMolecule77	
+BiochemicalReaction32	alpha-methylbutyryl-CoA + FAD => tiglyl-CoA + FADH2	SmallMolecule72	SmallMolecule77	
+BiochemicalReaction32	alpha-methylbutyryl-CoA + FAD => tiglyl-CoA + FADH2	SmallMolecule72	SmallMolecule82	
+BiochemicalReaction32	alpha-methylbutyryl-CoA + FAD => tiglyl-CoA + FADH2	SmallMolecule75	SmallMolecule82	
+BiochemicalReaction33	tiglyl-CoA + H2O <=> alpha-methyl-beta-hydroxybutyryl-CoA	SmallMolecule23	SmallMolecule83	
+BiochemicalReaction33	tiglyl-CoA + H2O <=> alpha-methyl-beta-hydroxybutyryl-CoA	SmallMolecule82	SmallMolecule83	
+BiochemicalReaction34	alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+	SmallMolecule35	SmallMolecule84	
+BiochemicalReaction34	alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+	SmallMolecule83	SmallMolecule84	
+BiochemicalReaction34	alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+	SmallMolecule83	SmallMolecule32	
+BiochemicalReaction34	alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction34	alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+	SmallMolecule83	SmallMolecule17	
+BiochemicalReaction34	alpha-methyl-beta-hydroxybutyryl-CoA + NAD+ <=> alpha-methylacetoacetyl-CoA + NADH + H+	SmallMolecule35	SmallMolecule17	
+BiochemicalReaction35	alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+	SmallMolecule84	SmallMolecule35	
+BiochemicalReaction35	alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+	SmallMolecule32	SmallMolecule35	
+BiochemicalReaction35	alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+	SmallMolecule17	SmallMolecule35	
+BiochemicalReaction35	alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+	SmallMolecule17	SmallMolecule83	
+BiochemicalReaction35	alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+	SmallMolecule32	SmallMolecule83	
+BiochemicalReaction35	alpha-methylacetoacetyl-CoA + NADH + H+ <=> alpha-methyl-beta-hydroxybutyryl-CoA + NAD+	SmallMolecule84	SmallMolecule83	
+BiochemicalReaction36	alpha-methyl-acetoacetyl-CoA + CoA => propionyl-CoA + acetyl-CoA	SmallMolecule84	SmallMolecule85	
+BiochemicalReaction36	alpha-methyl-acetoacetyl-CoA + CoA => propionyl-CoA + acetyl-CoA	SmallMolecule69	SmallMolecule85	
+BiochemicalReaction36	alpha-methyl-acetoacetyl-CoA + CoA => propionyl-CoA + acetyl-CoA	SmallMolecule69	SmallMolecule86	
+BiochemicalReaction36	alpha-methyl-acetoacetyl-CoA + CoA => propionyl-CoA + acetyl-CoA	SmallMolecule84	SmallMolecule86	
+BiochemicalReaction37	isobutyryl-CoA + FAD => methacrylyl-CoA + FADH2	SmallMolecule73	SmallMolecule87	
+BiochemicalReaction37	isobutyryl-CoA + FAD => methacrylyl-CoA + FADH2	SmallMolecule75	SmallMolecule87	
+BiochemicalReaction37	isobutyryl-CoA + FAD => methacrylyl-CoA + FADH2	SmallMolecule75	SmallMolecule77	
+BiochemicalReaction37	isobutyryl-CoA + FAD => methacrylyl-CoA + FADH2	SmallMolecule73	SmallMolecule77	
+BiochemicalReaction38	methacrylyl-CoA + H2O <=> beta-hydroxyisobutyryl-CoA	SmallMolecule87	SmallMolecule88	
+BiochemicalReaction38	methacrylyl-CoA + H2O <=> beta-hydroxyisobutyryl-CoA	SmallMolecule23	SmallMolecule88	
+BiochemicalReaction39	beta-hydroxyisobutyryl-CoA + H2O => beta-hydroxyisobutyrate + CoA	SmallMolecule23	SmallMolecule89	
+BiochemicalReaction39	beta-hydroxyisobutyryl-CoA + H2O => beta-hydroxyisobutyrate + CoA	SmallMolecule88	SmallMolecule89	
+BiochemicalReaction39	beta-hydroxyisobutyryl-CoA + H2O => beta-hydroxyisobutyrate + CoA	SmallMolecule88	SmallMolecule69	
+BiochemicalReaction39	beta-hydroxyisobutyryl-CoA + H2O => beta-hydroxyisobutyrate + CoA	SmallMolecule23	SmallMolecule69	
+BiochemicalReaction4	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT2]	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction4	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT2]	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction4	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT2]	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction4	pyruvate + glutamate <=> alanine + alpha-ketoglutarate [GPT2]	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction40	beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction40	beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+	SmallMolecule89	SmallMolecule32	
+BiochemicalReaction40	beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+	SmallMolecule89	SmallMolecule17	
+BiochemicalReaction40	beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+	SmallMolecule35	SmallMolecule17	
+BiochemicalReaction40	beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+	SmallMolecule89	SmallMolecule90	
+BiochemicalReaction40	beta-hydroxyisobutyrate + NAD+ <=> methylmalonyl semialdehyde + NADH + H+	SmallMolecule35	SmallMolecule90	
+BiochemicalReaction41	methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+	SmallMolecule32	SmallMolecule35	
+BiochemicalReaction41	methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+	SmallMolecule17	SmallMolecule35	
+BiochemicalReaction41	methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+	SmallMolecule90	SmallMolecule35	
+BiochemicalReaction41	methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+	SmallMolecule90	SmallMolecule89	
+BiochemicalReaction41	methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+	SmallMolecule17	SmallMolecule89	
+BiochemicalReaction41	methylmalonyl semialdehyde + NADH + H+ <=> beta-hydroxyisobutyrate + NAD+	SmallMolecule32	SmallMolecule89	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule85	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule85	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule90	SmallMolecule85	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule90	SmallMolecule74	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule74	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule74	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule90	SmallMolecule32	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule32	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule90	SmallMolecule17	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule17	
+BiochemicalReaction42	methylmalonate semialdehyde + NAD+ + CoA => propionyl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule17	
+BiochemicalReaction43	histidine => urocanate + NH4+	SmallMolecule91	SmallMolecule41	
+BiochemicalReaction43	histidine => urocanate + NH4+	SmallMolecule91	SmallMolecule92	
+BiochemicalReaction44	urocanate + H2O => 4-imidazolone-5-propionate	SmallMolecule92	SmallMolecule93	
+BiochemicalReaction44	urocanate + H2O => 4-imidazolone-5-propionate	SmallMolecule27	SmallMolecule93	
+BiochemicalReaction45	4-imidazolone-5-propionate + H2O => N-formiminoglutamate + 2H+	SmallMolecule93	SmallMolecule48	
+BiochemicalReaction45	4-imidazolone-5-propionate + H2O => N-formiminoglutamate + 2H+	SmallMolecule27	SmallMolecule48	
+BiochemicalReaction45	4-imidazolone-5-propionate + H2O => N-formiminoglutamate + 2H+	SmallMolecule27	SmallMolecule94	
+BiochemicalReaction45	4-imidazolone-5-propionate + H2O => N-formiminoglutamate + 2H+	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction46	N-formiminoglutamate + tetrahydrofolate => glutamate + 5-formiminotetrahydrofolate	SmallMolecule95	SmallMolecule96	
+BiochemicalReaction46	N-formiminoglutamate + tetrahydrofolate => glutamate + 5-formiminotetrahydrofolate	SmallMolecule94	SmallMolecule96	
+BiochemicalReaction46	N-formiminoglutamate + tetrahydrofolate => glutamate + 5-formiminotetrahydrofolate	SmallMolecule94	SmallMolecule4	
+BiochemicalReaction46	N-formiminoglutamate + tetrahydrofolate => glutamate + 5-formiminotetrahydrofolate	SmallMolecule95	SmallMolecule4	
+BiochemicalReaction47	Histidine is decarboxylated to histamine	SmallMolecule91	SmallMolecule97	
+BiochemicalReaction47	Histidine is decarboxylated to histamine	SmallMolecule91	SmallMolecule98	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule5	SmallMolecule23	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule16	SmallMolecule23	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule17	SmallMolecule23	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule99	SmallMolecule23	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule99	SmallMolecule21	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule17	SmallMolecule21	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule16	SmallMolecule21	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule5	SmallMolecule21	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule99	SmallMolecule100	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule17	SmallMolecule100	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule16	SmallMolecule100	
+BiochemicalReaction48	lysine + alpha-ketoglutarate +NADPH + H+ => saccharopine + NADP+ + H2O	SmallMolecule5	SmallMolecule100	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule35	SmallMolecule101	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule23	SmallMolecule101	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule100	SmallMolecule101	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule100	SmallMolecule32	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule23	SmallMolecule32	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule100	SmallMolecule17	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule23	SmallMolecule17	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule35	SmallMolecule17	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule100	SmallMolecule8	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule23	SmallMolecule8	
+BiochemicalReaction49	saccharopine + NAD+ + H2O => alpha-aminoadipic semialdehyde + glutamate + NADH + H+	SmallMolecule35	SmallMolecule8	
+BiochemicalReaction5	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule9	SmallMolecule4	
+BiochemicalReaction5	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction5	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT1]	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule35	SmallMolecule102	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule23	SmallMolecule102	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule23	SmallMolecule32	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule101	SmallMolecule32	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule23	SmallMolecule17	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule35	SmallMolecule17	
+BiochemicalReaction50	alpha-aminoadipic semialdehyde + NAD+ => alpha-aminoadipate + NADH + H+	SmallMolecule101	SmallMolecule17	
+BiochemicalReaction51	alpha-aminoadipate + alpha-ketoglutarate <=> alpha-ketoadipate + glutamate	SmallMolecule102	SmallMolecule103	
+BiochemicalReaction51	alpha-aminoadipate + alpha-ketoglutarate <=> alpha-ketoadipate + glutamate	SmallMolecule5	SmallMolecule103	
+BiochemicalReaction51	alpha-aminoadipate + alpha-ketoglutarate <=> alpha-ketoadipate + glutamate	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction51	alpha-aminoadipate + alpha-ketoglutarate <=> alpha-ketoadipate + glutamate	SmallMolecule102	SmallMolecule8	
+BiochemicalReaction52	alpha-ketoadipate + glutamate <=> alpha-aminoadipate + alpha-ketoglutarate	SmallMolecule103	SmallMolecule102	
+BiochemicalReaction52	alpha-ketoadipate + glutamate <=> alpha-aminoadipate + alpha-ketoglutarate	SmallMolecule8	SmallMolecule102	
+BiochemicalReaction52	alpha-ketoadipate + glutamate <=> alpha-aminoadipate + alpha-ketoglutarate	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction52	alpha-ketoadipate + glutamate <=> alpha-aminoadipate + alpha-ketoglutarate	SmallMolecule103	SmallMolecule5	
+BiochemicalReaction53	Exchange of cytosolic 2-oxoadipate for mitochondrial 2-oxoglutarate	SmallMolecule5	SmallMolecule103	
+BiochemicalReaction53	Exchange of cytosolic 2-oxoadipate for mitochondrial 2-oxoglutarate	SmallMolecule104	SmallMolecule103	
+BiochemicalReaction53	Exchange of cytosolic 2-oxoadipate for mitochondrial 2-oxoglutarate	SmallMolecule104	SmallMolecule2	
+BiochemicalReaction53	Exchange of cytosolic 2-oxoadipate for mitochondrial 2-oxoglutarate	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule105	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule103	SmallMolecule105	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule105	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule74	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule103	SmallMolecule74	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule74	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule69	SmallMolecule32	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule103	SmallMolecule32	
+BiochemicalReaction54	alpha-ketoadipate + CoASH + NAD+ => glutaryl-CoA + CO2 + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction55	glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2	SmallMolecule105	SmallMolecule107	
+BiochemicalReaction55	glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2	SmallMolecule75	SmallMolecule107	
+BiochemicalReaction55	glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2	SmallMolecule75	SmallMolecule77	
+BiochemicalReaction55	glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2	SmallMolecule105	SmallMolecule77	
+BiochemicalReaction55	glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2	SmallMolecule75	SmallMolecule74	
+BiochemicalReaction55	glutaryl-CoA + FAD => crotonyl-CoA + FADH2 + CO2	SmallMolecule105	SmallMolecule74	
+BiochemicalReaction56	phenylalanine + pyruvate => 3-(indol-3-yl)pyruvate + alanine	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction56	phenylalanine + pyruvate => 3-(indol-3-yl)pyruvate + alanine	SmallMolecule108	SmallMolecule1	
+BiochemicalReaction56	phenylalanine + pyruvate => 3-(indol-3-yl)pyruvate + alanine	SmallMolecule108	SmallMolecule109	
+BiochemicalReaction56	phenylalanine + pyruvate => 3-(indol-3-yl)pyruvate + alanine	SmallMolecule3	SmallMolecule109	
+BiochemicalReaction57	phenylalanine + tetrahydrobiopterin + O2 => tyrosine + 4a-hydroxytetrahydrobiopterin + H2O	SmallMolecule110	SmallMolecule112	
+BiochemicalReaction57	phenylalanine + tetrahydrobiopterin + O2 => tyrosine + 4a-hydroxytetrahydrobiopterin + H2O	SmallMolecule108	SmallMolecule112	
+BiochemicalReaction57	phenylalanine + tetrahydrobiopterin + O2 => tyrosine + 4a-hydroxytetrahydrobiopterin + H2O	SmallMolecule111	SmallMolecule112	
+BiochemicalReaction57	phenylalanine + tetrahydrobiopterin + O2 => tyrosine + 4a-hydroxytetrahydrobiopterin + H2O	SmallMolecule111	SmallMolecule113	
+BiochemicalReaction57	phenylalanine + tetrahydrobiopterin + O2 => tyrosine + 4a-hydroxytetrahydrobiopterin + H2O	SmallMolecule108	SmallMolecule113	
+BiochemicalReaction57	phenylalanine + tetrahydrobiopterin + O2 => tyrosine + 4a-hydroxytetrahydrobiopterin + H2O	SmallMolecule110	SmallMolecule113	
+BiochemicalReaction58	4a-hydroxytetrahydrobiopterin => q-dihydrobiopterin + H2O	SmallMolecule113	SmallMolecule115	
+BiochemicalReaction58	4a-hydroxytetrahydrobiopterin => q-dihydrobiopterin + H2O	SmallMolecule113	SmallMolecule27	
+BiochemicalReaction59	q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+	SmallMolecule48	SmallMolecule46	
+BiochemicalReaction59	q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+	SmallMolecule115	SmallMolecule46	
+BiochemicalReaction59	q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+	SmallMolecule49	SmallMolecule46	
+BiochemicalReaction59	q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+	SmallMolecule49	SmallMolecule111	
+BiochemicalReaction59	q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+	SmallMolecule115	SmallMolecule111	
+BiochemicalReaction59	q-dihydrobiopterin + NADH + H+ => tetrahydrobiopterin + NAD+	SmallMolecule48	SmallMolecule111	
+BiochemicalReaction6	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT1]	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction6	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT1]	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction6	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT1]	SmallMolecule10	SmallMolecule2	
+BiochemicalReaction6	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT1]	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction60	tyrosine + alpha-ketoglutarate <=> p-hydroxyphenylpyruvate + glutamate	SmallMolecule112	SmallMolecule4	
+BiochemicalReaction60	tyrosine + alpha-ketoglutarate <=> p-hydroxyphenylpyruvate + glutamate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction60	tyrosine + alpha-ketoglutarate <=> p-hydroxyphenylpyruvate + glutamate	SmallMolecule2	SmallMolecule116	
+BiochemicalReaction60	tyrosine + alpha-ketoglutarate <=> p-hydroxyphenylpyruvate + glutamate	SmallMolecule112	SmallMolecule116	
+BiochemicalReaction61	p-hydroxyphenylpyruvate + glutamate <=> tyrosine + alpha-ketoglutarate	SmallMolecule4	SmallMolecule112	
+BiochemicalReaction61	p-hydroxyphenylpyruvate + glutamate <=> tyrosine + alpha-ketoglutarate	SmallMolecule116	SmallMolecule112	
+BiochemicalReaction61	p-hydroxyphenylpyruvate + glutamate <=> tyrosine + alpha-ketoglutarate	SmallMolecule116	SmallMolecule2	
+BiochemicalReaction61	p-hydroxyphenylpyruvate + glutamate <=> tyrosine + alpha-ketoglutarate	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction62	p-hydroxyphenylpyruvate + O2 => homogentisate + CO2	SmallMolecule110	SmallMolecule97	
+BiochemicalReaction62	p-hydroxyphenylpyruvate + O2 => homogentisate + CO2	SmallMolecule116	SmallMolecule97	
+BiochemicalReaction62	p-hydroxyphenylpyruvate + O2 => homogentisate + CO2	SmallMolecule116	SmallMolecule117	
+BiochemicalReaction62	p-hydroxyphenylpyruvate + O2 => homogentisate + CO2	SmallMolecule110	SmallMolecule117	
+BiochemicalReaction63	homogentisate + O2 => maleylacetoacetate	SmallMolecule110	SmallMolecule119	
+BiochemicalReaction63	homogentisate + O2 => maleylacetoacetate	SmallMolecule117	SmallMolecule119	
+BiochemicalReaction64	maleylacetoacetate => fumarylacetoacetate	SmallMolecule119	SmallMolecule120	
+BiochemicalReaction65	fumarylacetoacetate => fumarate + acetoacetate	SmallMolecule120	SmallMolecule122	
+BiochemicalReaction65	fumarylacetoacetate => fumarate + acetoacetate	SmallMolecule27	SmallMolecule122	
+BiochemicalReaction65	fumarylacetoacetate => fumarate + acetoacetate	SmallMolecule27	SmallMolecule123	
+BiochemicalReaction65	fumarylacetoacetate => fumarate + acetoacetate	SmallMolecule120	SmallMolecule123	
+BiochemicalReaction66	proline => L-1-pyrroline-5-carboxylate	SmallMolecule24	SmallMolecule22	
+BiochemicalReaction66	proline => L-1-pyrroline-5-carboxylate	SmallMolecule124	SmallMolecule22	
+BiochemicalReaction66	proline => L-1-pyrroline-5-carboxylate	SmallMolecule124	SmallMolecule125	
+BiochemicalReaction66	proline => L-1-pyrroline-5-carboxylate	SmallMolecule24	SmallMolecule125	
+BiochemicalReaction67	L-1-pyrroline-5-carboxylate <=> L-glutamate gamma-semialdehyde	SmallMolecule22	SmallMolecule15	
+BiochemicalReaction67	L-1-pyrroline-5-carboxylate <=> L-glutamate gamma-semialdehyde	SmallMolecule23	SmallMolecule15	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule35	SmallMolecule32	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule23	SmallMolecule32	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule15	SmallMolecule32	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule23	SmallMolecule17	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule35	SmallMolecule17	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule15	SmallMolecule8	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule23	SmallMolecule8	
+BiochemicalReaction68	L-glutamate gamma-semialdehyde + NAD+ => glutamate + NADH + H+	SmallMolecule35	SmallMolecule8	
+BiochemicalReaction69	tryptophan + O2 => N-formylkynurenine [TDO]	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction69	tryptophan + O2 => N-formylkynurenine [TDO]	SmallMolecule110	SmallMolecule127	
+BiochemicalReaction7	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT2]	SmallMolecule5	SmallMolecule13	
+BiochemicalReaction7	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT2]	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT2]	SmallMolecule12	SmallMolecule8	
+BiochemicalReaction7	aspartate + alpha-ketoglutarate <=> oxaloacetate + glutamate [GOT2]	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction70	tryptophan + O2 => N-formylkynurenine [IDO]	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction70	tryptophan + O2 => N-formylkynurenine [IDO]	SmallMolecule110	SmallMolecule127	
+BiochemicalReaction71	tryptophan + O2 => N-formylkynurenine [IDO2]	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction71	tryptophan + O2 => N-formylkynurenine [IDO2]	SmallMolecule110	SmallMolecule127	
+BiochemicalReaction72	N-formylkynurenine + H2O => kynurenine + formate	SmallMolecule27	SmallMolecule129	
+BiochemicalReaction72	N-formylkynurenine + H2O => kynurenine + formate	SmallMolecule127	SmallMolecule129	
+BiochemicalReaction72	N-formylkynurenine + H2O => kynurenine + formate	SmallMolecule127	SmallMolecule130	
+BiochemicalReaction72	N-formylkynurenine + H2O => kynurenine + formate	SmallMolecule27	SmallMolecule130	
+BiochemicalReaction73	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL1]	SmallMolecule3	SmallMolecule131	
+BiochemicalReaction73	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL1]	SmallMolecule129	SmallMolecule131	
+BiochemicalReaction73	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL1]	SmallMolecule129	SmallMolecule1	
+BiochemicalReaction73	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL1]	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction74	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL2]	SmallMolecule3	SmallMolecule131	
+BiochemicalReaction74	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL2]	SmallMolecule129	SmallMolecule131	
+BiochemicalReaction74	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL2]	SmallMolecule129	SmallMolecule1	
+BiochemicalReaction74	kynurenine + pyruvate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + alanine [CCBL2]	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction75	4-(2-aminophenyl)-2,4-dioxobutanoate => kynurenate + H2O [cytosolic]	SmallMolecule131	SmallMolecule27	
+BiochemicalReaction75	4-(2-aminophenyl)-2,4-dioxobutanoate => kynurenate + H2O [cytosolic]	SmallMolecule131	SmallMolecule132	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule133	SmallMolecule134	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule129	SmallMolecule134	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule48	SmallMolecule134	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule110	SmallMolecule134	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule110	SmallMolecule135	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule48	SmallMolecule135	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule129	SmallMolecule135	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule133	SmallMolecule135	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule110	SmallMolecule27	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule48	SmallMolecule27	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule129	SmallMolecule27	
+BiochemicalReaction76	kynurenine + O2 + NADPH + H+ => 3-hydroxykynurenine + NADP+ + H2O	SmallMolecule133	SmallMolecule27	
+BiochemicalReaction77	3-hydroxykynurenine + H2O => 3-hydroxyanthranilate + alanine	SmallMolecule135	SmallMolecule136	
+BiochemicalReaction77	3-hydroxykynurenine + H2O => 3-hydroxyanthranilate + alanine	SmallMolecule27	SmallMolecule136	
+BiochemicalReaction77	3-hydroxykynurenine + H2O => 3-hydroxyanthranilate + alanine	SmallMolecule27	SmallMolecule1	
+BiochemicalReaction77	3-hydroxykynurenine + H2O => 3-hydroxyanthranilate + alanine	SmallMolecule135	SmallMolecule1	
+BiochemicalReaction78	3-hydroxyanthranilate + O2 => 2-amino-3-carboxymuconate semialdehyde	SmallMolecule110	SmallMolecule137	
+BiochemicalReaction78	3-hydroxyanthranilate + O2 => 2-amino-3-carboxymuconate semialdehyde	SmallMolecule136	SmallMolecule137	
+BiochemicalReaction79	2-amino-3-carboxymuconate semialdehyde => 2-aminomuconate semialdehyde + CO2	SmallMolecule137	SmallMolecule138	
+BiochemicalReaction79	2-amino-3-carboxymuconate semialdehyde => 2-aminomuconate semialdehyde + CO2	SmallMolecule137	SmallMolecule97	
+BiochemicalReaction8	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule13	SmallMolecule5	
+BiochemicalReaction8	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction8	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction8	oxaloacetate + glutamate <=> aspartate + alpha-ketoglutarate [GOT2]	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule138	SmallMolecule48	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule27	SmallMolecule48	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule46	SmallMolecule48	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule46	SmallMolecule139	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule27	SmallMolecule139	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule138	SmallMolecule139	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule46	SmallMolecule49	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule27	SmallMolecule49	
+BiochemicalReaction80	2-aminomuconate semialdehyde + NAD+ + H2O => aminomuconate + NADH + H+	SmallMolecule138	SmallMolecule49	
+BiochemicalReaction81	kynurenine + 2-oxoglutarate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + glutamate	SmallMolecule5	SmallMolecule141	
+BiochemicalReaction81	kynurenine + 2-oxoglutarate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + glutamate	SmallMolecule140	SmallMolecule141	
+BiochemicalReaction81	kynurenine + 2-oxoglutarate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + glutamate	SmallMolecule140	SmallMolecule8	
+BiochemicalReaction81	kynurenine + 2-oxoglutarate => 4-(2-aminophenyl)-2,4-dioxobutanoic acid + glutamate	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction82	4-(2-aminophenyl)-2,4-dioxobutanoate => kynurenate + H2O [mitochondrial]	SmallMolecule141	SmallMolecule23	
+BiochemicalReaction82	4-(2-aminophenyl)-2,4-dioxobutanoate => kynurenate + H2O [mitochondrial]	SmallMolecule141	SmallMolecule142	
+BiochemicalReaction83	glutamate + acetyl CoA => N-acetyl glutamate + CoA	SmallMolecule86	SmallMolecule143	
+BiochemicalReaction83	glutamate + acetyl CoA => N-acetyl glutamate + CoA	SmallMolecule8	SmallMolecule143	
+BiochemicalReaction83	glutamate + acetyl CoA => N-acetyl glutamate + CoA	SmallMolecule8	SmallMolecule69	
+BiochemicalReaction83	glutamate + acetyl CoA => N-acetyl glutamate + CoA	SmallMolecule86	SmallMolecule69	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule79	SmallMolecule146	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule18	SmallMolecule146	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule33	SmallMolecule146	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule33	SmallMolecule19	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule79	SmallMolecule19	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule33	SmallMolecule20	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction84	2 ATP + NH4+ + HCO3- => 2 ADP + orthophosphate + carbamoyl phosphate	SmallMolecule79	SmallMolecule20	
+BiochemicalReaction85	carbamoyl phosphate + ornithine => citrulline + orthophosphate	SmallMolecule146	SmallMolecule147	
+BiochemicalReaction85	carbamoyl phosphate + ornithine => citrulline + orthophosphate	SmallMolecule14	SmallMolecule147	
+BiochemicalReaction85	carbamoyl phosphate + ornithine => citrulline + orthophosphate	SmallMolecule14	SmallMolecule20	
+BiochemicalReaction85	carbamoyl phosphate + ornithine => citrulline + orthophosphate	SmallMolecule146	SmallMolecule20	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule148	SmallMolecule149	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule9	SmallMolecule149	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule26	SmallMolecule149	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule148	SmallMolecule28	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction86	ATP + aspartate + citrulline <=> argininosuccinate + AMP + pyrophosphate	SmallMolecule148	SmallMolecule29	
+BiochemicalReaction87	argininosuccinate <=> fumarate + arginine	SmallMolecule149	SmallMolecule144	
+BiochemicalReaction87	argininosuccinate <=> fumarate + arginine	SmallMolecule149	SmallMolecule123	
+BiochemicalReaction88	arginine + H2O => ornithine + urea [ARG1]	SmallMolecule144	SmallMolecule150	
+BiochemicalReaction88	arginine + H2O => ornithine + urea [ARG1]	SmallMolecule27	SmallMolecule150	
+BiochemicalReaction88	arginine + H2O => ornithine + urea [ARG1]	SmallMolecule27	SmallMolecule151	
+BiochemicalReaction88	arginine + H2O => ornithine + urea [ARG1]	SmallMolecule144	SmallMolecule151	
+BiochemicalReaction89	arginine + H2O => ornithine + urea [ARG2]	SmallMolecule23	SmallMolecule14	
+BiochemicalReaction89	arginine + H2O => ornithine + urea [ARG2]	SmallMolecule145	SmallMolecule14	
+BiochemicalReaction89	arginine + H2O => ornithine + urea [ARG2]	SmallMolecule145	SmallMolecule153	
+BiochemicalReaction89	arginine + H2O => ornithine + urea [ARG2]	SmallMolecule23	SmallMolecule153	
+BiochemicalReaction9	ornithine + alpha-ketoglutarate <=> glutamate + L-glutamate gamma-semialdehyde [OAT]	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction9	ornithine + alpha-ketoglutarate <=> glutamate + L-glutamate gamma-semialdehyde [OAT]	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction9	ornithine + alpha-ketoglutarate <=> glutamate + L-glutamate gamma-semialdehyde [OAT]	SmallMolecule14	SmallMolecule8	
+BiochemicalReaction9	ornithine + alpha-ketoglutarate <=> glutamate + L-glutamate gamma-semialdehyde [OAT]	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction90	ornithine (cytosolic) + citrulline (mitochondrial) => ornithine (mitochondrial) + citrulline (cytosolic)	SmallMolecule151	SmallMolecule148	
+BiochemicalReaction90	ornithine (cytosolic) + citrulline (mitochondrial) => ornithine (mitochondrial) + citrulline (cytosolic)	SmallMolecule147	SmallMolecule148	
+BiochemicalReaction90	ornithine (cytosolic) + citrulline (mitochondrial) => ornithine (mitochondrial) + citrulline (cytosolic)	SmallMolecule147	SmallMolecule14	
+BiochemicalReaction90	ornithine (cytosolic) + citrulline (mitochondrial) => ornithine (mitochondrial) + citrulline (cytosolic)	SmallMolecule151	SmallMolecule14	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule5	SmallMolecule157	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule155	SmallMolecule157	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule156	SmallMolecule157	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule156	SmallMolecule158	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule155	SmallMolecule158	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule5	SmallMolecule158	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule156	SmallMolecule74	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule155	SmallMolecule74	
+BiochemicalReaction91	trimethyllysine + alpha-ketoglutarate + O2 => beta-hydroxy-trimethyllysine + succinate + CO2	SmallMolecule5	SmallMolecule74	
+BiochemicalReaction92	beta-hydroxy-trimethyllysine => gamma-butyrobetaine aldehyde + glycine	SmallMolecule160	SmallMolecule161	
+BiochemicalReaction92	beta-hydroxy-trimethyllysine => gamma-butyrobetaine aldehyde + glycine	SmallMolecule160	SmallMolecule162	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule162	SmallMolecule48	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule27	SmallMolecule48	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule46	SmallMolecule48	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule46	SmallMolecule49	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule27	SmallMolecule49	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule162	SmallMolecule49	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule46	SmallMolecule163	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule27	SmallMolecule163	
+BiochemicalReaction93	gamma-butyrobetaine semialdehyde + NAD+ => gamma-butyrobetaine + NADH + H+	SmallMolecule162	SmallMolecule163	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule110	SmallMolecule164	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule2	SmallMolecule164	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule163	SmallMolecule164	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule163	SmallMolecule97	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule2	SmallMolecule97	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule110	SmallMolecule97	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule163	SmallMolecule165	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule2	SmallMolecule165	
+BiochemicalReaction94	gamma-butyrobetaine + alpha-ketoglutarate + O2 => carnitine + succinate + CO2	SmallMolecule110	SmallMolecule165	
+BiochemicalReaction95	arginine + glycine => ornithine + guanidoacetate	SmallMolecule166	SmallMolecule168	
+BiochemicalReaction95	arginine + glycine => ornithine + guanidoacetate	SmallMolecule167	SmallMolecule168	
+BiochemicalReaction95	arginine + glycine => ornithine + guanidoacetate	SmallMolecule167	SmallMolecule169	
+BiochemicalReaction95	arginine + glycine => ornithine + guanidoacetate	SmallMolecule166	SmallMolecule169	
+BiochemicalReaction96	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule170	SmallMolecule48	
+BiochemicalReaction96	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule171	SmallMolecule48	
+BiochemicalReaction96	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule171	SmallMolecule172	
+BiochemicalReaction96	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule170	SmallMolecule172	
+BiochemicalReaction96	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule171	SmallMolecule173	
+BiochemicalReaction96	guanidinoacetate + S-adenosylmethionine => creatine + S-adenosylhomocysteine	SmallMolecule170	SmallMolecule173	
+BiochemicalReaction97	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule26	SmallMolecule174	
+BiochemicalReaction97	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule173	SmallMolecule174	
+BiochemicalReaction97	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule173	SmallMolecule37	
+BiochemicalReaction97	creatine + ATP => phosphocreatine + ADP [CKB,CKM]	SmallMolecule26	SmallMolecule37	
+BiochemicalReaction98	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule26	SmallMolecule174	
+BiochemicalReaction98	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule173	SmallMolecule174	
+BiochemicalReaction98	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule173	SmallMolecule37	
+BiochemicalReaction98	creatine + ATP => phosphocreatine + ADP [CK octamer]	SmallMolecule26	SmallMolecule37	
+BiochemicalReaction99	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule174	SmallMolecule42	
+BiochemicalReaction99	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule27	SmallMolecule42	
+BiochemicalReaction99	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule27	SmallMolecule175	
+BiochemicalReaction99	phosphocreatine + H2O => creatinine + orthophosphate	SmallMolecule174	SmallMolecule175	

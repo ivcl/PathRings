@@ -1,0 +1,19 @@
+BiochemicalReaction1	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Complex1	Complex7	
+BiochemicalReaction1	Mcm10 associates with the pre-replicative complex, stabilizing Mcm2-7	Protein16	Complex7	
+BiochemicalReaction2	Cdt1 is displaced from the pre-replicative complex.	Complex7	Protein7	
+BiochemicalReaction2	Cdt1 is displaced from the pre-replicative complex.	Complex7	Complex8	
+BiochemicalReaction3	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex10	Complex12	
+BiochemicalReaction3	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex8	Complex12	
+BiochemicalReaction3	CDK and DDK associate with the Mcm10:pre-replicative complex	Complex11	Complex12	
+BiochemicalReaction4	Mcm2-7 is phosphorylated by DDK	Complex2	SmallMolecule2	
+BiochemicalReaction4	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Mcm2-7 is phosphorylated by DDK	SmallMolecule1	Complex13	
+BiochemicalReaction4	Mcm2-7 is phosphorylated by DDK	Complex2	Complex13	
+BiochemicalReaction5	Cdc45 associates with the pre-replicative complex at the origin	Complex12	Complex14	
+BiochemicalReaction5	Cdc45 associates with the pre-replicative complex at the origin	Protein20	Complex14	
+BiochemicalReaction6	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex14	Complex16	
+BiochemicalReaction6	DNA Replication Factor A (RPA) associates with the pre-replicative complex at the origin	Complex15	Complex16	
+BiochemicalReaction7	DNA polymerase alpha:primase binds at the origin	Complex17	Complex20	
+BiochemicalReaction7	DNA polymerase alpha:primase binds at the origin	Complex18	Complex20	
+BiochemicalReaction8	DNA polymerase epsilon binds at the origin	Complex19	Complex18	
+BiochemicalReaction8	DNA polymerase epsilon binds at the origin	PhysicalEntity1	Complex18	

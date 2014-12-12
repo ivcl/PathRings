@@ -1,0 +1,23 @@
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	Complex1	SmallMolecule2	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Complex7	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	Complex1	Complex7	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Protein16	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	Complex1	Protein16	
+BiochemicalReaction2	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein26	Complex10	
+BiochemicalReaction2	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein16	Complex10	
+BiochemicalReaction3	Ubiquitinated Orc1 enters the cytosol	Complex10	Complex11	
+BiochemicalReaction4	Ubiquitinated Orc1 is degraded by the proteasome	Complex11	Protein41	
+BiochemicalReaction5	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Cdc6 protein is phosphorylated by CDK	Protein8	SmallMolecule2	
+BiochemicalReaction5	Cdc6 protein is phosphorylated by CDK	Protein8	Protein101	
+BiochemicalReaction5	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	Protein101	
+BiochemicalReaction6	Phosphorylated Cdc6 is exported from the nucleus	Protein101	Protein103	
+BiochemicalReaction7	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein41	Complex14	
+BiochemicalReaction7	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein103	Complex14	
+BiochemicalReaction7	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule3	Complex14	
+BiochemicalReaction8	Ubiquitinated Cdc6 is degraded by the proteasome	Complex14	Protein41	
+BiochemicalReaction9	Rearrangement and mobilization of Mcm2-7	Complex2	Protein1	
+BiochemicalReaction9	Rearrangement and mobilization of Mcm2-7	Complex2	Protein2	
+BiochemicalReaction9	Rearrangement and mobilization of Mcm2-7	Complex2	Complex15	
+BiochemicalReaction9	Rearrangement and mobilization of Mcm2-7	Complex2	Protein4	

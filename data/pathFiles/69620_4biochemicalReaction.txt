@@ -1,0 +1,99 @@
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	Complex1	Complex2	
+BiochemicalReaction1	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	Complex2	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex7	Complex8	
+BiochemicalReaction10	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein73	Complex8	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein75	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	Protein75	Protein76	
+BiochemicalReaction11	Phosphorylation of Cdc25A at Ser-123 in response to DNA damage	SmallMolecule1	Protein76	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein75	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	Protein75	Protein76	
+BiochemicalReaction12	Phosphorylation of Cdc25A at Ser-123 by Chk2	SmallMolecule1	Protein76	
+BiochemicalReaction13	Ubiquitination of phosphorylated Cdc25A	Protein9	Complex9	
+BiochemicalReaction13	Ubiquitination of phosphorylated Cdc25A	Protein78	Complex9	
+BiochemicalReaction14	Proteolytic degradation of ubiquitinated-Cdc25A	Complex9	PhysicalEntity3	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	Protein80	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	Protein79	Protein80	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	Protein79	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation and activation of Chk1 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein75	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein75	Protein76	
+BiochemicalReaction16	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	Protein76	
+BiochemicalReaction17	Recruitment and activation of Chk1	SmallMolecule1	Protein80	
+BiochemicalReaction17	Recruitment and activation of Chk1	Protein79	Protein80	
+BiochemicalReaction17	Recruitment and activation of Chk1	Protein79	SmallMolecule2	
+BiochemicalReaction17	Recruitment and activation of Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	SmallMolecule1	Protein83	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	Protein77	Protein83	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	Protein77	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation and activation of CHK2 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	Protein84	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	Protein85	
+BiochemicalReaction19	Phosphorylation of Cdc25C at Ser216	Protein84	Protein85	
+BiochemicalReaction2	Phosphorylation of MDM2 at serine-395 by ATM kinase	Protein4	Protein5	
+BiochemicalReaction20	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	Protein86	Complex11	
+BiochemicalReaction20	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	PhysicalEntity4	Complex11	
+BiochemicalReaction21	Retention of phospho-Cdc25C:14-3-3 complexes within the cytoplasm	Complex11	Complex11	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	Protein88	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	Protein87	Protein88	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	Protein87	SmallMolecule2	
+BiochemicalReaction22	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex12	SmallMolecule2	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	Complex13	
+BiochemicalReaction23	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex12	Complex13	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex14	SmallMolecule4	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule3	Complex15	
+BiochemicalReaction24	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex14	Complex15	
+BiochemicalReaction25	Stalling of DNA replication fork and RPA binding	Complex16	Complex17	
+BiochemicalReaction25	Stalling of DNA replication fork and RPA binding	PhysicalEntity5	Complex17	
+BiochemicalReaction26	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex10	Complex18	
+BiochemicalReaction26	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex17	Complex18	
+BiochemicalReaction27	Recruitment of Rad17-RFC complex to DNA	Complex19	Complex20	
+BiochemicalReaction27	Recruitment of Rad17-RFC complex to DNA	Complex17	Complex20	
+BiochemicalReaction28	Recruitment of the 9-1-1 complex to DNA	Complex21	Complex22	
+BiochemicalReaction28	Recruitment of the 9-1-1 complex to DNA	Complex20	Complex22	
+BiochemicalReaction29	Loading of claspin onto DNA during replication origin firing	Complex23	Complex33	
+BiochemicalReaction29	Loading of claspin onto DNA during replication origin firing	Protein129	Complex33	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	SmallMolecule1	Protein7	
+BiochemicalReaction3	Phosphorylation of COP1 at Ser-387  by ATM	Protein6	Protein7	
+BiochemicalReaction30	Activation of claspin	SmallMolecule1	Complex34	
+BiochemicalReaction30	Activation of claspin	Complex33	Complex34	
+BiochemicalReaction30	Activation of claspin	Complex33	SmallMolecule2	
+BiochemicalReaction30	Activation of claspin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein84	SmallMolecule2	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	Protein85	
+BiochemicalReaction31	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein84	Protein85	
+BiochemicalReaction32	Mad1 binds kinetochore	Protein131	Complex35	
+BiochemicalReaction32	Mad1 binds kinetochore	PhysicalEntity8	Complex35	
+BiochemicalReaction33	MAD2 associates with the Mad1 kinetochore complex	Protein132	Complex36	
+BiochemicalReaction33	MAD2 associates with the Mad1 kinetochore complex	Complex35	Complex36	
+BiochemicalReaction34	MAD2 converted  to an inhibitory state via interaction with Mad1	Complex36	Complex37	
+BiochemicalReaction35	Release of activated MAD2 from kinetochores	Complex37	Protein133	
+BiochemicalReaction35	Release of activated MAD2 from kinetochores	Complex37	Complex35	
+BiochemicalReaction36	Inactivation of APC/C via CDC20 sequestration	Protein133	Complex38	
+BiochemicalReaction36	Inactivation of APC/C via CDC20 sequestration	Protein134	Complex38	
+BiochemicalReaction37	Formation of the MCC complex	Protein133	Complex39	
+BiochemicalReaction37	Formation of the MCC complex	Protein135	Complex39	
+BiochemicalReaction37	Formation of the MCC complex	Protein134	Complex39	
+BiochemicalReaction37	Formation of the MCC complex	Protein136	Complex39	
+BiochemicalReaction38	Binding of the MCC complex to the APC/C complex	Complex39	Complex41	
+BiochemicalReaction38	Binding of the MCC complex to the APC/C complex	Complex40	Complex41	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Protein7	
+BiochemicalReaction4	Dissociation of the COP1-p53 complex	Complex3	Complex2	
+BiochemicalReaction5	Translocation of COP1 from the nucleus to the cytoplasm	Protein7	Protein8	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein9	Complex4	
+BiochemicalReaction6	Autoubiquitination of phospho-COP1(Ser-387 )	Protein8	Complex4	
+BiochemicalReaction7	Proteasome mediated degradation of COP1	Complex4	Protein9	
+BiochemicalReaction8	TP53 binds CDKN1A promoter	Dna1	Complex6	
+BiochemicalReaction8	TP53 binds CDKN1A promoter	Complex2	Complex6	
+BiochemicalReaction9	Transcriptional activation of p21 by p53 after DNA damage	Dna1	Protein68	

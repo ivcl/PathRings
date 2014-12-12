@@ -1,0 +1,88 @@
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule1	Protein4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	Protein1	Protein4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule2	Protein4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	Protein1	SmallMolecule3	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	Protein1	SmallMolecule4	
+BiochemicalReaction1	Cytosolic Hydroxylation of Asparagine Residue in HIF alpha	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex8	Protein51	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex4	Protein51	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex4	Complex9	
+BiochemicalReaction10	Cytosolic Ubiquitination of HIF-alpha	Complex8	Complex9	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex7	Protein55	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex11	Protein55	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex11	Complex12	
+BiochemicalReaction11	Nuclear Ubiquitination of HIF-alpha	Complex7	Complex12	
+BiochemicalReaction12	Nuclear Export of Ubiquitinated HIF-alpha:VHL:EloB/C:CUL2:RBX1 Complex	Complex12	Complex9	
+BiochemicalReaction13	Destruction of Ubiquitinated HIF-alpha by the Proteasome	Complex9	Protein36	
+BiochemicalReaction13	Destruction of Ubiquitinated HIF-alpha by the Proteasome	Complex9	Complex2	
+BiochemicalReaction14	Translocation of HIF-alpha from Cytosol to Nucleus	Protein74	Protein75	
+BiochemicalReaction15	Formation of HIF-alpha:ARNT (HIF-1beta) Heterodimer	Protein76	Complex14	
+BiochemicalReaction15	Formation of HIF-alpha:ARNT (HIF-1beta) Heterodimer	Protein75	Complex14	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	Protein77	Complex15	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	Protein78	Complex15	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	Complex14	Complex15	
+BiochemicalReaction16	Formation of HIF:CBP:p300 Complex at Promoters	PhysicalEntity1	Complex15	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein2	Protein8	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule1	Protein8	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule2	Protein8	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein2	SmallMolecule3	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Cytosolic Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein2	SmallMolecule4	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	Protein3	Protein12	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule1	Protein12	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule2	Protein12	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	Protein3	SmallMolecule3	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	Cytosolic Hydroxylation of Proline Residues on HIF1A	Protein3	SmallMolecule4	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	Protein13	SmallMolecule3	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule2	Protein14	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	Protein13	Protein14	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule1	Protein14	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	Protein13	SmallMolecule4	
+BiochemicalReaction4	Cytosolic Hydroxylation of Proline Residues on HIF3A	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein15	SmallMolecule7	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein15	SmallMolecule8	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule6	Protein16	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	Protein15	Protein16	
+BiochemicalReaction5	Nuclear Hydroxylation of Proline Residues on EPAS1 (HIF2A)	SmallMolecule5	Protein16	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	Protein20	SmallMolecule7	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	Protein20	SmallMolecule8	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule6	Protein21	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	Protein20	Protein21	
+BiochemicalReaction6	Nuclear Hydroxylation of Proline Residues on HIF1A	SmallMolecule5	Protein21	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	Protein22	SmallMolecule7	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	Protein22	SmallMolecule8	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule6	Protein23	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	Protein22	Protein23	
+BiochemicalReaction7	Nuclear Hydroxylation of Proline Residues on HIF3A	SmallMolecule5	Protein23	
+BiochemicalReaction8	Cytosolic VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Complex2	Complex4	
+BiochemicalReaction8	Cytosolic VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Protein29	Complex4	
+BiochemicalReaction9	Nuclear VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Complex5	Complex7	
+BiochemicalReaction9	Nuclear VHL:EloB/C:CUL2:RBX1 Complex Binds HIF-alpha Hydroxylated at Proline Residues	Protein35	Complex7	
+TemplateReaction1	Expression of Carbonic Anhydrase IX (CA9)	NA	Protein79	
+TemplateReaction2	Expression of VEGFA	NA	Protein80	
+TemplateReaction3	Expression of Erythropoietin (EPO)	NA	Protein81	

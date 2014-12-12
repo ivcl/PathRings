@@ -1,0 +1,178 @@
+BiochemicalReaction1	Binding of the influenza virion to the host cell	Complex1	Complex7	
+BiochemicalReaction1	Binding of the influenza virion to the host cell	SmallMolecule1	Complex7	
+BiochemicalReaction10	Docking and transport of the RNP:Karyopherin complex through the nuclear pore	Complex30	Complex31	
+BiochemicalReaction11	Release of the RNP into the host cell nucleus	Complex31	Protein35	
+BiochemicalReaction11	Release of the RNP into the host cell nucleus	Complex31	Protein34	
+BiochemicalReaction11	Release of the RNP into the host cell nucleus	Complex31	Complex33	
+BiochemicalReaction12	Viral Polymerase Assembly	Protein37	Complex37	
+BiochemicalReaction12	Viral Polymerase Assembly	Protein38	Complex37	
+BiochemicalReaction12	Viral Polymerase Assembly	Protein39	Complex37	
+BiochemicalReaction13	NP binds vRNA	Protein36	Complex38	
+BiochemicalReaction13	NP binds vRNA	Rna33	Complex38	
+BiochemicalReaction14	Assembly of an Active Transcription Complex	Complex37	Complex39	
+BiochemicalReaction14	Assembly of an Active Transcription Complex	Complex38	Complex39	
+BiochemicalReaction14	Assembly of an Active Transcription Complex	PhysicalEntity4	Complex39	
+BiochemicalReaction15	Priming and Initiation of Transcription	Complex39	PhysicalEntity6	
+BiochemicalReaction15	Priming and Initiation of Transcription	Complex39	Complex44	
+BiochemicalReaction16	Elongation of viral mRNA	Complex44	Complex45	
+BiochemicalReaction16	Elongation of viral mRNA	SmallMolecule6	Complex45	
+BiochemicalReaction17	Polyadenylation and Termination	Complex45	Complex37	
+BiochemicalReaction17	Polyadenylation and Termination	Complex45	Rna44	
+BiochemicalReaction17	Polyadenylation and Termination	Complex45	Complex38	
+BiochemicalReaction18	Viral mRNA Splicing (M, NS segments)	Rna36	Rna37	
+BiochemicalReaction18	Viral mRNA Splicing (M, NS segments)	Rna40	Rna37	
+BiochemicalReaction18	Viral mRNA Splicing (M, NS segments)	Rna40	Rna41	
+BiochemicalReaction18	Viral mRNA Splicing (M, NS segments)	Rna36	Rna41	
+BiochemicalReaction19	Export of Spliced Viral mRNA	Rna37	Rna45	
+BiochemicalReaction19	Export of Spliced Viral mRNA	Rna41	Rna45	
+BiochemicalReaction19	Export of Spliced Viral mRNA	Rna41	Rna46	
+BiochemicalReaction19	Export of Spliced Viral mRNA	Rna37	Rna46	
+BiochemicalReaction2	Clathrin-Mediated Pit Formation And Endocytosis Of The Influenza Virion	Complex7	SmallMolecule2	
+BiochemicalReaction2	Clathrin-Mediated Pit Formation And Endocytosis Of The Influenza Virion	Complex7	Complex8	
+BiochemicalReaction20	Viral mRNA Export	Rna44	Rna47	
+BiochemicalReaction21	Initiation of cRNA Synthesis	Complex37	Complex46	
+BiochemicalReaction21	Initiation of cRNA Synthesis	Complex38	Complex46	
+BiochemicalReaction21	Initiation of cRNA Synthesis	SmallMolecule6	Complex46	
+BiochemicalReaction22	cRNA Extension	Protein36	Complex37	
+BiochemicalReaction22	cRNA Extension	Complex46	Complex37	
+BiochemicalReaction22	cRNA Extension	SmallMolecule6	Complex37	
+BiochemicalReaction22	cRNA Extension	SmallMolecule6	Complex38	
+BiochemicalReaction22	cRNA Extension	Complex46	Complex38	
+BiochemicalReaction22	cRNA Extension	Protein36	Complex38	
+BiochemicalReaction22	cRNA Extension	SmallMolecule6	Complex47	
+BiochemicalReaction22	cRNA Extension	Complex46	Complex47	
+BiochemicalReaction22	cRNA Extension	Protein36	Complex47	
+BiochemicalReaction23	Initiation of vRNA Synthesis	Complex37	Complex48	
+BiochemicalReaction23	Initiation of vRNA Synthesis	Complex47	Complex48	
+BiochemicalReaction24	vRNA Extension	Protein36	PhysicalEntity8	
+BiochemicalReaction24	vRNA Extension	SmallMolecule6	PhysicalEntity8	
+BiochemicalReaction24	vRNA Extension	Complex48	PhysicalEntity8	
+BiochemicalReaction24	vRNA Extension	Complex48	Complex37	
+BiochemicalReaction24	vRNA Extension	SmallMolecule6	Complex37	
+BiochemicalReaction24	vRNA Extension	Protein36	Complex37	
+BiochemicalReaction24	vRNA Extension	Complex48	Complex38	
+BiochemicalReaction24	vRNA Extension	SmallMolecule6	Complex38	
+BiochemicalReaction24	vRNA Extension	Protein36	Complex38	
+BiochemicalReaction24	vRNA Extension	Complex48	Complex47	
+BiochemicalReaction24	vRNA Extension	SmallMolecule6	Complex47	
+BiochemicalReaction24	vRNA Extension	Protein36	Complex47	
+BiochemicalReaction25	Synthesis of PB1-F2	SmallMolecule11	Protein87	
+BiochemicalReaction25	Synthesis of PB1-F2	Rna53	Protein87	
+BiochemicalReaction26	Viral Protein Synthesis	SmallMolecule11	Complex52	
+BiochemicalReaction26	Viral Protein Synthesis	Rna47	Complex52	
+BiochemicalReaction26	Viral Protein Synthesis	Rna47	Complex53	
+BiochemicalReaction26	Viral Protein Synthesis	SmallMolecule11	Complex53	
+BiochemicalReaction27	Newly synthesized vRNP for export	Protein37	Complex55	
+BiochemicalReaction27	Newly synthesized vRNP for export	Complex54	Complex55	
+BiochemicalReaction27	Newly synthesized vRNP for export	Protein38	Complex55	
+BiochemicalReaction27	Newly synthesized vRNP for export	Protein39	Complex55	
+BiochemicalReaction28	Binding of M1 to vRNP	Complex55	Complex56	
+BiochemicalReaction28	Binding of M1 to vRNP	Protein179	Complex56	
+BiochemicalReaction29	Binding of NEP/NS2 to vRNP:M1	Complex56	Complex57	
+BiochemicalReaction29	Binding of NEP/NS2 to vRNP:M1	Protein181	Complex57	
+BiochemicalReaction3	Conformation change in hemagglutinin freeing the fusion peptide of HA2	Complex8	Complex15	
+BiochemicalReaction30	Binding of vRNP:M1:NEP complex to CRM1 export receptor	Complex57	Complex58	
+BiochemicalReaction30	Binding of vRNP:M1:NEP complex to CRM1 export receptor	Protein182	Complex58	
+BiochemicalReaction31	vRNP Export through the nuclear pore	Complex58	Complex60	
+BiochemicalReaction31	vRNP Export through the nuclear pore	Complex59	Complex60	
+BiochemicalReaction31	vRNP Export through the nuclear pore	Complex59	SmallMolecule32	
+BiochemicalReaction31	vRNP Export through the nuclear pore	Complex58	SmallMolecule32	
+BiochemicalReaction31	vRNP Export through the nuclear pore	Complex59	Complex61	
+BiochemicalReaction31	vRNP Export through the nuclear pore	Complex58	Complex61	
+BiochemicalReaction32	Entry of M2 into the endoplasmic reticulum	Protein186	Protein186	
+BiochemicalReaction33	Assembly of M2 tetramers	Protein186	Complex62	
+BiochemicalReaction34	Entry of NA into the endoplasmic reticulum	Protein187	Protein187	
+BiochemicalReaction35	Glycosylation of NA	Protein187	Protein188	
+BiochemicalReaction36	Assembly of NA tetramers	Protein188	Complex63	
+BiochemicalReaction37	Entry of HA into the endoplasmic reticulum	Protein189	Protein189	
+BiochemicalReaction38	Glycosylation and Folding of HA	Protein189	Protein190	
+BiochemicalReaction39	Trimerization of HA	Protein190	Complex64	
+BiochemicalReaction4	Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane	Complex15	Complex18	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex62	Complex25	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex63	Complex25	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex64	Complex25	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex64	Complex65	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex63	Complex65	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex62	Complex65	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex64	Complex27	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex63	Complex27	
+BiochemicalReaction40	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex62	Complex27	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex25	Complex66	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex65	Complex66	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex27	Complex66	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex27	Complex67	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex65	Complex67	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex25	Complex67	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex27	Complex68	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex65	Complex68	
+BiochemicalReaction41	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex25	Complex68	
+BiochemicalReaction42	Palmitoylation of cysteine residues on HA in the cis-Golgi network	Complex67	Complex69	
+BiochemicalReaction43	Palmitoylation of cysteine residues on M2 in the cis-golgi network	Complex66	Complex70	
+BiochemicalReaction44	Association of HA into rafts	Complex69	Complex71	
+BiochemicalReaction44	Association of HA into rafts	PhysicalEntity9	Complex71	
+BiochemicalReaction45	Association of NP into rafts	Protein199	Complex72	
+BiochemicalReaction45	Association of NP into rafts	PhysicalEntity9	Complex72	
+BiochemicalReaction46	Association of  NA into rafts	Complex68	Complex73	
+BiochemicalReaction46	Association of  NA into rafts	PhysicalEntity9	Complex73	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex71	Complex74	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex72	Complex74	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex73	Complex74	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex70	Complex74	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex70	Complex76	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex73	Complex76	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex72	Complex76	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex71	Complex76	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex70	Complex78	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex73	Complex78	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex72	Complex78	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex71	Complex78	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex70	Complex79	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex73	Complex79	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex72	Complex79	
+BiochemicalReaction47	Transport of processed viral proteins to the cell membrane	Complex71	Complex79	
+BiochemicalReaction48	Accumulation of M1 at the inner leaflet of the lipid bilayer	Protein172	Protein204	
+BiochemicalReaction49	RNP association	Complex80	Complex88	
+BiochemicalReaction49	RNP association	Complex81	Complex88	
+BiochemicalReaction49	RNP association	Complex82	Complex88	
+BiochemicalReaction49	RNP association	Complex83	Complex88	
+BiochemicalReaction49	RNP association	Complex84	Complex88	
+BiochemicalReaction49	RNP association	Complex85	Complex88	
+BiochemicalReaction49	RNP association	Complex86	Complex88	
+BiochemicalReaction49	RNP association	Complex87	Complex88	
+BiochemicalReaction5	Concerted hemagglutinin pore formation	Complex18	Complex21	
+BiochemicalReaction50	Association with M1 at cell membrane	Complex79	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Complex77	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Complex88	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Protein171	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Protein27	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Protein202	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Protein172	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Complex75	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Protein29	Complex89	
+BiochemicalReaction50	Association with M1 at cell membrane	Protein30	Complex89	
+BiochemicalReaction51	Membrane fusion	PhysicalEntity1	Complex90	
+BiochemicalReaction51	Membrane fusion	Complex89	Complex90	
+BiochemicalReaction51	Membrane fusion	SmallMolecule1	Complex90	
+BiochemicalReaction52	Neuraminidase enzymatic release from sialic acid	Complex90	Complex93	
+BiochemicalReaction53	Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF)	Protein207	Complex95	
+BiochemicalReaction53	Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF)	Complex94	Complex95	
+BiochemicalReaction54	Binding of NS1 to poly(A)-binding protein II (PABII)	Protein209	Complex96	
+BiochemicalReaction54	Binding of NS1 to poly(A)-binding protein II (PABII)	Complex94	Complex96	
+BiochemicalReaction55	Binding of NS1 to dsRNA	PhysicalEntity11	Complex98	
+BiochemicalReaction55	Binding of NS1 to dsRNA	Complex97	Complex98	
+BiochemicalReaction56	Binding of NS1 to PKR	Protein210	Complex99	
+BiochemicalReaction56	Binding of NS1 to PKR	Complex97	Complex99	
+BiochemicalReaction57	NA activation of TGF-beta	Protein211	Protein212	
+BiochemicalReaction58	PB1-F2 binds to the mitochondrial adenine nucleotide translocator 3 ANT3, inducing apoptosis	Protein213	Complex100	
+BiochemicalReaction58	PB1-F2 binds to the mitochondrial adenine nucleotide translocator 3 ANT3, inducing apoptosis	Protein214	Complex100	
+BiochemicalReaction6	Virion-associated M2 protein mediated ion infusion	SmallMolecule3	Complex23	
+BiochemicalReaction6	Virion-associated M2 protein mediated ion infusion	Complex21	Complex23	
+BiochemicalReaction7	Ribonucleoprotein release from M1 proteins	Complex23	SmallMolecule4	
+BiochemicalReaction7	Ribonucleoprotein release from M1 proteins	Complex23	Protein23	
+BiochemicalReaction7	Ribonucleoprotein release from M1 proteins	Complex23	Complex24	
+BiochemicalReaction7	Ribonucleoprotein release from M1 proteins	Complex23	Complex28	
+BiochemicalReaction7	Ribonucleoprotein release from M1 proteins	Complex23	Protein31	
+BiochemicalReaction8	Recognition of the Nuclear Localization Signal (NLS) by a Karyopherin Alpha Family Protein	Protein32	Complex29	
+BiochemicalReaction8	Recognition of the Nuclear Localization Signal (NLS) by a Karyopherin Alpha Family Protein	Complex28	Complex29	
+BiochemicalReaction9	Recruitment of Karyopherin Beta to form a Trimeric Complex	Protein33	Complex30	
+BiochemicalReaction9	Recruitment of Karyopherin Beta to form a Trimeric Complex	Complex29	Complex30	

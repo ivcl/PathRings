@@ -1,0 +1,46 @@
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	DHAP is converted to G3P by GPD1/GPD1L	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule11	SmallMolecule19	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction10	PC is hydrolyzed to PA and choline by PLD1/2	SmallMolecule18	SmallMolecule10	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction11	PA is hydrolyzed to 1-acyl LPA by PLA2[15]	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	DHAP is converted to 1-acyl GO3P by GNPAT	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction3	G3P is acylated to 1-acyl LPA by AGPAT6	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction4	1-acyl LPA is acylated to PA by AGPAT (LPAAT)	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction5	PA is hydrolysed to 1-acyl LPA by PLA2[1]	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule11	SmallMolecule9	
+BiochemicalReaction6	PA is hydrolysed to 1-acyl LPA by PLA2G2A	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction7	G3P is acylated to 1-acyl LPA by GPAM/GPAT2 (OM)	SmallMolecule6	SmallMolecule15	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule15	SmallMolecule7	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule6	SmallMolecule16	
+BiochemicalReaction8	1-acyl LPA is acylated to PA by AGPAT5 (OM)	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule11	SmallMolecule17	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction9	PA is hydrolyzed to 1-acyl LPA by PLA2[1] (OM)	SmallMolecule11	SmallMolecule15	

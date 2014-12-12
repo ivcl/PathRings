@@ -1,0 +1,48 @@
+Complex1	UBF-1:rDNA Promoter	nucleoplasm	Reactome DB_ID: 73684	PhysicalEntity1	
+Complex1	UBF-1:rDNA Promoter	nucleoplasm	Reactome DB_ID: 73684	Protein1	
+Complex10	TTF-I:Sal Box	nucleoplasm	Reactome DB_ID: 74977	PhysicalEntity3	
+Complex10	TTF-I:Sal Box	nucleoplasm	Reactome DB_ID: 74977	Protein41	
+Complex11	RNA Polymerase I Holoenzyme	nucleoplasm	Reactome DB_ID: 73859	Protein44	
+Complex11	RNA Polymerase I Holoenzyme	nucleoplasm	Reactome DB_ID: 73859	Protein45	
+Complex11	RNA Polymerase I Holoenzyme	nucleoplasm	Reactome DB_ID: 73859	Protein46	
+Complex11	RNA Polymerase I Holoenzyme	nucleoplasm	Reactome DB_ID: 73859	Protein47	
+Complex11	RNA Polymerase I Holoenzyme	nucleoplasm	Reactome DB_ID: 73859	Protein48	
+Complex11	RNA Polymerase I Holoenzyme	nucleoplasm	Reactome DB_ID: 73859	Protein49	
+Complex12	Active RNA Polymerase I	nucleoplasm	Reactome DB_ID: 73715	Protein50	
+Complex12	Active RNA Polymerase I	nucleoplasm	Reactome DB_ID: 73715	Complex11	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Protein51	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Protein52	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Protein53	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Protein54	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Protein55	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Protein56	
+Complex13	TFIIH	nucleoplasm	Reactome DB_ID: 109634	Complex14	
+Complex14	CAK	nucleoplasm	Reactome DB_ID: 69221	Protein57	
+Complex14	CAK	nucleoplasm	Reactome DB_ID: 69221	Protein58	
+Complex14	CAK	nucleoplasm	Reactome DB_ID: 69221	Protein59	
+Complex15	RNA Polymerase I Transcription Initiation complex	nucleoplasm	Reactome DB_ID: 73716	Complex12	
+Complex15	RNA Polymerase I Transcription Initiation complex	nucleoplasm	Reactome DB_ID: 73716	Complex13	
+Complex15	RNA Polymerase I Transcription Initiation complex	nucleoplasm	Reactome DB_ID: 73716	Complex8	
+Complex16	RNA Polymerase I promoter escape complex	nucleoplasm	Reactome DB_ID: 73717	Complex7	
+Complex16	RNA Polymerase I promoter escape complex	nucleoplasm	Reactome DB_ID: 73717	Complex13	
+Complex16	RNA Polymerase I promoter escape complex	nucleoplasm	Reactome DB_ID: 73717	Complex11	
+Complex16	RNA Polymerase I promoter escape complex	nucleoplasm	Reactome DB_ID: 73717	Protein1	
+Complex2	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein2	
+Complex2	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein6	
+Complex2	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein21	
+Complex2	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein31	
+Complex3	Methylcytosine: MBD2 Complex	nucleoplasm	Reactome DB_ID: 427343	Protein32	
+Complex3	Methylcytosine: MBD2 Complex	nucleoplasm	Reactome DB_ID: 427343	PhysicalEntity2	
+Complex4	Phosphorylated UBF-1:rDNA promoter	nucleoplasm	Reactome DB_ID: 73685	Protein33	
+Complex4	Phosphorylated UBF-1:rDNA promoter	nucleoplasm	Reactome DB_ID: 73685	PhysicalEntity1	
+Complex5	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein34	
+Complex6	SL1	nucleoplasm	Reactome DB_ID: 73692	Protein36	
+Complex6	SL1	nucleoplasm	Reactome DB_ID: 73692	Protein35	
+Complex6	SL1	nucleoplasm	Reactome DB_ID: 73692	Protein37	
+Complex7	Acetylated SL1	nucleoplasm	Reactome DB_ID: 73693	SmallMolecule2	
+Complex7	Acetylated SL1	nucleoplasm	Reactome DB_ID: 73693	Complex6	
+Complex8	Acetylayed SL1:PhosUBF-1:rDNA promoter	nucleoplasm	Reactome DB_ID: 73694	Complex7	
+Complex8	Acetylayed SL1:PhosUBF-1:rDNA promoter	nucleoplasm	Reactome DB_ID: 73694	Complex4	
+Complex9	TTF-I: rRNA Promoter: CSB: G9a Complex	nucleoplasm	Reactome DB_ID: 427352	Complex10	
+Complex9	TTF-I: rRNA Promoter: CSB: G9a Complex	nucleoplasm	Reactome DB_ID: 427352	Protein42	
+Complex9	TTF-I: rRNA Promoter: CSB: G9a Complex	nucleoplasm	Reactome DB_ID: 427352	Protein43	

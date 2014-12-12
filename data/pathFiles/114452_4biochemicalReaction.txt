@@ -1,0 +1,37 @@
+BiochemicalReaction1	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates BAD	Protein1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates BAD	Protein1	Protein2	
+BiochemicalReaction1	AKT phosphorylates BAD	SmallMolecule1	Protein2	
+BiochemicalReaction10	Translocation of PMAIP1 (NOXA) to mitochondria	Protein20	Protein23	
+BiochemicalReaction11	TP53 binds BBC3 (PUMA) promoter	Dna2	Complex17	
+BiochemicalReaction11	TP53 binds BBC3 (PUMA) promoter	Complex13	Complex17	
+BiochemicalReaction12	Transactivation of BBC3 (PUMA) by p53	Dna2	Protein24	
+BiochemicalReaction13	E2F1 binds BBC3 (PUMA) promoter	Dna2	Complex18	
+BiochemicalReaction13	E2F1 binds BBC3 (PUMA) promoter	Complex15	Complex18	
+BiochemicalReaction14	Transactivation of BBC3 (PUMA) by E2F1	Dna2	Protein24	
+BiochemicalReaction15	Translocation of BBC3 (PUMA) protein to mitochondria	Protein24	Protein25	
+BiochemicalReaction16	MAPK8 phosphorylates BCL2L11	Complex19	Protein28	
+BiochemicalReaction16	MAPK8 phosphorylates BCL2L11	Complex19	Complex20	
+BiochemicalReaction17	Translocation of BIM to mitochondria	Protein28	Protein30	
+BiochemicalReaction18	Phosphorylation of DLC2 by MAPK8	Complex21	Protein33	
+BiochemicalReaction18	Phosphorylation of DLC2 by MAPK8	Complex21	Complex22	
+BiochemicalReaction19	Translocation of BMF to mitochondria	Protein33	Protein34	
+BiochemicalReaction2	Sequestration of BAD protein by 14-3-3	Complex1	Complex9	
+BiochemicalReaction2	Sequestration of BAD protein by 14-3-3	Protein2	Complex9	
+BiochemicalReaction3	Activation of BAD by calcineurin	Complex9	SmallMolecule4	
+BiochemicalReaction3	Activation of BAD by calcineurin	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Activation of BAD by calcineurin	SmallMolecule3	Complex1	
+BiochemicalReaction3	Activation of BAD by calcineurin	Complex9	Complex1	
+BiochemicalReaction3	Activation of BAD by calcineurin	SmallMolecule3	Protein1	
+BiochemicalReaction3	Activation of BAD by calcineurin	Complex9	Protein1	
+BiochemicalReaction4	Translocation of activated BAD protein to mitochondria	Protein1	Protein16	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Complex11	Complex12	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Protein16	Complex12	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Protein16	Protein18	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Complex11	Protein18	
+BiochemicalReaction6	TP53 binds PMAIP1 (NOXA) promoter	Dna1	Complex14	
+BiochemicalReaction6	TP53 binds PMAIP1 (NOXA) promoter	Complex13	Complex14	
+BiochemicalReaction7	Transactivation of PMAIP1 (NOXA) by p53	Dna1	Protein20	
+BiochemicalReaction8	E2F1 binds PMAIP1 (NOXA) promoter	Dna1	Complex16	
+BiochemicalReaction8	E2F1 binds PMAIP1 (NOXA) promoter	Complex15	Complex16	
+BiochemicalReaction9	Transactivation of PMAIP1 (NOXA) by E2F1	Dna1	Protein20	

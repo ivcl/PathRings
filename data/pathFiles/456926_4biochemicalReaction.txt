@@ -1,0 +1,33 @@
+BiochemicalReaction1	Thrombin-mediated activation of Proteinase-activated receptors	Protein1	Protein5	
+BiochemicalReaction1	Thrombin-mediated activation of Proteinase-activated receptors	Protein1	Protein9	
+BiochemicalReaction10	Beta-arrestin-1 acts as scaffold for a PAR1 signalling complex	Protein43	Complex24	
+BiochemicalReaction10	Beta-arrestin-1 acts as scaffold for a PAR1 signalling complex	Complex22	Complex24	
+BiochemicalReaction10	Beta-arrestin-1 acts as scaffold for a PAR1 signalling complex	Protein44	Complex24	
+BiochemicalReaction11	Beta-arrestin-2 acts as scaffold for a PAR1 signalling complex	Protein43	Complex25	
+BiochemicalReaction11	Beta-arrestin-2 acts as scaffold for a PAR1 signalling complex	Protein44	Complex25	
+BiochemicalReaction11	Beta-arrestin-2 acts as scaffold for a PAR1 signalling complex	Complex23	Complex25	
+BiochemicalReaction12	Activation of beta-arrestin-1-bound Src kinase	Complex24	Complex26	
+BiochemicalReaction13	Src bound to beta-arrestin-2 is not activated	Complex25	Complex25	
+BiochemicalReaction14	Activated Src activates ERK	Complex26	Complex27	
+BiochemicalReaction2	Thrombin-activated PAR binds G-protein Gq	Protein5	Complex5	
+BiochemicalReaction2	Thrombin-activated PAR binds G-protein Gq	Complex2	Complex5	
+BiochemicalReaction3	Gq activation by PAR	SmallMolecule3	Complex6	
+BiochemicalReaction3	Gq activation by PAR	Complex5	Complex6	
+BiochemicalReaction3	Gq activation by PAR	Complex5	SmallMolecule5	
+BiochemicalReaction3	Gq activation by PAR	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction4	Dissociation of the PAR:Gq complex	Complex6	Protein5	
+BiochemicalReaction4	Dissociation of the PAR:Gq complex	Complex6	Complex8	
+BiochemicalReaction4	Dissociation of the PAR:Gq complex	Complex6	Complex4	
+BiochemicalReaction5	Thrombin-activated PAR binds G-protein G12/13	Protein5	Complex14	
+BiochemicalReaction5	Thrombin-activated PAR binds G-protein G12/13	Complex9	Complex14	
+BiochemicalReaction6	G12/13 activation by PAR	SmallMolecule3	Complex15	
+BiochemicalReaction6	G12/13 activation by PAR	Complex14	Complex15	
+BiochemicalReaction6	G12/13 activation by PAR	Complex14	SmallMolecule5	
+BiochemicalReaction6	G12/13 activation by PAR	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction7	Dissociation of the PAR:G12/13 complex	Complex15	Protein5	
+BiochemicalReaction7	Dissociation of the PAR:G12/13 complex	Complex15	Complex21	
+BiochemicalReaction7	Dissociation of the PAR:G12/13 complex	Complex15	Complex4	
+BiochemicalReaction8	Activated PAR1 binds Beta-arrestin-1	Protein6	Complex22	
+BiochemicalReaction8	Activated PAR1 binds Beta-arrestin-1	Protein41	Complex22	
+BiochemicalReaction9	Activated PAR1 binds beta-arrestin-2	Protein6	Complex23	
+BiochemicalReaction9	Activated PAR1 binds beta-arrestin-2	Protein42	Complex23	

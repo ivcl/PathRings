@@ -1,0 +1,13 @@
+Complex1	Protein Kinase C, alpha type: DAG	plasma membrane	Reactome DB_ID: 422275	SmallMolecule1	
+Complex1	Protein Kinase C, alpha type: DAG	plasma membrane	Reactome DB_ID: 422275	Protein2	
+Complex2	HB-EGF:p-6Y-EGFR dimer	plasma membrane	Reactome DB_ID: 2179410	Complex3	
+Complex3	HB-EGF:p-6Y-EGFR	plasma membrane	Reactome DB_ID: 2179388	Protein7	
+Complex3	HB-EGF:p-6Y-EGFR	plasma membrane	Reactome DB_ID: 2179388	Protein9	
+Complex4	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein10	
+Complex4	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein11	
+Complex5	GRB2:SOS1:HB-EGF:p-6Y-EGFR	plasma membrane	Reactome DB_ID: 2179409	Complex2	
+Complex5	GRB2:SOS1:HB-EGF:p-6Y-EGFR	plasma membrane	Reactome DB_ID: 2179409	Complex4	
+Complex6	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	Protein12	
+Complex6	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	SmallMolecule3	
+Complex7	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule2	
+Complex7	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein12	

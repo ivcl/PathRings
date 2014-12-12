@@ -1,0 +1,10 @@
+BiochemicalReaction1	Conformation change in hemagglutinin freeing the fusion peptide of HA2	Complex1	Complex7	
+BiochemicalReaction2	Fusion of the influenza virion HA2 protein transmembrane domain to the host cell endosome membrane	Complex7	Complex10	
+BiochemicalReaction3	Concerted hemagglutinin pore formation	Complex10	Complex13	
+BiochemicalReaction4	Virion-associated M2 protein mediated ion infusion	SmallMolecule1	Complex15	
+BiochemicalReaction4	Virion-associated M2 protein mediated ion infusion	Complex13	Complex15	
+BiochemicalReaction5	Ribonucleoprotein release from M1 proteins	Complex15	Protein12	
+BiochemicalReaction5	Ribonucleoprotein release from M1 proteins	Complex15	Complex16	
+BiochemicalReaction5	Ribonucleoprotein release from M1 proteins	Complex15	SmallMolecule2	
+BiochemicalReaction5	Ribonucleoprotein release from M1 proteins	Complex15	Complex17	
+BiochemicalReaction5	Ribonucleoprotein release from M1 proteins	Complex15	Protein20	

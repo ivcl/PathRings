@@ -1,0 +1,9 @@
+BiochemicalReaction1	beta-NGF dimer binds to TrkA receptor	Complex1	Complex2	
+BiochemicalReaction1	beta-NGF dimer binds to TrkA receptor	Protein2	Complex2	
+BiochemicalReaction2	The bound receptor dimerizes	Complex2	Complex4	
+BiochemicalReaction2	The bound receptor dimerizes	Protein2	Complex4	
+BiochemicalReaction3	TrkA receptor autophosphorylates	Complex4	SmallMolecule2	
+BiochemicalReaction3	TrkA receptor autophosphorylates	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	TrkA receptor autophosphorylates	SmallMolecule1	Complex5	
+BiochemicalReaction3	TrkA receptor autophosphorylates	Complex4	Complex5	
+BiochemicalReaction4	Activated TrkA receptor internalizes to endosomes	Complex5	Complex6	

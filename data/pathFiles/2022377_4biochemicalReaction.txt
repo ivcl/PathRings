@@ -1,0 +1,32 @@
+BiochemicalReaction1	Renin Hydrolyzes Angiotensinogen to Yield Angiotensin I	SmallMolecule1	Protein2	
+BiochemicalReaction1	Renin Hydrolyzes Angiotensinogen to Yield Angiotensin I	Protein1	Protein2	
+BiochemicalReaction10	ACE Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	Protein19	Protein21	
+BiochemicalReaction10	ACE Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	SmallMolecule1	Protein21	
+BiochemicalReaction11	Neprilysin Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	Protein19	Protein21	
+BiochemicalReaction11	Neprilysin Hydrolyzes Angiotensin-(1-9) to Yield Angiotensin-(1-7)	SmallMolecule1	Protein21	
+BiochemicalReaction12	Neprilysin Hydrolyzes Angiotensin I to Yield Angiotensin-(1-7)	Protein2	Protein21	
+BiochemicalReaction12	Neprilysin Hydrolyzes Angiotensin I to Yield Angiotensin-(1-7)	SmallMolecule1	Protein21	
+BiochemicalReaction13	ENPEP Hydrolyzes Angiotensin II to Yield Angiotensin III	SmallMolecule1	Protein23	
+BiochemicalReaction13	ENPEP Hydrolyzes Angiotensin II to Yield Angiotensin III	Protein11	Protein23	
+BiochemicalReaction14	ANPEP Hydrolyzes Angiotensin III to Yield Angiotensin IV	Protein23	Protein25	
+BiochemicalReaction14	ANPEP Hydrolyzes Angiotensin III to Yield Angiotensin IV	SmallMolecule1	Protein25	
+BiochemicalReaction15	ACE2 Hydrolyzes Angiotensin II to Yield Angiotensin-(1-7)	SmallMolecule1	Protein21	
+BiochemicalReaction15	ACE2 Hydrolyzes Angiotensin II to Yield Angiotensin-(1-7)	Protein11	Protein21	
+BiochemicalReaction16	Mast Cell Carboxypeptidase Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	Protein2	Protein19	
+BiochemicalReaction16	Mast Cell Carboxypeptidase Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	SmallMolecule1	Protein19	
+BiochemicalReaction2	Renin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	SmallMolecule1	Protein2	
+BiochemicalReaction2	Renin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	Protein1	Protein2	
+BiochemicalReaction3	Prorenin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	SmallMolecule1	Protein2	
+BiochemicalReaction3	Prorenin:Prorenin Receptor Hydrolyzes Angiotensinogen to Yield Angiotensin-(1-10)	Protein1	Protein2	
+BiochemicalReaction4	ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	Protein2	Protein11	
+BiochemicalReaction4	ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	SmallMolecule1	Protein11	
+BiochemicalReaction5	Secreted ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	Protein2	Protein11	
+BiochemicalReaction5	Secreted ACE Hydrolyzes Angiotensin-(1-10) to Yield Angiotensin-(1-8)	SmallMolecule1	Protein11	
+BiochemicalReaction6	Chymase Hydrolyzes Angiotensin I to Yield Angiotensin II	Protein2	Protein11	
+BiochemicalReaction6	Chymase Hydrolyzes Angiotensin I to Yield Angiotensin II	SmallMolecule1	Protein11	
+BiochemicalReaction7	Cathepsin G Hydrolyzes Angiotensin I to Yield Angiotensin II	Protein2	Protein11	
+BiochemicalReaction7	Cathepsin G Hydrolyzes Angiotensin I to Yield Angiotensin II	SmallMolecule1	Protein11	
+BiochemicalReaction8	Cathepsin Z (Cathepsin X) Hydrolyzes Angiotensin I to Yield Angiotensin II	Protein2	Protein11	
+BiochemicalReaction8	Cathepsin Z (Cathepsin X) Hydrolyzes Angiotensin I to Yield Angiotensin II	SmallMolecule1	Protein11	
+BiochemicalReaction9	ACE2 Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	Protein2	Protein19	
+BiochemicalReaction9	ACE2 Hydrolyzes Angiotensin I to Yield Angiotensin-(1-9)	SmallMolecule1	Protein19	

@@ -1,0 +1,8 @@
+Complex1	IRE1:BiP	endoplasmic reticulum membrane	Reactome DB_ID: 381202	Protein2	
+Complex1	IRE1:BiP	endoplasmic reticulum membrane	Reactome DB_ID: 381202	Protein1	
+Complex2	BiP:Unfolded Protein	endoplasmic reticulum lumen	Reactome DB_ID: 381062	Protein3	
+Complex2	BiP:Unfolded Protein	endoplasmic reticulum lumen	Reactome DB_ID: 381062	PhysicalEntity1	
+Complex3	IRE1 homodimer	endoplasmic reticulum membrane	Reactome DB_ID: 381200	Protein2	
+Complex4	IRE1 homodimer (phosphorylated)	endoplasmic reticulum membrane	Reactome DB_ID: 381154	Protein4	
+Complex5	IRE1 homodimer (phosphorylated):ADP	endoplasmic reticulum membrane	Reactome DB_ID: 381078	SmallMolecule3	
+Complex5	IRE1 homodimer (phosphorylated):ADP	endoplasmic reticulum membrane	Reactome DB_ID: 381078	Complex4	

@@ -1,0 +1,49 @@
+Complex1	Activated ZAP-70	plasma membrane	Reactome DB_ID: 202181	Complex2	
+Complex1	Activated ZAP-70	plasma membrane	Reactome DB_ID: 202181	Protein44	
+Complex10	GADS:p-5Y-LAT	plasma membrane	Reactome DB_ID: 202177	Protein2	
+Complex10	GADS:p-5Y-LAT	plasma membrane	Reactome DB_ID: 202177	Protein45	
+Complex11	SLP-76 bound to Gads:LAT	plasma membrane	Reactome DB_ID: 202151	Complex10	
+Complex11	SLP-76 bound to Gads:LAT	plasma membrane	Reactome DB_ID: 202151	Protein46	
+Complex12	p-Y113,Y128,Y145-SLP-76:Gads: LAT	plasma membrane	Reactome DB_ID: 202162	Protein47	
+Complex12	p-Y113,Y128,Y145-SLP-76:Gads: LAT	plasma membrane	Reactome DB_ID: 202162	Complex10	
+Complex13	ITK bound to SLP-76:Gads:LAT	plasma membrane	Reactome DB_ID: 202359	Complex12	
+Complex13	ITK bound to SLP-76:Gads:LAT	plasma membrane	Reactome DB_ID: 202359	Protein48	
+Complex14	PLCG1:p-3Y-SLP-76:Gads:LAT	plasma membrane	Reactome DB_ID: 202279	Protein49	
+Complex14	PLCG1:p-3Y-SLP-76:Gads:LAT	plasma membrane	Reactome DB_ID: 202279	Complex12	
+Complex15	PLCG1:p-5Y-LAT	plasma membrane	Reactome DB_ID: 202240	Protein2	
+Complex15	PLCG1:p-5Y-LAT	plasma membrane	Reactome DB_ID: 202240	Protein49	
+Complex18	phosphorylated PLC-gamma1 bound to LAT	plasma membrane	Reactome DB_ID: 202310	Protein2	
+Complex18	phosphorylated PLC-gamma1 bound to LAT	plasma membrane	Reactome DB_ID: 202310	Protein50	
+Complex19	phopshorylated PLC-gamma1 bound to SLP-76	plasma membrane	Reactome DB_ID: 202302	Complex12	
+Complex19	phopshorylated PLC-gamma1 bound to SLP-76	plasma membrane	Reactome DB_ID: 202302	Protein50	
+Complex2	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Complex3	
+Complex2	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Protein29	
+Complex2	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Protein30	
+Complex2	Antigen-bearing MHC Class II: TCR with phosphorylated ITAMs:CD4	plasma membrane	Reactome DB_ID: 203494	Complex5	
+Complex21	Activated PLC gamma1 bound to PIP2	plasma membrane	Reactome DB_ID: 202269	Protein51	
+Complex21	Activated PLC gamma1 bound to PIP2	plasma membrane	Reactome DB_ID: 202269	SmallMolecule3	
+Complex22	p-SLP-76:ADAP	cytosol	Reactome DB_ID: 430124	Protein47	
+Complex22	p-SLP-76:ADAP	cytosol	Reactome DB_ID: 430124	Protein52	
+Complex23	p-SLP-76:ADAP:Ena/VASP	cytosol	Reactome DB_ID: 430206	Protein53	
+Complex23	p-SLP-76:ADAP:Ena/VASP	cytosol	Reactome DB_ID: 430206	Complex22	
+Complex24	p-SLP-76:NCK1	cytosol	Reactome DB_ID: 430188	Protein47	
+Complex24	p-SLP-76:NCK1	cytosol	Reactome DB_ID: 430188	Protein57	
+Complex25	p-SLP-76:NCK:PAK	cytosol	Reactome DB_ID: 430189	Protein58	
+Complex25	p-SLP-76:NCK:PAK	cytosol	Reactome DB_ID: 430189	Complex24	
+Complex26	p-SLP-76:NCK1:WASP	cytosol	Reactome DB_ID: 430186	Complex24	
+Complex26	p-SLP-76:NCK1:WASP	cytosol	Reactome DB_ID: 430186	Protein61	
+Complex3	MHC Class II bearing antigen peptide	plasma membrane	Reactome DB_ID: 203463	PhysicalEntity1	
+Complex3	MHC Class II bearing antigen peptide	plasma membrane	Reactome DB_ID: 203463	Complex4	
+Complex4	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein3	
+Complex4	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein24	
+Complex5	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex6	
+Complex5	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex7	
+Complex5	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex8	
+Complex5	T-cell receptor complex with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 203493	Complex9	
+Complex6	CD3 zeta dimer with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202303	Protein31	
+Complex7	CD3 epsilon: CD3 gamma with phosphorylated ITAM	plasma membrane	Reactome DB_ID: 202167	Protein32	
+Complex7	CD3 epsilon: CD3 gamma with phosphorylated ITAM	plasma membrane	Reactome DB_ID: 202167	Protein33	
+Complex8	CD3 epsilon: CD3 delta with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202336	Protein34	
+Complex8	CD3 epsilon: CD3 delta with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202336	Protein33	
+Complex9	T-cell receptor	plasma membrane	Reactome DB_ID: 198183	Protein35	
+Complex9	T-cell receptor	plasma membrane	Reactome DB_ID: 198183	Protein40	

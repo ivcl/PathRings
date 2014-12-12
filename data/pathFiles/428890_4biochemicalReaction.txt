@@ -1,0 +1,10 @@
+BiochemicalReaction1	Interaction of Abl with Robo1:Slit2	Complex1	Complex4	
+BiochemicalReaction1	Interaction of Abl with Robo1:Slit2	Protein4	Complex4	
+BiochemicalReaction2	Phosphorylation of Rob1 by Abl kinase	Complex4	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of Rob1 by Abl kinase	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Phosphorylation of Rob1 by Abl kinase	SmallMolecule2	Complex5	
+BiochemicalReaction2	Phosphorylation of Rob1 by Abl kinase	Complex4	Complex5	
+BiochemicalReaction3	Activation of CLASP	Protein8	Complex7	
+BiochemicalReaction3	Activation of CLASP	Complex4	Complex7	
+BiochemicalReaction4	Recruitment of CAP to Abl	Complex4	Complex8	
+BiochemicalReaction4	Recruitment of CAP to Abl	Protein11	Complex8	

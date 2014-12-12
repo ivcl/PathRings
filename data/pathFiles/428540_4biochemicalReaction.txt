@@ -1,0 +1,10 @@
+BiochemicalReaction1	Nck binds Robo1:Slit2	Protein1	Complex4	
+BiochemicalReaction1	Nck binds Robo1:Slit2	Complex1	Complex4	
+BiochemicalReaction2	Recruitment of PAK to Nck	Complex4	Complex5	
+BiochemicalReaction2	Recruitment of PAK to Nck	Protein7	Complex5	
+BiochemicalReaction3	Recruitment of Sos to plasma membrane	Complex5	Complex6	
+BiochemicalReaction3	Recruitment of Sos to plasma membrane	Protein14	Complex6	
+BiochemicalReaction4	Activation of Rac by Sos	SmallMolecule2	Complex8	
+BiochemicalReaction4	Activation of Rac by Sos	Complex7	Complex8	
+BiochemicalReaction4	Activation of Rac by Sos	Complex7	SmallMolecule3	
+BiochemicalReaction4	Activation of Rac by Sos	SmallMolecule2	SmallMolecule3	

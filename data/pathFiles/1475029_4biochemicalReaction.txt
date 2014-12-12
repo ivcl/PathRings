@@ -1,0 +1,32 @@
+BiochemicalReaction1	Carbonic Anhydrase Hydrates Carbon Dioxide (cytosol)	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Carbonic Anhydrase Hydrates Carbon Dioxide (cytosol)	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Carbonic Anhydrase Hydrates Carbon Dioxide (cytosol)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Carbonic Anhydrase Hydrates Carbon Dioxide (cytosol)	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Carbonic Anhydrase Dehydrates Bicarbonate (cytosol)	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	Carbonic Anhydrase Dehydrates Bicarbonate (cytosol)	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction2	Carbonic Anhydrase Dehydrates Bicarbonate (cytosol)	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction2	Carbonic Anhydrase Dehydrates Bicarbonate (cytosol)	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	Carbonic Anhydrase Hydrates Carbon Dioxide (plasma membrane)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	Carbonic Anhydrase Hydrates Carbon Dioxide (plasma membrane)	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction3	Carbonic Anhydrase Hydrates Carbon Dioxide (plasma membrane)	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction3	Carbonic Anhydrase Hydrates Carbon Dioxide (plasma membrane)	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction4	Carbonic Anhydrase Dehydrates Bicarbonate (plasma membrane)	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction4	Carbonic Anhydrase Dehydrates Bicarbonate (plasma membrane)	SmallMolecule9	SmallMolecule6	
+BiochemicalReaction4	Carbonic Anhydrase Dehydrates Bicarbonate (plasma membrane)	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction4	Carbonic Anhydrase Dehydrates Bicarbonate (plasma membrane)	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction5	Carbonic Anhydrase Hydrates Carbon Dioxide (mitochondria)	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction5	Carbonic Anhydrase Hydrates Carbon Dioxide (mitochondria)	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	Carbonic Anhydrase Hydrates Carbon Dioxide (mitochondria)	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction5	Carbonic Anhydrase Hydrates Carbon Dioxide (mitochondria)	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction6	Carbonic Anhydrase Dehydrates Bicarbonate (mitochondria)	SmallMolecule13	SmallMolecule11	
+BiochemicalReaction6	Carbonic Anhydrase Dehydrates Bicarbonate (mitochondria)	SmallMolecule14	SmallMolecule11	
+BiochemicalReaction6	Carbonic Anhydrase Dehydrates Bicarbonate (mitochondria)	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction6	Carbonic Anhydrase Dehydrates Bicarbonate (mitochondria)	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction7	H2O + CO2 -> H+ + HCO3-	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction7	H2O + CO2 -> H+ + HCO3-	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction7	H2O + CO2 -> H+ + HCO3-	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction7	H2O + CO2 -> H+ + HCO3-	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction8	H+ + HCO3- -> H2O + CO2	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction8	H+ + HCO3- -> H2O + CO2	SmallMolecule9	SmallMolecule6	
+BiochemicalReaction8	H+ + HCO3- -> H2O + CO2	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction8	H+ + HCO3- -> H2O + CO2	SmallMolecule8	SmallMolecule7	

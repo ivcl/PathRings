@@ -1,0 +1,34 @@
+BiochemicalReaction1	Calcium binds calmodulin	SmallMolecule1	Complex1	
+BiochemicalReaction1	Calcium binds calmodulin	Protein1	Complex1	
+BiochemicalReaction10	CaMK IV phosphorylates CREB	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction10	CaMK IV phosphorylates CREB	Protein25	SmallMolecule7	
+BiochemicalReaction10	CaMK IV phosphorylates CREB	Protein25	Protein26	
+BiochemicalReaction10	CaMK IV phosphorylates CREB	SmallMolecule6	Protein26	
+BiochemicalReaction11	Calmodulin activates Cam-PDE 1	Complex12	Complex16	
+BiochemicalReaction12	cAMP hydrolysis by Cam-PDE 1	SmallMolecule3	SmallMolecule10	
+BiochemicalReaction12	cAMP hydrolysis by Cam-PDE 1	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction13	Inhibition of GRK2 by calmodulin	Protein34	Complex17	
+BiochemicalReaction13	Inhibition of GRK2 by calmodulin	Protein1	Complex17	
+BiochemicalReaction14	PKC phosphorylates GRK2	Protein34	SmallMolecule11	
+BiochemicalReaction14	PKC phosphorylates GRK2	SmallMolecule2	SmallMolecule11	
+BiochemicalReaction14	PKC phosphorylates GRK2	SmallMolecule2	Protein35	
+BiochemicalReaction14	PKC phosphorylates GRK2	Protein34	Protein35	
+BiochemicalReaction2	Adenylate cyclase produces cAMP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Adenylate cyclase produces cAMP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	Complex4	Protein17	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule3	Protein17	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule3	Complex5	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	Complex4	Complex5	
+BiochemicalReaction4	PKA catalytic subunit translocates to the nucleus	Protein17	Protein21	
+BiochemicalReaction5	PKA phosphorylates CREB	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	PKA phosphorylates CREB	Protein25	SmallMolecule7	
+BiochemicalReaction5	PKA phosphorylates CREB	Protein25	Protein26	
+BiochemicalReaction5	PKA phosphorylates CREB	SmallMolecule6	Protein26	
+BiochemicalReaction6	Dimerisation of CREB	Protein26	Complex6	
+BiochemicalReaction7	Calmodulin binds CaMK IV	Complex1	Complex7	
+BiochemicalReaction7	Calmodulin binds CaMK IV	Protein27	Complex7	
+BiochemicalReaction8	CamKIV enters the nucleus	Complex7	Complex8	
+BiochemicalReaction9	CaMK IV autophosphorylation	Complex8	Complex10	
+BiochemicalReaction9	CaMK IV autophosphorylation	SmallMolecule6	Complex10	
+BiochemicalReaction9	CaMK IV autophosphorylation	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction9	CaMK IV autophosphorylation	Complex8	SmallMolecule7	

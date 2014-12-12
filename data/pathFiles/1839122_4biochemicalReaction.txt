@@ -1,0 +1,12 @@
+BiochemicalReaction1	FGFR1 P252X mutants bind ligand with enhanced affinity	Protein1	Complex1	
+BiochemicalReaction1	FGFR1 P252X mutants bind ligand with enhanced affinity	Protein5	Complex1	
+BiochemicalReaction1	FGFR1 P252X mutants bind ligand with enhanced affinity	SmallMolecule1	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	Complex1	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	SmallMolecule2	Complex6	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1 P252X mutant dimers	Complex1	Complex6	
+BiochemicalReaction3	Dimerization of FGFR1 point mutants with enhanced kinase activity	Protein19	Complex11	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	Complex11	SmallMolecule3	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	SmallMolecule2	Complex15	
+BiochemicalReaction4	Autocatalytic phosphorylation of FGFR1 mutants with enhanced kinase activity	Complex11	Complex15	

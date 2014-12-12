@@ -1,0 +1,10 @@
+BiochemicalReaction1	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	Complex1	SmallMolecule1	
+BiochemicalReaction1	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction1	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	SmallMolecule2	Complex3	
+BiochemicalReaction1	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	Complex1	Complex3	
+BiochemicalReaction2	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	Complex3	SmallMolecule4	
+BiochemicalReaction2	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	Complex3	Complex2	
+BiochemicalReaction2	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	SmallMolecule3	Complex2	
+BiochemicalReaction2	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	Complex3	Complex4	
+BiochemicalReaction2	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	SmallMolecule3	Complex4	

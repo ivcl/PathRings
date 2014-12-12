@@ -1,0 +1,10 @@
+BiochemicalReaction1	Translocation of HIF-alpha from Cytosol to Nucleus	Protein1	Protein5	
+BiochemicalReaction2	Formation of HIF-alpha:ARNT (HIF-1beta) Heterodimer	Protein9	Complex1	
+BiochemicalReaction2	Formation of HIF-alpha:ARNT (HIF-1beta) Heterodimer	Protein5	Complex1	
+BiochemicalReaction3	Formation of HIF:CBP:p300 Complex at Promoters	Protein10	Complex2	
+BiochemicalReaction3	Formation of HIF:CBP:p300 Complex at Promoters	Protein11	Complex2	
+BiochemicalReaction3	Formation of HIF:CBP:p300 Complex at Promoters	Complex1	Complex2	
+BiochemicalReaction3	Formation of HIF:CBP:p300 Complex at Promoters	PhysicalEntity1	Complex2	
+TemplateReaction1	Expression of Carbonic Anhydrase IX (CA9)	NA	Protein12	
+TemplateReaction2	Expression of VEGFA	NA	Protein13	
+TemplateReaction3	Expression of Erythropoietin (EPO)	NA	Protein14	

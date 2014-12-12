@@ -1,0 +1,82 @@
+BiochemicalReaction1	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	Complex1	Complex4	
+BiochemicalReaction1	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	PhysicalEntity1	Complex4	
+BiochemicalReaction10	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Complex17	Complex19	
+BiochemicalReaction10	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Protein88	Complex19	
+BiochemicalReaction11	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein89	Complex20	
+BiochemicalReaction11	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein90	Complex20	
+BiochemicalReaction11	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	PhysicalEntity3	Complex20	
+BiochemicalReaction12	TTP Recruits RNA Degradation Activities	Protein71	Complex21	
+BiochemicalReaction12	TTP Recruits RNA Degradation Activities	Complex20	Complex21	
+BiochemicalReaction12	TTP Recruits RNA Degradation Activities	Complex13	Complex21	
+BiochemicalReaction12	TTP Recruits RNA Degradation Activities	Protein82	Complex21	
+BiochemicalReaction12	TTP Recruits RNA Degradation Activities	Protein83	Complex21	
+BiochemicalReaction13	Phosphorylation of Tristetraproline (TTP) by MK2	Complex20	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule1	Complex22	
+BiochemicalReaction13	Phosphorylation of Tristetraproline (TTP) by MK2	Complex20	Complex22	
+BiochemicalReaction14	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Complex22	Complex23	
+BiochemicalReaction14	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Protein88	Complex23	
+BiochemicalReaction15	KSRP Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity4	Complex24	
+BiochemicalReaction15	KSRP Binds AU-rich Element in 3' UTR of mRNA	Protein92	Complex24	
+BiochemicalReaction16	KSRP Recruits RNA Degradation Activities	Complex13	Complex25	
+BiochemicalReaction16	KSRP Recruits RNA Degradation Activities	Protein82	Complex25	
+BiochemicalReaction16	KSRP Recruits RNA Degradation Activities	Complex24	Complex25	
+BiochemicalReaction16	KSRP Recruits RNA Degradation Activities	Protein93	Complex25	
+BiochemicalReaction17	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein92	SmallMolecule2	
+BiochemicalReaction17	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein92	Protein94	
+BiochemicalReaction17	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule1	Protein94	
+BiochemicalReaction18	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein94	Complex26	
+BiochemicalReaction18	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein95	Complex26	
+BiochemicalReaction19	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of KSRP by MAP kinase p38	Protein92	SmallMolecule2	
+BiochemicalReaction19	Phosphorylation of KSRP by MAP kinase p38	Protein92	Protein97	
+BiochemicalReaction19	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule1	Protein97	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein3	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Complex4	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein4	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein5	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein6	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein7	Complex8	
+BiochemicalReaction20	Phosphorylation of HuR by PKCalpha	Protein101	SmallMolecule5	
+BiochemicalReaction20	Phosphorylation of HuR by PKCalpha	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction20	Phosphorylation of HuR by PKCalpha	SmallMolecule4	Protein102	
+BiochemicalReaction20	Phosphorylation of HuR by PKCalpha	Protein101	Protein102	
+BiochemicalReaction21	Phosphorylation of HuR by PKCdelta	Protein101	SmallMolecule5	
+BiochemicalReaction21	Phosphorylation of HuR by PKCdelta	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction21	Phosphorylation of HuR by PKCdelta	SmallMolecule4	Protein104	
+BiochemicalReaction21	Phosphorylation of HuR by PKCdelta	Protein101	Protein104	
+BiochemicalReaction22	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	PhysicalEntity5	Complex28	
+BiochemicalReaction22	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	Protein102	Complex28	
+BiochemicalReaction23	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	PhysicalEntity6	Complex29	
+BiochemicalReaction23	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	Protein104	Complex29	
+BiochemicalReaction24	HuR Binds mRNAs in the Nucleus	Protein101	Complex30	
+BiochemicalReaction24	HuR Binds mRNAs in the Nucleus	PhysicalEntity7	Complex30	
+BiochemicalReaction25	Association of HuR with the CRM1 Nuclear Export Machinery	Protein106	Complex32	
+BiochemicalReaction25	Association of HuR with the CRM1 Nuclear Export Machinery	Protein107	Complex32	
+BiochemicalReaction25	Association of HuR with the CRM1 Nuclear Export Machinery	Protein108	Complex32	
+BiochemicalReaction25	Association of HuR with the CRM1 Nuclear Export Machinery	Complex31	Complex32	
+BiochemicalReaction25	Association of HuR with the CRM1 Nuclear Export Machinery	Protein109	Complex32	
+BiochemicalReaction25	Association of HuR with the CRM1 Nuclear Export Machinery	Protein110	Complex32	
+BiochemicalReaction26	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex32	Complex33	
+BiochemicalReaction26	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex32	Protein114	
+BiochemicalReaction3	Ubiquitination of AUF1 (hnRNP D0)	Protein8	Complex9	
+BiochemicalReaction3	Ubiquitination of AUF1 (hnRNP D0)	Complex8	Complex9	
+BiochemicalReaction4	Destruction of AUF1 and mRNA	Complex9	NA	
+BiochemicalReaction5	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	Protein70	Complex12	
+BiochemicalReaction5	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity2	Complex12	
+BiochemicalReaction6	BRF1 Complex Recruits RNA Degradation Activities	Protein71	Complex15	
+BiochemicalReaction6	BRF1 Complex Recruits RNA Degradation Activities	Complex13	Complex15	
+BiochemicalReaction6	BRF1 Complex Recruits RNA Degradation Activities	Protein82	Complex15	
+BiochemicalReaction6	BRF1 Complex Recruits RNA Degradation Activities	Protein83	Complex15	
+BiochemicalReaction6	BRF1 Complex Recruits RNA Degradation Activities	Complex12	Complex15	
+BiochemicalReaction7	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex12	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex12	Complex16	
+BiochemicalReaction7	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule1	Complex16	
+BiochemicalReaction8	Phosphorylation of BRF1 by MK2	SmallMolecule1	Complex17	
+BiochemicalReaction8	Phosphorylation of BRF1 by MK2	Complex12	Complex17	
+BiochemicalReaction8	Phosphorylation of BRF1 by MK2	Complex12	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of BRF1 by MK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Complex16	Complex18	
+BiochemicalReaction9	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Protein88	Complex18	

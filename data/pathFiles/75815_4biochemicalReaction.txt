@@ -1,0 +1,9 @@
+BiochemicalReaction1	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	Complex1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	Complex1	Complex2	
+BiochemicalReaction1	Phosphorylation of Cyclin D1 at T286 by glycogen synthase kinase-3 beta	SmallMolecule1	Complex2	
+BiochemicalReaction2	Relocalization of nuclearly localized phospho-(T286):cyclin D1:Cdk4 to cytoplasm	Complex2	Complex3	
+BiochemicalReaction3	Relocalization of nuclearly localized Cyclin D1 to the cytoplasm	Protein3	Protein5	
+BiochemicalReaction4	Ubiquitination of Cyclin D1	Protein6	Complex4	
+BiochemicalReaction4	Ubiquitination of Cyclin D1	Protein5	Complex4	
+BiochemicalReaction5	Proteasome mediated degradation of Cyclin D1	Complex4	Protein6	

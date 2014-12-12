@@ -1,0 +1,135 @@
+path {
+    stroke: #fff;
+    fill-rule: evenodd;
+}
+.node {
+    font: 300 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    fill: #bbb;
+}
+
+.node:hover {
+    fill: #000;
+}
+
+.link {
+    stroke: steelblue;
+    stroke-opacity: .4;
+    fill: none;
+    pointer-events: none;
+}
+
+.node:hover,
+.node--source,
+.node--target {
+    font-weight: 700;
+}
+
+/*.node--source {*/
+    /*fill: #2ca02c;*/
+/*}*/
+
+/*.node--target {*/
+    /*fill: #d62728;*/
+/*}*/
+
+.link--source,
+.link--target {
+    stroke-opacity: 1;
+    stroke-width: 2px;
+}
+
+.link--source {
+    stroke: #2ca02c;
+}
+
+.link--target {
+    stroke: #2ca02c;
+}
+
+.titleLink {
+    stroke: steelblue;
+    stroke-opacity: .4;
+    fill: none;
+    pointer-events: none;
+}
+
+svg .colorScaleBar {
+    xborder:1px solid red;
+}
+.axis text {
+    font: 10px sans-serif;
+}
+
+.axis line,
+.axis path {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.hyper {
+    fill: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.hyper:hover {
+    fill: red;
+    text-decoration: none;
+    cursor: hand;
+}
+
+.bar-text {
+    pointer-events: none;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 12px
+}
+
+th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #666666;
+    color: #ffffff;
+    cursor: s-resize;
+}
+
+tbody tr:first-child td {
+    padding-top: 2px;
+}
+
+tbody td {
+    padding: 0;
+    border: solid 1px #000;
+    /*font: 16px sans-serif;*/
+}
+
+tbody rect {
+    fill: steelblue;
+}
+
+tbody tr:hover rect {
+    fill: brown;
+}
+.highlight{ background-color: yellow; }
+table, th, td {
+    border: 1px solid black;
+}
+
+.biPartiteMenu {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #fff;
+    width: 60px;
+    border: 1px #ccc solid;
+    border-radius: 6px;
+    box-shadow: #333 2px 2px 4px;
+    padding: 8px;
+    font-family: arial, helvetica, sans-serif;
+    opacity:0;
+}

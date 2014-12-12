@@ -1,0 +1,19 @@
+BiochemicalReaction1	Biogenesis And Assembly Of The Telomerase RNP	Rna1	Complex1	
+BiochemicalReaction1	Biogenesis And Assembly Of The Telomerase RNP	Protein1	Complex1	
+BiochemicalReaction1	Biogenesis And Assembly Of The Telomerase RNP	Protein2	Complex1	
+BiochemicalReaction2	Recruitment of Telomerase RNP to the Telomeric Chromosome End	SmallMolecule1	Complex2	
+BiochemicalReaction2	Recruitment of Telomerase RNP to the Telomeric Chromosome End	Complex1	Complex2	
+BiochemicalReaction3	Alignment Of The RNA Template On The Telomeric Chromosome End	Complex2	Complex3	
+BiochemicalReaction4	Elongation Of The Telomeric Chromosome End	SmallMolecule2	Complex4	
+BiochemicalReaction4	Elongation Of The Telomeric Chromosome End	SmallMolecule3	Complex4	
+BiochemicalReaction4	Elongation Of The Telomeric Chromosome End	Complex3	Complex4	
+BiochemicalReaction4	Elongation Of The Telomeric Chromosome End	SmallMolecule4	Complex4	
+BiochemicalReaction4	Elongation Of The Telomeric Chromosome End	SmallMolecule5	Complex4	
+BiochemicalReaction5	Translocation Of Telomerase RNP And Alignment Of RNA Template (TERC) To Extended Single Stranded Telomeric Chromosome-End	Complex4	Complex5	
+BiochemicalReaction6	Elongation of Extended Telomeric Chromosome End	SmallMolecule2	Complex6	
+BiochemicalReaction6	Elongation of Extended Telomeric Chromosome End	Complex4	Complex6	
+BiochemicalReaction6	Elongation of Extended Telomeric Chromosome End	SmallMolecule3	Complex6	
+BiochemicalReaction6	Elongation of Extended Telomeric Chromosome End	SmallMolecule4	Complex6	
+BiochemicalReaction6	Elongation of Extended Telomeric Chromosome End	SmallMolecule5	Complex6	
+BiochemicalReaction7	Disassociation of Telomerase RNP and the Chromosome End	Complex6	SmallMolecule7	
+BiochemicalReaction7	Disassociation of Telomerase RNP and the Chromosome End	Complex6	Complex1	

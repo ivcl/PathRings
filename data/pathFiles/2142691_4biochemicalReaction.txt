@@ -1,0 +1,82 @@
+BiochemicalReaction1	ALOX5 is phosphorylated by MAPKAP2	Complex1	Complex2	
+BiochemicalReaction10	20cooh-LTB4 is converted to 18cooh-LTB4	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction11	LTA4 is converted to LTC4 by LTC4S	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction11	LTA4 is converted to LTC4 by LTC4S	SmallMolecule8	SmallMolecule21	
+BiochemicalReaction12	ABCC1 mediates LTC4 export from the cell	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction13	LTC4 is converted to LTD4 by GGT1/5	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction13	LTC4 is converted to LTD4 by GGT1/5	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction14	Further cleavage of LTD4 forms LTE4	SmallMolecule23	SmallMolecule26	
+BiochemicalReaction14	Further cleavage of LTD4 forms LTE4	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction14	Further cleavage of LTD4 forms LTE4	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction14	Further cleavage of LTD4 forms LTE4	SmallMolecule23	SmallMolecule27	
+BiochemicalReaction15	LTA4 is hydrolysed to 6t-/6t,12epi-LTB4	SmallMolecule8	SmallMolecule28	
+BiochemicalReaction15	LTA4 is hydrolysed to 6t-/6t,12epi-LTB4	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction16	LTA4 is converted to EXA4 by ALOX15	SmallMolecule8	SmallMolecule31	
+BiochemicalReaction17	EXA4 is converted to EXC4 by LTC4S	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction17	EXA4 is converted to EXC4 by LTC4S	SmallMolecule20	SmallMolecule32	
+BiochemicalReaction18	EXC4 is converted to EXD4 by GGT	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction18	EXC4 is converted to EXD4 by GGT	SmallMolecule32	SmallMolecule34	
+BiochemicalReaction19	EXD4 is converted to EXE4 by DPEP	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction19	EXD4 is converted to EXE4 by DPEP	SmallMolecule9	SmallMolecule35	
+BiochemicalReaction19	EXD4 is converted to EXE4 by DPEP	SmallMolecule9	SmallMolecule36	
+BiochemicalReaction19	EXD4 is converted to EXE4 by DPEP	SmallMolecule33	SmallMolecule36	
+BiochemicalReaction2	Oxidation of arachidonic acid to 5-HpETE	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction2	Oxidation of arachidonic acid to 5-HpETE	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	5S-HpETE is dehydrated to LTA4 by ALOX5	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction3	5S-HpETE is dehydrated to LTA4 by ALOX5	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction4	LTA4 is hydrolyzed to LTB4	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction4	LTA4 is hydrolyzed to LTB4	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction5	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction5	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction5	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction5	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule10	SmallMolecule15	
+BiochemicalReaction5	LTB4 is oxidised to 12-oxoLTB4 by PTGR1	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule9	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule9	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule16	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule10	SmallMolecule16	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction6	LTB4 is hydroxylated to 20oh-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule17	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule17	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule16	SmallMolecule12	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule16	SmallMolecule9	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule9	
+BiochemicalReaction7	20oh-LTB4 is oxidised to 20cho-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule9	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule18	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule18	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule17	SmallMolecule12	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule14	SmallMolecule9	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule13	SmallMolecule9	
+BiochemicalReaction8	20cho-LTB4 is oxidised to 20cooh-LTB4 by CYP4F2/4F3	SmallMolecule17	SmallMolecule9	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule13	SmallMolecule18	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule4	SmallMolecule18	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule14	SmallMolecule12	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule17	SmallMolecule12	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule14	SmallMolecule9	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule13	SmallMolecule9	
+BiochemicalReaction9	20cho-LTB4 is oxidised to 20cooh-LTB4 by ALDH	SmallMolecule17	SmallMolecule9	

@@ -1,0 +1,31 @@
+BiochemicalReaction1	Liganded G12/13-activating GPCRs bind inactive heterotrimeric G-protein G12/13	Complex1	Complex10	
+BiochemicalReaction1	Liganded G12/13-activating GPCRs bind inactive heterotrimeric G-protein G12/13	Complex4	Complex10	
+BiochemicalReaction10	LARG binds plexin B1	Protein85	Complex27	
+BiochemicalReaction10	LARG binds plexin B1	Complex26	Complex27	
+BiochemicalReaction11	G alpha (12/13) auto-inactivates by hydrolysing GTP to GDP	Complex17	Complex28	
+BiochemicalReaction12	Inactive G alpha (12/13) reassociates with G beta:gamma	Complex28	Complex4	
+BiochemicalReaction12	Inactive G alpha (12/13) reassociates with G beta:gamma	Complex7	Complex4	
+BiochemicalReaction2	Liganded G12/13-activating GPCR acts as a GEF for G12/13	SmallMolecule6	Complex11	
+BiochemicalReaction2	Liganded G12/13-activating GPCR acts as a GEF for G12/13	Complex10	Complex11	
+BiochemicalReaction2	Liganded G12/13-activating GPCR acts as a GEF for G12/13	Complex10	SmallMolecule8	
+BiochemicalReaction2	Liganded G12/13-activating GPCR acts as a GEF for G12/13	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	The Ligand:GPCR:G12/13 complex dissociates	Complex11	PhysicalEntity1	
+BiochemicalReaction3	The Ligand:GPCR:G12/13 complex dissociates	Complex11	Complex17	
+BiochemicalReaction3	The Ligand:GPCR:G12/13 complex dissociates	Complex11	PhysicalEntity2	
+BiochemicalReaction3	The Ligand:GPCR:G12/13 complex dissociates	Complex11	Complex7	
+BiochemicalReaction4	G alpha (13) activates Rho guanine nucleotide exchange factor 1 (p115-RhoGEF)	Protein27	Complex18	
+BiochemicalReaction4	G alpha (13) activates Rho guanine nucleotide exchange factor 1 (p115-RhoGEF)	Complex16	Complex18	
+BiochemicalReaction5	p115-RhoGEF activation of Rac1	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	p115-RhoGEF activation of Rac1	Complex19	SmallMolecule8	
+BiochemicalReaction5	p115-RhoGEF activation of Rac1	Complex19	Complex20	
+BiochemicalReaction5	p115-RhoGEF activation of Rac1	SmallMolecule6	Complex20	
+BiochemicalReaction6	Rac1 activation of  PI3K	Complex21	Complex22	
+BiochemicalReaction6	Rac1 activation of  PI3K	Complex20	Complex22	
+BiochemicalReaction7	GEFs activate RhoA,B,C	SmallMolecule6	Complex24	
+BiochemicalReaction7	GEFs activate RhoA,B,C	Complex23	Complex24	
+BiochemicalReaction7	GEFs activate RhoA,B,C	Complex23	SmallMolecule8	
+BiochemicalReaction7	GEFs activate RhoA,B,C	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction8	ROCK activation by Rho	Protein82	Complex25	
+BiochemicalReaction8	ROCK activation by Rho	Complex24	Complex25	
+BiochemicalReaction9	LARG activation by G alpha 12/13	Complex17	Complex26	
+BiochemicalReaction9	LARG activation by G alpha 12/13	Protein71	Complex26	

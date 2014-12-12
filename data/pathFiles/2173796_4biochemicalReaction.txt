@@ -1,0 +1,28 @@
+BiochemicalReaction1	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein1	Complex1	
+BiochemicalReaction1	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein2	Complex1	
+BiochemicalReaction10	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex12	Complex13	
+BiochemicalReaction10	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex2	Complex13	
+BiochemicalReaction11	MYC trancscription is negatively regulated by SMAD2/3:SMAD4:RBL1:E2F4/5:DP1/2 complex	Dna3	Protein48	
+BiochemicalReaction12	SMAD2/3:SMAD4 heterotrimer binds SP1	Complex2	Complex14	
+BiochemicalReaction12	SMAD2/3:SMAD4 heterotrimer binds SP1	Protein49	Complex14	
+BiochemicalReaction13	SMAD2/3:SMAD4:SP1 complex stimulates transcription of CDKN2B	Dna4	Protein50	
+BiochemicalReaction14	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Complex2	Complex15	
+BiochemicalReaction14	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Protein51	Complex15	
+BiochemicalReaction15	SMAD2/3:SMAD4 complex positively regulates JUNB transcription	Dna5	Protein52	
+BiochemicalReaction2	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex1	Complex2	
+BiochemicalReaction3	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex2	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex2	Complex3	
+BiochemicalReaction3	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule1	Complex3	
+BiochemicalReaction4	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Complex1	Complex7	
+BiochemicalReaction4	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Protein17	Complex7	
+BiochemicalReaction5	WWTR1:SMAD translocates to the nucleus	Complex7	Complex8	
+BiochemicalReaction6	WWTR1:SMAD stimulates transcription of SMAD7	Dna1	Protein19	
+BiochemicalReaction7	WWTR1:SMAD stimulates transcription of SERPINE1 while TGIF:SMAD and SMAD7 inhibit it	Dna2	Protein20	
+BiochemicalReaction8	RNF111 binds SMAD7	Protein19	Complex10	
+BiochemicalReaction8	RNF111 binds SMAD7	Protein25	Complex10	
+BiochemicalReaction9	RNF111 ubiquitinates SMAD7	Complex10	Complex11	
+BiochemicalReaction9	RNF111 ubiquitinates SMAD7	Protein26	Complex11	
+BiochemicalReaction9	RNF111 ubiquitinates SMAD7	Protein26	Protein25	
+BiochemicalReaction9	RNF111 ubiquitinates SMAD7	Complex10	Protein25	
+Degradation1	Degradation of Ub-SMAD7	Complex11	NA	

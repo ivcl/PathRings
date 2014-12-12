@@ -1,0 +1,12 @@
+BiochemicalReaction1	ADP binds to P2Y purinoceptor 12	SmallMolecule1	Complex1	
+BiochemicalReaction1	ADP binds to P2Y purinoceptor 12	Protein1	Complex1	
+BiochemicalReaction2	Activated P2Y purinoceptor 12 binds G-protein Gi	Complex2	Complex5	
+BiochemicalReaction2	Activated P2Y purinoceptor 12 binds G-protein Gi	Complex1	Complex5	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	SmallMolecule4	Complex6	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	Complex5	Complex6	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	Complex5	SmallMolecule6	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	SmallMolecule1	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	Complex8	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	Protein1	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	Complex4	

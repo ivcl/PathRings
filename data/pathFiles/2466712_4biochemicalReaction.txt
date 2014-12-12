@@ -1,0 +1,12 @@
+BiochemicalReaction1	atRAL can spontaneously react with PE to form NRPE	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	atRAL can spontaneously react with PE to form NRPE	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	NRPE condenses with atRAL to form A2PE	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	NRPE condenses with atRAL to form A2PE	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	NRPE condenses with atRAL to form A2PE	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction2	NRPE condenses with atRAL to form A2PE	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction3	A2PE hydrolyses to A2E	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	A2PE hydrolyses to A2E	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	A2PE hydrolyses to A2E	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	A2PE hydrolyses to A2E	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction4	A2E is phagocytosed	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	A2E translocates to RPE cells	SmallMolecule8	SmallMolecule9	

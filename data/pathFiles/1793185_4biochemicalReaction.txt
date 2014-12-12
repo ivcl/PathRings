@@ -1,0 +1,85 @@
+BiochemicalReaction1	GXYLTs transfer Xyl to core protein	SmallMolecule1	Protein21	
+BiochemicalReaction1	GXYLTs transfer Xyl to core protein	Protein1	Protein21	
+BiochemicalReaction1	GXYLTs transfer Xyl to core protein	Protein1	SmallMolecule2	
+BiochemicalReaction1	GXYLTs transfer Xyl to core protein	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein134	Protein165	
+BiochemicalReaction10	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule7	Protein165	
+BiochemicalReaction10	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction10	Chondroitin can be sulfated on position 6 of GalNAc by CHST3,7	Protein134	SmallMolecule8	
+BiochemicalReaction11	CSPG is secreted	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction12	Dermatan-sulfate epimerase (DSE) converts chondroitin sulfate (CS) to dermatan sulfate (DS)	Protein143	Protein200	
+BiochemicalReaction13	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein200	Protein211	
+BiochemicalReaction13	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule7	Protein211	
+BiochemicalReaction13	Dermatan sulfate can be further sulfated on position 2 of iduronate	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction13	Dermatan sulfate can be further sulfated on position 2 of iduronate	Protein200	SmallMolecule8	
+BiochemicalReaction14	CHST14 transfers SO4(2-) to DS	Protein211	SmallMolecule8	
+BiochemicalReaction14	CHST14 transfers SO4(2-) to DS	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction14	CHST14 transfers SO4(2-) to DS	SmallMolecule7	Protein220	
+BiochemicalReaction14	CHST14 transfers SO4(2-) to DS	Protein211	Protein220	
+BiochemicalReaction15	DSPGs are secreted	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction16	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity4	PhysicalEntity5	
+BiochemicalReaction16	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity2	PhysicalEntity5	
+BiochemicalReaction16	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity2	PhysicalEntity6	
+BiochemicalReaction16	DSPG and CSPG translocate to the lysosome for degradation	PhysicalEntity4	PhysicalEntity6	
+BiochemicalReaction17	DS is cleaved from its proteoglycan	Protein285	SmallMolecule10	
+BiochemicalReaction17	DS is cleaved from its proteoglycan	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction17	DS is cleaved from its proteoglycan	SmallMolecule9	Protein301	
+BiochemicalReaction17	DS is cleaved from its proteoglycan	Protein285	Protein301	
+BiochemicalReaction18	CS is cleaved from its proteoglycan	PhysicalEntity5	SmallMolecule11	
+BiochemicalReaction18	CS is cleaved from its proteoglycan	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction18	CS is cleaved from its proteoglycan	SmallMolecule9	Protein301	
+BiochemicalReaction18	CS is cleaved from its proteoglycan	PhysicalEntity5	Protein301	
+BiochemicalReaction19	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction19	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction19	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule9	SmallMolecule15	
+BiochemicalReaction19	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of DS	SmallMolecule10	SmallMolecule15	
+BiochemicalReaction2	B4GALT7 transfers Gal group to tetrasaccharide linker	Protein21	Protein44	
+BiochemicalReaction2	B4GALT7 transfers Gal group to tetrasaccharide linker	SmallMolecule3	Protein44	
+BiochemicalReaction2	B4GALT7 transfers Gal group to tetrasaccharide linker	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	B4GALT7 transfers Gal group to tetrasaccharide linker	Protein21	SmallMolecule2	
+BiochemicalReaction20	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule15	SmallMolecule14	
+BiochemicalReaction20	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction20	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule9	SmallMolecule17	
+BiochemicalReaction20	Iduronate 2-sulfatase (IDS) hydrolyses sulfates from L-iduronate 2-sulfate units of dermatan sulfate	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction21	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule9	SmallMolecule18	
+BiochemicalReaction21	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction21	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction21	HEXA,B cleaves the terminal GalNAc from DS	SmallMolecule9	SmallMolecule19	
+BiochemicalReaction22	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule9	SmallMolecule20	
+BiochemicalReaction22	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction22	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction22	Alpha-L-iduronidase (IDUA) hydrolyses the unsulfated alpha-L-iduronosidic linkage in DS	SmallMolecule9	SmallMolecule21	
+BiochemicalReaction23	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction23	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction23	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule9	SmallMolecule22	
+BiochemicalReaction23	Arylsulfatase B (ARSB) hydrolyses sulfate groups from GalNAc 4-sulfate units of CS	SmallMolecule11	SmallMolecule22	
+BiochemicalReaction24	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule9	SmallMolecule25	
+BiochemicalReaction24	Hyaluronidase 1 (HYAL1) hydrolyses 1-4 linkages between GalNAc and D-glucuronate residues in CS.	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction3	B3GALT6 transfers Gal to the tetrasaccharide linker	Protein44	Protein65	
+BiochemicalReaction3	B3GALT6 transfers Gal to the tetrasaccharide linker	SmallMolecule3	Protein65	
+BiochemicalReaction3	B3GALT6 transfers Gal to the tetrasaccharide linker	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	B3GALT6 transfers Gal to the tetrasaccharide linker	Protein44	SmallMolecule2	
+BiochemicalReaction4	B3GATs transfer GlcA to tetrasaccharide linker	Protein65	Protein86	
+BiochemicalReaction4	B3GATs transfer GlcA to tetrasaccharide linker	SmallMolecule4	Protein86	
+BiochemicalReaction4	B3GATs transfer GlcA to tetrasaccharide linker	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction4	B3GATs transfer GlcA to tetrasaccharide linker	Protein65	SmallMolecule2	
+BiochemicalReaction5	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule6	Protein110	
+BiochemicalReaction5	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein109	Protein110	
+BiochemicalReaction5	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	Protein109	SmallMolecule2	
+BiochemicalReaction5	The addition of GalNAc to the terminal glucuronate residue forms chondroitin	SmallMolecule6	SmallMolecule2	
+BiochemicalReaction6	A glucuronate moiety is added to chondroitin	SmallMolecule4	Protein121	
+BiochemicalReaction6	A glucuronate moiety is added to chondroitin	Protein110	Protein121	
+BiochemicalReaction6	A glucuronate moiety is added to chondroitin	Protein110	SmallMolecule2	
+BiochemicalReaction6	A glucuronate moiety is added to chondroitin	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction7	GalNAc is added to chondroitin	Protein121	Protein134	
+BiochemicalReaction7	GalNAc is added to chondroitin	SmallMolecule6	Protein134	
+BiochemicalReaction7	GalNAc is added to chondroitin	SmallMolecule6	SmallMolecule2	
+BiochemicalReaction7	GalNAc is added to chondroitin	Protein121	SmallMolecule2	
+BiochemicalReaction8	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein134	Protein143	
+BiochemicalReaction8	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule7	Protein143	
+BiochemicalReaction8	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction8	Chondroitin can be sulfated on position 4 of GalNAc by CHST9, 11, 12 and 13	Protein134	SmallMolecule8	
+BiochemicalReaction9	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein143	Protein156	
+BiochemicalReaction9	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule7	Protein156	
+BiochemicalReaction9	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction9	Chondroitin 4-sulfate (C4S) can be further sulfated on position 6 by CHST15	Protein143	SmallMolecule8	

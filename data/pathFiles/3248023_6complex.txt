@@ -1,0 +1,6 @@
+Complex1	TREX1 dimer	endoplasmic reticulum membrane	Reactome DB_ID: 3244607	Protein1	
+Complex2	viral DNA with 3' sticky ends	cytosol	Reactome DB_ID: 177535	PhysicalEntity1	
+Complex2	viral DNA with 3' sticky ends	cytosol	Reactome DB_ID: 177535	PhysicalEntity2	
+Complex3	TREX1:viral DNA	endoplasmic reticulum membrane	Reactome DB_ID: 3244619	SmallMolecule1	
+Complex3	TREX1:viral DNA	endoplasmic reticulum membrane	Reactome DB_ID: 3244619	Complex1	
+Complex3	TREX1:viral DNA	endoplasmic reticulum membrane	Reactome DB_ID: 3244619	Complex2	

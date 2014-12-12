@@ -1,0 +1,50 @@
+Complex1	Activated FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190430	Protein1	
+Complex1	Activated FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190430	SmallMolecule1	
+Complex1	Activated FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190430	PhysicalEntity2	
+Complex10	Activated FGFR2b long homodimer 	plasma membrane	Reactome DB_ID: 190411	Protein19	
+Complex10	Activated FGFR2b long homodimer 	plasma membrane	Reactome DB_ID: 190411	SmallMolecule1	
+Complex10	Activated FGFR2b long homodimer 	plasma membrane	Reactome DB_ID: 190411	Protein21	
+Complex11	Activated FGFR2b short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192597	Protein19	
+Complex11	Activated FGFR2b short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192597	SmallMolecule1	
+Complex11	Activated FGFR2b short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192597	Protein22	
+Complex13	Activated FGFR2c long homodimer 	plasma membrane	Reactome DB_ID: 190418	Protein23	
+Complex13	Activated FGFR2c long homodimer 	plasma membrane	Reactome DB_ID: 190418	SmallMolecule1	
+Complex13	Activated FGFR2c long homodimer 	plasma membrane	Reactome DB_ID: 190418	Protein24	
+Complex14	Activated FGFR2c short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192592	Protein27	
+Complex14	Activated FGFR2c short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192592	SmallMolecule1	
+Complex14	Activated FGFR2c short homodimer bound to FGF	plasma membrane	Reactome DB_ID: 192592	Protein24	
+Complex15	Activated FGFR3b homodimer	plasma membrane	Reactome DB_ID: 190380	Protein28	
+Complex15	Activated FGFR3b homodimer	plasma membrane	Reactome DB_ID: 190380	Protein29	
+Complex15	Activated FGFR3b homodimer	plasma membrane	Reactome DB_ID: 190380	SmallMolecule1	
+Complex16	Activated FGFR3c homodimer 	plasma membrane	Reactome DB_ID: 190389	Protein30	
+Complex16	Activated FGFR3c homodimer 	plasma membrane	Reactome DB_ID: 190389	SmallMolecule1	
+Complex16	Activated FGFR3c homodimer 	plasma membrane	Reactome DB_ID: 190389	Protein31	
+Complex17	Activated FGFR4 homodimer	plasma membrane	Reactome DB_ID: 190328	Protein32	
+Complex17	Activated FGFR4 homodimer	plasma membrane	Reactome DB_ID: 190328	SmallMolecule1	
+Complex17	Activated FGFR4 homodimer	plasma membrane	Reactome DB_ID: 190328	Protein34	
+Complex18	Activated FGFR4 bound to FGF19:BetaKlotho	plasma membrane	Reactome DB_ID: 1307958	Protein35	
+Complex18	Activated FGFR4 bound to FGF19:BetaKlotho	plasma membrane	Reactome DB_ID: 1307958	Protein33	
+Complex18	Activated FGFR4 bound to FGF19:BetaKlotho	plasma membrane	Reactome DB_ID: 1307958	Protein34	
+Complex19	Activated FGFR:SHC1	plasma membrane	Reactome DB_ID: 1268225	PhysicalEntity1	
+Complex19	Activated FGFR:SHC1	plasma membrane	Reactome DB_ID: 1268225	Protein36	
+Complex2	Activated FGFR1c homodimer 	plasma membrane	Reactome DB_ID: 190425	Protein7	
+Complex2	Activated FGFR1c homodimer 	plasma membrane	Reactome DB_ID: 190425	SmallMolecule1	
+Complex2	Activated FGFR1c homodimer 	plasma membrane	Reactome DB_ID: 190425	Protein16	
+Complex20	Activated FGFR:p-SHC1	plasma membrane	Reactome DB_ID: 1268230	PhysicalEntity1	
+Complex20	Activated FGFR:p-SHC1	plasma membrane	Reactome DB_ID: 1268230	Protein39	
+Complex21	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein42	
+Complex21	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein43	
+Complex22	Activated FGFR:p-SHC1:GRB2:SOS1	plasma membrane	Reactome DB_ID: 1268252	Complex20	
+Complex22	Activated FGFR:p-SHC1:GRB2:SOS1	plasma membrane	Reactome DB_ID: 1268252	Complex21	
+Complex23	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	Protein44	
+Complex23	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	SmallMolecule5	
+Complex24	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule4	
+Complex24	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein44	
+Complex3	Activated FGFR1c bound to FGF23:Klotho	plasma membrane	Reactome DB_ID: 500333	SmallMolecule1	
+Complex3	Activated FGFR1c bound to FGF23:Klotho	plasma membrane	Reactome DB_ID: 500333	Complex4	
+Complex3	Activated FGFR1c bound to FGF23:Klotho	plasma membrane	Reactome DB_ID: 500333	Protein16	
+Complex4	Klotho bound to FGF23	plasma membrane	Reactome DB_ID: 190208	Protein15	
+Complex4	Klotho bound to FGF23	plasma membrane	Reactome DB_ID: 190208	Complex5	
+Complex5	Klotho homodimer	plasma membrane	Reactome DB_ID: 190309	Complex6	
+Complex7	Membrane-bound Klotho homodimer	plasma membrane	Reactome DB_ID: 190204	Protein17	
+Complex8	Secreted Klotho homodimer	extracellular region	Reactome DB_ID: 190203	Protein18	

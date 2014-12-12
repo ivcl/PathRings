@@ -1,0 +1,75 @@
+Complex1	Activated TrkA receptor complex	endosome	Reactome DB_ID: 190083	Complex2	
+Complex1	Activated TrkA receptor complex	endosome	Reactome DB_ID: 190083	Protein3	
+Complex10	Rap1-GDP	endosome	Reactome DB_ID: 190077	SmallMolecule3	
+Complex10	Rap1-GDP	endosome	Reactome DB_ID: 190077	Protein10	
+Complex11	Rap1-GTP	endosome	Reactome DB_ID: 190069	SmallMolecule4	
+Complex11	Rap1-GTP	endosome	Reactome DB_ID: 190069	Protein10	
+Complex12	B-Raf complex	endosome	Reactome DB_ID: 190075	Protein11	
+Complex12	B-Raf complex	endosome	Reactome DB_ID: 190075	Protein12	
+Complex12	B-Raf complex	endosome	Reactome DB_ID: 190075	SmallMolecule5	
+Complex13	Rap1-GTP:B-Raf complex	endosome	Reactome DB_ID: 190082	Complex12	
+Complex13	Rap1-GTP:B-Raf complex	endosome	Reactome DB_ID: 190082	SmallMolecule4	
+Complex13	Rap1-GTP:B-Raf complex	endosome	Reactome DB_ID: 190082	Protein10	
+Complex14	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein13	
+Complex14	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein14	
+Complex15	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule6	
+Complex15	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein15	
+Complex16	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein14	
+Complex16	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex15	
+Complex17	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex16	
+Complex17	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein13	
+Complex18	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein13	
+Complex18	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex15	
+Complex18	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein19	
+Complex19	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein16	
+Complex19	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule6	
+Complex2	beta-NGF homodimer	endosome	Reactome DB_ID: 190067	Protein2	
+Complex20	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein14	
+Complex20	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex19	
+Complex21	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Protein20	
+Complex21	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Complex18	
+Complex22	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Complex18	
+Complex22	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Protein21	
+Complex23	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Protein22	
+Complex23	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Complex18	
+Complex24	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein23	
+Complex24	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein30	
+Complex25	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein23	
+Complex25	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein31	
+Complex26	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein31	
+Complex27	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein32	
+Complex28	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein33	
+Complex28	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex29	
+Complex29	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex30	
+Complex3	Active TrkA receptor:FRS2 complex	endosome	Reactome DB_ID: 190068	Protein1	
+Complex3	Active TrkA receptor:FRS2 complex	endosome	Reactome DB_ID: 190068	Complex1	
+Complex31	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex32	
+Complex31	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex33	
+Complex32	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein34	
+Complex32	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein35	
+Complex33	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein39	
+Complex33	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein40	
+Complex34	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex32	
+Complex34	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex35	
+Complex35	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein39	
+Complex35	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein41	
+Complex36	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein24	
+Complex36	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein42	
+Complex37	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein24	
+Complex37	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein43	
+Complex38	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein43	
+Complex39	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein44	
+Complex4	Active TrkA receptor:p-FRS2 complex	endosome	Reactome DB_ID: 190073	Protein4	
+Complex4	Active TrkA receptor:p-FRS2 complex	endosome	Reactome DB_ID: 190073	Complex1	
+Complex5	Active TrkA receptor:PLCG1 complex	plasma membrane	Reactome DB_ID: 167687	Complex6	
+Complex5	Active TrkA receptor:PLCG1 complex	plasma membrane	Reactome DB_ID: 167687	Protein7	
+Complex6	Activated TrkA receptor complex	plasma membrane	Reactome DB_ID: 166540	Protein5	
+Complex6	Activated TrkA receptor complex	plasma membrane	Reactome DB_ID: 166540	Complex7	
+Complex7	beta-NGF homodimer	extracellular region	Reactome DB_ID: 167057	Protein6	
+Complex8	Active TrkA receptor:p-FRS2:CRKL complex	endosome	Reactome DB_ID: 190081	Protein4	
+Complex8	Active TrkA receptor:p-FRS2:CRKL complex	endosome	Reactome DB_ID: 190081	Complex1	
+Complex8	Active TrkA receptor:p-FRS2:CRKL complex	endosome	Reactome DB_ID: 190081	Protein8	
+Complex9	Active TrkA receptor:Phospho-Frs2:CrkL:C3G complex	endosome	Reactome DB_ID: 190070	Protein9	
+Complex9	Active TrkA receptor:Phospho-Frs2:CrkL:C3G complex	endosome	Reactome DB_ID: 190070	Complex1	
+Complex9	Active TrkA receptor:Phospho-Frs2:CrkL:C3G complex	endosome	Reactome DB_ID: 190070	Protein4	
+Complex9	Active TrkA receptor:Phospho-Frs2:CrkL:C3G complex	endosome	Reactome DB_ID: 190070	Protein8	

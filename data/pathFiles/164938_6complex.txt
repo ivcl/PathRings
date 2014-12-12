@@ -1,0 +1,52 @@
+Complex1	Nef:CD28 Complex	plasma membrane	Reactome DB_ID: 167629	Protein1	
+Complex1	Nef:CD28 Complex	plasma membrane	Reactome DB_ID: 167629	Protein2	
+Complex10	CD4:Lck Complex	plasma membrane	Reactome DB_ID: 167529	Protein20	
+Complex10	CD4:Lck Complex	plasma membrane	Reactome DB_ID: 167529	Protein21	
+Complex11	CD4:Nef Complex	plasma membrane	Reactome DB_ID: 167596	Protein20	
+Complex11	CD4:Nef Complex	plasma membrane	Reactome DB_ID: 167596	Protein2	
+Complex12	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein23	
+Complex12	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein26	
+Complex12	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein4	
+Complex12	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein27	
+Complex13	CD4:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 167544	Protein22	
+Complex13	CD4:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 167544	Complex11	
+Complex13	CD4:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 167544	Complex12	
+Complex14	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Protein28	
+Complex14	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Protein29	
+Complex14	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Complex12	
+Complex14	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Protein2	
+Complex15	Arf1:Nef:endosomal CD4	early endosome membrane	Reactome DB_ID: 200867	Protein30	
+Complex15	Arf1:Nef:endosomal CD4	early endosome membrane	Reactome DB_ID: 200867	Protein29	
+Complex15	Arf1:Nef:endosomal CD4	early endosome membrane	Reactome DB_ID: 200867	Protein2	
+Complex16	CD8:Nef Complex	plasma membrane	Reactome DB_ID: 182194	Protein31	
+Complex16	CD8:Nef Complex	plasma membrane	Reactome DB_ID: 182194	Protein2	
+Complex17	CD8:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 182158	Protein22	
+Complex17	CD8:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 182158	Complex16	
+Complex17	CD8:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 182158	Complex12	
+Complex18	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Protein28	
+Complex18	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Complex12	
+Complex18	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Protein32	
+Complex18	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Protein2	
+Complex2	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	plasma membrane	Reactome DB_ID: 167636	Complex1	
+Complex2	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	plasma membrane	Reactome DB_ID: 167636	Protein3	
+Complex3	CD28:Nef:Clathrin-coated Pit Adapter Protein	cytosol	Reactome DB_ID: 167631	Protein4	
+Complex3	CD28:Nef:Clathrin-coated Pit Adapter Protein	cytosol	Reactome DB_ID: 167631	Protein5	
+Complex3	CD28:Nef:Clathrin-coated Pit Adapter Protein	cytosol	Reactome DB_ID: 167631	Protein2	
+Complex4	class I MHC complex	Golgi membrane	Reactome DB_ID: 182275	Protein6	
+Complex4	class I MHC complex	Golgi membrane	Reactome DB_ID: 182275	Protein7	
+Complex5	Nef:class I MHC complex	Golgi membrane	Reactome DB_ID: 182256	Complex4	
+Complex5	Nef:class I MHC complex	Golgi membrane	Reactome DB_ID: 182256	Protein2	
+Complex6	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein8	
+Complex6	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein9	
+Complex6	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein10	
+Complex6	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein14	
+Complex7	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Complex6	
+Complex7	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Protein17	
+Complex7	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Complex4	
+Complex7	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Protein2	
+Complex8	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Complex9	
+Complex8	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Complex6	
+Complex8	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Protein17	
+Complex8	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Protein2	
+Complex9	class I MHC complex	early endosome membrane	Reactome DB_ID: 182294	Protein18	
+Complex9	class I MHC complex	early endosome membrane	Reactome DB_ID: 182294	Protein19	

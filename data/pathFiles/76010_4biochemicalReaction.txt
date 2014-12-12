@@ -1,0 +1,15 @@
+BiochemicalReaction1	Association of RAD51 with BRCA2	Protein1	Complex1	
+BiochemicalReaction1	Association of RAD51 with BRCA2	Protein2	Complex1	
+BiochemicalReaction2	Formation of RAD52 heptameric ring structure complexes on ssDNA	Complex2	Complex4	
+BiochemicalReaction2	Formation of RAD52 heptameric ring structure complexes on ssDNA	Protein6	Complex4	
+BiochemicalReaction3	Association of RAD52 with the RPA complex	Complex3	Complex6	
+BiochemicalReaction3	Association of RAD52 with the RPA complex	Protein6	Complex6	
+BiochemicalReaction4	Association of RAD52 with ssDNA at resected ends of double-strand break 	PhysicalEntity2	Complex7	
+BiochemicalReaction4	Association of RAD52 with ssDNA at resected ends of double-strand break 	Protein6	Complex7	
+BiochemicalReaction5	Association of RAD51 with RAD52:DNA double-strand break ends	Protein2	Complex8	
+BiochemicalReaction5	Association of RAD51 with RAD52:DNA double-strand break ends	Complex7	Complex8	
+BiochemicalReaction6	Association of RAD51 with the RPA complex	Complex2	Complex9	
+BiochemicalReaction6	Association of RAD51 with the RPA complex	Protein2	Complex9	
+BiochemicalReaction7	Association of RAD51 with the resected ends of the DNA double-strand break	PhysicalEntity2	Complex10	
+BiochemicalReaction7	Association of RAD51 with the resected ends of the DNA double-strand break	Protein2	Complex10	
+BiochemicalReaction8	Strand exchange/Branch migration	PhysicalEntity3	PhysicalEntity4	

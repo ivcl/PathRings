@@ -1,0 +1,26 @@
+BiochemicalReaction1	Haptoglobin Binds Hemoglobin	Complex1	Complex10	
+BiochemicalReaction1	Haptoglobin Binds Hemoglobin	Complex8	Complex10	
+BiochemicalReaction10	Alpha1-Microglobulin Binds Heme	Protein19	Complex36	
+BiochemicalReaction10	Alpha1-Microglobulin Binds Heme	SmallMolecule12	Complex36	
+BiochemicalReaction11	Cleavage of Alpha-1-Microglobulin	Complex38	Protein181	
+BiochemicalReaction11	Cleavage of Alpha-1-Microglobulin	Complex38	Complex39	
+BiochemicalReaction12	Truncated Alpha-1-Microglobulin Binds Heme	Protein181	Complex44	
+BiochemicalReaction12	Truncated Alpha-1-Microglobulin Binds Heme	SmallMolecule12	Complex44	
+BiochemicalReaction2	Haptoglobin:Hemoglobin Binds CD163	Complex10	Complex11	
+BiochemicalReaction2	Haptoglobin:Hemoglobin Binds CD163	Protein5	Complex11	
+BiochemicalReaction3	Endocytosis of Hemoglobin:Haptoglobin:CD163	Complex11	Complex12	
+BiochemicalReaction4	Formation of Trypanosome Lytic Factor1	Complex1	Complex25	
+BiochemicalReaction4	Formation of Trypanosome Lytic Factor1	Complex23	Complex25	
+BiochemicalReaction5	Transfer of Ferriheme from Albumin to Hemopexin	Protein14	Protein15	
+BiochemicalReaction5	Transfer of Ferriheme from Albumin to Hemopexin	Complex26	Protein15	
+BiochemicalReaction5	Transfer of Ferriheme from Albumin to Hemopexin	Complex26	Complex27	
+BiochemicalReaction5	Transfer of Ferriheme from Albumin to Hemopexin	Protein14	Complex27	
+BiochemicalReaction6	Transfer of Ferriheme from Methemoglobin to Hemopexin	Protein14	Complex31	
+BiochemicalReaction6	Transfer of Ferriheme from Methemoglobin to Hemopexin	Complex28	Complex31	
+BiochemicalReaction6	Transfer of Ferriheme from Methemoglobin to Hemopexin	Complex28	Complex27	
+BiochemicalReaction6	Transfer of Ferriheme from Methemoglobin to Hemopexin	Protein14	Complex27	
+BiochemicalReaction7	Hemopexin Binds Heme b	Protein14	Complex32	
+BiochemicalReaction7	Hemopexin Binds Heme b	SmallMolecule9	Complex32	
+BiochemicalReaction8	LRP1 (CD91) Binds Hemopexin:heme	Complex32	Complex33	
+BiochemicalReaction8	LRP1 (CD91) Binds Hemopexin:heme	Protein16	Complex33	
+BiochemicalReaction9	Endocytosis of LRP1:Hemopexin:heme	Complex33	Complex34	

@@ -1,0 +1,12 @@
+BiochemicalReaction1	Activated FGFR recruits SHC1	PhysicalEntity1	Complex19	
+BiochemicalReaction1	Activated FGFR recruits SHC1	Protein36	Complex19	
+BiochemicalReaction2	SHC1 is phosphorylated	Complex19	SmallMolecule3	
+BiochemicalReaction2	SHC1 is phosphorylated	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	SHC1 is phosphorylated	SmallMolecule2	Complex20	
+BiochemicalReaction2	SHC1 is phosphorylated	Complex19	Complex20	
+BiochemicalReaction3	GRB2:SOS1 is recruited to activated FGFR through p-SHC1	Complex20	Complex22	
+BiochemicalReaction3	GRB2:SOS1 is recruited to activated FGFR through p-SHC1	Complex21	Complex22	
+BiochemicalReaction4	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	SmallMolecule4	Complex24	
+BiochemicalReaction4	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	Complex23	Complex24	
+BiochemicalReaction4	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	Complex23	SmallMolecule5	
+BiochemicalReaction4	Ras nucleotide exchange by GRB2:SOS1 through p-SHC	SmallMolecule4	SmallMolecule5	

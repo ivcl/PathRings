@@ -1,0 +1,81 @@
+BiochemicalReaction1	sequestered tissue factor -> tissue factor	Protein1	Protein2	
+BiochemicalReaction10	prekallikrein + kininogen:C1q binding protein tetramer -> prekallikrein:kininogen:C1q binding protein tetramer	Protein24	Complex12	
+BiochemicalReaction10	prekallikrein + kininogen:C1q binding protein tetramer -> prekallikrein:kininogen:C1q binding protein tetramer	Complex11	Complex12	
+BiochemicalReaction11	prekallikrein:kininogen:C1q binding protein tetramer -> kallikrein:kininogen:C1q binding protein tetramer	Complex12	Complex13	
+BiochemicalReaction12	kallikrein:kininogen:C1q binding protein tetramer -> kallikrein + activated kininogen:C1q binding protein tetramer + bradykinin	Complex13	Complex16	
+BiochemicalReaction12	kallikrein:kininogen:C1q binding protein tetramer -> kallikrein + activated kininogen:C1q binding protein tetramer + bradykinin	Complex13	Complex17	
+BiochemicalReaction12	kallikrein:kininogen:C1q binding protein tetramer -> kallikrein + activated kininogen:C1q binding protein tetramer + bradykinin	Complex13	Protein32	
+BiochemicalReaction13	factor XII -> factor XIIa	Protein33	Complex19	
+BiochemicalReaction14	factor XI + platelet glycoprotein (GP) Ib:IX:V complex -> factor XI:platelet glycoprotein (GP) Ib:IX:V complex	Complex20	Complex23	
+BiochemicalReaction14	factor XI + platelet glycoprotein (GP) Ib:IX:V complex -> factor XI:platelet glycoprotein (GP) Ib:IX:V complex	Complex22	Complex23	
+BiochemicalReaction15	factor XI:platelet glycoprotein (GP) Ib:IX:V complex -> factor XIa:platelet glycoprotein (GP) Ib:IX:V complex (XIIa catalyst)	Complex23	Complex25	
+BiochemicalReaction16	factor XI:platelet glycoprotein (GP) Ib:IX:V complex -> factor XIa:platelet glycoprotein (GP) Ib:IX:V complex (thrombin catalyst)	Complex23	Complex25	
+BiochemicalReaction17	activation of factor IX (factor XIa catalyst)	Protein13	Complex7	
+BiochemicalReaction17	activation of factor IX (factor XIa catalyst)	Protein13	Protein16	
+BiochemicalReaction18	factor VIII + von Willebrand factor multimer -> factor VIII:von Willibrand factor multimer	Complex28	Complex30	
+BiochemicalReaction18	factor VIII + von Willebrand factor multimer -> factor VIII:von Willibrand factor multimer	Complex29	Complex30	
+BiochemicalReaction19	factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer	Complex30	Complex29	
+BiochemicalReaction19	factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer	Complex30	Protein49	
+BiochemicalReaction19	factor VIII:von Willibrand factor multimer -> factor VIIIa + factor VIIIa B A3 acidic polypeptide + von Willibrand factor multimer	Complex30	Complex31	
+BiochemicalReaction2	formation of TF:F7 complex	Protein3	Complex1	
+BiochemicalReaction2	formation of TF:F7 complex	Protein2	Complex1	
+BiochemicalReaction20	factor VIIIa + factor IXa -> factor VIIIa:factor IXa	Complex7	Complex32	
+BiochemicalReaction20	factor VIIIa + factor IXa -> factor VIIIa:factor IXa	Complex31	Complex32	
+BiochemicalReaction21	activation of factor X by VIIIa:IXa	SmallMolecule1	Protein7	
+BiochemicalReaction21	activation of factor X by VIIIa:IXa	Complex2	Protein7	
+BiochemicalReaction21	activation of factor X by VIIIa:IXa	Complex2	Complex3	
+BiochemicalReaction21	activation of factor X by VIIIa:IXa	SmallMolecule1	Complex3	
+BiochemicalReaction22	kallikrein + C1Inh -> kallikrein:C1Inh	Complex16	Complex35	
+BiochemicalReaction22	kallikrein + C1Inh -> kallikrein:C1Inh	Protein58	Complex35	
+BiochemicalReaction23	kallikrein + alpha2-macroglobulin -> kallikrein:alpha2-macrogloulin	Complex16	Complex37	
+BiochemicalReaction23	kallikrein + alpha2-macroglobulin -> kallikrein:alpha2-macrogloulin	Complex36	Complex37	
+BiochemicalReaction24	factor XIIa + C1Inh -> factor XIIa:C1Inh	Complex19	Complex38	
+BiochemicalReaction24	factor XIIa + C1Inh -> factor XIIa:C1Inh	Protein58	Complex38	
+BiochemicalReaction25	prothrombin -> activated thrombin (factor IIa) + thrombin activation peptide (Xa catalyst)	Protein60	Protein61	
+BiochemicalReaction25	prothrombin -> activated thrombin (factor IIa) + thrombin activation peptide (Xa catalyst)	Protein60	Complex27	
+BiochemicalReaction26	factor V -> factor Va + factor V activation peptide	Protein62	Protein63	
+BiochemicalReaction26	factor V -> factor Va + factor V activation peptide	Protein62	Complex39	
+BiochemicalReaction27	factor Va + factor Xa -> Va:Xa complex (prothrombinase)	Complex3	Complex40	
+BiochemicalReaction27	factor Va + factor Xa -> Va:Xa complex (prothrombinase)	Complex39	Complex40	
+BiochemicalReaction28	prothrombin -> activated thrombin (factor IIa) + thrombin activation peptide (prothrombinase catalyst)	Protein60	Protein61	
+BiochemicalReaction28	prothrombin -> activated thrombin (factor IIa) + thrombin activation peptide (prothrombinase catalyst)	Protein60	Complex27	
+BiochemicalReaction29	fibrinogen -> fibrin monomer + 2 fibrinopeptide A + 2 fibrinopeptide B	Complex42	Complex43	
+BiochemicalReaction29	fibrinogen -> fibrin monomer + 2 fibrinopeptide A + 2 fibrinopeptide B	Complex42	Protein73	
+BiochemicalReaction29	fibrinogen -> fibrin monomer + 2 fibrinopeptide A + 2 fibrinopeptide B	Complex42	Protein74	
+BiochemicalReaction3	activation of factor X by TF:F7	Complex2	Protein7	
+BiochemicalReaction3	activation of factor X by TF:F7	Complex2	Complex3	
+BiochemicalReaction30	n fibrin monomers -> fibrin multimer	Complex43	Complex44	
+BiochemicalReaction31	factor XIII -> factor XIII cleaved tetramer + 2 factor XIII A activation peptides	Complex45	Protein77	
+BiochemicalReaction31	factor XIII -> factor XIII cleaved tetramer + 2 factor XIII A activation peptides	Complex45	Complex46	
+BiochemicalReaction32	factor XIII cleaved tetramer + 2 Ca++ -> factor XIIIa + 2 factor XIII B chain	SmallMolecule1	Protein76	
+BiochemicalReaction32	factor XIII cleaved tetramer + 2 Ca++ -> factor XIIIa + 2 factor XIII B chain	Complex46	Protein76	
+BiochemicalReaction32	factor XIII cleaved tetramer + 2 Ca++ -> factor XIIIa + 2 factor XIII B chain	Complex46	Complex47	
+BiochemicalReaction32	factor XIII cleaved tetramer + 2 Ca++ -> factor XIIIa + 2 factor XIII B chain	SmallMolecule1	Complex47	
+BiochemicalReaction33	fibrin multimer -> fibrin multimer, crosslinked + NH4+	Complex44	SmallMolecule4	
+BiochemicalReaction33	fibrin multimer -> fibrin multimer, crosslinked + NH4+	Complex44	PhysicalEntity1	
+BiochemicalReaction34	antithrombin III + heparin -> antithrombin III:heparin	PhysicalEntity2	Complex48	
+BiochemicalReaction34	antithrombin III + heparin -> antithrombin III:heparin	Protein79	Complex48	
+BiochemicalReaction35	activated thrombin (factor IIa) + antithrombin III:heparin -> thrombin:antithrombin III:heparin	Complex27	Complex49	
+BiochemicalReaction35	activated thrombin (factor IIa) + antithrombin III:heparin -> thrombin:antithrombin III:heparin	Complex48	Complex49	
+BiochemicalReaction36	thrombin:antithrombin III:heparin -> thrombin:cleaved antithrombin III:heparin	Complex49	Complex51	
+BiochemicalReaction37	thrombin:cleaved antithrombin III:heparin -> thrombin:cleaved antithrombin III + heparin	Complex51	PhysicalEntity2	
+BiochemicalReaction37	thrombin:cleaved antithrombin III:heparin -> thrombin:cleaved antithrombin III + heparin	Complex51	Complex53	
+BiochemicalReaction38	activated thrombin (factor IIa) + thrombomodulin -> activated thrombin:thrombomodulin	Protein87	Complex55	
+BiochemicalReaction38	activated thrombin (factor IIa) + thrombomodulin -> activated thrombin:thrombomodulin	Complex27	Complex55	
+BiochemicalReaction39	protein C -> activated protein C + protein C heavy chain activation peptide	Complex56	Complex57	
+BiochemicalReaction39	protein C -> activated protein C + protein C heavy chain activation peptide	Complex56	Protein91	
+BiochemicalReaction4	activation of factor VII	Protein3	Complex4	
+BiochemicalReaction40	factor Va -> factor Vi	Complex39	Complex58	
+BiochemicalReaction5	formation of TF:F7a complex	Complex4	Complex5	
+BiochemicalReaction5	formation of TF:F7a complex	Protein2	Complex5	
+BiochemicalReaction6	activation of factor X by TF:F7a	SmallMolecule1	Protein7	
+BiochemicalReaction6	activation of factor X by TF:F7a	Complex2	Protein7	
+BiochemicalReaction6	activation of factor X by TF:F7a	Complex2	Complex3	
+BiochemicalReaction6	activation of factor X by TF:F7a	SmallMolecule1	Complex3	
+BiochemicalReaction7	activation of factor IX (TF:F7a catalyst)	Protein13	Complex7	
+BiochemicalReaction7	activation of factor IX (TF:F7a catalyst)	Protein13	Protein16	
+BiochemicalReaction8	Inactivation of factor VIIa by TFPI	Complex5	Complex8	
+BiochemicalReaction8	Inactivation of factor VIIa by TFPI	Complex3	Complex8	
+BiochemicalReaction8	Inactivation of factor VIIa by TFPI	Protein17	Complex8	
+BiochemicalReaction9	kininogen + C1q binding protein tetramer -> kininogen:C1q binding protein tetramer	Protein21	Complex11	
+BiochemicalReaction9	kininogen + C1q binding protein tetramer -> kininogen:C1q binding protein tetramer	Complex10	Complex11	

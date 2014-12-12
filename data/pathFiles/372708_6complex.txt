@@ -1,0 +1,26 @@
+Complex1	Talin:RIAM complex:ECM ligands: Integrin alphaIIb beta3:Active (p-Y419)-SRC:p(Y397,407,576,577,861,925)-PTK2	plasma membrane	Reactome DB_ID: 354080	Protein2	
+Complex1	Talin:RIAM complex:ECM ligands: Integrin alphaIIb beta3:Active (p-Y419)-SRC:p(Y397,407,576,577,861,925)-PTK2	plasma membrane	Reactome DB_ID: 354080	Complex2	
+Complex10	Phosphorylated p130Cas in complex with PTK2	plasma membrane	Reactome DB_ID: 372646	Protein16	
+Complex10	Phosphorylated p130Cas in complex with PTK2	plasma membrane	Reactome DB_ID: 372646	Complex1	
+Complex11	Crk bound to p130Cas:FADK1	plasma membrane	Reactome DB_ID: 372652	Complex10	
+Complex11	Crk bound to p130Cas:FADK1	plasma membrane	Reactome DB_ID: 372652	Protein17	
+Complex2	Talin:RIAM complex:ECM ligands:2X(Integrin alphaIIb beta3:Active (p-Y419)-SRC)	plasma membrane	Reactome DB_ID: 377622	SmallMolecule1	
+Complex2	Talin:RIAM complex:ECM ligands:2X(Integrin alphaIIb beta3:Active (p-Y419)-SRC)	plasma membrane	Reactome DB_ID: 377622	PhysicalEntity1	
+Complex2	Talin:RIAM complex:ECM ligands:2X(Integrin alphaIIb beta3:Active (p-Y419)-SRC)	plasma membrane	Reactome DB_ID: 377622	Complex4	
+Complex2	Talin:RIAM complex:ECM ligands:2X(Integrin alphaIIb beta3:Active (p-Y419)-SRC)	plasma membrane	Reactome DB_ID: 377622	Complex7	
+Complex3	fibrin monomer	extracellular region	Reactome DB_ID: 140586	Protein3	
+Complex3	fibrin monomer	extracellular region	Reactome DB_ID: 140586	Protein4	
+Complex3	fibrin monomer	extracellular region	Reactome DB_ID: 140586	Protein5	
+Complex4	Talin:RIAM complex	plasma membrane	Reactome DB_ID: 354176	Complex5	
+Complex4	Talin:RIAM complex	plasma membrane	Reactome DB_ID: 354176	Protein12	
+Complex5	Rap1-GTP:PIP2:RIAM	plasma membrane	Reactome DB_ID: 354110	SmallMolecule5	
+Complex5	Rap1-GTP:PIP2:RIAM	plasma membrane	Reactome DB_ID: 354110	Complex6	
+Complex5	Rap1-GTP:PIP2:RIAM	plasma membrane	Reactome DB_ID: 354110	Protein11	
+Complex6	Rap1-GTP	plasma membrane	Reactome DB_ID: 354126	SmallMolecule6	
+Complex6	Rap1-GTP	plasma membrane	Reactome DB_ID: 354126	Protein8	
+Complex7	Integrin alphaIIb beta3:Active (p-Y419)-SRC	plasma membrane	Reactome DB_ID: 377614	Complex8	
+Complex7	Integrin alphaIIb beta3:Active (p-Y419)-SRC	plasma membrane	Reactome DB_ID: 377614	Protein15	
+Complex8	Integrin alpha2bbeta3	plasma membrane	Reactome DB_ID: 114514	Protein13	
+Complex8	Integrin alpha2bbeta3	plasma membrane	Reactome DB_ID: 114514	Protein14	
+Complex9	PTK2 bound p130Cas complex	plasma membrane	Reactome DB_ID: 372688	Protein1	
+Complex9	PTK2 bound p130Cas complex	plasma membrane	Reactome DB_ID: 372688	Complex1	

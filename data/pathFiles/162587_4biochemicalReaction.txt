@@ -1,0 +1,287 @@
+BiochemicalReaction1	Binding of gp120 of ENV oligomer to the host CD4	Protein1	Complex7	
+BiochemicalReaction1	Binding of gp120 of ENV oligomer to the host CD4	Complex1	Complex7	
+BiochemicalReaction10	Disassembly of viral capsid	Complex38	PhysicalEntity4	
+BiochemicalReaction10	Disassembly of viral capsid	Complex38	Complex39	
+BiochemicalReaction100	Synthesis of ENV polyprotein	Rna10	Protein226	
+BiochemicalReaction101	Glycosylation of ENV polyprotein	Protein226	Protein226	
+BiochemicalReaction102	Folding and Oligomerization of ENV glycoprotein	Protein226	Complex174	
+BiochemicalReaction103	Transport of trimeric ENV precursor to Golgi apparatus	Complex174	Complex175	
+BiochemicalReaction104	Cleavage of the viral Env gp160 precursor polyprotein	Complex175	Complex176	
+BiochemicalReaction105	Transport of trimeric gp41:gp120 to plasma membrane	Complex176	Complex179	
+BiochemicalReaction106	Synthesis of VPU protein	Rna10	Protein231	
+BiochemicalReaction107	Transport of VPU to Golgi apparatus	Protein231	Protein232	
+BiochemicalReaction108	Transport of VPU to Plasma Membrane	Protein232	Protein233	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein233	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein23	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Complex173	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein34	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein234	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein35	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Complex36	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	PhysicalEntity5	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein29	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Complex179	Complex180	
+BiochemicalReaction109	Packaging of HIV virion on the host cell plasma membrane	Protein30	Complex180	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Protein33	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Protein24	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Complex40	
+BiochemicalReaction11	Formation of RTC (Reverse Transcription Complex)	Complex39	Rna3	
+BiochemicalReaction110	Recruitment Of HIV Virion Budding Machinery	Complex181	Complex183	
+BiochemicalReaction110	Recruitment Of HIV Virion Budding Machinery	Protein239	Complex183	
+BiochemicalReaction110	Recruitment Of HIV Virion Budding Machinery	Complex182	Complex183	
+BiochemicalReaction110	Recruitment Of HIV Virion Budding Machinery	Protein250	Complex183	
+BiochemicalReaction110	Recruitment Of HIV Virion Budding Machinery	Complex172	Complex183	
+BiochemicalReaction111	HIV Virion Budding	Complex180	Complex184	
+BiochemicalReaction112	Maturation of HIV Virion	Complex184	Complex1	
+BiochemicalReaction12	Annealing of 3'-end of unwound transfer RNA primer with genomic RNA	PhysicalEntity5	Complex41	
+BiochemicalReaction12	Annealing of 3'-end of unwound transfer RNA primer with genomic RNA	Complex40	Complex41	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	Complex41	Complex43	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	SmallMolecule1	Complex43	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction13	Synthesis of minus strand strong stop DNA (-sssDNA)	Complex41	SmallMolecule6	
+BiochemicalReaction14	RNase H-mediated cleavage of the RNA strand of the -sssDNA:RNA duplex	Complex43	Complex45	
+BiochemicalReaction15	RNase H-mediated degradation of the RNA strand of the -sssDNA:RNA duplex	Complex45	Complex47	
+BiochemicalReaction16	First strand transfer mediated by Repeated (R) sequence	Complex47	Complex49	
+BiochemicalReaction17	Minus strand DNA synthesis resumes	Complex49	Complex51	
+BiochemicalReaction18	RNase H-mediated cleavage of the template strand	Complex51	Complex52	
+BiochemicalReaction19	RNase H-mediated degradation of the template strand	Complex52	Complex54	
+BiochemicalReaction2	Conformational change in gp120 of Env oligomer	Complex7	Complex9	
+BiochemicalReaction20	 	Complex54	Complex55	
+BiochemicalReaction21	RNase H-mediated digestion of tRNA, 3'PPT and cPPT RNA primers	Complex55	Complex56	
+BiochemicalReaction22	Second strand transfer by annealing complementary PBS sequences	Complex56	Complex57	
+BiochemicalReaction23	Synthesis of full-length duplex viral DNA with a discontinuous plus strand	Complex57	Complex58	
+BiochemicalReaction24	Removal of plus-strand flap and gap closure complete synthesis of linear duplex viral DNA	Complex58	Complex59	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein45	Protein23	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein46	Protein23	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein47	Protein23	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Complex59	Protein23	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Complex59	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein47	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein46	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein45	Complex37	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Complex59	Complex61	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein47	Complex61	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein46	Complex61	
+BiochemicalReaction25	Formation of Pre-Integration Complex (PIC)	Protein45	Complex61	
+BiochemicalReaction26	Integrase binds viral DNA ends	Complex61	Complex62	
+BiochemicalReaction27	Terminal (3' end) cleavage of viral DNA	Complex62	Complex64	
+BiochemicalReaction28	Import of PIC to the Host Nucleus	Complex64	Complex67	
+BiochemicalReaction29	Target DNA binding	PhysicalEntity19	Complex70	
+BiochemicalReaction29	Target DNA binding	Complex67	Complex70	
+BiochemicalReaction29	Target DNA binding	Complex67	Complex71	
+BiochemicalReaction29	Target DNA binding	PhysicalEntity19	Complex71	
+BiochemicalReaction3	CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4	Protein20	Complex13	
+BiochemicalReaction3	CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4	Complex9	Complex13	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex70	Complex71	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex71	Complex71	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex71	Complex72	
+BiochemicalReaction30	Transesterification to connect viral DNA 3' ends to host DNA 5' ends	Complex70	Complex72	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex71	Complex74	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex72	Complex74	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex72	Protein56	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex71	Protein56	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex72	Complex71	
+BiochemicalReaction31	Gap repair completes provirus integration	Complex71	Complex71	
+BiochemicalReaction32	1-LTR circle formation	Complex67	Protein56	
+BiochemicalReaction32	1-LTR circle formation	Complex67	Complex76	
+BiochemicalReaction32	1-LTR circle formation	Complex67	Complex71	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex77	Complex71	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex67	Complex71	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex67	Complex78	
+BiochemicalReaction33	Association of Ku heterodimer with viral DNA ends	Complex77	Complex78	
+BiochemicalReaction34	Association of  XRCC4:DNA ligase IV complex with viral DNA ends	Complex79	Complex80	
+BiochemicalReaction34	Association of  XRCC4:DNA ligase IV complex with viral DNA ends	Complex78	Complex80	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Complex79	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Protein56	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Complex77	
+BiochemicalReaction35	2-LTR formation due to circularization of viral DNA	Complex80	Complex81	
+BiochemicalReaction36	Suicidal integration leading to inverted circle formation	Complex67	Protein56	
+BiochemicalReaction36	Suicidal integration leading to inverted circle formation	Complex67	Complex71	
+BiochemicalReaction36	Suicidal integration leading to inverted circle formation	Complex67	Complex82	
+BiochemicalReaction37	Suicidal integration leading to smaller circles of viral DNA	Complex67	Protein56	
+BiochemicalReaction37	Suicidal integration leading to smaller circles of viral DNA	Complex67	Complex83	
+BiochemicalReaction37	Suicidal integration leading to smaller circles of viral DNA	Complex67	Complex71	
+BiochemicalReaction38	HIV Promoter Opening: First Transition	Complex84	SmallMolecule8	
+BiochemicalReaction38	HIV Promoter Opening: First Transition	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction38	HIV Promoter Opening: First Transition	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction38	HIV Promoter Opening: First Transition	Complex84	SmallMolecule9	
+BiochemicalReaction38	HIV Promoter Opening: First Transition	SmallMolecule7	Complex96	
+BiochemicalReaction38	HIV Promoter Opening: First Transition	Complex84	Complex96	
+BiochemicalReaction39	Fall Back to Closed Pre-initiation Complex	Complex96	Complex84	
+BiochemicalReaction4	Conformational changes in gp120 exposes gp41	Complex13	Complex15	
+BiochemicalReaction40	NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex	SmallMolecule10	Complex97	
+BiochemicalReaction40	NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex	Complex96	Complex97	
+BiochemicalReaction41	Nucleophillic attack by 3'-hydroxyl oxygen of nascent HIV-1 transcript on the Alpha phosphate of NTP	Complex97	Complex99	
+BiochemicalReaction42	Newly formed phosphodiester bond stabilized and PPi released	Complex99	Complex100	
+BiochemicalReaction42	Newly formed phosphodiester bond stabilized and PPi released	Complex99	SmallMolecule14	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	Complex85	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	Complex90	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	PhysicalEntity27	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	Protein81	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	Complex91	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	Complex89	
+BiochemicalReaction43	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex100	Complex94	
+BiochemicalReaction44	Addition of the third nucleotide on the nascent HIV-1 transcript	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction44	Addition of the third nucleotide on the nascent HIV-1 transcript	Complex100	SmallMolecule14	
+BiochemicalReaction44	Addition of the third nucleotide on the nascent HIV-1 transcript	Complex100	Complex101	
+BiochemicalReaction44	Addition of the third nucleotide on the nascent HIV-1 transcript	SmallMolecule10	Complex101	
+BiochemicalReaction45	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule10	Protein81	
+BiochemicalReaction45	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex101	Protein81	
+BiochemicalReaction45	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex101	SmallMolecule14	
+BiochemicalReaction45	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction45	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex101	Complex102	
+BiochemicalReaction45	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule10	Complex102	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	Complex85	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	Complex90	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	PhysicalEntity30	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	Protein81	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	Complex91	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	Complex89	
+BiochemicalReaction46	Abortive HIV-1 Initiation Before Second Transition	Complex103	Complex94	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule10	Complex104	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex102	Complex104	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex102	Complex85	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule10	Complex85	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex102	Complex90	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule10	Complex90	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex102	SmallMolecule14	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex102	Complex89	
+BiochemicalReaction47	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule10	Complex89	
+BiochemicalReaction48	Abortive HIV-1 Initiation After Second Transition	Complex105	Complex85	
+BiochemicalReaction48	Abortive HIV-1 Initiation After Second Transition	Complex105	Complex91	
+BiochemicalReaction48	Abortive HIV-1 Initiation After Second Transition	Complex105	PhysicalEntity32	
+BiochemicalReaction48	Abortive HIV-1 Initiation After Second Transition	Complex105	Complex94	
+BiochemicalReaction49	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	Complex104	Complex106	
+BiochemicalReaction49	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	SmallMolecule10	Complex106	
+BiochemicalReaction49	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction49	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	Complex104	SmallMolecule14	
+BiochemicalReaction5	Fusogenic activation of gp41	Complex15	Complex20	
+BiochemicalReaction50	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction50	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	Complex106	SmallMolecule14	
+BiochemicalReaction50	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	Complex106	Complex107	
+BiochemicalReaction50	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	SmallMolecule10	Complex107	
+BiochemicalReaction51	Extrusion of 5'-end of 30 nt long HIV-1 transcript through the pore in Pol II complex	Complex107	Complex108	
+BiochemicalReaction52	Phosphorylation (Ser5) of RNA pol II CTD	Complex108	Complex109	
+BiochemicalReaction53	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein106	Complex112	
+BiochemicalReaction53	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex109	Complex112	
+BiochemicalReaction54	Activation of GT	Complex112	Complex113	
+BiochemicalReaction55	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex113	Complex114	
+BiochemicalReaction55	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein107	Complex114	
+BiochemicalReaction55	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein108	Complex114	
+BiochemicalReaction56	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex115	Complex118	
+BiochemicalReaction56	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein111	Complex118	
+BiochemicalReaction56	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex94	Complex118	
+BiochemicalReaction56	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex94	Complex94	
+BiochemicalReaction56	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein111	Complex94	
+BiochemicalReaction56	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex115	Complex94	
+BiochemicalReaction57	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex118	Complex121	
+BiochemicalReaction57	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex120	Complex121	
+BiochemicalReaction58	Formation of DSIF:NELF:HIV-1 early elongation complex	SmallMolecule10	SmallMolecule10	
+BiochemicalReaction58	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex121	SmallMolecule10	
+BiochemicalReaction58	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex122	SmallMolecule10	
+BiochemicalReaction58	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex122	Complex123	
+BiochemicalReaction58	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex121	Complex123	
+BiochemicalReaction58	Formation of DSIF:NELF:HIV-1 early elongation complex	SmallMolecule10	Complex123	
+BiochemicalReaction59	Abortive termination of HIV-1 early transcription elongation by DSIF:NELF	Complex123	Complex124	
+BiochemicalReaction6	Insertion of gp41 fusion peptide into the target membrane	Complex20	Complex25	
+BiochemicalReaction60	Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex	Complex116	Complex115	
+BiochemicalReaction60	Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex	Complex117	Complex115	
+BiochemicalReaction61	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Complex125	Complex126	
+BiochemicalReaction61	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Protein119	Complex126	
+BiochemicalReaction62	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex123	Complex127	
+BiochemicalReaction62	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex126	Complex127	
+BiochemicalReaction62	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex126	Complex117	
+BiochemicalReaction62	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex123	Complex117	
+BiochemicalReaction63	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction63	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex127	SmallMolecule8	
+BiochemicalReaction63	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex127	Complex130	
+BiochemicalReaction63	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule7	Complex130	
+BiochemicalReaction64	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction64	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex130	SmallMolecule8	
+BiochemicalReaction64	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex130	Complex132	
+BiochemicalReaction64	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule7	Complex132	
+BiochemicalReaction65	Recruitment of elongation factors to form HIV-1 elongation complex	Protein122	Complex137	
+BiochemicalReaction65	Recruitment of elongation factors to form HIV-1 elongation complex	Complex134	Complex137	
+BiochemicalReaction65	Recruitment of elongation factors to form HIV-1 elongation complex	Complex132	Complex137	
+BiochemicalReaction65	Recruitment of elongation factors to form HIV-1 elongation complex	Protein125	Complex137	
+BiochemicalReaction65	Recruitment of elongation factors to form HIV-1 elongation complex	Complex94	Complex137	
+BiochemicalReaction65	Recruitment of elongation factors to form HIV-1 elongation complex	Complex135	Complex137	
+BiochemicalReaction66	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule10	Complex138	
+BiochemicalReaction66	Addition of nucleotides leads to HIV-1 transcript elongation	Complex137	Complex138	
+BiochemicalReaction66	Addition of nucleotides leads to HIV-1 transcript elongation	Complex137	Complex94	
+BiochemicalReaction66	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule10	Complex94	
+BiochemicalReaction67	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule10	SmallMolecule10	
+BiochemicalReaction67	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex138	SmallMolecule10	
+BiochemicalReaction67	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex138	Complex139	
+BiochemicalReaction67	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule10	Complex139	
+BiochemicalReaction68	Separation of elongating HIV-1 transcript from template	Complex139	Complex140	
+BiochemicalReaction69	Limited elongation of the HIV-1 transcript	SmallMolecule10	Complex141	
+BiochemicalReaction69	Limited elongation of the HIV-1 transcript	Complex123	Complex141	
+BiochemicalReaction7	N and C terminal heptad repeat helices of gp41 form six-helix bundle	Complex25	Complex30	
+BiochemicalReaction70	Separation of abortive HIV-1 transcript from template	Complex141	Complex142	
+BiochemicalReaction71	7-14 nt. Backtracking of Pol II complex on the HIV-1 template leading to elongation arrest	Complex143	Complex145	
+BiochemicalReaction72	Abortive termination of HIV-1 elongation after arrest	Complex145	Complex146	
+BiochemicalReaction73	TFIIS-mediated recovery of HIV-1 elongation from arrest	Complex145	Complex143	
+BiochemicalReaction74	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex123	Complex147	
+BiochemicalReaction74	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex144	Complex147	
+BiochemicalReaction74	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex144	Complex117	
+BiochemicalReaction74	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex123	Complex117	
+BiochemicalReaction75	Recruitment of elongation factors to form HIV-1 elongation complex	Protein122	Complex148	
+BiochemicalReaction75	Recruitment of elongation factors to form HIV-1 elongation complex	Complex147	Complex148	
+BiochemicalReaction75	Recruitment of elongation factors to form HIV-1 elongation complex	Complex134	Complex148	
+BiochemicalReaction75	Recruitment of elongation factors to form HIV-1 elongation complex	Protein125	Complex148	
+BiochemicalReaction75	Recruitment of elongation factors to form HIV-1 elongation complex	Complex94	Complex148	
+BiochemicalReaction75	Recruitment of elongation factors to form HIV-1 elongation complex	Complex135	Complex148	
+BiochemicalReaction76	2-4 nt.backtracking of Pol II complex on the HIV-1 template leading to elongation pausing	Complex143	Complex149	
+BiochemicalReaction77	Resumption of elongation of HIV-1 transcript after recovery from pausing	Complex149	Complex143	
+BiochemicalReaction78	TFIIS-mediated recovery of elongation from arrest	Complex150	Complex138	
+BiochemicalReaction79	Abortive  termination of HIV-1 elongation after arrest (Tat-containing elongation complex)	Complex150	Complex151	
+BiochemicalReaction8	Fusion of viral membrane with host cell membrane	Complex30	Complex35	
+BiochemicalReaction8	Fusion of viral membrane with host cell membrane	Complex30	Complex31	
+BiochemicalReaction80	7-14 nt. Backtracking of Pol II complex on the HIV-1 template leading to elongation arrest	Complex138	Complex150	
+BiochemicalReaction81	2-4 nt.backtracking of Pol II complex on the HIV-1 template leading to elongation pausing	Complex138	Complex152	
+BiochemicalReaction82	Resumption of elongation of HIV-1 transcript after recovery from pausing	Complex152	Complex138	
+BiochemicalReaction83	Rev molecules assemble onto the RRE RNA sequence through their ARM sequence	Protein42	Complex153	
+BiochemicalReaction83	Rev molecules assemble onto the RRE RNA sequence through their ARM sequence	Rna7	Complex153	
+BiochemicalReaction84	Multimerization of Rev	Complex153	Complex154	
+BiochemicalReaction84	Multimerization of Rev	PhysicalEntity40	Complex154	
+BiochemicalReaction85	Rev multimer-bound HIV mRNA associates with Crm1	Protein130	Complex155	
+BiochemicalReaction85	Rev multimer-bound HIV mRNA associates with Crm1	Complex154	Complex155	
+BiochemicalReaction86	Conversion of Ran-GDP to Ran-GTP	Complex156	Complex157	
+BiochemicalReaction86	Conversion of Ran-GDP to Ran-GTP	SmallMolecule12	Complex157	
+BiochemicalReaction86	Conversion of Ran-GDP to Ran-GTP	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction86	Conversion of Ran-GDP to Ran-GTP	Complex156	SmallMolecule15	
+BiochemicalReaction87	Rev multimer-bound  HIV mRNA:CRM1 complex associates with Ran:GTP	Complex157	Complex158	
+BiochemicalReaction87	Rev multimer-bound  HIV mRNA:CRM1 complex associates with Ran:GTP	Complex155	Complex158	
+BiochemicalReaction88	Rev multimer-bound HIV mRNA:Crm1:Ran:GTP complex associates with the NPC	Complex159	Complex162	
+BiochemicalReaction88	Rev multimer-bound HIV mRNA:Crm1:Ran:GTP complex associates with the NPC	Complex158	Complex162	
+BiochemicalReaction89	Translocation of nuclear RNA transport complex to cytoplasm	Complex162	Complex163	
+BiochemicalReaction89	Translocation of nuclear RNA transport complex to cytoplasm	Complex162	Complex159	
+BiochemicalReaction9	Disintegration of matrix layer	Complex35	Complex38	
+BiochemicalReaction9	Disintegration of matrix layer	Complex35	Protein34	
+BiochemicalReaction9	Disintegration of matrix layer	Complex35	Protein39	
+BiochemicalReaction90	Association of RanBP1 with Ran-GTP:CRM1:Rev:mRNA complex	Complex163	Complex168	
+BiochemicalReaction90	Association of RanBP1 with Ran-GTP:CRM1:Rev:mRNA complex	Protein166	Complex168	
+BiochemicalReaction91	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex168	Protein164	
+BiochemicalReaction91	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex168	Protein166	
+BiochemicalReaction91	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex168	Protein29	
+BiochemicalReaction91	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex168	PhysicalEntity41	
+BiochemicalReaction91	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex168	Rna9	
+BiochemicalReaction91	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex168	Complex167	
+BiochemicalReaction92	Hydrolysis of Ran:GTP to Ran:GDP	Complex167	Complex169	
+BiochemicalReaction92	Hydrolysis of Ran:GTP to Ran:GDP	Complex167	SmallMolecule18	
+BiochemicalReaction93	Myristoylation of Nef	Protein168	SmallMolecule20	
+BiochemicalReaction93	Myristoylation of Nef	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction93	Myristoylation of Nef	SmallMolecule19	Protein34	
+BiochemicalReaction93	Myristoylation of Nef	Protein168	Protein34	
+BiochemicalReaction94	Synthesis of GAG polyprotein	Rna9	Protein170	
+BiochemicalReaction95	N-myristoylation of GAG polyprotein by NMT2	Protein170	SmallMolecule20	
+BiochemicalReaction95	N-myristoylation of GAG polyprotein by NMT2	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction95	N-myristoylation of GAG polyprotein by NMT2	SmallMolecule19	Protein171	
+BiochemicalReaction95	N-myristoylation of GAG polyprotein by NMT2	Protein170	Protein171	
+BiochemicalReaction96	Monoubiquitination of N-myristoyl GAG polyprotein	Protein171	Complex170	
+BiochemicalReaction96	Monoubiquitination of N-myristoyl GAG polyprotein	Protein173	Complex170	
+BiochemicalReaction97	Monoubiquitinated N-myristoyl GAG polyprotein is targeted to the late endosomal vesicle membrane by the ESCRT-I complex	Complex170	Complex171	
+BiochemicalReaction98	Transport of GAG to the Plasma Membrane	Complex171	Complex173	
+BiochemicalReaction99	Splicing of HIV RNA transcript	Rna9	Rna10	

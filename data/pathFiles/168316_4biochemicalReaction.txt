@@ -1,0 +1,51 @@
+BiochemicalReaction1	Entry of M2 into the endoplasmic reticulum	Protein1	Protein1	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex4	Complex7	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex5	Complex7	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex6	Complex7	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex6	Complex8	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex5	Complex8	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex4	Complex8	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex6	Complex9	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex5	Complex9	
+BiochemicalReaction10	Fusion of vesicle containing the HA trimer, NA tetramer and M2 tetramer to the Golgi apparatus	Complex4	Complex9	
+BiochemicalReaction11	Palmitoylation of cysteine residues on HA in the cis-Golgi network	Complex8	Complex10	
+BiochemicalReaction12	Palmitoylation of cysteine residues on M2 in the cis-golgi network	Complex7	Complex11	
+BiochemicalReaction13	Association of HA into rafts	Complex10	Complex12	
+BiochemicalReaction13	Association of HA into rafts	PhysicalEntity1	Complex12	
+BiochemicalReaction14	Association of NP into rafts	PhysicalEntity1	Complex13	
+BiochemicalReaction14	Association of NP into rafts	Protein16	Complex13	
+BiochemicalReaction15	Association of  NA into rafts	Complex9	Complex14	
+BiochemicalReaction15	Association of  NA into rafts	PhysicalEntity1	Complex14	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex13	Complex15	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex14	Complex15	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex11	Complex15	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex12	Complex15	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex12	Complex16	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex11	Complex16	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex14	Complex16	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex13	Complex16	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex12	Complex18	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex11	Complex18	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex14	Complex18	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex13	Complex18	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex12	Complex19	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex11	Complex19	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex14	Complex19	
+BiochemicalReaction16	Transport of processed viral proteins to the cell membrane	Complex13	Complex19	
+BiochemicalReaction17	Accumulation of M1 at the inner leaflet of the lipid bilayer	Protein21	Protein22	
+BiochemicalReaction2	Assembly of M2 tetramers	Protein1	Complex1	
+BiochemicalReaction3	Entry of NA into the endoplasmic reticulum	Protein2	Protein2	
+BiochemicalReaction4	Glycosylation of NA	Protein2	Protein3	
+BiochemicalReaction5	Assembly of NA tetramers	Protein3	Complex2	
+BiochemicalReaction6	Entry of HA into the endoplasmic reticulum	Protein4	Protein4	
+BiochemicalReaction7	Glycosylation and Folding of HA	Protein4	Protein5	
+BiochemicalReaction8	Trimerization of HA	Protein5	Complex3	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex2	Complex4	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex3	Complex4	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex1	Complex4	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex1	Complex5	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex3	Complex5	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex2	Complex5	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex1	Complex6	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex3	Complex6	
+BiochemicalReaction9	Budding of vesicle with the HA trimer, NA tetramer and M2 tetramer from the endoplasmic reticulum into the cytosol	Complex2	Complex6	

@@ -1,0 +1,17 @@
+Complex1	Orc2:origin	nucleoplasm	Reactome DB_ID: 68511	PhysicalEntity1	
+Complex1	Orc2:origin	nucleoplasm	Reactome DB_ID: 68511	Protein2	
+Complex2	Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68514	Protein1	
+Complex2	Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68514	Complex1	
+Complex3	Orc5:Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68517	Complex2	
+Complex3	Orc5:Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68517	Protein3	
+Complex4	Orc4:Orc5:Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68520	Complex3	
+Complex4	Orc4:Orc5:Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68520	Protein4	
+Complex5	Orc1:Orc4:Orc5:Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68592	Complex4	
+Complex5	Orc1:Orc4:Orc5:Orc3:Orc2:origin	nucleoplasm	Reactome DB_ID: 68592	Protein5	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	Protein1	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	Protein3	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	PhysicalEntity1	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	Protein4	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	Protein6	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	Protein2	
+Complex6	ORC complex bound to origin	nucleoplasm	Reactome DB_ID: 176958	Protein5	

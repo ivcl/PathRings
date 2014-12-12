@@ -1,0 +1,10 @@
+BiochemicalReaction1	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	ATP + D-galactose => ADP + D-galactose 1-phosphate	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	D-galactose 1-phosphate + UDP-glucose <=> D-glucose 1-phosphate + UDP-galactose	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	D-Glucose 1-phosphate <=> alpha-D-Glucose 6-phosphate	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	UDP-galactose <=> UDP-glucose	SmallMolecule6	SmallMolecule5	

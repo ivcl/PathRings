@@ -1,0 +1,8 @@
+BiochemicalReaction1	Activation of CaMKII	Complex1	Complex3	
+BiochemicalReaction1	Activation of CaMKII	Complex2	Complex3	
+BiochemicalReaction2	CaMKII enters cytoplasm	Complex2	Complex5	
+BiochemicalReaction3	CaMKII enters nucleus	Complex5	Complex10	
+BiochemicalReaction4	Phosphorylation of CREB by CaMKII	Protein30	SmallMolecule5	
+BiochemicalReaction4	Phosphorylation of CREB by CaMKII	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction4	Phosphorylation of CREB by CaMKII	SmallMolecule4	Protein31	
+BiochemicalReaction4	Phosphorylation of CREB by CaMKII	Protein30	Protein31	

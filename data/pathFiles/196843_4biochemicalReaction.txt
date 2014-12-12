@@ -1,0 +1,17 @@
+BiochemicalReaction1	SLC52A3 transports extracellular RIB to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	RFK:Mg2+ phosphorylates RIB	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction2	RFK:Mg2+ phosphorylates RIB	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	RFK:Mg2+ phosphorylates RIB	SmallMolecule5	SmallMolecule3	
+BiochemicalReaction2	RFK:Mg2+ phosphorylates RIB	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	FLAD1 phosphorylates FMN	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction3	FLAD1 phosphorylates FMN	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	FLAD1 phosphorylates FMN	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction3	FLAD1 phosphorylates FMN	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction4	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule4	SmallMolecule10	
+BiochemicalReaction4	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule9	SmallMolecule3	
+BiochemicalReaction4	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction5	2xTRAP hydrolyzes FMN to RIB	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction5	2xTRAP hydrolyzes FMN to RIB	SmallMolecule3	SmallMolecule11	
+BiochemicalReaction5	2xTRAP hydrolyzes FMN to RIB	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	2xTRAP hydrolyzes FMN to RIB	SmallMolecule9	SmallMolecule2	

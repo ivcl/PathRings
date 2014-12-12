@@ -1,0 +1,48 @@
+BiochemicalReaction1	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	NUDT1 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	IDP + H2O => IMP + Pi	SmallMolecule21	SmallMolecule19	
+BiochemicalReaction10	IDP + H2O => IMP + Pi	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction10	IDP + H2O => IMP + Pi	SmallMolecule17	SmallMolecule22	
+BiochemicalReaction10	IDP + H2O => IMP + Pi	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction11	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule1	SmallMolecule24	
+BiochemicalReaction11	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction11	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction11	Cytosolic NUDT5 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule1	SmallMolecule25	
+BiochemicalReaction12	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction12	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction12	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction12	Mitochondrial NUDT9 hydrolyses ADP-ribose to R5P and AMP	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction2	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	NUDT15 hydrolyses 8-oxo-dGTP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction3	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	NUDT15 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule6	SmallMolecule3	
+BiochemicalReaction4	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction4	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	NUDT18 hydrolyses 8-oxo-dGDP to 8-oxo-dGMP	SmallMolecule6	SmallMolecule3	
+BiochemicalReaction5	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction5	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction5	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction5	8-oxo-GDP + H2O => 8-oxo-GMP + Pi	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction6	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule10	SmallMolecule4	
+BiochemicalReaction6	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction6	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule1	SmallMolecule11	
+BiochemicalReaction6	NUDT1 hydrolyses 2-OH-dATP to 2-OH-dAMP	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction7	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule1	SmallMolecule13	
+BiochemicalReaction7	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction7	NUDT1 hydrolyses 2-OH-ATP to 2-OH-AMP	SmallMolecule12	SmallMolecule4	
+BiochemicalReaction8	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule14	SmallMolecule7	
+BiochemicalReaction8	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction8	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule1	SmallMolecule15	
+BiochemicalReaction8	NUDT18 hydrolyses 8-OH-dADP to 8-OH-dAMP	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction9	dIDP + H2O => dIMP + Pi	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction9	dIDP + H2O => dIMP + Pi	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction9	dIDP + H2O => dIMP + Pi	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction9	dIDP + H2O => dIMP + Pi	SmallMolecule16	SmallMolecule19	

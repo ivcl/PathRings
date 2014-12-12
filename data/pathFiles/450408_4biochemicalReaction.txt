@@ -1,0 +1,11 @@
+BiochemicalReaction1	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	Complex1	Complex4	
+BiochemicalReaction1	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	PhysicalEntity1	Complex4	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein3	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Complex4	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein4	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein5	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein6	Complex8	
+BiochemicalReaction2	Association of AUF1 with Translation and Heat Shock Proteins	Protein7	Complex8	
+BiochemicalReaction3	Ubiquitination of AUF1 (hnRNP D0)	Protein8	Complex9	
+BiochemicalReaction3	Ubiquitination of AUF1 (hnRNP D0)	Complex8	Complex9	
+BiochemicalReaction4	Destruction of AUF1 and mRNA	Complex9	NA	

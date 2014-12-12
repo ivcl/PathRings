@@ -1,0 +1,42 @@
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction1	Cleavage of 5-oxoproline to form glutamate	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule7	SmallMolecule4	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule6	SmallMolecule4	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	Glutamate and cysteine combine	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction3	Formation of 5-oxoproline from gamma-glutamylcysteine	SmallMolecule8	SmallMolecule1	
+BiochemicalReaction3	Formation of 5-oxoproline from gamma-glutamylcysteine	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule9	SmallMolecule4	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule9	SmallMolecule5	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction4	gamma-glutamylcysteine combines with glycine to form glutathione	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction5	Export of glutathione to the extracellular space	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	Glutathione is hydrolyzed	SmallMolecule12	Complex5	
+BiochemicalReaction6	Glutathione is hydrolyzed	SmallMolecule13	Complex5	
+BiochemicalReaction6	Glutathione is hydrolyzed	SmallMolecule13	SmallMolecule35	
+BiochemicalReaction6	Glutathione is hydrolyzed	SmallMolecule12	SmallMolecule35	
+BiochemicalReaction7	Cysteinylglycine and gamma-glutamate:AA are imported into the cell	Complex5	SmallMolecule36	
+BiochemicalReaction7	Cysteinylglycine and gamma-glutamate:AA are imported into the cell	SmallMolecule35	SmallMolecule36	
+BiochemicalReaction7	Cysteinylglycine and gamma-glutamate:AA are imported into the cell	SmallMolecule35	Complex12	
+BiochemicalReaction7	Cysteinylglycine and gamma-glutamate:AA are imported into the cell	Complex5	Complex12	
+BiochemicalReaction8	5-oxoproline can be formed from gamma-glutamyl-AA products	Complex12	SmallMolecule37	
+BiochemicalReaction8	5-oxoproline can be formed from gamma-glutamyl-AA products	Complex12	SmallMolecule1	
+BiochemicalReaction9	A dipeptidase cleaves cysteinylglycine	SmallMolecule36	SmallMolecule9	
+BiochemicalReaction9	A dipeptidase cleaves cysteinylglycine	SmallMolecule36	SmallMolecule7	

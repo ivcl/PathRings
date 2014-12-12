@@ -1,0 +1,7 @@
+BiochemicalReaction1	Ligand-independent dimerization of overexpressed FGFR1	PhysicalEntity1	Complex1	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	Complex1	SmallMolecule2	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	SmallMolecule1	Complex4	
+BiochemicalReaction2	Ligand-independent phosphorylation of overexpressed FGFR1	Complex1	Complex4	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers	Complex1	Complex7	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind and inhibit overexpressed FGFR1 dimers	SmallMolecule3	Complex7	

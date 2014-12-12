@@ -1,0 +1,54 @@
+Complex1	preRC	nucleoplasm	Reactome DB_ID: 68559	Complex2	
+Complex1	preRC	nucleoplasm	Reactome DB_ID: 68559	Complex3	
+Complex10	DDK	nucleoplasm	Reactome DB_ID: 68388	Protein17	
+Complex10	DDK	nucleoplasm	Reactome DB_ID: 68388	Protein18	
+Complex11	CDK	nucleoplasm	Reactome DB_ID: 68380	PhysicalEntity2	
+Complex11	CDK	nucleoplasm	Reactome DB_ID: 68380	Protein19	
+Complex12	CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68561	Complex10	
+Complex12	CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68561	Complex8	
+Complex12	CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68561	Complex11	
+Complex13	phosphorylated Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68569	Complex2	
+Complex13	phosphorylated Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68569	SmallMolecule3	
+Complex14	Cdc45:CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68564	Complex12	
+Complex14	Cdc45:CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68564	Protein20	
+Complex15	RFA	nucleoplasm	Reactome DB_ID: 68567	Protein21	
+Complex15	RFA	nucleoplasm	Reactome DB_ID: 68567	Protein22	
+Complex15	RFA	nucleoplasm	Reactome DB_ID: 68567	Protein23	
+Complex15	RFA	nucleoplasm	Reactome DB_ID: 68567	Protein24	
+Complex16	RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68568	Complex14	
+Complex16	RPA:Cdc45:CDK:DDK:Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68568	Complex15	
+Complex17	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein25	
+Complex17	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein26	
+Complex17	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein27	
+Complex17	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein28	
+Complex18	DNA polymerase epsilon:origin complex	nucleoplasm	Reactome DB_ID: 68485	Complex19	
+Complex18	DNA polymerase epsilon:origin complex	nucleoplasm	Reactome DB_ID: 68485	PhysicalEntity1	
+Complex19	DNA polymerase epsilon	nucleoplasm	Reactome DB_ID: 68483	Protein29	
+Complex19	DNA polymerase epsilon	nucleoplasm	Reactome DB_ID: 68483	Protein30	
+Complex2	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein1	
+Complex2	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein2	
+Complex2	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein3	
+Complex2	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein4	
+Complex2	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein5	
+Complex2	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein6	
+Complex20	DNA polymerase alpha:primase:DNA polymerase alpha:origin complex	nucleoplasm	Reactome DB_ID: 68510	Complex17	
+Complex20	DNA polymerase alpha:primase:DNA polymerase alpha:origin complex	nucleoplasm	Reactome DB_ID: 68510	Complex18	
+Complex3	CDT1:CDC6:ORC:origin complex	nucleoplasm	Reactome DB_ID: 68544	Protein7	
+Complex3	CDT1:CDC6:ORC:origin complex	nucleoplasm	Reactome DB_ID: 68544	Complex4	
+Complex4	CDC6:ORC:origin complex	nucleoplasm	Reactome DB_ID: 68543	Protein8	
+Complex4	CDC6:ORC:origin complex	nucleoplasm	Reactome DB_ID: 68543	Complex5	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein9	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Complex6	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein12	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	PhysicalEntity1	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein13	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein14	
+Complex5	ORC:origin	nucleoplasm	Reactome DB_ID: 68540	Protein15	
+Complex6	Orc2 associated with MCM8	nucleoplasm	Reactome DB_ID: 176970	Protein10	
+Complex6	Orc2 associated with MCM8	nucleoplasm	Reactome DB_ID: 176970	Protein11	
+Complex7	Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68560	Complex1	
+Complex7	Mcm10:pre-replicative complex	nucleoplasm	Reactome DB_ID: 68560	Protein16	
+Complex8	Mcm10:active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156564	Complex9	
+Complex8	Mcm10:active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156564	Protein16	
+Complex9	active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156562	Complex2	
+Complex9	active pre-replicative complex	nucleoplasm	Reactome DB_ID: 156562	Complex4	

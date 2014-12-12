@@ -1,0 +1,40 @@
+BiochemicalReaction1	PI3K binds to p-6Y-SYK	Complex1	Complex16	
+BiochemicalReaction1	PI3K binds to p-6Y-SYK	Complex15	Complex16	
+BiochemicalReaction10	Hydrolysis of PC to PA by PLD	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction10	Hydrolysis of PC to PA by PLD	SmallMolecule5	SmallMolecule11	
+BiochemicalReaction10	Hydrolysis of PC to PA by PLD	SmallMolecule5	SmallMolecule12	
+BiochemicalReaction10	Hydrolysis of PC to PA by PLD	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction11	Conversion of PA into DAG by PAP-1	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction11	Conversion of PA into DAG by PAP-1	SmallMolecule5	SmallMolecule13	
+BiochemicalReaction11	Conversion of PA into DAG by PAP-1	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction11	Conversion of PA into DAG by PAP-1	SmallMolecule12	SmallMolecule7	
+BiochemicalReaction12	Production of AA by iPLA2 upon FCGR activation	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction12	Production of AA by iPLA2 upon FCGR activation	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction12	Production of AA by iPLA2 upon FCGR activation	SmallMolecule5	SmallMolecule16	
+BiochemicalReaction12	Production of AA by iPLA2 upon FCGR activation	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	Recruitment of PLCgamma to membrane	Protein175	Complex17	
+BiochemicalReaction3	Recruitment of PLCgamma to membrane	Complex1	Complex17	
+BiochemicalReaction4	Phosphorylation and activation of PLCG	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation and activation of PLCG	Complex17	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation and activation of PLCG	SmallMolecule4	SmallMolecule3	
+BiochemicalReaction4	Phosphorylation and activation of PLCG	SmallMolecule4	Complex18	
+BiochemicalReaction4	Phosphorylation and activation of PLCG	Complex17	Complex18	
+BiochemicalReaction4	Phosphorylation and activation of PLCG	SmallMolecule2	Complex18	
+BiochemicalReaction5	Release of PLCG from FCGR	Complex18	Complex1	
+BiochemicalReaction5	Release of PLCG from FCGR	Complex18	Protein178	
+BiochemicalReaction5	Release of PLCG from FCGR	Complex18	SmallMolecule4	
+BiochemicalReaction6	Active PLCG1 hydrolyses PIP2	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction6	Active PLCG1 hydrolyses PIP2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	Active PLCG1 hydrolyses PIP2	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction6	Active PLCG1 hydrolyses PIP2	SmallMolecule1	SmallMolecule7	
+BiochemicalReaction7	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule6	Complex20	
+BiochemicalReaction7	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex19	Complex20	
+BiochemicalReaction8	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction9	DAG stimulates protein kinase C-delta	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction9	DAG stimulates protein kinase C-delta	Protein185	SmallMolecule3	
+BiochemicalReaction9	DAG stimulates protein kinase C-delta	Protein185	Protein188	
+BiochemicalReaction9	DAG stimulates protein kinase C-delta	SmallMolecule2	Protein188	

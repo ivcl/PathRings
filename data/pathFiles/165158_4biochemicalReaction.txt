@@ -1,0 +1,10 @@
+BiochemicalReaction1	PDK1 attachment to plasma membrane	Protein1	Complex1	
+BiochemicalReaction1	PDK1 attachment to plasma membrane	SmallMolecule1	Complex1	
+BiochemicalReaction2	PKB attachment to plasma membrane	Complex2	Complex3	
+BiochemicalReaction2	PKB attachment to plasma membrane	SmallMolecule1	Complex3	
+BiochemicalReaction2	PKB attachment to plasma membrane	SmallMolecule1	Protein3	
+BiochemicalReaction2	PKB attachment to plasma membrane	Complex2	Protein3	
+BiochemicalReaction3	Phosphorylation of AKT2 by PDK1	Complex3	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of AKT2 by PDK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of AKT2 by PDK1	SmallMolecule2	Complex4	
+BiochemicalReaction3	Phosphorylation of AKT2 by PDK1	Complex3	Complex4	

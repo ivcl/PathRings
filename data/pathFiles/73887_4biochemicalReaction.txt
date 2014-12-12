@@ -1,0 +1,33 @@
+BiochemicalReaction1	FASL binds FAS Receptor	Protein1	Complex1	
+BiochemicalReaction1	FASL binds FAS Receptor	Protein2	Complex1	
+BiochemicalReaction10	TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.	Complex12	Complex13	
+BiochemicalReaction10	TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.	Complex12	Complex11	
+BiochemicalReaction11	TRADD:TRAF2:RIP1 complex binds FADD	Complex13	Complex14	
+BiochemicalReaction11	TRADD:TRAF2:RIP1 complex binds FADD	Protein3	Complex14	
+BiochemicalReaction12	TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  	Complex14	Complex15	
+BiochemicalReaction12	TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  	Protein4	Complex15	
+BiochemicalReaction13	TRAIL Binds TRAIL-Receptor2	Protein14	Complex16	
+BiochemicalReaction13	TRAIL Binds TRAIL-Receptor2	Protein15	Complex16	
+BiochemicalReaction14	Trimerization of TRAIL: TRAIL receptor-2 complex	Complex16	Complex17	
+BiochemicalReaction15	TRAIL:TRAIL receptor-2 Trimer Binds FADD	Complex17	Complex18	
+BiochemicalReaction15	TRAIL:TRAIL receptor-2 Trimer Binds FADD	Protein3	Complex18	
+BiochemicalReaction16	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-8	Protein4	Complex19	
+BiochemicalReaction16	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-8	Complex18	Complex19	
+BiochemicalReaction17	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-10	Protein6	Complex20	
+BiochemicalReaction17	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-10	Complex18	Complex20	
+BiochemicalReaction2	Trimerization of the FASL:FAS receptor complex	Complex1	Complex2	
+BiochemicalReaction3	FasL:Fas binds FADD	Complex2	Complex3	
+BiochemicalReaction3	FasL:Fas binds FADD	Protein3	Complex3	
+BiochemicalReaction4	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8	Complex3	Complex4	
+BiochemicalReaction4	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8	Protein4	Complex4	
+BiochemicalReaction5	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-10	Protein6	Complex5	
+BiochemicalReaction5	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-10	Complex3	Complex5	
+BiochemicalReaction6	TNF-alpha cleavage by TACE	Complex6	Complex7	
+BiochemicalReaction7	Soluble TNF-alpha binds TNF-R1	Protein10	Complex9	
+BiochemicalReaction7	Soluble TNF-alpha binds TNF-R1	Complex7	Complex9	
+BiochemicalReaction8	Membrane-anchored TNF-alpha binds TNF-R1	Protein10	Complex10	
+BiochemicalReaction8	Membrane-anchored TNF-alpha binds TNF-R1	Complex6	Complex10	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein11	Complex12	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein12	Complex12	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein13	Complex12	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Complex11	Complex12	

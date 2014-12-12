@@ -1,0 +1,26 @@
+Complex10	Collagen IV:vWF complex	extracellular region	Reactome DB_ID: 114596	PhysicalEntity1	
+Complex10	Collagen IV:vWF complex	extracellular region	Reactome DB_ID: 114596	Protein9	
+Complex11	GPIb-IX-V complex	plasma membrane	Reactome DB_ID: 114668	Protein10	
+Complex11	GPIb-IX-V complex	plasma membrane	Reactome DB_ID: 114668	Protein11	
+Complex11	GPIb-IX-V complex	plasma membrane	Reactome DB_ID: 114668	Complex12	
+Complex12	GPIb	plasma membrane	Reactome DB_ID: 114667	Protein12	
+Complex12	GPIb	plasma membrane	Reactome DB_ID: 114667	Protein13	
+Complex13	GpIb-IX-V:vWF:Collagen IV	plasma membrane	Reactome DB_ID: 435464	Complex11	
+Complex13	GpIb-IX-V:vWF:Collagen IV	plasma membrane	Reactome DB_ID: 435464	Complex10	
+Complex2	Integrin alpha2beta1	plasma membrane	Reactome DB_ID: 114561	Protein1	
+Complex2	Integrin alpha2beta1	plasma membrane	Reactome DB_ID: 114561	Protein2	
+Complex3	Integrin alpha1beta1	plasma membrane	Reactome DB_ID: 215982	Protein3	
+Complex3	Integrin alpha1beta1	plasma membrane	Reactome DB_ID: 215982	Protein1	
+Complex4	Integrin alpha10beta1	plasma membrane	Reactome DB_ID: 215987	Protein4	
+Complex4	Integrin alpha10beta1	plasma membrane	Reactome DB_ID: 215987	Protein1	
+Complex5	Integrins alpha1beta1, alpha2beta1:Collagen type I fibril:Mg2+	plasma membrane	Reactome DB_ID: 114562	Complex1	
+Complex5	Integrins alpha1beta1, alpha2beta1:Collagen type I fibril:Mg2+	plasma membrane	Reactome DB_ID: 114562	PhysicalEntity1	
+Complex5	Integrins alpha1beta1, alpha2beta1:Collagen type I fibril:Mg2+	plasma membrane	Reactome DB_ID: 114562	SmallMolecule2	
+Complex6	FCERIG dimer	plasma membrane	Reactome DB_ID: 210223	Protein5	
+Complex7	GP VI : FceRI gamma dimer	plasma membrane	Reactome DB_ID: 114575	Complex6	
+Complex7	GP VI : FceRI gamma dimer	plasma membrane	Reactome DB_ID: 114575	Protein6	
+Complex8	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Complex7	
+Complex8	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Protein7	
+Complex8	GPVI:FceRI gamma:FYN:LYN	plasma membrane	Reactome DB_ID: 432297	Protein8	
+Complex9	GPVI:FceRI gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434812	PhysicalEntity1	
+Complex9	GPVI:FceRI gamma:FYN:LYN:Collagen type I	plasma membrane	Reactome DB_ID: 434812	Complex8	

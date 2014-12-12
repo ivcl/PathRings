@@ -1,0 +1,13 @@
+BiochemicalReaction1	Cleavage of the Signal Peptide of Preproghrelin	Protein1	Protein5	
+BiochemicalReaction2	Octanoylation of Proghrelin by Ghrelin O-acyltransferase	Protein7	Protein13	
+BiochemicalReaction2	Octanoylation of Proghrelin by Ghrelin O-acyltransferase	SmallMolecule1	Protein13	
+BiochemicalReaction3	Decanoylation of Proghrelin by Ghrelin O-acyltransferase	SmallMolecule2	Protein15	
+BiochemicalReaction3	Decanoylation of Proghrelin by Ghrelin O-acyltransferase	Protein7	Protein15	
+BiochemicalReaction4	Cleavage of Acyl Proghrelin by Prohormone Convertase 1/3	Protein16	Protein19	
+BiochemicalReaction4	Cleavage of Acyl Proghrelin by Prohormone Convertase 1/3	Protein16	Protein24	
+BiochemicalReaction5	Secretion of Acyl Ghrelin and C-Ghrelin	Protein19	Protein26	
+BiochemicalReaction5	Secretion of Acyl Ghrelin and C-Ghrelin	Protein24	Protein26	
+BiochemicalReaction5	Secretion of Acyl Ghrelin and C-Ghrelin	Protein24	Protein31	
+BiochemicalReaction5	Secretion of Acyl Ghrelin and C-Ghrelin	Protein19	Protein31	
+BiochemicalReaction6	Deacylation of Acyl Ghrelin	Protein26	Protein38	
+TemplateReaction1	Synthesis of Preproghrelin	NA	Protein1	

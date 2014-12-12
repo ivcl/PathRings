@@ -1,0 +1,22 @@
+Complex1	PP2A	cytosol	Reactome DB_ID: 196206	Protein1	
+Complex1	PP2A	cytosol	Reactome DB_ID: 196206	Protein4	
+Complex1	PP2A	cytosol	Reactome DB_ID: 196206	Protein7	
+Complex10	PIP3:PDK1:active AKT	plasma membrane	Reactome DB_ID: 198338	Protein24	
+Complex10	PIP3:PDK1:active AKT	plasma membrane	Reactome DB_ID: 198338	Protein25	
+Complex10	PIP3:PDK1:active AKT	plasma membrane	Reactome DB_ID: 198338	SmallMolecule3	
+Complex11	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	Protein24	
+Complex11	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	Protein29	
+Complex11	PDK1:AKT:PIP3	plasma membrane	Reactome DB_ID: 198360	SmallMolecule3	
+Complex2	CTLA-4 homodimer	plasma membrane	Reactome DB_ID: 179766	Protein13	
+Complex3	CTLA-4:PP2A	plasma membrane	Reactome DB_ID: 389533	Complex1	
+Complex3	CTLA-4:PP2A	plasma membrane	Reactome DB_ID: 389533	Complex2	
+Complex4	CD80 (B7-1) homodimer	plasma membrane	Reactome DB_ID: 179787	Protein14	
+Complex5	PP2A:CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388784	PhysicalEntity1	
+Complex5	PP2A:CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388784	Complex3	
+Complex6	Phosphorylated CTLA-4 bound to kinases	plasma membrane	Reactome DB_ID: 388795	Complex7	
+Complex6	Phosphorylated CTLA-4 bound to kinases	plasma membrane	Reactome DB_ID: 388795	Protein16	
+Complex7	phospho CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388796	PhysicalEntity1	
+Complex7	phospho CTLA4:B7-1/B7-2	plasma membrane	Reactome DB_ID: 388796	Complex8	
+Complex8	Phospho CTLA-4 dimer	plasma membrane	Reactome DB_ID: 388794	Protein22	
+Complex9	pCTLA-4:Src kinases:SHP2	plasma membrane	Reactome DB_ID: 388793	Complex6	
+Complex9	pCTLA-4:Src kinases:SHP2	plasma membrane	Reactome DB_ID: 388793	Protein23	

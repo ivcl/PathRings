@@ -1,0 +1,10 @@
+BiochemicalReaction1	MCM2-7 mediated fork unwinding	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	MCM8 mediated fork unwinding	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction3	Formation of GINS complex	Protein8	Complex2	
+BiochemicalReaction3	Formation of GINS complex	Protein9	Complex2	
+BiochemicalReaction3	Formation of GINS complex	PhysicalEntity3	Complex2	
+BiochemicalReaction3	Formation of GINS complex	Protein10	Complex2	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	PhysicalEntity1	Complex3	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	Complex1	Complex3	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	Protein11	Complex3	
+BiochemicalReaction4	Multiple proteins are localized at replication fork	Complex2	Complex3	

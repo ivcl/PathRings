@@ -1,0 +1,8 @@
+BiochemicalReaction1	Formation of eIF2:GDP:eIF2B intermediate	Complex1	Complex4	
+BiochemicalReaction1	Formation of eIF2:GDP:eIF2B intermediate	Complex2	Complex4	
+BiochemicalReaction2	eIF2 activation	SmallMolecule2	Complex1	
+BiochemicalReaction2	eIF2 activation	Complex4	Complex1	
+BiochemicalReaction2	eIF2 activation	Complex4	Complex5	
+BiochemicalReaction2	eIF2 activation	SmallMolecule2	Complex5	
+BiochemicalReaction2	eIF2 activation	Complex4	SmallMolecule1	
+BiochemicalReaction2	eIF2 activation	SmallMolecule2	SmallMolecule1	

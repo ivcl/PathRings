@@ -1,0 +1,8 @@
+BiochemicalReaction1	DHX36 binds DNA	Protein1	Complex1	
+BiochemicalReaction1	DHX36 binds DNA	PhysicalEntity1	Complex1	
+BiochemicalReaction2	DHX9 binds DNA	Protein2	Complex2	
+BiochemicalReaction2	DHX9 binds DNA	PhysicalEntity1	Complex2	
+BiochemicalReaction3	DHX36 or DHX9 binds MyD88	Protein3	Complex4	
+BiochemicalReaction3	DHX36 or DHX9 binds MyD88	Complex3	Complex4	
+BiochemicalReaction4	Translocation of p-IRF7:p-IRF7 to nucleus	Complex7	Complex8	
+BiochemicalReaction5	Released NFkB complex is transported to nucleus	Complex9	Complex10	

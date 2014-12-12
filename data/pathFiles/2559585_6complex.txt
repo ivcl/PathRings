@@ -1,0 +1,33 @@
+Complex10	miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209134	Protein27	
+Complex10	miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209134	Complex11	
+Complex10	miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209134	Protein32	
+Complex11	Argonaute1/3/4: miR-24	cytosol	Reactome DB_ID: 3209140	Protein28	
+Complex11	Argonaute1/3/4: miR-24	cytosol	Reactome DB_ID: 3209140	Rna4	
+Complex12	p16-INK4a/p14-ARF mRNA: miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209131	Rna3	
+Complex12	p16-INK4a/p14-ARF mRNA: miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209131	Complex10	
+Complex13	MDM2:TP53	nucleoplasm	Reactome DB_ID: 69489	Protein37	
+Complex13	MDM2:TP53	nucleoplasm	Reactome DB_ID: 69489	Complex14	
+Complex14	TP53 Tetramer	nucleoplasm	Reactome DB_ID: 3209194	Protein38	
+Complex15	Ub-TP53	nucleoplasm	Reactome DB_ID: 3209186	Complex14	
+Complex15	Ub-TP53	nucleoplasm	Reactome DB_ID: 3209186	Protein39	
+Complex16	Ub-MDM2	nucleoplasm	Reactome DB_ID: 3215303	Protein37	
+Complex16	Ub-MDM2	nucleoplasm	Reactome DB_ID: 3215303	Protein39	
+Complex17	p14-ARF:MDM2:TP53	nucleoplasm	Reactome DB_ID: 3209189	Complex13	
+Complex17	p14-ARF:MDM2:TP53	nucleoplasm	Reactome DB_ID: 3209189	Protein36	
+Complex18	p14-ARF:MDM2	nucleoplasm	Reactome DB_ID: 3209192	Protein37	
+Complex18	p14-ARF:MDM2	nucleoplasm	Reactome DB_ID: 3209192	Protein36	
+Complex2	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein7	
+Complex3	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein8	
+Complex4	p-T38-ETS1/ p-T72-ETS2:CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3200029	Dna1	
+Complex4	p-T38-ETS1/ p-T72-ETS2:CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3200029	Protein4	
+Complex5	p-T72-ETS2:ID1	nucleoplasm	Reactome DB_ID: 3209172	Protein6	
+Complex5	p-T72-ETS2:ID1	nucleoplasm	Reactome DB_ID: 3209172	Protein9	
+Complex6	ERF:ETS2 Gene	nucleoplasm	Reactome DB_ID: 3209182	Protein10	
+Complex6	ERF:ETS2 Gene	nucleoplasm	Reactome DB_ID: 3209182	Dna2	
+Complex7	Cdk4/6:INK4A complex	cytosol	Reactome DB_ID: 182579	Protein13	
+Complex7	Cdk4/6:INK4A complex	cytosol	Reactome DB_ID: 182579	Protein18	
+Complex8	DP-1:E2F1/2/3	nucleoplasm	Reactome DB_ID: 1227905	Protein21	
+Complex8	DP-1:E2F1/2/3	nucleoplasm	Reactome DB_ID: 1227905	Protein25	
+Complex9	DP1/2: E2F1/2/3: SP1: CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3209097	Complex8	
+Complex9	DP1/2: E2F1/2/3: SP1: CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3209097	Dna1	
+Complex9	DP1/2: E2F1/2/3: SP1: CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3209097	Protein26	

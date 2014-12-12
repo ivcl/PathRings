@@ -1,0 +1,9 @@
+BiochemicalReaction1	FASL binds FAS Receptor	Protein1	Complex1	
+BiochemicalReaction1	FASL binds FAS Receptor	Protein2	Complex1	
+BiochemicalReaction2	Trimerization of the FASL:FAS receptor complex	Complex1	Complex2	
+BiochemicalReaction3	FasL:Fas binds FADD	Complex2	Complex3	
+BiochemicalReaction3	FasL:Fas binds FADD	Protein3	Complex3	
+BiochemicalReaction4	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8	Complex3	Complex4	
+BiochemicalReaction4	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8	Protein4	Complex4	
+BiochemicalReaction5	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-10	Protein6	Complex5	
+BiochemicalReaction5	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-10	Complex3	Complex5	

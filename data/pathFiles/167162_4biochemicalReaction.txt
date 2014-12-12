@@ -1,0 +1,39 @@
+BiochemicalReaction1	Addition of the third nucleotide on the nascent HIV-1 transcript	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction1	Addition of the third nucleotide on the nascent HIV-1 transcript	Complex1	SmallMolecule6	
+BiochemicalReaction1	Addition of the third nucleotide on the nascent HIV-1 transcript	Complex1	Complex10	
+BiochemicalReaction1	Addition of the third nucleotide on the nascent HIV-1 transcript	SmallMolecule1	Complex10	
+BiochemicalReaction2	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule1	Protein26	
+BiochemicalReaction2	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex10	Protein26	
+BiochemicalReaction2	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex10	SmallMolecule6	
+BiochemicalReaction2	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction2	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex10	Complex11	
+BiochemicalReaction2	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule1	Complex11	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	Complex2	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	Complex5	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	Protein26	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	Complex6	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	Complex7	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	Complex9	
+BiochemicalReaction3	Abortive HIV-1 Initiation Before Second Transition	Complex12	PhysicalEntity4	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule1	Complex5	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex11	Complex5	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex11	SmallMolecule6	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex11	Complex6	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule1	Complex6	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex11	Complex9	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule1	Complex9	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex11	Complex13	
+BiochemicalReaction4	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule1	Complex13	
+BiochemicalReaction5	Abortive HIV-1 Initiation After Second Transition	Complex14	Complex2	
+BiochemicalReaction5	Abortive HIV-1 Initiation After Second Transition	Complex14	Complex7	
+BiochemicalReaction5	Abortive HIV-1 Initiation After Second Transition	Complex14	Complex9	
+BiochemicalReaction5	Abortive HIV-1 Initiation After Second Transition	Complex14	PhysicalEntity6	
+BiochemicalReaction6	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction6	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	Complex13	SmallMolecule6	
+BiochemicalReaction6	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	Complex13	Complex15	
+BiochemicalReaction6	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	SmallMolecule1	Complex15	
+BiochemicalReaction7	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction7	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	Complex15	SmallMolecule6	
+BiochemicalReaction7	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	Complex15	Complex16	
+BiochemicalReaction7	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	SmallMolecule1	Complex16	

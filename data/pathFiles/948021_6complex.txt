@@ -1,0 +1,49 @@
+Complex1	(un)folded protein:(GlcNAc)2 (Man)9	endoplasmic reticulum lumen	Reactome DB_ID: 909547	SmallMolecule1	
+Complex1	(un)folded protein:(GlcNAc)2 (Man)9	endoplasmic reticulum lumen	Reactome DB_ID: 909547	PhysicalEntity1	
+Complex10	unfolded protein:(GlcNAc)2 (Man)8c	Golgi lumen	Reactome DB_ID: 948006	SmallMolecule8	
+Complex10	unfolded protein:(GlcNAc)2 (Man)8c	Golgi lumen	Reactome DB_ID: 948006	PhysicalEntity2	
+Complex11	LMAN1:MCFD2	ER to Golgi transport vesicle membrane	Reactome DB_ID: 1017219	Protein1	
+Complex11	LMAN1:MCFD2	ER to Golgi transport vesicle membrane	Reactome DB_ID: 1017219	Protein2	
+Complex12	Sar1b:GDP Complex	cytosol	Reactome DB_ID: 203989	Protein3	
+Complex12	Sar1b:GDP Complex	cytosol	Reactome DB_ID: 203989	SmallMolecule10	
+Complex13	Sar1b:GTP Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204003	SmallMolecule9	
+Complex13	Sar1b:GTP Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204003	Protein4	
+Complex14	Sec23p:Sec24p Complex	cytosol	Reactome DB_ID: 203975	Protein6	
+Complex14	Sec23p:Sec24p Complex	cytosol	Reactome DB_ID: 203975	Protein11	
+Complex15	Sar1b:GTP:Sec23p:Sec24p	endoplasmic reticulum membrane	Reactome DB_ID: 203997	Complex13	
+Complex15	Sar1b:GTP:Sec23p:Sec24p	endoplasmic reticulum membrane	Reactome DB_ID: 203997	Complex16	
+Complex16	Sec23p:Sec24p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204007	Protein12	
+Complex16	Sec23p:Sec24p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204007	Protein13	
+Complex17	Sar1b:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 203999	Complex18	
+Complex17	Sar1b:GTP:Sec23p:Sec24p:Sec13p:Sec31p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 203999	Complex15	
+Complex18	Sec13p:Sec31p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 203993	Protein20	
+Complex18	Sec13p:Sec31p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 203993	Protein21	
+Complex19	Sar1b:Sec23p:Sec24p:Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204019	Complex20	
+Complex19	Sar1b:Sec23p:Sec24p:Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204019	Protein28	
+Complex19	Sar1b:Sec23p:Sec24p:Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204019	Complex21	
+Complex2	(un)folded protein:(GlcNAc)2 (Man)9	Golgi lumen	Reactome DB_ID: 915150	SmallMolecule2	
+Complex2	(un)folded protein:(GlcNAc)2 (Man)9	Golgi lumen	Reactome DB_ID: 915150	PhysicalEntity2	
+Complex20	Sec23p:Sec24p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204023	Protein22	
+Complex20	Sec23p:Sec24p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204023	Protein27	
+Complex21	Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204015	Protein29	
+Complex21	Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204015	Protein30	
+Complex23	MAN2A1:Zn2+	Golgi membrane	Reactome DB_ID: 975820	SmallMolecule24	
+Complex23	MAN2A1:Zn2+	Golgi membrane	Reactome DB_ID: 975820	Protein38	
+Complex24	MAN2A2:Zn2+	Golgi membrane	Reactome DB_ID: 975818	SmallMolecule24	
+Complex24	MAN2A2:Zn2+	Golgi membrane	Reactome DB_ID: 975818	Protein39	
+Complex26	B4GALT1 homodimer	Golgi membrane	Reactome DB_ID: 975900	Protein47	
+Complex27	B4GALT2 homodimer	Golgi membrane	Reactome DB_ID: 975923	Protein48	
+Complex28	B4GALT3 homodimer	Golgi membrane	Reactome DB_ID: 975924	Protein49	
+Complex29	B4GALT4 homodimer	Golgi membrane	Reactome DB_ID: 975909	Protein50	
+Complex30	B4GALT5 homodimer	Golgi membrane	Reactome DB_ID: 1015827	Protein51	
+Complex31	B4GALT6 homodimer	Golgi membrane	Reactome DB_ID: 1015817	Protein52	
+Complex4	unfolded protein:(GlcNAc)2 (Man)8b	endoplasmic reticulum quality control compartment	Reactome DB_ID: 912284	SmallMolecule3	
+Complex4	unfolded protein:(GlcNAc)2 (Man)8b	endoplasmic reticulum quality control compartment	Reactome DB_ID: 912284	PhysicalEntity3	
+Complex5	unfolded protein:(GlcNAc)2 (Man)8a	endoplasmic reticulum quality control compartment	Reactome DB_ID: 912285	SmallMolecule4	
+Complex5	unfolded protein:(GlcNAc)2 (Man)8a	endoplasmic reticulum quality control compartment	Reactome DB_ID: 912285	PhysicalEntity3	
+Complex6	unfolded protein:(GlcNAc)2 (Man)8c	endoplasmic reticulum quality control compartment	Reactome DB_ID: 912295	SmallMolecule5	
+Complex6	unfolded protein:(GlcNAc)2 (Man)8c	endoplasmic reticulum quality control compartment	Reactome DB_ID: 912295	PhysicalEntity3	
+Complex8	unfolded protein:(GlcNAc)2 (Man)8b	Golgi lumen	Reactome DB_ID: 948004	PhysicalEntity2	
+Complex8	unfolded protein:(GlcNAc)2 (Man)8b	Golgi lumen	Reactome DB_ID: 948004	SmallMolecule6	
+Complex9	unfolded protein:(GlcNAc)2 (Man)8a	Golgi lumen	Reactome DB_ID: 947998	SmallMolecule7	
+Complex9	unfolded protein:(GlcNAc)2 (Man)8a	Golgi lumen	Reactome DB_ID: 947998	PhysicalEntity2	

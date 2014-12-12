@@ -1,0 +1,22 @@
+BiochemicalReaction1	SIRP alpha binds CD47	Protein1	Complex1	
+BiochemicalReaction1	SIRP alpha binds CD47	Protein2	Complex1	
+BiochemicalReaction10	SIRP gamma binds CD47	Protein2	Complex10	
+BiochemicalReaction10	SIRP gamma binds CD47	Protein16	Complex10	
+BiochemicalReaction2	Phosphorylation of ITIM in SIRP alpha	Complex1	Complex2	
+BiochemicalReaction2	Phosphorylation of ITIM in SIRP alpha	SmallMolecule1	Complex2	
+BiochemicalReaction2	Phosphorylation of ITIM in SIRP alpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of ITIM in SIRP alpha	Complex1	SmallMolecule2	
+BiochemicalReaction3	Recruitment of SHP-2 and SHP-1 to pSIRP alpha	Complex2	Complex3	
+BiochemicalReaction3	Recruitment of SHP-2 and SHP-1 to pSIRP alpha	Protein7	Complex3	
+BiochemicalReaction4	Recruitment of SCAP2 to pSIRP alpha	Complex2	Complex4	
+BiochemicalReaction4	Recruitment of SCAP2 to pSIRP alpha	Protein10	Complex4	
+BiochemicalReaction5	Recruitment of FYB to pSIRP alpha	Complex4	Complex5	
+BiochemicalReaction5	Recruitment of FYB to pSIRP alpha	Protein11	Complex5	
+BiochemicalReaction6	Recruitment of PYK2 to pSIRP alpha	Complex2	Complex6	
+BiochemicalReaction6	Recruitment of PYK2 to pSIRP alpha	Protein12	Complex6	
+BiochemicalReaction7	Recruitment of Grb2 to pSIRP alpha	Complex2	Complex7	
+BiochemicalReaction7	Recruitment of Grb2 to pSIRP alpha	Protein13	Complex7	
+BiochemicalReaction8	SP-A/SP-D binds SIRP alpha	Protein1	Complex8	
+BiochemicalReaction8	SP-A/SP-D binds SIRP alpha	PhysicalEntity1	Complex8	
+BiochemicalReaction9	Interaction of DAP12 and SIRP beta	Protein14	Complex9	
+BiochemicalReaction9	Interaction of DAP12 and SIRP beta	Protein15	Complex9	

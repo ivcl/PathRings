@@ -1,0 +1,51 @@
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	Complex1	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	SmallMolecule3	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	E1 mediated ubiquitin activation	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein16	SmallMolecule4	
+BiochemicalReaction1	E1 mediated ubiquitin activation	Protein1	SmallMolecule4	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Complex1	Protein16	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Protein23	Protein16	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Protein23	Complex2	
+BiochemicalReaction2	Transfer of ubiquitin from E1 to E2	Complex1	Complex2	
+BiochemicalReaction3	Interaction of E3 with substrate and E2-Ub complex	PhysicalEntity1	Complex13	
+BiochemicalReaction3	Interaction of E3 with substrate and E2-Ub complex	PhysicalEntity2	Complex13	
+BiochemicalReaction3	Interaction of E3 with substrate and E2-Ub complex	Complex2	Complex13	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	SmallMolecule3	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	SmallMolecule4	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	Protein23	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	Protein23	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	Complex13	Complex14	
+BiochemicalReaction4	Transfer of Ub from E2 to substrate and release of E2	SmallMolecule2	Complex14	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	SmallMolecule3	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	SmallMolecule3	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	SmallMolecule4	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	SmallMolecule4	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	Protein23	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	Protein23	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	Protein23	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex2	Complex16	
+BiochemicalReaction5	Polyubiquitination of substrate	Complex14	Complex16	
+BiochemicalReaction5	Polyubiquitination of substrate	SmallMolecule2	Complex16	
+BiochemicalReaction6	Release of E3 from polyubiquitinated substrate	Complex16	PhysicalEntity3	
+BiochemicalReaction6	Release of E3 from polyubiquitinated substrate	Complex16	PhysicalEntity2	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	Protein1	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	SmallMolecule5	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction7	Proteasomal cleavage of substrate	PhysicalEntity3	PhysicalEntity5	
+BiochemicalReaction8	Trimming of N-ter extended precursor fragments by cytosolic aminopeptidases	PhysicalEntity4	SmallMolecule5	
+BiochemicalReaction8	Trimming of N-ter extended precursor fragments by cytosolic aminopeptidases	PhysicalEntity4	PhysicalEntity5	

@@ -1,0 +1,19 @@
+BiochemicalReaction1	GLUT1/3 transports extracellular DHvitC to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	Complex1	SmallMolecule5	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	SmallMolecule8	Complex2	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	Complex1	Complex2	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule10	Complex1	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	Complex2	Complex1	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule11	Complex1	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	Complex2	SmallMolecule12	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule14	SmallMolecule5	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule14	SmallMolecule15	

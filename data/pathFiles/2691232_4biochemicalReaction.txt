@@ -1,0 +1,12 @@
+BiochemicalReaction1	NOTCH1 HD domain mutants bind DLL1	Protein1	Complex17	
+BiochemicalReaction1	NOTCH1 HD domain mutants bind DLL1	Complex1	Complex17	
+BiochemicalReaction2	NOTCH1 HD domain mutants bind DLL4	Protein19	Complex18	
+BiochemicalReaction2	NOTCH1 HD domain mutants bind DLL4	Complex1	Complex18	
+BiochemicalReaction3	NOTCH1 HD domain mutants bind JAG1	Protein20	Complex19	
+BiochemicalReaction3	NOTCH1 HD domain mutants bind JAG1	Complex1	Complex19	
+BiochemicalReaction4	NOTCH1 HD domain mutants bind JAG2	Complex1	Complex20	
+BiochemicalReaction4	NOTCH1 HD domain mutants bind JAG2	Protein21	Complex20	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 HD domain mutants	Protein22	Complex22	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1 HD domain mutants	Complex21	Complex22	
+BiochemicalReaction6	NOTCH1 HD domain mutants are cleaved to produce NEXT1 irrespective of ligand binding	PhysicalEntity1	Protein42	
+BiochemicalReaction6	NOTCH1 HD domain mutants are cleaved to produce NEXT1 irrespective of ligand binding	PhysicalEntity1	PhysicalEntity2	

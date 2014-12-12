@@ -1,0 +1,7 @@
+BiochemicalReaction1	Exchange of ADP for ATP in CCT/TriC:actin complex	Complex1	SmallMolecule1	
+BiochemicalReaction1	Exchange of ADP for ATP in CCT/TriC:actin complex	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction1	Exchange of ADP for ATP in CCT/TriC:actin complex	SmallMolecule2	Complex3	
+BiochemicalReaction1	Exchange of ADP for ATP in CCT/TriC:actin complex	Complex1	Complex3	
+BiochemicalReaction2	Hydrolysis of ATP and release of folded actin from CCT/TriC	Complex3	SmallMolecule3	
+BiochemicalReaction2	Hydrolysis of ATP and release of folded actin from CCT/TriC	Complex3	Complex2	
+BiochemicalReaction2	Hydrolysis of ATP and release of folded actin from CCT/TriC	Complex3	Protein10	

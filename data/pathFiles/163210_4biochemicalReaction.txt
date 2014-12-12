@@ -1,0 +1,11 @@
+BiochemicalReaction1	ADP and Pi bind to ATPase	Complex1	Complex4	
+BiochemicalReaction1	ADP and Pi bind to ATPase	SmallMolecule1	Complex4	
+BiochemicalReaction1	ADP and Pi bind to ATPase	SmallMolecule2	Complex4	
+BiochemicalReaction2	ATP is synthesized from ADP and Pi by ATPase	Complex4	Complex5	
+BiochemicalReaction2	ATP is synthesized from ADP and Pi by ATPase	Complex4	SmallMolecule4	
+BiochemicalReaction3	Enzyme-bound ATP is released	SmallMolecule5	Complex1	
+BiochemicalReaction3	Enzyme-bound ATP is released	Complex5	Complex1	
+BiochemicalReaction3	Enzyme-bound ATP is released	Complex5	SmallMolecule6	
+BiochemicalReaction3	Enzyme-bound ATP is released	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	Enzyme-bound ATP is released	Complex5	SmallMolecule3	
+BiochemicalReaction3	Enzyme-bound ATP is released	SmallMolecule5	SmallMolecule3	

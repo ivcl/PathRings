@@ -1,0 +1,17 @@
+BiochemicalReaction1	sequestered tissue factor -> tissue factor	Protein1	Protein2	
+BiochemicalReaction2	formation of TF:F7 complex	Protein3	Complex1	
+BiochemicalReaction2	formation of TF:F7 complex	Protein2	Complex1	
+BiochemicalReaction3	activation of factor X by TF:F7	Complex2	Protein7	
+BiochemicalReaction3	activation of factor X by TF:F7	Complex2	Complex3	
+BiochemicalReaction4	activation of factor VII	Protein3	Complex4	
+BiochemicalReaction5	formation of TF:F7a complex	Complex4	Complex5	
+BiochemicalReaction5	formation of TF:F7a complex	Protein2	Complex5	
+BiochemicalReaction6	activation of factor X by TF:F7a	SmallMolecule1	Protein7	
+BiochemicalReaction6	activation of factor X by TF:F7a	Complex2	Protein7	
+BiochemicalReaction6	activation of factor X by TF:F7a	Complex2	Complex3	
+BiochemicalReaction6	activation of factor X by TF:F7a	SmallMolecule1	Complex3	
+BiochemicalReaction7	activation of factor IX (TF:F7a catalyst)	Protein13	Complex7	
+BiochemicalReaction7	activation of factor IX (TF:F7a catalyst)	Protein13	Protein16	
+BiochemicalReaction8	Inactivation of factor VIIa by TFPI	Complex5	Complex8	
+BiochemicalReaction8	Inactivation of factor VIIa by TFPI	Complex3	Complex8	
+BiochemicalReaction8	Inactivation of factor VIIa by TFPI	Protein17	Complex8	

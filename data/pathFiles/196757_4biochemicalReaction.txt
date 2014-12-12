@@ -1,0 +1,83 @@
+BiochemicalReaction1	Extracellular folate import across the plasma membrane	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule16	SmallMolecule19	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule17	SmallMolecule20	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule16	SmallMolecule20	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule17	SmallMolecule21	
+BiochemicalReaction10	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule16	SmallMolecule21	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule22	SmallMolecule12	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule11	SmallMolecule23	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule13	SmallMolecule23	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule22	SmallMolecule14	
+BiochemicalReaction11	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction12	10-formylTHF polyglutamate <=> 5,10-methenylTHF polyglutamate + H2O	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction12	10-formylTHF polyglutamate <=> 5,10-methenylTHF polyglutamate + H2O	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction13	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule5	SmallMolecule26	
+BiochemicalReaction13	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule6	SmallMolecule26	
+BiochemicalReaction13	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule24	SmallMolecule26	
+BiochemicalReaction13	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule24	SmallMolecule8	
+BiochemicalReaction13	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction13	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction14	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule13	SmallMolecule26	
+BiochemicalReaction14	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule27	SmallMolecule26	
+BiochemicalReaction14	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction14	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule13	SmallMolecule28	
+BiochemicalReaction15	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule26	SmallMolecule15	
+BiochemicalReaction15	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule5	SmallMolecule15	
+BiochemicalReaction15	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule6	SmallMolecule15	
+BiochemicalReaction15	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction15	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction15	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule26	SmallMolecule8	
+BiochemicalReaction16	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule26	SmallMolecule13	
+BiochemicalReaction16	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule28	SmallMolecule13	
+BiochemicalReaction16	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule28	SmallMolecule27	
+BiochemicalReaction16	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction17	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule26	SmallMolecule5	
+BiochemicalReaction17	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction17	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction17	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule26	SmallMolecule6	
+BiochemicalReaction17	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule8	SmallMolecule24	
+BiochemicalReaction17	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule26	SmallMolecule24	
+BiochemicalReaction18	5,10-methenylTHF polyglutamate + H2O <=> 10-formylTHF polyglutamate	SmallMolecule24	SmallMolecule23	
+BiochemicalReaction18	5,10-methenylTHF polyglutamate + H2O <=> 10-formylTHF polyglutamate	SmallMolecule25	SmallMolecule23	
+BiochemicalReaction2	Cytosolic folate export across the plasma membrane	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction3	Extracellular 5-methyltetrahydrofolate import across the plasma membrane	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	Folate is reduced to dihydrofolate (DHF)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction4	Folate is reduced to dihydrofolate (DHF)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	Folate is reduced to dihydrofolate (DHF)	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction4	Folate is reduced to dihydrofolate (DHF)	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction4	Folate is reduced to dihydrofolate (DHF)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction4	Folate is reduced to dihydrofolate (DHF)	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction5	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction5	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction5	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction5	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction6	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule4	SmallMolecule12	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule11	SmallMolecule15	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule10	SmallMolecule15	
+BiochemicalReaction7	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule4	SmallMolecule15	
+BiochemicalReaction8	Cytosolic tetrahydrofolate import across the inner mitochondrial membrane	SmallMolecule9	SmallMolecule16	
+BiochemicalReaction9	Mitochondrial tetrahydrofolate export across the inner mitochondrial membrane	SmallMolecule16	SmallMolecule9	

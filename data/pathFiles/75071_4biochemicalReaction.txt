@@ -1,0 +1,291 @@
+BiochemicalReaction1	Capping complex formation	Complex1	Complex7	
+BiochemicalReaction1	Capping complex formation	PhysicalEntity2	Complex7	
+BiochemicalReaction1	Capping complex formation	PhysicalEntity3	Complex7	
+BiochemicalReaction10	Activation of GT	Complex18	Complex17	
+BiochemicalReaction11	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex19	Complex18	
+BiochemicalReaction11	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein26	Complex18	
+BiochemicalReaction12	Formation of stem-loop structure in ApoB mRNA	PhysicalEntity8	PhysicalEntity9	
+BiochemicalReaction13	Binding of A1CF to stem-looped RNA	Protein29	Complex20	
+BiochemicalReaction13	Binding of A1CF to stem-looped RNA	PhysicalEntity9	Complex20	
+BiochemicalReaction14	Binding of APOBEC-1 to form editosome	Protein30	Complex21	
+BiochemicalReaction14	Binding of APOBEC-1 to form editosome	Complex20	Complex21	
+BiochemicalReaction15	C4 deamination of cytidine	Complex21	SmallMolecule8	
+BiochemicalReaction15	C4 deamination of cytidine	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction15	C4 deamination of cytidine	SmallMolecule7	Complex22	
+BiochemicalReaction15	C4 deamination of cytidine	Complex21	Complex22	
+BiochemicalReaction16	Formation of dsRNA structure by looping 	PhysicalEntity2	PhysicalEntity11	
+BiochemicalReaction17	Formation of ADAR1 homodimer	Protein31	Complex23	
+BiochemicalReaction18	Binding of ADAR1 homodimer to dsRNA duplex	PhysicalEntity11	Complex24	
+BiochemicalReaction18	Binding of ADAR1 homodimer to dsRNA duplex	Complex23	Complex24	
+BiochemicalReaction19	Formation of ADAR2  homodimer	Protein32	Complex25	
+BiochemicalReaction2	Hydrolysis of the 5'-end of the nascent transcript by the capping enzyme	Complex7	Complex8	
+BiochemicalReaction2	Hydrolysis of the 5'-end of the nascent transcript by the capping enzyme	Complex7	SmallMolecule1	
+BiochemicalReaction20	Binding of ADAR2 homodimer to dsRNA duplex	PhysicalEntity11	Complex26	
+BiochemicalReaction20	Binding of ADAR2 homodimer to dsRNA duplex	Complex25	Complex26	
+BiochemicalReaction21	Deamination at C6 position of adenosine in Editosome (ADAR1)	Complex24	Complex27	
+BiochemicalReaction21	Deamination at C6 position of adenosine in Editosome (ADAR1)	SmallMolecule7	Complex27	
+BiochemicalReaction21	Deamination at C6 position of adenosine in Editosome (ADAR1)	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction21	Deamination at C6 position of adenosine in Editosome (ADAR1)	Complex24	SmallMolecule8	
+BiochemicalReaction22	Deamination at C6 position of adenosine in Editosome (ADAR2)	SmallMolecule7	Complex28	
+BiochemicalReaction22	Deamination at C6 position of adenosine in Editosome (ADAR2)	Complex26	Complex28	
+BiochemicalReaction22	Deamination at C6 position of adenosine in Editosome (ADAR2)	Complex26	SmallMolecule8	
+BiochemicalReaction22	Deamination at C6 position of adenosine in Editosome (ADAR2)	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction23	Internal Methylation of mRNA	Complex16	Complex29	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein35	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein36	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein37	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein38	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein39	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein40	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein41	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein42	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein43	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein44	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein45	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein46	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein47	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein48	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein49	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Complex29	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein50	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein51	Complex33	
+BiochemicalReaction24	Formation of pre-mRNPs	Protein52	Complex33	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein53	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein54	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein55	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein56	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity15	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein57	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity16	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein58	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein59	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein60	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein61	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein62	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein63	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein64	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein65	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity17	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity18	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity19	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein66	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein67	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein68	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Complex34	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein78	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity21	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein79	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity22	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein80	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity23	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein81	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein82	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Complex33	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	PhysicalEntity24	Complex36	
+BiochemicalReaction25	Formation of the Spliceosomal E complex	Protein83	Complex36	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	PhysicalEntity25	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Protein84	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Protein85	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Protein86	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	PhysicalEntity26	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Protein87	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Protein88	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Complex37	Complex40	
+BiochemicalReaction26	Formation of the Spliceosomal A Complex	Complex36	Complex40	
+BiochemicalReaction27	Formation of the Spliceosomal B Complex	Complex40	Complex46	
+BiochemicalReaction27	Formation of the Spliceosomal B Complex	Complex41	Complex46	
+BiochemicalReaction28	Formation of the Cleavage and Polyadenylation Complex	Protein111	Complex51	
+BiochemicalReaction28	Formation of the Cleavage and Polyadenylation Complex	Complex47	Complex51	
+BiochemicalReaction28	Formation of the Cleavage and Polyadenylation Complex	Complex48	Complex51	
+BiochemicalReaction28	Formation of the Cleavage and Polyadenylation Complex	Protein117	Complex51	
+BiochemicalReaction28	Formation of the Cleavage and Polyadenylation Complex	Complex49	Complex51	
+BiochemicalReaction28	Formation of the Cleavage and Polyadenylation Complex	Complex50	Complex51	
+BiochemicalReaction29	Formation of an intermediate Spliceosomal C complex	Complex46	Complex44	
+BiochemicalReaction29	Formation of an intermediate Spliceosomal C complex	Complex51	Complex44	
+BiochemicalReaction29	Formation of an intermediate Spliceosomal C complex	Complex51	Complex52	
+BiochemicalReaction29	Formation of an intermediate Spliceosomal C complex	Complex46	Complex52	
+BiochemicalReaction29	Formation of an intermediate Spliceosomal C complex	Complex51	Complex34	
+BiochemicalReaction29	Formation of an intermediate Spliceosomal C complex	Complex46	Complex34	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	Complex8	SmallMolecule3	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	SmallMolecule2	Complex9	
+BiochemicalReaction3	Formation of the CE:GMP intermediate complex	Complex8	Complex9	
+BiochemicalReaction30	Formation of the active Spliceosomal C complex	Complex52	Complex54	
+BiochemicalReaction31	Lariat Formation and 5'-Splice Site Cleavage	Complex54	Complex55	
+BiochemicalReaction31	Lariat Formation and 5'-Splice Site Cleavage	Protein123	Complex55	
+BiochemicalReaction32	Formation of Exon Junction Complex	Complex55	Complex59	
+BiochemicalReaction32	Formation of Exon Junction Complex	Complex58	Complex59	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein35	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein36	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein37	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein38	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein39	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein40	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein41	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein42	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Complex60	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein43	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein44	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Complex2	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein45	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Complex62	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein46	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein47	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein48	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein49	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein50	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein51	
+BiochemicalReaction33	Cleavage at the 3'-Splice Site and Exon Ligation	Complex59	Protein52	
+BiochemicalReaction34	Formation of AT-AC A complex	Protein67	Complex65	
+BiochemicalReaction34	Formation of AT-AC A complex	Protein68	Complex65	
+BiochemicalReaction34	Formation of AT-AC A complex	Protein59	Complex65	
+BiochemicalReaction34	Formation of AT-AC A complex	Complex63	Complex65	
+BiochemicalReaction34	Formation of AT-AC A complex	Protein82	Complex65	
+BiochemicalReaction34	Formation of AT-AC A complex	Complex29	Complex65	
+BiochemicalReaction34	Formation of AT-AC A complex	Complex64	Complex65	
+BiochemicalReaction35	Formation of AT-AC B Complex	Complex66	Complex70	
+BiochemicalReaction35	Formation of AT-AC B Complex	Complex65	Complex70	
+BiochemicalReaction36	Formation of AT-AC C complex	Complex70	Complex69	
+BiochemicalReaction36	Formation of AT-AC C complex	Complex70	Complex71	
+BiochemicalReaction37	ATAC spliceosome mediated Lariat formation,5' splice site cleavage 	Complex71	Complex72	
+BiochemicalReaction38	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex72	Complex42	
+BiochemicalReaction38	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex72	Complex68	
+BiochemicalReaction38	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex72	Complex63	
+BiochemicalReaction38	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex72	Complex64	
+BiochemicalReaction38	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex72	Complex73	
+BiochemicalReaction39	Cleavage of mRNA at the 3'-end	Complex60	Complex48	
+BiochemicalReaction39	Cleavage of mRNA at the 3'-end	Complex60	Complex47	
+BiochemicalReaction39	Cleavage of mRNA at the 3'-end	Complex60	Complex49	
+BiochemicalReaction39	Cleavage of mRNA at the 3'-end	Complex60	Complex74	
+BiochemicalReaction4	Transfer of GMP from the capping enzyme GT site to 5'-end of mRNA	Complex9	Complex11	
+BiochemicalReaction40	mRNA polyadenylation	SmallMolecule9	Protein111	
+BiochemicalReaction40	mRNA polyadenylation	Complex74	Protein111	
+BiochemicalReaction40	mRNA polyadenylation	Complex74	Complex76	
+BiochemicalReaction40	mRNA polyadenylation	SmallMolecule9	Complex76	
+BiochemicalReaction40	mRNA polyadenylation	Complex74	Protein117	
+BiochemicalReaction40	mRNA polyadenylation	SmallMolecule9	Protein117	
+BiochemicalReaction40	mRNA polyadenylation	Complex74	Complex50	
+BiochemicalReaction40	mRNA polyadenylation	SmallMolecule9	Complex50	
+BiochemicalReaction41	Recruitment of TAP to the EJC	Complex76	Complex77	
+BiochemicalReaction41	Recruitment of TAP to the EJC	Protein126	Complex77	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein54	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein85	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein67	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein68	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	PhysicalEntity31	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein60	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein59	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	PhysicalEntity32	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein84	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	PhysicalEntity25	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein62	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein86	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein65	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein79	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	PhysicalEntity33	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein87	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Complex78	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	Protein82	
+BiochemicalReaction42	Docking of the TAP:EJC Complex with the NPC	Complex77	PhysicalEntity30	
+BiochemicalReaction43	Transport of the export-competent complex through the NPC	Complex78	Complex82	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Protein168	Protein162	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Complex82	Protein162	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Complex82	Complex85	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Protein168	Complex85	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Complex82	Protein163	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Protein168	Protein163	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Complex82	Protein167	
+BiochemicalReaction44	Release from the NPC and Disassembly of the mRNP	Protein168	Protein167	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein80	Complex87	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein126	Complex87	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex86	Complex87	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex86	Protein27	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein126	Protein27	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein80	Protein27	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex86	Protein28	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein126	Protein28	
+BiochemicalReaction45	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein80	Protein28	
+BiochemicalReaction46	Transport of the Mature IntronlessTranscript Derived Histone mRNA:SLBP:TAP:Aly/Ref complex through the NPC	Complex87	Complex88	
+BiochemicalReaction47	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex88	Protein162	
+BiochemicalReaction47	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein168	Protein162	
+BiochemicalReaction47	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein168	Complex89	
+BiochemicalReaction47	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex88	Complex89	
+BiochemicalReaction47	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein168	Protein167	
+BiochemicalReaction47	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex88	Protein167	
+BiochemicalReaction48	Docking of Mature Histone mRNA complex:TAP at the NPC	Complex90	Complex91	
+BiochemicalReaction48	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein80	Complex91	
+BiochemicalReaction48	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein126	Complex91	
+BiochemicalReaction48	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein126	Complex15	
+BiochemicalReaction48	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein80	Complex15	
+BiochemicalReaction48	Docking of Mature Histone mRNA complex:TAP at the NPC	Complex90	Complex15	
+BiochemicalReaction49	Transport of the Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex through the NPC	Complex91	Complex92	
+BiochemicalReaction5	Dissociation of  transcript with 5'-GMP from GT	Complex11	Complex12	
+BiochemicalReaction50	Release of the SLBP independent Histone mRNA from the NPC	Complex92	Protein162	
+BiochemicalReaction50	Release of the SLBP independent Histone mRNA from the NPC	Protein168	Protein162	
+BiochemicalReaction50	Release of the SLBP independent Histone mRNA from the NPC	Protein168	Complex93	
+BiochemicalReaction50	Release of the SLBP independent Histone mRNA from the NPC	Complex92	Complex93	
+BiochemicalReaction50	Release of the SLBP independent Histone mRNA from the NPC	Protein168	Protein167	
+BiochemicalReaction50	Release of the SLBP independent Histone mRNA from the NPC	Complex92	Protein167	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex94	Complex95	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein80	Complex95	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein126	Complex95	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein126	Complex15	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein80	Complex15	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex94	Complex15	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein126	Complex50	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein80	Complex50	
+BiochemicalReaction51	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex94	Complex50	
+BiochemicalReaction52	Transport of the Mature intronless transcript derived mRNA:TAP:Aly/Ref Complex through the NPC	Complex95	Complex96	
+BiochemicalReaction53	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein168	Protein162	
+BiochemicalReaction53	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex96	Protein162	
+BiochemicalReaction53	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex96	Complex97	
+BiochemicalReaction53	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein168	Complex97	
+BiochemicalReaction53	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex96	Protein167	
+BiochemicalReaction53	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein168	Protein167	
+BiochemicalReaction54	Binding of SLBP to Replication-Dependent Histone Pre-mRNA	Complex98	Complex99	
+BiochemicalReaction54	Binding of SLBP to Replication-Dependent Histone Pre-mRNA	Protein169	Complex99	
+BiochemicalReaction55	Recruitment of U7 snRNP:ZFP100 complex to the SLBP Bound Pre-mRNA	Complex100	Complex102	
+BiochemicalReaction55	Recruitment of U7 snRNP:ZFP100 complex to the SLBP Bound Pre-mRNA	Complex99	Complex102	
+BiochemicalReaction56	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex102	Complex100	
+BiochemicalReaction56	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex102	Complex86	
+BiochemicalReaction57	Recruitment of U7 snRNP:ZFP100 complex to the Histone Pre-mRNA	Complex98	Complex103	
+BiochemicalReaction57	Recruitment of U7 snRNP:ZFP100 complex to the Histone Pre-mRNA	Complex100	Complex103	
+BiochemicalReaction58	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex103	Complex90	
+BiochemicalReaction58	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex103	Complex100	
+BiochemicalReaction59	Recognition of AAUAAA sequence by CPSF	Complex104	Complex105	
+BiochemicalReaction59	Recognition of AAUAAA sequence by CPSF	Complex50	Complex105	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	SmallMolecule6	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Protein1	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Protein1	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Complex13	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Complex13	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Complex14	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Complex14	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule5	Complex5	
+BiochemicalReaction6	Methylation of GMP-cap by RNA Methyltransferase	Complex12	Complex5	
+BiochemicalReaction60	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex105	Complex106	
+BiochemicalReaction60	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex48	Complex106	
+BiochemicalReaction61	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein111	Complex107	
+BiochemicalReaction61	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex106	Complex107	
+BiochemicalReaction61	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex47	Complex107	
+BiochemicalReaction61	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein117	Complex107	
+BiochemicalReaction61	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex49	Complex107	
+BiochemicalReaction62	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex107	Protein111	
+BiochemicalReaction62	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex107	Complex94	
+BiochemicalReaction62	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex107	Complex47	
+BiochemicalReaction62	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex107	Complex48	
+BiochemicalReaction62	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex107	Protein117	
+BiochemicalReaction62	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex107	Complex49	
+BiochemicalReaction63	Cleavage of Intronless Pre-mRNA at 3'-end	Complex107	Complex48	
+BiochemicalReaction63	Cleavage of Intronless Pre-mRNA at 3'-end	Complex107	Complex47	
+BiochemicalReaction63	Cleavage of Intronless Pre-mRNA at 3'-end	Complex107	Complex49	
+BiochemicalReaction63	Cleavage of Intronless Pre-mRNA at 3'-end	Complex107	Complex108	
+BiochemicalReaction63	Cleavage of Intronless Pre-mRNA at 3'-end	Complex107	PhysicalEntity51	
+BiochemicalReaction7	Recognition and binding of the mRNA cap by the cap-binding complex 	Complex13	Complex16	
+BiochemicalReaction7	Recognition and binding of the mRNA cap by the cap-binding complex 	Complex15	Complex16	
+BiochemicalReaction8	Formation of cap binding complex (CBC)	Protein27	Complex15	
+BiochemicalReaction8	Formation of cap binding complex (CBC)	Protein28	Complex15	
+BiochemicalReaction9	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein1	Complex1	
+BiochemicalReaction9	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein16	Complex1	
+BiochemicalReaction9	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex17	Complex1	

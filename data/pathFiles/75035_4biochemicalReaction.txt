@@ -1,0 +1,15 @@
+BiochemicalReaction1	Phosphorylation of Cdc25C at Ser216	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of Cdc25C at Ser216	Protein1	Protein2	
+BiochemicalReaction2	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	Protein3	Complex1	
+BiochemicalReaction2	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	PhysicalEntity2	Complex1	
+BiochemicalReaction3	Retention of phospho-Cdc25C:14-3-3 complexes within the cytoplasm	Complex1	Complex1	
+BiochemicalReaction4	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	Protein5	
+BiochemicalReaction4	Phosphorylation of Wee1 kinase by Chk1	Protein4	Protein5	
+BiochemicalReaction4	Phosphorylation of Wee1 kinase by Chk1	Protein4	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex2	SmallMolecule2	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	Complex3	
+BiochemicalReaction5	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex2	Complex3	

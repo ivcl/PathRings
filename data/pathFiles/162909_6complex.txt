@@ -1,0 +1,264 @@
+Complex1	ANT1:Vpr complex	mitochondrial inner membrane	Reactome DB_ID: 180906	Protein3	
+Complex1	ANT1:Vpr complex	mitochondrial inner membrane	Reactome DB_ID: 180906	Protein2	
+Complex10	Importin beta-1:Rev multimer complex	cytosol	Reactome DB_ID: 180707	Protein53	
+Complex10	Importin beta-1:Rev multimer complex	cytosol	Reactome DB_ID: 180707	PhysicalEntity3	
+Complex11	Rev:Importin-beta:NPM1	cytosol	Reactome DB_ID: 180724	Protein54	
+Complex11	Rev:Importin-beta:NPM1	cytosol	Reactome DB_ID: 180724	Complex10	
+Complex12	nucleoporin-associated Rev:Importin-beta:B23 complex	nuclear envelope	Reactome DB_ID: 180720	Complex11	
+Complex12	nucleoporin-associated Rev:Importin-beta:B23 complex	nuclear envelope	Reactome DB_ID: 180720	Complex2	
+Complex13	Rev:Importin-beta:B23	nucleoplasm	Reactome DB_ID: 180711	Protein55	
+Complex13	Rev:Importin-beta:B23	nucleoplasm	Reactome DB_ID: 180711	Complex14	
+Complex14	Importin beta-1:Rev multimer complex	nucleoplasm	Reactome DB_ID: 180713	PhysicalEntity4	
+Complex14	Importin beta-1:Rev multimer complex	nucleoplasm	Reactome DB_ID: 180713	Protein56	
+Complex15	Ran-GDP	nucleoplasm	Reactome DB_ID: 180701	SmallMolecule1	
+Complex15	Ran-GDP	nucleoplasm	Reactome DB_ID: 180701	Protein57	
+Complex16	Ran-GTP	nucleoplasm	Reactome DB_ID: 180738	SmallMolecule2	
+Complex16	Ran-GTP	nucleoplasm	Reactome DB_ID: 180738	Protein57	
+Complex17	Rev:importin-beta:B23:Ran-GTP complex	nucleoplasm	Reactome DB_ID: 180712	Complex16	
+Complex17	Rev:importin-beta:B23:Ran-GTP complex	nucleoplasm	Reactome DB_ID: 180712	Complex13	
+Complex18	Importin-beta:Ran GTP complex	nucleoplasm	Reactome DB_ID: 180719	Complex16	
+Complex18	Importin-beta:Ran GTP complex	nucleoplasm	Reactome DB_ID: 180719	Protein56	
+Complex19	Rev-bound HIV-1 mRNA	nucleoplasm	Reactome DB_ID: 165535	Protein59	
+Complex19	Rev-bound HIV-1 mRNA	nucleoplasm	Reactome DB_ID: 165535	Rna1	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein7	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein8	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein9	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein10	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein11	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein12	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein13	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein14	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein15	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein18	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein19	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein20	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein21	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein22	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Complex3	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein27	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Complex4	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein33	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein34	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein35	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein36	
+Complex2	Nuclear Pore Complex (NPC)	nuclear envelope	Reactome DB_ID: 157689	Protein37	
+Complex20	Rev multimer-bound HIV-1 mRNA	nucleoplasm	Reactome DB_ID: 165532	Complex19	
+Complex20	Rev multimer-bound HIV-1 mRNA	nucleoplasm	Reactome DB_ID: 165532	PhysicalEntity4	
+Complex21	Rev multimer-bound HIV-1 mRNA:CRM1 complex	nucleoplasm	Reactome DB_ID: 180873	Protein60	
+Complex21	Rev multimer-bound HIV-1 mRNA:CRM1 complex	nucleoplasm	Reactome DB_ID: 180873	Complex20	
+Complex22	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	nucleoplasm	Reactome DB_ID: 165537	Complex16	
+Complex22	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	nucleoplasm	Reactome DB_ID: 165537	Complex21	
+Complex23	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC	nuclear envelope	Reactome DB_ID: 165531	Complex2	
+Complex23	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP:NPC	nuclear envelope	Reactome DB_ID: 165531	Complex22	
+Complex24	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	cytosol	Reactome DB_ID: 165552	Complex25	
+Complex24	Rev multimer-bound HIV-1 mRNA:Crm1:Ran:GTP	cytosol	Reactome DB_ID: 165552	Complex27	
+Complex25	Rev multimer-bound HIV-1 mRNA	cytosol	Reactome DB_ID: 165547	Complex26	
+Complex25	Rev multimer-bound HIV-1 mRNA	cytosol	Reactome DB_ID: 165547	PhysicalEntity3	
+Complex26	Rev-bound HIV-1 mRNA	cytosol	Reactome DB_ID: 165551	Protein47	
+Complex26	Rev-bound HIV-1 mRNA	cytosol	Reactome DB_ID: 165551	Rna2	
+Complex27	Crm1:Ran GTPase:GTP	cytosol	Reactome DB_ID: 165556	Protein61	
+Complex27	Crm1:Ran GTPase:GTP	cytosol	Reactome DB_ID: 165556	Complex28	
+Complex28	Ran:GTP	cytosol	Reactome DB_ID: 180686	SmallMolecule3	
+Complex28	Ran:GTP	cytosol	Reactome DB_ID: 180686	Protein62	
+Complex29	RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	cytosol	Reactome DB_ID: 180718	Complex24	
+Complex29	RanBP1:Ran-GTP:CRM1:Rev-bound mRNA complex	cytosol	Reactome DB_ID: 180718	Protein63	
+Complex3	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein23	
+Complex3	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein24	
+Complex3	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein25	
+Complex3	Nup62 Complex	nuclear envelope	Reactome DB_ID: 157712	Protein26	
+Complex30	Ran GTPase:GDP	cytosol	Reactome DB_ID: 165549	SmallMolecule4	
+Complex30	Ran GTPase:GDP	cytosol	Reactome DB_ID: 165549	Protein62	
+Complex31	APOBEC3G:HIV-1PIC	cytosol	Reactome DB_ID: 180618	Complex5	
+Complex31	APOBEC3G:HIV-1PIC	cytosol	Reactome DB_ID: 180618	Protein65	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein38	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein67	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Complex33	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein1	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein43	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Complex34	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein47	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein48	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein39	
+Complex32	RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 173774	Protein49	
+Complex33	minus sssDNA:RNA template:tRNA primer	cytosol	Reactome DB_ID: 173812	PhysicalEntity5	
+Complex33	minus sssDNA:RNA template:tRNA primer	cytosol	Reactome DB_ID: 173812	PhysicalEntity6	
+Complex33	minus sssDNA:RNA template:tRNA primer	cytosol	Reactome DB_ID: 173812	Rna4	
+Complex34	RT	cytosol	Reactome DB_ID: 173772	Protein68	
+Complex34	RT	cytosol	Reactome DB_ID: 173772	Protein69	
+Complex35	APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180616	Complex32	
+Complex35	APOBEC3G:RTC with minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180616	Protein65	
+Complex36	APOBEC3G:RTC with deaminated minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180744	Complex37	
+Complex36	APOBEC3G:RTC with deaminated minus sssDNA:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180744	Protein65	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein38	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein67	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein1	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein43	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Complex34	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein47	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein48	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein39	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Protein49	
+Complex37	RTC with minus sssDNA containing deaminated C residues:tRNA primer:RNA template	cytosol	Reactome DB_ID: 180731	Complex38	
+Complex38	minus sssDNA containing deaminated C residues:RNA template:tRNA primer	cytosol	Reactome DB_ID: 180727	PhysicalEntity6	
+Complex38	minus sssDNA containing deaminated C residues:RNA template:tRNA primer	cytosol	Reactome DB_ID: 180727	PhysicalEntity7	
+Complex38	minus sssDNA containing deaminated C residues:RNA template:tRNA primer	cytosol	Reactome DB_ID: 180727	Rna4	
+Complex39	Vif:APOBEC3G complex	cytosol	Reactome DB_ID: 180543	Protein48	
+Complex39	Vif:APOBEC3G complex	cytosol	Reactome DB_ID: 180543	Protein65	
+Complex4	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein28	
+Complex4	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein29	
+Complex4	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein30	
+Complex4	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein31	
+Complex4	Nup107 Complex	nuclear envelope	Reactome DB_ID: 157700	Protein32	
+Complex40	Cul5-SCF complex	cytosol	Reactome DB_ID: 180596	Protein70	
+Complex40	Cul5-SCF complex	cytosol	Reactome DB_ID: 180596	Protein71	
+Complex40	Cul5-SCF complex	cytosol	Reactome DB_ID: 180596	Protein72	
+Complex40	Cul5-SCF complex	cytosol	Reactome DB_ID: 180596	Protein73	
+Complex41	APOBEC3G:Vif:Cul5:SCF complex	cytosol	Reactome DB_ID: 180549	Complex39	
+Complex41	APOBEC3G:Vif:Cul5:SCF complex	cytosol	Reactome DB_ID: 180549	Complex40	
+Complex42	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	cytosol	Reactome DB_ID: 180577	Complex41	
+Complex42	multi-ubiquitinated APOBEC3G:Vif:Cul5:SCF complex	cytosol	Reactome DB_ID: 180577	Protein74	
+Complex43	Vif:Cul5:SCF complex	cytosol	Reactome DB_ID: 180539	Protein48	
+Complex43	Vif:Cul5:SCF complex	cytosol	Reactome DB_ID: 180539	Complex40	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein89	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein90	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein91	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein92	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein93	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein94	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein95	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein96	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein97	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein98	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein99	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein100	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein101	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein102	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein103	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein104	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein105	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein106	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein107	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein108	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein109	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein110	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein111	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein112	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein113	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein114	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein115	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein116	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein117	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein118	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein119	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein120	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein121	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein122	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein123	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein124	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein125	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein126	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein127	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein128	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein129	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein130	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein131	
+Complex44	26S proteasome	cytosol	Reactome DB_ID: 68819	Protein132	
+Complex45	P-TEFb(Cyclin T1:Cdk9) complex	nucleoplasm	Reactome DB_ID: 167183	Protein133	
+Complex45	P-TEFb(Cyclin T1:Cdk9) complex	nucleoplasm	Reactome DB_ID: 167183	Protein134	
+Complex46	Tat:P-TEFb(Cyclin T1:Cdk9) complex	nucleoplasm	Reactome DB_ID: 167237	Complex45	
+Complex46	Tat:P-TEFb(Cyclin T1:Cdk9) complex	nucleoplasm	Reactome DB_ID: 167237	Protein135	
+Complex47	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	plasma membrane	Reactome DB_ID: 167576	Protein136	
+Complex47	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	plasma membrane	Reactome DB_ID: 167576	Protein137	
+Complex47	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	plasma membrane	Reactome DB_ID: 167576	Protein138	
+Complex47	Nef:T cell Receptor zeta:Lipid Raft: Pak 2 Complex	plasma membrane	Reactome DB_ID: 167576	PhysicalEntity8	
+Complex48	Hck-1:Nef	cytosol	Reactome DB_ID: 200872	Protein136	
+Complex48	Hck-1:Nef	cytosol	Reactome DB_ID: 200872	Protein139	
+Complex49	Fyn:Nef Complex	cytosol	Reactome DB_ID: 200911	Protein136	
+Complex49	Fyn:Nef Complex	cytosol	Reactome DB_ID: 200911	Protein140	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein38	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Complex6	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein40	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein41	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein42	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein43	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein46	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein47	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein48	
+Complex5	IN bound to sticky 3' ends of viral DNA in PIC	cytosol	Reactome DB_ID: 177526	Protein49	
+Complex50	Lck:Nef	cytosol	Reactome DB_ID: 200922	Protein136	
+Complex50	Lck:Nef	cytosol	Reactome DB_ID: 200922	Protein141	
+Complex51	DOCK2:ELMO1:RAC1:Nef Complex	cytosol	Reactome DB_ID: 200937	Protein136	
+Complex51	DOCK2:ELMO1:RAC1:Nef Complex	cytosol	Reactome DB_ID: 200937	Protein142	
+Complex51	DOCK2:ELMO1:RAC1:Nef Complex	cytosol	Reactome DB_ID: 200937	Protein143	
+Complex51	DOCK2:ELMO1:RAC1:Nef Complex	cytosol	Reactome DB_ID: 200937	Protein144	
+Complex52	Nef:CD28 Complex	plasma membrane	Reactome DB_ID: 167629	Protein145	
+Complex52	Nef:CD28 Complex	plasma membrane	Reactome DB_ID: 167629	Protein136	
+Complex53	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	plasma membrane	Reactome DB_ID: 167636	Complex52	
+Complex53	CD28:Nef:Clathrin-coated Pit Adapter Protein Complex	plasma membrane	Reactome DB_ID: 167636	Protein146	
+Complex54	CD28:Nef:Clathrin-coated Pit Adapter Protein	cytosol	Reactome DB_ID: 167631	Protein147	
+Complex54	CD28:Nef:Clathrin-coated Pit Adapter Protein	cytosol	Reactome DB_ID: 167631	Protein136	
+Complex54	CD28:Nef:Clathrin-coated Pit Adapter Protein	cytosol	Reactome DB_ID: 167631	Protein148	
+Complex55	class I MHC complex	Golgi membrane	Reactome DB_ID: 182275	Protein149	
+Complex55	class I MHC complex	Golgi membrane	Reactome DB_ID: 182275	Protein150	
+Complex56	Nef:class I MHC complex	Golgi membrane	Reactome DB_ID: 182256	Protein136	
+Complex56	Nef:class I MHC complex	Golgi membrane	Reactome DB_ID: 182256	Complex55	
+Complex57	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein152	
+Complex57	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein156	
+Complex57	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein157	
+Complex57	AP-1 Complex	cytosol	Reactome DB_ID: 167717	Protein158	
+Complex58	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Protein151	
+Complex58	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Protein136	
+Complex58	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Complex55	
+Complex58	Nef:class I MHC complex:Ap-1:PACS-1 Complex	Golgi membrane	Reactome DB_ID: 182373	Complex57	
+Complex59	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Protein151	
+Complex59	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Complex60	
+Complex59	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Protein136	
+Complex59	Nef:class I MHC complex:AP-1:PACS-1 Complex	early endosome membrane	Reactome DB_ID: 182254	Complex57	
+Complex6	IN bound to sticky 3' ends of viral DNA	cytosol	Reactome DB_ID: 177528	Protein39	
+Complex6	IN bound to sticky 3' ends of viral DNA	cytosol	Reactome DB_ID: 177528	Complex7	
+Complex60	class I MHC complex	early endosome membrane	Reactome DB_ID: 182294	Protein161	
+Complex60	class I MHC complex	early endosome membrane	Reactome DB_ID: 182294	Protein162	
+Complex61	CD4:Lck Complex	plasma membrane	Reactome DB_ID: 167529	Protein163	
+Complex61	CD4:Lck Complex	plasma membrane	Reactome DB_ID: 167529	Protein141	
+Complex62	CD4:Nef Complex	plasma membrane	Reactome DB_ID: 167596	Protein136	
+Complex62	CD4:Nef Complex	plasma membrane	Reactome DB_ID: 167596	Protein163	
+Complex63	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein164	
+Complex63	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein165	
+Complex63	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein148	
+Complex63	AP-2 Complex	cytosol	Reactome DB_ID: 167712	Protein166	
+Complex64	CD4:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 167544	Complex63	
+Complex64	CD4:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 167544	Protein169	
+Complex64	CD4:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 167544	Complex62	
+Complex65	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Protein136	
+Complex65	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Complex63	
+Complex65	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Protein170	
+Complex65	Internalized CD4:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 167554	Protein171	
+Complex66	Arf1:Nef:endosomal CD4	early endosome membrane	Reactome DB_ID: 200867	Protein136	
+Complex66	Arf1:Nef:endosomal CD4	early endosome membrane	Reactome DB_ID: 200867	Protein170	
+Complex66	Arf1:Nef:endosomal CD4	early endosome membrane	Reactome DB_ID: 200867	Protein172	
+Complex67	CD8:Nef Complex	plasma membrane	Reactome DB_ID: 182194	Protein136	
+Complex67	CD8:Nef Complex	plasma membrane	Reactome DB_ID: 182194	Protein173	
+Complex68	CD8:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 182158	Complex63	
+Complex68	CD8:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 182158	Complex67	
+Complex68	CD8:Nef:AP-2 Complex:v-ATPase Complex	plasma membrane	Reactome DB_ID: 182158	Protein169	
+Complex69	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Protein136	
+Complex69	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Complex63	
+Complex69	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Protein174	
+Complex69	Internalized CD8:Nef:Clathrin-Coated Pit Adapter Protein:v-ATPase	early endosome membrane	Reactome DB_ID: 182230	Protein171	
+Complex7	viral DNA with 3' sticky ends	cytosol	Reactome DB_ID: 177535	PhysicalEntity1	
+Complex7	viral DNA with 3' sticky ends	cytosol	Reactome DB_ID: 177535	PhysicalEntity2	
+Complex70	CD4:Vpu complex	endoplasmic reticulum membrane	Reactome DB_ID: 180601	Protein175	
+Complex70	CD4:Vpu complex	endoplasmic reticulum membrane	Reactome DB_ID: 180601	Protein176	
+Complex71	CD4:Vpu:beta-TrCP_1	endoplasmic reticulum membrane	Reactome DB_ID: 180532	Protein177	
+Complex71	CD4:Vpu:beta-TrCP_1	endoplasmic reticulum membrane	Reactome DB_ID: 180532	Complex70	
+Complex72	CD4:Vpu:beta-TrCP_1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180592	Complex71	
+Complex72	CD4:Vpu:beta-TrCP_1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180592	Protein178	
+Complex73	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180530	Complex72	
+Complex73	multiubiquitinated CD4:Vpu:beta-TrCP_1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180530	Protein74	
+Complex74	Vpu:beta-TrCP1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180567	Protein177	
+Complex74	Vpu:beta-TrCP1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180567	Protein175	
+Complex74	Vpu:beta-TrCP1:Skp1 complex	endoplasmic reticulum membrane	Reactome DB_ID: 180567	Protein178	
+Complex8	PIC anchored to the NPC	nuclear envelope	Reactome DB_ID: 180610	Complex2	
+Complex8	PIC anchored to the NPC	nuclear envelope	Reactome DB_ID: 180610	Complex5	
+Complex9	Vpr:importin-alpha complex	cytosol	Reactome DB_ID: 180623	Protein52	
+Complex9	Vpr:importin-alpha complex	cytosol	Reactome DB_ID: 180623	Complex5	

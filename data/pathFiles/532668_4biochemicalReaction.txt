@@ -1,0 +1,33 @@
+BiochemicalReaction1	Trimming of the first glucose by glucosidase I	Complex1	SmallMolecule2	
+BiochemicalReaction1	Trimming of the first glucose by glucosidase I	Complex1	Complex2	
+BiochemicalReaction10	Trimming of the first mannose on the A branch	Complex13	Complex16	
+BiochemicalReaction10	Trimming of the first mannose on the A branch	Complex13	SmallMolecule11	
+BiochemicalReaction11	Trimming of the second mannose on the A branch	Complex16	Complex17	
+BiochemicalReaction11	Trimming of the second mannose on the A branch	Complex16	SmallMolecule11	
+BiochemicalReaction12	Re-addition of a glucose on the alpha 1,3 branch	SmallMolecule15	Complex18	
+BiochemicalReaction12	Re-addition of a glucose on the alpha 1,3 branch	Complex13	Complex18	
+BiochemicalReaction12	Re-addition of a glucose on the alpha 1,3 branch	Complex13	SmallMolecule17	
+BiochemicalReaction12	Re-addition of a glucose on the alpha 1,3 branch	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction13	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex17	Complex19	
+BiochemicalReaction13	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex16	Complex19	
+BiochemicalReaction13	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex16	Complex20	
+BiochemicalReaction13	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex17	Complex20	
+BiochemicalReaction14	Glycoproteins with lesser folding defects get transported back to the ER and the CNX/CRT complex	Complex18	Complex4	
+BiochemicalReaction2	Binding of Malectin	Complex2	Complex3	
+BiochemicalReaction2	Binding of Malectin	Protein2	Complex3	
+BiochemicalReaction3	Removal of the second glucose by glucosidase II	Complex3	SmallMolecule2	
+BiochemicalReaction3	Removal of the second glucose by glucosidase II	Complex3	Complex4	
+BiochemicalReaction3	Removal of the second glucose by glucosidase II	Complex3	Protein2	
+BiochemicalReaction4	Binding of calnexin/calreticulin to the unfolded protein	Protein5	Complex6	
+BiochemicalReaction4	Binding of calnexin/calreticulin to the unfolded protein	Complex4	Complex6	
+BiochemicalReaction5	Binding of ERp57	Protein8	Complex8	
+BiochemicalReaction5	Binding of ERp57	Complex6	Complex8	
+BiochemicalReaction6	Removal of the third glucose by glucosidase II and release from the chaperone	Complex9	SmallMolecule2	
+BiochemicalReaction6	Removal of the third glucose by glucosidase II and release from the chaperone	Complex9	Complex7	
+BiochemicalReaction6	Removal of the third glucose by glucosidase II and release from the chaperone	Complex9	Complex11	
+BiochemicalReaction6	Removal of the third glucose by glucosidase II and release from the chaperone	Complex9	Protein8	
+BiochemicalReaction7	Incorrectly folded glycoproteins translocate to the ERQC	Complex12	Complex13	
+BiochemicalReaction8	Trimming of the terminal mannose on the B branch	Complex13	Complex14	
+BiochemicalReaction8	Trimming of the terminal mannose on the B branch	Complex13	SmallMolecule11	
+BiochemicalReaction9	Trimming of the terminal mannose on the C branch	Complex13	Complex15	
+BiochemicalReaction9	Trimming of the terminal mannose on the C branch	Complex13	SmallMolecule11	

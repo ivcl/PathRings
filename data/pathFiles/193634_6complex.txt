@@ -1,0 +1,25 @@
+Complex1	p75NTR:NgR	plasma membrane	Reactome DB_ID: 194513	PhysicalEntity1	
+Complex1	p75NTR:NgR	plasma membrane	Reactome DB_ID: 194513	Protein1	
+Complex2	p75NTR:NgR:LINGO1	plasma membrane	Reactome DB_ID: 194583	Protein2	
+Complex2	p75NTR:NgR:LINGO1	plasma membrane	Reactome DB_ID: 194583	PhysicalEntity1	
+Complex2	p75NTR:NgR:LINGO1	plasma membrane	Reactome DB_ID: 194583	Protein1	
+Complex3	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	Protein2	
+Complex3	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	Protein3	
+Complex3	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	PhysicalEntity1	
+Complex3	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	Protein1	
+Complex4	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	Protein3	
+Complex4	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	Complex5	
+Complex4	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	PhysicalEntity1	
+Complex4	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	Protein1	
+Complex5	RHOA:RHO-GDIalpha	plasma membrane	Reactome DB_ID: 194533	Complex6	
+Complex5	RHOA:RHO-GDIalpha	plasma membrane	Reactome DB_ID: 194533	Protein8	
+Complex6	RhoA (Mg cofactor):GDP	plasma membrane	Reactome DB_ID: 194489	Protein7	
+Complex6	RhoA (Mg cofactor):GDP	plasma membrane	Reactome DB_ID: 194489	SmallMolecule1	
+Complex6	RhoA (Mg cofactor):GDP	plasma membrane	Reactome DB_ID: 194489	SmallMolecule2	
+Complex7	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	Protein3	
+Complex7	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	Protein8	
+Complex7	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	PhysicalEntity1	
+Complex7	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	Protein1	
+Complex8	RhoA (Mg cofactor):GTP	plasma membrane	Reactome DB_ID: 194545	Protein7	
+Complex8	RhoA (Mg cofactor):GTP	plasma membrane	Reactome DB_ID: 194545	SmallMolecule3	
+Complex8	RhoA (Mg cofactor):GTP	plasma membrane	Reactome DB_ID: 194545	SmallMolecule2	

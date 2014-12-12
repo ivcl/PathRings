@@ -1,0 +1,34 @@
+BiochemicalReaction1	Synthesis of glyoxylate from hydroxyproline	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction2	glycine + O2 => glyoxylate + H2O2 + NH4+	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule9	SmallMolecule3	
+BiochemicalReaction3	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction3	glyoxylate + alanine => glycine + pyruvate [peroxisome]	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction4	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction4	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction4	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction4	glyoxylate + alanine => glycine + pyruvate [mitochondrial matrix]	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction5	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule2	SmallMolecule17	
+BiochemicalReaction5	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction5	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction5	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule16	SmallMolecule18	
+BiochemicalReaction5	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule15	SmallMolecule18	
+BiochemicalReaction5	glyoxylate + NADPH + H+ => glycolate + NADP+	SmallMolecule2	SmallMolecule18	
+BiochemicalReaction6	glycolate + O2 => glyoxylate + H2O2	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction6	glycolate + O2 => glyoxylate + H2O2	SmallMolecule17	SmallMolecule2	
+BiochemicalReaction6	glycolate + O2 => glyoxylate + H2O2	SmallMolecule17	SmallMolecule7	
+BiochemicalReaction6	glycolate + O2 => glyoxylate + H2O2	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction7	Conversion of glyoxylate to oxalate	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction7	Conversion of glyoxylate to oxalate	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction7	Conversion of glyoxylate to oxalate	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction7	Conversion of glyoxylate to oxalate	SmallMolecule5	SmallMolecule20	
+BiochemicalReaction7	Conversion of glyoxylate to oxalate	SmallMolecule4	SmallMolecule20	
+BiochemicalReaction7	Conversion of glyoxylate to oxalate	SmallMolecule2	SmallMolecule20	

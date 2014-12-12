@@ -1,0 +1,10 @@
+BiochemicalReaction1	UNC-5 binds Netrin-1	Protein1	Complex1	
+BiochemicalReaction1	UNC-5 binds Netrin-1	Protein6	Complex1	
+BiochemicalReaction2	DCC heterodimerizes with UNC-5:Netrin-1	Complex1	Complex2	
+BiochemicalReaction2	DCC heterodimerizes with UNC-5:Netrin-1	Protein7	Complex2	
+BiochemicalReaction3	Phosphorylation of Unc5C	Complex3	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Unc5C	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Unc5C	SmallMolecule1	Complex8	
+BiochemicalReaction3	Phosphorylation of Unc5C	Complex3	Complex8	
+BiochemicalReaction4	Shp2 binds pUnc5C	Complex8	Complex10	
+BiochemicalReaction4	Shp2 binds pUnc5C	Protein14	Complex10	

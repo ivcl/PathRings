@@ -1,0 +1,29 @@
+Complex11	p-2S-SMAD2/3:SMAD4	cytosol	Reactome DB_ID: 171175	Protein16	
+Complex11	p-2S-SMAD2/3:SMAD4	cytosol	Reactome DB_ID: 171175	Protein13	
+Complex12	p-2S-SMAD2/3:SMAD4	nucleoplasm	Reactome DB_ID: 173511	Protein17	
+Complex12	p-2S-SMAD2/3:SMAD4	nucleoplasm	Reactome DB_ID: 173511	Protein18	
+Complex13	SMAD2/3:SMAD4:FOXH1:Activin Response Element	nucleoplasm	Reactome DB_ID: 1225870	Protein21	
+Complex13	SMAD2/3:SMAD4:FOXH1:Activin Response Element	nucleoplasm	Reactome DB_ID: 1225870	Complex12	
+Complex13	SMAD2/3:SMAD4:FOXH1:Activin Response Element	nucleoplasm	Reactome DB_ID: 1225870	PhysicalEntity1	
+Complex14	FOXH1:DRAP1	nucleoplasm	Reactome DB_ID: 1226031	Protein22	
+Complex14	FOXH1:DRAP1	nucleoplasm	Reactome DB_ID: 1226031	Protein21	
+Complex15	Activin A/AB/B:FSTL3	extracellular region	Reactome DB_ID: 2473219	Protein23	
+Complex15	Activin A/AB/B:FSTL3	extracellular region	Reactome DB_ID: 2473219	Complex1	
+Complex16	Activin A/AB/B:FST	extracellular region	Reactome DB_ID: 2473196	Protein24	
+Complex16	Activin A/AB/B:FST	extracellular region	Reactome DB_ID: 2473196	Complex1	
+Complex2	INHBA dimer	extracellular region	Reactome DB_ID: 206893	Protein5	
+Complex3	Activin AB	extracellular region	Reactome DB_ID: 2470491	Protein6	
+Complex3	Activin AB	extracellular region	Reactome DB_ID: 2470491	Protein5	
+Complex4	INHBB dimer	extracellular region	Reactome DB_ID: 1449672	Protein6	
+Complex5	Activin A/AB/B:ACVR2A/B:ACVR1B	plasma membrane	Reactome DB_ID: 1549493	Protein1	
+Complex5	Activin A/AB/B:ACVR2A/B:ACVR1B	plasma membrane	Reactome DB_ID: 1549493	Protein4	
+Complex5	Activin A/AB/B:ACVR2A/B:ACVR1B	plasma membrane	Reactome DB_ID: 1549493	Complex1	
+Complex7	Activin AB/B:ACVR2A/B:ACVR1C	plasma membrane	Reactome DB_ID: 2470469	Protein1	
+Complex7	Activin AB/B:ACVR2A/B:ACVR1C	plasma membrane	Reactome DB_ID: 2470469	Complex6	
+Complex7	Activin AB/B:ACVR2A/B:ACVR1C	plasma membrane	Reactome DB_ID: 2470469	Protein7	
+Complex8	Activin A/AB/B:ACVR2A/B:p-ACVR1B	plasma membrane	Reactome DB_ID: 1549500	Protein1	
+Complex8	Activin A/AB/B:ACVR2A/B:p-ACVR1B	plasma membrane	Reactome DB_ID: 1549500	Complex1	
+Complex8	Activin A/AB/B:ACVR2A/B:p-ACVR1B	plasma membrane	Reactome DB_ID: 1549500	Protein8	
+Complex9	Activin AB/B:ACVR2A/B:p-ACVR1C	plasma membrane	Reactome DB_ID: 2470475	Protein9	
+Complex9	Activin AB/B:ACVR2A/B:p-ACVR1C	plasma membrane	Reactome DB_ID: 2470475	Protein1	
+Complex9	Activin AB/B:ACVR2A/B:p-ACVR1C	plasma membrane	Reactome DB_ID: 2470475	Complex6	

@@ -1,0 +1,41 @@
+BiochemicalReaction1	N-myristoylation of eNOS	Protein1	Protein2	
+BiochemicalReaction1	N-myristoylation of eNOS	SmallMolecule1	Protein2	
+BiochemicalReaction10	The cofactor BH4 is required for electron transfer in the eNOS catalytic cycle	Complex9	Complex11	
+BiochemicalReaction10	The cofactor BH4 is required for electron transfer in the eNOS catalytic cycle	SmallMolecule11	Complex11	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule13	SmallMolecule17	
+BiochemicalReaction11	NO biosynthesis	SmallMolecule12	SmallMolecule17	
+BiochemicalReaction12	Uncoupled eNOS favours the formation of superoxide	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction12	Uncoupled eNOS favours the formation of superoxide	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction12	Uncoupled eNOS favours the formation of superoxide	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction12	Uncoupled eNOS favours the formation of superoxide	SmallMolecule12	SmallMolecule18	
+BiochemicalReaction13	Superoxide reacts rapidly with NO to form peroxynitrite (ONOO-)	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction13	Superoxide reacts rapidly with NO to form peroxynitrite (ONOO-)	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction14	depalmitoylation of eNOS	Complex1	Complex13	
+BiochemicalReaction14	depalmitoylation of eNOS	Complex1	SmallMolecule21	
+BiochemicalReaction15	depalmitoylated eNOS translocates from plasma membrane	Complex13	Complex15	
+BiochemicalReaction2	palmitoylation of eNOS	SmallMolecule2	Protein3	
+BiochemicalReaction2	palmitoylation of eNOS	Protein2	Protein3	
+BiochemicalReaction3	eNOS translocation from Golgi to Caveolae	Protein3	Complex1	
+BiochemicalReaction4	eNOS associates with Caveolin-1	Protein6	Complex2	
+BiochemicalReaction4	eNOS associates with Caveolin-1	Complex1	Complex2	
+BiochemicalReaction5	eNOS:Caveolin-1 complex binds to CaM	Complex3	Complex4	
+BiochemicalReaction5	eNOS:Caveolin-1 complex binds to CaM	Complex2	Complex4	
+BiochemicalReaction6	HSP90 binds eNOS:Caveolin-1:CaM complex	Complex4	Complex3	
+BiochemicalReaction6	HSP90 binds eNOS:Caveolin-1:CaM complex	Protein10	Complex3	
+BiochemicalReaction6	HSP90 binds eNOS:Caveolin-1:CaM complex	Protein10	Complex6	
+BiochemicalReaction6	HSP90 binds eNOS:Caveolin-1:CaM complex	Complex4	Complex6	
+BiochemicalReaction7	Caveolin-1 dissociates from eNOS:CaM:HSP90 complex	Complex6	Protein6	
+BiochemicalReaction7	Caveolin-1 dissociates from eNOS:CaM:HSP90 complex	Complex6	Complex7	
+BiochemicalReaction8	AKT1 binds eNOS complex via HSP90	Complex7	Complex8	
+BiochemicalReaction8	AKT1 binds eNOS complex via HSP90	Protein12	Complex8	
+BiochemicalReaction9	AKT1 phosphorylates eNOS	Complex8	SmallMolecule10	
+BiochemicalReaction9	AKT1 phosphorylates eNOS	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction9	AKT1 phosphorylates eNOS	SmallMolecule9	Complex9	
+BiochemicalReaction9	AKT1 phosphorylates eNOS	Complex8	Complex9	

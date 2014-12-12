@@ -1,0 +1,109 @@
+Complex10	NRGs/EGF-like ligands:ERBB4jmAcyt2ECD	extracellular region	Reactome DB_ID: 1251973	Protein13	
+Complex10	NRGs/EGF-like ligands:ERBB4jmAcyt2ECD	extracellular region	Reactome DB_ID: 1251973	PhysicalEntity1	
+Complex12	ERBB4jmAcyt1m80 dimer	plasma membrane	Reactome DB_ID: 1251972	Protein14	
+Complex13	ERBB4jmAcyt2m80 dimer	plasma membrane	Reactome DB_ID: 1251981	Protein15	
+Complex14	ADAM17	plasma membrane	Reactome DB_ID: 1251963	Protein16	
+Complex14	ADAM17	plasma membrane	Reactome DB_ID: 1251963	SmallMolecule1	
+Complex16	ERBB4jmAcyt1s80 dimer	cytosol	Reactome DB_ID: 1252008	Protein17	
+Complex17	ERBB4jmAcyt2s80 dimer	cytosol	Reactome DB_ID: 1252007	Protein18	
+Complex18	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Protein19	
+Complex18	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Protein22	
+Complex18	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Complex19	
+Complex18	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Protein24	
+Complex19	PSEN2 dimer	plasma membrane	Reactome DB_ID: 157352	Protein23	
+Complex2	p-ERBB4jmAcyt1	plasma membrane	Reactome DB_ID: 1251953	Complex3	
+Complex21	ERBB4jmAcyt1s80 dimer	nucleoplasm	Reactome DB_ID: 1252015	Protein25	
+Complex22	ERBB4jmAcyt2s80 dimer	nucleoplasm	Reactome DB_ID: 1252014	Protein26	
+Complex23	TAB2:NCOR1	cytosol	Reactome DB_ID: 1253312	Protein27	
+Complex23	TAB2:NCOR1	cytosol	Reactome DB_ID: 1253312	Protein28	
+Complex24	ERBB4s80:TAB2:NCOR1	cytosol	Reactome DB_ID: 1253326	Complex15	
+Complex24	ERBB4s80:TAB2:NCOR1	cytosol	Reactome DB_ID: 1253326	Complex23	
+Complex25	ERBB4s80:TAB2:NCOR1	nucleoplasm	Reactome DB_ID: 1253328	Complex20	
+Complex25	ERBB4s80:TAB2:NCOR1	nucleoplasm	Reactome DB_ID: 1253328	Complex26	
+Complex26	TAB2:NCOR1	nucleoplasm	Reactome DB_ID: 1253304	Protein29	
+Complex26	TAB2:NCOR1	nucleoplasm	Reactome DB_ID: 1253304	Protein30	
+Complex27	ERBB4s80:WWOX	cytosol	Reactome DB_ID: 1253344	Complex15	
+Complex27	ERBB4s80:WWOX	cytosol	Reactome DB_ID: 1253344	Protein33	
+Complex28	ERBB4s80:YAP1	cytosol	Reactome DB_ID: 1253341	Complex15	
+Complex28	ERBB4s80:YAP1	cytosol	Reactome DB_ID: 1253341	Protein34	
+Complex29	ERBB4s80:YAP1	nucleoplasm	Reactome DB_ID: 1253347	Complex20	
+Complex29	ERBB4s80:YAP1	nucleoplasm	Reactome DB_ID: 1253347	Protein35	
+Complex3	NRGs/EGF-like ligands:P-ERBB4jmAcyt1	plasma membrane	Reactome DB_ID: 1251957	Protein1	
+Complex3	NRGs/EGF-like ligands:P-ERBB4jmAcyt1	plasma membrane	Reactome DB_ID: 1251957	PhysicalEntity1	
+Complex30	STAT5A homodimer	cytosol	Reactome DB_ID: 507927	Protein36	
+Complex31	ERBB4s80:STAT5A	cytosol	Reactome DB_ID: 1254284	Complex15	
+Complex31	ERBB4s80:STAT5A	cytosol	Reactome DB_ID: 1254284	Complex30	
+Complex32	ERBB4s80:STAT5A	nucleoplasm	Reactome DB_ID: 1254288	Complex20	
+Complex32	ERBB4s80:STAT5A	nucleoplasm	Reactome DB_ID: 1254288	Complex33	
+Complex33	STAT5A homodimer	nucleoplasm	Reactome DB_ID: 507996	Protein37	
+Complex34	ESR1:estrogen	nucleoplasm	Reactome DB_ID: 1254381	Complex35	
+Complex34	ESR1:estrogen	nucleoplasm	Reactome DB_ID: 1254381	SmallMolecule2	
+Complex35	ESR1 homodimer	nucleoplasm	Reactome DB_ID: 1254384	Protein39	
+Complex36	ERBB4s80:ESR1	nucleoplasm	Reactome DB_ID: 1254397	Complex20	
+Complex36	ERBB4s80:ESR1	nucleoplasm	Reactome DB_ID: 1254397	Complex34	
+Complex38	ERBB4jmAcyt1s80 dimer	mitochondrial matrix	Reactome DB_ID: 1254379	Protein42	
+Complex39	ERBB4jmAcyt2s80 dimer	mitochondrial matrix	Reactome DB_ID: 1254391	Protein43	
+Complex4	p-ERBB4jmAcyt2 homodimer	plasma membrane	Reactome DB_ID: 1250293	Complex5	
+Complex40	PRLR:JAK2	plasma membrane	Reactome DB_ID: 1302663	Protein44	
+Complex40	PRLR:JAK2	plasma membrane	Reactome DB_ID: 1302663	Protein45	
+Complex41	PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1364076	Complex40	
+Complex42	Placental lactogen	extracellular region	Reactome DB_ID: 1172022	Protein47	
+Complex42	Placental lactogen	extracellular region	Reactome DB_ID: 1172022	SmallMolecule1	
+Complex43	PRLR ligands:PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1671652	PhysicalEntity2	
+Complex43	PRLR ligands:PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1671652	Complex41	
+Complex44	PRLR ligands:p(S349)- PRLR:JAK2 dimer:SCF beta-TrCP complex	plasma membrane	Reactome DB_ID: 1369085	Complex45	
+Complex44	PRLR ligands:p(S349)- PRLR:JAK2 dimer:SCF beta-TrCP complex	plasma membrane	Reactome DB_ID: 1369085	Complex48	
+Complex45	PRLR ligands:p(S349)-PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1977946	PhysicalEntity2	
+Complex45	PRLR ligands:p(S349)-PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1977946	Complex46	
+Complex46	p(S349)-PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1675474	Complex47	
+Complex47	p(S349)-PRLR:JAK2	plasma membrane	Reactome DB_ID: 1370506	Protein45	
+Complex47	p(S349)-PRLR:JAK2	plasma membrane	Reactome DB_ID: 1370506	Protein51	
+Complex48	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein52	
+Complex48	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein53	
+Complex48	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein54	
+Complex48	SCF beta-TrCP complex	cytosol	Reactome DB_ID: 206748	Protein55	
+Complex49	PRLR ligands:Activated PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 976956	PhysicalEntity2	
+Complex49	PRLR ligands:Activated PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 976956	Complex50	
+Complex5	NRGs/EGF-like ligands:p-ERBB4cyt2	plasma membrane	Reactome DB_ID: 1250309	Protein11	
+Complex5	NRGs/EGF-like ligands:p-ERBB4cyt2	plasma membrane	Reactome DB_ID: 1250309	PhysicalEntity1	
+Complex50	Activated PRLR:JAK2 dimer	plasma membrane	Reactome DB_ID: 1671734	Complex51	
+Complex51	Activated PRLR:JAK2	plasma membrane	Reactome DB_ID: 1977936	Protein56	
+Complex51	Activated PRLR:JAK2	plasma membrane	Reactome DB_ID: 1977936	Protein45	
+Complex52	PRLR ligands:Activated PRLR:JAK2 dimer:SH2B1 beta	plasma membrane	Reactome DB_ID: 1675475	Complex49	
+Complex52	PRLR ligands:Activated PRLR:JAK2 dimer:SH2B1 beta	plasma membrane	Reactome DB_ID: 1675475	Protein57	
+Complex54	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168384	Complex55	
+Complex54	Growth Hormone: Activated Growth Hormone Receptor-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168384	Protein48	
+Complex55	Activated Growth Hormone Receptor:JAK2 dimer	plasma membrane	Reactome DB_ID: 1168387	Complex56	
+Complex56	Activated Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 1168397	Protein58	
+Complex56	Activated Growth Hormone Receptor:JAK2	plasma membrane	Reactome DB_ID: 1168397	Protein45	
+Complex58	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168856	Complex59	
+Complex58	Growth Hormone: Activated Growth Hormone Receptor- p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168856	Protein48	
+Complex59	Activated Growth Hormone Receptor:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1168860	Complex60	
+Complex60	Activated Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1168869	Protein58	
+Complex60	Activated Growth Hormone Receptor:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1168869	Protein59	
+Complex61	PRLR ligands:Activated PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1671683	PhysicalEntity2	
+Complex61	PRLR ligands:Activated PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1671683	Complex62	
+Complex62	Activated PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1364075	Complex63	
+Complex63	Activated PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1364053	Protein56	
+Complex63	Activated PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1364053	Protein59	
+Complex64	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1369125	PhysicalEntity2	
+Complex64	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1369125	Complex65	
+Complex65	p(Y611)-PRLR:p(Y1007)-JAK2 dimer	plasma membrane	Reactome DB_ID: 1977945	Complex66	
+Complex66	p(Y611)-PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1369079	Protein59	
+Complex66	p(Y611)-PRLR:p(Y1007)-JAK2	plasma membrane	Reactome DB_ID: 1369079	Protein60	
+Complex67	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2:STAT5	plasma membrane	Reactome DB_ID: 1369095	Protein61	
+Complex67	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2:STAT5	plasma membrane	Reactome DB_ID: 1369095	Complex64	
+Complex68	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-STAT5	plasma membrane	Reactome DB_ID: 1671696	Complex64	
+Complex68	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-STAT5	plasma membrane	Reactome DB_ID: 1671696	Protein64	
+Complex69	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1369118	Complex64	
+Complex69	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:SHP2	plasma membrane	Reactome DB_ID: 1369118	Protein66	
+Complex7	ERBB4jmAcyt1ECD dimer	extracellular region	Reactome DB_ID: 1251994	Complex8	
+Complex70	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-SHP2	plasma membrane	Reactome DB_ID: 1369127	Complex64	
+Complex70	PRLR ligands:p(Y611)-PRLR:p(Y1007)-JAK2 dimer:p-SHP2	plasma membrane	Reactome DB_ID: 1369127	Protein67	
+Complex71	PRLR ligands:p(S349)- PRLR:JAK2 dimer:SCF beta-TrCP complex	plasma membrane	Reactome DB_ID: 1370498	Complex72	
+Complex72	p(S349)-PRLR:JAK2 dimer	endosome lumen	Reactome DB_ID: 2002375	Complex73	
+Complex73	p(S349)-PRLR:JAK2	endosome lumen	Reactome DB_ID: 2002374	Protein68	
+Complex73	p(S349)-PRLR:JAK2	endosome lumen	Reactome DB_ID: 2002374	Protein69	
+Complex8	NRGs/EGF-like ligands:ERBB4jmAcyt1ECD	extracellular region	Reactome DB_ID: 1251990	Protein12	
+Complex8	NRGs/EGF-like ligands:ERBB4jmAcyt1ECD	extracellular region	Reactome DB_ID: 1251990	PhysicalEntity1	
+Complex9	ERBB4jmAcyt2ECD dimer	extracellular region	Reactome DB_ID: 1251961	Complex10	

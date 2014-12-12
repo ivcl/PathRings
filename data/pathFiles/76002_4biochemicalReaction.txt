@@ -1,0 +1,284 @@
+BiochemicalReaction1	GP1b-IX-V binds 14-3-3-zeta	Complex1	Complex5	
+BiochemicalReaction1	GP1b-IX-V binds 14-3-3-zeta	Complex2	Complex5	
+BiochemicalReaction10	Gi activation by P2Y purinoceptor 12	SmallMolecule4	Complex15	
+BiochemicalReaction10	Gi activation by P2Y purinoceptor 12	Complex14	Complex15	
+BiochemicalReaction10	Gi activation by P2Y purinoceptor 12	Complex14	SmallMolecule6	
+BiochemicalReaction10	Gi activation by P2Y purinoceptor 12	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction100	Exocytosis of platelet dense granule content	SmallMolecule38	SmallMolecule47	
+BiochemicalReaction101	Surface deployment of platelet dense granule membrane components	Protein206	Protein210	
+BiochemicalReaction102	Exocytosis of platelet alpha granule contents	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction103	Surface deployment of platelet alpha granule membrane components	PhysicalEntity5	PhysicalEntity6	
+BiochemicalReaction104	Release of platelet cytosolic components	Protein334	Protein345	
+BiochemicalReaction105	Release of (inferred) platelet cytosolic components	Protein358	Protein363	
+BiochemicalReaction106	Release of platelet secretory granule components	Protein368	Protein372	
+BiochemicalReaction107	Release of Calumenin 	Protein376	Protein377	
+BiochemicalReaction108	Release of 78 kDa glucose-regulated protein	Protein378	Protein379	
+BiochemicalReaction109	Exocytosis of Proactivator polypeptide	Protein380	Protein381	
+BiochemicalReaction11	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex15	SmallMolecule1	
+BiochemicalReaction11	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex15	Complex17	
+BiochemicalReaction11	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex15	Protein12	
+BiochemicalReaction11	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex15	Complex13	
+BiochemicalReaction12	ADP binds to P2Y purinoceptor 1	SmallMolecule1	Complex18	
+BiochemicalReaction12	ADP binds to P2Y purinoceptor 1	Protein37	Complex18	
+BiochemicalReaction13	Activated P2Y purinoceptor 1 binds G-protein Gq	Complex19	Complex21	
+BiochemicalReaction13	Activated P2Y purinoceptor 1 binds G-protein Gq	Complex18	Complex21	
+BiochemicalReaction14	Gq activation by P2Y purinoceptor 1	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction14	Gq activation by P2Y purinoceptor 1	Complex21	SmallMolecule6	
+BiochemicalReaction14	Gq activation by P2Y purinoceptor 1	Complex21	Complex22	
+BiochemicalReaction14	Gq activation by P2Y purinoceptor 1	SmallMolecule4	Complex22	
+BiochemicalReaction15	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex22	SmallMolecule1	
+BiochemicalReaction15	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex22	Protein37	
+BiochemicalReaction15	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex22	Complex24	
+BiochemicalReaction15	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex22	Complex13	
+BiochemicalReaction16	Src activation following P2Y purinoceptor activation	Protein9	Protein10	
+BiochemicalReaction17	P2Y purinoceptor 1 activates MAP kinase p38 alpha	SmallMolecule7	Protein44	
+BiochemicalReaction17	P2Y purinoceptor 1 activates MAP kinase p38 alpha	Protein43	Protein44	
+BiochemicalReaction17	P2Y purinoceptor 1 activates MAP kinase p38 alpha	Protein43	SmallMolecule8	
+BiochemicalReaction17	P2Y purinoceptor 1 activates MAP kinase p38 alpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction18	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein45	Protein46	
+BiochemicalReaction18	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule7	Protein46	
+BiochemicalReaction18	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction18	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein45	SmallMolecule8	
+BiochemicalReaction19	TP receptor can bind thromboxane	SmallMolecule9	Complex25	
+BiochemicalReaction19	TP receptor can bind thromboxane	Protein47	Complex25	
+BiochemicalReaction2	GPIb-IX-V binding to 14-3-3 zeta is reduced by shear stress	Complex5	Complex1	
+BiochemicalReaction2	GPIb-IX-V binding to 14-3-3 zeta is reduced by shear stress	Complex5	Complex2	
+BiochemicalReaction20	Activated TP receptor binds G-proten Gq	Complex19	Complex26	
+BiochemicalReaction20	Activated TP receptor binds G-proten Gq	Complex25	Complex26	
+BiochemicalReaction21	Activated TP receptor binds G-protein  G13	Complex25	Complex29	
+BiochemicalReaction21	Activated TP receptor binds G-protein  G13	Complex27	Complex29	
+BiochemicalReaction22	Gq activation by TP receptor	SmallMolecule4	Complex30	
+BiochemicalReaction22	Gq activation by TP receptor	Complex26	Complex30	
+BiochemicalReaction22	Gq activation by TP receptor	Complex26	SmallMolecule6	
+BiochemicalReaction22	Gq activation by TP receptor	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction23	G13 activation by TP receptor	SmallMolecule4	Complex31	
+BiochemicalReaction23	G13 activation by TP receptor	Complex29	Complex31	
+BiochemicalReaction23	G13 activation by TP receptor	Complex29	SmallMolecule6	
+BiochemicalReaction23	G13 activation by TP receptor	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction24	Dissociation of the TP:Gq complex	Complex30	SmallMolecule9	
+BiochemicalReaction24	Dissociation of the TP:Gq complex	Complex30	Protein47	
+BiochemicalReaction24	Dissociation of the TP:Gq complex	Complex30	Complex24	
+BiochemicalReaction24	Dissociation of the TP:Gq complex	Complex30	Complex13	
+BiochemicalReaction25	Dissociation of the TP:G13 complex	Complex31	SmallMolecule9	
+BiochemicalReaction25	Dissociation of the TP:G13 complex	Complex31	Protein47	
+BiochemicalReaction25	Dissociation of the TP:G13 complex	Complex31	Complex33	
+BiochemicalReaction25	Dissociation of the TP:G13 complex	Complex31	Complex13	
+BiochemicalReaction26	Thrombin-mediated activation of Proteinase-activated receptors	Protein49	Protein53	
+BiochemicalReaction26	Thrombin-mediated activation of Proteinase-activated receptors	Protein49	Protein57	
+BiochemicalReaction27	Thrombin-activated PAR binds G-protein Gq	Protein53	Complex35	
+BiochemicalReaction27	Thrombin-activated PAR binds G-protein Gq	Complex19	Complex35	
+BiochemicalReaction28	Gq activation by PAR	SmallMolecule4	Complex36	
+BiochemicalReaction28	Gq activation by PAR	Complex35	Complex36	
+BiochemicalReaction28	Gq activation by PAR	Complex35	SmallMolecule6	
+BiochemicalReaction28	Gq activation by PAR	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction29	Dissociation of the PAR:Gq complex	Complex36	Protein53	
+BiochemicalReaction29	Dissociation of the PAR:Gq complex	Complex36	Complex24	
+BiochemicalReaction29	Dissociation of the PAR:Gq complex	Complex36	Complex13	
+BiochemicalReaction3	GP1b-IX-V binds filamin	Complex2	Complex6	
+BiochemicalReaction3	GP1b-IX-V binds filamin	Protein7	Complex6	
+BiochemicalReaction30	Thrombin-activated PAR binds G-protein G12/13	Protein53	Complex40	
+BiochemicalReaction30	Thrombin-activated PAR binds G-protein G12/13	Complex37	Complex40	
+BiochemicalReaction31	G12/13 activation by PAR	SmallMolecule4	Complex41	
+BiochemicalReaction31	G12/13 activation by PAR	Complex40	Complex41	
+BiochemicalReaction31	G12/13 activation by PAR	Complex40	SmallMolecule6	
+BiochemicalReaction31	G12/13 activation by PAR	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction32	Dissociation of the PAR:G12/13 complex	Complex41	Protein53	
+BiochemicalReaction32	Dissociation of the PAR:G12/13 complex	Complex41	Complex45	
+BiochemicalReaction32	Dissociation of the PAR:G12/13 complex	Complex41	Complex13	
+BiochemicalReaction33	Activated PAR1 binds Beta-arrestin-1	Protein54	Complex46	
+BiochemicalReaction33	Activated PAR1 binds Beta-arrestin-1	Protein64	Complex46	
+BiochemicalReaction34	Activated PAR1 binds beta-arrestin-2	Protein54	Complex47	
+BiochemicalReaction34	Activated PAR1 binds beta-arrestin-2	Protein65	Complex47	
+BiochemicalReaction35	Beta-arrestin-1 acts as scaffold for a PAR1 signalling complex	Protein9	Complex48	
+BiochemicalReaction35	Beta-arrestin-1 acts as scaffold for a PAR1 signalling complex	Complex46	Complex48	
+BiochemicalReaction35	Beta-arrestin-1 acts as scaffold for a PAR1 signalling complex	Protein66	Complex48	
+BiochemicalReaction36	Beta-arrestin-2 acts as scaffold for a PAR1 signalling complex	Protein9	Complex49	
+BiochemicalReaction36	Beta-arrestin-2 acts as scaffold for a PAR1 signalling complex	Protein66	Complex49	
+BiochemicalReaction36	Beta-arrestin-2 acts as scaffold for a PAR1 signalling complex	Complex47	Complex49	
+BiochemicalReaction37	Activation of beta-arrestin-1-bound Src kinase	Complex48	Complex50	
+BiochemicalReaction38	Src bound to beta-arrestin-2 is not activated	Complex49	Complex49	
+BiochemicalReaction39	Activated Src activates ERK	Complex50	Complex51	
+BiochemicalReaction4	GP1b-IX-V:13-3-3-zeta complexes with p85 PI3K	Complex5	Complex7	
+BiochemicalReaction4	GP1b-IX-V:13-3-3-zeta complexes with p85 PI3K	Protein8	Complex7	
+BiochemicalReaction40	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	Complex52	Complex56	
+BiochemicalReaction40	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	SmallMolecule7	Complex56	
+BiochemicalReaction40	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction40	Fyn/Lyn-mediated phosphorylation of FcR1 gamma	Complex52	SmallMolecule8	
+BiochemicalReaction41	Binding of Syk tyrosine kinase	Complex56	Complex59	
+BiochemicalReaction41	Binding of Syk tyrosine kinase	Protein78	Complex59	
+BiochemicalReaction42	Syk autophosphorylates	Complex59	SmallMolecule8	
+BiochemicalReaction42	Syk autophosphorylates	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction42	Syk autophosphorylates	SmallMolecule7	Complex60	
+BiochemicalReaction42	Syk autophosphorylates	Complex59	Complex60	
+BiochemicalReaction43	Syk is released	Complex60	Complex56	
+BiochemicalReaction43	Syk is released	Complex60	Protein79	
+BiochemicalReaction44	Syk binds Vav	Protein80	Complex61	
+BiochemicalReaction44	Syk binds Vav	Protein79	Complex61	
+BiochemicalReaction45	Syk phosphorylates Vav	Complex61	Complex62	
+BiochemicalReaction46	VAV1 is a GEF for Rho/Rac family kinases	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction46	VAV1 is a GEF for Rho/Rac family kinases	Complex63	SmallMolecule6	
+BiochemicalReaction46	VAV1 is a GEF for Rho/Rac family kinases	Complex63	Complex64	
+BiochemicalReaction46	VAV1 is a GEF for Rho/Rac family kinases	SmallMolecule4	Complex64	
+BiochemicalReaction47	VAV2 is a GEF for Rho/Rac family kinases	SmallMolecule4	Complex66	
+BiochemicalReaction47	VAV2 is a GEF for Rho/Rac family kinases	Complex65	Complex66	
+BiochemicalReaction47	VAV2 is a GEF for Rho/Rac family kinases	Complex65	SmallMolecule6	
+BiochemicalReaction47	VAV2 is a GEF for Rho/Rac family kinases	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction48	VAV3 is a GEF for Rho/Rac family kinases	SmallMolecule4	Complex68	
+BiochemicalReaction48	VAV3 is a GEF for Rho/Rac family kinases	Complex67	Complex68	
+BiochemicalReaction48	VAV3 is a GEF for Rho/Rac family kinases	Complex67	SmallMolecule6	
+BiochemicalReaction48	VAV3 is a GEF for Rho/Rac family kinases	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction49	Syk/Lck phosphorylate LAT	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction49	Syk/Lck phosphorylate LAT	Protein97	SmallMolecule8	
+BiochemicalReaction49	Syk/Lck phosphorylate LAT	Protein97	Protein98	
+BiochemicalReaction49	Syk/Lck phosphorylate LAT	SmallMolecule7	Protein98	
+BiochemicalReaction5	GP1b signaling involves c-Src	Protein9	Protein10	
+BiochemicalReaction5	GP1b signaling involves c-Src	Complex2	Protein10	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	Protein78	Protein102	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	SmallMolecule7	Protein102	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	Protein101	Protein102	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	Protein101	SmallMolecule8	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	Protein78	SmallMolecule8	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	Protein101	Protein78	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	SmallMolecule7	Protein78	
+BiochemicalReaction50	Syk activation leads to SLP-76 activation	Protein78	Protein78	
+BiochemicalReaction51	SLP-76 stimulates PLC gamma 2	Protein102	Protein102	
+BiochemicalReaction51	SLP-76 stimulates PLC gamma 2	Protein103	Protein102	
+BiochemicalReaction51	SLP-76 stimulates PLC gamma 2	Protein103	Protein104	
+BiochemicalReaction51	SLP-76 stimulates PLC gamma 2	Protein102	Protein104	
+BiochemicalReaction52	p-SLP-76 binds VAV	Protein102	Complex69	
+BiochemicalReaction52	p-SLP-76 binds VAV	Protein105	Complex69	
+BiochemicalReaction53	PLC gamma 2-mediated PIP2 hydrolysis	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction53	PLC gamma 2-mediated PIP2 hydrolysis	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction54	PIP3 stimulates Vav	Protein80	Complex70	
+BiochemicalReaction54	PIP3 stimulates Vav	SmallMolecule14	Complex70	
+BiochemicalReaction55	PIP2 inhibits Vav	SmallMolecule11	Complex71	
+BiochemicalReaction55	PIP2 inhibits Vav	Protein80	Complex71	
+BiochemicalReaction56	GPVI stimulates PI3K beta, gamma	Complex59	Complex72	
+BiochemicalReaction56	GPVI stimulates PI3K beta, gamma	Complex59	Complex73	
+BiochemicalReaction57	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule11	SmallMolecule8	
+BiochemicalReaction57	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction57	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule7	SmallMolecule14	
+BiochemicalReaction57	PI3K alpha, beta, gamma convert PIP2 to PIP3	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction58	PIP3 recruits PDK1 and AKT to the membrane	Protein115	Complex76	
+BiochemicalReaction58	PIP3 recruits PDK1 and AKT to the membrane	Protein116	Complex76	
+BiochemicalReaction58	PIP3 recruits PDK1 and AKT to the membrane	SmallMolecule14	Complex76	
+BiochemicalReaction59	PDK1 binds PKC zeta	Complex76	Complex77	
+BiochemicalReaction59	PDK1 binds PKC zeta	Protein125	Complex77	
+BiochemicalReaction6	c-Src binds Raf1	Protein11	Complex8	
+BiochemicalReaction6	c-Src binds Raf1	Protein10	Complex8	
+BiochemicalReaction60	PDK1 activates PKC zeta	Complex77	Complex78	
+BiochemicalReaction60	PDK1 activates PKC zeta	SmallMolecule7	Complex78	
+BiochemicalReaction60	PDK1 activates PKC zeta	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction60	PDK1 activates PKC zeta	Complex77	SmallMolecule8	
+BiochemicalReaction61	Activation of Rap1 by cytosolic GEFs	SmallMolecule4	Complex80	
+BiochemicalReaction61	Activation of Rap1 by cytosolic GEFs	Complex79	Complex80	
+BiochemicalReaction61	Activation of Rap1 by cytosolic GEFs	Complex79	SmallMolecule6	
+BiochemicalReaction61	Activation of Rap1 by cytosolic GEFs	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction62	Activation of Rap1 by membrane-associated GEFs	SmallMolecule4	Complex80	
+BiochemicalReaction62	Activation of Rap1 by membrane-associated GEFs	Complex79	Complex80	
+BiochemicalReaction62	Activation of Rap1 by membrane-associated GEFs	Complex79	SmallMolecule6	
+BiochemicalReaction62	Activation of Rap1 by membrane-associated GEFs	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction63	Translocation of RIAM to plasma membrane	SmallMolecule11	Complex81	
+BiochemicalReaction63	Translocation of RIAM to plasma membrane	Complex80	Complex81	
+BiochemicalReaction63	Translocation of RIAM to plasma membrane	Protein136	Complex81	
+BiochemicalReaction64	Activation of Talin	Complex81	Complex82	
+BiochemicalReaction64	Activation of Talin	Protein137	Complex82	
+BiochemicalReaction65	Integrin alphaIIb beta3 activation	Complex82	Complex86	
+BiochemicalReaction65	Integrin alphaIIb beta3 activation	Complex83	Complex86	
+BiochemicalReaction66	Interaction of integrin alphaIIb beta3 with Fibrinogen	SmallMolecule15	Complex88	
+BiochemicalReaction66	Interaction of integrin alphaIIb beta3 with Fibrinogen	PhysicalEntity2	Complex88	
+BiochemicalReaction66	Interaction of integrin alphaIIb beta3 with Fibrinogen	Complex86	Complex88	
+BiochemicalReaction67	Clustering of Integrin alphaIIb beta3 complexes	Complex88	Complex89	
+BiochemicalReaction67	Clustering of Integrin alphaIIb beta3 complexes	Complex83	Complex89	
+BiochemicalReaction68	Release of CSK from SRC	Complex89	Complex90	
+BiochemicalReaction68	Release of CSK from SRC	Complex89	Protein138	
+BiochemicalReaction69	Dephosphorylation of inactive SRC by PTPB1	Complex90	SmallMolecule19	
+BiochemicalReaction69	Dephosphorylation of inactive SRC by PTPB1	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction69	Dephosphorylation of inactive SRC by PTPB1	SmallMolecule18	Complex92	
+BiochemicalReaction69	Dephosphorylation of inactive SRC by PTPB1	Complex90	Complex92	
+BiochemicalReaction7	14-3-3-zeta binds Raf1	Complex1	Complex9	
+BiochemicalReaction7	14-3-3-zeta binds Raf1	Protein11	Complex9	
+BiochemicalReaction70	Autophosphorylation of SRC	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction70	Autophosphorylation of SRC	Complex92	SmallMolecule8	
+BiochemicalReaction70	Autophosphorylation of SRC	Complex92	Complex94	
+BiochemicalReaction70	Autophosphorylation of SRC	SmallMolecule7	Complex94	
+BiochemicalReaction71	Translocation of FADK1 to Focal complexes	Complex94	Complex96	
+BiochemicalReaction71	Translocation of FADK1 to Focal complexes	Protein147	Complex96	
+BiochemicalReaction72	Autophosphorylation of FADK1 at Y397	SmallMolecule7	Complex97	
+BiochemicalReaction72	Autophosphorylation of FADK1 at Y397	Complex96	Complex97	
+BiochemicalReaction72	Autophosphorylation of FADK1 at Y397	Complex96	SmallMolecule8	
+BiochemicalReaction72	Autophosphorylation of FADK1 at Y397	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction73	Phosphorylation of pFADK1 by SRC	Complex97	SmallMolecule8	
+BiochemicalReaction73	Phosphorylation of pFADK1 by SRC	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction73	Phosphorylation of pFADK1 by SRC	SmallMolecule7	Complex98	
+BiochemicalReaction73	Phosphorylation of pFADK1 by SRC	Complex97	Complex98	
+BiochemicalReaction74	Recruitment of GRB2 to p-FADK1	Protein150	Complex99	
+BiochemicalReaction74	Recruitment of GRB2 to p-FADK1	Complex98	Complex99	
+BiochemicalReaction75	Interaction of SOS with GRB2 bound to FADK1	Protein151	Complex100	
+BiochemicalReaction75	Interaction of SOS with GRB2 bound to FADK1	Complex99	Complex100	
+BiochemicalReaction76	Recruitment of p130Cas to FADK1	Protein152	Complex101	
+BiochemicalReaction76	Recruitment of p130Cas to FADK1	Complex98	Complex101	
+BiochemicalReaction77	Phosphorylation of p130Cas by SRC-FADK1 complex	Complex101	Complex102	
+BiochemicalReaction77	Phosphorylation of p130Cas by SRC-FADK1 complex	SmallMolecule7	Complex102	
+BiochemicalReaction77	Phosphorylation of p130Cas by SRC-FADK1 complex	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction77	Phosphorylation of p130Cas by SRC-FADK1 complex	Complex101	SmallMolecule8	
+BiochemicalReaction78	Crk binding to p130cas	Complex102	Complex103	
+BiochemicalReaction78	Crk binding to p130cas	Protein154	Complex103	
+BiochemicalReaction79	Integrin alpha IIb beta3 T779 phosphorylation blocks SHC binding	Complex85	Complex104	
+BiochemicalReaction8	ADP binds to P2Y purinoceptor 12	SmallMolecule1	Complex10	
+BiochemicalReaction8	ADP binds to P2Y purinoceptor 12	Protein12	Complex10	
+BiochemicalReaction80	Activated integrin alphaIIb beta3 binds SHC1	Complex86	Complex105	
+BiochemicalReaction80	Activated integrin alphaIIb beta3 binds SHC1	Protein158	Complex105	
+BiochemicalReaction81	SHC1 bound to integrin alphaIIb beta3 is phosphorylated somehow	Complex105	Complex106	
+BiochemicalReaction82	SHC1 dissociates from integrin alphaIIb beta3	Complex106	Protein159	
+BiochemicalReaction82	SHC1 dissociates from integrin alphaIIb beta3	Complex106	Complex86	
+BiochemicalReaction83	SYK binds to integrin alphaIIb beta3	Complex94	Complex107	
+BiochemicalReaction83	SYK binds to integrin alphaIIb beta3	Protein78	Complex107	
+BiochemicalReaction84	SYK activation by SRC	Complex107	SmallMolecule8	
+BiochemicalReaction84	SYK activation by SRC	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction84	SYK activation by SRC	SmallMolecule7	Complex108	
+BiochemicalReaction84	SYK activation by SRC	Complex107	Complex108	
+BiochemicalReaction85	Alpha-2 adrenoceptors bind catecholamines	SmallMolecule20	Complex109	
+BiochemicalReaction85	Alpha-2 adrenoceptors bind catecholamines	Protein161	Complex109	
+BiochemicalReaction86	Thrombin binding to GP1b:IX:V	Complex3	Complex110	
+BiochemicalReaction86	Thrombin binding to GP1b:IX:V	Complex34	Complex110	
+BiochemicalReaction87	Thrombopoietin binds the thrombopoietin receptor	Protein165	Complex111	
+BiochemicalReaction87	Thrombopoietin binds the thrombopoietin receptor	Protein166	Complex111	
+BiochemicalReaction88	Binding of IP3 to IP3 receptor	SmallMolecule12	Complex113	
+BiochemicalReaction88	Binding of IP3 to IP3 receptor	Complex112	Complex113	
+BiochemicalReaction89	Transport of Ca++ from platelet dense tubular system to cytoplasm	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction9	Activated P2Y purinoceptor 12 binds G-protein Gi	Complex11	Complex14	
+BiochemicalReaction9	Activated P2Y purinoceptor 12 binds G-protein Gi	Complex10	Complex14	
+BiochemicalReaction90	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule13	Complex114	
+BiochemicalReaction90	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	SmallMolecule26	Complex114	
+BiochemicalReaction90	Calcium and Diacylglycerol activate CalDAG-GEFs (RasGRPs)	Protein130	Complex114	
+BiochemicalReaction91	Activation of Protein Kinase C novel isoforms	Protein171	Complex115	
+BiochemicalReaction91	Activation of Protein Kinase C novel isoforms	SmallMolecule13	Complex115	
+BiochemicalReaction92	DAG activation of TRPC channels	Protein176	Complex116	
+BiochemicalReaction92	DAG activation of TRPC channels	SmallMolecule13	Complex116	
+BiochemicalReaction93	DAG is metabolized by DAGL to 2-AG	SmallMolecule13	SmallMolecule27	
+BiochemicalReaction93	DAG is metabolized by DAGL to 2-AG	SmallMolecule13	SmallMolecule28	
+BiochemicalReaction94	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction94	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule18	SmallMolecule29	
+BiochemicalReaction94	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction94	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule28	SmallMolecule30	
+BiochemicalReaction94	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule18	SmallMolecule31	
+BiochemicalReaction94	2-AG hydrolysis to arachidonate by MAGL	SmallMolecule28	SmallMolecule31	
+BiochemicalReaction95	DAG kinase produces phosphatidic acid from DAG	SmallMolecule13	SmallMolecule8	
+BiochemicalReaction95	DAG kinase produces phosphatidic acid from DAG	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction95	DAG kinase produces phosphatidic acid from DAG	SmallMolecule7	SmallMolecule32	
+BiochemicalReaction95	DAG kinase produces phosphatidic acid from DAG	SmallMolecule13	SmallMolecule32	
+BiochemicalReaction96	Activation of conventional Protein Kinase C	SmallMolecule13	Complex117	
+BiochemicalReaction96	Activation of conventional Protein Kinase C	SmallMolecule33	Complex117	
+BiochemicalReaction96	Activation of conventional Protein Kinase C	SmallMolecule26	Complex117	
+BiochemicalReaction96	Activation of conventional Protein Kinase C	Protein195	Complex117	
+BiochemicalReaction97	Phosphorylation of Platelet Sec-1	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction97	Phosphorylation of Platelet Sec-1	Protein201	SmallMolecule8	
+BiochemicalReaction97	Phosphorylation of Platelet Sec-1	Protein201	Protein202	
+BiochemicalReaction97	Phosphorylation of Platelet Sec-1	SmallMolecule7	Protein202	
+BiochemicalReaction98	Phosphorylation of Syntaxin-4	Protein203	SmallMolecule8	
+BiochemicalReaction98	Phosphorylation of Syntaxin-4	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction98	Phosphorylation of Syntaxin-4	SmallMolecule7	Protein204	
+BiochemicalReaction98	Phosphorylation of Syntaxin-4	Protein203	Protein204	
+BiochemicalReaction99	ABCC4 accumulation of dense granule contents	SmallMolecule35	SmallMolecule36	

@@ -1,0 +1,45 @@
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	Protein1	Protein2	
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of cPLA2 by ERK-2	Protein1	SmallMolecule2	
+BiochemicalReaction10	Calmodulin binds CaMK IV	Complex2	Complex8	
+BiochemicalReaction10	Calmodulin binds CaMK IV	Protein30	Complex8	
+BiochemicalReaction11	CamKIV enters the nucleus	Complex8	Complex9	
+BiochemicalReaction12	CaMK IV autophosphorylation	Complex9	Complex11	
+BiochemicalReaction12	CaMK IV autophosphorylation	SmallMolecule12	Complex11	
+BiochemicalReaction12	CaMK IV autophosphorylation	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction12	CaMK IV autophosphorylation	Complex9	SmallMolecule13	
+BiochemicalReaction13	CaMK IV phosphorylates CREB	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction13	CaMK IV phosphorylates CREB	Protein28	SmallMolecule13	
+BiochemicalReaction13	CaMK IV phosphorylates CREB	Protein28	Protein29	
+BiochemicalReaction13	CaMK IV phosphorylates CREB	SmallMolecule12	Protein29	
+BiochemicalReaction14	Calmodulin activates Cam-PDE 1	Complex13	Complex17	
+BiochemicalReaction15	cAMP hydrolysis by Cam-PDE 1	SmallMolecule9	SmallMolecule15	
+BiochemicalReaction15	cAMP hydrolysis by Cam-PDE 1	SmallMolecule6	SmallMolecule15	
+BiochemicalReaction16	Inhibition of GRK2 by calmodulin	Protein37	Complex18	
+BiochemicalReaction16	Inhibition of GRK2 by calmodulin	Protein4	Complex18	
+BiochemicalReaction17	PKC phosphorylates GRK2	Protein37	SmallMolecule2	
+BiochemicalReaction17	PKC phosphorylates GRK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	PKC phosphorylates GRK2	SmallMolecule1	Protein38	
+BiochemicalReaction17	PKC phosphorylates GRK2	Protein37	Protein38	
+BiochemicalReaction2	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	Protein2	Complex1	
+BiochemicalReaction2	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	SmallMolecule3	Complex1	
+BiochemicalReaction2	Phospho-cPLA2 translocates to membranes when intracellular calcium levels increase	SmallMolecule4	Complex1	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction3	Hydrolysis of phosphatidylcholine	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction4	Calcium binds calmodulin	SmallMolecule4	Complex2	
+BiochemicalReaction4	Calcium binds calmodulin	Protein4	Complex2	
+BiochemicalReaction5	Adenylate cyclase produces cAMP	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction5	Adenylate cyclase produces cAMP	SmallMolecule1	SmallMolecule10	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	Complex5	Protein20	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule9	Protein20	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule9	Complex6	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	Complex5	Complex6	
+BiochemicalReaction7	PKA catalytic subunit translocates to the nucleus	Protein20	Protein24	
+BiochemicalReaction8	PKA phosphorylates CREB	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction8	PKA phosphorylates CREB	Protein28	SmallMolecule13	
+BiochemicalReaction8	PKA phosphorylates CREB	Protein28	Protein29	
+BiochemicalReaction8	PKA phosphorylates CREB	SmallMolecule12	Protein29	
+BiochemicalReaction9	Dimerisation of CREB	Protein29	Complex7	

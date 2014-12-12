@@ -1,0 +1,46 @@
+Complex1	Dimeric BMP2	extracellular region	Reactome DB_ID: 201463	Protein7	
+Complex10	I-SMAD:SMURF	cytosol	Reactome DB_ID: 178185	Protein23	
+Complex10	I-SMAD:SMURF	cytosol	Reactome DB_ID: 178185	Protein26	
+Complex11	BMP:p-BMPR:I-SMAD:SMURF	plasma membrane	Reactome DB_ID: 201841	Complex10	
+Complex11	BMP:p-BMPR:I-SMAD:SMURF	plasma membrane	Reactome DB_ID: 201841	Complex3	
+Complex11	BMP:p-BMPR:I-SMAD:SMURF	plasma membrane	Reactome DB_ID: 201841	Complex1	
+Complex11	BMP:p-BMPR:I-SMAD:SMURF	plasma membrane	Reactome DB_ID: 201841	Complex8	
+Complex12	BMP:p-BMPR:Endofin:p-2S-SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201467	Protein29	
+Complex12	BMP:p-BMPR:Endofin:p-2S-SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201467	Complex3	
+Complex12	BMP:p-BMPR:Endofin:p-2S-SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201467	Complex1	
+Complex12	BMP:p-BMPR:Endofin:p-2S-SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201467	Protein18	
+Complex12	BMP:p-BMPR:Endofin:p-2S-SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201467	Complex8	
+Complex13	BMP:p-BMPR:Endofin	early endosome membrane	Reactome DB_ID: 201647	Complex3	
+Complex13	BMP:p-BMPR:Endofin	early endosome membrane	Reactome DB_ID: 201647	Complex1	
+Complex13	BMP:p-BMPR:Endofin	early endosome membrane	Reactome DB_ID: 201647	Protein18	
+Complex13	BMP:p-BMPR:Endofin	early endosome membrane	Reactome DB_ID: 201647	Complex8	
+Complex14	I-SMAD:p-2S-SMAD1/5/8	cytosol	Reactome DB_ID: 202644	Protein29	
+Complex14	I-SMAD:p-2S-SMAD1/5/8	cytosol	Reactome DB_ID: 202644	Protein26	
+Complex15	p-2S-SMAD1/5/8:SMAD4	cytosol	Reactome DB_ID: 201419	Protein33	
+Complex15	p-2S-SMAD1/5/8:SMAD4	cytosol	Reactome DB_ID: 201419	Protein29	
+Complex16	p-2S-SMAD1/5/8:SMAD4	nucleoplasm	Reactome DB_ID: 201450	Protein34	
+Complex16	p-2S-SMAD1/5/8:SMAD4	nucleoplasm	Reactome DB_ID: 201450	Protein38	
+Complex17	p-2S-SMAD1/5/8:SMAD4:SKI	nucleoplasm	Reactome DB_ID: 201427	Protein34	
+Complex17	p-2S-SMAD1/5/8:SMAD4:SKI	nucleoplasm	Reactome DB_ID: 201427	Protein38	
+Complex17	p-2S-SMAD1/5/8:SMAD4:SKI	nucleoplasm	Reactome DB_ID: 201427	Protein42	
+Complex18	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD	plasma membrane	Reactome DB_ID: 201446	Protein26	
+Complex18	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD	plasma membrane	Reactome DB_ID: 201446	Complex3	
+Complex18	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD	plasma membrane	Reactome DB_ID: 201446	Complex1	
+Complex18	BMP2:BMP type II receptor:Phospho-BMP type I receptor:I-SMAD	plasma membrane	Reactome DB_ID: 201446	Complex8	
+Complex2	Ligand Trap:BMP2	extracellular region	Reactome DB_ID: 201806	Protein1	
+Complex2	Ligand Trap:BMP2	extracellular region	Reactome DB_ID: 201806	Complex1	
+Complex3	BMPRII dimer	plasma membrane	Reactome DB_ID: 201465	Protein8	
+Complex4	BMPRI dimer	plasma membrane	Reactome DB_ID: 201428	Protein12	
+Complex5	BMPRII:BMPRI	plasma membrane	Reactome DB_ID: 202640	Complex3	
+Complex5	BMPRII:BMPRI	plasma membrane	Reactome DB_ID: 202640	Complex4	
+Complex6	BMP:BMPR	plasma membrane	Reactome DB_ID: 201459	Complex5	
+Complex6	BMP:BMPR	plasma membrane	Reactome DB_ID: 201459	Complex1	
+Complex7	BMP:BMPRII:P-BMPRI	plasma membrane	Reactome DB_ID: 201426	Complex3	
+Complex7	BMP:BMPRII:P-BMPRI	plasma membrane	Reactome DB_ID: 201426	Complex1	
+Complex7	BMP:BMPRII:P-BMPRI	plasma membrane	Reactome DB_ID: 201426	Complex8	
+Complex8	p-4S-BMPRI dimer	plasma membrane	Reactome DB_ID: 201447	Protein15	
+Complex9	BMP:p-BMPR:Endofin:SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201477	Complex3	
+Complex9	BMP:p-BMPR:Endofin:SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201477	Complex1	
+Complex9	BMP:p-BMPR:Endofin:SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201477	Protein18	
+Complex9	BMP:p-BMPR:Endofin:SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201477	Protein19	
+Complex9	BMP:p-BMPR:Endofin:SMAD1/5/8	early endosome membrane	Reactome DB_ID: 201477	Complex8	

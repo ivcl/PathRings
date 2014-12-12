@@ -1,0 +1,156 @@
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Protein1	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex2	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex3	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex4	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex5	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	PhysicalEntity1	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex7	
+BiochemicalReaction10	Resumption of elongation after recovery from pausing	Complex18	Complex21	
+BiochemicalReaction11	2-4 nt.backtracking of Pol II complex on the template leading to elongation pausing	Complex21	Complex18	
+BiochemicalReaction12	7-14 nt. Backtracking of Pol II complex on the template leading to elongation arrest	Complex21	Complex22	
+BiochemicalReaction13	TFIIS-mediated recovery of elongation from arrest	Complex22	Complex21	
+BiochemicalReaction14	Abortive termination of early transcription elongation by DSIF:NELF	Complex23	Complex28	
+BiochemicalReaction15	Abortive termination of elongation after arrest	Complex22	Complex29	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	PhysicalEntity6	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex20	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex8	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex16	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex15	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Protein56	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex14	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Protein57	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	SmallMolecule1	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Protein58	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex17	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex12	
+BiochemicalReaction17	Fall Back to Closed Pre-initiation Complex	Complex30	Complex31	
+BiochemicalReaction18	Recognition and Binding of Core Promoter Elements by TFIID	Complex3	Complex34	
+BiochemicalReaction18	Recognition and Binding of Core Promoter Elements by TFIID	PhysicalEntity8	Complex34	
+BiochemicalReaction19	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Protein1	Complex33	
+BiochemicalReaction19	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Complex34	Complex33	
+BiochemicalReaction19	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Complex4	Complex33	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	Complex2	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	PhysicalEntity2	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	Complex5	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	Complex7	
+BiochemicalReaction20	Recruitment of RNA Polymerase II Holoenzyme by TFIIF to the pol II promoter:TFIID:TFIIA:TFIIB complex	Complex33	Complex32	
+BiochemicalReaction20	Recruitment of RNA Polymerase II Holoenzyme by TFIIF to the pol II promoter:TFIID:TFIIA:TFIIB complex	Complex7	Complex32	
+BiochemicalReaction21	Binding of TFIIE to the growing preinitiation complex	Complex2	Complex35	
+BiochemicalReaction21	Binding of TFIIE to the growing preinitiation complex	Complex32	Complex35	
+BiochemicalReaction22	Formation of the closed pre-initiation complex	Complex5	Complex31	
+BiochemicalReaction22	Formation of the closed pre-initiation complex	Complex35	Complex31	
+BiochemicalReaction23	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction23	RNA Polymerase II Promoter Opening: First Transition	Complex31	SmallMolecule6	
+BiochemicalReaction23	RNA Polymerase II Promoter Opening: First Transition	Complex31	SmallMolecule7	
+BiochemicalReaction23	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction23	RNA Polymerase II Promoter Opening: First Transition	Complex31	Complex30	
+BiochemicalReaction23	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule2	Complex30	
+BiochemicalReaction24	NTP Binds Active Site of RNA Polymerase II	Complex30	Complex36	
+BiochemicalReaction24	NTP Binds Active Site of RNA Polymerase II	SmallMolecule1	Complex36	
+BiochemicalReaction25	Nucleophillic Attack by 3'-hydroxyl Oxygen of nascent transcript on the Alpha Phosphate of NTP	Complex36	Complex38	
+BiochemicalReaction26	Newly Formed Phosphodiester Bond Stabilized and PPi Released	Complex38	Complex1	
+BiochemicalReaction26	Newly Formed Phosphodiester Bond Stabilized and PPi Released	Complex38	SmallMolecule8	
+BiochemicalReaction27	Addition of the third nucleotide on the nascent transcript	Complex1	SmallMolecule8	
+BiochemicalReaction27	Addition of the third nucleotide on the nascent transcript	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction27	Addition of the third nucleotide on the nascent transcript	SmallMolecule1	Complex39	
+BiochemicalReaction27	Addition of the third nucleotide on the nascent transcript	Complex1	Complex39	
+BiochemicalReaction28	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule1	Protein1	
+BiochemicalReaction28	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex39	Protein1	
+BiochemicalReaction28	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex39	Complex40	
+BiochemicalReaction28	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule1	Complex40	
+BiochemicalReaction28	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex39	SmallMolecule8	
+BiochemicalReaction28	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule1	Complex41	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex40	Complex41	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex40	Complex2	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule1	Complex2	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex40	Complex3	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule1	Complex3	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex40	Complex4	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule1	Complex4	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex40	SmallMolecule8	
+BiochemicalReaction29	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Protein1	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex2	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex3	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex4	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex5	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	PhysicalEntity3	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex7	
+BiochemicalReaction30	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	Complex41	Complex42	
+BiochemicalReaction30	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	SmallMolecule1	Complex42	
+BiochemicalReaction30	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction30	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	Complex41	SmallMolecule8	
+BiochemicalReaction31	Addition of nucleotides between position +11 and +30	Complex42	Complex43	
+BiochemicalReaction31	Addition of nucleotides between position +11 and +30	SmallMolecule1	Complex43	
+BiochemicalReaction31	Addition of nucleotides between position +11 and +30	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction31	Addition of nucleotides between position +11 and +30	Complex42	SmallMolecule8	
+BiochemicalReaction32	Extrusion of 5'-end of 30 nt long transcript through the pore in Pol II complex	Complex43	Complex44	
+BiochemicalReaction33	Phosphorylation (Ser5) of RNA pol II CTD	Complex44	Complex45	
+BiochemicalReaction34	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex45	Complex48	
+BiochemicalReaction34	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein62	Complex48	
+BiochemicalReaction35	Activation of GT	Complex48	Complex49	
+BiochemicalReaction36	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein41	Complex50	
+BiochemicalReaction36	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein63	Complex50	
+BiochemicalReaction36	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex49	Complex50	
+BiochemicalReaction37	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex51	Complex25	
+BiochemicalReaction37	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein56	Complex25	
+BiochemicalReaction37	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex5	Complex25	
+BiochemicalReaction37	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex5	Complex5	
+BiochemicalReaction37	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein56	Complex5	
+BiochemicalReaction37	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex51	Complex5	
+BiochemicalReaction38	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex25	Complex24	
+BiochemicalReaction38	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex12	Complex24	
+BiochemicalReaction39	Formation of DSIF:NELF:early elongation complex	Complex15	Complex23	
+BiochemicalReaction39	Formation of DSIF:NELF:early elongation complex	SmallMolecule1	Complex23	
+BiochemicalReaction39	Formation of DSIF:NELF:early elongation complex	Complex24	Complex23	
+BiochemicalReaction39	Formation of DSIF:NELF:early elongation complex	Complex24	SmallMolecule1	
+BiochemicalReaction39	Formation of DSIF:NELF:early elongation complex	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction39	Formation of DSIF:NELF:early elongation complex	Complex15	SmallMolecule1	
+BiochemicalReaction4	Formation of DSIF complex 	Protein41	Complex12	
+BiochemicalReaction4	Formation of DSIF complex 	Protein42	Complex12	
+BiochemicalReaction40	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex16	Complex27	
+BiochemicalReaction40	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex23	Complex27	
+BiochemicalReaction40	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex23	Complex53	
+BiochemicalReaction40	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex16	Complex53	
+BiochemicalReaction41	Recruitment of elongation factors to form elongation complex	Complex14	Complex54	
+BiochemicalReaction41	Recruitment of elongation factors to form elongation complex	Protein57	Complex54	
+BiochemicalReaction41	Recruitment of elongation factors to form elongation complex	Complex53	Complex54	
+BiochemicalReaction41	Recruitment of elongation factors to form elongation complex	Complex5	Complex54	
+BiochemicalReaction41	Recruitment of elongation factors to form elongation complex	Complex17	Complex54	
+BiochemicalReaction41	Recruitment of elongation factors to form elongation complex	Protein58	Complex54	
+BiochemicalReaction42	Addition of nucleotides leads to transcript elongation	SmallMolecule1	Complex21	
+BiochemicalReaction42	Addition of nucleotides leads to transcript elongation	Complex54	Complex21	
+BiochemicalReaction42	Addition of nucleotides leads to transcript elongation	Complex54	Complex5	
+BiochemicalReaction42	Addition of nucleotides leads to transcript elongation	SmallMolecule1	Complex5	
+BiochemicalReaction43	Pol II elongation complex moves on the template as transcript elongates	Complex21	Complex55	
+BiochemicalReaction43	Pol II elongation complex moves on the template as transcript elongates	SmallMolecule1	Complex55	
+BiochemicalReaction43	Pol II elongation complex moves on the template as transcript elongates	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction43	Pol II elongation complex moves on the template as transcript elongates	Complex21	SmallMolecule1	
+BiochemicalReaction44	Separation of elongating transcript from template	Complex55	Complex56	
+BiochemicalReaction45	Cleavage of mRNA at the 3'-end	Complex57	Complex60	
+BiochemicalReaction45	Cleavage of mRNA at the 3'-end	Complex57	Complex59	
+BiochemicalReaction45	Cleavage of mRNA at the 3'-end	Complex57	Complex61	
+BiochemicalReaction45	Cleavage of mRNA at the 3'-end	Complex57	Complex66	
+BiochemicalReaction46	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex68	Complex69	
+BiochemicalReaction46	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex68	Complex73	
+BiochemicalReaction47	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex74	Complex75	
+BiochemicalReaction47	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex74	Complex69	
+BiochemicalReaction48	Cleavage of Intronless Pre-mRNA at 3'-end	Complex76	Complex60	
+BiochemicalReaction48	Cleavage of Intronless Pre-mRNA at 3'-end	Complex76	Complex59	
+BiochemicalReaction48	Cleavage of Intronless Pre-mRNA at 3'-end	Complex76	Complex61	
+BiochemicalReaction48	Cleavage of Intronless Pre-mRNA at 3'-end	Complex76	Complex80	
+BiochemicalReaction48	Cleavage of Intronless Pre-mRNA at 3'-end	Complex76	PhysicalEntity34	
+BiochemicalReaction5	Formation of Elongin BC complex	Protein43	Complex13	
+BiochemicalReaction5	Formation of Elongin BC complex	Protein44	Complex13	
+BiochemicalReaction6	Formation of FACT complex	Protein45	Complex14	
+BiochemicalReaction6	Formation of FACT complex	Protein46	Complex14	
+BiochemicalReaction7	Formation of NELF complex 	Protein47	Complex15	
+BiochemicalReaction7	Formation of NELF complex 	Protein48	Complex15	
+BiochemicalReaction7	Formation of NELF complex 	Protein49	Complex15	
+BiochemicalReaction7	Formation of NELF complex 	Protein50	Complex15	
+BiochemicalReaction8	Formation of P-TEFb complex	Protein51	Complex16	
+BiochemicalReaction8	Formation of P-TEFb complex	Protein52	Complex16	
+BiochemicalReaction8	Formation of P-TEFb complex	Protein53	Complex16	
+BiochemicalReaction9	Formation of elongin complex	Protein54	Complex17	
+BiochemicalReaction9	Formation of elongin complex	Complex13	Complex17	

@@ -1,0 +1,12 @@
+BiochemicalReaction1	SMAC binds XIAP:Caspase-3	Complex1	Complex3	
+BiochemicalReaction1	SMAC binds XIAP:Caspase-3	Protein4	Complex3	
+BiochemicalReaction2	SMAC binds XIAP:Caspase-7	Complex4	Complex6	
+BiochemicalReaction2	SMAC binds XIAP:Caspase-7	Protein4	Complex6	
+BiochemicalReaction3	SMAC binds XIAP:Caspase-9	Protein4	Complex9	
+BiochemicalReaction3	SMAC binds XIAP:Caspase-9	Complex7	Complex9	
+BiochemicalReaction4	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex3	Complex2	
+BiochemicalReaction4	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex3	Complex10	
+BiochemicalReaction5	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex6	Complex5	
+BiochemicalReaction5	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex6	Complex10	
+BiochemicalReaction6	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex9	Complex8	
+BiochemicalReaction6	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex9	Complex10	

@@ -1,0 +1,25 @@
+BiochemicalReaction1	CPT1 converts palmitoyl-CoA to palmitoyl carnitine	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	CPT1 converts palmitoyl-CoA to palmitoyl carnitine	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	CPT1 converts palmitoyl-CoA to palmitoyl carnitine	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	CPT1 converts palmitoyl-CoA to palmitoyl carnitine	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Exchange of palmitoylcarnitine and carnitine across the inner mitochondrial membrane	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	Exchange of palmitoylcarnitine and carnitine across the inner mitochondrial membrane	SmallMolecule6	SmallMolecule2	
+BiochemicalReaction2	Exchange of palmitoylcarnitine and carnitine across the inner mitochondrial membrane	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	Exchange of palmitoylcarnitine and carnitine across the inner mitochondrial membrane	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	CPT2 converts palmitoyl carnitine to palmitoyl-CoA	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction3	CPT2 converts palmitoyl carnitine to palmitoyl-CoA	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction3	CPT2 converts palmitoyl carnitine to palmitoyl-CoA	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction3	CPT2 converts palmitoyl carnitine to palmitoyl-CoA	SmallMolecule8	SmallMolecule6	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule12	SmallMolecule5	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule11	SmallMolecule5	
+BiochemicalReaction4	Formation of Malonyl-CoA from Acetyl-CoA (muscle)	SmallMolecule10	SmallMolecule5	
+BiochemicalReaction5	pAMPK inactivates ACC2 inhibiting malonyl-CoA synthesis	Protein7	SmallMolecule14	
+BiochemicalReaction5	pAMPK inactivates ACC2 inhibiting malonyl-CoA synthesis	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction5	pAMPK inactivates ACC2 inhibiting malonyl-CoA synthesis	SmallMolecule12	Protein8	
+BiochemicalReaction5	pAMPK inactivates ACC2 inhibiting malonyl-CoA synthesis	Protein7	Protein8	

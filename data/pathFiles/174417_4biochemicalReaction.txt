@@ -1,0 +1,45 @@
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	SmallMolecule1	Complex4	
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	Complex1	Complex4	
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	Complex1	Complex5	
+BiochemicalReaction1	The primase component of DNA polymerase:primase synthesizes a 6-10 nucleotide RNA primer on the G strand of the telomere	SmallMolecule1	Complex5	
+BiochemicalReaction10	Recruitment of Dna2 endonuclease to the C strand	Protein20	Complex18	
+BiochemicalReaction10	Recruitment of Dna2 endonuclease to the C strand	Complex17	Complex18	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	Protein20	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	SmallMolecule12	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	SmallMolecule13	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	SmallMolecule14	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	Complex19	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	SmallMolecule15	
+BiochemicalReaction11	Removal of RNA primer and dissociation of RPA and Dna2 from the C-strand	Complex18	Complex16	
+BiochemicalReaction12	Removal of remaining Flap from the C-strand	Complex19	Complex20	
+BiochemicalReaction13	Joining of adjacent Okazaki fragments of the C-strand	Complex20	Complex21	
+BiochemicalReaction14	Disassociation of Processive Complex and Completed Telomere End	Complex21	Complex9	
+BiochemicalReaction14	Disassociation of Processive Complex and Completed Telomere End	Complex21	Complex12	
+BiochemicalReaction14	Disassociation of Processive Complex and Completed Telomere End	Complex21	Complex22	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule7	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	Complex5	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule8	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule9	Complex6	
+BiochemicalReaction2	The polymerase component of DNA polymerase alpha:primase synthesizes a 20-nucleotide primer on the G strand of the telomere	SmallMolecule10	Complex6	
+BiochemicalReaction3	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex6	Complex8	
+BiochemicalReaction3	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex7	Complex8	
+BiochemicalReaction3	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex7	Complex2	
+BiochemicalReaction3	RFC binding displaces Pol Alpha on the C-strand of the telomere	Complex6	Complex2	
+BiochemicalReaction4	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex9	SmallMolecule11	
+BiochemicalReaction4	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex8	SmallMolecule11	
+BiochemicalReaction4	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	SmallMolecule2	SmallMolecule11	
+BiochemicalReaction4	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	SmallMolecule2	Complex10	
+BiochemicalReaction4	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex8	Complex10	
+BiochemicalReaction4	Loading of PCNA - Sliding Clamp Formation on the C-strand of the telomere	Complex9	Complex10	
+BiochemicalReaction5	RFC dissociates after sliding clamp formation on the C-strand of the telomere	Complex10	Complex11	
+BiochemicalReaction5	RFC dissociates after sliding clamp formation on the C-strand of the telomere	Complex10	Complex7	
+BiochemicalReaction6	Formation of Processive Complex on the C-strand of the telomere	Complex12	Complex13	
+BiochemicalReaction6	Formation of Processive Complex on the C-strand of the telomere	Complex11	Complex13	
+BiochemicalReaction7	Formation of C-strand Okazaki fragments	Complex13	Complex14	
+BiochemicalReaction7	Formation of C-strand Okazaki fragments	SmallMolecule7	Complex14	
+BiochemicalReaction7	Formation of C-strand Okazaki fragments	SmallMolecule8	Complex14	
+BiochemicalReaction7	Formation of C-strand Okazaki fragments	SmallMolecule9	Complex14	
+BiochemicalReaction7	Formation of C-strand Okazaki fragments	SmallMolecule10	Complex14	
+BiochemicalReaction8	Formation of the Flap Intermediate on the C-strand	Complex14	Complex15	
+BiochemicalReaction9	RPA binds to the Flap on the C-strand	Complex15	Complex17	
+BiochemicalReaction9	RPA binds to the Flap on the C-strand	Complex16	Complex17	

@@ -1,0 +1,22 @@
+BiochemicalReaction1	MTA is cleaved and phosphorylated	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	MTA is cleaved and phosphorylated	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	MTA is cleaved and phosphorylated	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	MTA is cleaved and phosphorylated	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction2	Methylthio-ribose-P = Methylthio-ribulose-P	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	Methylthio-ribulose-P = Methylthio-ribose-P	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction4	Dehydration of methylthio-ribulose-P	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	Dehydration of methylthio-ribulose-P	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	Acireductone is created	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction5	Acireductone is created	SmallMolecule7	SmallMolecule1	
+BiochemicalReaction5	Acireductone is created	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction5	Acireductone is created	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction5	Acireductone is created	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction5	Acireductone is created	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction6	Acireductone is oxidized to MOB	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction6	Acireductone is oxidized to MOB	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction6	Acireductone is oxidized to MOB	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction6	Acireductone is oxidized to MOB	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction7	Transamination of MOB to methionine	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction7	Transamination of MOB to methionine	SmallMolecule14	PhysicalEntity2	
+BiochemicalReaction7	Transamination of MOB to methionine	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction7	Transamination of MOB to methionine	PhysicalEntity1	SmallMolecule16	

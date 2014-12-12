@@ -1,0 +1,20 @@
+BiochemicalReaction1	Binding of Acetylcholine by Muscarinic Acetylcholine Receptor M3	Protein1	Complex1	
+BiochemicalReaction1	Binding of Acetylcholine by Muscarinic Acetylcholine Receptor M3	SmallMolecule1	Complex1	
+BiochemicalReaction2	Activation of Gq by Muscarinic Acetylcholine Receptor M3	SmallMolecule3	Complex5	
+BiochemicalReaction2	Activation of Gq by Muscarinic Acetylcholine Receptor M3	Complex2	Complex5	
+BiochemicalReaction2	Activation of Gq by Muscarinic Acetylcholine Receptor M3	Complex2	SmallMolecule6	
+BiochemicalReaction2	Activation of Gq by Muscarinic Acetylcholine Receptor M3	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction3	Dissociation of Gq alpha:GTP Complex from G beta:G gamma Complex	Complex5	Complex3	
+BiochemicalReaction3	Dissociation of Gq alpha:GTP Complex from G beta:G gamma Complex	Complex5	Complex6	
+BiochemicalReaction4	Activation of Phospholipase C Beta by Gq alpha	Complex6	Complex7	
+BiochemicalReaction4	Activation of Phospholipase C Beta by Gq alpha	Protein7	Complex7	
+BiochemicalReaction5	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction5	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction5	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction5	Hydrolysis of 1-Phosphatidyl-D-myo-inositol 4,5-bisphosphate by Activated Phospholipase C Beta-1	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction6	Activation of Protein kinase C, alpha type by Diacylglycerol	SmallMolecule10	Complex8	
+BiochemicalReaction6	Activation of Protein kinase C, alpha type by Diacylglycerol	Protein11	Complex8	
+BiochemicalReaction7	Phosphorylation of MARCKS by Protein kinase C, alpha type	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction7	Phosphorylation of MARCKS by Protein kinase C, alpha type	Protein13	SmallMolecule12	
+BiochemicalReaction7	Phosphorylation of MARCKS by Protein kinase C, alpha type	Protein13	Protein14	
+BiochemicalReaction7	Phosphorylation of MARCKS by Protein kinase C, alpha type	SmallMolecule11	Protein14	

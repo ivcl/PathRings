@@ -1,0 +1,32 @@
+BiochemicalReaction1	The ligand trap binds the ligand BMP2, blocking BMP signalling	Protein1	Complex2	
+BiochemicalReaction1	The ligand trap binds the ligand BMP2, blocking BMP signalling	Complex1	Complex2	
+BiochemicalReaction10	Phospho-R-Smad1/5/8 forms a complex with Co-Smad	Protein33	Complex15	
+BiochemicalReaction10	Phospho-R-Smad1/5/8 forms a complex with Co-Smad	Protein29	Complex15	
+BiochemicalReaction11	The phospho-R-Smad1/5/8:Co-Smad transfers to the nucleus	Complex15	Complex16	
+BiochemicalReaction12	SKI complexes with the Smad complex, suppressing BMP2 signalling	Protein42	Complex17	
+BiochemicalReaction12	SKI complexes with the Smad complex, suppressing BMP2 signalling	Complex16	Complex17	
+BiochemicalReaction13	I-Smad competes with R-Smad1/5/8 for type I receptor	Protein26	Complex18	
+BiochemicalReaction13	I-Smad competes with R-Smad1/5/8 for type I receptor	Complex7	Complex18	
+BiochemicalReaction2	Formation of a heteromeric BMP receptor complex	Complex3	Complex5	
+BiochemicalReaction2	Formation of a heteromeric BMP receptor complex	Complex4	Complex5	
+BiochemicalReaction3	BMP2 binds to the receptor complex	Complex5	Complex6	
+BiochemicalReaction3	BMP2 binds to the receptor complex	Complex1	Complex6	
+BiochemicalReaction4	Type II receptor phosphorylates type I receptor	Complex6	SmallMolecule2	
+BiochemicalReaction4	Type II receptor phosphorylates type I receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Type II receptor phosphorylates type I receptor	SmallMolecule1	Complex7	
+BiochemicalReaction4	Type II receptor phosphorylates type I receptor	Complex6	Complex7	
+BiochemicalReaction5	An anchoring protein, Endofin, recruits R-Smad1/5/8	Complex7	Complex9	
+BiochemicalReaction5	An anchoring protein, Endofin, recruits R-Smad1/5/8	Protein18	Complex9	
+BiochemicalReaction5	An anchoring protein, Endofin, recruits R-Smad1/5/8	Protein19	Complex9	
+BiochemicalReaction6	I-Smad binds to type I receptor, preventing Smad1/5/8 from being activated	Complex10	Complex11	
+BiochemicalReaction6	I-Smad binds to type I receptor, preventing Smad1/5/8 from being activated	Complex7	Complex11	
+BiochemicalReaction7	Activated type I receptor phosphorylates R-Smad1/5/8 directly	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Activated type I receptor phosphorylates R-Smad1/5/8 directly	Complex9	SmallMolecule2	
+BiochemicalReaction7	Activated type I receptor phosphorylates R-Smad1/5/8 directly	Complex9	Complex12	
+BiochemicalReaction7	Activated type I receptor phosphorylates R-Smad1/5/8 directly	SmallMolecule1	Complex12	
+BiochemicalReaction8	Phospho-R-Smad1/5/8 dissociates from the receptor complex	Complex12	Complex13	
+BiochemicalReaction8	Phospho-R-Smad1/5/8 dissociates from the receptor complex	Complex12	Protein29	
+BiochemicalReaction9	I-Smad competes with Co-Smad for R-Smad1/5/8	Protein29	Complex14	
+BiochemicalReaction9	I-Smad competes with Co-Smad for R-Smad1/5/8	Protein26	Complex14	
+Degradation1	Ubiquitin-dependent degradation controls basal levels of R-Smad1/5/8	Protein19	NA	
+Degradation2	Ubiquitin-dependent degradation of the Smad complex terminates BMP2 signalling	Complex16	NA	

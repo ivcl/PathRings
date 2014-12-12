@@ -1,0 +1,35 @@
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	Protein1	SmallMolecule2	
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	SmallMolecule1	Protein4	
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	Protein1	Protein4	
+BiochemicalReaction10	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Complex8	Complex9	
+BiochemicalReaction10	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Dna1	Complex9	
+BiochemicalReaction10	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Protein26	Complex9	
+BiochemicalReaction11	E2F1/E2F2/E2F3 and SP1 stimulate transcription of p14-ARF mRNA	Dna1	Rna2	
+BiochemicalReaction12	miR-24 binds p16-INK4a and p14-ARF mRNAs	Rna3	Complex12	
+BiochemicalReaction12	miR-24 binds p16-INK4a and p14-ARF mRNAs	Complex10	Complex12	
+BiochemicalReaction13	Translation of p14-ARF mRNA is inhibited by miR-24	Rna2	Protein36	
+BiochemicalReaction14	Translation of p16-INK4a mRNA is inhibited by miR-24	Rna1	Protein15	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Complex13	Complex15	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Protein39	Complex15	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Protein39	Complex16	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Complex13	Complex16	
+BiochemicalReaction16	p14-ARF forms a ternary complex with MDM2 and TP53	Complex13	Complex17	
+BiochemicalReaction16	p14-ARF forms a ternary complex with MDM2 and TP53	Protein36	Complex17	
+BiochemicalReaction17	p14-ARF sequesters MDM2	Complex17	Complex18	
+BiochemicalReaction17	p14-ARF sequesters MDM2	Complex17	Complex14	
+BiochemicalReaction2	Phosphorylated ETS1/ETS2 binds p16-INK4A promoter	Dna1	Complex4	
+BiochemicalReaction2	Phosphorylated ETS1/ETS2 binds p16-INK4A promoter	Protein4	Complex4	
+BiochemicalReaction3	p-T38-ETS1/p-T72-ETS2 stimulates transcription of p16-INK4A mRNA	Dna1	Rna1	
+BiochemicalReaction4	ID1 sequesters ETS2	Protein6	Complex5	
+BiochemicalReaction4	ID1 sequesters ETS2	Protein9	Complex5	
+BiochemicalReaction5	ERF binds ETS2 promoter	Protein10	Complex6	
+BiochemicalReaction5	ERF binds ETS2 promoter	Dna2	Complex6	
+BiochemicalReaction6	ERF inhibits ETS2 expression	Dna2	Protein3	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	Protein10	Protein11	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	SmallMolecule1	Protein11	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	Protein10	SmallMolecule2	
+BiochemicalReaction8	Phosphorylated ERF translocates to the cytosol	Protein11	Protein12	
+BiochemicalReaction9	Association of INK4A with Cdk4/6	Protein13	Complex7	
+BiochemicalReaction9	Association of INK4A with Cdk4/6	Protein18	Complex7	

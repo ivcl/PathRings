@@ -1,0 +1,15 @@
+BiochemicalReaction1	Mad1 binds kinetochore	Protein1	Complex1	
+BiochemicalReaction1	Mad1 binds kinetochore	PhysicalEntity1	Complex1	
+BiochemicalReaction2	MAD2 associates with the Mad1 kinetochore complex	Protein2	Complex2	
+BiochemicalReaction2	MAD2 associates with the Mad1 kinetochore complex	Complex1	Complex2	
+BiochemicalReaction3	MAD2 converted  to an inhibitory state via interaction with Mad1	Complex2	Complex3	
+BiochemicalReaction4	Release of activated MAD2 from kinetochores	Complex3	Protein3	
+BiochemicalReaction4	Release of activated MAD2 from kinetochores	Complex3	Complex1	
+BiochemicalReaction5	Inactivation of APC/C via CDC20 sequestration	Protein3	Complex4	
+BiochemicalReaction5	Inactivation of APC/C via CDC20 sequestration	Protein4	Complex4	
+BiochemicalReaction6	Formation of the MCC complex	Protein3	Complex5	
+BiochemicalReaction6	Formation of the MCC complex	Protein5	Complex5	
+BiochemicalReaction6	Formation of the MCC complex	Protein4	Complex5	
+BiochemicalReaction6	Formation of the MCC complex	Protein6	Complex5	
+BiochemicalReaction7	Binding of the MCC complex to the APC/C complex	Complex5	Complex7	
+BiochemicalReaction7	Binding of the MCC complex to the APC/C complex	Complex6	Complex7	

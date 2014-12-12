@@ -1,0 +1,6 @@
+BiochemicalReaction1	FN1 dimerizes	Protein1	Complex1	
+BiochemicalReaction2	Integrin alpha5beta1 binds FN1 dimer	Complex1	Complex3	
+BiochemicalReaction2	Integrin alpha5beta1 binds FN1 dimer	SmallMolecule1	Complex3	
+BiochemicalReaction2	Integrin alpha5beta1 binds FN1 dimer	Complex2	Complex3	
+BiochemicalReaction3	FN1 aggregation	Complex3	Complex4	
+BiochemicalReaction3	FN1 aggregation	Protein1	Complex4	

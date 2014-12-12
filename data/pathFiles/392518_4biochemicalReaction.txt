@@ -1,0 +1,55 @@
+BiochemicalReaction1	ADP binds to P2Y purinoceptor 12	SmallMolecule1	Complex1	
+BiochemicalReaction1	ADP binds to P2Y purinoceptor 12	Protein1	Complex1	
+BiochemicalReaction10	P2Y purinoceptor 1 activates MAP kinase p38 alpha	SmallMolecule7	Protein35	
+BiochemicalReaction10	P2Y purinoceptor 1 activates MAP kinase p38 alpha	Protein34	Protein35	
+BiochemicalReaction10	P2Y purinoceptor 1 activates MAP kinase p38 alpha	Protein34	SmallMolecule8	
+BiochemicalReaction10	P2Y purinoceptor 1 activates MAP kinase p38 alpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction11	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein36	Protein37	
+BiochemicalReaction11	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule7	Protein37	
+BiochemicalReaction11	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction11	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein36	SmallMolecule8	
+BiochemicalReaction12	TP receptor can bind thromboxane	SmallMolecule9	Complex16	
+BiochemicalReaction12	TP receptor can bind thromboxane	Protein38	Complex16	
+BiochemicalReaction13	Activated TP receptor binds G-proten Gq	Complex10	Complex17	
+BiochemicalReaction13	Activated TP receptor binds G-proten Gq	Complex16	Complex17	
+BiochemicalReaction14	Activated TP receptor binds G-protein  G13	Complex16	Complex20	
+BiochemicalReaction14	Activated TP receptor binds G-protein  G13	Complex18	Complex20	
+BiochemicalReaction15	Gq activation by TP receptor	SmallMolecule4	Complex21	
+BiochemicalReaction15	Gq activation by TP receptor	Complex17	Complex21	
+BiochemicalReaction15	Gq activation by TP receptor	Complex17	SmallMolecule6	
+BiochemicalReaction15	Gq activation by TP receptor	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction16	G13 activation by TP receptor	SmallMolecule4	Complex22	
+BiochemicalReaction16	G13 activation by TP receptor	Complex20	Complex22	
+BiochemicalReaction16	G13 activation by TP receptor	Complex20	SmallMolecule6	
+BiochemicalReaction16	G13 activation by TP receptor	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction17	Dissociation of the TP:Gq complex	Complex21	SmallMolecule9	
+BiochemicalReaction17	Dissociation of the TP:Gq complex	Complex21	Protein38	
+BiochemicalReaction17	Dissociation of the TP:Gq complex	Complex21	Complex15	
+BiochemicalReaction17	Dissociation of the TP:Gq complex	Complex21	Complex4	
+BiochemicalReaction18	Dissociation of the TP:G13 complex	Complex22	SmallMolecule9	
+BiochemicalReaction18	Dissociation of the TP:G13 complex	Complex22	Protein38	
+BiochemicalReaction18	Dissociation of the TP:G13 complex	Complex22	Complex24	
+BiochemicalReaction18	Dissociation of the TP:G13 complex	Complex22	Complex4	
+BiochemicalReaction2	Activated P2Y purinoceptor 12 binds G-protein Gi	Complex2	Complex5	
+BiochemicalReaction2	Activated P2Y purinoceptor 12 binds G-protein Gi	Complex1	Complex5	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	SmallMolecule4	Complex6	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	Complex5	Complex6	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	Complex5	SmallMolecule6	
+BiochemicalReaction3	Gi activation by P2Y purinoceptor 12	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	SmallMolecule1	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	Complex8	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	Protein1	
+BiochemicalReaction4	Dissociation of the P2Y purinoceptor 12:Gi complex	Complex6	Complex4	
+BiochemicalReaction5	ADP binds to P2Y purinoceptor 1	SmallMolecule1	Complex9	
+BiochemicalReaction5	ADP binds to P2Y purinoceptor 1	Protein26	Complex9	
+BiochemicalReaction6	Activated P2Y purinoceptor 1 binds G-protein Gq	Complex10	Complex12	
+BiochemicalReaction6	Activated P2Y purinoceptor 1 binds G-protein Gq	Complex9	Complex12	
+BiochemicalReaction7	Gq activation by P2Y purinoceptor 1	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction7	Gq activation by P2Y purinoceptor 1	Complex12	SmallMolecule6	
+BiochemicalReaction7	Gq activation by P2Y purinoceptor 1	Complex12	Complex13	
+BiochemicalReaction7	Gq activation by P2Y purinoceptor 1	SmallMolecule4	Complex13	
+BiochemicalReaction8	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex13	SmallMolecule1	
+BiochemicalReaction8	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex13	Protein26	
+BiochemicalReaction8	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex13	Complex15	
+BiochemicalReaction8	Dissociation of the P2Y purinoceptor 1:Gq complex	Complex13	Complex4	
+BiochemicalReaction9	Src activation following P2Y purinoceptor activation	Protein32	Protein33	

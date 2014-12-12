@@ -1,0 +1,19 @@
+BiochemicalReaction1	Microprocessor complex cleaves pri-miRNA to pre-miRNA	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	Exportin-5 recognizes 3' overhang of pre-miRNA 	Complex2	Complex4	
+BiochemicalReaction2	Exportin-5 recognizes 3' overhang of pre-miRNA 	PhysicalEntity2	Complex4	
+BiochemicalReaction3	Exportin complex translocates pre-miRNA to cytosol	Complex4	Complex5	
+BiochemicalReaction3	Exportin complex translocates pre-miRNA to cytosol	Complex4	PhysicalEntity3	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein7	Complex7	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	PhysicalEntity3	Complex7	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein8	Complex7	
+BiochemicalReaction4	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein9	Complex7	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Protein7	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Protein7	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Protein8	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Protein8	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Protein9	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Protein9	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Protein10	Complex8	
+BiochemicalReaction5	Duplex miRNA is loaded into Argonaute	Complex7	Complex8	
+BiochemicalReaction6	Removal of miRNA passenger strand	Complex8	Complex13	
+TemplateReaction1	Pol II mediated transcription of microRNA genes	NA	PhysicalEntity1	

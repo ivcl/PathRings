@@ -1,0 +1,12 @@
+BiochemicalReaction1	NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex	SmallMolecule1	Complex10	
+BiochemicalReaction1	NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex	Complex1	Complex10	
+BiochemicalReaction2	Nucleophillic attack by 3'-hydroxyl oxygen of nascent HIV-1 transcript on the Alpha phosphate of NTP	Complex10	Complex12	
+BiochemicalReaction3	Newly formed phosphodiester bond stabilized and PPi released	Complex12	SmallMolecule6	
+BiochemicalReaction3	Newly formed phosphodiester bond stabilized and PPi released	Complex12	Complex13	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	Complex2	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	Complex5	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	Protein26	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	Complex6	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	Complex7	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	Complex9	
+BiochemicalReaction4	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex13	PhysicalEntity3	

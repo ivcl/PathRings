@@ -1,0 +1,22 @@
+BiochemicalReaction1	PKC alpha interacts with and phosphorylates KIT	Protein1	SmallMolecule2	
+BiochemicalReaction1	PKC alpha interacts with and phosphorylates KIT	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	PKC alpha interacts with and phosphorylates KIT	Protein2	SmallMolecule2	
+BiochemicalReaction1	PKC alpha interacts with and phosphorylates KIT	Protein2	Complex1	
+BiochemicalReaction1	PKC alpha interacts with and phosphorylates KIT	SmallMolecule1	Complex1	
+BiochemicalReaction1	PKC alpha interacts with and phosphorylates KIT	Protein1	Complex1	
+BiochemicalReaction2	Interaction of SHP1 and KIT	Protein4	Complex4	
+BiochemicalReaction2	Interaction of SHP1 and KIT	Complex2	Complex4	
+BiochemicalReaction3	SOCS1 as a regulator of KIT signaling	Complex2	Complex5	
+BiochemicalReaction3	SOCS1 as a regulator of KIT signaling	Protein7	Complex5	
+BiochemicalReaction4	Interaction of APS and p-KIT	Complex6	Complex8	
+BiochemicalReaction4	Interaction of APS and p-KIT	Complex7	Complex8	
+BiochemicalReaction5	Phosphorylation of APS	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of APS	Complex8	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of APS	Complex8	Complex9	
+BiochemicalReaction5	Phosphorylation of APS	SmallMolecule1	Complex9	
+BiochemicalReaction6	Recruitment of CBL to KIT	Protein16	Complex14	
+BiochemicalReaction6	Recruitment of CBL to KIT	Complex11	Complex14	
+BiochemicalReaction7	Downregulation of c-Kit signaling by SOCS6	Protein19	Complex15	
+BiochemicalReaction7	Downregulation of c-Kit signaling by SOCS6	Complex2	Complex15	
+BiochemicalReaction8	LNK binds to p-KIT and inhibit downstream signaling	Protein20	Complex16	
+BiochemicalReaction8	LNK binds to p-KIT and inhibit downstream signaling	Complex2	Complex16	

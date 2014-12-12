@@ -1,0 +1,24 @@
+BiochemicalReaction1	Activation of Fyn	Complex1	Complex4	
+BiochemicalReaction1	Activation of Fyn	Complex2	Complex4	
+BiochemicalReaction2	Recruitment and activation of Cdk5	Complex5	Complex6	
+BiochemicalReaction2	Recruitment and activation of Cdk5	SmallMolecule1	Complex6	
+BiochemicalReaction2	Recruitment and activation of Cdk5	Complex4	Complex6	
+BiochemicalReaction2	Recruitment and activation of Cdk5	Complex4	SmallMolecule2	
+BiochemicalReaction2	Recruitment and activation of Cdk5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Recruitment and activation of Cdk5	Complex5	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CRMPs by Cdk5	Complex6	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CRMPs by Cdk5	Complex11	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CRMPs by Cdk5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CRMPs by Cdk5	SmallMolecule1	Complex12	
+BiochemicalReaction3	Phosphorylation of CRMPs by Cdk5	Complex11	Complex12	
+BiochemicalReaction3	Phosphorylation of CRMPs by Cdk5	Complex6	Complex12	
+BiochemicalReaction4	Phosphorylation of CRMPs by GSK3beta	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of CRMPs by GSK3beta	Complex12	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of CRMPs by GSK3beta	Complex12	Complex16	
+BiochemicalReaction4	Phosphorylation of CRMPs by GSK3beta	SmallMolecule1	Complex16	
+BiochemicalReaction5	Tyrosine phosphorylation of CRMPs by Fes	Complex11	SmallMolecule2	
+BiochemicalReaction5	Tyrosine phosphorylation of CRMPs by Fes	Complex20	SmallMolecule2	
+BiochemicalReaction5	Tyrosine phosphorylation of CRMPs by Fes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Tyrosine phosphorylation of CRMPs by Fes	SmallMolecule1	Complex23	
+BiochemicalReaction5	Tyrosine phosphorylation of CRMPs by Fes	Complex20	Complex23	
+BiochemicalReaction5	Tyrosine phosphorylation of CRMPs by Fes	Complex11	Complex23	

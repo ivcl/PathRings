@@ -1,0 +1,144 @@
+BiochemicalReaction1	Release of 40S and 60S subunits from the 80S ribosome 	Protein1	Complex2	
+BiochemicalReaction1	Release of 40S and 60S subunits from the 80S ribosome 	Complex1	Complex2	
+BiochemicalReaction1	Release of 40S and 60S subunits from the 80S ribosome 	Complex1	Complex3	
+BiochemicalReaction1	Release of 40S and 60S subunits from the 80S ribosome 	Protein1	Complex3	
+BiochemicalReaction1	Release of 40S and 60S subunits from the 80S ribosome 	Complex1	Protein1	
+BiochemicalReaction1	Release of 40S and 60S subunits from the 80S ribosome 	Protein1	Protein1	
+BiochemicalReaction10	Formation of translation initiation complexes containing mRNA that does not circularize	Protein1	Protein1	
+BiochemicalReaction10	Formation of translation initiation complexes containing mRNA that does not circularize	Complex15	Protein1	
+BiochemicalReaction10	Formation of translation initiation complexes containing mRNA that does not circularize	Complex9	Protein1	
+BiochemicalReaction10	Formation of translation initiation complexes containing mRNA that does not circularize	Complex9	Complex16	
+BiochemicalReaction10	Formation of translation initiation complexes containing mRNA that does not circularize	Complex15	Complex16	
+BiochemicalReaction10	Formation of translation initiation complexes containing mRNA that does not circularize	Protein1	Complex16	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex17	Complex18	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein105	Complex18	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein1	Complex18	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex9	Complex18	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex9	Protein1	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein1	Protein1	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein105	Protein1	
+BiochemicalReaction11	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex17	Protein1	
+BiochemicalReaction12	Ribosomal scanning 	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction12	Ribosomal scanning 	Complex16	SmallMolecule3	
+BiochemicalReaction12	Ribosomal scanning 	Complex16	SmallMolecule4	
+BiochemicalReaction12	Ribosomal scanning 	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction12	Ribosomal scanning 	Complex16	Complex19	
+BiochemicalReaction12	Ribosomal scanning 	SmallMolecule2	Complex19	
+BiochemicalReaction13	Start codon recognition	Complex6	Complex6	
+BiochemicalReaction13	Start codon recognition	Protein106	Complex6	
+BiochemicalReaction13	Start codon recognition	Complex19	Complex6	
+BiochemicalReaction13	Start codon recognition	Protein1	Complex6	
+BiochemicalReaction13	Start codon recognition	PhysicalEntity3	Complex6	
+BiochemicalReaction13	Start codon recognition	PhysicalEntity3	Protein106	
+BiochemicalReaction13	Start codon recognition	Protein1	Protein106	
+BiochemicalReaction13	Start codon recognition	Complex19	Protein106	
+BiochemicalReaction13	Start codon recognition	Protein106	Protein106	
+BiochemicalReaction13	Start codon recognition	Complex6	Protein106	
+BiochemicalReaction13	Start codon recognition	PhysicalEntity3	Complex19	
+BiochemicalReaction13	Start codon recognition	Protein1	Complex19	
+BiochemicalReaction13	Start codon recognition	Complex19	Complex19	
+BiochemicalReaction13	Start codon recognition	Protein106	Complex19	
+BiochemicalReaction13	Start codon recognition	Complex6	Complex19	
+BiochemicalReaction13	Start codon recognition	PhysicalEntity3	Protein1	
+BiochemicalReaction13	Start codon recognition	Protein1	Protein1	
+BiochemicalReaction13	Start codon recognition	Complex19	Protein1	
+BiochemicalReaction13	Start codon recognition	Protein106	Protein1	
+BiochemicalReaction13	Start codon recognition	Complex6	Protein1	
+BiochemicalReaction13	Start codon recognition	PhysicalEntity3	PhysicalEntity3	
+BiochemicalReaction13	Start codon recognition	Protein1	PhysicalEntity3	
+BiochemicalReaction13	Start codon recognition	Complex19	PhysicalEntity3	
+BiochemicalReaction13	Start codon recognition	Protein106	PhysicalEntity3	
+BiochemicalReaction13	Start codon recognition	Complex6	PhysicalEntity3	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	SmallMolecule3	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	SmallMolecule3	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	SmallMolecule3	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Complex4	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Complex4	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Complex4	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Protein106	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Protein106	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Protein106	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Protein103	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Protein103	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Protein103	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Protein99	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Protein99	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Protein99	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Complex20	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Complex20	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Complex20	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Protein1	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Protein1	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Protein1	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Protein104	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Protein104	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Protein104	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Complex11	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Complex11	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Complex11	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Protein102	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Protein102	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Protein102	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity3	Complex21	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Complex19	Complex21	
+BiochemicalReaction14	eIF2:GTP is hydrolyzed, eIFs are released 	Protein106	Complex21	
+BiochemicalReaction15	eIF5B:GTP is hydrolyzed and released	Complex22	SmallMolecule3	
+BiochemicalReaction15	eIF5B:GTP is hydrolyzed and released	Complex22	Complex24	
+BiochemicalReaction15	eIF5B:GTP is hydrolyzed and released	Complex22	Complex25	
+BiochemicalReaction16	The 60S subunit joins the translation initiation complex 	Complex2	Complex22	
+BiochemicalReaction16	The 60S subunit joins the translation initiation complex 	Complex20	Complex22	
+BiochemicalReaction16	The 60S subunit joins the translation initiation complex 	Complex23	Complex22	
+BiochemicalReaction17	Formation of eIF2:GDP:eIF2B intermediate	Complex26	Complex27	
+BiochemicalReaction17	Formation of eIF2:GDP:eIF2B intermediate	Complex21	Complex27	
+BiochemicalReaction18	eIF2 activation	SmallMolecule1	Complex26	
+BiochemicalReaction18	eIF2 activation	Complex27	Complex26	
+BiochemicalReaction18	eIF2 activation	Complex27	Complex7	
+BiochemicalReaction18	eIF2 activation	SmallMolecule1	Complex7	
+BiochemicalReaction18	eIF2 activation	Complex27	SmallMolecule5	
+BiochemicalReaction18	eIF2 activation	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction19	Dissociation of L13a from the 60s ribosomal subunit	Complex2	Protein7	
+BiochemicalReaction19	Dissociation of L13a from the 60s ribosomal subunit	Complex2	Complex28	
+BiochemicalReaction2	eIF3 and eIF1A bind to the 40S subunit	Complex4	Complex5	
+BiochemicalReaction2	eIF3 and eIF1A bind to the 40S subunit	Complex3	Complex5	
+BiochemicalReaction2	eIF3 and eIF1A bind to the 40S subunit	Protein1	Complex5	
+BiochemicalReaction20	INF-gamma induced phosphorylation of L13a	Protein7	Protein113	
+BiochemicalReaction21	Association of phospho-L13a with GAIT element of Ceruloplasmin mRNA	Protein113	Complex29	
+BiochemicalReaction21	Association of phospho-L13a with GAIT element of Ceruloplasmin mRNA	Complex18	Complex29	
+BiochemicalReaction3	De novo formation of eIF2:GTP	SmallMolecule1	Complex7	
+BiochemicalReaction3	De novo formation of eIF2:GTP	Complex6	Complex7	
+BiochemicalReaction4	Met-tRNAi binds to eIF2:GTP to form the ternary complex	Complex7	Complex8	
+BiochemicalReaction4	Met-tRNAi binds to eIF2:GTP to form the ternary complex	PhysicalEntity1	Complex8	
+BiochemicalReaction5	Formation of the 43S pre-initiation complex	Complex8	Complex9	
+BiochemicalReaction5	Formation of the 43S pre-initiation complex	Complex5	Complex9	
+BiochemicalReaction6	Release of eIF4E from the inactive eIF4E:4E-BP complex 	Complex10	Protein98	
+BiochemicalReaction6	Release of eIF4E from the inactive eIF4E:4E-BP complex 	Complex10	Protein99	
+BiochemicalReaction7	Formation of the cap-binding eIF4F complex	Protein99	Complex12	
+BiochemicalReaction7	Formation of the cap-binding eIF4F complex	Complex11	Complex12	
+BiochemicalReaction7	Formation of the cap-binding eIF4F complex	Protein102	Complex12	
+BiochemicalReaction8	eIF4F binds to mRNP	Complex13	Complex14	
+BiochemicalReaction8	eIF4F binds to mRNP	Complex12	Complex14	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein103	SmallMolecule3	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein104	SmallMolecule3	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex11	SmallMolecule3	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex14	SmallMolecule3	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex14	PhysicalEntity2	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex11	PhysicalEntity2	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein104	PhysicalEntity2	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	SmallMolecule2	PhysicalEntity2	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein103	PhysicalEntity2	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex14	SmallMolecule4	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex11	SmallMolecule4	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein104	SmallMolecule4	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein103	SmallMolecule4	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex14	Complex15	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex11	Complex15	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein104	Complex15	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	SmallMolecule2	Complex15	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein103	Complex15	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex14	Complex11	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Complex11	Complex11	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein104	Complex11	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	SmallMolecule2	Complex11	
+BiochemicalReaction9	Cap-bound mRNA is activated by helicases 	Protein103	Complex11	

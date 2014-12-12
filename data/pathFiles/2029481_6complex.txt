@@ -1,0 +1,40 @@
+Complex1	Antigen-antibody complex	plasma membrane	Reactome DB_ID: 173552	Complex2	
+Complex1	Antigen-antibody complex	plasma membrane	Reactome DB_ID: 173552	PhysicalEntity1	
+Complex10	IgG-Ag:FCGRIIA	plasma membrane	Reactome DB_ID: 1861689	Complex1	
+Complex10	IgG-Ag:FCGRIIA	plasma membrane	Reactome DB_ID: 1861689	Protein165	
+Complex11	FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029097	Protein166	
+Complex11	FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029097	Complex12	
+Complex13	CD3G:CD3Z heterodimer	plasma membrane	Reactome DB_ID: 1861602	Protein167	
+Complex13	CD3G:CD3Z heterodimer	plasma membrane	Reactome DB_ID: 1861602	Protein163	
+Complex14	CD3Z homodimer	plasma membrane	Reactome DB_ID: 1861695	Protein167	
+Complex15	IgG-Ag:FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029163	Complex1	
+Complex15	IgG-Ag:FCGRIIIA:CD3G/CD3Z dimers	plasma membrane	Reactome DB_ID: 2029163	Complex11	
+Complex16	clustered IgG-Ag:FCGRs	plasma membrane	Reactome DB_ID: 2029146	Complex1	
+Complex16	clustered IgG-Ag:FCGRs	plasma membrane	Reactome DB_ID: 2029146	PhysicalEntity2	
+Complex17	clustered IgG-Ag:p-FCGRs	plasma membrane	Reactome DB_ID: 2029128	Complex1	
+Complex17	clustered IgG-Ag:p-FCGRs	plasma membrane	Reactome DB_ID: 2029128	PhysicalEntity3	
+Complex18	FCGRIA:p-Y160,Y171-CD3G dimer	plasma membrane	Reactome DB_ID: 2029117	Protein164	
+Complex18	FCGRIA:p-Y160,Y171-CD3G dimer	plasma membrane	Reactome DB_ID: 2029117	Complex19	
+Complex19	p-Y160,Y171-CD3G dimer	plasma membrane	Reactome DB_ID: 1861560	Protein168	
+Complex2	IgG	extracellular region	Reactome DB_ID: 182629	Complex3	
+Complex2	IgG	extracellular region	Reactome DB_ID: 182629	Complex6	
+Complex20	FCGRIIIA:p-2Y-CD3G/p-6Y-CD3Z dimers	plasma membrane	Reactome DB_ID: 2029118	Protein166	
+Complex20	FCGRIIIA:p-2Y-CD3G/p-6Y-CD3Z dimers	plasma membrane	Reactome DB_ID: 2029118	Complex21	
+Complex22	p-Y160,Y171-CD3G:p-6Y-CD3Z	plasma membrane	Reactome DB_ID: 1861710	Protein169	
+Complex22	p-Y160,Y171-CD3G:p-6Y-CD3Z	plasma membrane	Reactome DB_ID: 1861710	Protein168	
+Complex23	CD3 zeta dimer with phosphorylated ITAMs	plasma membrane	Reactome DB_ID: 202303	Protein169	
+Complex24	clustered IgG-Ag:p-FCGRs:SYK	plasma membrane	Reactome DB_ID: 2029129	Protein178	
+Complex24	clustered IgG-Ag:p-FCGRs:SYK	plasma membrane	Reactome DB_ID: 2029129	Complex17	
+Complex25	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	plasma membrane	Reactome DB_ID: 2029158	Protein179	
+Complex25	clustered IgG-Ag:p-FCGRs:p-6Y-SYK	plasma membrane	Reactome DB_ID: 2029158	Complex17	
+Complex4	Ig Kappa	extracellular region	Reactome DB_ID: 983670	Protein1	
+Complex4	Ig Kappa	extracellular region	Reactome DB_ID: 983670	Protein54	
+Complex5	Ig Lambda	extracellular region	Reactome DB_ID: 983672	Protein55	
+Complex5	Ig Lambda	extracellular region	Reactome DB_ID: 983672	Protein113	
+Complex6	IgG Heavy Chain	extracellular region	Reactome DB_ID: 1591203	Protein119	
+Complex6	IgG Heavy Chain	extracellular region	Reactome DB_ID: 1591203	Protein124	
+Complex7	FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029093	Complex8	
+Complex7	FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029093	Protein164	
+Complex8	CD3G homodimer	plasma membrane	Reactome DB_ID: 1861690	Protein163	
+Complex9	IgG-Ag:FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029132	Complex1	
+Complex9	IgG-Ag:FCGRIA:CD3G homodimer	plasma membrane	Reactome DB_ID: 2029132	Complex7	

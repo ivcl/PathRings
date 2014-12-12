@@ -1,0 +1,13 @@
+BiochemicalReaction1	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex1	SmallMolecule2	
+BiochemicalReaction1	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	Complex3	
+BiochemicalReaction1	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex1	Complex3	
+BiochemicalReaction2	Association of Cks1 with SCF(Skp2) complex	Protein14	Complex5	
+BiochemicalReaction2	Association of Cks1 with SCF(Skp2) complex	Complex4	Complex5	
+BiochemicalReaction3	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex5	Complex6	
+BiochemicalReaction3	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex3	Complex6	
+BiochemicalReaction4	Ubiquitination of phospho-p27/p21	Complex6	Complex7	
+BiochemicalReaction4	Ubiquitination of phospho-p27/p21	Protein18	Complex7	
+BiochemicalReaction5	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex7	Complex5	
+BiochemicalReaction5	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex7	Complex2	
+BiochemicalReaction5	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex7	Protein18	

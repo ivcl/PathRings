@@ -1,0 +1,27 @@
+BiochemicalReaction1	TOMM40 Complex Transports Proteins Across the Outer Mitochondrial Membrane	Protein1	Protein15	
+BiochemicalReaction10	TIMM23 SORT Inserts Proteins into Inner Membrane	Complex15	Complex12	
+BiochemicalReaction10	TIMM23 SORT Inserts Proteins into Inner Membrane	Complex15	Protein97	
+BiochemicalReaction11	Precursor Proteins Enter TIMM23 PAM	Protein104	Complex17	
+BiochemicalReaction11	Precursor Proteins Enter TIMM23 PAM	Complex12	Complex17	
+BiochemicalReaction12	MPP Cleaves Presequence of Matrix Precursors	Complex17	Complex18	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	Complex18	SmallMolecule2	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	Complex18	SmallMolecule3	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	SmallMolecule1	Protein115	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	Complex18	Protein115	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	SmallMolecule1	Complex12	
+BiochemicalReaction13	TIMM23 PAM Imports Proteins to Mitochondrial Matrix	Complex18	Complex12	
+BiochemicalReaction2	MIA40:ERV1 (CHCHD4:GFER) Catalyzes Formation of Disulfide Bonds	Protein36	Protein43	
+BiochemicalReaction3	TIMM8:TIMM13 Chaperones Hydrophobic Proteins	Protein52	Complex6	
+BiochemicalReaction3	TIMM8:TIMM13 Chaperones Hydrophobic Proteins	Complex3	Complex6	
+BiochemicalReaction4	TIMM9:TIMM10 Binds Hydrophobic Proteins	Complex7	Complex8	
+BiochemicalReaction4	TIMM9:TIMM10 Binds Hydrophobic Proteins	Protein56	Complex8	
+BiochemicalReaction5	TIMM9:TIMM10 Delivers Proteins to TIMM22	Protein65	Complex9	
+BiochemicalReaction5	TIMM9:TIMM10 Delivers Proteins to TIMM22	Complex8	Complex9	
+BiochemicalReaction5	TIMM9:TIMM10 Delivers Proteins to TIMM22	Protein69	Complex9	
+BiochemicalReaction6	SAM50 Complex Inserts Proteins into Mitochondrial Outer Membrane	Protein70	Protein72	
+BiochemicalReaction7	TIMM22 Inserts Proteins into Inner Membrane	Protein77	Protein78	
+BiochemicalReaction8	Precursor Proteins Enter TIMM23 SORT	Protein79	Complex14	
+BiochemicalReaction8	Precursor Proteins Enter TIMM23 SORT	Complex12	Complex14	
+BiochemicalReaction9	MPP Cleaves Presequence of Inner Membrane Precursors	Complex14	Complex15	

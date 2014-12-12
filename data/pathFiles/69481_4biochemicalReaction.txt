@@ -1,0 +1,49 @@
+BiochemicalReaction1	Recruitment and activation of Chk1	SmallMolecule1	Protein2	
+BiochemicalReaction1	Recruitment and activation of Chk1	Protein1	Protein2	
+BiochemicalReaction1	Recruitment and activation of Chk1	Protein1	SmallMolecule2	
+BiochemicalReaction1	Recruitment and activation of Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex1	Complex9	
+BiochemicalReaction10	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex8	Complex9	
+BiochemicalReaction11	Recruitment of Rad17-RFC complex to DNA	Complex10	Complex11	
+BiochemicalReaction11	Recruitment of Rad17-RFC complex to DNA	Complex8	Complex11	
+BiochemicalReaction12	Recruitment of the 9-1-1 complex to DNA	Complex12	Complex13	
+BiochemicalReaction12	Recruitment of the 9-1-1 complex to DNA	Complex11	Complex13	
+BiochemicalReaction13	Loading of claspin onto DNA during replication origin firing	Complex14	Complex24	
+BiochemicalReaction13	Loading of claspin onto DNA during replication origin firing	Protein54	Complex24	
+BiochemicalReaction14	Activation of claspin	SmallMolecule1	Complex25	
+BiochemicalReaction14	Activation of claspin	Complex24	Complex25	
+BiochemicalReaction14	Activation of claspin	Complex24	SmallMolecule2	
+BiochemicalReaction14	Activation of claspin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein56	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein56	Protein57	
+BiochemicalReaction15	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	Protein57	
+BiochemicalReaction16	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein8	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	Protein9	
+BiochemicalReaction16	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein8	Protein9	
+BiochemicalReaction2	Phosphorylation and activation of CHK2 by ATM	SmallMolecule1	Protein6	
+BiochemicalReaction2	Phosphorylation and activation of CHK2 by ATM	Protein5	Protein6	
+BiochemicalReaction2	Phosphorylation and activation of CHK2 by ATM	Protein5	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation and activation of CHK2 by ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Cdc25C at Ser216	Protein8	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Cdc25C at Ser216	SmallMolecule1	Protein9	
+BiochemicalReaction3	Phosphorylation of Cdc25C at Ser216	Protein8	Protein9	
+BiochemicalReaction4	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	Protein10	Complex2	
+BiochemicalReaction4	Association of phospho-Cdc25C(Ser 216) with 14-3-3 proteins	PhysicalEntity2	Complex2	
+BiochemicalReaction5	Retention of phospho-Cdc25C:14-3-3 complexes within the cytoplasm	Complex2	Complex2	
+BiochemicalReaction6	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	Protein12	
+BiochemicalReaction6	Phosphorylation of Wee1 kinase by Chk1	Protein11	Protein12	
+BiochemicalReaction6	Phosphorylation of Wee1 kinase by Chk1	Protein11	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of Wee1 kinase by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex3	SmallMolecule2	
+BiochemicalReaction7	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	SmallMolecule1	Complex4	
+BiochemicalReaction7	Wee1-mediated phosphorylation of Cyclin B1:phospho-Cdc2 complexes	Complex3	Complex4	
+BiochemicalReaction8	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex5	SmallMolecule4	
+BiochemicalReaction8	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	SmallMolecule3	Complex6	
+BiochemicalReaction8	Myt-1 mediated phosphorylation of Cyclin B:Cdc2 complexes	Complex5	Complex6	
+BiochemicalReaction9	Stalling of DNA replication fork and RPA binding	Complex7	Complex8	
+BiochemicalReaction9	Stalling of DNA replication fork and RPA binding	PhysicalEntity3	Complex8	

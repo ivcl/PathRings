@@ -1,0 +1,15 @@
+BiochemicalReaction1	Formation of Okazaki fragments	Complex1	Complex8	
+BiochemicalReaction2	Formation of the Flap Intermediate	Complex8	Complex9	
+BiochemicalReaction3	RPA binds to the Flap	Complex9	Complex11	
+BiochemicalReaction3	RPA binds to the Flap	Complex10	Complex11	
+BiochemicalReaction4	Recruitment of Dna2 endonuclease	Complex11	Complex12	
+BiochemicalReaction4	Recruitment of Dna2 endonuclease	Protein13	Complex12	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	Protein13	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule1	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule2	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule3	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	Complex13	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	SmallMolecule4	
+BiochemicalReaction5	Removal of RNA primer and dissociation of RPA and Dna2	Complex12	Complex10	
+BiochemicalReaction6	Removal of remaining Flap	Complex13	Complex14	
+BiochemicalReaction7	Joining of adjacent Okazaki fragments	PhysicalEntity4	PhysicalEntity8	

@@ -1,0 +1,69 @@
+BiochemicalReaction1	RasGRP interacts with DAG and Ca2+	Protein1	Complex1	
+BiochemicalReaction1	RasGRP interacts with DAG and Ca2+	SmallMolecule1	Complex1	
+BiochemicalReaction1	RasGRP interacts with DAG and Ca2+	SmallMolecule2	Complex1	
+BiochemicalReaction10	Oligomerization of TRAF6	Protein172	Complex23	
+BiochemicalReaction10	Oligomerization of TRAF6	Complex19	Complex23	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex23	Complex25	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex25	Complex25	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	SmallMolecule3	Complex25	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	PhysicalEntity7	Complex25	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	PhysicalEntity7	Complex26	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	SmallMolecule3	Complex26	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex25	Complex26	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex23	Complex26	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	PhysicalEntity7	SmallMolecule5	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex25	SmallMolecule5	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex23	SmallMolecule5	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	PhysicalEntity7	SmallMolecule6	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex25	SmallMolecule6	
+BiochemicalReaction11	Auto-ubiquitination of TRAF6	Complex23	SmallMolecule6	
+BiochemicalReaction12	Recruitment of TAK1 kinase complex to oligo-K63-pUb-TRAF6	Complex28	Complex29	
+BiochemicalReaction12	Recruitment of TAK1 kinase complex to oligo-K63-pUb-TRAF6	Complex26	Complex29	
+BiochemicalReaction13	Activation of TAK1 complex bound to pUb-TRAF6	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	Activation of TAK1 complex bound to pUb-TRAF6	Complex29	SmallMolecule4	
+BiochemicalReaction13	Activation of TAK1 complex bound to pUb-TRAF6	Complex29	Complex30	
+BiochemicalReaction13	Activation of TAK1 complex bound to pUb-TRAF6	SmallMolecule3	Complex30	
+BiochemicalReaction14	Phosphorylation of IKK-beta by TAK1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	Phosphorylation of IKK-beta by TAK1	Complex31	SmallMolecule4	
+BiochemicalReaction14	Phosphorylation of IKK-beta by TAK1	Complex31	Complex32	
+BiochemicalReaction14	Phosphorylation of IKK-beta by TAK1	SmallMolecule3	Complex32	
+BiochemicalReaction15	Ubiquitination of NEMO by TRAF6	Complex32	Complex25	
+BiochemicalReaction15	Ubiquitination of NEMO by TRAF6	Complex25	Complex25	
+BiochemicalReaction15	Ubiquitination of NEMO by TRAF6	PhysicalEntity7	Complex25	
+BiochemicalReaction15	Ubiquitination of NEMO by TRAF6	PhysicalEntity7	Complex33	
+BiochemicalReaction15	Ubiquitination of NEMO by TRAF6	Complex25	Complex33	
+BiochemicalReaction15	Ubiquitination of NEMO by TRAF6	Complex32	Complex33	
+BiochemicalReaction16	Activation of NF-kB complex	Complex40	SmallMolecule4	
+BiochemicalReaction16	Activation of NF-kB complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction16	Activation of NF-kB complex	SmallMolecule3	Complex41	
+BiochemicalReaction16	Activation of NF-kB complex	Complex40	Complex41	
+BiochemicalReaction16	Activation of NF-kB complex	SmallMolecule3	Protein192	
+BiochemicalReaction16	Activation of NF-kB complex	Complex40	Protein192	
+BiochemicalReaction17	Released NF-kB complex is transported to the nucleus	Complex41	Complex42	
+BiochemicalReaction2	DAG recruits PKC-theta to plasma membrane	Protein5	Complex2	
+BiochemicalReaction2	DAG recruits PKC-theta to plasma membrane	SmallMolecule2	Complex2	
+BiochemicalReaction3	Phosphorylation of PKC-theta	Complex2	SmallMolecule4	
+BiochemicalReaction3	Phosphorylation of PKC-theta	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Phosphorylation of PKC-theta	SmallMolecule3	Complex3	
+BiochemicalReaction3	Phosphorylation of PKC-theta	Complex2	Complex3	
+BiochemicalReaction4	Autophosphorylation of PKC-theta	Complex3	SmallMolecule4	
+BiochemicalReaction4	Autophosphorylation of PKC-theta	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	Autophosphorylation of PKC-theta	SmallMolecule3	Complex11	
+BiochemicalReaction4	Autophosphorylation of PKC-theta	Complex3	Complex11	
+BiochemicalReaction5	Phosphorylation of CARMA1 by PKC-theta	Protein168	Complex12	
+BiochemicalReaction5	Phosphorylation of CARMA1 by PKC-theta	Complex11	Complex12	
+BiochemicalReaction5	Phosphorylation of CARMA1 by PKC-theta	SmallMolecule3	Complex12	
+BiochemicalReaction5	Phosphorylation of CARMA1 by PKC-theta	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Phosphorylation of CARMA1 by PKC-theta	Complex11	SmallMolecule4	
+BiochemicalReaction5	Phosphorylation of CARMA1 by PKC-theta	Protein168	SmallMolecule4	
+BiochemicalReaction6	Oligomerization of p-CARMA1	Complex12	Complex13	
+BiochemicalReaction6	Oligomerization of p-CARMA1	Protein169	Complex13	
+BiochemicalReaction7	Interaction of BCL10:MALT1 with CARMA1 to form CBM complex	Complex14	Complex15	
+BiochemicalReaction7	Interaction of BCL10:MALT1 with CARMA1 to form CBM complex	Complex13	Complex15	
+BiochemicalReaction8	Oligomerization of BCL10 and MALT1	Protein170	Complex17	
+BiochemicalReaction8	Oligomerization of BCL10 and MALT1	Complex15	Complex17	
+BiochemicalReaction8	Oligomerization of BCL10 and MALT1	Protein171	Complex17	
+BiochemicalReaction9	Recruitment of TRAF6 to CBM complex by binding to MALT1	Protein172	Complex19	
+BiochemicalReaction9	Recruitment of TRAF6 to CBM complex by binding to MALT1	Complex17	Complex19	

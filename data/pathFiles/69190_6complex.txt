@@ -1,0 +1,57 @@
+Complex1	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein1	
+Complex1	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein2	
+Complex1	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein3	
+Complex1	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein4	
+Complex1	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein5	
+Complex1	Mcm2-7 complex	nucleoplasm	Reactome DB_ID: 68558	Protein6	
+Complex10	RFC Heteropentamer:RNA primer-DNA primer:origin duplex:PCNA homotrimer	nucleoplasm	Reactome DB_ID: 68471	Complex9	
+Complex10	RFC Heteropentamer:RNA primer-DNA primer:origin duplex:PCNA homotrimer	nucleoplasm	Reactome DB_ID: 68471	Complex8	
+Complex11	RNA primer-DNA primer:origin duplex:PCNA 	nucleoplasm	Reactome DB_ID: 68441	Complex9	
+Complex11	RNA primer-DNA primer:origin duplex:PCNA 	nucleoplasm	Reactome DB_ID: 68441	Complex4	
+Complex12	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein22	
+Complex12	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein23	
+Complex12	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein24	
+Complex12	DNA Polymerase delta tetramer	nucleoplasm	Reactome DB_ID: 68450	Protein25	
+Complex13	Processive complex	nucleoplasm	Reactome DB_ID: 68451	Complex12	
+Complex13	Processive complex	nucleoplasm	Reactome DB_ID: 68451	Complex11	
+Complex14	Processive complex:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 68453	PhysicalEntity7	
+Complex14	Processive complex:Okazaki fragment complex	nucleoplasm	Reactome DB_ID: 68453	Complex13	
+Complex15	Processive complex:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 68455	Complex14	
+Complex15	Processive complex:Okazaki fragment:Flap	nucleoplasm	Reactome DB_ID: 68455	PhysicalEntity8	
+Complex16	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein26	
+Complex16	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein27	
+Complex16	RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68462	Protein28	
+Complex17	Processive complex:Okazaki fragment:Flap:RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68463	Complex15	
+Complex17	Processive complex:Okazaki fragment:Flap:RPA heterotrimer	nucleoplasm	Reactome DB_ID: 68463	Complex16	
+Complex18	Processive complex:Okazaki fragment:Flap:RPA heterotrimer:dna2	nucleoplasm	Reactome DB_ID: 68466	Complex17	
+Complex18	Processive complex:Okazaki fragment:Flap:RPA heterotrimer:dna2	nucleoplasm	Reactome DB_ID: 68466	Protein29	
+Complex19	Processive complex:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 68468	PhysicalEntity7	
+Complex19	Processive complex:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 68468	Complex13	
+Complex19	Processive complex:Okazaki fragments:Remaining Flap	nucleoplasm	Reactome DB_ID: 68468	PhysicalEntity9	
+Complex2	GINS complex	nucleoplasm	Reactome DB_ID: 176952	Protein8	
+Complex2	GINS complex	nucleoplasm	Reactome DB_ID: 176952	Protein9	
+Complex2	GINS complex	nucleoplasm	Reactome DB_ID: 176952	PhysicalEntity3	
+Complex2	GINS complex	nucleoplasm	Reactome DB_ID: 176952	Protein10	
+Complex20	Processive complex:nicked DNA from adjacent Okazaki fragments	nucleoplasm	Reactome DB_ID: 68470	PhysicalEntity10	
+Complex20	Processive complex:nicked DNA from adjacent Okazaki fragments	nucleoplasm	Reactome DB_ID: 68470	Complex13	
+Complex3	Unwinding complex at replication fork	nucleoplasm	Reactome DB_ID: 176949	PhysicalEntity1	
+Complex3	Unwinding complex at replication fork	nucleoplasm	Reactome DB_ID: 176949	Complex1	
+Complex3	Unwinding complex at replication fork	nucleoplasm	Reactome DB_ID: 176949	Protein11	
+Complex3	Unwinding complex at replication fork	nucleoplasm	Reactome DB_ID: 176949	Complex2	
+Complex4	RNA primer-DNA primer:origin duplex	nucleoplasm	Reactome DB_ID: 68425	Complex5	
+Complex4	RNA primer-DNA primer:origin duplex	nucleoplasm	Reactome DB_ID: 68425	PhysicalEntity6	
+Complex5	RNA primer:origin duplex:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 68423	PhysicalEntity4	
+Complex5	RNA primer:origin duplex:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 68423	PhysicalEntity5	
+Complex5	RNA primer:origin duplex:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 68423	Complex6	
+Complex6	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein12	
+Complex6	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein13	
+Complex6	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein14	
+Complex6	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein15	
+Complex7	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein16	
+Complex7	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein17	
+Complex7	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein18	
+Complex7	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein19	
+Complex7	RFC Heteropentamer	nucleoplasm	Reactome DB_ID: 68436	Protein20	
+Complex8	RFC Heteropentamer:RNA primer-DNA primer:origin duplex	nucleoplasm	Reactome DB_ID: 68437	Complex4	
+Complex8	RFC Heteropentamer:RNA primer-DNA primer:origin duplex	nucleoplasm	Reactome DB_ID: 68437	Complex7	
+Complex9	PCNA homotrimer	nucleoplasm	Reactome DB_ID: 68440	Protein21	

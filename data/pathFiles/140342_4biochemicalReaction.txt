@@ -1,0 +1,19 @@
+BiochemicalReaction1	Association of DFF40 with DFF45	Protein1	Complex1	
+BiochemicalReaction1	Association of DFF40 with DFF45	Protein2	Complex1	
+BiochemicalReaction10	Association of HMGB1/HMGB2 with chromatin	Protein24	Complex14	
+BiochemicalReaction10	Association of HMGB1/HMGB2 with chromatin	PhysicalEntity3	Complex14	
+BiochemicalReaction11	Cleavage of DNA by DFF40	Complex13	PhysicalEntity1	
+BiochemicalReaction11	Cleavage of DNA by DFF40	Complex13	Complex15	
+BiochemicalReaction2	Association of DFF with alpha:beta importin	Complex1	Complex3	
+BiochemicalReaction2	Association of DFF with alpha:beta importin	Complex2	Complex3	
+BiochemicalReaction3	Translocation of DFF to the nucleus	Complex3	Complex4	
+BiochemicalReaction4	Translocation of caspase-3 to the nucleus	Complex7	Complex8	
+BiochemicalReaction5	Caspase 3-mediated cleavage of DFF45 (117)	Complex5	Complex9	
+BiochemicalReaction6	Cleavage of DFF45 (224) by caspase-3	Complex9	Complex10	
+BiochemicalReaction7	Cleaved fragments of DFF45 dissociate from  DFF40	Complex10	Protein15	
+BiochemicalReaction7	Cleaved fragments of DFF45 dissociate from  DFF40	Complex10	Protein5	
+BiochemicalReaction7	Cleaved fragments of DFF45 dissociate from  DFF40	Complex10	Protein14	
+BiochemicalReaction7	Cleaved fragments of DFF45 dissociate from  DFF40	Complex10	Protein16	
+BiochemicalReaction8	Homodimerization  of DFF40	Protein5	Complex11	
+BiochemicalReaction9	Association of DFF40 with chromatin	PhysicalEntity1	Complex13	
+BiochemicalReaction9	Association of DFF40 with chromatin	Complex12	Complex13	

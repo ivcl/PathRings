@@ -1,0 +1,8 @@
+BiochemicalReaction1	The signal peptide is excised from beta-NGF pre-pro-precursor	Protein1	Protein2	
+BiochemicalReaction2	pro-beta-NGF dimerizes	Protein2	Complex1	
+BiochemicalReaction3	pro-beta-NGF homodimer transits to the golgi apparatus	Complex1	Complex2	
+BiochemicalReaction4	Part of pro-beta-NGF is processed to mature beta-NGF	Complex2	Complex3	
+BiochemicalReaction5	Pro-beta-NGF and mature beta-NGF are secreted	Complex3	Complex5	
+BiochemicalReaction5	Pro-beta-NGF and mature beta-NGF are secreted	Complex2	Complex5	
+BiochemicalReaction5	Pro-beta-NGF and mature beta-NGF are secreted	Complex2	Complex6	
+BiochemicalReaction5	Pro-beta-NGF and mature beta-NGF are secreted	Complex3	Complex6	

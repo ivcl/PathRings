@@ -1,0 +1,49 @@
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex1	Complex9	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex3	Complex9	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein26	Complex9	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein26	Complex1	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex3	Complex1	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex1	Complex1	
+BiochemicalReaction10	Recruitment of elongation factors to form HIV-1 elongation complex	Protein38	Complex28	
+BiochemicalReaction10	Recruitment of elongation factors to form HIV-1 elongation complex	Complex23	Complex28	
+BiochemicalReaction10	Recruitment of elongation factors to form HIV-1 elongation complex	Protein39	Complex28	
+BiochemicalReaction10	Recruitment of elongation factors to form HIV-1 elongation complex	Complex1	Complex28	
+BiochemicalReaction10	Recruitment of elongation factors to form HIV-1 elongation complex	Complex25	Complex28	
+BiochemicalReaction10	Recruitment of elongation factors to form HIV-1 elongation complex	Complex27	Complex28	
+BiochemicalReaction11	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule1	Complex1	
+BiochemicalReaction11	Addition of nucleotides leads to HIV-1 transcript elongation	Complex28	Complex1	
+BiochemicalReaction11	Addition of nucleotides leads to HIV-1 transcript elongation	Complex28	Complex29	
+BiochemicalReaction11	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule1	Complex29	
+BiochemicalReaction12	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction12	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex29	SmallMolecule1	
+BiochemicalReaction12	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex29	Complex30	
+BiochemicalReaction12	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule1	Complex30	
+BiochemicalReaction13	Separation of elongating HIV-1 transcript from template	Complex30	Complex31	
+BiochemicalReaction14	Limited elongation of the HIV-1 transcript	SmallMolecule1	Complex32	
+BiochemicalReaction14	Limited elongation of the HIV-1 transcript	Complex14	Complex32	
+BiochemicalReaction15	Separation of abortive HIV-1 transcript from template	Complex32	Complex33	
+BiochemicalReaction2	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex9	Complex12	
+BiochemicalReaction2	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex11	Complex12	
+BiochemicalReaction3	Formation of DSIF:NELF:HIV-1 early elongation complex	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction3	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex12	SmallMolecule1	
+BiochemicalReaction3	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex13	SmallMolecule1	
+BiochemicalReaction3	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex13	Complex14	
+BiochemicalReaction3	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex12	Complex14	
+BiochemicalReaction3	Formation of DSIF:NELF:HIV-1 early elongation complex	SmallMolecule1	Complex14	
+BiochemicalReaction4	Abortive termination of HIV-1 early transcription elongation by DSIF:NELF	Complex14	Complex15	
+BiochemicalReaction5	Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex	Complex4	Complex3	
+BiochemicalReaction5	Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex	Complex5	Complex3	
+BiochemicalReaction6	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Complex16	Complex17	
+BiochemicalReaction6	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Protein35	Complex17	
+BiochemicalReaction7	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex14	Complex4	
+BiochemicalReaction7	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex17	Complex4	
+BiochemicalReaction7	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex17	Complex18	
+BiochemicalReaction7	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex14	Complex18	
+BiochemicalReaction8	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction8	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex18	SmallMolecule6	
+BiochemicalReaction8	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex18	Complex21	
+BiochemicalReaction8	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule2	Complex21	
+BiochemicalReaction9	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule2	Complex23	
+BiochemicalReaction9	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex21	Complex23	
+BiochemicalReaction9	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex21	SmallMolecule6	
+BiochemicalReaction9	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule2	SmallMolecule6	

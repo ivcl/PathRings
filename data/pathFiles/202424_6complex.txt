@@ -1,0 +1,72 @@
+Complex1	PI3K	cytosol	Reactome DB_ID: 74693	Protein1	
+Complex1	PI3K	cytosol	Reactome DB_ID: 74693	Protein4	
+Complex10	T-cell receptor complex	plasma membrane	Reactome DB_ID: 198901	Complex11	
+Complex10	T-cell receptor complex	plasma membrane	Reactome DB_ID: 198901	Protein45	
+Complex10	T-cell receptor complex	plasma membrane	Reactome DB_ID: 198901	Complex12	
+Complex10	T-cell receptor complex	plasma membrane	Reactome DB_ID: 198901	Complex13	
+Complex11	CD3 epsilon gamma	plasma membrane	Reactome DB_ID: 198902	Protein43	
+Complex11	CD3 epsilon gamma	plasma membrane	Reactome DB_ID: 198902	Protein44	
+Complex12	CD3 epsilon delta	plasma membrane	Reactome DB_ID: 198900	Protein43	
+Complex12	CD3 epsilon delta	plasma membrane	Reactome DB_ID: 198900	Protein46	
+Complex13	T-cell receptor	plasma membrane	Reactome DB_ID: 198183	Protein47	
+Complex13	T-cell receptor	plasma membrane	Reactome DB_ID: 198183	Protein52	
+Complex14	Active PKC theta bound to DAG	plasma membrane	Reactome DB_ID: 202442	Protein56	
+Complex14	Active PKC theta bound to DAG	plasma membrane	Reactome DB_ID: 202442	SmallMolecule9	
+Complex15	CARMA1 bound to PDK1	plasma membrane	Reactome DB_ID: 202349	Complex4	
+Complex15	CARMA1 bound to PDK1	plasma membrane	Reactome DB_ID: 202349	Protein57	
+Complex16	Activated CARMA1	plasma membrane	Reactome DB_ID: 202440	Protein58	
+Complex16	Activated CARMA1	plasma membrane	Reactome DB_ID: 202440	Complex4	
+Complex17	CARMA1 trimer	plasma membrane	Reactome DB_ID: 202445	Protein58	
+Complex17	CARMA1 trimer	plasma membrane	Reactome DB_ID: 202445	Complex4	
+Complex18	Bcl10 bound to CARMA1	plasma membrane	Reactome DB_ID: 202454	Complex17	
+Complex18	Bcl10 bound to CARMA1	plasma membrane	Reactome DB_ID: 202454	Protein59	
+Complex19	Phosphorylated Bcl10 bound to CARMA1 and RIP2	plasma membrane	Reactome DB_ID: 202480	Complex17	
+Complex19	Phosphorylated Bcl10 bound to CARMA1 and RIP2	plasma membrane	Reactome DB_ID: 202480	Protein60	
+Complex2	PI3K bound to TRAT	plasma membrane	Reactome DB_ID: 202283	Complex1	
+Complex2	PI3K bound to TRAT	plasma membrane	Reactome DB_ID: 202283	Protein7	
+Complex20	Bcl10 trimer bound to CARMA1 trimer	plasma membrane	Reactome DB_ID: 202475	Complex17	
+Complex20	Bcl10 trimer bound to CARMA1 trimer	plasma membrane	Reactome DB_ID: 202475	Protein60	
+Complex21	MALT1 trimer	cytosol	Reactome DB_ID: 202487	Protein62	
+Complex22	MALT1 trimer bound to Bcl10 and CARMA1 trimer	plasma membrane	Reactome DB_ID: 202468	Complex20	
+Complex22	MALT1 trimer bound to Bcl10 and CARMA1 trimer	plasma membrane	Reactome DB_ID: 202468	Complex21	
+Complex23	TRAF6 trimer bound to CBM complex	plasma membrane	Reactome DB_ID: 202471	Protein63	
+Complex23	TRAF6 trimer bound to CBM complex	plasma membrane	Reactome DB_ID: 202471	Complex22	
+Complex24	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein64	
+Complex24	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein65	
+Complex25	Ub-TRAF6 trimer bound to CBM complex	plasma membrane	Reactome DB_ID: 202456	Protein66	
+Complex25	Ub-TRAF6 trimer bound to CBM complex	plasma membrane	Reactome DB_ID: 202456	Complex22	
+Complex26	TAB2/TAK1 complex	cytosol	Reactome DB_ID: 202504	Protein67	
+Complex26	TAB2/TAK1 complex	cytosol	Reactome DB_ID: 202504	Protein68	
+Complex27	TAK1/TAB2 complex bound to TRAF6/CBM complex	plasma membrane	Reactome DB_ID: 202507	Complex25	
+Complex27	TAK1/TAB2 complex bound to TRAF6/CBM complex	plasma membrane	Reactome DB_ID: 202507	Complex28	
+Complex28	phosphorylated TAK1 bound to TAB2	cytosol	Reactome DB_ID: 202516	Protein69	
+Complex28	phosphorylated TAK1 bound to TAB2	cytosol	Reactome DB_ID: 202516	Protein68	
+Complex29	IKK complex	cytosol	Reactome DB_ID: 168113	Protein70	
+Complex29	IKK complex	cytosol	Reactome DB_ID: 168113	Protein71	
+Complex29	IKK complex	cytosol	Reactome DB_ID: 168113	Protein72	
+Complex3	PTEN:Mg2+	cytosol	Reactome DB_ID: 199426	SmallMolecule7	
+Complex3	PTEN:Mg2+	cytosol	Reactome DB_ID: 199426	Protein9	
+Complex30	p-S177,S181-IKKB:IKKA:NEMO	cytosol	Reactome DB_ID: 202513	Protein70	
+Complex30	p-S177,S181-IKKB:IKKA:NEMO	cytosol	Reactome DB_ID: 202513	Protein73	
+Complex30	p-S177,S181-IKKB:IKKA:NEMO	cytosol	Reactome DB_ID: 202513	Protein71	
+Complex31	p-S177,S181-IKKB:IKKA:pUb-NEMO	cytosol	Reactome DB_ID: 202562	Protein70	
+Complex31	p-S177,S181-IKKB:IKKA:pUb-NEMO	cytosol	Reactome DB_ID: 202562	Protein74	
+Complex31	p-S177,S181-IKKB:IKKA:pUb-NEMO	cytosol	Reactome DB_ID: 202562	Protein73	
+Complex32	IkB(alpha):NF-kB complex	cytosol	Reactome DB_ID: 193938	Complex33	
+Complex32	IkB(alpha):NF-kB complex	cytosol	Reactome DB_ID: 193938	Protein77	
+Complex33	NF-kB complex	cytosol	Reactome DB_ID: 194043	Protein75	
+Complex33	NF-kB complex	cytosol	Reactome DB_ID: 194043	Protein76	
+Complex4	PDK1:PIP2,PIP3	plasma membrane	Reactome DB_ID: 202311	Protein11	
+Complex4	PDK1:PIP2,PIP3	plasma membrane	Reactome DB_ID: 202311	SmallMolecule8	
+Complex5	PKC-theta (open): DAG	plasma membrane	Reactome DB_ID: 202187	Protein13	
+Complex5	PKC-theta (open): DAG	plasma membrane	Reactome DB_ID: 202187	SmallMolecule9	
+Complex6	p-Y90-PKC-theta:DAG	plasma membrane	Reactome DB_ID: 202300	Protein14	
+Complex6	p-Y90-PKC-theta:DAG	plasma membrane	Reactome DB_ID: 202300	SmallMolecule9	
+Complex7	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	plasma membrane	Reactome DB_ID: 202266	Complex8	
+Complex7	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	plasma membrane	Reactome DB_ID: 202266	Protein41	
+Complex7	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	plasma membrane	Reactome DB_ID: 202266	Protein42	
+Complex7	Antigen-bearing MHC Class II :TCR complex:CD4: Lck phosphorylated at Tyr394	plasma membrane	Reactome DB_ID: 202266	Complex10	
+Complex8	MHC Class II bearing antigen peptide	plasma membrane	Reactome DB_ID: 203463	PhysicalEntity1	
+Complex8	MHC Class II bearing antigen peptide	plasma membrane	Reactome DB_ID: 203463	Complex9	
+Complex9	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein15	
+Complex9	MHC class II alpha/beta dimer	plasma membrane	Reactome DB_ID: 2213189	Protein36	

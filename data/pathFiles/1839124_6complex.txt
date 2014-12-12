@@ -1,0 +1,68 @@
+Complex10	FOP-FGFR1 fusion dimer	cytosol	Reactome DB_ID: 1604535	Protein5	
+Complex11	CNTRL-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1604531	Protein9	
+Complex12	BCR-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1604525	Protein6	
+Complex13	FGFR1OP2-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1637884	Protein7	
+Complex14	TRIM24-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1638017	Protein13	
+Complex15	CUX1-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1637880	Protein8	
+Complex16	CPSF6-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1637878	Protein11	
+Complex17	LRRFIP1-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1604541	Protein10	
+Complex18	MYO18A-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1637934	Protein12	
+Complex2	FGFR1b homodimer	plasma membrane	Reactome DB_ID: 190228	PhysicalEntity2	
+Complex20	BCR-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1838980	Protein14	
+Complex21	CEP110-p-FGFR1	cytosol	Reactome DB_ID: 1838984	Protein15	
+Complex22	FGFR1OP-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1838997	Protein16	
+Complex23	FGFR1OP2-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1839001	Protein17	
+Complex24	TRIM24-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1839015	Protein18	
+Complex25	ZMYM2-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1839019	Protein19	
+Complex26	CUX1-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1838992	Protein20	
+Complex27	CPSF6-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1838989	Protein21	
+Complex28	LRRFIP1-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1839005	Protein22	
+Complex29	MYO18A-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1839009	Protein23	
+Complex3	FGFR1c homodimer	plasma membrane	Reactome DB_ID: 190222	Protein1	
+Complex30	FGFR1 fusion mutant dimers:TKIs	cytosol	Reactome DB_ID: 1839036	SmallMolecule13	
+Complex30	FGFR1 fusion mutant dimers:TKIs	cytosol	Reactome DB_ID: 1839036	Complex8	
+Complex31	pY177-BCR-p-FGFR1 fusion mutant dimer	cytosol	Reactome DB_ID: 1839043	Protein24	
+Complex32	Activated FGFR1 fusion mutants:PLC-gamma	cytosol	Reactome DB_ID: 1839061	PhysicalEntity4	
+Complex32	Activated FGFR1 fusion mutants:PLC-gamma	cytosol	Reactome DB_ID: 1839061	Protein25	
+Complex32	Activated FGFR1 fusion mutants:PLC-gamma	cytosol	Reactome DB_ID: 1839061	SmallMolecule15	
+Complex33	Activated FGFR1 fusion mutants:p-PLCgamma	cytosol	Reactome DB_ID: 1839062	PhysicalEntity4	
+Complex33	Activated FGFR1 fusion mutants:p-PLCgamma	cytosol	Reactome DB_ID: 1839062	Protein26	
+Complex34	p-FGFR1 fusion mutant dimers:PIK3R1	cytosol	Reactome DB_ID: 1839052	Protein27	
+Complex34	p-FGFR1 fusion mutant dimers:PIK3R1	cytosol	Reactome DB_ID: 1839052	Complex19	
+Complex35	p-FGFR1 mutant fusions:PI3K	cytosol	Reactome DB_ID: 1839055	Protein28	
+Complex35	p-FGFR1 mutant fusions:PI3K	cytosol	Reactome DB_ID: 1839055	Complex34	
+Complex36	GRB2:GAB2	cytosol	Reactome DB_ID: 912522	Protein29	
+Complex36	GRB2:GAB2	cytosol	Reactome DB_ID: 912522	Protein30	
+Complex37	pY177-BCR1-p-FGFR1 mutant:GRB2:GAB2	cytosol	Reactome DB_ID: 1839045	Complex31	
+Complex37	pY177-BCR1-p-FGFR1 mutant:GRB2:GAB2	cytosol	Reactome DB_ID: 1839045	Complex36	
+Complex38	pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2	cytosol	Reactome DB_ID: 1839047	Complex39	
+Complex38	pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2	cytosol	Reactome DB_ID: 1839047	Complex31	
+Complex39	GRB2:pY-GAB2	cytosol	Reactome DB_ID: 912528	Protein31	
+Complex39	GRB2:pY-GAB2	cytosol	Reactome DB_ID: 912528	Protein30	
+Complex40	p-Y177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2:PIK3R1	cytosol	Reactome DB_ID: 1839048	Protein27	
+Complex40	p-Y177-BCR-pY-FGFR1 mutant:GRB2:p-GAB2:PIK3R1	cytosol	Reactome DB_ID: 1839048	Complex38	
+Complex41	pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB1:PI3K	cytosol	Reactome DB_ID: 1839051	Complex40	
+Complex41	pY177-BCR-pY-FGFR1 mutant:GRB2:p-GAB1:PI3K	cytosol	Reactome DB_ID: 1839051	Protein28	
+Complex43	FGFR1 P252X mutant dimers bound to FGFs	plasma membrane	Reactome DB_ID: 2050638	Protein48	
+Complex43	FGFR1 P252X mutant dimers bound to FGFs	plasma membrane	Reactome DB_ID: 2050638	Complex44	
+Complex43	FGFR1 P252X mutant dimers bound to FGFs	plasma membrane	Reactome DB_ID: 2050638	SmallMolecule17	
+Complex45	FGFR1 P252S mutant dimer	plasma membrane	Reactome DB_ID: 2011924	Protein45	
+Complex46	FGFR1 S252T mutant dimer	plasma membrane	Reactome DB_ID: 2011926	Protein46	
+Complex47	FGFR1c P252R mutant dimer	plasma membrane	Reactome DB_ID: 2011923	Protein47	
+Complex48	Activated FGFR1 P252X mutants	plasma membrane	Reactome DB_ID: 2050642	Protein48	
+Complex48	Activated FGFR1 P252X mutants	plasma membrane	Reactome DB_ID: 2050642	SmallMolecule17	
+Complex48	Activated FGFR1 P252X mutants	plasma membrane	Reactome DB_ID: 2050642	Complex49	
+Complex5	Activated overexpressed FGFR1b homodimer	plasma membrane	Reactome DB_ID: 1982038	PhysicalEntity3	
+Complex50	phosphorylated FGFR1 P252S mutant dimer	plasma membrane	Reactome DB_ID: 2011961	Protein59	
+Complex51	phosphorylated FGFR1 P252T mutant dimer	plasma membrane	Reactome DB_ID: 2018773	Protein60	
+Complex52	phosphorylated FGFR1c P252R mutant dimer	plasma membrane	Reactome DB_ID: 2011960	Protein61	
+Complex54	FGFR1 K656E mutant dimer	plasma membrane	Reactome DB_ID: 2023412	Protein63	
+Complex55	FGFR1 N546K mutant dimer	plasma membrane	Reactome DB_ID: 2023414	Protein64	
+Complex56	FGFR1 R576W mutant dimer	plasma membrane	Reactome DB_ID: 2023419	Protein65	
+Complex58	phosphorylated FGFR1 K656E mutant dimer	plasma membrane	Reactome DB_ID: 2023426	Protein66	
+Complex59	phosphorylated FGFR1 N546K mutant dimer	plasma membrane	Reactome DB_ID: 2023428	Protein67	
+Complex6	Activated overexpressed FGFR1c homodimer	plasma membrane	Reactome DB_ID: 1982036	Protein2	
+Complex60	phosphorylated FGFR1 R576W mutant dimer	plasma membrane	Reactome DB_ID: 2023430	Protein68	
+Complex7	Overexpressed FGFR1:TKIs	plasma membrane	Reactome DB_ID: 2023442	Complex1	
+Complex7	Overexpressed FGFR1:TKIs	plasma membrane	Reactome DB_ID: 2023442	SmallMolecule3	
+Complex9	ZNF198-FGFR1 fusion dimer	cytosol	Reactome DB_ID: 1604545	Protein4	

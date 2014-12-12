@@ -1,0 +1,28 @@
+BiochemicalReaction1	Activin A/AB/B Binds Activin Receptor ACVR2A/B:ACVR1B	Protein1	Complex5	
+BiochemicalReaction1	Activin A/AB/B Binds Activin Receptor ACVR2A/B:ACVR1B	Protein4	Complex5	
+BiochemicalReaction1	Activin A/AB/B Binds Activin Receptor ACVR2A/B:ACVR1B	Complex1	Complex5	
+BiochemicalReaction10	Follistatin (FST) binds Activin	Protein24	Complex16	
+BiochemicalReaction10	Follistatin (FST) binds Activin	Complex1	Complex16	
+BiochemicalReaction2	Activin AB/B Binds Activin Receptor ACVR2A/B:ACVR1C	Protein1	Complex7	
+BiochemicalReaction2	Activin AB/B Binds Activin Receptor ACVR2A/B:ACVR1C	Complex6	Complex7	
+BiochemicalReaction2	Activin AB/B Binds Activin Receptor ACVR2A/B:ACVR1C	Protein7	Complex7	
+BiochemicalReaction3	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1B (ActRIB, ALK4) in Response to Activin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1B (ActRIB, ALK4) in Response to Activin	Complex5	SmallMolecule2	
+BiochemicalReaction3	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1B (ActRIB, ALK4) in Response to Activin	Complex5	Complex8	
+BiochemicalReaction3	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1B (ActRIB, ALK4) in Response to Activin	SmallMolecule1	Complex8	
+BiochemicalReaction4	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1C (ActRIC, ALK7) in Response to Activin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1C (ActRIC, ALK7) in Response to Activin	Complex7	SmallMolecule2	
+BiochemicalReaction4	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1C (ActRIC, ALK7) in Response to Activin	Complex7	Complex9	
+BiochemicalReaction4	ACVR2A/B (ActRIIA/B) Phosphorylates ACVR1C (ActRIC, ALK7) in Response to Activin	SmallMolecule1	Complex9	
+BiochemicalReaction5	Phosphorylation of SMAD2/3 by Activin:Activin Receptor	Protein10	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of SMAD2/3 by Activin:Activin Receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of SMAD2/3 by Activin:Activin Receptor	SmallMolecule1	Protein13	
+BiochemicalReaction5	Phosphorylation of SMAD2/3 by Activin:Activin Receptor	Protein10	Protein13	
+BiochemicalReaction6	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein16	Complex11	
+BiochemicalReaction6	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein13	Complex11	
+BiochemicalReaction7	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex11	Complex12	
+BiochemicalReaction8	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	Protein21	Complex13	
+BiochemicalReaction8	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	Complex12	Complex13	
+BiochemicalReaction8	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	PhysicalEntity1	Complex13	
+BiochemicalReaction9	FSTL3 binds Activin	Protein23	Complex15	
+BiochemicalReaction9	FSTL3 binds Activin	Complex1	Complex15	

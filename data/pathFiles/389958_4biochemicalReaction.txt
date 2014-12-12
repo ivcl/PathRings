@@ -1,0 +1,23 @@
+BiochemicalReaction1	unfolded actin/tubulin associates with prefoldin	Protein1	Complex2	
+BiochemicalReaction1	unfolded actin/tubulin associates with prefoldin	Complex1	Complex2	
+BiochemicalReaction2	Actin/tubulin:prefoldin complex associates with CCT/TriC	Complex3	Complex4	
+BiochemicalReaction2	Actin/tubulin:prefoldin complex associates with CCT/TriC	Complex2	Complex4	
+BiochemicalReaction2	Actin/tubulin:prefoldin complex associates with CCT/TriC	Complex2	Complex1	
+BiochemicalReaction2	Actin/tubulin:prefoldin complex associates with CCT/TriC	Complex3	Complex1	
+BiochemicalReaction3	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	Complex5	SmallMolecule1	
+BiochemicalReaction3	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction3	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	SmallMolecule2	Complex6	
+BiochemicalReaction3	ADP is exchanged for ATP in the (ADP:CCT/TriC):tubulin complex	Complex5	Complex6	
+BiochemicalReaction4	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	Complex6	SmallMolecule4	
+BiochemicalReaction4	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	Complex6	Complex3	
+BiochemicalReaction4	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	SmallMolecule3	Complex3	
+BiochemicalReaction4	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	Complex6	Complex7	
+BiochemicalReaction4	Hydrolysis of ATP and release of tubulin folding intermediate from CCT/TriC	SmallMolecule3	Complex7	
+BiochemicalReaction5	Exchange of ADP for ATP in CCT/TriC:actin complex	Complex8	SmallMolecule1	
+BiochemicalReaction5	Exchange of ADP for ATP in CCT/TriC:actin complex	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction5	Exchange of ADP for ATP in CCT/TriC:actin complex	SmallMolecule2	Complex9	
+BiochemicalReaction5	Exchange of ADP for ATP in CCT/TriC:actin complex	Complex8	Complex9	
+BiochemicalReaction6	Hydrolysis of ATP and release of folded actin from CCT/TriC	Complex9	SmallMolecule4	
+BiochemicalReaction6	Hydrolysis of ATP and release of folded actin from CCT/TriC	Complex9	Complex3	
+BiochemicalReaction6	Hydrolysis of ATP and release of folded actin from CCT/TriC	Complex9	Protein44	

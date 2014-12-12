@@ -1,0 +1,11 @@
+BiochemicalReaction1	Homodimerization of VEGF proteins	Protein1	Complex1	
+BiochemicalReaction2	VEGF-A,B,PLGF bind to VEGFR1 leading to receptor dimerization	Complex2	Complex6	
+BiochemicalReaction2	VEGF-A,B,PLGF bind to VEGFR1 leading to receptor dimerization	Protein7	Complex6	
+BiochemicalReaction3	VEGF-A,C,D bind to VEGFR2 leading to receptor dimerization	Protein8	Complex11	
+BiochemicalReaction3	VEGF-A,C,D bind to VEGFR2 leading to receptor dimerization	Complex8	Complex11	
+BiochemicalReaction4	VEGF-C,D bind to VEGFR3 leading to receptor dimerization	Protein9	Complex14	
+BiochemicalReaction4	VEGF-C,D bind to VEGFR3 leading to receptor dimerization	Complex13	Complex14	
+BiochemicalReaction5	NRP-1 forms a ternary complex with VEGF165 and VEGFR1	Protein10	Complex16	
+BiochemicalReaction5	NRP-1 forms a ternary complex with VEGF165 and VEGFR1	Protein8	Complex16	
+BiochemicalReaction6	NRP-2 associates with VEGFR1 forming complexes on  cell surface	Protein11	Complex17	
+BiochemicalReaction6	NRP-2 associates with VEGFR1 forming complexes on  cell surface	Protein7	Complex17	

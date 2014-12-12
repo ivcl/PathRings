@@ -1,0 +1,18 @@
+BiochemicalReaction1	Caspase cleavage of DCC	Protein1	Protein2	
+BiochemicalReaction1	Caspase cleavage of DCC	Protein1	Protein3	
+BiochemicalReaction2	DCC interacts with DIP13alpha	Protein6	Complex3	
+BiochemicalReaction2	DCC interacts with DIP13alpha	Protein3	Complex3	
+BiochemicalReaction3	Caspase-9 binds DCC:DIP13alpha complex	Complex3	Complex5	
+BiochemicalReaction3	Caspase-9 binds DCC:DIP13alpha complex	Complex4	Complex5	
+BiochemicalReaction4	Activation of caspase-3	Protein9	SmallMolecule2	
+BiochemicalReaction4	Activation of caspase-3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Activation of caspase-3	SmallMolecule1	Complex6	
+BiochemicalReaction4	Activation of caspase-3	Protein9	Complex6	
+BiochemicalReaction5	Caspase cleavage of UNC5B	Protein10	Protein11	
+BiochemicalReaction5	Caspase cleavage of UNC5B	Protein10	Protein12	
+BiochemicalReaction6	DAPK binds UNC5B	Protein11	Complex7	
+BiochemicalReaction6	DAPK binds UNC5B	Protein13	Complex7	
+BiochemicalReaction7	Caspase cleavage of UNC5A	Protein17	Protein18	
+BiochemicalReaction7	Caspase cleavage of UNC5A	Protein17	Protein19	
+BiochemicalReaction8	UNC5A binds NRAGE	Protein20	Complex8	
+BiochemicalReaction8	UNC5A binds NRAGE	Protein18	Complex8	

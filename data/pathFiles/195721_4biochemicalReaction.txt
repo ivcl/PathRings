@@ -1,0 +1,55 @@
+BiochemicalReaction1	N-linked glycosylation of WNTs	Protein1	Protein21	
+BiochemicalReaction10	WLS dissociates from retromer	Complex5	Protein83	
+BiochemicalReaction10	WLS dissociates from retromer	Complex5	Protein126	
+BiochemicalReaction10	WLS dissociates from retromer	Complex5	Complex3	
+BiochemicalReaction11	Assembly of the destruction complex	Protein130	Complex7	
+BiochemicalReaction11	Assembly of the destruction complex	Complex6	Complex7	
+BiochemicalReaction11	Assembly of the destruction complex	Protein143	Complex7	
+BiochemicalReaction11	Assembly of the destruction complex	Protein144	Complex7	
+BiochemicalReaction11	Assembly of the destruction complex	Protein145	Complex7	
+BiochemicalReaction11	Assembly of the destruction complex	Protein146	Complex7	
+BiochemicalReaction12	Association of beta-catenin with the destruction complex	Protein147	Complex8	
+BiochemicalReaction12	Association of beta-catenin with the destruction complex	Complex7	Complex8	
+BiochemicalReaction13	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	Complex8	SmallMolecule4	
+BiochemicalReaction13	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	SmallMolecule3	Complex9	
+BiochemicalReaction13	Phosphorylation of beta-catenin at Ser45 by CK1 alpha	Complex8	Complex9	
+BiochemicalReaction14	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	Complex9	SmallMolecule4	
+BiochemicalReaction14	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	SmallMolecule3	Complex10	
+BiochemicalReaction14	Phosphorylation of phospho-(Ser45 ) at Thr 41 by GSK-3	Complex9	Complex10	
+BiochemicalReaction15	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	Complex10	Complex12	
+BiochemicalReaction15	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	SmallMolecule3	Complex12	
+BiochemicalReaction15	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction15	Phosphoryation of phospho- (Ser45, Thr41) beta-catenin  at Ser37 by GSK-3	Complex10	SmallMolecule4	
+BiochemicalReaction16	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	Complex12	SmallMolecule4	
+BiochemicalReaction16	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction16	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	SmallMolecule3	Complex13	
+BiochemicalReaction16	Phosphorylation of phospho-(Ser45,Thr41,Ser37) at Ser33 by GSK-3	Complex12	Complex13	
+BiochemicalReaction17	Phosphorylation of APC component of the destruction complex	SmallMolecule3	Complex14	
+BiochemicalReaction17	Phosphorylation of APC component of the destruction complex	Complex13	Complex14	
+BiochemicalReaction17	Phosphorylation of APC component of the destruction complex	Complex13	SmallMolecule4	
+BiochemicalReaction17	Phosphorylation of APC component of the destruction complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction18	Dissociation of beta-catenin from Axin and association of beta catenin with phospho-(20 aa) APC in the detruction complex	Complex14	Complex15	
+BiochemicalReaction19	Association of beta-catenin with  the SCF-beta-TrCP1 ubiquitin ligase complex	Complex15	Complex17	
+BiochemicalReaction19	Association of beta-catenin with  the SCF-beta-TrCP1 ubiquitin ligase complex	Complex16	Complex17	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	Protein21	SmallMolecule2	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	SmallMolecule1	Protein41	
+BiochemicalReaction2	PORCN palmitoleoylates N-glycosyl WNTs	Protein21	Protein41	
+BiochemicalReaction20	Multi-ubiquitination of phospho-beta-catenin by SCF-beta-TrCP1	Protein164	Complex18	
+BiochemicalReaction20	Multi-ubiquitination of phospho-beta-catenin by SCF-beta-TrCP1	Complex17	Complex18	
+BiochemicalReaction21	Degradation of ubiquitinated -beta catenin by the proteasome	Complex18	Protein164	
+BiochemicalReaction21	Degradation of ubiquitinated -beta catenin by the proteasome	Complex18	Complex19	
+BiochemicalReaction21	Degradation of ubiquitinated -beta catenin by the proteasome	Complex18	Complex16	
+BiochemicalReaction3	WNT ligands traffic to the Golgi	Protein41	Protein62	
+BiochemicalReaction4	WLS binds WNT ligands in the Golgi	Protein83	Complex1	
+BiochemicalReaction4	WLS binds WNT ligands in the Golgi	Protein62	Complex1	
+BiochemicalReaction5	WNT ligands traffic to the plasma membrane	Complex1	Complex2	
+BiochemicalReaction6	secretion of WNT ligands	Complex2	Protein104	
+BiochemicalReaction6	secretion of WNT ligands	Complex2	Protein105	
+BiochemicalReaction7	WLS is endocytosed to the early endosome	Protein104	Protein125	
+BiochemicalReaction8	Retromer associates with WLS	Protein126	Complex4	
+BiochemicalReaction8	Retromer associates with WLS	Complex3	Complex4	
+BiochemicalReaction8	Retromer associates with WLS	Protein125	Complex4	
+BiochemicalReaction9	Retromer recycles WLS to the Golgi	Complex4	Complex5	

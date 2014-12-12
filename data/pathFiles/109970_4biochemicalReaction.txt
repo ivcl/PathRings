@@ -1,0 +1,105 @@
+BiochemicalReaction1	XPC binds to HR23B forming a heterodimeric complex	Protein1	Complex1	
+BiochemicalReaction1	XPC binds to HR23B forming a heterodimeric complex	Protein2	Complex1	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity4	PhysicalEntity4	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex11	PhysicalEntity4	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex14	PhysicalEntity4	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity6	PhysicalEntity4	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex13	PhysicalEntity4	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex5	PhysicalEntity4	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex5	PhysicalEntity7	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex13	PhysicalEntity7	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex14	PhysicalEntity7	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex11	PhysicalEntity7	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity4	PhysicalEntity7	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex5	Complex11	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex13	Complex11	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity6	Complex11	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex14	Complex11	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex11	Complex11	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity4	Complex11	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex5	Complex14	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex13	Complex14	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity6	Complex14	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex14	Complex14	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex11	Complex14	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity4	Complex14	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex5	Complex13	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex13	Complex13	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity6	Complex13	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex14	Complex13	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex11	Complex13	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity4	Complex13	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex5	Complex5	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex13	Complex5	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity6	Complex5	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex14	Complex5	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	Complex11	Complex5	
+BiochemicalReaction10	Repair synthesis of patch ~27-30 bases long  by DNA Pol Delta	PhysicalEntity4	Complex5	
+BiochemicalReaction11	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity7	Protein33	
+BiochemicalReaction11	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity4	Protein33	
+BiochemicalReaction11	Ligation of newly synthesized repair patch to incised DNA in GG-NER	Protein33	Protein33	
+BiochemicalReaction11	Ligation of newly synthesized repair patch to incised DNA in GG-NER	Protein33	PhysicalEntity8	
+BiochemicalReaction11	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity4	PhysicalEntity8	
+BiochemicalReaction11	Ligation of newly synthesized repair patch to incised DNA in GG-NER	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction2	XPC:HR23B complex binds to damaged DNA site with lesion	Complex1	Complex2	
+BiochemicalReaction2	XPC:HR23B complex binds to damaged DNA site with lesion	PhysicalEntity1	Complex2	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Complex2	Complex6	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Protein3	Complex6	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Protein4	Complex6	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Complex3	Complex6	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Protein14	Complex6	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Complex5	Complex6	
+BiochemicalReaction3	Recruitment of repair factors to form preincision complex	Protein18	Complex6	
+BiochemicalReaction4	Formation of open bubble structure in DNA by helicases	Complex6	Complex7	
+BiochemicalReaction5	Formation of ERCC1-XPF heterodimeric complex	Protein19	Complex8	
+BiochemicalReaction5	Formation of ERCC1-XPF heterodimeric complex	Protein20	Complex8	
+BiochemicalReaction6	Binding of ERCC1-XPF to preincision complex 	Complex8	Complex9	
+BiochemicalReaction6	Binding of ERCC1-XPF to preincision complex 	Complex7	Complex9	
+BiochemicalReaction7	3'- incision of DNA by XPG in GG-NER	Complex9	Complex10	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Complex1	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	PhysicalEntity4	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	PhysicalEntity5	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Complex8	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Protein3	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Protein4	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Complex3	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Protein14	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Complex5	
+BiochemicalReaction8	5'-incision of DNA by ERCC1-XPF in GG-NER	Complex10	Protein18	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity4	PhysicalEntity4	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex11	PhysicalEntity4	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex12	PhysicalEntity4	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity6	PhysicalEntity4	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex13	PhysicalEntity4	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex5	PhysicalEntity4	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex5	PhysicalEntity7	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex13	PhysicalEntity7	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex12	PhysicalEntity7	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex11	PhysicalEntity7	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity4	PhysicalEntity7	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex5	Complex11	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex13	Complex11	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity6	Complex11	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex12	Complex11	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex11	Complex11	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity4	Complex11	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex5	Complex12	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex13	Complex12	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity6	Complex12	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex12	Complex12	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex11	Complex12	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity4	Complex12	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex5	Complex13	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex13	Complex13	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity6	Complex13	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex12	Complex13	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex11	Complex13	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity4	Complex13	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex5	Complex5	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex13	Complex5	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity6	Complex5	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex12	Complex5	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	Complex11	Complex5	
+BiochemicalReaction9	Repair synthesis of ~27-30 bases long patch  by DNA Pol Epsilon	PhysicalEntity4	Complex5	

@@ -1,0 +1,11 @@
+BiochemicalReaction1	Binding of gp120 of ENV oligomer to the host CD4	Protein1	Complex7	
+BiochemicalReaction1	Binding of gp120 of ENV oligomer to the host CD4	Complex1	Complex7	
+BiochemicalReaction2	Conformational change in gp120 of Env oligomer	Complex7	Complex9	
+BiochemicalReaction3	CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4	Complex9	Complex13	
+BiochemicalReaction3	CD4:gp120  binds to chemokine co-receptor CCR5/CXCR4	Protein20	Complex13	
+BiochemicalReaction4	Conformational changes in gp120 exposes gp41	Complex13	Complex15	
+BiochemicalReaction5	Fusogenic activation of gp41	Complex15	Complex20	
+BiochemicalReaction6	Insertion of gp41 fusion peptide into the target membrane	Complex20	Complex25	
+BiochemicalReaction7	N and C terminal heptad repeat helices of gp41 form six-helix bundle	Complex25	Complex30	
+BiochemicalReaction8	Fusion of viral membrane with host cell membrane	Complex30	Complex35	
+BiochemicalReaction8	Fusion of viral membrane with host cell membrane	Complex30	Complex31	

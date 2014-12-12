@@ -1,0 +1,465 @@
+BiochemicalReaction1	GLUT1/3 transports extracellular DHvitC to cytosol	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	SLC52A3 transports extracellular RIB to cytosol	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction100	NFS1 transfers sulfur from cysteine onto MOCS3	Complex78	Complex79	
+BiochemicalReaction100	NFS1 transfers sulfur from cysteine onto MOCS3	SmallMolecule34	Complex79	
+BiochemicalReaction100	NFS1 transfers sulfur from cysteine onto MOCS3	SmallMolecule34	SmallMolecule129	
+BiochemicalReaction100	NFS1 transfers sulfur from cysteine onto MOCS3	Complex78	SmallMolecule129	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Complex79	Protein112	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Protein111	Protein112	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	SmallMolecule18	Protein112	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Protein111	SmallMolecule20	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Complex79	SmallMolecule20	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Protein111	SmallMolecule30	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Complex79	SmallMolecule30	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	SmallMolecule18	Complex81	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Protein111	Complex81	
+BiochemicalReaction101	Transfer of sulfur from MOCS3-S-S onto MOCS2A	Complex79	Complex81	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	Complex82	Complex83	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	SmallMolecule127	Complex83	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	SmallMolecule24	Complex83	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	SmallMolecule24	SmallMolecule10	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	SmallMolecule127	SmallMolecule10	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	Complex82	SmallMolecule10	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	SmallMolecule24	SmallMolecule130	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	SmallMolecule127	SmallMolecule130	
+BiochemicalReaction102	Sulfhydrylation and ring cleavage of precursor Z	Complex82	SmallMolecule130	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule131	SmallMolecule20	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule130	SmallMolecule20	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule24	SmallMolecule20	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule24	SmallMolecule30	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule130	SmallMolecule30	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule131	SmallMolecule30	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule24	SmallMolecule132	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule130	SmallMolecule132	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule18	SmallMolecule132	
+BiochemicalReaction103	Molybdenum ion transfer onto molybdopterin	SmallMolecule131	SmallMolecule132	
+BiochemicalReaction104	Exchange of oxygen with sulfur in MoCo	SmallMolecule34	SmallMolecule133	
+BiochemicalReaction104	Exchange of oxygen with sulfur in MoCo	SmallMolecule132	SmallMolecule133	
+BiochemicalReaction104	Exchange of oxygen with sulfur in MoCo	SmallMolecule132	SmallMolecule129	
+BiochemicalReaction104	Exchange of oxygen with sulfur in MoCo	SmallMolecule34	SmallMolecule129	
+BiochemicalReaction11	RFK:Mg2+ phosphorylates RIB	SmallMolecule27	SmallMolecule23	
+BiochemicalReaction11	RFK:Mg2+ phosphorylates RIB	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction11	RFK:Mg2+ phosphorylates RIB	SmallMolecule18	SmallMolecule28	
+BiochemicalReaction11	RFK:Mg2+ phosphorylates RIB	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction12	FLAD1 phosphorylates FMN	SmallMolecule18	SmallMolecule29	
+BiochemicalReaction12	FLAD1 phosphorylates FMN	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction12	FLAD1 phosphorylates FMN	SmallMolecule28	SmallMolecule30	
+BiochemicalReaction12	FLAD1 phosphorylates FMN	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction13	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule29	SmallMolecule20	
+BiochemicalReaction13	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule24	SmallMolecule20	
+BiochemicalReaction13	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule24	SmallMolecule28	
+BiochemicalReaction13	2xENPP1 hydrolyzes FAD to FMN	SmallMolecule29	SmallMolecule28	
+BiochemicalReaction14	2xTRAP hydrolyzes FMN to RIB	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction14	2xTRAP hydrolyzes FMN to RIB	SmallMolecule28	SmallMolecule25	
+BiochemicalReaction14	2xTRAP hydrolyzes FMN to RIB	SmallMolecule28	SmallMolecule27	
+BiochemicalReaction14	2xTRAP hydrolyzes FMN to RIB	SmallMolecule24	SmallMolecule27	
+BiochemicalReaction15	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction15	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule31	SmallMolecule6	
+BiochemicalReaction15	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction15	SLC5A6 cotransports extracellular PanK and 2Na+ to cytosol	SmallMolecule3	SmallMolecule32	
+BiochemicalReaction16	PANK2 phosphorylates PanK	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction16	PANK2 phosphorylates PanK	SmallMolecule32	SmallMolecule23	
+BiochemicalReaction16	PANK2 phosphorylates PanK	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction16	PANK2 phosphorylates PanK	SmallMolecule18	SmallMolecule33	
+BiochemicalReaction17	PANK1/3/4 phosphorylate PanK	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction17	PANK1/3/4 phosphorylate PanK	SmallMolecule32	SmallMolecule23	
+BiochemicalReaction17	PANK1/3/4 phosphorylate PanK	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction17	PANK1/3/4 phosphorylate PanK	SmallMolecule18	SmallMolecule33	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule33	SmallMolecule20	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule34	SmallMolecule20	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule34	SmallMolecule30	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule33	SmallMolecule30	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule18	SmallMolecule35	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction18	2xPPCS ligates PPanK with Cys	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction19	3xPPCDC:3FMN decarboxylates PPC	SmallMolecule35	SmallMolecule36	
+BiochemicalReaction19	3xPPCDC:3FMN decarboxylates PPC	SmallMolecule35	SmallMolecule37	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	Ascorbate transport across the plasma membrane	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction20	Adenylation of phosphopantetheine	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction20	Adenylation of phosphopantetheine	SmallMolecule18	SmallMolecule38	
+BiochemicalReaction20	Adenylation of phosphopantetheine	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction20	Adenylation of phosphopantetheine	SmallMolecule36	SmallMolecule30	
+BiochemicalReaction21	COASY phosphorylates DP-CoA	SmallMolecule38	SmallMolecule23	
+BiochemicalReaction21	COASY phosphorylates DP-CoA	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction21	COASY phosphorylates DP-CoA	SmallMolecule18	SmallMolecule39	
+BiochemicalReaction21	COASY phosphorylates DP-CoA	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction22	CoA transport across the inner mitochondrial membrane	SmallMolecule39	SmallMolecule40	
+BiochemicalReaction23	Phosphopantetheine conjugation of the ACP domain of FAS	Protein31	Protein32	
+BiochemicalReaction23	Phosphopantetheine conjugation of the ACP domain of FAS	SmallMolecule39	Protein32	
+BiochemicalReaction23	Phosphopantetheine conjugation of the ACP domain of FAS	SmallMolecule39	SmallMolecule41	
+BiochemicalReaction23	Phosphopantetheine conjugation of the ACP domain of FAS	Protein31	SmallMolecule41	
+BiochemicalReaction24	2xPDXK:2xZn2+ phosphorylates PXL	SmallMolecule42	SmallMolecule23	
+BiochemicalReaction24	2xPDXK:2xZn2+ phosphorylates PXL	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction24	2xPDXK:2xZn2+ phosphorylates PXL	SmallMolecule18	SmallMolecule43	
+BiochemicalReaction24	2xPDXK:2xZn2+ phosphorylates PXL	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction25	Pyridoxamine is phosphorylated	SmallMolecule45	SmallMolecule23	
+BiochemicalReaction25	Pyridoxamine is phosphorylated	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction25	Pyridoxamine is phosphorylated	SmallMolecule18	SmallMolecule46	
+BiochemicalReaction25	Pyridoxamine is phosphorylated	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction26	Pyridoxine is phosphorylated	SmallMolecule47	SmallMolecule23	
+BiochemicalReaction26	Pyridoxine is phosphorylated	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction26	Pyridoxine is phosphorylated	SmallMolecule18	SmallMolecule48	
+BiochemicalReaction26	Pyridoxine is phosphorylated	SmallMolecule47	SmallMolecule48	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule46	SmallMolecule50	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule24	SmallMolecule50	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule24	SmallMolecule43	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule49	SmallMolecule43	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule46	SmallMolecule43	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule24	SmallMolecule51	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule49	SmallMolecule51	
+BiochemicalReaction27	2xPNPO:2xFMN oxidizes PXAP to PXLP	SmallMolecule46	SmallMolecule51	
+BiochemicalReaction28	2xPNPO:2xFMN oxidizes PDXP to PXLP	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction28	2xPNPO:2xFMN oxidizes PDXP to PXLP	SmallMolecule48	SmallMolecule50	
+BiochemicalReaction28	2xPNPO:2xFMN oxidizes PDXP to PXLP	SmallMolecule48	SmallMolecule43	
+BiochemicalReaction28	2xPNPO:2xFMN oxidizes PDXP to PXLP	SmallMolecule49	SmallMolecule43	
+BiochemicalReaction29	AOX1 oxidises PXL to PDXate	SmallMolecule42	SmallMolecule50	
+BiochemicalReaction29	AOX1 oxidises PXL to PDXate	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction29	AOX1 oxidises PXL to PDXate	SmallMolecule24	SmallMolecule50	
+BiochemicalReaction29	AOX1 oxidises PXL to PDXate	SmallMolecule24	SmallMolecule52	
+BiochemicalReaction29	AOX1 oxidises PXL to PDXate	SmallMolecule49	SmallMolecule52	
+BiochemicalReaction29	AOX1 oxidises PXL to PDXate	SmallMolecule42	SmallMolecule52	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	Complex1	SmallMolecule5	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	SmallMolecule8	SmallMolecule5	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	SmallMolecule8	Complex2	
+BiochemicalReaction3	CYB5A:heme reduces SDA to VitC	Complex1	Complex2	
+BiochemicalReaction30	TCN1 binds Cbl	Protein37	Complex19	
+BiochemicalReaction30	TCN1 binds Cbl	Complex18	Complex19	
+BiochemicalReaction30	TCN1 binds Cbl	Complex18	PhysicalEntity2	
+BiochemicalReaction30	TCN1 binds Cbl	Protein37	PhysicalEntity2	
+BiochemicalReaction31	Pancreatic proteases degrade TCN1:Cbl	Complex19	SmallMolecule55	
+BiochemicalReaction32	GIF binds Cbl	SmallMolecule55	Complex22	
+BiochemicalReaction32	GIF binds Cbl	Protein46	Complex22	
+BiochemicalReaction33	CUBN:AMN binds GIF:Cbl	Complex22	Complex24	
+BiochemicalReaction33	CUBN:AMN binds GIF:Cbl	Complex23	Complex24	
+BiochemicalReaction34	CUBN:AMN transports extracellular GIF:Cbl to endosome	Complex24	Complex25	
+BiochemicalReaction34	CUBN:AMN transports extracellular GIF:Cbl to endosome	Complex24	Complex26	
+BiochemicalReaction35	Endosomal GIF:Cbl translocates to lysosome	Complex25	Complex27	
+BiochemicalReaction36	GIF:Cbl is degraded to release Cbl	Complex27	SmallMolecule57	
+BiochemicalReaction37	LMBRD1 transports lysosomal Cbl to cytosol	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction38	MMACHC reduces Cbl	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction38	MMACHC reduces Cbl	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction38	MMACHC reduces Cbl	Protein54	SmallMolecule60	
+BiochemicalReaction38	MMACHC reduces Cbl	SmallMolecule58	SmallMolecule60	
+BiochemicalReaction38	MMACHC reduces Cbl	SmallMolecule58	Complex28	
+BiochemicalReaction38	MMACHC reduces Cbl	Protein54	Complex28	
+BiochemicalReaction38	MMACHC reduces Cbl	SmallMolecule10	Complex28	
+BiochemicalReaction38	MMACHC reduces Cbl	SmallMolecule59	Complex28	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction39	MMACHC decyanates CNCbl	Protein54	SmallMolecule60	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule62	SmallMolecule60	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule62	Complex28	
+BiochemicalReaction39	MMACHC decyanates CNCbl	Protein54	Complex28	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule10	Complex28	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule59	Complex28	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule62	SmallMolecule63	
+BiochemicalReaction39	MMACHC decyanates CNCbl	Protein54	SmallMolecule63	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule10	SmallMolecule63	
+BiochemicalReaction39	MMACHC decyanates CNCbl	SmallMolecule59	SmallMolecule63	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule10	Complex1	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	Complex2	Complex1	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule11	Complex1	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	Complex2	SmallMolecule12	
+BiochemicalReaction4	CYB5R3:FAD reduces CYB5A:ferriheme to CYB5A:heme	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction40	MMACHC:cob(II)alamin binds MMADHC	Complex28	Complex29	
+BiochemicalReaction40	MMACHC:cob(II)alamin binds MMADHC	Protein55	Complex29	
+BiochemicalReaction41	cob(II)alamin dissociates from MMACHC:MMADHC	Complex29	SmallMolecule61	
+BiochemicalReaction41	cob(II)alamin dissociates from MMACHC:MMADHC	Complex29	Complex30	
+BiochemicalReaction42	cob(II)alamin binds to MTRR:MTR	SmallMolecule61	Complex34	
+BiochemicalReaction42	cob(II)alamin binds to MTRR:MTR	Complex31	Complex34	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule64	SmallMolecule60	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	Complex34	SmallMolecule60	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	Complex34	Complex36	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule64	Complex36	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule10	Complex36	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule59	Complex36	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	Complex34	SmallMolecule66	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule64	SmallMolecule66	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule10	SmallMolecule66	
+BiochemicalReaction43	MTRR reduces cob(II)alamin to meCbl	SmallMolecule59	SmallMolecule66	
+BiochemicalReaction44	Methionine is reformed	Complex36	Complex38	
+BiochemicalReaction44	Methionine is reformed	SmallMolecule67	Complex38	
+BiochemicalReaction44	Methionine is reformed	SmallMolecule67	SmallMolecule69	
+BiochemicalReaction44	Methionine is reformed	Complex36	SmallMolecule69	
+BiochemicalReaction45	MTR transfers CH3 group from MTHF to cob(I)alamin	SmallMolecule70	SmallMolecule71	
+BiochemicalReaction45	MTR transfers CH3 group from MTHF to cob(I)alamin	Complex38	SmallMolecule71	
+BiochemicalReaction45	MTR transfers CH3 group from MTHF to cob(I)alamin	Complex38	Complex36	
+BiochemicalReaction45	MTR transfers CH3 group from MTHF to cob(I)alamin	SmallMolecule70	Complex36	
+BiochemicalReaction46	MMADHC targets cytosolic cob(II)alamin for entry to mitochondria	Complex29	SmallMolecule72	
+BiochemicalReaction46	MMADHC targets cytosolic cob(II)alamin for entry to mitochondria	Complex29	Complex30	
+BiochemicalReaction47	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule72	SmallMolecule74	
+BiochemicalReaction47	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule73	SmallMolecule74	
+BiochemicalReaction47	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule73	SmallMolecule75	
+BiochemicalReaction47	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule72	SmallMolecule75	
+BiochemicalReaction47	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule73	SmallMolecule76	
+BiochemicalReaction47	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule72	SmallMolecule76	
+BiochemicalReaction48	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule74	SmallMolecule78	
+BiochemicalReaction48	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule77	SmallMolecule78	
+BiochemicalReaction48	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule77	SmallMolecule79	
+BiochemicalReaction48	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule74	SmallMolecule79	
+BiochemicalReaction49	MMAA:MUT binds AdoCbl	Complex41	Complex44	
+BiochemicalReaction49	MMAA:MUT binds AdoCbl	SmallMolecule79	Complex44	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule14	SmallMolecule5	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction5	2xGSTOs reduce DHvitC to VitC	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction50	MUT isomerises L-MM-CoA to SUCC-CoA	SmallMolecule80	Complex41	
+BiochemicalReaction50	MUT isomerises L-MM-CoA to SUCC-CoA	Complex44	Complex41	
+BiochemicalReaction50	MUT isomerises L-MM-CoA to SUCC-CoA	Complex44	SmallMolecule81	
+BiochemicalReaction50	MUT isomerises L-MM-CoA to SUCC-CoA	SmallMolecule80	SmallMolecule81	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule18	SmallMolecule25	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule58	SmallMolecule25	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule24	SmallMolecule23	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule58	SmallMolecule23	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule24	SmallMolecule55	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule58	SmallMolecule55	
+BiochemicalReaction51	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule18	SmallMolecule55	
+BiochemicalReaction52	TCII binds Cbl in the circulation	SmallMolecule55	Complex46	
+BiochemicalReaction52	TCII binds Cbl in the circulation	Protein62	Complex46	
+BiochemicalReaction53	TCN1 binds Cbl in the circulation	SmallMolecule55	Complex19	
+BiochemicalReaction53	TCN1 binds Cbl in the circulation	Protein37	Complex19	
+BiochemicalReaction54	CD320 transports extracellular TCII:Cbl to endosome	Complex46	Complex47	
+BiochemicalReaction54	CD320 transports extracellular TCII:Cbl to endosome	Protein63	Complex47	
+BiochemicalReaction55	CD320:TCII:Cbl dissociates into CD320 and TCII:Cbl	Complex47	Complex48	
+BiochemicalReaction55	CD320:TCII:Cbl dissociates into CD320 and TCII:Cbl	Complex47	Protein63	
+BiochemicalReaction56	Endosomal TCII:Cbl translocates to lysosome	Complex48	Complex49	
+BiochemicalReaction57	TCII:Cbl is degraded to release Cbl	Complex49	Protein66	
+BiochemicalReaction57	TCII:Cbl is degraded to release Cbl	Complex49	SmallMolecule57	
+BiochemicalReaction58	SLC5A6 cotransports extracellular Btn and 2xNa+ to cytosol	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction58	SLC5A6 cotransports extracellular Btn and 2xNa+ to cytosol	SmallMolecule82	SmallMolecule6	
+BiochemicalReaction58	SLC5A6 cotransports extracellular Btn and 2xNa+ to cytosol	SmallMolecule82	SmallMolecule83	
+BiochemicalReaction58	SLC5A6 cotransports extracellular Btn and 2xNa+ to cytosol	SmallMolecule3	SmallMolecule83	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	SmallMolecule83	SmallMolecule20	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	Complex50	SmallMolecule20	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	Complex50	SmallMolecule30	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	SmallMolecule83	SmallMolecule30	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	Complex50	Complex52	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	SmallMolecule83	Complex52	
+BiochemicalReaction59	HLCS biotinylates PCCA:PCCB	SmallMolecule18	Complex52	
+BiochemicalReaction6	Thiamin transport across the plasma membrane	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	SmallMolecule83	SmallMolecule20	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	Complex54	SmallMolecule20	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	Complex54	SmallMolecule30	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	SmallMolecule83	SmallMolecule30	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	Complex54	Complex55	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	SmallMolecule83	Complex55	
+BiochemicalReaction60	HLCS biotinylates PC:Mn2+	SmallMolecule18	Complex55	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	SmallMolecule18	Complex57	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	SmallMolecule83	Complex57	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	Complex56	Complex57	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	Complex56	SmallMolecule20	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	SmallMolecule83	SmallMolecule20	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	Complex56	SmallMolecule30	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	SmallMolecule83	SmallMolecule30	
+BiochemicalReaction61	HLCS biotinylates MCCC1:MCCC2	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction62	Cytoslic carboxylases translocate to mitochondrial matrix	Complex58	Complex59	
+BiochemicalReaction63	HLCS biotinylates ACACA	Complex64	Complex65	
+BiochemicalReaction63	HLCS biotinylates ACACA	SmallMolecule18	Complex65	
+BiochemicalReaction63	HLCS biotinylates ACACA	SmallMolecule83	Complex65	
+BiochemicalReaction63	HLCS biotinylates ACACA	SmallMolecule83	SmallMolecule20	
+BiochemicalReaction63	HLCS biotinylates ACACA	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction63	HLCS biotinylates ACACA	Complex64	SmallMolecule20	
+BiochemicalReaction63	HLCS biotinylates ACACA	SmallMolecule83	SmallMolecule30	
+BiochemicalReaction63	HLCS biotinylates ACACA	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction63	HLCS biotinylates ACACA	Complex64	SmallMolecule30	
+BiochemicalReaction64	HLCS biotinylates ACACB	SmallMolecule18	Complex67	
+BiochemicalReaction64	HLCS biotinylates ACACB	SmallMolecule83	Complex67	
+BiochemicalReaction64	HLCS biotinylates ACACB	Complex66	Complex67	
+BiochemicalReaction64	HLCS biotinylates ACACB	Complex66	SmallMolecule20	
+BiochemicalReaction64	HLCS biotinylates ACACB	SmallMolecule83	SmallMolecule20	
+BiochemicalReaction64	HLCS biotinylates ACACB	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction64	HLCS biotinylates ACACB	Complex66	SmallMolecule30	
+BiochemicalReaction64	HLCS biotinylates ACACB	SmallMolecule83	SmallMolecule30	
+BiochemicalReaction64	HLCS biotinylates ACACB	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction65	An unknown protease degrades hCBXs	Complex59	SmallMolecule86	
+BiochemicalReaction66	An unknown protease degrades ACACA	Complex65	SmallMolecule87	
+BiochemicalReaction67	An unknown protease degrades ACACB	Complex67	SmallMolecule87	
+BiochemicalReaction68	Mitochondrial BTD hydrolyses BCTN	SmallMolecule86	SmallMolecule88	
+BiochemicalReaction68	Mitochondrial BTD hydrolyses BCTN	SmallMolecule86	SmallMolecule89	
+BiochemicalReaction69	BCTN translocates to extracellular region	SmallMolecule87	SmallMolecule90	
+BiochemicalReaction7	Thiamin is pyrophosphorylated	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction7	Thiamin is pyrophosphorylated	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction7	Thiamin is pyrophosphorylated	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction7	Thiamin is pyrophosphorylated	SmallMolecule17	SmallMolecule20	
+BiochemicalReaction70	Extracellular BTD hydrolyses BCTN	SmallMolecule90	SmallMolecule91	
+BiochemicalReaction70	Extracellular BTD hydrolyses BCTN	SmallMolecule90	SmallMolecule82	
+BiochemicalReaction71	2-amino 3-carboxymuconate semialdehyde transforms non-enzymatically to quinolinate	SmallMolecule92	SmallMolecule93	
+BiochemicalReaction71	2-amino 3-carboxymuconate semialdehyde transforms non-enzymatically to quinolinate	SmallMolecule92	SmallMolecule24	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule93	SmallMolecule37	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule10	SmallMolecule37	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule94	SmallMolecule37	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule94	SmallMolecule30	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule10	SmallMolecule30	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule93	SmallMolecule30	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule94	SmallMolecule95	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule10	SmallMolecule95	
+BiochemicalReaction72	A phospho-ribosyl group is added to quinolinate	SmallMolecule93	SmallMolecule95	
+BiochemicalReaction73	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT1]	SmallMolecule96	SmallMolecule98	
+BiochemicalReaction73	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT1]	SmallMolecule97	SmallMolecule98	
+BiochemicalReaction73	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT1]	SmallMolecule97	SmallMolecule99	
+BiochemicalReaction73	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT1]	SmallMolecule96	SmallMolecule99	
+BiochemicalReaction74	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT2]	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction74	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT2]	SmallMolecule95	SmallMolecule30	
+BiochemicalReaction74	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT2]	SmallMolecule95	SmallMolecule101	
+BiochemicalReaction74	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT2]	SmallMolecule18	SmallMolecule101	
+BiochemicalReaction75	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT3]	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction75	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT3]	SmallMolecule95	SmallMolecule30	
+BiochemicalReaction75	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT3]	SmallMolecule95	SmallMolecule101	
+BiochemicalReaction75	Nicotinate D-ribonucleotide + ATP => deamino-NAD+ + pyrophosphate [NMNAT3]	SmallMolecule18	SmallMolecule101	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule103	SmallMolecule104	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule18	SmallMolecule104	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule101	SmallMolecule104	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule24	SmallMolecule104	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule24	SmallMolecule20	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule101	SmallMolecule20	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule103	SmallMolecule20	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule24	SmallMolecule30	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule101	SmallMolecule30	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule18	SmallMolecule30	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule103	SmallMolecule30	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule24	SmallMolecule12	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule101	SmallMolecule12	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule18	SmallMolecule12	
+BiochemicalReaction76	Amidation of deamino-NAD+ to NAD+	SmallMolecule103	SmallMolecule12	
+BiochemicalReaction77	NAD+ is phosphorylated to NADP+	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction77	NAD+ is phosphorylated to NADP+	SmallMolecule12	SmallMolecule23	
+BiochemicalReaction77	NAD+ is phosphorylated to NADP+	SmallMolecule12	SmallMolecule60	
+BiochemicalReaction77	NAD+ is phosphorylated to NADP+	SmallMolecule18	SmallMolecule60	
+BiochemicalReaction78	Deamination of nicotinamide to nicotinate	SmallMolecule105	SmallMolecule106	
+BiochemicalReaction78	Deamination of nicotinamide to nicotinate	SmallMolecule24	SmallMolecule106	
+BiochemicalReaction78	Deamination of nicotinamide to nicotinate	SmallMolecule24	SmallMolecule107	
+BiochemicalReaction78	Deamination of nicotinamide to nicotinate	SmallMolecule105	SmallMolecule107	
+BiochemicalReaction79	Condensation of nicotinamide to nicotinamide D-ribonucleotide (NMN)	SmallMolecule105	SmallMolecule30	
+BiochemicalReaction79	Condensation of nicotinamide to nicotinamide D-ribonucleotide (NMN)	SmallMolecule94	SmallMolecule30	
+BiochemicalReaction79	Condensation of nicotinamide to nicotinamide D-ribonucleotide (NMN)	SmallMolecule94	SmallMolecule95	
+BiochemicalReaction79	Condensation of nicotinamide to nicotinamide D-ribonucleotide (NMN)	SmallMolecule105	SmallMolecule95	
+BiochemicalReaction8	ThDP + ATP <-> ThTP + ADP	SmallMolecule19	SmallMolecule22	
+BiochemicalReaction8	ThDP + ATP <-> ThTP + ADP	SmallMolecule18	SmallMolecule22	
+BiochemicalReaction8	ThDP + ATP <-> ThTP + ADP	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction8	ThDP + ATP <-> ThTP + ADP	SmallMolecule19	SmallMolecule23	
+BiochemicalReaction80	A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)	SmallMolecule10	SmallMolecule30	
+BiochemicalReaction80	A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)	SmallMolecule94	SmallMolecule30	
+BiochemicalReaction80	A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)	SmallMolecule107	SmallMolecule30	
+BiochemicalReaction80	A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)	SmallMolecule107	SmallMolecule95	
+BiochemicalReaction80	A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)	SmallMolecule94	SmallMolecule95	
+BiochemicalReaction80	A phosphoribosyl group is added to nicotinate to form nicotinate mononucleotide (NaMN)	SmallMolecule10	SmallMolecule95	
+BiochemicalReaction81	Extracellular folate import across the plasma membrane	SmallMolecule108	SmallMolecule109	
+BiochemicalReaction82	Cytosolic folate export across the plasma membrane	SmallMolecule109	SmallMolecule108	
+BiochemicalReaction83	Extracellular 5-methyltetrahydrofolate import across the plasma membrane	SmallMolecule110	SmallMolecule70	
+BiochemicalReaction84	Folate is reduced to dihydrofolate (DHF)	SmallMolecule59	SmallMolecule111	
+BiochemicalReaction84	Folate is reduced to dihydrofolate (DHF)	SmallMolecule10	SmallMolecule111	
+BiochemicalReaction84	Folate is reduced to dihydrofolate (DHF)	SmallMolecule109	SmallMolecule111	
+BiochemicalReaction84	Folate is reduced to dihydrofolate (DHF)	SmallMolecule109	SmallMolecule60	
+BiochemicalReaction84	Folate is reduced to dihydrofolate (DHF)	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction84	Folate is reduced to dihydrofolate (DHF)	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction85	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule59	SmallMolecule71	
+BiochemicalReaction85	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule111	SmallMolecule71	
+BiochemicalReaction85	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule10	SmallMolecule71	
+BiochemicalReaction85	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction85	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule111	SmallMolecule60	
+BiochemicalReaction85	DHF is reduced to tetrahydrofolate (THF)	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule71	SmallMolecule25	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule104	SmallMolecule25	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule18	SmallMolecule25	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule18	SmallMolecule112	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule104	SmallMolecule112	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule71	SmallMolecule112	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule104	SmallMolecule23	
+BiochemicalReaction86	Conversion of cytosolic THF to THF-polyglutamate	SmallMolecule71	SmallMolecule23	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule70	SmallMolecule25	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule104	SmallMolecule25	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule18	SmallMolecule25	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule104	SmallMolecule23	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule70	SmallMolecule23	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule18	SmallMolecule113	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule104	SmallMolecule113	
+BiochemicalReaction87	Conversion of cytosolic 5-methyltetrahydrofolate (5-methylTHF) to 5-methylTHF-polyglutamate	SmallMolecule70	SmallMolecule113	
+BiochemicalReaction88	Cytosolic tetrahydrofolate import across the inner mitochondrial membrane	SmallMolecule71	SmallMolecule114	
+BiochemicalReaction89	Mitochondrial tetrahydrofolate export across the inner mitochondrial membrane	SmallMolecule114	SmallMolecule71	
+BiochemicalReaction9	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction9	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction9	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule24	SmallMolecule19	
+BiochemicalReaction9	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule22	SmallMolecule19	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule115	SmallMolecule116	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule77	SmallMolecule116	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule77	SmallMolecule117	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule115	SmallMolecule117	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule114	SmallMolecule117	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule77	SmallMolecule118	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule115	SmallMolecule118	
+BiochemicalReaction90	Conversion of mitochondrial THF to THF-polyglutamate	SmallMolecule114	SmallMolecule118	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule112	SmallMolecule25	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule119	SmallMolecule25	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule18	SmallMolecule25	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule18	SmallMolecule120	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule119	SmallMolecule120	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule112	SmallMolecule120	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule119	SmallMolecule23	
+BiochemicalReaction91	THF polyglutamate + formate + ATP => 10-formylTHF polyglutamate + ADP + orthophosphate	SmallMolecule112	SmallMolecule23	
+BiochemicalReaction92	10-formylTHF polyglutamate <=> 5,10-methenylTHF polyglutamate + H2O	SmallMolecule120	SmallMolecule121	
+BiochemicalReaction92	10-formylTHF polyglutamate <=> 5,10-methenylTHF polyglutamate + H2O	SmallMolecule120	SmallMolecule24	
+BiochemicalReaction93	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule59	SmallMolecule122	
+BiochemicalReaction93	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule10	SmallMolecule122	
+BiochemicalReaction93	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule121	SmallMolecule122	
+BiochemicalReaction93	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule121	SmallMolecule60	
+BiochemicalReaction93	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction93	5,10-methenylTHF polyglutamate + NADPH + H+ <=> 5,10-methyleneTHF polyglutamate + NADP+	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction94	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule112	SmallMolecule122	
+BiochemicalReaction94	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule123	SmallMolecule122	
+BiochemicalReaction94	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule123	SmallMolecule124	
+BiochemicalReaction94	Tetrahydrofolate polyglutamate (THF polyglutamate) + serine <=> 5,10-methyleneTHF polyglutamate + glycine	SmallMolecule112	SmallMolecule124	
+BiochemicalReaction95	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule122	SmallMolecule113	
+BiochemicalReaction95	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule59	SmallMolecule113	
+BiochemicalReaction95	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule10	SmallMolecule113	
+BiochemicalReaction95	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule10	SmallMolecule60	
+BiochemicalReaction95	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction95	5,10-methyleneTHF polyglutamate + NADPH + H+ => 5-methylTHF polyglutamate + NADP+	SmallMolecule122	SmallMolecule60	
+BiochemicalReaction96	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule122	SmallMolecule112	
+BiochemicalReaction96	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule124	SmallMolecule112	
+BiochemicalReaction96	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule124	SmallMolecule123	
+BiochemicalReaction96	5,10-methyleneTHF polyglutamate + glycine <=> tetrahydrofolate polyglutamate (THF polyglutamate) + serine	SmallMolecule122	SmallMolecule123	
+BiochemicalReaction97	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule122	SmallMolecule59	
+BiochemicalReaction97	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule60	SmallMolecule59	
+BiochemicalReaction97	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule60	SmallMolecule10	
+BiochemicalReaction97	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule122	SmallMolecule10	
+BiochemicalReaction97	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule60	SmallMolecule121	
+BiochemicalReaction97	5,10-methyleneTHF polyglutamate + NADP+ <=> 5,10-methenylTHF polyglutamate + NADPH + H+	SmallMolecule122	SmallMolecule121	
+BiochemicalReaction98	5,10-methenylTHF polyglutamate + H2O <=> 10-formylTHF polyglutamate	SmallMolecule121	SmallMolecule120	
+BiochemicalReaction98	5,10-methenylTHF polyglutamate + H2O <=> 10-formylTHF polyglutamate	SmallMolecule24	SmallMolecule120	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule125	SmallMolecule69	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule126	SmallMolecule69	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule24	SmallMolecule69	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule24	SmallMolecule30	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule126	SmallMolecule30	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule125	SmallMolecule30	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule24	SmallMolecule127	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule125	SmallMolecule127	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule24	SmallMolecule128	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule126	SmallMolecule128	
+BiochemicalReaction99	Cyclisation of GTP to precursor Z	SmallMolecule125	SmallMolecule128	

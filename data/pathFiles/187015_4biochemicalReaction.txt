@@ -1,0 +1,21 @@
+BiochemicalReaction1	beta-NGF dimer binds to TrkA receptor	Complex1	Complex2	
+BiochemicalReaction1	beta-NGF dimer binds to TrkA receptor	Protein2	Complex2	
+BiochemicalReaction2	The bound receptor dimerizes	Complex2	Complex4	
+BiochemicalReaction2	The bound receptor dimerizes	Protein2	Complex4	
+BiochemicalReaction3	TrkA receptor autophosphorylates	Complex4	SmallMolecule2	
+BiochemicalReaction3	TrkA receptor autophosphorylates	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	TrkA receptor autophosphorylates	SmallMolecule1	Complex5	
+BiochemicalReaction3	TrkA receptor autophosphorylates	Complex4	Complex5	
+BiochemicalReaction4	Activated TrkA receptor internalizes to endosomes	Complex5	Complex6	
+BiochemicalReaction5	TRKA activation by adenosine A2a receptor	Protein6	Protein10	
+BiochemicalReaction5	TRKA activation by adenosine A2a receptor	Protein7	Protein10	
+BiochemicalReaction5	TRKA activation by adenosine A2a receptor	SmallMolecule3	Protein10	
+BiochemicalReaction5	TRKA activation by adenosine A2a receptor	SmallMolecule3	Complex8	
+BiochemicalReaction5	TRKA activation by adenosine A2a receptor	Protein7	Complex8	
+BiochemicalReaction5	TRKA activation by adenosine A2a receptor	Protein6	Complex8	
+BiochemicalReaction6	TRKA activation by PACAP type 1 receptor	Protein13	Complex9	
+BiochemicalReaction6	TRKA activation by PACAP type 1 receptor	Protein14	Complex9	
+BiochemicalReaction6	TRKA activation by PACAP type 1 receptor	Protein7	Complex9	
+BiochemicalReaction6	TRKA activation by PACAP type 1 receptor	Protein7	Protein10	
+BiochemicalReaction6	TRKA activation by PACAP type 1 receptor	Protein14	Protein10	
+BiochemicalReaction6	TRKA activation by PACAP type 1 receptor	Protein13	Protein10	

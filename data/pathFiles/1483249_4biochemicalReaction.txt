@@ -1,0 +1,214 @@
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by cytosolic PLC[2] at the plasma membrane	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule13	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction10	I(1,3,4,6)P4 is dephosphorylated to I(1,3,4)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule15	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule13	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule17	
+BiochemicalReaction11	I(1,3,4,6)P4 is dephosphorylated to I(3,4,6)P3 by ITPK1 in the cytosol	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule17	SmallMolecule11	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule16	
+BiochemicalReaction12	I(3,4,6)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule17	SmallMolecule16	
+BiochemicalReaction13	I(1,4,5)P3 transports from the cytosol to the nucleus	SmallMolecule3	SmallMolecule18	
+BiochemicalReaction14	I(1,3,4,5)P4 transports from the cytosol to the nucleus	SmallMolecule12	SmallMolecule19	
+BiochemicalReaction15	I(1,3,4,6)P4 transports from the cytosol to the nucleus	SmallMolecule16	SmallMolecule20	
+BiochemicalReaction16	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction16	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule21	SmallMolecule19	
+BiochemicalReaction16	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction16	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule18	SmallMolecule22	
+BiochemicalReaction17	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule19	SmallMolecule22	
+BiochemicalReaction17	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction17	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction17	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule19	SmallMolecule23	
+BiochemicalReaction18	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction18	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction18	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction18	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction19	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule24	SmallMolecule22	
+BiochemicalReaction19	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction19	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction19	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule24	SmallMolecule23	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by tethered PLC[1] at the plasma membrane	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction20	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction20	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule23	SmallMolecule22	
+BiochemicalReaction20	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction20	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule21	SmallMolecule25	
+BiochemicalReaction21	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction21	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule23	SmallMolecule22	
+BiochemicalReaction21	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule23	SmallMolecule26	
+BiochemicalReaction21	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule26	
+BiochemicalReaction22	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule26	SmallMolecule22	
+BiochemicalReaction22	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction22	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule27	
+BiochemicalReaction22	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction23	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule25	SmallMolecule22	
+BiochemicalReaction23	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction23	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule28	
+BiochemicalReaction23	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction24	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule29	
+BiochemicalReaction24	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction24	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule28	SmallMolecule22	
+BiochemicalReaction24	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction25	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule30	SmallMolecule22	
+BiochemicalReaction25	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction25	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule21	SmallMolecule31	
+BiochemicalReaction25	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule30	SmallMolecule31	
+BiochemicalReaction26	I(1,3,4,5,6)P5 transports from the nucleus to the cytosol	SmallMolecule23	SmallMolecule32	
+BiochemicalReaction27	5-PP-IP4 transports from the nucleus to the cytosol	SmallMolecule26	SmallMolecule33	
+BiochemicalReaction28	5-PP-IP5 transports from the nucleus to the cytosol	SmallMolecule28	SmallMolecule34	
+BiochemicalReaction29	(PP)2-IP4 transports from the nucleus to the cytosol	SmallMolecule35	SmallMolecule37	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction3	PI(4,5)P2 is hydrolysed to I(1,4,5)P3 and DAG by PLCD4 at the ER membrane	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction30	I(1,3,4,5,6)P5 is dephosphorylated to I(3,4,5,6)P4 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction30	I(1,3,4,5,6)P5 is dephosphorylated to I(3,4,5,6)P4 by ITPK1 in the cytosol	SmallMolecule32	SmallMolecule13	
+BiochemicalReaction30	I(1,3,4,5,6)P5 is dephosphorylated to I(3,4,5,6)P4 by ITPK1 in the cytosol	SmallMolecule32	SmallMolecule40	
+BiochemicalReaction30	I(1,3,4,5,6)P5 is dephosphorylated to I(3,4,5,6)P4 by ITPK1 in the cytosol	SmallMolecule2	SmallMolecule40	
+BiochemicalReaction31	I(3,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by ITPK1 in the cytosol	SmallMolecule40	SmallMolecule11	
+BiochemicalReaction31	I(3,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction31	I(3,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule32	
+BiochemicalReaction31	I(3,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by ITPK1 in the cytosol	SmallMolecule40	SmallMolecule32	
+BiochemicalReaction32	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction32	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK in the cytosol	SmallMolecule32	SmallMolecule11	
+BiochemicalReaction32	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK in the cytosol	SmallMolecule32	SmallMolecule41	
+BiochemicalReaction32	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK in the cytosol	SmallMolecule10	SmallMolecule41	
+BiochemicalReaction33	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction33	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/3 in the cytosol	SmallMolecule32	SmallMolecule11	
+BiochemicalReaction33	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/3 in the cytosol	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction33	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule33	
+BiochemicalReaction34	PP-IP4 is dephosphorylated to I(1,3,4,5,6)P5 by NUDT4 in the cytosol	SmallMolecule42	SmallMolecule13	
+BiochemicalReaction34	PP-IP4 is dephosphorylated to I(1,3,4,5,6)P5 by NUDT4 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction34	PP-IP4 is dephosphorylated to I(1,3,4,5,6)P5 by NUDT4 in the cytosol	SmallMolecule2	SmallMolecule32	
+BiochemicalReaction34	PP-IP4 is dephosphorylated to I(1,3,4,5,6)P5 by NUDT4 in the cytosol	SmallMolecule42	SmallMolecule32	
+BiochemicalReaction35	1-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/3 in the cytosol	SmallMolecule43	SmallMolecule11	
+BiochemicalReaction35	1-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction35	1-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule47	
+BiochemicalReaction35	1-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/3 in the cytosol	SmallMolecule43	SmallMolecule47	
+BiochemicalReaction36	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/3 in the cytosol	SmallMolecule41	SmallMolecule11	
+BiochemicalReaction36	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction36	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule34	
+BiochemicalReaction36	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/3 in the cytosol	SmallMolecule41	SmallMolecule34	
+BiochemicalReaction37	5-PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule34	SmallMolecule13	
+BiochemicalReaction37	5-PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction37	5-PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule41	
+BiochemicalReaction37	5-PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule34	SmallMolecule41	
+BiochemicalReaction38	IP6 is phosphorylated to 1-PP-IP5 by PPIP5K1/2 in the cytosol	SmallMolecule41	SmallMolecule11	
+BiochemicalReaction38	IP6 is phosphorylated to 1-PP-IP5 by PPIP5K1/2 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction38	IP6 is phosphorylated to 1-PP-IP5 by PPIP5K1/2 in the cytosol	SmallMolecule10	SmallMolecule48	
+BiochemicalReaction38	IP6 is phosphorylated to 1-PP-IP5 by PPIP5K1/2 in the cytosol	SmallMolecule41	SmallMolecule48	
+BiochemicalReaction39	1/3 PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule49	SmallMolecule13	
+BiochemicalReaction39	1/3 PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction39	1/3 PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule41	
+BiochemicalReaction39	1/3 PP-IP5 is dephosphorylated to IP6 by NUDT(1) in the cytosol	SmallMolecule49	SmallMolecule41	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule3	SmallMolecule11	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction4	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by ITPKA/B/C in the cytosol	SmallMolecule3	SmallMolecule12	
+BiochemicalReaction40	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/3 in the cytosol	SmallMolecule34	SmallMolecule11	
+BiochemicalReaction40	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction40	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule51	
+BiochemicalReaction40	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/3 in the cytosol	SmallMolecule34	SmallMolecule51	
+BiochemicalReaction41	5-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by PPIP5K1/2 in the cytosol	SmallMolecule34	SmallMolecule11	
+BiochemicalReaction41	5-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by PPIP5K1/2 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction41	5-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by PPIP5K1/2 in the cytosol	SmallMolecule10	SmallMolecule38	
+BiochemicalReaction41	5-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by PPIP5K1/2 in the cytosol	SmallMolecule34	SmallMolecule38	
+BiochemicalReaction42	(PP)2-IP4 is dephosphorylated to 5-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule37	SmallMolecule13	
+BiochemicalReaction42	(PP)2-IP4 is dephosphorylated to 5-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction42	(PP)2-IP4 is dephosphorylated to 5-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule34	
+BiochemicalReaction42	(PP)2-IP4 is dephosphorylated to 5-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule37	SmallMolecule34	
+BiochemicalReaction43	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction43	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/3 in the cytosol	SmallMolecule48	SmallMolecule11	
+BiochemicalReaction43	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/3 in the cytosol	SmallMolecule48	SmallMolecule38	
+BiochemicalReaction43	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/3 in the cytosol	SmallMolecule10	SmallMolecule38	
+BiochemicalReaction44	(PP)2-IP4 is dephosphorylated to 1/3-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule37	SmallMolecule13	
+BiochemicalReaction44	(PP)2-IP4 is dephosphorylated to 1/3-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction44	(PP)2-IP4 is dephosphorylated to 1/3-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule2	SmallMolecule49	
+BiochemicalReaction44	(PP)2-IP4 is dephosphorylated to 1/3-PP-IP5 by NUDT(1) in the cytosol	SmallMolecule37	SmallMolecule49	
+BiochemicalReaction45	IP6 transports from the cytosol to the nucleus	SmallMolecule41	SmallMolecule25	
+BiochemicalReaction46	1/3-PP-IP5 transports from the cytosol to the nucleus	SmallMolecule49	SmallMolecule52	
+BiochemicalReaction47	I(1,3,4,5)P4 transports from the cytosol to the ER lumen	SmallMolecule12	SmallMolecule54	
+BiochemicalReaction48	I(1,3,4,5,6)P5 transports from the cytosol to the ER lumen	SmallMolecule32	SmallMolecule55	
+BiochemicalReaction49	IP6 transports from the cytosol to the ER lumen	SmallMolecule41	SmallMolecule56	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule12	SmallMolecule3	
+BiochemicalReaction5	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by PTEN in the cytosol	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction50	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by MINPP1 in the ER lumen	SmallMolecule54	SmallMolecule58	
+BiochemicalReaction50	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by MINPP1 in the ER lumen	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction50	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by MINPP1 in the ER lumen	SmallMolecule57	SmallMolecule59	
+BiochemicalReaction50	I(1,3,4,5)P4 is dephosphorylated to I(1,4,5)P3 by MINPP1 in the ER lumen	SmallMolecule54	SmallMolecule59	
+BiochemicalReaction51	I(1,3,4,5,6)P5 is dephosphorylated to I(1,4,5,6)P4 by MINPP1 in the ER lumen	SmallMolecule55	SmallMolecule58	
+BiochemicalReaction51	I(1,3,4,5,6)P5 is dephosphorylated to I(1,4,5,6)P4 by MINPP1 in the ER lumen	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction51	I(1,3,4,5,6)P5 is dephosphorylated to I(1,4,5,6)P4 by MINPP1 in the ER lumen	SmallMolecule57	SmallMolecule60	
+BiochemicalReaction51	I(1,3,4,5,6)P5 is dephosphorylated to I(1,4,5,6)P4 by MINPP1 in the ER lumen	SmallMolecule55	SmallMolecule60	
+BiochemicalReaction52	IP6 is dephosphorylated to I(1,2,4,5,6)P5 by MINPP1 in the ER lumen	SmallMolecule56	SmallMolecule58	
+BiochemicalReaction52	IP6 is dephosphorylated to I(1,2,4,5,6)P5 by MINPP1 in the ER lumen	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction52	IP6 is dephosphorylated to I(1,2,4,5,6)P5 by MINPP1 in the ER lumen	SmallMolecule57	SmallMolecule61	
+BiochemicalReaction52	IP6 is dephosphorylated to I(1,2,4,5,6)P5 by MINPP1 in the ER lumen	SmallMolecule56	SmallMolecule61	
+BiochemicalReaction53	I(1,4,5)P3 transports from the ER lumen to the cytosol	SmallMolecule59	SmallMolecule3	
+BiochemicalReaction54	I(1,3,4,5,6)P5 transports from the ER lumen to the cytosol	SmallMolecule55	SmallMolecule32	
+BiochemicalReaction55	I(1,4,5,6)P4 transports from the ER lumen to the nucleus	SmallMolecule60	SmallMolecule24	
+BiochemicalReaction56	I(1,3,4,5,6)P5 transports from the ER lumen to the nucleus	SmallMolecule55	SmallMolecule23	
+BiochemicalReaction57	IP6 transports from the nucleus to the ER lumen	SmallMolecule25	SmallMolecule56	
+BiochemicalReaction58	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5(4) in the cytosol	SmallMolecule3	SmallMolecule13	
+BiochemicalReaction58	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5(4) in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction58	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5(4) in the cytosol	SmallMolecule2	SmallMolecule62	
+BiochemicalReaction58	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5(4) in the cytosol	SmallMolecule3	SmallMolecule62	
+BiochemicalReaction59	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5A/B at the plasma membrane	SmallMolecule3	SmallMolecule13	
+BiochemicalReaction59	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5A/B at the plasma membrane	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction59	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5A/B at the plasma membrane	SmallMolecule2	SmallMolecule62	
+BiochemicalReaction59	I(1,4,5)P3 is dephosphorylated to I(1,4)P2 by INPP5A/B at the plasma membrane	SmallMolecule3	SmallMolecule62	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction6	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5[3]/ITPK1 in the cytosol	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction60	I(1,4)P2 is dephosphorylated to I4P by INPP1 in the cytosol	SmallMolecule62	SmallMolecule13	
+BiochemicalReaction60	I(1,4)P2 is dephosphorylated to I4P by INPP1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction60	I(1,4)P2 is dephosphorylated to I4P by INPP1 in the cytosol	SmallMolecule2	SmallMolecule63	
+BiochemicalReaction60	I(1,4)P2 is dephosphorylated to I4P by INPP1 in the cytosol	SmallMolecule62	SmallMolecule63	
+BiochemicalReaction61	I4P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule63	SmallMolecule13	
+BiochemicalReaction61	I4P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction61	I4P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule2	SmallMolecule64	
+BiochemicalReaction61	I4P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule63	SmallMolecule64	
+BiochemicalReaction62	I1P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule65	SmallMolecule13	
+BiochemicalReaction62	I1P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction62	I1P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule2	SmallMolecule64	
+BiochemicalReaction62	I1P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule65	SmallMolecule64	
+BiochemicalReaction63	I(1,3,4)P3 is dephosphorylated to I(1,3)P2 by INPP4A/B in the cytosol	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction63	I(1,3,4)P3 is dephosphorylated to I(1,3)P2 by INPP4A/B in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction63	I(1,3,4)P3 is dephosphorylated to I(1,3)P2 by INPP4A/B in the cytosol	SmallMolecule2	SmallMolecule66	
+BiochemicalReaction63	I(1,3,4)P3 is dephosphorylated to I(1,3)P2 by INPP4A/B in the cytosol	SmallMolecule15	SmallMolecule66	
+BiochemicalReaction64	I(1,3,4)P3 is dephosphorylated to I(3,4)P2 by INPP1 in the cytosol	SmallMolecule15	SmallMolecule13	
+BiochemicalReaction64	I(1,3,4)P3 is dephosphorylated to I(3,4)P2 by INPP1 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction64	I(1,3,4)P3 is dephosphorylated to I(3,4)P2 by INPP1 in the cytosol	SmallMolecule2	SmallMolecule67	
+BiochemicalReaction64	I(1,3,4)P3 is dephosphorylated to I(3,4)P2 by INPP1 in the cytosol	SmallMolecule15	SmallMolecule67	
+BiochemicalReaction65	I(3,4)P2 is dephosphorylated to I3P by INPP4A/B in the cytosol	SmallMolecule67	SmallMolecule13	
+BiochemicalReaction65	I(3,4)P2 is dephosphorylated to I3P by INPP4A/B in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction65	I(3,4)P2 is dephosphorylated to I3P by INPP4A/B in the cytosol	SmallMolecule2	SmallMolecule68	
+BiochemicalReaction65	I(3,4)P2 is dephosphorylated to I3P by INPP4A/B in the cytosol	SmallMolecule67	SmallMolecule68	
+BiochemicalReaction66	Glc6P is isomerised to I3P by ISYNA1 in the cytosol	SmallMolecule69	SmallMolecule68	
+BiochemicalReaction67	I3P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction67	I3P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule68	SmallMolecule13	
+BiochemicalReaction67	I3P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule68	SmallMolecule64	
+BiochemicalReaction67	I3P is dephosphorylated to Ins by IMPA1/2 in the cytosol	SmallMolecule2	SmallMolecule64	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule2	SmallMolecule13	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction7	I(1,3,4,5)P4 is dephosphorylated to I(1,3,4)P3 by INPP5B at the plasma membrane	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule11	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule12	
+BiochemicalReaction8	I(1,3,4)P3 is phosphorylated to I(1,3,4,5)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule11	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction9	I(1,3,4)P3 is phosphorylated to I(1,3,4,6)P4 by ITPK1 in the cytosol	SmallMolecule10	SmallMolecule16	

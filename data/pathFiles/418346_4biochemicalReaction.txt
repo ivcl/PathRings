@@ -1,0 +1,70 @@
+BiochemicalReaction1	Prostacyclin binds the Prostacyclin receptor PTGIR	Protein1	Complex1	
+BiochemicalReaction1	Prostacyclin binds the Prostacyclin receptor PTGIR	SmallMolecule1	Complex1	
+BiochemicalReaction10	PKG1 phosphorylates IRAG:IP3R1 inhibiting IP3-stimulated Ca2+ release	Complex12	Complex13	
+BiochemicalReaction11	PKG1 phosphorylates BK channels	Complex14	Complex15	
+BiochemicalReaction12	Binding of ATP to P2X1	SmallMolecule15	Complex16	
+BiochemicalReaction12	Binding of ATP to P2X1	Protein56	Complex16	
+BiochemicalReaction13	Transport of Ca++ from platelet dense tubular system to cytoplasm	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction14	P2X1-mediated entry of Ca++ from plasma	SmallMolecule21	SmallMolecule18	
+BiochemicalReaction15	Cation influx mediated by TRPC3/6/7	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction16	STIM1 activation of CRAC	Complex20	Complex22	
+BiochemicalReaction16	STIM1 activation of CRAC	Complex21	Complex22	
+BiochemicalReaction17	Calcium influx via CRAC	SmallMolecule21	SmallMolecule18	
+BiochemicalReaction18	Sequestration of Ca2+ to dense tubular network lumen	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction18	Sequestration of Ca2+ to dense tubular network lumen	SmallMolecule18	SmallMolecule29	
+BiochemicalReaction18	Sequestration of Ca2+ to dense tubular network lumen	SmallMolecule18	SmallMolecule17	
+BiochemicalReaction18	Sequestration of Ca2+ to dense tubular network lumen	SmallMolecule28	SmallMolecule17	
+BiochemicalReaction19	PMCA extrusion of Ca2+ 	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction2	Activated prostacyclin receptor binds G-protein Gs	Complex2	Complex5	
+BiochemicalReaction2	Activated prostacyclin receptor binds G-protein Gs	Complex1	Complex5	
+BiochemicalReaction20	Na+/Ca2+ exchanger transport	SmallMolecule18	SmallMolecule26	
+BiochemicalReaction20	Na+/Ca2+ exchanger transport	SmallMolecule24	SmallMolecule26	
+BiochemicalReaction20	Na+/Ca2+ exchanger transport	SmallMolecule24	SmallMolecule21	
+BiochemicalReaction20	Na+/Ca2+ exchanger transport	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction21	LDL binds to LRP8	Complex23	Complex24	
+BiochemicalReaction21	LDL binds to LRP8	Protein80	Complex24	
+BiochemicalReaction22	FGR binds and phosphorylates LRP8	Protein81	SmallMolecule35	
+BiochemicalReaction22	FGR binds and phosphorylates LRP8	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction22	FGR binds and phosphorylates LRP8	Complex24	SmallMolecule35	
+BiochemicalReaction22	FGR binds and phosphorylates LRP8	Complex24	Complex25	
+BiochemicalReaction22	FGR binds and phosphorylates LRP8	SmallMolecule34	Complex25	
+BiochemicalReaction22	FGR binds and phosphorylates LRP8	Protein81	Complex25	
+BiochemicalReaction23	Fgr may phosphorylate p38 MAPK	SmallMolecule34	Protein84	
+BiochemicalReaction23	Fgr may phosphorylate p38 MAPK	Protein83	Protein84	
+BiochemicalReaction23	Fgr may phosphorylate p38 MAPK	Protein83	SmallMolecule35	
+BiochemicalReaction23	Fgr may phosphorylate p38 MAPK	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction24	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein85	Protein86	
+BiochemicalReaction24	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule34	Protein86	
+BiochemicalReaction24	Phosphorylation of cPLA2 by MAPK p38 alpha	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction24	Phosphorylation of cPLA2 by MAPK p38 alpha	Protein85	SmallMolecule35	
+BiochemicalReaction25	LDL leads to activation of PECAM1	Complex23	Protein87	
+BiochemicalReaction26	PECAM-1 binds PP2A	Complex27	Complex28	
+BiochemicalReaction26	PECAM-1 binds PP2A	Protein87	Complex28	
+BiochemicalReaction27	Interaction of PECAM-1 and SHP-1	Protein87	Complex29	
+BiochemicalReaction27	Interaction of PECAM-1 and SHP-1	Protein100	Complex29	
+BiochemicalReaction28	Interaction of PECAM-1 and SHP-2	Protein87	Complex30	
+BiochemicalReaction28	Interaction of PECAM-1 and SHP-2	Protein101	Complex30	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	Complex5	SmallMolecule2	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	Complex5	Complex6	
+BiochemicalReaction3	Gs activation by prostacyclin receptor	SmallMolecule3	Complex6	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	Protein1	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	Complex8	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	SmallMolecule1	
+BiochemicalReaction4	Dissociation of the Prostacyclin receptor:Gs complex	Complex6	Complex3	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction5	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule4	SmallMolecule9	
+BiochemicalReaction6	NO binds to Guanylate Cyclase	SmallMolecule7	Complex10	
+BiochemicalReaction6	NO binds to Guanylate Cyclase	Complex9	Complex10	
+BiochemicalReaction7	Soluble guanylate cyclase converts GTP to cGMP	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction7	Soluble guanylate cyclase converts GTP to cGMP	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction8	cGMP stimulates Protein Kinase G	Protein32	Complex11	
+BiochemicalReaction8	cGMP stimulates Protein Kinase G	SmallMolecule13	Complex11	
+BiochemicalReaction9	cGMP is degraded by PDEs	SmallMolecule13	SmallMolecule14	

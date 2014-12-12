@@ -1,0 +1,18 @@
+BiochemicalReaction1	Glucagon binds to Glucagon receptor	Protein1	Complex1	
+BiochemicalReaction1	Glucagon binds to Glucagon receptor	Protein2	Complex1	
+BiochemicalReaction2	Glucagon:GCGR mediates GTP-GDP exchange	SmallMolecule1	Complex3	
+BiochemicalReaction2	Glucagon:GCGR mediates GTP-GDP exchange	Complex2	Complex3	
+BiochemicalReaction2	Glucagon:GCGR mediates GTP-GDP exchange	Complex2	Complex5	
+BiochemicalReaction2	Glucagon:GCGR mediates GTP-GDP exchange	SmallMolecule1	Complex5	
+BiochemicalReaction2	Glucagon:GCGR mediates GTP-GDP exchange	Complex2	SmallMolecule4	
+BiochemicalReaction2	Glucagon:GCGR mediates GTP-GDP exchange	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction3	Activation of Adenylyl Cyclase by G(s):GTP	Protein20	Complex6	
+BiochemicalReaction3	Activation of Adenylyl Cyclase by G(s):GTP	Complex5	Complex6	
+BiochemicalReaction4	G alpha (s) activates adenylate cyclase	Complex5	Complex8	
+BiochemicalReaction4	G alpha (s) activates adenylate cyclase	Complex7	Complex8	
+BiochemicalReaction5	Activated Adenylate cyclase catalyses cAMP synthesis	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction5	Activated Adenylate cyclase catalyses cAMP synthesis	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	Complex9	Protein36	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule7	Protein36	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule7	Complex10	
+BiochemicalReaction6	cAMP induces dissociation of inactive PKA tetramers	Complex9	Complex10	

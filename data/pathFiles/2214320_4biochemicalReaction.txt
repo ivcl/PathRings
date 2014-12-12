@@ -1,0 +1,8 @@
+BiochemicalReaction1	Collagen type VII dimerization	Complex1	Complex2	
+BiochemicalReaction2	Cleavage of collagen VII NC2 region by BMP1	Complex2	Protein14	
+BiochemicalReaction2	Cleavage of collagen VII NC2 region by BMP1	Complex2	Complex3	
+BiochemicalReaction3	Formation of anchoring fibrils	Complex3	PhysicalEntity1	
+BiochemicalReaction4	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity2	Complex6	
+BiochemicalReaction4	Collagen type VII binds laminin-322 and collagen IV	Complex5	Complex6	
+BiochemicalReaction4	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity1	Complex6	
+BiochemicalReaction4	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity3	Complex6	

@@ -1,0 +1,20 @@
+BiochemicalReaction1	Aminoacyl-tRNA  binds to the ribosome at the A-site	Complex1	Complex7	
+BiochemicalReaction1	Aminoacyl-tRNA  binds to the ribosome at the A-site	Complex5	Complex7	
+BiochemicalReaction2	Hydrolysis of eEF1A:GTP	Complex7	SmallMolecule23	
+BiochemicalReaction2	Hydrolysis of eEF1A:GTP	Complex7	Complex8	
+BiochemicalReaction2	Hydrolysis of eEF1A:GTP	Complex7	Complex9	
+BiochemicalReaction3	Peptide transfer from P-site tRNA to the A-site tRNA	Complex9	Complex10	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex10	SmallMolecule23	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex11	SmallMolecule23	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex5	SmallMolecule23	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex5	Complex8	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex11	Complex8	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex10	Complex8	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex5	Complex12	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex11	Complex12	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex10	Complex12	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex5	Complex13	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex11	Complex13	
+BiochemicalReaction4	Translocation of ribosome by 3 bases in the 3' direction	Complex10	Complex13	
+BiochemicalReaction5	GTP-binding activates eEF2	SmallMolecule1	Complex11	
+BiochemicalReaction5	GTP-binding activates eEF2	Protein84	Complex11	

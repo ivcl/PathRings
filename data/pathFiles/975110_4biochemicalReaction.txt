@@ -1,0 +1,16 @@
+BiochemicalReaction1	TRAF6 interacts with IRF7 upon TLR7/8 or 9 activation	Protein1	Complex13	
+BiochemicalReaction1	TRAF6 interacts with IRF7 upon TLR7/8 or 9 activation	Complex1	Complex13	
+BiochemicalReaction2	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex14	Complex14	
+BiochemicalReaction2	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex13	Complex14	
+BiochemicalReaction2	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	PhysicalEntity4	Complex14	
+BiochemicalReaction2	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	PhysicalEntity4	Complex15	
+BiochemicalReaction2	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex13	Complex15	
+BiochemicalReaction2	TRAF6 ubiquitinqtes IRF7 in a K63-dependent manner following TLR7/8 or 9 stimulation	Complex14	Complex15	
+BiochemicalReaction3	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	Complex13	SmallMolecule5	
+BiochemicalReaction3	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	SmallMolecule4	Protein13	
+BiochemicalReaction3	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	Complex13	Protein13	
+BiochemicalReaction3	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	SmallMolecule4	Complex1	
+BiochemicalReaction3	Phosphorylation and release of IRF7 upon TLR7/8 or 9 activation	Complex13	Complex1	
+BiochemicalReaction4	Dimerization of p-IRF7	Protein13	Complex16	
+BiochemicalReaction5	Translocation of p-IRF7:p-IRF7 to nucleus	Complex16	Complex17	

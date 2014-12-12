@@ -1,0 +1,25 @@
+BiochemicalReaction1	Recruitment of TRAF6/TRAF2 to IPS-1	Protein1	Complex5	
+BiochemicalReaction1	Recruitment of TRAF6/TRAF2 to IPS-1	Complex1	Complex5	
+BiochemicalReaction10	VAF/pIRF7:CBP/p300 binds the promoters of type-I IFN genes	Complex18	Complex19	
+BiochemicalReaction10	VAF/pIRF7:CBP/p300 binds the promoters of type-I IFN genes	PhysicalEntity3	Complex19	
+BiochemicalReaction2	Recruitment of TANK to TRAF6	Complex5	Complex7	
+BiochemicalReaction2	Recruitment of TANK to TRAF6	Protein10	Complex7	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex7	Complex9	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex8	Complex9	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex8	Protein14	
+BiochemicalReaction3	Recruitment of TBK1/IKK epsilon complex to TANK:TRAF6	Complex7	Protein14	
+BiochemicalReaction4	Recruitment of IRF7 to TRAF6	Protein15	Complex10	
+BiochemicalReaction4	Recruitment of IRF7 to TRAF6	Complex9	Complex10	
+BiochemicalReaction5	Phosphorylation and release of IRF7	Complex10	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation and release of IRF7	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation and release of IRF7	SmallMolecule1	Complex9	
+BiochemicalReaction5	Phosphorylation and release of IRF7	Complex10	Complex9	
+BiochemicalReaction5	Phosphorylation and release of IRF7	SmallMolecule1	Protein16	
+BiochemicalReaction5	Phosphorylation and release of IRF7	Complex10	Protein16	
+BiochemicalReaction6	Dimerization of p-IRF7	Protein16	Complex11	
+BiochemicalReaction7	Translocation of p-IRF7:p-IRF7 to nucleus	Complex11	Complex12	
+BiochemicalReaction8	p-IRF7 dimer interacts with coactivator CBP/p300	Complex12	Complex15	
+BiochemicalReaction8	p-IRF7 dimer interacts with coactivator CBP/p300	Protein20	Complex15	
+BiochemicalReaction9	Formation of VAF (virus-activated factor) complex	Protein20	Complex17	
+BiochemicalReaction9	Formation of VAF (virus-activated factor) complex	Complex16	Complex17	
+TemplateReaction1	Expression of Interferon-alpha and beta	NA	PhysicalEntity6	

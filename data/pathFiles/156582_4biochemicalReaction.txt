@@ -1,0 +1,16 @@
+BiochemicalReaction1	The acetyl group from acetyl-CoA is transferred to the NAT1	SmallMolecule1	Protein2	
+BiochemicalReaction1	The acetyl group from acetyl-CoA is transferred to the NAT1	Protein1	Protein2	
+BiochemicalReaction1	The acetyl group from acetyl-CoA is transferred to the NAT1	Protein1	SmallMolecule2	
+BiochemicalReaction1	The acetyl group from acetyl-CoA is transferred to the NAT1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	The acetyl group from acetyl-CoA is transferred to the NAT2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	The acetyl group from acetyl-CoA is transferred to the NAT2	Protein3	SmallMolecule2	
+BiochemicalReaction2	The acetyl group from acetyl-CoA is transferred to the NAT2	Protein3	Protein4	
+BiochemicalReaction2	The acetyl group from acetyl-CoA is transferred to the NAT2	SmallMolecule1	Protein4	
+BiochemicalReaction3	NAT1 acetylation	Protein2	Protein1	
+BiochemicalReaction3	NAT1 acetylation	SmallMolecule3	Protein1	
+BiochemicalReaction3	NAT1 acetylation	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction3	NAT1 acetylation	Protein2	SmallMolecule8	
+BiochemicalReaction4	NAT2 acetylation	Protein4	Protein3	
+BiochemicalReaction4	NAT2 acetylation	SmallMolecule13	Protein3	
+BiochemicalReaction4	NAT2 acetylation	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction4	NAT2 acetylation	Protein4	SmallMolecule16	

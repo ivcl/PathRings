@@ -1,0 +1,14 @@
+BiochemicalReaction1	Activated RAF1 complex binds MEK	Protein1	Complex3	
+BiochemicalReaction1	Activated RAF1 complex binds MEK	Complex1	Complex3	
+BiochemicalReaction2	RAF1  phosphorylates MEK1	SmallMolecule2	Protein10	
+BiochemicalReaction2	RAF1  phosphorylates MEK1	Complex4	Protein10	
+BiochemicalReaction2	RAF1  phosphorylates MEK1	Complex4	Complex1	
+BiochemicalReaction2	RAF1  phosphorylates MEK1	SmallMolecule2	Complex1	
+BiochemicalReaction2	RAF1  phosphorylates MEK1	Complex4	SmallMolecule3	
+BiochemicalReaction2	RAF1  phosphorylates MEK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	RAF1 phosphorylates MEK2	Complex5	Complex1	
+BiochemicalReaction3	RAF1 phosphorylates MEK2	SmallMolecule2	Complex1	
+BiochemicalReaction3	RAF1 phosphorylates MEK2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	RAF1 phosphorylates MEK2	Complex5	SmallMolecule3	
+BiochemicalReaction3	RAF1 phosphorylates MEK2	SmallMolecule2	Protein11	
+BiochemicalReaction3	RAF1 phosphorylates MEK2	Complex5	Protein11	

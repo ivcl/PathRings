@@ -1,0 +1,53 @@
+BiochemicalReaction1	ATP binds to P2X7	SmallMolecule1	Complex1	
+BiochemicalReaction1	ATP binds to P2X7	Protein1	Complex1	
+BiochemicalReaction10	TXNIP binds NLRP3	Protein6	Complex8	
+BiochemicalReaction10	TXNIP binds NLRP3	Protein5	Complex8	
+BiochemicalReaction11	NLRP3 activation by small molecules	Complex5	Complex9	
+BiochemicalReaction11	NLRP3 activation by small molecules	SmallMolecule5	Complex9	
+BiochemicalReaction11	NLRP3 activation by small molecules	SmallMolecule5	Complex4	
+BiochemicalReaction11	NLRP3 activation by small molecules	Complex5	Complex4	
+BiochemicalReaction12	NLRP3 activation by elicitor proteins	Complex5	Complex4	
+BiochemicalReaction12	NLRP3 activation by elicitor proteins	Protein9	Complex4	
+BiochemicalReaction12	NLRP3 activation by elicitor proteins	Protein9	Complex10	
+BiochemicalReaction12	NLRP3 activation by elicitor proteins	Complex5	Complex10	
+BiochemicalReaction13	NLRP3 oligomerizes via NACHT domains	Complex11	PhysicalEntity1	
+BiochemicalReaction14	ASC is recruited via a PYD-PYD interaction	PhysicalEntity1	Complex12	
+BiochemicalReaction14	ASC is recruited via a PYD-PYD interaction	Protein12	Complex12	
+BiochemicalReaction15	The CARD domain of ASC recruits Procaspase-1	Complex12	Complex13	
+BiochemicalReaction15	The CARD domain of ASC recruits Procaspase-1	Protein13	Complex13	
+BiochemicalReaction16	PSTPIP1 binds Pyrin	Complex14	Complex16	
+BiochemicalReaction16	PSTPIP1 binds Pyrin	Complex15	Complex16	
+BiochemicalReaction17	Pyrin binds ASC	Complex14	Complex17	
+BiochemicalReaction17	Pyrin binds ASC	Protein12	Complex17	
+BiochemicalReaction18	Bcl-2 and Bcl-XL bind NLRP1	Protein20	Complex19	
+BiochemicalReaction18	Bcl-2 and Bcl-XL bind NLRP1	Protein21	Complex19	
+BiochemicalReaction19	NLRP1 senses MDP	Protein20	Complex20	
+BiochemicalReaction19	NLRP1 senses MDP	SmallMolecule9	Complex20	
+BiochemicalReaction2	P2X7 forms oligomeric non-selective cation channels	Complex1	Complex2	
+BiochemicalReaction20	MDP:NLRP1 binds ATP	SmallMolecule10	Complex21	
+BiochemicalReaction20	MDP:NLRP1 binds ATP	Complex20	Complex21	
+BiochemicalReaction21	NLRP1 oligomerizes	Complex21	PhysicalEntity2	
+BiochemicalReaction22	IPAF is activated	Protein24	Complex22	
+BiochemicalReaction22	IPAF is activated	PhysicalEntity3	Complex22	
+BiochemicalReaction23	IPAF binds procaspase-1	Complex22	Complex23	
+BiochemicalReaction23	IPAF binds procaspase-1	Protein13	Complex23	
+BiochemicalReaction24	AIM2 binds dsDNA	SmallMolecule11	Complex24	
+BiochemicalReaction24	AIM2 binds dsDNA	Protein29	Complex24	
+BiochemicalReaction25	AIM2 oligomerizes	Complex24	PhysicalEntity4	
+BiochemicalReaction26	dsDNA:AIM2 clusters bind ASC	PhysicalEntity4	Complex25	
+BiochemicalReaction26	dsDNA:AIM2 clusters bind ASC	Protein12	Complex25	
+BiochemicalReaction27	dsDNA:AIM2:ASC cluster binds procaspase-1	Complex25	Complex26	
+BiochemicalReaction27	dsDNA:AIM2:ASC cluster binds procaspase-1	Protein13	Complex26	
+BiochemicalReaction3	P2X7 mediates loss of intracellular K+	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	P2X7 mediates membrane pores that include pannexin-1	Complex2	Complex3	
+BiochemicalReaction4	P2X7 mediates membrane pores that include pannexin-1	Protein2	Complex3	
+BiochemicalReaction5	SGT1 binds HSP90	Protein3	Complex4	
+BiochemicalReaction5	SGT1 binds HSP90	Protein4	Complex4	
+BiochemicalReaction6	SGT1:HSP90 binds inactive NLRP3	Protein5	Complex5	
+BiochemicalReaction6	SGT1:HSP90 binds inactive NLRP3	Complex4	Complex5	
+BiochemicalReaction7	TXNIP binds reduced thioredoxin	Protein6	Complex6	
+BiochemicalReaction7	TXNIP binds reduced thioredoxin	Protein7	Complex6	
+BiochemicalReaction8	ROS oxidize thioredoxin	Protein7	Protein8	
+BiochemicalReaction8	ROS oxidize thioredoxin	SmallMolecule4	Protein8	
+BiochemicalReaction9	TXNIP is released from oxidized thioredoxin	Complex7	Protein8	
+BiochemicalReaction9	TXNIP is released from oxidized thioredoxin	Complex7	Protein6	

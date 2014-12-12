@@ -1,0 +1,56 @@
+BiochemicalReaction1	CCND1:CREBBP binds NOTCH1 promoter	Complex1	Complex2	
+BiochemicalReaction1	CCND1:CREBBP binds NOTCH1 promoter	Dna1	Complex2	
+BiochemicalReaction10	MIR200B/C microRNAs bind NOTCH1 mRNA	Rna1	Complex21	
+BiochemicalReaction10	MIR200B/C microRNAs bind NOTCH1 mRNA	Complex16	Complex21	
+BiochemicalReaction11	MIR449 microRNAs bind 3'UTR of NOTCH1 mRNA	Rna1	Complex27	
+BiochemicalReaction11	MIR449 microRNAs bind 3'UTR of NOTCH1 mRNA	Complex22	Complex27	
+BiochemicalReaction12	MIR34 microRNAs bind 3'UTR of NOTCH2 mRNA	Complex10	Complex28	
+BiochemicalReaction12	MIR34 microRNAs bind 3'UTR of NOTCH2 mRNA	Rna2	Complex28	
+BiochemicalReaction13	MIR150 microRNA binds 3'UTR of NOTCH3 mRNA	Complex29	Complex34	
+BiochemicalReaction13	MIR150 microRNA binds 3'UTR of NOTCH3 mRNA	Rna3	Complex34	
+BiochemicalReaction14	MIR206 microRNA binds 3'UTR of NOTCH3 mRNA	Complex35	Complex40	
+BiochemicalReaction14	MIR206 microRNA binds 3'UTR of NOTCH3 mRNA	Rna3	Complex40	
+BiochemicalReaction15	MIR181C microRNA binds 3'UTR of NOTCH4 mRNA	Complex41	Complex46	
+BiochemicalReaction15	MIR181C microRNA binds 3'UTR of NOTCH4 mRNA	Rna4	Complex46	
+BiochemicalReaction16	MIR302A microRNA binds 3'UTR of NOTCH4 mRNA	Complex47	Complex52	
+BiochemicalReaction16	MIR302A microRNA binds 3'UTR of NOTCH4 mRNA	Rna4	Complex52	
+BiochemicalReaction17	NOTCH1 mRNA translation controlled by miRNAs	Rna1	Protein34	
+BiochemicalReaction18	NOTCH2 mRNA translation controlled by miRNAs	Rna2	Protein35	
+BiochemicalReaction19	NOTCH3 mRNA translation controlled by miRNAs	Rna3	Protein36	
+BiochemicalReaction2	E2F1/3:DP1/2 binds NOTCH1 promoter	Complex3	Complex4	
+BiochemicalReaction2	E2F1/3:DP1/2 binds NOTCH1 promoter	Dna1	Complex4	
+BiochemicalReaction20	NOTCH4 mRNA translation controlled by miRNAs	Rna4	Protein37	
+BiochemicalReaction21	Fucosylation of Pre-NOTCH by POFUT1	SmallMolecule1	Protein39	
+BiochemicalReaction21	Fucosylation of Pre-NOTCH by POFUT1	Protein38	Protein39	
+BiochemicalReaction21	Fucosylation of Pre-NOTCH by POFUT1	Protein38	SmallMolecule2	
+BiochemicalReaction21	Fucosylation of Pre-NOTCH by POFUT1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	Glucosylation of Pre-NOTCH by POGLUT1	Protein39	SmallMolecule4	
+BiochemicalReaction22	Glucosylation of Pre-NOTCH by POGLUT1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction22	Glucosylation of Pre-NOTCH by POGLUT1	SmallMolecule3	Protein45	
+BiochemicalReaction22	Glucosylation of Pre-NOTCH by POGLUT1	Protein39	Protein45	
+BiochemicalReaction23	Transport of NOTCH precursor to Golgi	Protein45	Protein51	
+BiochemicalReaction24	NOTCH precursor cleaved to form mature NOTCH	Protein51	Complex53	
+BiochemicalReaction25	Glycosylation of Pre-NOTCH by FRINGE	Protein51	SmallMolecule6	
+BiochemicalReaction25	Glycosylation of Pre-NOTCH by FRINGE	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction25	Glycosylation of Pre-NOTCH by FRINGE	SmallMolecule5	Protein71	
+BiochemicalReaction25	Glycosylation of Pre-NOTCH by FRINGE	Protein51	Protein71	
+BiochemicalReaction26	Galactosylation of Pre-NOTCH	SmallMolecule7	Protein80	
+BiochemicalReaction26	Galactosylation of Pre-NOTCH	Protein71	Protein80	
+BiochemicalReaction26	Galactosylation of Pre-NOTCH	Protein71	SmallMolecule6	
+BiochemicalReaction26	Galactosylation of Pre-NOTCH	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction27	Sialylation of Pre-NOTCH	Protein80	Protein86	
+BiochemicalReaction27	Sialylation of Pre-NOTCH	SmallMolecule8	Protein86	
+BiochemicalReaction27	Sialylation of Pre-NOTCH	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction27	Sialylation of Pre-NOTCH	Protein80	SmallMolecule9	
+BiochemicalReaction28	Fringe-modified Pre-NOTCH is cleaved by FURIN	Protein86	Complex59	
+BiochemicalReaction29	Mature NOTCH heterodimer traffics to the plasma membrane	Complex53	Complex64	
+BiochemicalReaction3	NOTCH1 gene transcription	Dna1	Rna1	
+BiochemicalReaction30	Transport of fringe-modified NOTCH to plasma membrane	Complex59	Complex69	
+BiochemicalReaction4	NOTCH2 gene transcription	Dna2	Rna2	
+BiochemicalReaction5	NOTCH3 gene transcription	Dna3	Rna3	
+BiochemicalReaction6	NOTCH4 gene transcription	Dna4	Rna4	
+BiochemicalReaction7	TP53 binds promoters of MIR34 genes	Complex8	Complex9	
+BiochemicalReaction7	TP53 binds promoters of MIR34 genes	Dna5	Complex9	
+BiochemicalReaction8	p53 positively regulates transcription of MIR34 microRNAs	Dna5	Complex10	
+BiochemicalReaction9	MIR34 microRNAs bind 3'UTR of NOTCH1 mRNA	Complex10	Complex15	
+BiochemicalReaction9	MIR34 microRNAs bind 3'UTR of NOTCH1 mRNA	Rna1	Complex15	

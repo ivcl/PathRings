@@ -1,0 +1,9 @@
+Complex1	TRAIL receptor-2:TRAIL complex	plasma membrane	Reactome DB_ID: 141118	Protein1	
+Complex1	TRAIL receptor-2:TRAIL complex	plasma membrane	Reactome DB_ID: 141118	Protein2	
+Complex2	TRAIL receptor-2:TRAIL Trimer	plasma membrane	Reactome DB_ID: 141126	Complex1	
+Complex3	TRAIL:TRAIL receptor-2:FADD	plasma membrane	Reactome DB_ID: 141137	Complex2	
+Complex3	TRAIL:TRAIL receptor-2:FADD	plasma membrane	Reactome DB_ID: 141137	Protein3	
+Complex4	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8	plasma membrane	Reactome DB_ID: 141133	Protein5	
+Complex4	TRAIL:TRAIL receptor-2 Trimer:FADD:procaspase-8	plasma membrane	Reactome DB_ID: 141133	Complex3	
+Complex5	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex	plasma membrane	Reactome DB_ID: 141304	Protein7	
+Complex5	TRAIL:TRAIL receptor-2 Trimer:FADD:Caspase-10 precursor complex	plasma membrane	Reactome DB_ID: 141304	Complex3	

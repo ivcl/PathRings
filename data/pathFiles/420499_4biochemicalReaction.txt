@@ -1,0 +1,14 @@
+BiochemicalReaction1	Metabotropic glutamate receptors bind glutamate	PhysicalEntity1	Complex1	
+BiochemicalReaction1	Metabotropic glutamate receptors bind glutamate	SmallMolecule1	Complex1	
+BiochemicalReaction2	Calcium-sensing receptor binds calcium	SmallMolecule2	Complex2	
+BiochemicalReaction2	Calcium-sensing receptor binds calcium	Protein11	Complex2	
+BiochemicalReaction3	GPRC6A can bind L-alpha amino acids and calcium	Protein12	Complex3	
+BiochemicalReaction3	GPRC6A can bind L-alpha amino acids and calcium	PhysicalEntity2	Complex3	
+BiochemicalReaction4	GABAB heterodimeric receptor binds GABA	Complex4	Complex5	
+BiochemicalReaction4	GABAB heterodimeric receptor binds GABA	SmallMolecule7	Complex5	
+BiochemicalReaction5	T1R1/T1R3 dimer is the umami taste receptor	Complex6	Complex7	
+BiochemicalReaction5	T1R1/T1R3 dimer is the umami taste receptor	SmallMolecule1	Complex7	
+BiochemicalReaction6	T1R2/T1R3 dimer is a sweet taste receptor	Complex8	Complex9	
+BiochemicalReaction6	T1R2/T1R3 dimer is a sweet taste receptor	SmallMolecule8	Complex9	
+BiochemicalReaction7	T2Rs bind bitter-tasting compounds	SmallMolecule13	Complex10	
+BiochemicalReaction7	T2Rs bind bitter-tasting compounds	Protein18	Complex10	

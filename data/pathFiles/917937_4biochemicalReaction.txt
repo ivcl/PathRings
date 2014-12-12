@@ -1,0 +1,74 @@
+BiochemicalReaction1	Reduction of extracellular Fe3+	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Reduction of extracellular Fe3+	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction10	Export of heme to the blood by FLVCR	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule18	SmallMolecule25	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule18	SmallMolecule26	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule22	SmallMolecule26	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule24	SmallMolecule26	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule18	SmallMolecule23	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule22	SmallMolecule23	
+BiochemicalReaction11	Export of heme to the blood by ABCG2	SmallMolecule24	SmallMolecule23	
+BiochemicalReaction12	Loaded transferrin binds to TfR1	Complex4	Complex7	
+BiochemicalReaction12	Loaded transferrin binds to TfR1	Complex6	Complex7	
+BiochemicalReaction13	Separation of endosome from the plasma membrane	Complex7	Complex8	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule6	SmallMolecule25	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule24	SmallMolecule25	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule22	SmallMolecule26	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule24	SmallMolecule26	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule6	SmallMolecule26	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule22	SmallMolecule28	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule24	SmallMolecule28	
+BiochemicalReaction14	Acidification of Tf:TfR1 containing endosome	SmallMolecule6	SmallMolecule28	
+BiochemicalReaction15	Iron separates from the Tf:TfR1 complex	Complex8	SmallMolecule29	
+BiochemicalReaction15	Iron separates from the Tf:TfR1 complex	Complex8	Complex18	
+BiochemicalReaction16	Reduction of Fe3+ in the endosome	SmallMolecule29	SmallMolecule31	
+BiochemicalReaction16	Reduction of Fe3+ in the endosome	SmallMolecule30	SmallMolecule31	
+BiochemicalReaction17	Iron diffuses out of the endosome	SmallMolecule31	SmallMolecule7	
+BiochemicalReaction18	Recycling of Tf endosome to plasma membrane	Complex18	Complex19	
+BiochemicalReaction19	apo-Transferrin dissociates from the receptor complex	Complex19	Protein6	
+BiochemicalReaction19	apo-Transferrin dissociates from the receptor complex	Complex19	Complex6	
+BiochemicalReaction2	DCT1 (NRAMP2) mediates divalent iron uptake across the apical membrane of enterocytes	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	DCT1 (NRAMP2) mediates divalent iron uptake across the apical membrane of enterocytes	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction2	DCT1 (NRAMP2) mediates divalent iron uptake across the apical membrane of enterocytes	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction2	DCT1 (NRAMP2) mediates divalent iron uptake across the apical membrane of enterocytes	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction20	Ferritin stores iron	SmallMolecule6	SmallMolecule32	
+BiochemicalReaction20	Ferritin stores iron	SmallMolecule17	SmallMolecule32	
+BiochemicalReaction20	Ferritin stores iron	SmallMolecule7	SmallMolecule32	
+BiochemicalReaction20	Ferritin stores iron	SmallMolecule7	SmallMolecule22	
+BiochemicalReaction20	Ferritin stores iron	SmallMolecule17	SmallMolecule22	
+BiochemicalReaction20	Ferritin stores iron	SmallMolecule6	SmallMolecule22	
+BiochemicalReaction3	Ferroportin mediates iron influx across the basolateral membrane of enterocytes	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction4	Ferroportin mediates iron efflux on macrophages	SmallMolecule7	SmallMolecule3	
+BiochemicalReaction5	Oxidation of Fe2+ by ceruloplasmin	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction5	Oxidation of Fe2+ by ceruloplasmin	SmallMolecule12	SmallMolecule1	
+BiochemicalReaction5	Oxidation of Fe2+ by ceruloplasmin	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction5	Oxidation of Fe2+ by ceruloplasmin	SmallMolecule3	SmallMolecule13	
+BiochemicalReaction5	Oxidation of Fe2+ by ceruloplasmin	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	Oxidation of Fe2+ by ceruloplasmin	SmallMolecule5	SmallMolecule13	
+BiochemicalReaction6	Oxidation of Fe2+ by hephaestin	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction6	Oxidation of Fe2+ by hephaestin	SmallMolecule12	SmallMolecule1	
+BiochemicalReaction6	Oxidation of Fe2+ by hephaestin	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction6	Oxidation of Fe2+ by hephaestin	SmallMolecule3	SmallMolecule13	
+BiochemicalReaction6	Oxidation of Fe2+ by hephaestin	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction6	Oxidation of Fe2+ by hephaestin	SmallMolecule5	SmallMolecule13	
+BiochemicalReaction7	apo-Transferrin is loaded with two iron ions	SmallMolecule1	Complex4	
+BiochemicalReaction7	apo-Transferrin is loaded with two iron ions	Protein6	Complex4	
+BiochemicalReaction8	Extracellular ferriheme uptake through the apical membrane of enterocytes	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule16	SmallMolecule19	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule17	SmallMolecule20	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule16	SmallMolecule20	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule18	SmallMolecule21	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule17	SmallMolecule21	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule16	SmallMolecule21	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule18	SmallMolecule22	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule17	SmallMolecule22	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule16	SmallMolecule22	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule18	SmallMolecule7	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule17	SmallMolecule7	
+BiochemicalReaction9	The heme ring is cleaved by heme oxygenase	SmallMolecule16	SmallMolecule7	

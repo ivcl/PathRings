@@ -1,0 +1,27 @@
+Complex10	K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2213008	Protein25	
+Complex10	K63-poly-Ub-TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2213008	Complex1	
+Complex11	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKK epsilon	endosome membrane	Reactome DB_ID: 936970	Protein29	
+Complex11	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKK epsilon	endosome membrane	Reactome DB_ID: 936970	Complex10	
+Complex12	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKKE:IRF3/IRF7	endosome membrane	Reactome DB_ID: 937070	Complex11	
+Complex12	activated TLR3/4:TRIF:K63-poly-Ub-TRAF3:p-TBK1/p-IKKE:IRF3/IRF7	endosome membrane	Reactome DB_ID: 937070	Protein32	
+Complex14	p-2S-IRF7:p-2S-IRF7	cytosol	Reactome DB_ID: 450344	Protein38	
+Complex15	p-T,4S-IRF3:p-T,4S-IRF3	cytosol	Reactome DB_ID: 166272	Protein37	
+Complex17	p-T,4S-IRF3:p-T,4S-IRF3	nucleoplasm	Reactome DB_ID: 177675	Protein39	
+Complex18	p-2S-IRF7:p-2S-IRF7	nucleoplasm	Reactome DB_ID: 450306	Protein40	
+Complex2	TRIF:TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166172	Complex3	
+Complex2	TRIF:TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166172	Protein5	
+Complex3	TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166163	Protein1	
+Complex3	TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166163	Complex4	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	Complex5	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	SmallMolecule1	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	Protein4	
+Complex5	TLR4:MD2	endosome membrane	Reactome DB_ID: 2201291	Protein2	
+Complex5	TLR4:MD2	endosome membrane	Reactome DB_ID: 2201291	Protein3	
+Complex6	viral dsRNA:TLR3:TRIF 	endosome membrane	Reactome DB_ID: 168907	Protein6	
+Complex6	viral dsRNA:TLR3:TRIF 	endosome membrane	Reactome DB_ID: 168907	Complex7	
+Complex7	viral dsRNA :TLR3	endosome membrane	Reactome DB_ID: 167985	Protein7	
+Complex7	viral dsRNA :TLR3	endosome membrane	Reactome DB_ID: 167985	PhysicalEntity1	
+Complex8	TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2201339	Complex1	
+Complex8	TRAF3:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2201339	Protein8	
+Complex9	SARM:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2559578	Protein9	
+Complex9	SARM:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2559578	Complex1	

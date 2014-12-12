@@ -1,0 +1,52 @@
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Protein1	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex2	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex3	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex4	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex5	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	PhysicalEntity1	
+BiochemicalReaction1	Abortive initiation after formation of the first phosphodiester bond	Complex1	Complex7	
+BiochemicalReaction10	Resumption of elongation after recovery from pausing	Complex18	Complex21	
+BiochemicalReaction11	2-4 nt.backtracking of Pol II complex on the template leading to elongation pausing	Complex21	Complex18	
+BiochemicalReaction12	7-14 nt. Backtracking of Pol II complex on the template leading to elongation arrest	Complex21	Complex22	
+BiochemicalReaction13	TFIIS-mediated recovery of elongation from arrest	Complex22	Complex21	
+BiochemicalReaction14	Abortive termination of early transcription elongation by DSIF:NELF	Complex23	Complex28	
+BiochemicalReaction15	Abortive termination of elongation after arrest	Complex22	Complex29	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	PhysicalEntity6	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex20	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex8	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex16	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex15	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Protein56	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex14	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Protein57	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	SmallMolecule1	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Protein58	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex17	
+BiochemicalReaction16	Elongating transcript encounters a lesion in the template	Complex21	Complex12	
+BiochemicalReaction17	Fall Back to Closed Pre-initiation Complex	Complex30	Complex31	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	Complex2	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	PhysicalEntity2	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	Complex5	
+BiochemicalReaction2	Abortive Initiation After Second Transition	Complex10	Complex7	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Protein1	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex2	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex3	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex4	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex5	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	PhysicalEntity3	
+BiochemicalReaction3	Abortive Initiation Before Second Transition	Complex11	Complex7	
+BiochemicalReaction4	Formation of DSIF complex 	Protein41	Complex12	
+BiochemicalReaction4	Formation of DSIF complex 	Protein42	Complex12	
+BiochemicalReaction5	Formation of Elongin BC complex	Protein43	Complex13	
+BiochemicalReaction5	Formation of Elongin BC complex	Protein44	Complex13	
+BiochemicalReaction6	Formation of FACT complex	Protein45	Complex14	
+BiochemicalReaction6	Formation of FACT complex	Protein46	Complex14	
+BiochemicalReaction7	Formation of NELF complex 	Protein47	Complex15	
+BiochemicalReaction7	Formation of NELF complex 	Protein48	Complex15	
+BiochemicalReaction7	Formation of NELF complex 	Protein49	Complex15	
+BiochemicalReaction7	Formation of NELF complex 	Protein50	Complex15	
+BiochemicalReaction8	Formation of P-TEFb complex	Protein51	Complex16	
+BiochemicalReaction8	Formation of P-TEFb complex	Protein52	Complex16	
+BiochemicalReaction8	Formation of P-TEFb complex	Protein53	Complex16	
+BiochemicalReaction9	Formation of elongin complex	Protein54	Complex17	
+BiochemicalReaction9	Formation of elongin complex	Complex13	Complex17	

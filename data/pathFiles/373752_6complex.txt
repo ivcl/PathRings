@@ -1,0 +1,85 @@
+Complex1	DCC:Netrin-1	plasma membrane	Reactome DB_ID: 373667	Protein2	
+Complex1	DCC:Netrin-1	plasma membrane	Reactome DB_ID: 373667	Protein1	
+Complex10	Netrin:DCC oligomer:pFAK:Fyn:Nck-1:Rho GEFs DOCK/Trio	plasma membrane	Reactome DB_ID: 418829	Complex9	
+Complex10	Netrin:DCC oligomer:pFAK:Fyn:Nck-1:Rho GEFs DOCK/Trio	plasma membrane	Reactome DB_ID: 418829	Protein10	
+Complex11	CDC42:GDP	cytosol	Reactome DB_ID: 418830	Protein13	
+Complex11	CDC42:GDP	cytosol	Reactome DB_ID: 418830	SmallMolecule4	
+Complex12	Active Cdc42 bound to Netrin:DCC complex	plasma membrane	Reactome DB_ID: 418820	Complex10	
+Complex12	Active Cdc42 bound to Netrin:DCC complex	plasma membrane	Reactome DB_ID: 418820	Complex13	
+Complex13	CDC42:GTP	cytosol	Reactome DB_ID: 182921	Protein13	
+Complex13	CDC42:GTP	cytosol	Reactome DB_ID: 182921	SmallMolecule3	
+Complex14	RAC1-GDP	cytosol	Reactome DB_ID: 445010	SmallMolecule4	
+Complex14	RAC1-GDP	cytosol	Reactome DB_ID: 445010	Protein14	
+Complex15	Active Rac1 bound to Netrin-1-DCC complex	plasma membrane	Reactome DB_ID: 418826	Complex10	
+Complex15	Active Rac1 bound to Netrin-1-DCC complex	plasma membrane	Reactome DB_ID: 418826	Complex16	
+Complex16	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule3	
+Complex16	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein14	
+Complex17	Netrin:DCC:Nck:Cdc42-GTP:Active N-WASP:PIP2	plasma membrane	Reactome DB_ID: 418834	Complex12	
+Complex17	Netrin:DCC:Nck:Cdc42-GTP:Active N-WASP:PIP2	plasma membrane	Reactome DB_ID: 418834	SmallMolecule5	
+Complex17	Netrin:DCC:Nck:Cdc42-GTP:Active N-WASP:PIP2	plasma membrane	Reactome DB_ID: 418834	Protein16	
+Complex18	Netrin-1:DCC:pFyn:Nck:Rac1-GTP:Ablim	plasma membrane	Reactome DB_ID: 418814	Complex15	
+Complex18	Netrin-1:DCC:pFyn:Nck:Rac1-GTP:Ablim	plasma membrane	Reactome DB_ID: 418814	Protein17	
+Complex19	UNC-5:Netrin-1 complex	plasma membrane	Reactome DB_ID: 373660	Protein21	
+Complex19	UNC-5:Netrin-1 complex	plasma membrane	Reactome DB_ID: 373660	Protein1	
+Complex2	Netrin:DCC oligomer	plasma membrane	Reactome DB_ID: 373678	Complex1	
+Complex2	Netrin:DCC oligomer	plasma membrane	Reactome DB_ID: 373678	Protein2	
+Complex20	DCC bound to UNC-5:Netrin-1	plasma membrane	Reactome DB_ID: 373654	Complex19	
+Complex20	DCC bound to UNC-5:Netrin-1	plasma membrane	Reactome DB_ID: 373654	Protein2	
+Complex21	Netrin-1:DCC:UNC5C	plasma membrane	Reactome DB_ID: 418818	Complex22	
+Complex21	Netrin-1:DCC:UNC5C	plasma membrane	Reactome DB_ID: 418818	Complex6	
+Complex22	UNC5C:Netrin-1	plasma membrane	Reactome DB_ID: 418823	Protein24	
+Complex22	UNC5C:Netrin-1	plasma membrane	Reactome DB_ID: 418823	Protein1	
+Complex23	Netrin-1:DCC:pUNC5C	plasma membrane	Reactome DB_ID: 418827	Complex24	
+Complex23	Netrin-1:DCC:pUNC5C	plasma membrane	Reactome DB_ID: 418827	Complex6	
+Complex24	pUNC5C:Netrin-1	plasma membrane	Reactome DB_ID: 418821	Protein26	
+Complex24	pUNC5C:Netrin-1	plasma membrane	Reactome DB_ID: 418821	Protein1	
+Complex25	Netrin1:pUnc5C:DCC:Shp2	plasma membrane	Reactome DB_ID: 418825	Complex23	
+Complex25	Netrin1:pUnc5C:DCC:Shp2	plasma membrane	Reactome DB_ID: 418825	Protein27	
+Complex26	Robo:Slit	plasma membrane	Reactome DB_ID: 204367	Protein28	
+Complex26	Robo:Slit	plasma membrane	Reactome DB_ID: 204367	Protein32	
+Complex27	DCC:Robo:Slit	plasma membrane	Reactome DB_ID: 373666	Complex26	
+Complex27	DCC:Robo:Slit	plasma membrane	Reactome DB_ID: 373666	Protein2	
+Complex28	SIAH1 bound to DCC:Netrin-1	plasma membrane	Reactome DB_ID: 374593	Complex1	
+Complex28	SIAH1 bound to DCC:Netrin-1	plasma membrane	Reactome DB_ID: 374593	Protein33	
+Complex29	SIAH2 bound to DCC:Netrin-1	plasma membrane	Reactome DB_ID: 374590	Complex1	
+Complex29	SIAH2 bound to DCC:Netrin-1	plasma membrane	Reactome DB_ID: 374590	Protein34	
+Complex3	PTK2:DCC oligomer:Netrin	plasma membrane	Reactome DB_ID: 373662	Complex2	
+Complex3	PTK2:DCC oligomer:Netrin	plasma membrane	Reactome DB_ID: 373662	Protein3	
+Complex30	Ezrin:PIP2	plasma membrane	Reactome DB_ID: 374570	SmallMolecule5	
+Complex30	Ezrin:PIP2	plasma membrane	Reactome DB_ID: 374570	Protein35	
+Complex31	pEzrin:PIP2	plasma membrane	Reactome DB_ID: 374558	SmallMolecule5	
+Complex31	pEzrin:PIP2	plasma membrane	Reactome DB_ID: 374558	Protein36	
+Complex32	DCC:Ezrin complex	plasma membrane	Reactome DB_ID: 374565	Complex31	
+Complex32	DCC:Ezrin complex	plasma membrane	Reactome DB_ID: 374565	Protein2	
+Complex33	DCC&UNC5A:Netrin-4	plasma membrane	Reactome DB_ID: 593689	Protein38	
+Complex33	DCC&UNC5A:Netrin-4	plasma membrane	Reactome DB_ID: 593689	Protein39	
+Complex34	Netrin-1:Neogenin	plasma membrane	Reactome DB_ID: 374592	Protein40	
+Complex34	Netrin-1:Neogenin	plasma membrane	Reactome DB_ID: 374592	Protein1	
+Complex35	Neogenin:RGD	plasma membrane	Reactome DB_ID: 374583	Protein41	
+Complex35	Neogenin:RGD	plasma membrane	Reactome DB_ID: 374583	Protein40	
+Complex36	Myosin-X:DCC/Neogenin	plasma membrane	Reactome DB_ID: 593674	Protein45	
+Complex36	Myosin-X:DCC/Neogenin	plasma membrane	Reactome DB_ID: 593674	Protein46	
+Complex37	PIKE-L:UNC5B	plasma membrane	Reactome DB_ID: 622358	Protein23	
+Complex37	PIKE-L:UNC5B	plasma membrane	Reactome DB_ID: 622358	Protein47	
+Complex38	Netrin:DCC:PITP	plasma membrane	Reactome DB_ID: 418843	Complex2	
+Complex38	Netrin:DCC:PITP	plasma membrane	Reactome DB_ID: 418843	Protein48	
+Complex39	pPLCgamma:PIP2	plasma membrane	Reactome DB_ID: 622379	Protein50	
+Complex39	pPLCgamma:PIP2	plasma membrane	Reactome DB_ID: 622379	SmallMolecule5	
+Complex4	Nterin-1:DCC oligomer:pPTK2	plasma membrane	Reactome DB_ID: 418822	Protein4	
+Complex4	Nterin-1:DCC oligomer:pPTK2	plasma membrane	Reactome DB_ID: 418822	Complex2	
+Complex40	TRPC channels	plasma membrane	Reactome DB_ID: 622392	Protein51	
+Complex40	TRPC channels	plasma membrane	Reactome DB_ID: 622392	Complex41	
+Complex41	TRPC1+4/5	plasma membrane	Reactome DB_ID: 622385	Protein55	
+Complex41	TRPC1+4/5	plasma membrane	Reactome DB_ID: 622385	Protein56	
+Complex42	Activated TRP channels	plasma membrane	Reactome DB_ID: 622374	Protein51	
+Complex42	Activated TRP channels	plasma membrane	Reactome DB_ID: 622374	Complex41	
+Complex5	Netrin1:DCC oligomer:pPTK2:Fyn/src	plasma membrane	Reactome DB_ID: 418815	Complex4	
+Complex5	Netrin1:DCC oligomer:pPTK2:Fyn/src	plasma membrane	Reactome DB_ID: 418815	Protein5	
+Complex6	Netrin-1:pDCC dimer:pFAK:Src/Fyn	plasma membrane	Reactome DB_ID: 374551	Protein5	
+Complex6	Netrin-1:pDCC dimer:pFAK:Src/Fyn	plasma membrane	Reactome DB_ID: 374551	Complex7	
+Complex7	Nterin-1:pDCC dimer:pPTK2	plasma membrane	Reactome DB_ID: 418839	Protein4	
+Complex7	Nterin-1:pDCC dimer:pPTK2	plasma membrane	Reactome DB_ID: 418839	Complex8	
+Complex8	Netrin-1:pDCC dimer	plasma membrane	Reactome DB_ID: 418837	Protein1	
+Complex8	Netrin-1:pDCC dimer	plasma membrane	Reactome DB_ID: 418837	Protein8	
+Complex9	Nterin-1:pDCC oligomer:pFAK:Fyn:NCK1	plasma membrane	Reactome DB_ID: 373663	Protein9	
+Complex9	Nterin-1:pDCC oligomer:pFAK:Fyn:NCK1	plasma membrane	Reactome DB_ID: 373663	Complex6	

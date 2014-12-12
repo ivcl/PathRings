@@ -1,0 +1,40 @@
+Complex1	dsRNA:RIG-I/MDA5:IPS-1	mitochondrial outer membrane	Reactome DB_ID: 918201	Complex2	
+Complex1	dsRNA:RIG-I/MDA5:IPS-1	mitochondrial outer membrane	Reactome DB_ID: 918201	Protein7	
+Complex10	dsRNA:RIG-I/MDA5:IPS-1:RIP-1/FADD:procaspase-8/10 dimer	mitochondrial outer membrane	Reactome DB_ID: 933483	Complex2	
+Complex10	dsRNA:RIG-I/MDA5:IPS-1:RIP-1/FADD:procaspase-8/10 dimer	mitochondrial outer membrane	Reactome DB_ID: 933483	Complex11	
+Complex11	IPS-1:RIP-1/FADD:procaspase-8/10 dimer	mitochondrial outer membrane	Reactome DB_ID: 933477	Protein1	
+Complex11	IPS-1:RIP-1/FADD:procaspase-8/10 dimer	mitochondrial outer membrane	Reactome DB_ID: 933477	Protein7	
+Complex11	IPS-1:RIP-1/FADD:procaspase-8/10 dimer	mitochondrial outer membrane	Reactome DB_ID: 933477	Complex12	
+Complex12	FADD:procaspase-8/10 dimer	cytosol	Reactome DB_ID: 933474	Complex13	
+Complex12	FADD:procaspase-8/10 dimer	cytosol	Reactome DB_ID: 933474	Protein8	
+Complex13	procaspase-8/10 dimer	cytosol	Reactome DB_ID: 933469	Protein9	
+Complex14	dsRNA:RIG-I/MDA5:TRAF2/TRAF6:IPS-1:RIP-1/FADD:Casp-8/10 prodomain	mitochondrial outer membrane	Reactome DB_ID: 933473	Complex15	
+Complex14	dsRNA:RIG-I/MDA5:TRAF2/TRAF6:IPS-1:RIP-1/FADD:Casp-8/10 prodomain	mitochondrial outer membrane	Reactome DB_ID: 933473	Complex2	
+Complex15	IPS-1:RIP-1/FADD:Casp-8/10 prodomain	mitochondrial outer membrane	Reactome DB_ID: 933466	Protein1	
+Complex15	IPS-1:RIP-1/FADD:Casp-8/10 prodomain	mitochondrial outer membrane	Reactome DB_ID: 933466	Complex16	
+Complex15	IPS-1:RIP-1/FADD:Casp-8/10 prodomain	mitochondrial outer membrane	Reactome DB_ID: 933466	Protein7	
+Complex16	FADD:Casp-8/10 prodomain	cytosol	Reactome DB_ID: 933480	Protein15	
+Complex16	FADD:Casp-8/10 prodomain	cytosol	Reactome DB_ID: 933480	Protein8	
+Complex17	IKK complex	cytosol	Reactome DB_ID: 168113	Protein20	
+Complex17	IKK complex	cytosol	Reactome DB_ID: 168113	Protein21	
+Complex17	IKK complex	cytosol	Reactome DB_ID: 168113	Protein22	
+Complex18	dsRNA:RIG-I/MDA5:TRAF2/TRAF6:IPS-1:RIP-1/FADD:Casp-8/10 prodomain:IKK complex	mitochondrial outer membrane	Reactome DB_ID: 933478	Complex14	
+Complex18	dsRNA:RIG-I/MDA5:TRAF2/TRAF6:IPS-1:RIP-1/FADD:Casp-8/10 prodomain:IKK complex	mitochondrial outer membrane	Reactome DB_ID: 933478	Complex17	
+Complex3	dsRNA:MDA5	cytosol	Reactome DB_ID: 913727	PhysicalEntity1	
+Complex3	dsRNA:MDA5	cytosol	Reactome DB_ID: 913727	Protein2	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	Protein3	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	SmallMolecule1	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	PhysicalEntity1	
+Complex4	dsRNA:Ub-RIG-I:TRIM25	cytosol	Reactome DB_ID: 918190	Protein4	
+Complex5	dsRNA:RIG-I/MDA5:IPS-1:RIP-1/FADD	mitochondrial outer membrane	Reactome DB_ID: 918291	Complex2	
+Complex5	dsRNA:RIG-I/MDA5:IPS-1:RIP-1/FADD	mitochondrial outer membrane	Reactome DB_ID: 918291	Complex6	
+Complex6	IPS-1:RIP-1/FADD	mitochondrial outer membrane	Reactome DB_ID: 918293	Protein1	
+Complex6	IPS-1:RIP-1/FADD	mitochondrial outer membrane	Reactome DB_ID: 918293	Protein7	
+Complex6	IPS-1:RIP-1/FADD	mitochondrial outer membrane	Reactome DB_ID: 918293	Protein8	
+Complex7	dsRNA:RIG-I/MDA5:IPS-1:RIP-1/FADD:Procasp-8/10	mitochondrial outer membrane	Reactome DB_ID: 933468	Complex2	
+Complex7	dsRNA:RIG-I/MDA5:IPS-1:RIP-1/FADD:Procasp-8/10	mitochondrial outer membrane	Reactome DB_ID: 933468	Complex8	
+Complex8	IPS-1:RIP-1/FADD:procaspase-8/10	mitochondrial outer membrane	Reactome DB_ID: 933475	Protein1	
+Complex8	IPS-1:RIP-1/FADD:procaspase-8/10	mitochondrial outer membrane	Reactome DB_ID: 933475	Complex9	
+Complex8	IPS-1:RIP-1/FADD:procaspase-8/10	mitochondrial outer membrane	Reactome DB_ID: 933475	Protein7	
+Complex9	FADD:procaspase-8/10	cytosol	Reactome DB_ID: 933481	Protein9	
+Complex9	FADD:procaspase-8/10	cytosol	Reactome DB_ID: 933481	Protein8	

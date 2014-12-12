@@ -1,0 +1,40 @@
+BiochemicalReaction1	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	I(1,4,5)P3 is phosphorylated to I(1,3,4,5)P4 by IPMK in the nucleus	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule13	SmallMolecule4	
+BiochemicalReaction10	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction10	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule14	
+BiochemicalReaction10	1-PP-IP5 is phosphorylated to 1,5-(PP)2-IP4 by IP6K1/2 in the nucleus	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction2	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction2	I(1,3,4,5)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction3	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule6	SmallMolecule4	
+BiochemicalReaction3	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction3	I(1,3,4,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction4	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule7	SmallMolecule4	
+BiochemicalReaction4	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction4	I(1,4,5,6)P4 is phosphorylated to I(1,3,4,5,6)P5 by IPMK in the nucleus	SmallMolecule7	SmallMolecule5	
+BiochemicalReaction5	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction5	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	I(1,3,4,5,6)P5 is phosphorylated to IP6 by IPPK (IP5-2K) in the nucleus	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction6	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction6	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule5	SmallMolecule4	
+BiochemicalReaction6	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction6	I(1,3,4,5,6)P5 is phosphorylated to 5-PP-IP4 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule9	
+BiochemicalReaction7	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule9	SmallMolecule4	
+BiochemicalReaction7	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction7	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule10	
+BiochemicalReaction7	5-PP-IP4 is phosphorylated to 1,5-(PP)2-IP3 by IP6K1/2 in the nucleus	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction8	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule8	SmallMolecule4	
+BiochemicalReaction8	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction8	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule11	
+BiochemicalReaction8	IP6 is phosphorylated to 5-PP-IP5 by IP6K1/2 in the nucleus	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction9	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule12	
+BiochemicalReaction9	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction9	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule11	SmallMolecule4	
+BiochemicalReaction9	5-PP-IP5 is phosphorylated to 5-PPP-IP5 by IP6K1/2 in the nucleus	SmallMolecule2	SmallMolecule4	

@@ -1,0 +1,14 @@
+BiochemicalReaction1	RFC binding displaces Pol Alpha	Complex1	Complex5	
+BiochemicalReaction1	RFC binding displaces Pol Alpha	Complex4	Complex5	
+BiochemicalReaction2	Loading of PCNA - Sliding Clamp Formation	Complex6	Complex7	
+BiochemicalReaction2	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	Complex7	
+BiochemicalReaction2	Loading of PCNA - Sliding Clamp Formation	Complex5	Complex7	
+BiochemicalReaction2	Loading of PCNA - Sliding Clamp Formation	Complex5	SmallMolecule2	
+BiochemicalReaction2	Loading of PCNA - Sliding Clamp Formation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Loading of PCNA - Sliding Clamp Formation	Complex6	SmallMolecule2	
+BiochemicalReaction3	RFC dissociates after sliding clamp formation	Complex7	Complex8	
+BiochemicalReaction3	RFC dissociates after sliding clamp formation	Complex7	Complex4	
+BiochemicalReaction4	Formation of Processive Complex	Complex9	Complex10	
+BiochemicalReaction4	Formation of Processive Complex	Complex8	Complex10	
+BiochemicalReaction5	Processive synthesis on the leading strand	Complex9	Complex10	
+BiochemicalReaction5	Processive synthesis on the leading strand	Complex8	Complex10	

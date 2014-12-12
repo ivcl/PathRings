@@ -1,0 +1,59 @@
+BiochemicalReaction1	Cleavage of P-ERBB4jmA isoforms by ADAM17	Complex1	Complex6	
+BiochemicalReaction1	Cleavage of P-ERBB4jmA isoforms by ADAM17	Complex1	Complex11	
+BiochemicalReaction10	ERBB4s80 binds STAT5A	Complex15	Complex31	
+BiochemicalReaction10	ERBB4s80 binds STAT5A	Complex30	Complex31	
+BiochemicalReaction11	ERBB4s80:STAT5A complex translocates to the nucleus	Complex31	Complex32	
+BiochemicalReaction12	ERBB4s80 forms a complex with estrogen receptor ESR1	Complex20	Complex36	
+BiochemicalReaction12	ERBB4s80 forms a complex with estrogen receptor ESR1	Complex34	Complex36	
+BiochemicalReaction13	Transcription of NR3C3 and CXCL12	NA	Protein40	
+BiochemicalReaction13	Transcription of NR3C3 and CXCL12	NA	Protein41	
+BiochemicalReaction14	Translocation of cytosolic ERBB4s80 to mitochondrial matrix	Complex15	Complex37	
+BiochemicalReaction15	PRLR associates with JAK2	Protein44	Complex40	
+BiochemicalReaction15	PRLR associates with JAK2	Protein45	Complex40	
+BiochemicalReaction16	PRLR:JAK2 dimerizes	Complex40	Complex41	
+BiochemicalReaction17	Prolactin receptor ligands bind the prolactin receptor	PhysicalEntity2	Complex43	
+BiochemicalReaction17	Prolactin receptor ligands bind the prolactin receptor	Complex41	Complex43	
+BiochemicalReaction18	PRLR activation	Complex43	Complex49	
+BiochemicalReaction19	SH2B binds JAK2	Complex49	Complex52	
+BiochemicalReaction19	SH2B binds JAK2	Protein57	Complex52	
+BiochemicalReaction2	Cleavage of ERBB4m80 by gamma-scretase complex	Complex11	Complex15	
+BiochemicalReaction20	JAK2 phosphorylation	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction20	JAK2 phosphorylation	Complex53	SmallMolecule4	
+BiochemicalReaction20	JAK2 phosphorylation	Complex53	Complex57	
+BiochemicalReaction20	JAK2 phosphorylation	SmallMolecule3	Complex57	
+BiochemicalReaction21	Tyrosine phosphorylation of PRLR	Complex61	SmallMolecule4	
+BiochemicalReaction21	Tyrosine phosphorylation of PRLR	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction21	Tyrosine phosphorylation of PRLR	SmallMolecule3	Complex64	
+BiochemicalReaction21	Tyrosine phosphorylation of PRLR	Complex61	Complex64	
+BiochemicalReaction22	PRLR binds STAT5	Protein61	Complex67	
+BiochemicalReaction22	PRLR binds STAT5	Complex64	Complex67	
+BiochemicalReaction23	PRLR-bound STAT5 is phosphorylated	Complex67	SmallMolecule4	
+BiochemicalReaction23	PRLR-bound STAT5 is phosphorylated	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction23	PRLR-bound STAT5 is phosphorylated	SmallMolecule3	Complex68	
+BiochemicalReaction23	PRLR-bound STAT5 is phosphorylated	Complex67	Complex68	
+BiochemicalReaction24	PRLR binds SHP2 (PTPN11)	Complex64	Complex69	
+BiochemicalReaction24	PRLR binds SHP2 (PTPN11)	Protein66	Complex69	
+BiochemicalReaction25	SHP2 is phosphorylated	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction25	SHP2 is phosphorylated	Complex69	SmallMolecule4	
+BiochemicalReaction25	SHP2 is phosphorylated	Complex69	Complex70	
+BiochemicalReaction25	SHP2 is phosphorylated	SmallMolecule3	Complex70	
+BiochemicalReaction26	PRLR is phosphorylated at Ser-349	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction26	PRLR is phosphorylated at Ser-349	Complex49	SmallMolecule4	
+BiochemicalReaction26	PRLR is phosphorylated at Ser-349	Complex49	Complex45	
+BiochemicalReaction26	PRLR is phosphorylated at Ser-349	SmallMolecule3	Complex45	
+BiochemicalReaction27	PRLR binds SCF beta-TrCP complex	Complex45	Complex44	
+BiochemicalReaction27	PRLR binds SCF beta-TrCP complex	Complex48	Complex44	
+BiochemicalReaction28	Prolactin receptor is internalized	Complex44	Complex71	
+BiochemicalReaction28	Prolactin receptor is internalized	Complex44	Complex48	
+BiochemicalReaction3	Translocation of ERBB4s80 to the nucleus	Complex15	Complex20	
+BiochemicalReaction4	ERBB4s80 binds TAB2:NCOR1 complex	Complex15	Complex24	
+BiochemicalReaction4	ERBB4s80 binds TAB2:NCOR1 complex	Complex23	Complex24	
+BiochemicalReaction5	ERBB4:TAB2:NCOR1 complex translocates to the nucleus	Complex24	Complex25	
+BiochemicalReaction6	Transcription of GFAP and S100B	NA	Protein31	
+BiochemicalReaction6	Transcription of GFAP and S100B	NA	Protein32	
+BiochemicalReaction7	WWOX binds ERBB4s80	Complex15	Complex27	
+BiochemicalReaction7	WWOX binds ERBB4s80	Protein33	Complex27	
+BiochemicalReaction8	ERBB4s80 binds YAP1	Complex15	Complex28	
+BiochemicalReaction8	ERBB4s80 binds YAP1	Protein34	Complex28	
+BiochemicalReaction9	Translocation of ERBB4s80:YAP1 complex to the nucleus	Complex28	Complex29	
+TemplateReaction1	Transcription of beta-casein (CSN2)	NA	Protein38	

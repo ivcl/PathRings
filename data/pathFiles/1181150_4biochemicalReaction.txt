@@ -1,0 +1,30 @@
+BiochemicalReaction1	Cleavage of NODAL Proprotein	Protein1	Protein2	
+BiochemicalReaction10	CERBERUS Binds NODAL	Protein2	Complex21	
+BiochemicalReaction10	CERBERUS Binds NODAL	Protein31	Complex21	
+BiochemicalReaction11	LEFTY Binds NODAL	Protein2	Complex22	
+BiochemicalReaction11	LEFTY Binds NODAL	Protein32	Complex22	
+BiochemicalReaction12	LEFTY Binds the EGF-CFC Coreceptor in the NODAL Receptor	Protein32	Complex23	
+BiochemicalReaction12	LEFTY Binds the EGF-CFC Coreceptor in the NODAL Receptor	Complex1	Complex23	
+BiochemicalReaction2	The NODAL Receptor Binds NODAL Ligands	Complex1	Complex7	
+BiochemicalReaction2	The NODAL Receptor Binds NODAL Ligands	Complex4	Complex7	
+BiochemicalReaction3	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	SmallMolecule1	Complex9	
+BiochemicalReaction3	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	Complex8	Complex9	
+BiochemicalReaction3	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	Complex8	SmallMolecule2	
+BiochemicalReaction3	Type II Activin Receptor (ActRII/ACVR2) Phosphorylates Type I Activin Receptor (ActRIB/ACVR1B) in Response to NODAL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	Complex11	SmallMolecule2	
+BiochemicalReaction4	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	Complex11	Complex12	
+BiochemicalReaction4	Type II Activin Receptor (ActRIIB/ACVR2B) Phosphorylates Type I Activin Receptor (ActRIC/ACVR1C) in Response to NODAL	SmallMolecule1	Complex12	
+BiochemicalReaction5	Phosphorylation of R-SMAD2/3 by NODAL Receptor	Protein17	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of R-SMAD2/3 by NODAL Receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of R-SMAD2/3 by NODAL Receptor	SmallMolecule1	Protein20	
+BiochemicalReaction5	Phosphorylation of R-SMAD2/3 by NODAL Receptor	Protein17	Protein20	
+BiochemicalReaction6	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein23	Complex16	
+BiochemicalReaction6	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein20	Complex16	
+BiochemicalReaction7	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex16	Complex17	
+BiochemicalReaction8	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	Protein28	Complex18	
+BiochemicalReaction8	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	Complex17	Complex18	
+BiochemicalReaction8	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXH1 Binds Activin Response Element	PhysicalEntity1	Complex18	
+BiochemicalReaction9	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXO3 Binds FoxO3a-binding Elements	Protein30	Complex20	
+BiochemicalReaction9	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXO3 Binds FoxO3a-binding Elements	PhysicalEntity2	Complex20	
+BiochemicalReaction9	Phospho R-SMAD(SMAD2/3):CO-SMAD(SMAD4):FOXO3 Binds FoxO3a-binding Elements	Complex17	Complex20	

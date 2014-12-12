@@ -1,0 +1,35 @@
+BiochemicalReaction1	Transport of connexins to the ER-Golgi intermediate compartment	Protein21	Protein22	
+BiochemicalReaction10	Insertion of connexons into the plasma membrane resulting in the formation of hemi-channels	Complex8	Complex9	
+BiochemicalReaction10	Insertion of connexons into the plasma membrane resulting in the formation of hemi-channels	Complex8	PhysicalEntity1	
+BiochemicalReaction11	Formation of junctional channels	Complex10	Complex11	
+BiochemicalReaction12	Assembly of gap junction plaques	Complex11	Complex12	
+BiochemicalReaction13	Dab2 is recruited to the junctional plaques	Complex13	Complex15	
+BiochemicalReaction13	Dab2 is recruited to the junctional plaques	Protein36	Complex15	
+BiochemicalReaction14	Dynamin is recruited to the gap junction plaque	Complex15	Complex16	
+BiochemicalReaction14	Dynamin is recruited to the gap junction plaque	Protein37	Complex16	
+BiochemicalReaction15	Internalization of gap junction plaques	Complex16	Complex17	
+BiochemicalReaction15	Internalization of gap junction plaques	Protein40	Complex17	
+BiochemicalReaction16	Association of Cx43  with TJP1	Protein54	Complex25	
+BiochemicalReaction16	Association of Cx43  with TJP1	Complex6	Complex25	
+BiochemicalReaction17	c-src associates with Cx43 in gap junctions	Protein56	Complex28	
+BiochemicalReaction17	c-src associates with Cx43 in gap junctions	Complex26	Complex28	
+BiochemicalReaction18	Phosphorylation of Cx43 by c-src	Complex28	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation of Cx43 by c-src	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	Phosphorylation of Cx43 by c-src	SmallMolecule1	Complex30	
+BiochemicalReaction18	Phosphorylation of Cx43 by c-src	Complex28	Complex30	
+BiochemicalReaction19	Closure of gap junction	Complex32	Complex34	
+BiochemicalReaction2	Transport of connexins to the Trans-Golgi Network (TGN)	Protein20	Protein25	
+BiochemicalReaction3	Connexin oligomerization in endoplasmic reticulum membrane	Protein19	Complex1	
+BiochemicalReaction4	Connexin oligomerization in  ER-Golgi-Intermediate Compartment	Protein24	Complex2	
+BiochemicalReaction4	Connexin oligomerization in  ER-Golgi-Intermediate Compartment	Protein23	Complex2	
+BiochemicalReaction5	Connexin oligomerization in Trans-Golgi Network (TGN)	Protein25	Complex3	
+BiochemicalReaction6	Microtubule-independent trafficking of connexons to the plasma membrane	Complex4	Complex5	
+BiochemicalReaction7	Budding of connexon-containing transport vesicles from the Golgi	Complex3	Complex6	
+BiochemicalReaction8	Association of Golgi  transport vesicles with microtubules	Complex6	Complex7	
+BiochemicalReaction8	Association of Golgi  transport vesicles with microtubules	PhysicalEntity1	Complex7	
+BiochemicalReaction9	Docking of connexons into junctional, double-membrane spanning channels	Complex7	Complex8	
+Degradation1	Lysosomal degradation of gap junction plaques	Complex17	NA	
+TemplateReaction1	Connexin synthesis (generic)	NA	Protein1	
+TemplateReaction2	Synthesis of Cx26	NA	Protein18	
+TemplateReaction3	Synthesis of Cx32	NA	Protein19	
+TemplateReaction4	Synthesis of Cx43	NA	Protein20	

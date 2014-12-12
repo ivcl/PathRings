@@ -1,0 +1,26 @@
+BiochemicalReaction1	PPA2A dephosphorylates SPRY2	Complex1	SmallMolecule1	
+BiochemicalReaction1	PPA2A dephosphorylates SPRY2	Complex1	Complex3	
+BiochemicalReaction10	B-RAF dissociates from S111/S120 p-SPRY2	Complex12	Protein30	
+BiochemicalReaction10	B-RAF dissociates from S111/S120 p-SPRY2	Complex12	Protein31	
+BiochemicalReaction11	SHP2 dephosphorylates SPRY2	Complex7	Protein11	
+BiochemicalReaction11	SHP2 dephosphorylates SPRY2	Complex7	Complex5	
+BiochemicalReaction2	SPRY2 translocates to the plasma membrane	Complex3	Complex4	
+BiochemicalReaction3	SRC phosphorylates SPRY2 on Y55 and Y227	Complex4	SmallMolecule3	
+BiochemicalReaction3	SRC phosphorylates SPRY2 on Y55 and Y227	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	SRC phosphorylates SPRY2 on Y55 and Y227	SmallMolecule2	Complex5	
+BiochemicalReaction3	SRC phosphorylates SPRY2 on Y55 and Y227	Complex4	Complex5	
+BiochemicalReaction4	SPRY2 binds GRB2	Protein11	Complex7	
+BiochemicalReaction4	SPRY2 binds GRB2	Complex5	Complex7	
+BiochemicalReaction5	SPRY2 binds CBL	Protein12	Complex8	
+BiochemicalReaction5	SPRY2 binds CBL	Complex5	Complex8	
+BiochemicalReaction5	SPRY2 binds CBL	Complex5	Complex2	
+BiochemicalReaction5	SPRY2 binds CBL	Protein12	Complex2	
+BiochemicalReaction6	Phosphorylated SPRY2 is ubiquitinated by CBL	Protein13	Complex9	
+BiochemicalReaction6	Phosphorylated SPRY2 is ubiquitinated by CBL	Complex8	Complex9	
+BiochemicalReaction7	CBL dissociates from ubiquitinated p-SPRY2	Complex9	Protein12	
+BiochemicalReaction7	CBL dissociates from ubiquitinated p-SPRY2	Complex9	Complex10	
+BiochemicalReaction8	SPRY2 is phosphorylated by phosphorylated MNK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	SPRY2 is phosphorylated by phosphorylated MNK1	Complex4	SmallMolecule3	
+BiochemicalReaction8	SPRY2 is phosphorylated by phosphorylated MNK1	Complex4	Complex6	
+BiochemicalReaction8	SPRY2 is phosphorylated by phosphorylated MNK1	SmallMolecule2	Complex6	
+BiochemicalReaction9	SPRY2 is serine phosphorylated in response to MAPK activation	Complex11	Complex12	

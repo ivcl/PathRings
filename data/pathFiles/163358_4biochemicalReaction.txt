@@ -1,0 +1,14 @@
+BiochemicalReaction1	Phosphorylation of ChREBP at Thr(666) by PKA	Protein1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of ChREBP at Thr(666) by PKA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Phosphorylation of ChREBP at Thr(666) by PKA	SmallMolecule1	Protein2	
+BiochemicalReaction1	Phosphorylation of ChREBP at Thr(666) by PKA	Protein1	Protein2	
+BiochemicalReaction2	PhosphoChREBP (Thr 666)  is exported to cytosol	Protein2	Protein7	
+BiochemicalReaction3	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	Protein7	SmallMolecule4	
+BiochemicalReaction3	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	SmallMolecule3	Protein8	
+BiochemicalReaction3	Phosphorylation of pChREBP (Thr 666) at Ser(196) by PKA	Protein7	Protein8	
+BiochemicalReaction4	Nuclear transport of pChREBP (Thr 666) protein	Protein7	Protein2	
+BiochemicalReaction5	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex1	SmallMolecule4	
+BiochemicalReaction5	Phosphorylation of PF2K-Pase by PKA catalytic subunit	Complex1	Complex2	
+BiochemicalReaction5	Phosphorylation of PF2K-Pase by PKA catalytic subunit	SmallMolecule3	Complex2	

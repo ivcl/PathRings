@@ -1,0 +1,8 @@
+BiochemicalReaction1	FGFR4 binds BetaKlotho-bound FGF19	Protein1	Complex1	
+BiochemicalReaction1	FGFR4 binds BetaKlotho-bound FGF19	Protein2	Complex1	
+BiochemicalReaction1	FGFR4 binds BetaKlotho-bound FGF19	Protein3	Complex1	
+BiochemicalReaction1	FGFR4 binds BetaKlotho-bound FGF19	SmallMolecule1	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of BetaKlotho-bound FGFR4	Complex1	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of BetaKlotho-bound FGFR4	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of BetaKlotho-bound FGFR4	SmallMolecule2	Complex2	
+BiochemicalReaction2	Autocatalytic phosphorylation of BetaKlotho-bound FGFR4	Complex1	Complex2	

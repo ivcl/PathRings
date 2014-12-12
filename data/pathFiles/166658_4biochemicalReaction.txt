@@ -1,0 +1,138 @@
+BiochemicalReaction1	Ficolin-1 binds to molecular patterns on the target cell surface 	Complex1	Complex6	
+BiochemicalReaction1	Ficolin-1 binds to molecular patterns on the target cell surface 	SmallMolecule1	Complex6	
+BiochemicalReaction1	Ficolin-1 binds to molecular patterns on the target cell surface 	SmallMolecule2	Complex6	
+BiochemicalReaction10	Conversion of C2 into C2a and C2b	Protein196	Protein197	
+BiochemicalReaction10	Conversion of C2 into C2a and C2b	Protein196	Protein198	
+BiochemicalReaction11	Formation of Classical C3 convertase (C4b:C2a complex)	Protein197	Complex60	
+BiochemicalReaction11	Formation of Classical C3 convertase (C4b:C2a complex)	Complex56	Complex60	
+BiochemicalReaction12	Spontaneous hydrolysis of C3 thioester	SmallMolecule12	Complex62	
+BiochemicalReaction12	Spontaneous hydrolysis of C3 thioester	Complex61	Complex62	
+BiochemicalReaction13	Factor B binds to C3(H2O)	Complex62	Complex63	
+BiochemicalReaction13	Factor B binds to C3(H2O)	Protein202	Complex63	
+BiochemicalReaction14	Factor D cleaves C3(H2O)-bound Factor B	Complex63	Protein203	
+BiochemicalReaction14	Factor D cleaves C3(H2O)-bound Factor B	Complex63	Complex64	
+BiochemicalReaction15	C3(H2O):Factor Bb cleaves C3 to C3b and C3a	Complex61	Complex65	
+BiochemicalReaction15	C3(H2O):Factor Bb cleaves C3 to C3b and C3a	Complex61	Protein209	
+BiochemicalReaction16	C3b binds to cell surface	Complex65	Complex66	
+BiochemicalReaction16	C3b binds to cell surface	PhysicalEntity4	Complex66	
+BiochemicalReaction17	Factor B binds to surface-associated C3b	Complex66	Complex67	
+BiochemicalReaction17	Factor B binds to surface-associated C3b	Protein202	Complex67	
+BiochemicalReaction18	Factor D cleaves C3b-bound Factor B	Complex67	Protein203	
+BiochemicalReaction18	Factor D cleaves C3b-bound Factor B	Complex67	Complex68	
+BiochemicalReaction19	Properdin stabilizes C3b:Bb bound to cell surfaces	Complex68	Complex69	
+BiochemicalReaction19	Properdin stabilizes C3b:Bb bound to cell surfaces	PhysicalEntity5	Complex69	
+BiochemicalReaction2	Ficolin-2 binds to molecular patterns on the target cell surface 	Complex7	Complex10	
+BiochemicalReaction2	Ficolin-2 binds to molecular patterns on the target cell surface 	SmallMolecule6	Complex10	
+BiochemicalReaction2	Ficolin-2 binds to molecular patterns on the target cell surface 	SmallMolecule1	Complex10	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex61	Protein209	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex69	Protein209	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex69	Complex70	
+BiochemicalReaction20	Formation of alternative pathway C5 convertase	Complex61	Complex70	
+BiochemicalReaction21	Cleavage of C3 by C3 convertases	Complex61	Complex65	
+BiochemicalReaction21	Cleavage of C3 by C3 convertases	Complex61	Protein209	
+BiochemicalReaction22	Formation of classic pathway C5 convertase	Complex60	Complex72	
+BiochemicalReaction22	Formation of classic pathway C5 convertase	Complex66	Complex72	
+BiochemicalReaction23	Activation of C5	Complex73	Complex74	
+BiochemicalReaction23	Activation of C5	Complex73	Protein214	
+BiochemicalReaction24	Formation of C5b:C6 complex	Protein215	Complex76	
+BiochemicalReaction24	Formation of C5b:C6 complex	Complex74	Complex76	
+BiochemicalReaction25	Formation of C5b:C6:C7 complex	Complex76	Complex77	
+BiochemicalReaction25	Formation of C5b:C6:C7 complex	Protein216	Complex77	
+BiochemicalReaction26	C7 allows complex to insert into membrane under attack	Complex77	Complex78	
+BiochemicalReaction27	Formation of C5b:C6:C7:C8 complex	Complex79	Complex80	
+BiochemicalReaction27	Formation of C5b:C6:C7:C8 complex	Complex78	Complex80	
+BiochemicalReaction28	Creation of the Membrane Attack Complex (MAC)	Protein220	Complex81	
+BiochemicalReaction28	Creation of the Membrane Attack Complex (MAC)	Complex80	Complex81	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	Complex65	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	Protein197	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	Protein204	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	PhysicalEntity5	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	Complex60	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	Complex62	
+BiochemicalReaction29	C3 convertases spontaneously dissociate	Complex71	Complex56	
+BiochemicalReaction3	Ficolin-3 binds to molecular patterns on the target cell surface 	SmallMolecule1	Complex14	
+BiochemicalReaction3	Ficolin-3 binds to molecular patterns on the target cell surface 	SmallMolecule9	Complex14	
+BiochemicalReaction3	Ficolin-3 binds to molecular patterns on the target cell surface 	Complex11	Complex14	
+BiochemicalReaction30	Factor H binds to C3b	Complex65	Complex82	
+BiochemicalReaction30	Factor H binds to C3b	Protein221	Complex82	
+BiochemicalReaction31	Factor H binds host cell surface markers	Complex83	Complex84	
+BiochemicalReaction31	Factor H binds host cell surface markers	Protein221	Complex84	
+BiochemicalReaction32	Factor H binds to membrane-associated C3b	Protein222	Complex85	
+BiochemicalReaction32	Factor H binds to membrane-associated C3b	Complex66	Complex85	
+BiochemicalReaction33	Factor H binds to C3bBb	Complex68	Complex86	
+BiochemicalReaction33	Factor H binds to C3bBb	Protein222	Complex86	
+BiochemicalReaction34	Factor H displaces Bb	Complex86	Protein204	
+BiochemicalReaction34	Factor H displaces Bb	Complex86	Complex85	
+BiochemicalReaction35	Complement factor I complex formation	Protein224	Complex87	
+BiochemicalReaction35	Complement factor I complex formation	Protein225	Complex87	
+BiochemicalReaction36	Complement factor I binds to extracellular Factor H:C3b	Complex87	Complex88	
+BiochemicalReaction36	Complement factor I binds to extracellular Factor H:C3b	Complex82	Complex88	
+BiochemicalReaction37	Factor I inactivates plasma Factor H-bound C3b	Complex88	Complex87	
+BiochemicalReaction37	Factor I inactivates plasma Factor H-bound C3b	Complex88	Protein221	
+BiochemicalReaction37	Factor I inactivates plasma Factor H-bound C3b	Complex88	Complex89	
+BiochemicalReaction37	Factor I inactivates plasma Factor H-bound C3b	Complex88	Protein228	
+BiochemicalReaction38	Complement factor I binds to membrane-associated Factor H:C3b	Complex87	Complex90	
+BiochemicalReaction38	Complement factor I binds to membrane-associated Factor H:C3b	Complex85	Complex90	
+BiochemicalReaction39	Factor I inactivates Factor H-boundC3b	Complex90	Complex87	
+BiochemicalReaction39	Factor I inactivates Factor H-boundC3b	Complex90	Protein222	
+BiochemicalReaction39	Factor I inactivates Factor H-boundC3b	Complex90	Complex91	
+BiochemicalReaction39	Factor I inactivates Factor H-boundC3b	Complex90	Protein228	
+BiochemicalReaction4	MBL binds to repetitive carbohydrate structures on the surfaces of viruses, bacteria, fungi, and protozoa	PhysicalEntity1	Complex18	
+BiochemicalReaction4	MBL binds to repetitive carbohydrate structures on the surfaces of viruses, bacteria, fungi, and protozoa	SmallMolecule1	Complex18	
+BiochemicalReaction4	MBL binds to repetitive carbohydrate structures on the surfaces of viruses, bacteria, fungi, and protozoa	Complex15	Complex18	
+BiochemicalReaction40	iC3b proteolysis	Complex92	Protein232	
+BiochemicalReaction40	iC3b proteolysis	Complex92	Complex93	
+BiochemicalReaction40	iC3b proteolysis	Complex92	Protein234	
+BiochemicalReaction41	CR1 binds C3bBb/C4bC2a	Protein232	Complex95	
+BiochemicalReaction41	CR1 binds C3bBb/C4bC2a	Complex94	Complex95	
+BiochemicalReaction42	Displacement of C2a/Bb by CR1	Complex95	Complex98	
+BiochemicalReaction42	Displacement of C2a/Bb by CR1	Complex95	Protein197	
+BiochemicalReaction42	Displacement of C2a/Bb by CR1	Complex95	Complex99	
+BiochemicalReaction42	Displacement of C2a/Bb by CR1	Complex95	Protein204	
+BiochemicalReaction43	MCP binds C3b, C4b	Protein235	Complex101	
+BiochemicalReaction43	MCP binds C3b, C4b	Complex100	Complex101	
+BiochemicalReaction43	MCP binds C3b, C4b	Complex100	Complex102	
+BiochemicalReaction43	MCP binds C3b, C4b	Protein235	Complex102	
+BiochemicalReaction44	Complement factor I binds to MCP, CR1:C4b, C3b	Complex87	Complex104	
+BiochemicalReaction44	Complement factor I binds to MCP, CR1:C4b, C3b	Complex103	Complex104	
+BiochemicalReaction45	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex104	Complex87	
+BiochemicalReaction45	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex104	Protein236	
+BiochemicalReaction45	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex104	PhysicalEntity6	
+BiochemicalReaction45	Factor I inactivates MCP/CR1-bound C4b/C3b	Complex104	PhysicalEntity7	
+BiochemicalReaction46	CD55 (DAF) binds C3bBb, C4bC2a	Protein244	Complex108	
+BiochemicalReaction46	CD55 (DAF) binds C3bBb, C4bC2a	Complex94	Complex108	
+BiochemicalReaction47	DAF accelerates C3bBb/C4bC2a dissociation	Complex108	Protein197	
+BiochemicalReaction47	DAF accelerates C3bBb/C4bC2a dissociation	Complex108	Protein204	
+BiochemicalReaction47	DAF accelerates C3bBb/C4bC2a dissociation	Complex108	Complex111	
+BiochemicalReaction47	DAF accelerates C3bBb/C4bC2a dissociation	Complex108	Complex112	
+BiochemicalReaction48	C4b-binding protein binds C4b	Complex53	Complex114	
+BiochemicalReaction48	C4b-binding protein binds C4b	Complex113	Complex114	
+BiochemicalReaction49	Complement factor I binds C4BP	Complex87	Complex115	
+BiochemicalReaction49	Complement factor I binds C4BP	Complex114	Complex115	
+BiochemicalReaction5	Activation of MASPs	Complex19	Complex20	
+BiochemicalReaction50	Complement factor I inactivates C4BP-bound C4b	Complex115	Complex87	
+BiochemicalReaction50	Complement factor I inactivates C4BP-bound C4b	Complex115	Complex105	
+BiochemicalReaction50	Complement factor I inactivates C4BP-bound C4b	Complex115	Protein237	
+BiochemicalReaction50	Complement factor I inactivates C4BP-bound C4b	Complex115	Complex113	
+BiochemicalReaction51	C4b binding protein binds C4bC2a	Complex60	Complex116	
+BiochemicalReaction51	C4b binding protein binds C4bC2a	Complex113	Complex116	
+BiochemicalReaction52	C4b binding protein displaces C2a	Complex116	Protein197	
+BiochemicalReaction52	C4b binding protein displaces C2a	Complex116	Complex114	
+BiochemicalReaction53	C4b binding protein binds Protein S	Protein247	Complex117	
+BiochemicalReaction53	C4b binding protein binds Protein S	Complex113	Complex117	
+BiochemicalReaction54	CD59 inhibits MAC formation	Protein220	Complex118	
+BiochemicalReaction54	CD59 inhibits MAC formation	Complex80	Complex118	
+BiochemicalReaction54	CD59 inhibits MAC formation	Protein248	Complex118	
+BiochemicalReaction55	Formation of soluble VTN:C5b-C9 	Complex79	Complex120	
+BiochemicalReaction55	Formation of soluble VTN:C5b-C9 	Protein220	Complex120	
+BiochemicalReaction55	Formation of soluble VTN:C5b-C9 	Complex119	Complex120	
+BiochemicalReaction56	Vitronectin(VTN) binds to C5b:C6:C7 	Complex77	Complex119	
+BiochemicalReaction56	Vitronectin(VTN) binds to C5b:C6:C7 	Protein249	Complex119	
+BiochemicalReaction57	Hydrolysis of internal thioester in C4b	Complex53	Complex121	
+BiochemicalReaction57	Hydrolysis of internal thioester in C4b	SmallMolecule12	Complex121	
+BiochemicalReaction6	Activation of C1R	Complex28	Complex39	
+BiochemicalReaction7	Activation of C1S	Complex39	Complex46	
+BiochemicalReaction8	Conversion of C4 into C4a and C4b	Complex50	Protein189	
+BiochemicalReaction8	Conversion of C4 into C4a and C4b	Complex50	Complex53	
+BiochemicalReaction9	C4b binds to cell surface	Complex53	Complex56	
+BiochemicalReaction9	C4b binds to cell surface	PhysicalEntity4	Complex56	

@@ -1,0 +1,70 @@
+BiochemicalReaction1	Formation of collagen fibrils	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction10	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity22	Complex28	
+BiochemicalReaction10	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity3	Complex28	
+BiochemicalReaction11	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity22	Complex29	
+BiochemicalReaction11	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity3	Complex29	
+BiochemicalReaction12	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity3	Complex30	
+BiochemicalReaction12	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity24	Complex30	
+BiochemicalReaction13	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity3	Complex31	
+BiochemicalReaction13	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity24	Complex31	
+BiochemicalReaction14	Formation of lysyl-pyridinoline cross-links	Complex31	Complex32	
+BiochemicalReaction14	Formation of lysyl-pyridinoline cross-links	Complex30	Complex32	
+BiochemicalReaction15	Formation of hydroxylysyl-pyridinoline cross-links	Complex31	Complex33	
+BiochemicalReaction16	Formation of lysyl-pyrrole cross-links	Complex29	Complex34	
+BiochemicalReaction16	Formation of lysyl-pyrrole cross-links	Complex30	Complex34	
+BiochemicalReaction17	Formation of hydroxylysyl-pyrrole cross-links	Complex31	Complex35	
+BiochemicalReaction17	Formation of hydroxylysyl-pyrrole cross-links	Complex29	Complex35	
+BiochemicalReaction18	Formation of histidino-hydroxylysinonorleucine cross-links	PhysicalEntity3	Complex36	
+BiochemicalReaction18	Formation of histidino-hydroxylysinonorleucine cross-links	Complex29	Complex36	
+BiochemicalReaction19	Formation of collagen fibres	PhysicalEntity2	PhysicalEntity34	
+BiochemicalReaction2	Formation of collagen networks	PhysicalEntity10	PhysicalEntity12	
+BiochemicalReaction20	Collagen XI cross-links with collagen II	PhysicalEntity4	Complex37	
+BiochemicalReaction20	Collagen XI cross-links with collagen II	PhysicalEntity7	Complex37	
+BiochemicalReaction21	Collagen IX is cross-linked to the surface of collagen type II fibrils	PhysicalEntity4	Complex38	
+BiochemicalReaction22	Type XII and XIV collagens associate with type I and type II fibrils.	PhysicalEntity42	Complex39	
+BiochemicalReaction22	Type XII and XIV collagens associate with type I and type II fibrils.	PhysicalEntity43	Complex39	
+BiochemicalReaction23	Type X collagen associates with collagen type II fibrils	PhysicalEntity4	Complex40	
+BiochemicalReaction23	Type X collagen associates with collagen type II fibrils	PhysicalEntity15	Complex40	
+BiochemicalReaction24	Hemidesmosome formation	Complex41	Complex45	
+BiochemicalReaction24	Hemidesmosome formation	Complex42	Complex45	
+BiochemicalReaction24	Hemidesmosome formation	Protein397	Complex45	
+BiochemicalReaction24	Hemidesmosome formation	Complex44	Complex45	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex46	Protein424	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex47	Protein424	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex47	Protein425	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex46	Protein425	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex47	Protein426	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex46	Protein426	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex47	Protein427	
+BiochemicalReaction25	Release of endostatin-like peptides	Complex46	Protein427	
+BiochemicalReaction3	Collagen type VII dimerization	Complex20	Complex21	
+BiochemicalReaction4	Cleavage of collagen VII NC2 region by BMP1	Complex21	Protein339	
+BiochemicalReaction4	Cleavage of collagen VII NC2 region by BMP1	Complex21	Complex22	
+BiochemicalReaction5	Formation of anchoring fibrils	Complex22	PhysicalEntity20	
+BiochemicalReaction6	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity3	Complex25	
+BiochemicalReaction6	Collagen type VII binds laminin-322 and collagen IV	Complex24	Complex25	
+BiochemicalReaction6	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity20	Complex25	
+BiochemicalReaction6	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity16	Complex25	
+BiochemicalReaction7	Prolysyl oxidase activation	Protein372	Protein378	
+BiochemicalReaction7	Prolysyl oxidase activation	Protein372	Protein384	
+BiochemicalReaction8	Formation of allysine by LOX	PhysicalEntity3	PhysicalEntity22	
+BiochemicalReaction8	Formation of allysine by LOX	SmallMolecule1	PhysicalEntity22	
+BiochemicalReaction8	Formation of allysine by LOX	SmallMolecule2	PhysicalEntity22	
+BiochemicalReaction8	Formation of allysine by LOX	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction8	Formation of allysine by LOX	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction8	Formation of allysine by LOX	PhysicalEntity3	SmallMolecule3	
+BiochemicalReaction8	Formation of allysine by LOX	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction8	Formation of allysine by LOX	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction8	Formation of allysine by LOX	PhysicalEntity3	SmallMolecule4	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	PhysicalEntity3	SmallMolecule3	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	PhysicalEntity23	SmallMolecule3	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	SmallMolecule2	PhysicalEntity24	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	PhysicalEntity23	PhysicalEntity24	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	SmallMolecule1	PhysicalEntity24	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	PhysicalEntity3	PhysicalEntity24	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	PhysicalEntity23	SmallMolecule4	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction9	Formation of hydroxyallysine by LOX	PhysicalEntity3	SmallMolecule4	

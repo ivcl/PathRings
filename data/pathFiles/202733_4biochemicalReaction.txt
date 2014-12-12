@@ -1,0 +1,104 @@
+BiochemicalReaction1	Binding of GPVI:Fc Epsilon R1 gamma receptor complex with collagen	PhysicalEntity1	Complex4	
+BiochemicalReaction1	Binding of GPVI:Fc Epsilon R1 gamma receptor complex with collagen	Complex1	Complex4	
+BiochemicalReaction10	P-selectin binds P-selectin ligand	Protein19	Complex17	
+BiochemicalReaction10	P-selectin binds P-selectin ligand	Protein20	Complex17	
+BiochemicalReaction11	JAM-B homodimerises	Protein8	Complex18	
+BiochemicalReaction12	JAM-C homodimerises	Protein5	Complex19	
+BiochemicalReaction13	CD177 binds PECAM-1	Protein26	Complex20	
+BiochemicalReaction13	CD177 binds PECAM-1	Protein27	Complex20	
+BiochemicalReaction14	CD47 binds SIRP	Protein28	Complex21	
+BiochemicalReaction14	CD47 binds SIRP	Protein31	Complex21	
+BiochemicalReaction15	CD48 binds CD244	Protein32	Complex22	
+BiochemicalReaction15	CD48 binds CD244	Protein33	Complex22	
+BiochemicalReaction16	CD58 binds CD2	Protein34	Complex23	
+BiochemicalReaction16	CD58 binds CD2	Protein35	Complex23	
+BiochemicalReaction17	Integrin alpha5beta1 binds FN1 dimer	Complex24	Complex26	
+BiochemicalReaction17	Integrin alpha5beta1 binds FN1 dimer	SmallMolecule1	Complex26	
+BiochemicalReaction17	Integrin alpha5beta1 binds FN1 dimer	Complex25	Complex26	
+BiochemicalReaction18	CXADR binds to AMICA1	Protein38	Complex27	
+BiochemicalReaction18	CXADR binds to AMICA1	Protein39	Complex27	
+BiochemicalReaction19	protein C -> activated protein C + protein C heavy chain activation peptide	Complex28	Complex29	
+BiochemicalReaction19	protein C -> activated protein C + protein C heavy chain activation peptide	Complex28	Protein43	
+BiochemicalReaction2	Integrin alphaMbeta2 (MAC1) binds JAM3	Protein5	Complex6	
+BiochemicalReaction2	Integrin alphaMbeta2 (MAC1) binds JAM3	Complex5	Complex6	
+BiochemicalReaction20	OLR1 binds to oxidized LDL	Complex32	Complex33	
+BiochemicalReaction20	OLR1 binds to oxidized LDL	Protein51	Complex33	
+BiochemicalReaction21	Platelet-derived TREM-1 ligand binds to TREM-1	Protein52	Complex34	
+BiochemicalReaction21	Platelet-derived TREM-1 ligand binds to TREM-1	PhysicalEntity2	Complex34	
+BiochemicalReaction22	Interaction of Tie2 with Ang1	Protein53	Complex35	
+BiochemicalReaction22	Interaction of Tie2 with Ang1	Protein54	Complex35	
+BiochemicalReaction23	Dimerization of Tie2/Ang1 complex	Complex35	Complex36	
+BiochemicalReaction24	Trans-phosphorylation of Tie2	Complex36	Complex37	
+BiochemicalReaction24	Trans-phosphorylation of Tie2	SmallMolecule8	Complex37	
+BiochemicalReaction24	Trans-phosphorylation of Tie2	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction24	Trans-phosphorylation of Tie2	Complex36	SmallMolecule9	
+BiochemicalReaction25	Interaction of Tie2 and p85 of PI3K	Complex38	Complex40	
+BiochemicalReaction25	Interaction of Tie2 and p85 of PI3K	Complex39	Complex40	
+BiochemicalReaction26	Interaction of Tie2 and Grb2	Complex38	Complex41	
+BiochemicalReaction26	Interaction of Tie2 and Grb2	Protein62	Complex41	
+BiochemicalReaction27	Interaction of SOS-1 to Tie2 bound  Grb2	Complex41	Complex42	
+BiochemicalReaction27	Interaction of SOS-1 to Tie2 bound  Grb2	Protein63	Complex42	
+BiochemicalReaction28	Sos-mediated nucleotide exchange of Ras (Tie2 receptor:Grb2:Sos)	SmallMolecule10	Complex44	
+BiochemicalReaction28	Sos-mediated nucleotide exchange of Ras (Tie2 receptor:Grb2:Sos)	Complex43	Complex44	
+BiochemicalReaction28	Sos-mediated nucleotide exchange of Ras (Tie2 receptor:Grb2:Sos)	Complex43	SmallMolecule11	
+BiochemicalReaction28	Sos-mediated nucleotide exchange of Ras (Tie2 receptor:Grb2:Sos)	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction29	Interaction of Tie2 and Shc1	Protein68	Complex45	
+BiochemicalReaction29	Interaction of Tie2 and Shc1	Complex38	Complex45	
+BiochemicalReaction3	JAM-B binds JAM-C	Protein8	Complex7	
+BiochemicalReaction3	JAM-B binds JAM-C	Protein5	Complex7	
+BiochemicalReaction30	Interaction of Tie2 and Dok-2	Complex38	Complex46	
+BiochemicalReaction30	Interaction of Tie2 and Dok-2	Protein69	Complex46	
+BiochemicalReaction31	Interaction of Tie2 with Ang2	Protein54	Complex47	
+BiochemicalReaction31	Interaction of Tie2 with Ang2	Protein70	Complex47	
+BiochemicalReaction32	Interaction of Tie2 and Ang4	Protein71	Complex48	
+BiochemicalReaction32	Interaction of Tie2 and Ang4	Protein54	Complex48	
+BiochemicalReaction33	Interaction of Tie2 and Shp2	Complex38	Complex49	
+BiochemicalReaction33	Interaction of Tie2 and Shp2	Protein72	Complex49	
+BiochemicalReaction34	Interaction of Tie2 and Grb7	Protein73	Complex50	
+BiochemicalReaction34	Interaction of Tie2 and Grb7	Complex38	Complex50	
+BiochemicalReaction35	Interaction of Tie2 and Grb14	Protein74	Complex51	
+BiochemicalReaction35	Interaction of Tie2 and Grb14	Complex38	Complex51	
+BiochemicalReaction36	Trans-homophilic interaction of PECAM-1	Protein26	Complex52	
+BiochemicalReaction37	Interaction of integrin alphaVbeta3 with PECAM1	Protein26	Complex54	
+BiochemicalReaction37	Interaction of integrin alphaVbeta3 with PECAM1	Complex53	Complex54	
+BiochemicalReaction38	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	Complex52	SmallMolecule9	
+BiochemicalReaction38	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction38	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	SmallMolecule8	Complex55	
+BiochemicalReaction38	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	Complex52	Complex55	
+BiochemicalReaction39	Interaction of PECAM-1 and SHIP	Protein82	Complex56	
+BiochemicalReaction39	Interaction of PECAM-1 and SHIP	Protein77	Complex56	
+BiochemicalReaction4	Integrin alpha4beta1 binds JAM2	Protein8	Complex9	
+BiochemicalReaction4	Integrin alpha4beta1 binds JAM2	Complex8	Complex9	
+BiochemicalReaction40	Interaction of PECAM-1 and SHP-2	Protein77	Complex57	
+BiochemicalReaction40	Interaction of PECAM-1 and SHP-2	Protein72	Complex57	
+BiochemicalReaction41	Interaction of PECAM-1 and PLC gamma1	Protein83	Complex58	
+BiochemicalReaction41	Interaction of PECAM-1 and PLC gamma1	Protein77	Complex58	
+BiochemicalReaction42	Interaction of PECAM-1 and SHP-1	Protein77	Complex59	
+BiochemicalReaction42	Interaction of PECAM-1 and SHP-1	Protein84	Complex59	
+BiochemicalReaction43	CyP60 chaperones Basigin	Protein85	Complex60	
+BiochemicalReaction43	CyP60 chaperones Basigin	Protein86	Complex60	
+BiochemicalReaction44	Basigin homodimerises	Protein87	Complex61	
+BiochemicalReaction45	Caveolin-1 binds Basigin	Protein88	Complex62	
+BiochemicalReaction45	Caveolin-1 binds Basigin	Protein85	Complex62	
+BiochemicalReaction46	Basigin binds CyPA	Protein87	Complex63	
+BiochemicalReaction46	Basigin binds CyPA	Protein89	Complex63	
+BiochemicalReaction47	Basigin interacts with CD43	Protein90	Complex64	
+BiochemicalReaction47	Basigin interacts with CD43	Protein87	Complex64	
+BiochemicalReaction48	Basigin binds Matrix metalloproteinase-1	Protein91	Complex65	
+BiochemicalReaction48	Basigin binds Matrix metalloproteinase-1	Protein87	Complex65	
+BiochemicalReaction49	Basigin binds Mannose-carrying cell recognition molecules	PhysicalEntity3	Complex67	
+BiochemicalReaction49	Basigin binds Mannose-carrying cell recognition molecules	Protein87	Complex67	
+BiochemicalReaction5	JAM-A homodimerises	Protein11	Complex10	
+BiochemicalReaction50	Basigin binds to integrins	Complex68	Complex71	
+BiochemicalReaction50	Basigin binds to integrins	Protein87	Complex71	
+BiochemicalReaction51	Basigin binds MCT1, MCT3 and MCT4	Protein99	Complex72	
+BiochemicalReaction51	Basigin binds MCT1, MCT3 and MCT4	Protein87	Complex72	
+BiochemicalReaction52	Basigin binds CD98 complex	Complex77	Complex85	
+BiochemicalReaction52	Basigin binds CD98 complex	Protein87	Complex85	
+BiochemicalReaction6	Integrin alphaLbeta2 (LFA-1) binds F11R (JAM-A)	Protein11	Complex12	
+BiochemicalReaction6	Integrin alphaLbeta2 (LFA-1) binds F11R (JAM-A)	Complex11	Complex12	
+BiochemicalReaction7	Integrin alphaXbeta2 binds JAM3	Complex13	Complex14	
+BiochemicalReaction7	Integrin alphaXbeta2 binds JAM3	Protein5	Complex14	
+BiochemicalReaction8	MERTK receptor binds ligands (Gas6 or Protein S)	Protein14	Complex15	
+BiochemicalReaction8	MERTK receptor binds ligands (Gas6 or Protein S)	Protein15	Complex15	
+BiochemicalReaction9	CD84 homodimerises	Protein18	Complex16	

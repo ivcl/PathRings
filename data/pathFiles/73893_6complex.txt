@@ -1,0 +1,12 @@
+Complex1	REV1:damaged DNA template complex	nucleoplasm	Reactome DB_ID: 110283	Protein1	
+Complex1	REV1:damaged DNA template complex	nucleoplasm	Reactome DB_ID: 110283	PhysicalEntity1	
+Complex2	REV1:lesioned DNA template with misinserted bases	nucleoplasm	Reactome DB_ID: 110285	Protein1	
+Complex2	REV1:lesioned DNA template with misinserted bases	nucleoplasm	Reactome DB_ID: 110285	PhysicalEntity2	
+Complex3	Pol eta:damaged DNA template complex	nucleoplasm	Reactome DB_ID: 110288	Protein2	
+Complex3	Pol eta:damaged DNA template complex	nucleoplasm	Reactome DB_ID: 110288	PhysicalEntity1	
+Complex4	Pol eta:lesioned DNA template inserted with correct base complement	nucleoplasm	Reactome DB_ID: 110290	PhysicalEntity4	
+Complex4	Pol eta:lesioned DNA template inserted with correct base complement	nucleoplasm	Reactome DB_ID: 110290	Protein2	
+Complex5	Pol zeta complex	nucleoplasm	Reactome DB_ID: 110279	Protein3	
+Complex5	Pol zeta complex	nucleoplasm	Reactome DB_ID: 110279	Protein4	
+Complex6	Pol zeta:damaged DNA template complex	nucleoplasm	Reactome DB_ID: 110280	Complex5	
+Complex6	Pol zeta:damaged DNA template complex	nucleoplasm	Reactome DB_ID: 110280	PhysicalEntity1	

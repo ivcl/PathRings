@@ -1,0 +1,33 @@
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	Protein2	Protein10	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	SmallMolecule9	Protein10	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction2	B4GALTs add galactose to the N-glycan precursor	Protein2	SmallMolecule10	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein10	Protein24	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule7	Protein24	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction3	B3GNT1,2,3,4,7 add GlcNAc to form Keratan-PG	Protein10	SmallMolecule10	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	Protein24	SmallMolecule10	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	SmallMolecule9	Protein38	
+BiochemicalReaction4	B4GALTs add another galactose to the chain	Protein24	Protein38	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	SmallMolecule9	Protein46	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	Protein38	Protein46	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	Protein38	SmallMolecule10	
+BiochemicalReaction5	B4GALTs can add galactose to a branch of keratan	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	Protein46	Protein54	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule11	Protein54	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	The keratan chain can be capped by N-acetylneuraminic acid	Protein46	SmallMolecule12	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein54	Protein68	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule13	Protein68	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction7	Sulfation of GlcNAc residues on Keratan-PG forms KSPG	Protein54	SmallMolecule14	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	Protein68	Protein80	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	SmallMolecule13	Protein80	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction8	Further sulfation on galactose residues produces KSPG	Protein68	SmallMolecule14	
+BiochemicalReaction9	KSPG is secreted from the cell	Protein80	Protein89	

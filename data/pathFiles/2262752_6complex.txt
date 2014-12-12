@@ -1,0 +1,234 @@
+Complex1	FIH1:FIH1	cytosol	Reactome DB_ID: 1235007	Protein7	
+Complex10	ub-hydroxyPro-HIF-alpha	cytosol	Reactome DB_ID: 1234113	Protein36	
+Complex10	ub-hydroxyPro-HIF-alpha	cytosol	Reactome DB_ID: 1234113	Protein29	
+Complex11	UBE2D1,2,3:Ubiquitin	nucleoplasm	Reactome DB_ID: 1234123	Protein55	
+Complex11	UBE2D1,2,3:Ubiquitin	nucleoplasm	Reactome DB_ID: 1234123	Protein59	
+Complex12	ub-HIF-alpha:VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234103	Complex5	
+Complex12	ub-HIF-alpha:VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234103	Complex13	
+Complex13	ub-HIF-alpha	nucleoplasm	Reactome DB_ID: 1234100	Protein35	
+Complex13	ub-HIF-alpha	nucleoplasm	Reactome DB_ID: 1234100	Protein59	
+Complex14	HIF	nucleoplasm	Reactome DB_ID: 1234130	Protein76	
+Complex14	HIF	nucleoplasm	Reactome DB_ID: 1234130	Protein75	
+Complex15	HIF:CBP:p300	nucleoplasm	Reactome DB_ID: 1234099	Protein77	
+Complex15	HIF:CBP:p300	nucleoplasm	Reactome DB_ID: 1234099	Protein78	
+Complex15	HIF:CBP:p300	nucleoplasm	Reactome DB_ID: 1234099	Complex14	
+Complex15	HIF:CBP:p300	nucleoplasm	Reactome DB_ID: 1234099	PhysicalEntity1	
+Complex17	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein88	
+Complex18	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein89	
+Complex19	p-T38-ETS1/ p-T72-ETS2:CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3200029	Dna1	
+Complex19	p-T38-ETS1/ p-T72-ETS2:CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3200029	Protein85	
+Complex2	RBX1-CUL2-EloB/C-VHL	cytosol	Reactome DB_ID: 976093	Protein24	
+Complex2	RBX1-CUL2-EloB/C-VHL	cytosol	Reactome DB_ID: 976093	Protein25	
+Complex2	RBX1-CUL2-EloB/C-VHL	cytosol	Reactome DB_ID: 976093	Complex3	
+Complex20	p-T72-ETS2:ID1	nucleoplasm	Reactome DB_ID: 3209172	Protein87	
+Complex20	p-T72-ETS2:ID1	nucleoplasm	Reactome DB_ID: 3209172	Protein90	
+Complex21	ERF:ETS2 Gene	nucleoplasm	Reactome DB_ID: 3209182	Protein91	
+Complex21	ERF:ETS2 Gene	nucleoplasm	Reactome DB_ID: 3209182	Dna2	
+Complex22	Cdk4/6:INK4A complex	cytosol	Reactome DB_ID: 182579	Protein94	
+Complex22	Cdk4/6:INK4A complex	cytosol	Reactome DB_ID: 182579	Protein99	
+Complex23	DP-1:E2F1/2/3	nucleoplasm	Reactome DB_ID: 1227905	Protein102	
+Complex23	DP-1:E2F1/2/3	nucleoplasm	Reactome DB_ID: 1227905	Protein106	
+Complex24	DP1/2: E2F1/2/3: SP1: CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3209097	Complex23	
+Complex24	DP1/2: E2F1/2/3: SP1: CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3209097	Dna1	
+Complex24	DP1/2: E2F1/2/3: SP1: CDKN2A Gene	nucleoplasm	Reactome DB_ID: 3209097	Protein107	
+Complex25	miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209134	Protein108	
+Complex25	miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209134	Complex26	
+Complex25	miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209134	Protein113	
+Complex26	Argonaute1/3/4: miR-24	cytosol	Reactome DB_ID: 3209140	Protein109	
+Complex26	Argonaute1/3/4: miR-24	cytosol	Reactome DB_ID: 3209140	Rna4	
+Complex27	p16-INK4a/p14-ARF mRNA: miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209131	Rna3	
+Complex27	p16-INK4a/p14-ARF mRNA: miR-24 Nonendonucleolytic RISC	cytosol	Reactome DB_ID: 3209131	Complex25	
+Complex28	MDM2:TP53	nucleoplasm	Reactome DB_ID: 69489	Protein118	
+Complex28	MDM2:TP53	nucleoplasm	Reactome DB_ID: 69489	Complex29	
+Complex29	TP53 Tetramer	nucleoplasm	Reactome DB_ID: 3209194	Protein119	
+Complex3	VBC complex	cytosol	Reactome DB_ID: 390483	Protein26	
+Complex3	VBC complex	cytosol	Reactome DB_ID: 390483	Protein27	
+Complex3	VBC complex	cytosol	Reactome DB_ID: 390483	Protein28	
+Complex30	Ub-TP53	nucleoplasm	Reactome DB_ID: 3209186	Complex29	
+Complex30	Ub-TP53	nucleoplasm	Reactome DB_ID: 3209186	Protein59	
+Complex31	Ub-MDM2	nucleoplasm	Reactome DB_ID: 3215303	Protein118	
+Complex31	Ub-MDM2	nucleoplasm	Reactome DB_ID: 3215303	Protein59	
+Complex32	p14-ARF:MDM2:TP53	nucleoplasm	Reactome DB_ID: 3209189	Complex28	
+Complex32	p14-ARF:MDM2:TP53	nucleoplasm	Reactome DB_ID: 3209189	Protein117	
+Complex33	p14-ARF:MDM2	nucleoplasm	Reactome DB_ID: 3209192	Protein118	
+Complex33	p14-ARF:MDM2	nucleoplasm	Reactome DB_ID: 3209192	Protein117	
+Complex34	MAP3K5:TXN	cytosol	Reactome DB_ID: 3225859	Protein120	
+Complex34	MAP3K5:TXN	cytosol	Reactome DB_ID: 3225859	Protein121	
+Complex35	p38 MAPK:MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450269	Protein136	
+Complex35	p38 MAPK:MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450269	Protein139	
+Complex36	phospho-p38 MAPK: MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450213	Protein142	
+Complex36	phospho-p38 MAPK: MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450213	Protein136	
+Complex37	p-p38 MAPK:p-MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450254	Protein142	
+Complex37	p-p38 MAPK:p-MAPKAPK2/3	nucleoplasm	Reactome DB_ID: 450254	Protein145	
+Complex38	p-2S-cJUN:p-2S,2T-cFOS	nucleoplasm	Reactome DB_ID: 450327	Protein165	
+Complex38	p-2S-cJUN:p-2S,2T-cFOS	nucleoplasm	Reactome DB_ID: 450327	Protein167	
+Complex39	EED Gene:E2F1/2/3:DP1/2	nucleoplasm	Reactome DB_ID: 3240767	Complex23	
+Complex39	EED Gene:E2F1/2/3:DP1/2	nucleoplasm	Reactome DB_ID: 3240767	Dna3	
+Complex4	hydroxyPro-HIF-alpha:VHL:EloB/C:CUL2:RBX1	cytosol	Reactome DB_ID: 1234125	Complex2	
+Complex4	hydroxyPro-HIF-alpha:VHL:EloB/C:CUL2:RBX1	cytosol	Reactome DB_ID: 1234125	Protein29	
+Complex40	EZH2 Gene:E2F1/2/3:DP1/2	nucleoplasm	Reactome DB_ID: 3240771	Complex23	
+Complex40	EZH2 Gene:E2F1/2/3:DP1/2	nucleoplasm	Reactome DB_ID: 3240771	Dna4	
+Complex41	SUZ12 Gene:E2F1/2/3:DP1/2	nucleoplasm	Reactome DB_ID: 3240769	Complex23	
+Complex41	SUZ12 Gene:E2F1/2/3:DP1/2	nucleoplasm	Reactome DB_ID: 3240769	Dna5	
+Complex42	PRC2-EZH2	nucleoplasm	Reactome DB_ID: 212285	Protein168	
+Complex42	PRC2-EZH2	nucleoplasm	Reactome DB_ID: 212285	Protein171	
+Complex42	PRC2-EZH2	nucleoplasm	Reactome DB_ID: 212285	Protein172	
+Complex42	PRC2-EZH2	nucleoplasm	Reactome DB_ID: 212285	Protein169	
+Complex42	PRC2-EZH2	nucleoplasm	Reactome DB_ID: 212285	Protein170	
+Complex43	CDKN2A Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3222592	Dna1	
+Complex43	CDKN2A Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3222592	Complex44	
+Complex44	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein173	
+Complex44	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein177	
+Complex44	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein192	
+Complex44	Nucleosome	nucleoplasm	Reactome DB_ID: 427402	Protein202	
+Complex45	CDKN2A Gene:H3K27Me3-Nucleosome	nucleoplasm	Reactome DB_ID: 3222570	Dna1	
+Complex45	CDKN2A Gene:H3K27Me3-Nucleosome	nucleoplasm	Reactome DB_ID: 3222570	Complex46	
+Complex46	Nucleosome with H3 Trimethylated at Lysine-27	nucleoplasm	Reactome DB_ID: 433757	Protein203	
+Complex46	Nucleosome with H3 Trimethylated at Lysine-27	nucleoplasm	Reactome DB_ID: 433757	Protein177	
+Complex46	Nucleosome with H3 Trimethylated at Lysine-27	nucleoplasm	Reactome DB_ID: 433757	Protein192	
+Complex46	Nucleosome with H3 Trimethylated at Lysine-27	nucleoplasm	Reactome DB_ID: 433757	Protein202	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein207	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein208	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein209	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein210	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein211	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein212	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein213	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein214	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein215	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein216	
+Complex47	PRC1.4	nucleoplasm	Reactome DB_ID: 3229073	Protein217	
+Complex48	CDKN2A Gene:H3K27Me3-Nucleosome:PRC1.4	nucleoplasm	Reactome DB_ID: 3229098	Complex45	
+Complex48	CDKN2A Gene:H3K27Me3-Nucleosome:PRC1.4	nucleoplasm	Reactome DB_ID: 3229098	Complex47	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein207	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein208	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein209	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein210	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein211	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein212	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein214	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein215	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein216	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein218	
+Complex49	p-PRC1.4 complex	nucleoplasm	Reactome DB_ID: 3229114	Protein217	
+Complex5	VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234141	Complex6	
+Complex5	VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234141	Protein33	
+Complex5	VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234141	Protein34	
+Complex50	phospho-MAPK p38:p-MAPKAPK3	nucleoplasm	Reactome DB_ID: 3772127	Protein142	
+Complex50	phospho-MAPK p38:p-MAPKAPK3	nucleoplasm	Reactome DB_ID: 3772127	Protein147	
+Complex51	p-2S-cJUN:p-2S,2T-cFOS:KDM6B Gene	nucleoplasm	Reactome DB_ID: 3222535	Dna6	
+Complex51	p-2S-cJUN:p-2S,2T-cFOS:KDM6B Gene	nucleoplasm	Reactome DB_ID: 3222535	Complex38	
+Complex52	KDM6B:Fe2+	nucleoplasm	Reactome DB_ID: 3222589	Protein219	
+Complex52	KDM6B:Fe2+	nucleoplasm	Reactome DB_ID: 3222589	SmallMolecule16	
+Complex53	p38 MAPK:MAPKAPK5	nucleoplasm	Reactome DB_ID: 3239002	Protein139	
+Complex53	p38 MAPK:MAPKAPK5	nucleoplasm	Reactome DB_ID: 3239002	Protein220	
+Complex54	phospho-p38 MAPK: MAPKAPK5	nucleoplasm	Reactome DB_ID: 3239009	Protein142	
+Complex54	phospho-p38 MAPK: MAPKAPK5	nucleoplasm	Reactome DB_ID: 3239009	Protein220	
+Complex55	phospho-p38 MAPK:p-T-182-MAPKAPK5	nucleoplasm	Reactome DB_ID: 3239017	Protein221	
+Complex55	phospho-p38 MAPK:p-T-182-MAPKAPK5	nucleoplasm	Reactome DB_ID: 3239017	Protein142	
+Complex56	p-S37-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 3239015	Protein222	
+Complex57	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Protein223	
+Complex57	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex58	
+Complex57	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex59	
+Complex57	Extended And Processed Telomere End and Associated DNA Binding and Packaging Protein Complex Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182751	Complex60	
+Complex58	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein224	
+Complex58	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein223	
+Complex58	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein225	
+Complex58	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein226	
+Complex58	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein227	
+Complex58	Shelterin complex	nucleoplasm	Reactome DB_ID: 174898	Protein228	
+Complex59	Extended And Processed Telomere End Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182752	PhysicalEntity3	
+Complex59	Extended And Processed Telomere End Folded Into Higher Order Structure	nucleoplasm	Reactome DB_ID: 182752	PhysicalEntity4	
+Complex6	VBC Complex	nucleoplasm	Reactome DB_ID: 1234128	Protein30	
+Complex6	VBC Complex	nucleoplasm	Reactome DB_ID: 1234128	Protein31	
+Complex6	VBC Complex	nucleoplasm	Reactome DB_ID: 1234128	Protein32	
+Complex60	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein229	
+Complex60	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein177	
+Complex60	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein192	
+Complex60	Nucleosome	nucleoplasm	Reactome DB_ID: 181921	Protein202	
+Complex61	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein230	
+Complex61	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein231	
+Complex61	MRN	nucleoplasm	Reactome DB_ID: 75164	Protein232	
+Complex62	DNA DSBs/Shortened telomeres:MRN	nucleoplasm	Reactome DB_ID: 3785763	Complex61	
+Complex62	DNA DSBs/Shortened telomeres:MRN	nucleoplasm	Reactome DB_ID: 3785763	PhysicalEntity6	
+Complex63	dimeric ATM kinase	nucleoplasm	Reactome DB_ID: 83538	Protein233	
+Complex64	DNA DSBs/Shortened telomeres:MRN:ATM dimer	nucleoplasm	Reactome DB_ID: 3785779	Complex62	
+Complex64	DNA DSBs/Shortened telomeres:MRN:ATM dimer	nucleoplasm	Reactome DB_ID: 3785779	Complex63	
+Complex65	p-S15-TP53 Tetramer	nucleoplasm	Reactome DB_ID: 349474	Protein235	
+Complex66	p-15-TP53 Tetramer:CDKN1A Gene	nucleoplasm	Reactome DB_ID: 3786257	Dna7	
+Complex66	p-15-TP53 Tetramer:CDKN1A Gene	nucleoplasm	Reactome DB_ID: 3786257	Complex65	
+Complex67	Cyclin A:Cdk2 complex	nucleoplasm	Reactome DB_ID: 141608	Protein237	
+Complex67	Cyclin A:Cdk2 complex	nucleoplasm	Reactome DB_ID: 141608	Protein240	
+Complex68	Cyclin A:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 187926	Complex67	
+Complex68	Cyclin A:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 187926	Protein241	
+Complex69	Cyclin E:Cdk2 complexes	nucleoplasm	Reactome DB_ID: 68374	Protein240	
+Complex69	Cyclin E:Cdk2 complexes	nucleoplasm	Reactome DB_ID: 68374	Protein243	
+Complex7	hydroxyPro-HIF-alpha:VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234101	Protein35	
+Complex7	hydroxyPro-HIF-alpha:VHL:EloB/C:CUL2:RBX1	nucleoplasm	Reactome DB_ID: 1234101	Complex5	
+Complex70	Cyclin E:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 68376	Complex69	
+Complex70	Cyclin E:Cdk2:p21/p27 complex	nucleoplasm	Reactome DB_ID: 68376	Protein241	
+Complex71	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein246	
+Complex71	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein247	
+Complex71	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein248	
+Complex71	HIRA:ASF1A:UBN1:CABIN1	nucleoplasm	Reactome DB_ID: 3878132	Protein249	
+Complex72	CCNA:p-T160-CDK2	nucleoplasm	Reactome DB_ID: 187952	Protein237	
+Complex72	CCNA:p-T160-CDK2	nucleoplasm	Reactome DB_ID: 187952	Protein250	
+Complex73	Cdh1:phospho-APC/C complex	nucleoplasm	Reactome DB_ID: 174250	Protein251	
+Complex73	Cdh1:phospho-APC/C complex	nucleoplasm	Reactome DB_ID: 174250	Complex74	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein252	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein56	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein253	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein254	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein255	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein256	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein257	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein258	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein259	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein260	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein261	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein262	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein263	
+Complex74	phosphorylated anaphase promoting complex (APC/C)	nucleoplasm	Reactome DB_ID: 174109	Protein264	
+Complex75	Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex	nucleoplasm	Reactome DB_ID: 188374	Complex72	
+Complex75	Cyclin A:phospho-Cdk(Thr 160):Cdh1:phosho-APC/C complex	nucleoplasm	Reactome DB_ID: 188374	Complex73	
+Complex76	Cyclin A:phospho-Cdk2(Thr 160):phospho-Cdh1:phospho-APC/C complex	nucleoplasm	Reactome DB_ID: 188387	Complex72	
+Complex76	Cyclin A:phospho-Cdk2(Thr 160):phospho-Cdh1:phospho-APC/C complex	nucleoplasm	Reactome DB_ID: 188387	Complex77	
+Complex77	phospho-Cdh1:phospho-APC/C complex	nucleoplasm	Reactome DB_ID: 174167	Protein265	
+Complex77	phospho-Cdh1:phospho-APC/C complex	nucleoplasm	Reactome DB_ID: 174167	Complex74	
+Complex78	GLP:G9a	nucleoplasm	Reactome DB_ID: 3788728	Protein266	
+Complex78	GLP:G9a	nucleoplasm	Reactome DB_ID: 3788728	Protein267	
+Complex79	EHMT1:EHMT2:Cdh1:p-APC/C	nucleoplasm	Reactome DB_ID: 3788733	Complex73	
+Complex79	EHMT1:EHMT2:Cdh1:p-APC/C	nucleoplasm	Reactome DB_ID: 3788733	Complex78	
+Complex8	UBE2D1,2,3:Ubiquitin	cytosol	Reactome DB_ID: 1234116	Protein36	
+Complex8	UBE2D1,2,3:Ubiquitin	cytosol	Reactome DB_ID: 1234116	Protein51	
+Complex80	Ub-EHMT1:Ub-EHMT2:Cdh1:p-APC/C	nucleoplasm	Reactome DB_ID: 3788739	Complex73	
+Complex80	Ub-EHMT1:Ub-EHMT2:Cdh1:p-APC/C	nucleoplasm	Reactome DB_ID: 3788739	Complex81	
+Complex80	Ub-EHMT1:Ub-EHMT2:Cdh1:p-APC/C	nucleoplasm	Reactome DB_ID: 3788739	Complex82	
+Complex81	Ub-G9a	nucleoplasm	Reactome DB_ID: 3788727	Protein267	
+Complex81	Ub-G9a	nucleoplasm	Reactome DB_ID: 3788727	Protein59	
+Complex82	Ub-GLP	nucleoplasm	Reactome DB_ID: 3788734	Protein266	
+Complex82	Ub-GLP	nucleoplasm	Reactome DB_ID: 3788734	Protein59	
+Complex83	IL6 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3788741	Complex44	
+Complex83	IL6 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3788741	Dna8	
+Complex84	IL6 Gene:Nucleosome-H3K9Me2	nucleoplasm	Reactome DB_ID: 3788744	Complex85	
+Complex84	IL6 Gene:Nucleosome-H3K9Me2	nucleoplasm	Reactome DB_ID: 3788744	Dna8	
+Complex85	Nucleosome with Deacetylated H4 and H3 Dimethylated at Lysine-9	nucleoplasm	Reactome DB_ID: 427331	Protein177	
+Complex85	Nucleosome with Deacetylated H4 and H3 Dimethylated at Lysine-9	nucleoplasm	Reactome DB_ID: 427331	Protein192	
+Complex85	Nucleosome with Deacetylated H4 and H3 Dimethylated at Lysine-9	nucleoplasm	Reactome DB_ID: 427331	Protein268	
+Complex85	Nucleosome with Deacetylated H4 and H3 Dimethylated at Lysine-9	nucleoplasm	Reactome DB_ID: 427331	Protein202	
+Complex86	IL8 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3788743	Dna9	
+Complex86	IL8 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3788743	Complex44	
+Complex87	IL8 Gene:Nucleosome-H3K9Me2	nucleoplasm	Reactome DB_ID: 3788746	Dna9	
+Complex87	IL8 Gene:Nucleosome-H3K9Me2	nucleoplasm	Reactome DB_ID: 3788746	Complex85	
+Complex88	p-T235,S321-CEBPB homodimer	nucleoplasm	Reactome DB_ID: 3857334	Protein284	
+Complex89	p-T235,S321-CEBPB:IL6 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3857324	Complex88	
+Complex89	p-T235,S321-CEBPB:IL6 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3857324	Complex83	
+Complex9	ub-hydroxyPro-HIF-alpha:VHL:EloB/C:CUL2:RBX1	cytosol	Reactome DB_ID: 1234138	Complex2	
+Complex9	ub-hydroxyPro-HIF-alpha:VHL:EloB/C:CUL2:RBX1	cytosol	Reactome DB_ID: 1234138	Complex10	
+Complex90	p(Y705)-STAT3 dimer	nucleoplasm	Reactome DB_ID: 1112525	Protein286	
+Complex91	p-T235,S321-CEBPB:IL8 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3857319	Complex86	
+Complex91	p-T235,S321-CEBPB:IL8 Gene:Nucleosome	nucleoplasm	Reactome DB_ID: 3857319	Complex88	
+Complex92	p-T235,S321-CEBPB:CDKN2B Gene	nucleoplasm	Reactome DB_ID: 3857347	Complex88	
+Complex92	p-T235,S321-CEBPB:CDKN2B Gene	nucleoplasm	Reactome DB_ID: 3857347	Dna11	
+Complex93	AP-1:IGFBP7 Gene	nucleoplasm	Reactome DB_ID: 3797203	Complex38	
+Complex93	AP-1:IGFBP7 Gene	nucleoplasm	Reactome DB_ID: 3797203	Dna12	

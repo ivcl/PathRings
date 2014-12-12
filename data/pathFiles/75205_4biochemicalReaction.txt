@@ -1,0 +1,35 @@
+BiochemicalReaction1	histidine-rich glycoprotein + plasminogen <-> histidine-rich glycoprotein:plasminogen	Protein1	Complex1	
+BiochemicalReaction1	histidine-rich glycoprotein + plasminogen <-> histidine-rich glycoprotein:plasminogen	Protein2	Complex1	
+BiochemicalReaction10	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain) + plasminogen activator inhibitor 1 -> fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1	Protein8	Complex8	
+BiochemicalReaction10	fibrin multimer, crosslinked:tissue plasminogen activator (two-chain) + plasminogen activator inhibitor 1 -> fibrin multimer, crosslinked:tissue plasminogen activator (two-chain):plasminogen activator inhibitor 1	Complex5	Complex8	
+BiochemicalReaction11	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain) + plasminogen activator inhibitor 1 -> fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1	Complex2	Complex9	
+BiochemicalReaction11	fibrin multimer, crosslinked:tissue plasminogen activator (one-chain) + plasminogen activator inhibitor 1 -> fibrin multimer, crosslinked:tissue plasminogen activator (one-chain):plasminogen activator inhibitor 1	Protein8	Complex9	
+BiochemicalReaction12	alpha-2-antiplasmin + plasmin -> alpha-2-antiplasmin:plasmin	Complex4	Complex10	
+BiochemicalReaction12	alpha-2-antiplasmin + plasmin -> alpha-2-antiplasmin:plasmin	Protein11	Complex10	
+BiochemicalReaction13	urokinase plasminogen activator + urokinase plasminogen activator receptor (uPAR) -> urokinase plasminogen activator:uPAR	Protein12	Complex11	
+BiochemicalReaction13	urokinase plasminogen activator + urokinase plasminogen activator receptor (uPAR) -> urokinase plasminogen activator:uPAR	Protein13	Complex11	
+BiochemicalReaction14	plasminogen + histidine-rich glycoprotein -> plasminogen:histidine-rich glycoprotein	Protein2	Complex12	
+BiochemicalReaction14	plasminogen + histidine-rich glycoprotein -> plasminogen:histidine-rich glycoprotein	Protein15	Complex12	
+BiochemicalReaction15	plasminogen:histidine-rich glycoprotein -> plasmin + histidine-rich glycoprotein (uPA [one-chain] catalyst)	Complex12	Protein15	
+BiochemicalReaction15	plasminogen:histidine-rich glycoprotein -> plasmin + histidine-rich glycoprotein (uPA [one-chain] catalyst)	Complex12	Complex4	
+BiochemicalReaction16	urokinase plasminogen activator (one-chain):uPAR -> urokinase plasminogen activator (two-chain):uPAR	Complex11	Complex13	
+BiochemicalReaction17	plasminogen:histidine-rich glycoprotein -> plasmin + histidine-rich glycoprotein (uPA [two-chain] catalyst)	Complex12	Protein15	
+BiochemicalReaction17	plasminogen:histidine-rich glycoprotein -> plasmin + histidine-rich glycoprotein (uPA [two-chain] catalyst)	Complex12	Complex4	
+BiochemicalReaction18	urokinase plasminogen activator (two-chain):uPAR + plasminogen activator inhibitor 1 (PAI-1) -> PAI-1:urokinase plasminogen activator (two-chain):uPAR	Protein8	Complex15	
+BiochemicalReaction18	urokinase plasminogen activator (two-chain):uPAR + plasminogen activator inhibitor 1 (PAI-1) -> PAI-1:urokinase plasminogen activator (two-chain):uPAR	Complex13	Complex15	
+BiochemicalReaction19	urokinase plasminogen activator (two-chain):uPAR + plasminogen activator inhibitor 2 (PAI-2) -> PAI-2:urokinase plasminogen activator (two-chain):uPAR	Protein22	Complex16	
+BiochemicalReaction19	urokinase plasminogen activator (two-chain):uPAR + plasminogen activator inhibitor 2 (PAI-2) -> PAI-2:urokinase plasminogen activator (two-chain):uPAR	Complex13	Complex16	
+BiochemicalReaction2	histidine-rich glycoprotein:plasminogen <-> histidine-rich glycoprotein + plasminogen	Complex1	Protein1	
+BiochemicalReaction2	histidine-rich glycoprotein:plasminogen <-> histidine-rich glycoprotein + plasminogen	Complex1	Protein2	
+BiochemicalReaction3	crosslinked fibrin multimer + tissue plasminogen activator (one-chain) -> crosslinked fibrin multimer:tissue plasminogen activator (one-chain)	Protein3	Complex2	
+BiochemicalReaction3	crosslinked fibrin multimer + tissue plasminogen activator (one-chain) -> crosslinked fibrin multimer:tissue plasminogen activator (one-chain)	PhysicalEntity1	Complex2	
+BiochemicalReaction4	crosslinked fibrin multimer:tissue plasminogen activator (one-chain) + plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (one-chain):plasminogen	Complex2	Complex3	
+BiochemicalReaction4	crosslinked fibrin multimer:tissue plasminogen activator (one-chain) + plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (one-chain):plasminogen	Protein2	Complex3	
+BiochemicalReaction5	crosslinked fibrin multimer:tissue plasminogen activator (one-chain):plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (one-chain) + plasmin	Complex3	Complex2	
+BiochemicalReaction5	crosslinked fibrin multimer:tissue plasminogen activator (one-chain):plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (one-chain) + plasmin	Complex3	Complex4	
+BiochemicalReaction6	fibrin multimer, crosslinked -> fibrin digestion products (plasmin)	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction7	crosslinked fibrin multimer:tissue plasminogen activator (one-chain) -> crosslinked fibrin multimer:tissue plasminogen activator (two-chain)	Complex2	Complex5	
+BiochemicalReaction8	crosslinked fibrin multimer:tissue plasminogen activator (two-chain) + plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (two-chain):plasminogen	Complex5	Complex7	
+BiochemicalReaction8	crosslinked fibrin multimer:tissue plasminogen activator (two-chain) + plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (two-chain):plasminogen	Protein2	Complex7	
+BiochemicalReaction9	crosslinked fibrin multimer:tissue plasminogen activator (two-chain):plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (two-chain) + plasmin	Complex7	Complex5	
+BiochemicalReaction9	crosslinked fibrin multimer:tissue plasminogen activator (two-chain):plasminogen -> crosslinked fibrin multimer:tissue plasminogen activator (two-chain) + plasmin	Complex7	Complex4	

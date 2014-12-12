@@ -1,0 +1,20 @@
+BiochemicalReaction1	FBLN1, FBLN2 bind fibronectin	PhysicalEntity1	Complex1	
+BiochemicalReaction1	FBLN1, FBLN2 bind fibronectin	Protein1	Complex1	
+BiochemicalReaction10	Elastic fibres bind associated proteins	Protein36	Complex24	
+BiochemicalReaction10	Elastic fibres bind associated proteins	Complex5	Complex24	
+BiochemicalReaction2	Fibulin binds elastic fibres	Protein4	Complex4	
+BiochemicalReaction2	Fibulin binds elastic fibres	Complex2	Complex4	
+BiochemicalReaction3	Emilin is found in elastic fibres	PhysicalEntity7	Complex5	
+BiochemicalReaction3	Emilin is found in elastic fibres	Complex4	Complex5	
+BiochemicalReaction4	LTBP1, LTBP3 bind TGF-Beta	Complex6	Complex10	
+BiochemicalReaction4	LTBP1, LTBP3 bind TGF-Beta	Protein17	Complex10	
+BiochemicalReaction5	LTBP4 binds TGF-Beta-1	Protein20	Complex11	
+BiochemicalReaction5	LTBP4 binds TGF-Beta-1	Complex7	Complex11	
+BiochemicalReaction6	Latent TGF-beta-1 binds integrins	Complex12	Complex19	
+BiochemicalReaction6	Latent TGF-beta-1 binds integrins	Complex7	Complex19	
+BiochemicalReaction7	Latent TGF-beta-3 binds integrins	Complex9	Complex21	
+BiochemicalReaction7	Latent TGF-beta-3 binds integrins	Complex20	Complex21	
+BiochemicalReaction8	Fibrillins bind BMPs	PhysicalEntity2	Complex22	
+BiochemicalReaction8	Fibrillins bind BMPs	Protein28	Complex22	
+BiochemicalReaction9	Fibrillin-1 binds latent TGF-beta	Protein34	Complex23	
+BiochemicalReaction9	Fibrillin-1 binds latent TGF-beta	PhysicalEntity3	Complex23	

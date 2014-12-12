@@ -1,0 +1,24 @@
+BiochemicalReaction1	Calcium Binds Troponin-C	SmallMolecule1	Complex7	
+BiochemicalReaction1	Calcium Binds Troponin-C	Complex1	Complex7	
+BiochemicalReaction10	Myosin Binds ATP	Complex19	Complex23	
+BiochemicalReaction10	Myosin Binds ATP	SmallMolecule2	Complex23	
+BiochemicalReaction11	ATP Hydrolysis By Myosin	Complex23	SmallMolecule3	
+BiochemicalReaction11	ATP Hydrolysis By Myosin	Complex23	Complex21	
+BiochemicalReaction2	Myosin Binds ATP	Complex7	Complex11	
+BiochemicalReaction2	Myosin Binds ATP	SmallMolecule2	Complex11	
+BiochemicalReaction3	ATP Hydrolysis By Myosin	Complex11	SmallMolecule3	
+BiochemicalReaction3	ATP Hydrolysis By Myosin	Complex11	Complex13	
+BiochemicalReaction4	Release Of ADP From Myosin	Complex13	SmallMolecule4	
+BiochemicalReaction4	Release Of ADP From Myosin	Complex13	Complex7	
+BiochemicalReaction5	Calcium binds calmodulin	SmallMolecule1	Complex15	
+BiochemicalReaction5	Calcium binds calmodulin	Protein40	Complex15	
+BiochemicalReaction6	MLCK Active Calmodulin Binding	Complex15	Complex16	
+BiochemicalReaction6	MLCK Active Calmodulin Binding	Protein41	Complex16	
+BiochemicalReaction7	Phosphorylation of Smooth Muscle Myosin Light Chains	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction7	Phosphorylation of Smooth Muscle Myosin Light Chains	Protein42	SmallMolecule4	
+BiochemicalReaction7	Phosphorylation of Smooth Muscle Myosin Light Chains	Protein42	Protein47	
+BiochemicalReaction7	Phosphorylation of Smooth Muscle Myosin Light Chains	SmallMolecule2	Protein47	
+BiochemicalReaction8	Calcium Binds Caldesmon	Complex17	Complex19	
+BiochemicalReaction8	Calcium Binds Caldesmon	SmallMolecule1	Complex19	
+BiochemicalReaction9	Release Of ADP From Myosin	Complex21	SmallMolecule4	
+BiochemicalReaction9	Release Of ADP From Myosin	Complex21	Complex19	

@@ -1,0 +1,46 @@
+BiochemicalReaction1	Release of eIF4E from the inactive eIF4E:4E-BP complex 	Complex1	Protein1	
+BiochemicalReaction1	Release of eIF4E from the inactive eIF4E:4E-BP complex 	Complex1	Protein2	
+BiochemicalReaction2	Formation of the cap-binding eIF4F complex	Protein2	Complex3	
+BiochemicalReaction2	Formation of the cap-binding eIF4F complex	Complex2	Complex3	
+BiochemicalReaction2	Formation of the cap-binding eIF4F complex	Protein5	Complex3	
+BiochemicalReaction3	eIF4F binds to mRNP	Complex4	Complex5	
+BiochemicalReaction3	eIF4F binds to mRNP	Complex3	Complex5	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein6	SmallMolecule2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein7	SmallMolecule2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex2	SmallMolecule2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex5	SmallMolecule2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex5	PhysicalEntity1	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex2	PhysicalEntity1	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein7	PhysicalEntity1	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	SmallMolecule1	PhysicalEntity1	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein6	PhysicalEntity1	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex5	SmallMolecule3	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex2	SmallMolecule3	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein7	SmallMolecule3	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein6	SmallMolecule3	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex5	Complex6	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex2	Complex6	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein7	Complex6	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	SmallMolecule1	Complex6	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein6	Complex6	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex5	Complex2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Complex2	Complex2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein7	Complex2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	SmallMolecule1	Complex2	
+BiochemicalReaction4	Cap-bound mRNA is activated by helicases 	Protein6	Complex2	
+BiochemicalReaction5	Formation of translation initiation complexes containing mRNA that does not circularize	Protein8	Protein8	
+BiochemicalReaction5	Formation of translation initiation complexes containing mRNA that does not circularize	Complex6	Protein8	
+BiochemicalReaction5	Formation of translation initiation complexes containing mRNA that does not circularize	Complex7	Protein8	
+BiochemicalReaction5	Formation of translation initiation complexes containing mRNA that does not circularize	Complex7	Complex13	
+BiochemicalReaction5	Formation of translation initiation complexes containing mRNA that does not circularize	Complex6	Complex13	
+BiochemicalReaction5	Formation of translation initiation complexes containing mRNA that does not circularize	Protein8	Complex13	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex14	Complex15	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein56	Complex15	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein8	Complex15	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex7	Complex15	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex7	Protein8	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein8	Protein8	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein56	Protein8	
+BiochemicalReaction6	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex14	Protein8	

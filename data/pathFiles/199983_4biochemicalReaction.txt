@@ -1,0 +1,16 @@
+BiochemicalReaction1	Arf1 Activation by GBF1	SmallMolecule1	Complex2	
+BiochemicalReaction1	Arf1 Activation by GBF1	Complex1	Complex2	
+BiochemicalReaction1	Arf1 Activation by GBF1	Complex1	SmallMolecule2	
+BiochemicalReaction1	Arf1 Activation by GBF1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Coat Complex Formation	Complex3	Complex4	
+BiochemicalReaction2	Coat Complex Formation	Complex2	Complex4	
+BiochemicalReaction3	GAP Recruitment to the Coatomer:Arf1-GTP Complex	Complex4	Complex5	
+BiochemicalReaction3	GAP Recruitment to the Coatomer:Arf1-GTP Complex	Protein10	Complex5	
+BiochemicalReaction4	Coatomer:Arf1-GTP:GAP lattice formation on golgi membrane	Complex5	PhysicalEntity1	
+BiochemicalReaction5	Sculpting and pinching-off of Golgi vessicle	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction6	Hydrolysis of Arf1-GTP to Arf1-GDP	Complex5	SmallMolecule3	
+BiochemicalReaction6	Hydrolysis of Arf1-GTP to Arf1-GDP	Complex5	PhysicalEntity4	
+BiochemicalReaction7	Diffusion of inactive Arf1-GDP from membrane	PhysicalEntity4	Complex6	
+BiochemicalReaction7	Diffusion of inactive Arf1-GDP from membrane	PhysicalEntity4	PhysicalEntity2	
+BiochemicalReaction8	Golgi vesicle lattice disassociation	PhysicalEntity3	Complex3	
+BiochemicalReaction8	Golgi vesicle lattice disassociation	PhysicalEntity3	Protein10	

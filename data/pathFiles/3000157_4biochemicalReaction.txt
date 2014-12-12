@@ -1,0 +1,29 @@
+BiochemicalReaction1	Formation of laminin networks	Complex1	PhysicalEntity1	
+BiochemicalReaction10	Laminins bind galactosyl sulfatide and related sulfated glycolipids	Complex38	Complex39	
+BiochemicalReaction10	Laminins bind galactosyl sulfatide and related sulfated glycolipids	SmallMolecule1	Complex39	
+BiochemicalReaction11	Laminins:Nidogens binds collagen type IV networks	Complex34	Complex40	
+BiochemicalReaction11	Laminins:Nidogens binds collagen type IV networks	PhysicalEntity2	Complex40	
+BiochemicalReaction12	Laminin-111 binds collagen type IV	Complex2	Complex41	
+BiochemicalReaction12	Laminin-111 binds collagen type IV	PhysicalEntity2	Complex41	
+BiochemicalReaction13	Laminin-332 binds collagen type VII	Complex9	Complex42	
+BiochemicalReaction13	Laminin-332 binds collagen type VII	PhysicalEntity6	Complex42	
+BiochemicalReaction14	Collagen type VII binds collagen type IV	PhysicalEntity6	Complex43	
+BiochemicalReaction14	Collagen type VII binds collagen type IV	PhysicalEntity2	Complex43	
+BiochemicalReaction15	Laminin-111 binds endostatin dimer	Complex2	Complex45	
+BiochemicalReaction15	Laminin-111 binds endostatin dimer	Complex44	Complex45	
+BiochemicalReaction2	Integrins alpha3beta1, alpha6beta4 bind laminin-332, 511, 521, (211, 221)	Complex16	Complex20	
+BiochemicalReaction2	Integrins alpha3beta1, alpha6beta4 bind laminin-332, 511, 521, (211, 221)	Complex19	Complex20	
+BiochemicalReaction3	Integrin alpha6beta1 binds laminin-322, 512, 521, 211, 221, 411	Complex21	Complex23	
+BiochemicalReaction3	Integrin alpha6beta1 binds laminin-322, 512, 521, 211, 221, 411	Complex22	Complex23	
+BiochemicalReaction4	Integrin alpha7beta1 binds Laminin-211, 221, 411, 512, 521	Complex24	Complex26	
+BiochemicalReaction4	Integrin alpha7beta1 binds Laminin-211, 221, 411, 512, 521	Complex25	Complex26	
+BiochemicalReaction5	Integrin alpha6beta1, alpha7beta1, alpha1beta1, alpha2beta1 bind laminin-111	Complex2	Complex31	
+BiochemicalReaction5	Integrin alpha6beta1, alpha7beta1, alpha1beta1, alpha2beta1 bind laminin-111	Complex27	Complex31	
+BiochemicalReaction6	Integrin alpha2beta1 binds laminin-332	Complex9	Complex32	
+BiochemicalReaction6	Integrin alpha2beta1 binds laminin-332	Complex29	Complex32	
+BiochemicalReaction7	Laminins bind Nidogens 1, 2	Protein20	Complex34	
+BiochemicalReaction7	Laminins bind Nidogens 1, 2	Complex33	Complex34	
+BiochemicalReaction8	Laminins bind HSPG2	Protein23	Complex36	
+BiochemicalReaction8	Laminins bind HSPG2	Complex35	Complex36	
+BiochemicalReaction9	Laminins:Nidogens binds HSPG2	Complex34	Complex37	
+BiochemicalReaction9	Laminins:Nidogens binds HSPG2	Protein23	Complex37	

@@ -1,0 +1,14 @@
+BiochemicalReaction1	activated human TAK1 phosphorylates MKK3/MKK6	Protein1	Protein4	
+BiochemicalReaction1	activated human TAK1 phosphorylates MKK3/MKK6	SmallMolecule1	Protein4	
+BiochemicalReaction1	activated human TAK1 phosphorylates MKK3/MKK6	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	activated human TAK1 phosphorylates MKK3/MKK6	Protein1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylated MKK3/MKK6 migrates to nucleus	Protein4	Protein23	
+BiochemicalReaction3	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex17	Complex18	
+BiochemicalReaction3	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule5	Complex18	
+BiochemicalReaction3	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex17	SmallMolecule6	
+BiochemicalReaction4		Complex18	SmallMolecule6	
+BiochemicalReaction4		SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4		SmallMolecule5	Complex19	
+BiochemicalReaction4		Complex18	Complex19	
+BiochemicalReaction5	Nuclear export of human p38 MAPK mediated by its substrate MAPKAPK2 or 3	Complex19	Complex20	

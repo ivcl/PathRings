@@ -1,0 +1,19 @@
+BiochemicalReaction1	Formation of active Pol II complex with lesioned DNA template	PhysicalEntity1	Complex2	
+BiochemicalReaction1	Formation of active Pol II complex with lesioned DNA template	Complex1	Complex2	
+BiochemicalReaction2	RNA Pol II is blocked by the lesion leading to reduced transcription	Complex2	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein13	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex4	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex3	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein16	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein17	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex5	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein27	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein28	Complex3	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein28	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein27	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex5	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein17	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein16	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex3	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Complex4	Complex7	
+BiochemicalReaction3	Assembly of repair proteins at the site of Pol II blockage	Protein13	Complex7	

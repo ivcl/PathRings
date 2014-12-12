@@ -1,0 +1,48 @@
+BiochemicalReaction1	Initial activation of proMMP1	Protein1	Protein2	
+BiochemicalReaction1	Initial activation of proMMP1	Protein1	Protein3	
+BiochemicalReaction10	Autocatalytic activation of bound proMMP2	Complex7	Complex8	
+BiochemicalReaction10	Autocatalytic activation of bound proMMP2	Complex7	Protein33	
+BiochemicalReaction11	Initial activation of proMMP3	Protein35	Protein36	
+BiochemicalReaction11	Initial activation of proMMP3	Protein35	Protein37	
+BiochemicalReaction12	Autocatalytic activation of MMP3	Protein37	Protein19	
+BiochemicalReaction12	Autocatalytic activation of MMP3	Protein37	Protein41	
+BiochemicalReaction13	Activation of proMMP7 by MMP3	Protein42	Protein43	
+BiochemicalReaction13	Activation of proMMP7 by MMP3	Protein42	Protein20	
+BiochemicalReaction14	Initial activation of proMMP7 by trypsin	Protein42	Protein47	
+BiochemicalReaction14	Initial activation of proMMP7 by trypsin	Protein42	Protein48	
+BiochemicalReaction15	Autocatalytic activation of MMP7	Protein48	Protein20	
+BiochemicalReaction15	Autocatalytic activation of MMP7	Protein48	Protein49	
+BiochemicalReaction16	Activation of proMMP8	Protein50	Protein51	
+BiochemicalReaction17	Initial activation of proMMP9 by MMPs	Protein24	Protein53	
+BiochemicalReaction17	Initial activation of proMMP9 by MMPs	Protein24	Protein54	
+BiochemicalReaction18	Activation of MMP9 intermediate form by MMPs	Protein54	Protein57	
+BiochemicalReaction18	Activation of MMP9 intermediate form by MMPs	Protein54	Protein58	
+BiochemicalReaction19	Activation of proMMP9 by proteases	Protein24	Protein58	
+BiochemicalReaction19	Activation of proMMP9 by proteases	Protein24	Protein59	
+BiochemicalReaction2	Autocatalytic activation of MMP1	Protein2	Protein14	
+BiochemicalReaction2	Autocatalytic activation of MMP1	Protein2	Protein15	
+BiochemicalReaction20	Activation of proMMP10	Protein60	Protein21	
+BiochemicalReaction21	Activation of proMMP11 by FURIN	Protein64	Protein22	
+BiochemicalReaction22	Initial activation of proMMP13 by plasmin and trypsin	Protein66	Protein67	
+BiochemicalReaction22	Initial activation of proMMP13 by plasmin and trypsin	Protein66	Protein68	
+BiochemicalReaction23	Initial activation of proMMP13 by MMP3	Protein66	Protein69	
+BiochemicalReaction23	Initial activation of proMMP13 by MMP3	Protein66	Protein70	
+BiochemicalReaction24	Initial activation of proMMP13 by MMP14 (MT1-MMP)	Protein66	Protein71	
+BiochemicalReaction24	Initial activation of proMMP13 by MMP14 (MT1-MMP)	Protein66	Protein72	
+BiochemicalReaction25	Autocatalytic activation of proMMP13	Protein73	Protein56	
+BiochemicalReaction25	Autocatalytic activation of proMMP13	Protein73	Protein74	
+BiochemicalReaction26	Activation of MT-MMPs by FURIN	Protein78	Protein85	
+BiochemicalReaction27	MT-MMPs are sorted to the plasma membrane	Protein85	Protein92	
+BiochemicalReaction3	Full activation of MMP1	Protein14	Protein16	
+BiochemicalReaction4	proMMP9 binds TIMP1	Protein23	Complex4	
+BiochemicalReaction4	proMMP9 binds TIMP1	Protein24	Complex4	
+BiochemicalReaction5	MMP14 (MT1-MMP) binds TIMP2	Protein25	Complex5	
+BiochemicalReaction5	MMP14 (MT1-MMP) binds TIMP2	Protein26	Complex5	
+BiochemicalReaction6	MMP14:TIMP2 binds proMMP2	Protein27	Complex6	
+BiochemicalReaction6	MMP14:TIMP2 binds proMMP2	Complex5	Complex6	
+BiochemicalReaction7	Initial activation of proMMP2 by MMP1, 7	Protein27	Protein28	
+BiochemicalReaction7	Initial activation of proMMP2 by MMP1, 7	Protein27	Protein29	
+BiochemicalReaction8	Initial activation of proMMP2 by MMP14	Complex6	Complex7	
+BiochemicalReaction8	Initial activation of proMMP2 by MMP14	Complex6	Protein28	
+BiochemicalReaction9	Autocatalytic activation of proMMP2	Protein29	Protein18	
+BiochemicalReaction9	Autocatalytic activation of proMMP2	Protein29	Protein33	

@@ -1,0 +1,24 @@
+BiochemicalReaction1	UBF-1 Binds rDNA Promoter	PhysicalEntity1	Complex1	
+BiochemicalReaction1	UBF-1 Binds rDNA Promoter	Protein1	Complex1	
+BiochemicalReaction2	Phosphorylation of UBF-1:rDNA Promoter	Complex1	Complex4	
+BiochemicalReaction2	Phosphorylation of UBF-1:rDNA Promoter	SmallMolecule1	Complex4	
+BiochemicalReaction3	Formation of SL1	Protein35	Complex6	
+BiochemicalReaction3	Formation of SL1	Protein36	Complex6	
+BiochemicalReaction3	Formation of SL1	Protein37	Complex6	
+BiochemicalReaction4	Acetylation of SL1	SmallMolecule2	Complex7	
+BiochemicalReaction4	Acetylation of SL1	Complex6	Complex7	
+BiochemicalReaction5	Recruitment of Acetylated SL1 to phosUBF-1:rDNA Promoter	Complex7	Complex8	
+BiochemicalReaction5	Recruitment of Acetylated SL1 to phosUBF-1:rDNA Promoter	Complex4	Complex8	
+BiochemicalReaction6	Assembly of RNA Polymerase I Holoenzyme (human)	Protein44	Complex11	
+BiochemicalReaction6	Assembly of RNA Polymerase I Holoenzyme (human)	Protein45	Complex11	
+BiochemicalReaction6	Assembly of RNA Polymerase I Holoenzyme (human)	Protein46	Complex11	
+BiochemicalReaction6	Assembly of RNA Polymerase I Holoenzyme (human)	Protein47	Complex11	
+BiochemicalReaction6	Assembly of RNA Polymerase I Holoenzyme (human)	Protein48	Complex11	
+BiochemicalReaction6	Assembly of RNA Polymerase I Holoenzyme (human)	Protein49	Complex11	
+BiochemicalReaction7	Binding of Rrn3 to RNA Polymerase I	Protein50	Complex12	
+BiochemicalReaction7	Binding of Rrn3 to RNA Polymerase I	Complex11	Complex12	
+BiochemicalReaction8	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex12	Complex15	
+BiochemicalReaction8	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex13	Complex15	
+BiochemicalReaction8	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex8	Complex15	
+BiochemicalReaction9	Loss of Rrn3 from RNA Polymerase I promoter escape complex	Complex15	Complex16	
+BiochemicalReaction9	Loss of Rrn3 from RNA Polymerase I promoter escape complex	Complex15	Protein50	

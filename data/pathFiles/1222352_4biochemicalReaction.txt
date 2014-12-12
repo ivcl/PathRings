@@ -1,0 +1,196 @@
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction1	Nitric Oxide Synthase (NOS) produces Nitric Oxide (NO)	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction10	Peroxynitrite enters the bacterium	SmallMolecule19	SmallMolecule18	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	SmallMolecule11	SmallMolecule11	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	PhysicalEntity1	SmallMolecule11	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	SmallMolecule18	SmallMolecule11	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	SmallMolecule18	PhysicalEntity2	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	SmallMolecule11	PhysicalEntity2	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	PhysicalEntity1	SmallMolecule20	
+BiochemicalReaction11	Peroxynitrite oxidizes methionine residues	SmallMolecule11	SmallMolecule20	
+BiochemicalReaction12	Glutathione scavenges nitrosyl	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction12	Glutathione scavenges nitrosyl	SmallMolecule21	SmallMolecule11	
+BiochemicalReaction12	Glutathione scavenges nitrosyl	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction12	Glutathione scavenges nitrosyl	SmallMolecule8	SmallMolecule22	
+BiochemicalReaction13	Glutathione is taken up by the bacterium	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction14	Lactoferrin scavenges iron ions	SmallMolecule24	Complex14	
+BiochemicalReaction14	Lactoferrin scavenges iron ions	Protein41	Complex14	
+BiochemicalReaction14	Lactoferrin scavenges iron ions	SmallMolecule25	Complex14	
+BiochemicalReaction15	NRAMP1 transports divalent metal ions across phagosomal membranes of macrophages	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction15	NRAMP1 transports divalent metal ions across phagosomal membranes of macrophages	SmallMolecule26	SmallMolecule14	
+BiochemicalReaction15	NRAMP1 transports divalent metal ions across phagosomal membranes of macrophages	SmallMolecule26	SmallMolecule30	
+BiochemicalReaction15	NRAMP1 transports divalent metal ions across phagosomal membranes of macrophages	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction16	Cathelicidin LL-37 localizes to bacterial cell wall	Protein43	Protein44	
+BiochemicalReaction17	Nitrogen dioxide is reduced to NO by F420	SmallMolecule34	SmallMolecule36	
+BiochemicalReaction17	Nitrogen dioxide is reduced to NO by F420	SmallMolecule35	SmallMolecule36	
+BiochemicalReaction17	Nitrogen dioxide is reduced to NO by F420	SmallMolecule35	SmallMolecule37	
+BiochemicalReaction17	Nitrogen dioxide is reduced to NO by F420	SmallMolecule34	SmallMolecule37	
+BiochemicalReaction17	Nitrogen dioxide is reduced to NO by F420	SmallMolecule35	SmallMolecule6	
+BiochemicalReaction17	Nitrogen dioxide is reduced to NO by F420	SmallMolecule34	SmallMolecule6	
+BiochemicalReaction18	Nitric oxide is oxidized to nitrate	SmallMolecule3	SmallMolecule38	
+BiochemicalReaction18	Nitric oxide is oxidized to nitrate	SmallMolecule8	SmallMolecule38	
+BiochemicalReaction18	Nitric oxide is oxidized to nitrate	Complex15	SmallMolecule38	
+BiochemicalReaction18	Nitric oxide is oxidized to nitrate	Complex15	Complex16	
+BiochemicalReaction18	Nitric oxide is oxidized to nitrate	SmallMolecule8	Complex16	
+BiochemicalReaction18	Nitric oxide is oxidized to nitrate	SmallMolecule3	Complex16	
+BiochemicalReaction19	Peroxynitrite is reduced to nitrite by AhpC	SmallMolecule18	Protein47	
+BiochemicalReaction19	Peroxynitrite is reduced to nitrite by AhpC	Protein46	Protein47	
+BiochemicalReaction19	Peroxynitrite is reduced to nitrite by AhpC	Protein46	SmallMolecule37	
+BiochemicalReaction19	Peroxynitrite is reduced to nitrite by AhpC	SmallMolecule18	SmallMolecule37	
+BiochemicalReaction19	Peroxynitrite is reduced to nitrite by AhpC	Protein46	SmallMolecule20	
+BiochemicalReaction19	Peroxynitrite is reduced to nitrite by AhpC	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction2	Nitric oxide oxidizes to nitrosyl	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction2	Nitric oxide oxidizes to nitrosyl	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	Nitric oxide oxidizes to nitrosyl	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction2	Nitric oxide oxidizes to nitrosyl	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction20	Peroxynitrite is reduced by AhpE	SmallMolecule18	SmallMolecule37	
+BiochemicalReaction20	Peroxynitrite is reduced by AhpE	Complex18	SmallMolecule37	
+BiochemicalReaction20	Peroxynitrite is reduced by AhpE	Complex18	Complex19	
+BiochemicalReaction20	Peroxynitrite is reduced by AhpE	SmallMolecule18	Complex19	
+BiochemicalReaction20	Peroxynitrite is reduced by AhpE	Complex18	SmallMolecule20	
+BiochemicalReaction20	Peroxynitrite is reduced by AhpE	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction21	Peroxynitrite is reduced to nitrite by Tpx	Protein50	Protein51	
+BiochemicalReaction21	Peroxynitrite is reduced to nitrite by Tpx	SmallMolecule18	Protein51	
+BiochemicalReaction21	Peroxynitrite is reduced to nitrite by Tpx	SmallMolecule18	SmallMolecule37	
+BiochemicalReaction21	Peroxynitrite is reduced to nitrite by Tpx	Protein50	SmallMolecule37	
+BiochemicalReaction21	Peroxynitrite is reduced to nitrite by Tpx	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction21	Peroxynitrite is reduced to nitrite by Tpx	Protein50	SmallMolecule20	
+BiochemicalReaction22	Mycothiol scavenges nitrosyl	SmallMolecule39	SmallMolecule11	
+BiochemicalReaction22	Mycothiol scavenges nitrosyl	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction22	Mycothiol scavenges nitrosyl	SmallMolecule8	SmallMolecule40	
+BiochemicalReaction22	Mycothiol scavenges nitrosyl	SmallMolecule39	SmallMolecule40	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule11	SmallMolecule37	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule41	SmallMolecule37	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule39	SmallMolecule37	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule42	SmallMolecule37	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule39	SmallMolecule43	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule41	SmallMolecule43	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule11	SmallMolecule43	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule42	SmallMolecule44	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule39	SmallMolecule44	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule41	SmallMolecule44	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule11	SmallMolecule44	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule42	SmallMolecule45	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule39	SmallMolecule45	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule41	SmallMolecule45	
+BiochemicalReaction23	MscR reduces nitrosomycothiol to ammonia	SmallMolecule11	SmallMolecule45	
+BiochemicalReaction24	MsrA/B reduces peptide-methionine S/R-sulfoxides	Protein53	Protein54	
+BiochemicalReaction24	MsrA/B reduces peptide-methionine S/R-sulfoxides	PhysicalEntity3	Protein54	
+BiochemicalReaction24	MsrA/B reduces peptide-methionine S/R-sulfoxides	PhysicalEntity3	PhysicalEntity1	
+BiochemicalReaction24	MsrA/B reduces peptide-methionine S/R-sulfoxides	Protein53	PhysicalEntity1	
+BiochemicalReaction25	Nitrosoglutathione gets cleaved to Cys(NO)-Gly	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction25	Nitrosoglutathione gets cleaved to Cys(NO)-Gly	PhysicalEntity5	SmallMolecule47	
+BiochemicalReaction25	Nitrosoglutathione gets cleaved to Cys(NO)-Gly	PhysicalEntity5	SmallMolecule48	
+BiochemicalReaction25	Nitrosoglutathione gets cleaved to Cys(NO)-Gly	SmallMolecule46	SmallMolecule48	
+BiochemicalReaction26	SodB gets secreted	Protein59	Protein60	
+BiochemicalReaction27	SodB reduces superoxide to H2O2	SmallMolecule11	SmallMolecule3	
+BiochemicalReaction27	SodB reduces superoxide to H2O2	SmallMolecule12	SmallMolecule3	
+BiochemicalReaction27	SodB reduces superoxide to H2O2	SmallMolecule12	SmallMolecule49	
+BiochemicalReaction27	SodB reduces superoxide to H2O2	SmallMolecule11	SmallMolecule49	
+BiochemicalReaction28	SodC reduces superoxide to H2O2	SmallMolecule11	SmallMolecule3	
+BiochemicalReaction28	SodC reduces superoxide to H2O2	SmallMolecule12	SmallMolecule3	
+BiochemicalReaction28	SodC reduces superoxide to H2O2	SmallMolecule12	SmallMolecule49	
+BiochemicalReaction28	SodC reduces superoxide to H2O2	SmallMolecule11	SmallMolecule49	
+BiochemicalReaction29	AhpC reduces H2O2	SmallMolecule49	Protein47	
+BiochemicalReaction29	AhpC reduces H2O2	Protein46	Protein47	
+BiochemicalReaction29	AhpC reduces H2O2	Protein46	SmallMolecule37	
+BiochemicalReaction29	AhpC reduces H2O2	SmallMolecule49	SmallMolecule37	
+BiochemicalReaction3	Nitric oxide diffuses into the phagosome	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction30	KatG reduces H2O2	SmallMolecule49	SmallMolecule3	
+BiochemicalReaction30	KatG reduces H2O2	SmallMolecule49	SmallMolecule37	
+BiochemicalReaction31	H2O2 gets scavenged by unsaturated lipid	SmallMolecule49	PhysicalEntity7	
+BiochemicalReaction31	H2O2 gets scavenged by unsaturated lipid	PhysicalEntity6	PhysicalEntity7	
+BiochemicalReaction32	AhpC reduces peroxidated lipids	PhysicalEntity7	Protein47	
+BiochemicalReaction32	AhpC reduces peroxidated lipids	Protein46	Protein47	
+BiochemicalReaction32	AhpC reduces peroxidated lipids	Protein46	PhysicalEntity8	
+BiochemicalReaction32	AhpC reduces peroxidated lipids	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction32	AhpC reduces peroxidated lipids	Protein46	SmallMolecule37	
+BiochemicalReaction32	AhpC reduces peroxidated lipids	PhysicalEntity7	SmallMolecule37	
+BiochemicalReaction33	AhpD reactivates AhpC	Protein47	Protein71	
+BiochemicalReaction33	AhpD reactivates AhpC	Protein70	Protein71	
+BiochemicalReaction33	AhpD reactivates AhpC	Protein70	Protein46	
+BiochemicalReaction33	AhpD reactivates AhpC	Protein47	Protein46	
+BiochemicalReaction34	DlaT reactivates AhpD	Protein72	Protein70	
+BiochemicalReaction34	DlaT reactivates AhpD	Protein71	Protein70	
+BiochemicalReaction34	DlaT reactivates AhpD	Protein71	Protein73	
+BiochemicalReaction34	DlaT reactivates AhpD	Protein72	Protein73	
+BiochemicalReaction35	Lpd reactivates dlaT	SmallMolecule11	Protein72	
+BiochemicalReaction35	Lpd reactivates dlaT	Protein73	Protein72	
+BiochemicalReaction35	Lpd reactivates dlaT	SmallMolecule42	Protein72	
+BiochemicalReaction35	Lpd reactivates dlaT	SmallMolecule42	SmallMolecule44	
+BiochemicalReaction35	Lpd reactivates dlaT	Protein73	SmallMolecule44	
+BiochemicalReaction35	Lpd reactivates dlaT	SmallMolecule11	SmallMolecule44	
+BiochemicalReaction36	TrxA reactivates AhpC	Protein53	Protein54	
+BiochemicalReaction36	TrxA reactivates AhpC	Protein47	Protein54	
+BiochemicalReaction36	TrxA reactivates AhpC	Protein47	Protein46	
+BiochemicalReaction36	TrxA reactivates AhpC	Protein53	Protein46	
+BiochemicalReaction37	TrxB reactivates TrxA	SmallMolecule11	Protein53	
+BiochemicalReaction37	TrxB reactivates TrxA	SmallMolecule2	Protein53	
+BiochemicalReaction37	TrxB reactivates TrxA	Protein54	Protein53	
+BiochemicalReaction37	TrxB reactivates TrxA	Protein54	SmallMolecule4	
+BiochemicalReaction37	TrxB reactivates TrxA	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction37	TrxB reactivates TrxA	SmallMolecule11	SmallMolecule4	
+BiochemicalReaction38	TrxA/B1 reactivates Tpx	Protein76	Protein78	
+BiochemicalReaction38	TrxA/B1 reactivates Tpx	Protein51	Protein78	
+BiochemicalReaction38	TrxA/B1 reactivates Tpx	Protein51	Protein50	
+BiochemicalReaction38	TrxA/B1 reactivates Tpx	Protein76	Protein50	
+BiochemicalReaction39	Fgd1 reactivates F420	SmallMolecule51	SmallMolecule52	
+BiochemicalReaction39	Fgd1 reactivates F420	SmallMolecule36	SmallMolecule52	
+BiochemicalReaction39	Fgd1 reactivates F420	SmallMolecule36	SmallMolecule34	
+BiochemicalReaction39	Fgd1 reactivates F420	SmallMolecule51	SmallMolecule34	
+BiochemicalReaction4	Nitric oxide enters the bacterium	SmallMolecule10	SmallMolecule6	
+BiochemicalReaction40	Carboxymycobactin gets secreted	SmallMolecule53	SmallMolecule54	
+BiochemicalReaction41	Mycobactin is exported	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction42	Carboxymycobactin binds iron from lactoferrin	Complex29	Protein81	
+BiochemicalReaction42	Carboxymycobactin binds iron from lactoferrin	SmallMolecule54	Protein81	
+BiochemicalReaction42	Carboxymycobactin binds iron from lactoferrin	SmallMolecule54	SmallMolecule59	
+BiochemicalReaction42	Carboxymycobactin binds iron from lactoferrin	Complex29	SmallMolecule59	
+BiochemicalReaction42	Carboxymycobactin binds iron from lactoferrin	SmallMolecule54	SmallMolecule58	
+BiochemicalReaction42	Carboxymycobactin binds iron from lactoferrin	Complex29	SmallMolecule58	
+BiochemicalReaction43	Carboxymycobactin and mycobactin exchange their iron load	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction43	Carboxymycobactin and mycobactin exchange their iron load	SmallMolecule56	SmallMolecule60	
+BiochemicalReaction43	Carboxymycobactin and mycobactin exchange their iron load	SmallMolecule56	SmallMolecule54	
+BiochemicalReaction43	Carboxymycobactin and mycobactin exchange their iron load	SmallMolecule59	SmallMolecule54	
+BiochemicalReaction44	Loaded mycobactin gets imported	SmallMolecule60	SmallMolecule61	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule2	SmallMolecule55	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule61	SmallMolecule55	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule61	SmallMolecule11	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule2	SmallMolecule11	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule61	SmallMolecule4	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule61	SmallMolecule28	
+BiochemicalReaction45	Iron is reduced and separates from mycobactin	SmallMolecule2	SmallMolecule28	
+BiochemicalReaction46	BfrA stores iron	SmallMolecule11	SmallMolecule62	
+BiochemicalReaction46	BfrA stores iron	SmallMolecule28	SmallMolecule62	
+BiochemicalReaction46	BfrA stores iron	SmallMolecule3	SmallMolecule62	
+BiochemicalReaction46	BfrA stores iron	SmallMolecule3	SmallMolecule37	
+BiochemicalReaction46	BfrA stores iron	SmallMolecule28	SmallMolecule37	
+BiochemicalReaction46	BfrA stores iron	SmallMolecule11	SmallMolecule37	
+BiochemicalReaction47	BfrB stores iron	SmallMolecule11	SmallMolecule62	
+BiochemicalReaction47	BfrB stores iron	SmallMolecule28	SmallMolecule62	
+BiochemicalReaction47	BfrB stores iron	SmallMolecule3	SmallMolecule62	
+BiochemicalReaction47	BfrB stores iron	SmallMolecule3	SmallMolecule37	
+BiochemicalReaction47	BfrB stores iron	SmallMolecule28	SmallMolecule37	
+BiochemicalReaction47	BfrB stores iron	SmallMolecule11	SmallMolecule37	
+BiochemicalReaction5	NOX2 generates superoxide from oxygen	SmallMolecule2	SmallMolecule11	
+BiochemicalReaction5	NOX2 generates superoxide from oxygen	SmallMolecule3	SmallMolecule11	
+BiochemicalReaction5	NOX2 generates superoxide from oxygen	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction5	NOX2 generates superoxide from oxygen	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction5	NOX2 generates superoxide from oxygen	SmallMolecule3	SmallMolecule12	
+BiochemicalReaction5	NOX2 generates superoxide from oxygen	SmallMolecule2	SmallMolecule12	
+BiochemicalReaction6	Intraphagosomal pH is lowered to 5 by V-ATPase	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction7	Protonation of superoxide	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction7	Protonation of superoxide	SmallMolecule15	SmallMolecule16	
+BiochemicalReaction8	Hydroperoxyl enters the bacterium	SmallMolecule16	SmallMolecule17	
+BiochemicalReaction9	Superoxide and nitric oxide react to peroxynitrite	SmallMolecule6	SmallMolecule18	
+BiochemicalReaction9	Superoxide and nitric oxide react to peroxynitrite	SmallMolecule12	SmallMolecule18	

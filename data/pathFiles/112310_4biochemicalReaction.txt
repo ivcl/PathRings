@@ -1,0 +1,199 @@
+BiochemicalReaction1	Re-acidification of clathrin sculpted monoamine tranport vesicle lumen	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Re-acidification of clathrin sculpted monoamine tranport vesicle lumen	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Re-acidification of clathrin sculpted monoamine tranport vesicle lumen	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Re-acidification of clathrin sculpted monoamine tranport vesicle lumen	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	Re-acidification of clathrin sculpted monoamine tranport vesicle lumen	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction1	Re-acidification of clathrin sculpted monoamine tranport vesicle lumen	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction10	L-Glutamine transport into neurons	SmallMolecule20	SmallMolecule22	
+BiochemicalReaction10	L-Glutamine transport into neurons	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction10	L-Glutamine transport into neurons	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction10	L-Glutamine transport into neurons	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction11	Transport of L-Glutamine (cytosol) to mitochondrial matrix	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction12	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction12	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule24	SmallMolecule26	
+BiochemicalReaction12	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule24	SmallMolecule27	
+BiochemicalReaction12	glutamine + H2O => glutamate + NH4+ [GLS]	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction13	Tranport of L-Glutamate (mitochondrial matrix) to cytosol	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction14	L-Glutamate loading of synaptic vesicle	SmallMolecule28	Complex12	
+BiochemicalReaction14	L-Glutamate loading of synaptic vesicle	Complex11	Complex12	
+BiochemicalReaction15	Glutamate synaptic vesicle docking and priming	Complex12	Complex13	
+BiochemicalReaction15	Glutamate synaptic vesicle docking and priming	Protein2	Complex13	
+BiochemicalReaction15	Glutamate synaptic vesicle docking and priming	Protein6	Complex13	
+BiochemicalReaction15	Glutamate synaptic vesicle docking and priming	Protein7	Complex13	
+BiochemicalReaction15	Glutamate synaptic vesicle docking and priming	Protein8	Complex13	
+BiochemicalReaction15	Glutamate synaptic vesicle docking and priming	Protein9	Complex13	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	Protein30	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	Complex3	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	Protein7	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	Protein8	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	Complex4	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	Protein13	
+BiochemicalReaction16	release of L-Glutamate at the synapse	Complex13	SmallMolecule30	
+BiochemicalReaction17	L-Glutamate uptake by neurons	SmallMolecule30	SmallMolecule28	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Complex3	Complex15	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Complex14	Complex15	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Protein6	Complex15	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Protein7	Complex15	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Protein8	Complex15	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Protein18	Complex15	
+BiochemicalReaction18	Dopamine synaptic vesicle docking and priming	Protein9	Complex15	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	SmallMolecule31	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein2	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein11	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein7	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein10	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein8	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein18	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Complex4	
+BiochemicalReaction19	Release of docked dopamine loaded synaptic vesicle	Complex15	Protein13	
+BiochemicalReaction2	Loading of dopamine into synaptic veiscles	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction20	Transport of Choline	SmallMolecule32	SmallMolecule33	
+BiochemicalReaction20	Transport of Choline	SmallMolecule20	SmallMolecule33	
+BiochemicalReaction20	Transport of Choline	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction20	Transport of Choline	SmallMolecule32	SmallMolecule23	
+BiochemicalReaction21	Synthesis of o-acetylcholine	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction21	Synthesis of o-acetylcholine	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction21	Synthesis of o-acetylcholine	SmallMolecule34	SmallMolecule36	
+BiochemicalReaction21	Synthesis of o-acetylcholine	SmallMolecule33	SmallMolecule36	
+BiochemicalReaction22	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule1	SmallMolecule37	
+BiochemicalReaction22	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule2	SmallMolecule37	
+BiochemicalReaction22	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction22	Re-acidification of the clathrin sculpted acetylcholine transport vesicle	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction23	Loading of acetylcholine in synaptic vesicle	SmallMolecule37	SmallMolecule1	
+BiochemicalReaction23	Loading of acetylcholine in synaptic vesicle	SmallMolecule35	SmallMolecule1	
+BiochemicalReaction23	Loading of acetylcholine in synaptic vesicle	Complex16	SmallMolecule1	
+BiochemicalReaction23	Loading of acetylcholine in synaptic vesicle	Complex16	Complex17	
+BiochemicalReaction23	Loading of acetylcholine in synaptic vesicle	SmallMolecule35	Complex17	
+BiochemicalReaction23	Loading of acetylcholine in synaptic vesicle	SmallMolecule37	Complex17	
+BiochemicalReaction24	Acetylcholine synaptic vesicle docking and priming	Protein2	Complex18	
+BiochemicalReaction24	Acetylcholine synaptic vesicle docking and priming	Protein6	Complex18	
+BiochemicalReaction24	Acetylcholine synaptic vesicle docking and priming	Protein7	Complex18	
+BiochemicalReaction24	Acetylcholine synaptic vesicle docking and priming	Complex17	Complex18	
+BiochemicalReaction24	Acetylcholine synaptic vesicle docking and priming	Protein8	Complex18	
+BiochemicalReaction24	Acetylcholine synaptic vesicle docking and priming	Protein9	Complex18	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	Protein41	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	Complex3	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	Protein7	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	Protein8	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	Complex4	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	Protein13	
+BiochemicalReaction25	Release of acetylcholine at the synapse	Complex18	SmallMolecule39	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule40	SmallMolecule40	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule1	SmallMolecule40	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule28	SmallMolecule40	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule28	SmallMolecule41	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule1	SmallMolecule41	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule40	SmallMolecule41	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule28	SmallMolecule42	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule1	SmallMolecule42	
+BiochemicalReaction26	Synthesis of GABA by GAD1	SmallMolecule40	SmallMolecule42	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule40	SmallMolecule40	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule1	SmallMolecule40	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule28	SmallMolecule40	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule28	SmallMolecule41	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule1	SmallMolecule41	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule40	SmallMolecule41	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule28	SmallMolecule42	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule1	SmallMolecule42	
+BiochemicalReaction27	Synthesis of GABA by GAD2	SmallMolecule40	SmallMolecule42	
+BiochemicalReaction28	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction28	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	Complex24	SmallMolecule43	
+BiochemicalReaction28	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	Complex24	Complex25	
+BiochemicalReaction28	Loading of GABA into clathrin sculpted GABA transport vesicle lumen	SmallMolecule42	Complex25	
+BiochemicalReaction29	GABA loaded synaptic vesicle Docking and Priming	Protein2	Complex26	
+BiochemicalReaction29	GABA loaded synaptic vesicle Docking and Priming	Protein6	Complex26	
+BiochemicalReaction29	GABA loaded synaptic vesicle Docking and Priming	Protein7	Complex26	
+BiochemicalReaction29	GABA loaded synaptic vesicle Docking and Priming	Protein9	Complex26	
+BiochemicalReaction29	GABA loaded synaptic vesicle Docking and Priming	Protein8	Complex26	
+BiochemicalReaction29	GABA loaded synaptic vesicle Docking and Priming	Complex25	Complex26	
+BiochemicalReaction3	Noradrenalin synaptic vesicle docking and priming	Protein2	Complex2	
+BiochemicalReaction3	Noradrenalin synaptic vesicle docking and priming	Complex1	Complex2	
+BiochemicalReaction3	Noradrenalin synaptic vesicle docking and priming	Protein6	Complex2	
+BiochemicalReaction3	Noradrenalin synaptic vesicle docking and priming	Protein7	Complex2	
+BiochemicalReaction3	Noradrenalin synaptic vesicle docking and priming	Protein8	Complex2	
+BiochemicalReaction3	Noradrenalin synaptic vesicle docking and priming	Protein9	Complex2	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein2	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Complex27	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein7	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein10	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein8	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein52	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Complex4	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	SmallMolecule44	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein53	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein13	
+BiochemicalReaction30	Release of GABA at the synapse	Complex26	Protein54	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule45	SmallMolecule23	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule44	SmallMolecule23	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule20	SmallMolecule46	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule44	SmallMolecule42	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule20	SmallMolecule42	
+BiochemicalReaction31	GAT1-3 mediate Na+/Cl- dependent GABA transport	SmallMolecule45	SmallMolecule42	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule47	SmallMolecule23	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule45	SmallMolecule23	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule20	SmallMolecule23	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule20	SmallMolecule51	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule45	SmallMolecule51	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule47	SmallMolecule51	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule20	SmallMolecule46	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction32	SLC6A12 (BGT-1)-mediated uptake of GABA and betaine	SmallMolecule47	SmallMolecule46	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule55	SmallMolecule40	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule40	SmallMolecule40	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule56	SmallMolecule40	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule56	SmallMolecule57	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule40	SmallMolecule57	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule55	SmallMolecule57	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule56	SmallMolecule26	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule40	SmallMolecule26	
+BiochemicalReaction33	Conversion of GABA to Succinate Semialdehyde	SmallMolecule55	SmallMolecule26	
+BiochemicalReaction34	Conversion of succinate semialdehyde to succinate	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction34	Conversion of succinate semialdehyde to succinate	SmallMolecule57	SmallMolecule59	
+BiochemicalReaction34	Conversion of succinate semialdehyde to succinate	SmallMolecule25	SmallMolecule59	
+BiochemicalReaction34	Conversion of succinate semialdehyde to succinate	SmallMolecule25	SmallMolecule60	
+BiochemicalReaction34	Conversion of succinate semialdehyde to succinate	SmallMolecule57	SmallMolecule60	
+BiochemicalReaction34	Conversion of succinate semialdehyde to succinate	SmallMolecule58	SmallMolecule60	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	Complex3	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	SmallMolecule9	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	Protein11	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	Protein7	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	Protein8	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	Complex4	
+BiochemicalReaction4	Release of noradrenaline  at the synapse	Complex2	Protein13	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule10	SmallMolecule14	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule11	SmallMolecule15	
+BiochemicalReaction5	Metabolism of Noradrenaline	SmallMolecule10	SmallMolecule15	
+BiochemicalReaction6	Uptake of Noradrenaline	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction7	loading of Serotonin in synaptic vesicles	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Complex3	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Complex6	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein6	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein7	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein8	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein9	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein18	Complex7	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein18	Protein10	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein9	Protein10	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein8	Protein10	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein7	Protein10	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Protein6	Protein10	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Complex6	Protein10	
+BiochemicalReaction8	Serotonin loaded synaptic vesicle docking and priming	Complex3	Protein10	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	SmallMolecule19	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein11	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein2	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein7	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein8	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein18	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein10	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Complex4	
+BiochemicalReaction9	Release of docked serotonin loaded synaptic vesicle	Complex7	Protein13	

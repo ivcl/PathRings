@@ -1,0 +1,13 @@
+BiochemicalReaction1	SOCS-1 and SOCS-3 binds to p-JAK2	Protein1	Complex6	
+BiochemicalReaction1	SOCS-1 and SOCS-3 binds to p-JAK2	Complex1	Complex6	
+BiochemicalReaction2	Dephosphorylation of JAKs by PTPs	Complex7	SmallMolecule2	
+BiochemicalReaction2	Dephosphorylation of JAKs by PTPs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Dephosphorylation of JAKs by PTPs	SmallMolecule1	Complex10	
+BiochemicalReaction2	Dephosphorylation of JAKs by PTPs	Complex7	Complex10	
+BiochemicalReaction3	PIAS1 binds p-STAT1 dimer	Protein15	Complex14	
+BiochemicalReaction3	PIAS1 binds p-STAT1 dimer	Complex13	Complex14	
+BiochemicalReaction3	PIAS1 binds p-STAT1 dimer	Protein17	Complex14	
+BiochemicalReaction4	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	Complex13	Protein18	
+BiochemicalReaction4	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	SmallMolecule3	Protein18	
+BiochemicalReaction4	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction4	Dephosphorylation of p-STAT1 dimer by nuclear isoform of TCPTP	Complex13	SmallMolecule4	

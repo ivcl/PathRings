@@ -1,0 +1,37 @@
+BiochemicalReaction1	iE-DAP elicits a NOD1 response	Protein1	Complex1	
+BiochemicalReaction1	iE-DAP elicits a NOD1 response	SmallMolecule1	Complex1	
+BiochemicalReaction10	A20 deubiquitinates RIP2	Complex12	PhysicalEntity1	
+BiochemicalReaction10	A20 deubiquitinates RIP2	Complex12	Complex7	
+BiochemicalReaction11	K63 polyubiquitinated RIP2 associates with the TAK1 complex	Complex14	Complex15	
+BiochemicalReaction11	K63 polyubiquitinated RIP2 associates with the TAK1 complex	Complex12	Complex15	
+BiochemicalReaction12	TAK1 is activated	Complex15	Complex16	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex17	SmallMolecule4	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	Complex17	Complex18	
+BiochemicalReaction13	Activated TAK1 mediates phosphorylation of the IKK Complex	SmallMolecule3	Complex18	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	Protein31	SmallMolecule4	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	Protein31	Protein32	
+BiochemicalReaction14	TAK1 phosphorylates MKK6	SmallMolecule3	Protein32	
+BiochemicalReaction15	NOD1 induced apoptosis is mediated by RIP2 and CARD8	Complex1	Complex26	
+BiochemicalReaction15	NOD1 induced apoptosis is mediated by RIP2 and CARD8	Protein33	Complex26	
+BiochemicalReaction16	CARD9 binds RIP2 (and NOD2)	Complex6	Complex27	
+BiochemicalReaction16	CARD9 binds RIP2 (and NOD2)	Protein39	Complex27	
+BiochemicalReaction17	Activation of p38 MAPK	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction17	Activation of p38 MAPK	Protein40	SmallMolecule4	
+BiochemicalReaction17	Activation of p38 MAPK	Protein40	Protein45	
+BiochemicalReaction17	Activation of p38 MAPK	SmallMolecule3	Protein45	
+BiochemicalReaction2	MDP elicits a NOD2 response	SmallMolecule2	Complex2	
+BiochemicalReaction2	MDP elicits a NOD2 response	Protein2	Complex2	
+BiochemicalReaction3	Activated NOD1 oligomerizes	Complex1	Complex3	
+BiochemicalReaction4	Activated NOD2 oligomerizes	Complex2	Complex4	
+BiochemicalReaction5	Activated NOD oligomer recruites RIP2 (RICK)	Complex5	Complex6	
+BiochemicalReaction5	Activated NOD oligomer recruites RIP2 (RICK)	Protein3	Complex6	
+BiochemicalReaction6	RIP2 binds NEMO	Complex6	Complex7	
+BiochemicalReaction6	RIP2 binds NEMO	Protein4	Complex7	
+BiochemicalReaction7	RIP2 induces K63-linked ubiquitination of NEMO	PhysicalEntity1	Complex8	
+BiochemicalReaction7	RIP2 induces K63-linked ubiquitination of NEMO	Complex7	Complex8	
+BiochemicalReaction8	CYLD deubiquitinates NEMO	Complex8	PhysicalEntity1	
+BiochemicalReaction8	CYLD deubiquitinates NEMO	Complex8	Complex7	
+BiochemicalReaction9	RIP2 is K63 polyubiquitinated	PhysicalEntity1	Complex12	
+BiochemicalReaction9	RIP2 is K63 polyubiquitinated	Complex7	Complex12	

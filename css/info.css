@@ -1,0 +1,14 @@
+.ui-widget-header,.ui-state-default, ui-button{
+    background:#b9cd6d;
+    border: 1px solid #b9cd6d;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.ui-dialog
+{
+    opacity: .90;
+    width:600px !important;
+}
+#infoBox .main{
+    font-size: 14px;
+}

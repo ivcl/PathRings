@@ -1,0 +1,25 @@
+BiochemicalReaction1	Vasopressin receptor type 2 bind vasopressin	Protein1	Complex1	
+BiochemicalReaction1	Vasopressin receptor type 2 bind vasopressin	Protein2	Complex1	
+BiochemicalReaction10	Passive Transport of Water into Cell by Aquaporin-1	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction11	Passive Transport of Water into Cell by Aquaporin-2 Phosphorylated on Serine256	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction12	Passive Transport of Water out of Cell by Aquaporin-1	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction13	Passive Transport of Water out of Cell by Aquaporin-3	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction14	Passive Transport of Water out of Cell by Aquaporin-4	SmallMolecule11	SmallMolecule10	
+BiochemicalReaction2	Binding of Inactive Heterotrimeric G(s) Complex by AVP:AVPR2 Complex	Complex1	Complex5	
+BiochemicalReaction2	Binding of Inactive Heterotrimeric G(s) Complex by AVP:AVPR2 Complex	Complex2	Complex5	
+BiochemicalReaction3	Exchange of GDP for GTP by AVP:AVPR2:Heterotrimeric G(s) Complex	SmallMolecule2	Complex6	
+BiochemicalReaction3	Exchange of GDP for GTP by AVP:AVPR2:Heterotrimeric G(s) Complex	Complex5	Complex6	
+BiochemicalReaction3	Exchange of GDP for GTP by AVP:AVPR2:Heterotrimeric G(s) Complex	Complex5	SmallMolecule4	
+BiochemicalReaction3	Exchange of GDP for GTP by AVP:AVPR2:Heterotrimeric G(s) Complex	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Rearrangement of the heterotrimeric G(s) complex	Complex7	Complex8	
+BiochemicalReaction4	Rearrangement of the heterotrimeric G(s) complex	Complex7	Complex3	
+BiochemicalReaction5	G alpha (s) activates adenylate cyclase	Complex8	Complex10	
+BiochemicalReaction5	G alpha (s) activates adenylate cyclase	Complex9	Complex10	
+BiochemicalReaction6	Activated Adenylate cyclase catalyses cAMP synthesis	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction6	Activated Adenylate cyclase catalyses cAMP synthesis	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	Complex11	Protein38	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule7	Protein38	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule7	Complex12	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	Complex11	Complex12	
+BiochemicalReaction8	Phosphorylation of Aquaporin-2 by Protein Kinase A (PKA)	Complex13	Complex14	
+BiochemicalReaction9	Translocation of Aquaporin-2 from Intracellular Vesicles to the Apical Plasma Membrane	Complex14	Complex15	

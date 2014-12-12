@@ -1,0 +1,14 @@
+BiochemicalReaction1	Collagen type I binds integrin alpha1beta1, alpha2beta1, alpha10beta1	SmallMolecule1	Complex5	
+BiochemicalReaction1	Collagen type I binds integrin alpha1beta1, alpha2beta1, alpha10beta1	Complex1	Complex5	
+BiochemicalReaction1	Collagen type I binds integrin alpha1beta1, alpha2beta1, alpha10beta1	PhysicalEntity1	Complex5	
+BiochemicalReaction2	Interaction of GPVI and FceRI gamma	Complex6	Complex7	
+BiochemicalReaction2	Interaction of GPVI and FceRI gamma	Protein6	Complex7	
+BiochemicalReaction3	GPVI binds Fyn and Lyn	Complex7	Complex8	
+BiochemicalReaction3	GPVI binds Fyn and Lyn	Protein7	Complex8	
+BiochemicalReaction3	GPVI binds Fyn and Lyn	Protein8	Complex8	
+BiochemicalReaction4	Binding of GPVI:Fc Epsilon R1 gamma receptor complex with collagen	PhysicalEntity1	Complex9	
+BiochemicalReaction4	Binding of GPVI:Fc Epsilon R1 gamma receptor complex with collagen	Complex8	Complex9	
+BiochemicalReaction5	vWF binds to collagen	PhysicalEntity1	Complex10	
+BiochemicalReaction5	vWF binds to collagen	Protein9	Complex10	
+BiochemicalReaction6	GPIb-IX-V binds to vWF:Collagen complex	Complex11	Complex13	
+BiochemicalReaction6	GPIb-IX-V binds to vWF:Collagen complex	Complex10	Complex13	

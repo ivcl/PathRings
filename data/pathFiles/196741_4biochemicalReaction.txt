@@ -1,0 +1,98 @@
+BiochemicalReaction1	TCN1 binds Cbl	Protein1	Complex2	
+BiochemicalReaction1	TCN1 binds Cbl	Complex1	Complex2	
+BiochemicalReaction1	TCN1 binds Cbl	Complex1	PhysicalEntity1	
+BiochemicalReaction1	TCN1 binds Cbl	Protein1	PhysicalEntity1	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction10	MMACHC decyanates CNCbl	Protein18	SmallMolecule7	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule9	Complex11	
+BiochemicalReaction10	MMACHC decyanates CNCbl	Protein18	Complex11	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule6	Complex11	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule5	Complex11	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction10	MMACHC decyanates CNCbl	Protein18	SmallMolecule10	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule6	SmallMolecule10	
+BiochemicalReaction10	MMACHC decyanates CNCbl	SmallMolecule5	SmallMolecule10	
+BiochemicalReaction11	MMACHC:cob(II)alamin binds MMADHC	Complex11	Complex12	
+BiochemicalReaction11	MMACHC:cob(II)alamin binds MMADHC	Protein19	Complex12	
+BiochemicalReaction12	cob(II)alamin dissociates from MMACHC:MMADHC	Complex12	SmallMolecule8	
+BiochemicalReaction12	cob(II)alamin dissociates from MMACHC:MMADHC	Complex12	Complex13	
+BiochemicalReaction13	cob(II)alamin binds to MTRR:MTR	SmallMolecule8	Complex17	
+BiochemicalReaction13	cob(II)alamin binds to MTRR:MTR	Complex14	Complex17	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule14	SmallMolecule7	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	Complex17	SmallMolecule7	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	Complex17	Complex19	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule14	Complex19	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule6	Complex19	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule5	Complex19	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	Complex17	SmallMolecule16	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule6	SmallMolecule16	
+BiochemicalReaction14	MTRR reduces cob(II)alamin to meCbl	SmallMolecule5	SmallMolecule16	
+BiochemicalReaction15	Methionine is reformed	Complex19	Complex21	
+BiochemicalReaction15	Methionine is reformed	SmallMolecule17	Complex21	
+BiochemicalReaction15	Methionine is reformed	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction15	Methionine is reformed	Complex19	SmallMolecule19	
+BiochemicalReaction16	MTR transfers CH3 group from MTHF to cob(I)alamin	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction16	MTR transfers CH3 group from MTHF to cob(I)alamin	Complex21	SmallMolecule21	
+BiochemicalReaction16	MTR transfers CH3 group from MTHF to cob(I)alamin	Complex21	Complex19	
+BiochemicalReaction16	MTR transfers CH3 group from MTHF to cob(I)alamin	SmallMolecule20	Complex19	
+BiochemicalReaction17	MMADHC targets cytosolic cob(II)alamin for entry to mitochondria	Complex12	SmallMolecule22	
+BiochemicalReaction17	MMADHC targets cytosolic cob(II)alamin for entry to mitochondria	Complex12	Complex13	
+BiochemicalReaction18	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction18	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction18	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction18	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction18	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule23	SmallMolecule26	
+BiochemicalReaction18	Unknown reductase reduces cob(II)alamin to cob(I)alamin	SmallMolecule22	SmallMolecule26	
+BiochemicalReaction19	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule24	SmallMolecule28	
+BiochemicalReaction19	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule27	SmallMolecule28	
+BiochemicalReaction19	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction19	MMAB transfers adenosyl group from ATP to cob(I)alamin	SmallMolecule24	SmallMolecule29	
+BiochemicalReaction2	Pancreatic proteases degrade TCN1:Cbl	Complex2	SmallMolecule1	
+BiochemicalReaction20	MMAA:MUT binds AdoCbl	Complex24	Complex27	
+BiochemicalReaction20	MMAA:MUT binds AdoCbl	SmallMolecule29	Complex27	
+BiochemicalReaction21	MUT isomerises L-MM-CoA to SUCC-CoA	SmallMolecule30	Complex24	
+BiochemicalReaction21	MUT isomerises L-MM-CoA to SUCC-CoA	Complex27	Complex24	
+BiochemicalReaction21	MUT isomerises L-MM-CoA to SUCC-CoA	Complex27	SmallMolecule31	
+BiochemicalReaction21	MUT isomerises L-MM-CoA to SUCC-CoA	SmallMolecule30	SmallMolecule31	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule32	SmallMolecule34	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule4	SmallMolecule34	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule4	SmallMolecule35	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule32	SmallMolecule35	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule33	SmallMolecule1	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule4	SmallMolecule1	
+BiochemicalReaction22	ABCC1 transports cytosolic Cbl to extracellular region	SmallMolecule32	SmallMolecule1	
+BiochemicalReaction23	TCII binds Cbl in the circulation	SmallMolecule1	Complex29	
+BiochemicalReaction23	TCII binds Cbl in the circulation	Protein26	Complex29	
+BiochemicalReaction24	TCN1 binds Cbl in the circulation	SmallMolecule1	Complex2	
+BiochemicalReaction24	TCN1 binds Cbl in the circulation	Protein1	Complex2	
+BiochemicalReaction25	CD320 transports extracellular TCII:Cbl to endosome	Complex29	Complex30	
+BiochemicalReaction25	CD320 transports extracellular TCII:Cbl to endosome	Protein27	Complex30	
+BiochemicalReaction26	CD320:TCII:Cbl dissociates into CD320 and TCII:Cbl	Complex30	Complex31	
+BiochemicalReaction26	CD320:TCII:Cbl dissociates into CD320 and TCII:Cbl	Complex30	Protein27	
+BiochemicalReaction27	Endosomal TCII:Cbl translocates to lysosome	Complex31	Complex32	
+BiochemicalReaction28	TCII:Cbl is degraded to release Cbl	Complex32	Protein30	
+BiochemicalReaction28	TCII:Cbl is degraded to release Cbl	Complex32	SmallMolecule3	
+BiochemicalReaction3	GIF binds Cbl	SmallMolecule1	Complex5	
+BiochemicalReaction3	GIF binds Cbl	Protein10	Complex5	
+BiochemicalReaction4	CUBN:AMN binds GIF:Cbl	Complex5	Complex7	
+BiochemicalReaction4	CUBN:AMN binds GIF:Cbl	Complex6	Complex7	
+BiochemicalReaction5	CUBN:AMN transports extracellular GIF:Cbl to endosome	Complex7	Complex8	
+BiochemicalReaction5	CUBN:AMN transports extracellular GIF:Cbl to endosome	Complex7	Complex9	
+BiochemicalReaction6	Endosomal GIF:Cbl translocates to lysosome	Complex8	Complex10	
+BiochemicalReaction7	GIF:Cbl is degraded to release Cbl	Complex10	SmallMolecule3	
+BiochemicalReaction8	LMBRD1 transports lysosomal Cbl to cytosol	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	MMACHC reduces Cbl	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction9	MMACHC reduces Cbl	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction9	MMACHC reduces Cbl	Protein18	SmallMolecule7	
+BiochemicalReaction9	MMACHC reduces Cbl	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction9	MMACHC reduces Cbl	SmallMolecule4	Complex11	
+BiochemicalReaction9	MMACHC reduces Cbl	Protein18	Complex11	
+BiochemicalReaction9	MMACHC reduces Cbl	SmallMolecule6	Complex11	
+BiochemicalReaction9	MMACHC reduces Cbl	SmallMolecule5	Complex11	

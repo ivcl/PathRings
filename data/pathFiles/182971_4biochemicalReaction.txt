@@ -1,0 +1,55 @@
+BiochemicalReaction1	Binding of CBL to EGFR	Complex1	Complex3	
+BiochemicalReaction1	Binding of CBL to EGFR	Protein3	Complex3	
+BiochemicalReaction10	Sprouty lures membrane-bound CBL away from EGFR	Protein29	Complex14	
+BiochemicalReaction10	Sprouty lures membrane-bound CBL away from EGFR	Protein3	Complex14	
+BiochemicalReaction11	CDC42 lures CBL away from the receptor	Complex15	Complex17	
+BiochemicalReaction11	CDC42 lures CBL away from the receptor	Complex16	Complex17	
+BiochemicalReaction12	Beta-Pix pushes CIN85 away from CBL	Complex18	Protein35	
+BiochemicalReaction12	Beta-Pix pushes CIN85 away from CBL	Complex19	Protein35	
+BiochemicalReaction12	Beta-Pix pushes CIN85 away from CBL	Complex19	Complex20	
+BiochemicalReaction12	Beta-Pix pushes CIN85 away from CBL	Complex18	Complex20	
+BiochemicalReaction13	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	Protein5	Complex21	
+BiochemicalReaction13	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	Complex20	Complex21	
+BiochemicalReaction13	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	Complex20	Complex3	
+BiochemicalReaction13	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix	Protein5	Complex3	
+BiochemicalReaction14	Assembly of EGFR complex in clathrin-coated vesicles	Complex22	Complex23	
+BiochemicalReaction14	Assembly of EGFR complex in clathrin-coated vesicles	Complex10	Complex23	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	Complex24	Complex27	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	Complex25	Complex27	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	SmallMolecule4	Complex27	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	Complex26	Complex27	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	Complex23	Complex27	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	Protein50	Complex27	
+BiochemicalReaction15	Assembly in clathrin-coated vesicles (CCVs)	Protein51	Complex27	
+BiochemicalReaction16	EGFR non-clathrin mediated endocytosis	Complex22	Complex29	
+BiochemicalReaction16	EGFR non-clathrin mediated endocytosis	Complex25	Complex29	
+BiochemicalReaction16	EGFR non-clathrin mediated endocytosis	Protein50	Complex29	
+BiochemicalReaction16	EGFR non-clathrin mediated endocytosis	Protein51	Complex29	
+BiochemicalReaction16	EGFR non-clathrin mediated endocytosis	Complex4	Complex29	
+BiochemicalReaction17	CBL ubiquitinates Sprouty	Protein5	Complex5	
+BiochemicalReaction17	CBL ubiquitinates Sprouty	Complex30	Complex5	
+BiochemicalReaction18	CBL-mediated ubiquitination of CIN85	Protein5	Complex31	
+BiochemicalReaction18	CBL-mediated ubiquitination of CIN85	Complex29	Complex31	
+BiochemicalReaction19	Sprouty sequesters CBL away from active EGFR	Protein30	Complex33	
+BiochemicalReaction19	Sprouty sequesters CBL away from active EGFR	Complex29	Complex33	
+BiochemicalReaction2	Phosphorylation of CBL (EGFR:CBL)	Complex3	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of CBL (EGFR:CBL)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of CBL (EGFR:CBL)	SmallMolecule1	Complex4	
+BiochemicalReaction2	Phosphorylation of CBL (EGFR:CBL)	Complex3	Complex4	
+BiochemicalReaction3	CBL binds and ubiquitinates phosphorylated Sprouty	Protein5	Complex5	
+BiochemicalReaction3	CBL binds and ubiquitinates phosphorylated Sprouty	Protein20	Complex5	
+BiochemicalReaction3	CBL binds and ubiquitinates phosphorylated Sprouty	Complex4	Complex5	
+BiochemicalReaction4	Ubiquitination of stimulated EGFR (CBL)	Protein5	Complex7	
+BiochemicalReaction4	Ubiquitination of stimulated EGFR (CBL)	Complex4	Complex7	
+BiochemicalReaction5	CBL binds to GRB2	Protein26	Complex8	
+BiochemicalReaction5	CBL binds to GRB2	Protein27	Complex8	
+BiochemicalReaction6	Localization of CBL:GRB2 to the membrane	Complex8	Complex9	
+BiochemicalReaction6	Localization of CBL:GRB2 to the membrane	Complex1	Complex9	
+BiochemicalReaction7	Phosphorylation of CBL (EGFR:GRB2:CBL)	Complex9	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of CBL (EGFR:GRB2:CBL)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of CBL (EGFR:GRB2:CBL)	SmallMolecule1	Complex10	
+BiochemicalReaction7	Phosphorylation of CBL (EGFR:GRB2:CBL)	Complex9	Complex10	
+BiochemicalReaction8	Ubiquitination of stimulated EGFR (CBL:GRB2)	Protein5	Complex11	
+BiochemicalReaction8	Ubiquitination of stimulated EGFR (CBL:GRB2)	Complex10	Complex11	
+BiochemicalReaction9	Sprouty lures cytosolic CBL away from EGFR	Protein25	Complex13	
+BiochemicalReaction9	Sprouty lures cytosolic CBL away from EGFR	Protein26	Complex13	

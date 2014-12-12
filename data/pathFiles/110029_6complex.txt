@@ -1,0 +1,15 @@
+Complex1	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein1	
+Complex1	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein2	
+Complex2	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule1	
+Complex2	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein3	
+Complex3	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein2	
+Complex3	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex2	
+Complex4	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex3	
+Complex4	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein1	
+Complex5	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein1	
+Complex5	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex2	
+Complex5	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein7	
+Complex6	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein4	
+Complex6	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule1	
+Complex7	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein2	
+Complex7	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex6	

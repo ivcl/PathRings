@@ -1,0 +1,17 @@
+BiochemicalReaction1	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates BAD	Protein1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates BAD	Protein1	Protein2	
+BiochemicalReaction1	AKT phosphorylates BAD	SmallMolecule1	Protein2	
+BiochemicalReaction2	Sequestration of BAD protein by 14-3-3	Complex1	Complex9	
+BiochemicalReaction2	Sequestration of BAD protein by 14-3-3	Protein2	Complex9	
+BiochemicalReaction3	Activation of BAD by calcineurin	Complex9	SmallMolecule4	
+BiochemicalReaction3	Activation of BAD by calcineurin	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Activation of BAD by calcineurin	SmallMolecule3	Complex1	
+BiochemicalReaction3	Activation of BAD by calcineurin	Complex9	Complex1	
+BiochemicalReaction3	Activation of BAD by calcineurin	SmallMolecule3	Protein1	
+BiochemicalReaction3	Activation of BAD by calcineurin	Complex9	Protein1	
+BiochemicalReaction4	Translocation of activated BAD protein to mitochondria	Protein1	Protein16	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Complex11	Complex12	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Protein16	Complex12	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Protein16	Protein18	
+BiochemicalReaction5	BAD displaces tBID from BCL-2 sequestration	Complex11	Protein18	

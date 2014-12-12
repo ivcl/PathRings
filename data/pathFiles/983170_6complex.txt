@@ -1,0 +1,66 @@
+Complex1	monoglucosylated MHC class I HC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983120	Protein1	
+Complex1	monoglucosylated MHC class I HC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983120	SmallMolecule1	
+Complex10	Sar1b:GTP:Sec23p:Sec24p	endoplasmic reticulum membrane	Reactome DB_ID: 203997	Complex11	
+Complex10	Sar1b:GTP:Sec23p:Sec24p	endoplasmic reticulum membrane	Reactome DB_ID: 203997	Complex12	
+Complex11	Sar1b:GTP Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204003	SmallMolecule27	
+Complex11	Sar1b:GTP Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204003	Protein86	
+Complex12	Sec23p:Sec24p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204007	Protein87	
+Complex12	Sec23p:Sec24p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204007	Protein88	
+Complex13	Sar1p:GTP:Sec23p:Sec24p:Ag bound MHC class I	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983413	Complex11	
+Complex13	Sar1p:GTP:Sec23p:Sec24p:Ag bound MHC class I	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983413	Complex12	
+Complex13	Sar1p:GTP:Sec23p:Sec24p:Ag bound MHC class I	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983413	Complex9	
+Complex14	COPII vesicle with MHC class I	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983414	Complex13	
+Complex14	COPII vesicle with MHC class I	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983414	Complex15	
+Complex15	Sec13p:Sec31p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 203993	Protein95	
+Complex15	Sec13p:Sec31p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 203993	Protein96	
+Complex16	COPII vesicle with MHC class I	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983418	Complex17	
+Complex16	COPII vesicle with MHC class I	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983418	Complex18	
+Complex16	COPII vesicle with MHC class I	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983418	Complex19	
+Complex16	COPII vesicle with MHC class I	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983418	Complex21	
+Complex17	Sec23p:Sec24p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204023	Protein97	
+Complex17	Sec23p:Sec24p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204023	Protein102	
+Complex18	Sar1p-GTP	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983415	SmallMolecule28	
+Complex18	Sar1p-GTP	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983415	Protein103	
+Complex19	Antigen peptide bound class I MHC	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983412	PhysicalEntity5	
+Complex19	Antigen peptide bound class I MHC	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983412	Protein104	
+Complex19	Antigen peptide bound class I MHC	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983412	Complex20	
+Complex2	monoglucosylated MHC class I HC:Calnexin/BiP	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983116	Complex1	
+Complex2	monoglucosylated MHC class I HC:Calnexin/BiP	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983116	Protein74	
+Complex20	monoglucosylated MHC class I HC	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983419	Protein105	
+Complex20	monoglucosylated MHC class I HC	ER to Golgi transport vesicle membrane	Reactome DB_ID: 983419	SmallMolecule29	
+Complex21	Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204015	Protein178	
+Complex21	Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204015	Protein179	
+Complex22	Sar1b:GDP Complex	cytosol	Reactome DB_ID: 203989	Protein186	
+Complex22	Sar1b:GDP Complex	cytosol	Reactome DB_ID: 203989	SmallMolecule30	
+Complex23	Sar1b:Sec23p:Sec24p:Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204019	Complex17	
+Complex23	Sar1b:Sec23p:Sec24p:Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204019	Protein103	
+Complex23	Sar1b:Sec23p:Sec24p:Sec13p:Sec31p Complex	ER to Golgi transport vesicle membrane	Reactome DB_ID: 204019	Complex21	
+Complex24	Antigen peptide bound class I MHC	Golgi membrane	Reactome DB_ID: 983416	PhysicalEntity6	
+Complex24	Antigen peptide bound class I MHC	Golgi membrane	Reactome DB_ID: 983416	Protein187	
+Complex24	Antigen peptide bound class I MHC	Golgi membrane	Reactome DB_ID: 983416	Complex25	
+Complex25	monoglucosylated MHC class I HC	Golgi membrane	Reactome DB_ID: 983420	Protein188	
+Complex25	monoglucosylated MHC class I HC	Golgi membrane	Reactome DB_ID: 983420	SmallMolecule31	
+Complex26	Antigen peptide bound class I MHC	plasma membrane	Reactome DB_ID: 198904	PhysicalEntity7	
+Complex26	Antigen peptide bound class I MHC	plasma membrane	Reactome DB_ID: 198904	Complex27	
+Complex27	Beta-2-microglobulin:class I MHC heavy chain Complex	plasma membrane	Reactome DB_ID: 167755	Protein261	
+Complex27	Beta-2-microglobulin:class I MHC heavy chain Complex	plasma membrane	Reactome DB_ID: 167755	Protein334	
+Complex3	MHC class I HC:Calnexin/BiP:Erp57	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983119	Complex2	
+Complex3	MHC class I HC:Calnexin/BiP:Erp57	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983119	Protein77	
+Complex4	MHC HC:B2M:Erp57	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983136	Complex1	
+Complex4	MHC HC:B2M:Erp57	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983136	Protein78	
+Complex4	MHC HC:B2M:Erp57	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983136	Protein77	
+Complex5	TAP	endoplasmic reticulum membrane	Reactome DB_ID: 983113	Protein80	
+Complex5	TAP	endoplasmic reticulum membrane	Reactome DB_ID: 983113	Protein81	
+Complex6	MHC:B2M peptide loading complex	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983121	Complex5	
+Complex6	MHC:B2M peptide loading complex	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983121	Protein79	
+Complex6	MHC:B2M peptide loading complex	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983121	Protein82	
+Complex6	MHC:B2M peptide loading complex	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983121	PhysicalEntity1	
+Complex6	MHC:B2M peptide loading complex	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983121	Complex4	
+Complex7	Antigen peptide bound class I MHC:BAP31 oligomer	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983132	Complex8	
+Complex7	Antigen peptide bound class I MHC:BAP31 oligomer	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983132	PhysicalEntity1	
+Complex8	Peptide bound class I MHC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983127	Complex1	
+Complex8	Peptide bound class I MHC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983127	PhysicalEntity4	
+Complex8	Peptide bound class I MHC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983127	Protein78	
+Complex9	Antigen peptide bound class I MHC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983114	Complex1	
+Complex9	Antigen peptide bound class I MHC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983114	PhysicalEntity4	
+Complex9	Antigen peptide bound class I MHC	integral to lumenal side of endoplasmic reticulum membrane	Reactome DB_ID: 983114	Protein78	

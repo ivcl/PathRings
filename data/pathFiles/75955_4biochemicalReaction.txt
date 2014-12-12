@@ -1,0 +1,33 @@
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex1	Complex9	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein17	Complex9	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex7	Complex9	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex7	Complex7	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein17	Complex7	
+BiochemicalReaction1	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex1	Complex7	
+BiochemicalReaction2	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex9	Complex12	
+BiochemicalReaction2	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex11	Complex12	
+BiochemicalReaction3	Formation of DSIF:NELF:early elongation complex	Complex13	Complex14	
+BiochemicalReaction3	Formation of DSIF:NELF:early elongation complex	SmallMolecule1	Complex14	
+BiochemicalReaction3	Formation of DSIF:NELF:early elongation complex	Complex12	Complex14	
+BiochemicalReaction3	Formation of DSIF:NELF:early elongation complex	Complex12	SmallMolecule1	
+BiochemicalReaction3	Formation of DSIF:NELF:early elongation complex	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction3	Formation of DSIF:NELF:early elongation complex	Complex13	SmallMolecule1	
+BiochemicalReaction4	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex15	Complex6	
+BiochemicalReaction4	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex14	Complex6	
+BiochemicalReaction4	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex14	Complex16	
+BiochemicalReaction4	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex15	Complex16	
+BiochemicalReaction5	Recruitment of elongation factors to form elongation complex	Complex19	Complex22	
+BiochemicalReaction5	Recruitment of elongation factors to form elongation complex	Protein39	Complex22	
+BiochemicalReaction5	Recruitment of elongation factors to form elongation complex	Complex16	Complex22	
+BiochemicalReaction5	Recruitment of elongation factors to form elongation complex	Complex7	Complex22	
+BiochemicalReaction5	Recruitment of elongation factors to form elongation complex	Complex20	Complex22	
+BiochemicalReaction5	Recruitment of elongation factors to form elongation complex	Protein43	Complex22	
+BiochemicalReaction6	Addition of nucleotides leads to transcript elongation	SmallMolecule1	Complex23	
+BiochemicalReaction6	Addition of nucleotides leads to transcript elongation	Complex22	Complex23	
+BiochemicalReaction6	Addition of nucleotides leads to transcript elongation	Complex22	Complex7	
+BiochemicalReaction6	Addition of nucleotides leads to transcript elongation	SmallMolecule1	Complex7	
+BiochemicalReaction7	Pol II elongation complex moves on the template as transcript elongates	Complex23	Complex24	
+BiochemicalReaction7	Pol II elongation complex moves on the template as transcript elongates	SmallMolecule1	Complex24	
+BiochemicalReaction7	Pol II elongation complex moves on the template as transcript elongates	SmallMolecule1	SmallMolecule1	
+BiochemicalReaction7	Pol II elongation complex moves on the template as transcript elongates	Complex23	SmallMolecule1	
+BiochemicalReaction8	Separation of elongating transcript from template	Complex24	Complex25	

@@ -1,0 +1,45 @@
+BiochemicalReaction1	Active PLCG1 hydrolyses PIP2	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Active PLCG1 hydrolyses PIP2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Active PLCG1 hydrolyses PIP2	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	Active PLCG1 hydrolyses PIP2	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	Dimerisation of CREB	Protein37	Complex8	
+BiochemicalReaction11	Calmodulin binds CaMK IV	Complex3	Complex9	
+BiochemicalReaction11	Calmodulin binds CaMK IV	Protein38	Complex9	
+BiochemicalReaction12	CamKIV enters the nucleus	Complex9	Complex10	
+BiochemicalReaction13	CaMK IV autophosphorylation	Complex10	Complex12	
+BiochemicalReaction13	CaMK IV autophosphorylation	SmallMolecule12	Complex12	
+BiochemicalReaction13	CaMK IV autophosphorylation	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction13	CaMK IV autophosphorylation	Complex10	SmallMolecule13	
+BiochemicalReaction14	CaMK IV phosphorylates CREB	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction14	CaMK IV phosphorylates CREB	Protein36	SmallMolecule13	
+BiochemicalReaction14	CaMK IV phosphorylates CREB	Protein36	Protein37	
+BiochemicalReaction14	CaMK IV phosphorylates CREB	SmallMolecule12	Protein37	
+BiochemicalReaction15	Calmodulin activates Cam-PDE 1	Complex14	Complex18	
+BiochemicalReaction16	cAMP hydrolysis by Cam-PDE 1	SmallMolecule9	SmallMolecule15	
+BiochemicalReaction16	cAMP hydrolysis by Cam-PDE 1	SmallMolecule2	SmallMolecule15	
+BiochemicalReaction17	Inhibition of GRK2 by calmodulin	Protein45	Complex19	
+BiochemicalReaction17	Inhibition of GRK2 by calmodulin	Protein12	Complex19	
+BiochemicalReaction18	PKC phosphorylates GRK2	Protein45	SmallMolecule6	
+BiochemicalReaction18	PKC phosphorylates GRK2	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction18	PKC phosphorylates GRK2	SmallMolecule5	Protein46	
+BiochemicalReaction18	PKC phosphorylates GRK2	Protein45	Protein46	
+BiochemicalReaction2	DAG stimulates protein kinase C-delta	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	DAG stimulates protein kinase C-delta	Protein2	SmallMolecule6	
+BiochemicalReaction2	DAG stimulates protein kinase C-delta	Protein2	Protein5	
+BiochemicalReaction2	DAG stimulates protein kinase C-delta	SmallMolecule5	Protein5	
+BiochemicalReaction3	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	SmallMolecule3	Complex2	
+BiochemicalReaction3	IP3 binds to the IP3 receptor, opening the endoplasmic reticulum Ca2+ channel	Complex1	Complex2	
+BiochemicalReaction4	Release of calcium from intracellular stores by IP3 receptor activation	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction5	Calcium binds calmodulin	SmallMolecule8	Complex3	
+BiochemicalReaction5	Calcium binds calmodulin	Protein12	Complex3	
+BiochemicalReaction6	Adenylate cyclase produces cAMP	SmallMolecule5	SmallMolecule9	
+BiochemicalReaction6	Adenylate cyclase produces cAMP	SmallMolecule5	SmallMolecule10	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	Complex6	Protein28	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule9	Protein28	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule9	Complex7	
+BiochemicalReaction7	cAMP induces dissociation of inactive PKA tetramers	Complex6	Complex7	
+BiochemicalReaction8	PKA catalytic subunit translocates to the nucleus	Protein28	Protein32	
+BiochemicalReaction9	PKA phosphorylates CREB	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction9	PKA phosphorylates CREB	Protein36	SmallMolecule13	
+BiochemicalReaction9	PKA phosphorylates CREB	Protein36	Protein37	
+BiochemicalReaction9	PKA phosphorylates CREB	SmallMolecule12	Protein37	

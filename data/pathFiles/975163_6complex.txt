@@ -1,0 +1,20 @@
+Complex1	TRAF6:p-IRAK2	endosome membrane	Reactome DB_ID: 975108	Protein2	
+Complex1	TRAF6:p-IRAK2	endosome membrane	Reactome DB_ID: 975108	Protein3	
+Complex2	p-IRAK2:oligo-TRAF6	endosome membrane	Reactome DB_ID: 975137	Protein3	
+Complex2	p-IRAK2:oligo-TRAF6	endosome membrane	Reactome DB_ID: 975137	Complex1	
+Complex3	p-IRAK2:K63-linked pUb oligo-TRAF6	endosome membrane	Reactome DB_ID: 975164	Protein19	
+Complex3	p-IRAK2:K63-linked pUb oligo-TRAF6	endosome membrane	Reactome DB_ID: 975164	Protein2	
+Complex4	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein20	
+Complex4	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein21	
+Complex4	TAK1 complex	plasma membrane	Reactome DB_ID: 446878	Protein22	
+Complex5	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	endosome membrane	Reactome DB_ID: 975099	Complex6	
+Complex5	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	endosome membrane	Reactome DB_ID: 975099	Complex3	
+Complex5	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63 pUb:TAK1 complex	endosome membrane	Reactome DB_ID: 975099	PhysicalEntity1	
+Complex6	TAK1 complex	endosome membrane	Reactome DB_ID: 975128	Protein25	
+Complex6	TAK1 complex	endosome membrane	Reactome DB_ID: 975128	Protein28	
+Complex6	TAK1 complex	endosome membrane	Reactome DB_ID: 975128	Protein29	
+Complex7	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	endosome membrane	Reactome DB_ID: 975171	Protein25	
+Complex7	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	endosome membrane	Reactome DB_ID: 975171	Complex3	
+Complex7	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	endosome membrane	Reactome DB_ID: 975171	PhysicalEntity1	
+Complex7	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	endosome membrane	Reactome DB_ID: 975171	Protein29	
+Complex7	p-IRAK2:K63-linked pUb oligo-TRAF6:free K63-linked pUb:p-TAK1complex	endosome membrane	Reactome DB_ID: 975171	Protein30	

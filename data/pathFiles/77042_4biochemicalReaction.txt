@@ -1,0 +1,6 @@
+BiochemicalReaction1	Formation of ADAR1 homodimer	Protein1	Complex1	
+BiochemicalReaction2	Binding of ADAR1 homodimer to dsRNA duplex	PhysicalEntity1	Complex2	
+BiochemicalReaction2	Binding of ADAR1 homodimer to dsRNA duplex	Complex1	Complex2	
+BiochemicalReaction3	Formation of ADAR2  homodimer	Protein2	Complex3	
+BiochemicalReaction4	Binding of ADAR2 homodimer to dsRNA duplex	PhysicalEntity1	Complex4	
+BiochemicalReaction4	Binding of ADAR2 homodimer to dsRNA duplex	Complex3	Complex4	

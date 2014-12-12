@@ -1,0 +1,45 @@
+BiochemicalReaction1	JAKs associate with IL6RB (gp130)	Protein1	Complex1	
+BiochemicalReaction1	JAKs associate with IL6RB (gp130)	Protein2	Complex1	
+BiochemicalReaction10	STATs bind gp130 phosphotyrosines	Complex14	Complex19	
+BiochemicalReaction10	STATs bind gp130 phosphotyrosines	Protein15	Complex19	
+BiochemicalReaction11	Tyrosine phosphorylation of STATs by IL6 receptor	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Tyrosine phosphorylation of STATs by IL6 receptor	Complex19	SmallMolecule2	
+BiochemicalReaction11	Tyrosine phosphorylation of STATs by IL6 receptor	Complex19	Complex20	
+BiochemicalReaction11	Tyrosine phosphorylation of STATs by IL6 receptor	SmallMolecule1	Complex20	
+BiochemicalReaction12	Serine phosphorylation of STATs	Complex20	Complex22	
+BiochemicalReaction12	Serine phosphorylation of STATs	SmallMolecule1	Complex22	
+BiochemicalReaction12	Serine phosphorylation of STATs	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	Serine phosphorylation of STATs	Complex20	SmallMolecule2	
+BiochemicalReaction13	Phosphorylated STATs are released	Complex20	Complex14	
+BiochemicalReaction13	Phosphorylated STATs are released	Complex20	Protein18	
+BiochemicalReaction14	Phosphorylated STAT1, STAT3 form dimers	Protein18	Complex23	
+BiochemicalReaction15	STAT1/3 dimers translocate to the nucleus	Complex23	Complex27	
+BiochemicalReaction16	SHP2 binds gp130 phosphotyrosine-759	Complex14	Complex31	
+BiochemicalReaction16	SHP2 binds gp130 phosphotyrosine-759	Protein27	Complex31	
+BiochemicalReaction17	SHP2 is phosphorylated	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction17	SHP2 is phosphorylated	Complex31	SmallMolecule2	
+BiochemicalReaction17	SHP2 is phosphorylated	Complex31	Complex32	
+BiochemicalReaction17	SHP2 is phosphorylated	SmallMolecule1	Complex32	
+BiochemicalReaction18	SOCS3 binds gp130	Protein21	Complex21	
+BiochemicalReaction18	SOCS3 binds gp130	Complex14	Complex21	
+BiochemicalReaction19	SHP2 binds c-Cbl upon IL-6 stimulation	Protein29	Complex33	
+BiochemicalReaction19	SHP2 binds c-Cbl upon IL-6 stimulation	Complex31	Complex33	
+BiochemicalReaction2	Interleukin-6 binds to soluble IL-6 receptor	Protein6	Complex2	
+BiochemicalReaction2	Interleukin-6 binds to soluble IL-6 receptor	Protein7	Complex2	
+BiochemicalReaction3	IL6:sIL6R binds sgp130	Protein8	Complex3	
+BiochemicalReaction3	IL6:sIL6R binds sgp130	Complex2	Complex3	
+BiochemicalReaction4	Interleukin-6 binds to IL-6 receptor alpha subunit	Protein6	Complex4	
+BiochemicalReaction4	Interleukin-6 binds to IL-6 receptor alpha subunit	Protein9	Complex4	
+BiochemicalReaction5	IL6:sIL6R binds to JAKs:IL6RB (gp130)	Complex2	Complex5	
+BiochemicalReaction5	IL6:sIL6R binds to JAKs:IL6RB (gp130)	Complex1	Complex5	
+BiochemicalReaction6	IL6:IL6RA binds JAKs:IL6RB (gp130)	Complex4	Complex6	
+BiochemicalReaction6	IL6:IL6RA binds JAKs:IL6RB (gp130)	Complex1	Complex6	
+BiochemicalReaction7	Assembly of a hexameric IL-6 receptor	Complex7	Complex8	
+BiochemicalReaction8	JAK activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	JAK activation	Complex8	SmallMolecule2	
+BiochemicalReaction8	JAK activation	Complex8	Complex9	
+BiochemicalReaction8	JAK activation	SmallMolecule1	Complex9	
+BiochemicalReaction9	Phosphorylation of gp130	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of gp130	Complex9	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of gp130	Complex9	Complex14	
+BiochemicalReaction9	Phosphorylation of gp130	SmallMolecule1	Complex14	

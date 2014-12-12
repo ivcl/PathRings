@@ -1,0 +1,164 @@
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex1	SmallMolecule3	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule2	Complex4	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex1	Complex4	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	SmallMolecule2	Complex5	
+BiochemicalReaction1	Phosphorylation of GORASP1, GOLGA2 and RAB1A by CDK1:CCNB	Complex1	Complex5	
+BiochemicalReaction10	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Protein32	Complex20	
+BiochemicalReaction10	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Complex19	Complex20	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	Complex21	SmallMolecule3	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	SmallMolecule2	Complex22	
+BiochemicalReaction11	CDK1:CCNB phosphorylates NEK9	Complex21	Complex22	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	Complex22	SmallMolecule3	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	SmallMolecule2	Complex23	
+BiochemicalReaction12	PLK1 phosphorylates NEK9	Complex22	Complex23	
+BiochemicalReaction13	NEK9 binds NEK6/NEK7 in the cytosol	Protein43	Complex24	
+BiochemicalReaction13	NEK9 binds NEK6/NEK7 in the cytosol	Complex23	Complex24	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	Complex24	SmallMolecule3	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	SmallMolecule2	Complex25	
+BiochemicalReaction14	NEK9 phosphorylates NEK6/NEK7	Complex24	Complex25	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	Complex26	SmallMolecule3	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	SmallMolecule2	Complex29	
+BiochemicalReaction15	CDK1 phosphorylates NUP98	Complex26	Complex29	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	SmallMolecule3	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	Complex30	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	Complex30	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	Protein83	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	Protein83	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	Complex29	Protein86	
+BiochemicalReaction16	NEK6/NEK7 phosphorylates NUP98	SmallMolecule2	Protein86	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	SmallMolecule5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	PhysicalEntity5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	PhysicalEntity5	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	Complex36	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	Complex36	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	Complex31	Complex37	
+BiochemicalReaction17	VRK1/VRK2 phosphorylate BANF1	SmallMolecule4	Complex37	
+BiochemicalReaction18	Kinetochore capture of astral microtubules	Complex38	Complex50	
+BiochemicalReaction18	Kinetochore capture of astral microtubules	PhysicalEntity9	Complex50	
+BiochemicalReaction19	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction19	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex51	SmallMolecule3	
+BiochemicalReaction19	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	Complex51	Complex54	
+BiochemicalReaction19	CDK1 phosphorylates CDCA5 (Sororin) at chromosomal arms	SmallMolecule2	Complex54	
+BiochemicalReaction2	GOLGA2 phosphorylated by CDK1 is unable to promote fusion of ER to Golgi transport vesicles with cis-Golgi	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction20	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex54	SmallMolecule3	
+BiochemicalReaction20	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction20	Phosphorylation of cohesin by PLK1 at chromosomal arms	SmallMolecule2	Complex56	
+BiochemicalReaction20	Phosphorylation of cohesin by PLK1 at chromosomal arms	Complex54	Complex56	
+BiochemicalReaction21	Resolution of sister chromatids	Complex56	Protein203	
+BiochemicalReaction21	Resolution of sister chromatids	Complex56	Complex59	
+BiochemicalReaction21	Resolution of sister chromatids	Complex56	PhysicalEntity7	
+BiochemicalReaction22	Deacetylation of cohesin	Complex59	SmallMolecule7	
+BiochemicalReaction22	Deacetylation of cohesin	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction22	Deacetylation of cohesin	SmallMolecule6	Complex61	
+BiochemicalReaction22	Deacetylation of cohesin	Complex59	Complex61	
+BiochemicalReaction23	Kinetochore assembly	Complex63	Complex67	
+BiochemicalReaction23	Kinetochore assembly	Complex50	Complex67	
+BiochemicalReaction24	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex67	SmallMolecule3	
+BiochemicalReaction24	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction24	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	SmallMolecule2	Complex70	
+BiochemicalReaction24	CDK1 phosphorylates CDCA5 (Sororin) at centromeres	Complex67	Complex70	
+BiochemicalReaction25	Phosphorylation of cohesin by PLK1 at centromeres	Complex70	Complex71	
+BiochemicalReaction25	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule2	Complex71	
+BiochemicalReaction25	Phosphorylation of cohesin by PLK1 at centromeres	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction25	Phosphorylation of cohesin by PLK1 at centromeres	Complex70	SmallMolecule3	
+BiochemicalReaction26	PP2A-B56 dephosphorylates centromeric cohesin	Complex71	Complex73	
+BiochemicalReaction26	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule8	Complex73	
+BiochemicalReaction26	PP2A-B56 dephosphorylates centromeric cohesin	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction26	PP2A-B56 dephosphorylates centromeric cohesin	Complex71	SmallMolecule9	
+BiochemicalReaction27	CK2 phosphorylates condensin I subunits	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction27	CK2 phosphorylates condensin I subunits	Complex75	SmallMolecule3	
+BiochemicalReaction27	CK2 phosphorylates condensin I subunits	Complex75	Complex76	
+BiochemicalReaction27	CK2 phosphorylates condensin I subunits	SmallMolecule2	Complex76	
+BiochemicalReaction28	Dephosphorylation of CK2-modified condensin I	Complex76	SmallMolecule9	
+BiochemicalReaction28	Dephosphorylation of CK2-modified condensin I	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction28	Dephosphorylation of CK2-modified condensin I	SmallMolecule8	Complex75	
+BiochemicalReaction28	Dephosphorylation of CK2-modified condensin I	Complex76	Complex75	
+BiochemicalReaction29	CDK1 phosphorylates condensin I	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction29	CDK1 phosphorylates condensin I	Complex75	SmallMolecule3	
+BiochemicalReaction29	CDK1 phosphorylates condensin I	Complex75	Complex78	
+BiochemicalReaction29	CDK1 phosphorylates condensin I	SmallMolecule2	Complex78	
+BiochemicalReaction3	Recruitment of PLK1 to phosphorylated GORASP1 (GRASP65)	Protein16	Complex10	
+BiochemicalReaction3	Recruitment of PLK1 to phosphorylated GORASP1 (GRASP65)	Complex5	Complex10	
+BiochemicalReaction30	Phosphorylated condensin I promotes condensation of prometaphase chromosomes	PhysicalEntity11	PhysicalEntity12	
+BiochemicalReaction31	Down Regulation of Emi1 through Phosphorylation of Emi1	Protein246	Protein247	
+BiochemicalReaction32	Association of Securin with Cdc20:APC/C complex	Protein249	Complex81	
+BiochemicalReaction32	Association of Securin with Cdc20:APC/C complex	Complex79	Complex81	
+BiochemicalReaction33	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Protein264	Complex82	
+BiochemicalReaction33	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Complex81	Complex82	
+BiochemicalReaction34	Degradation of multiubiquitinated Securin	Complex82	Protein264	
+BiochemicalReaction34	Degradation of multiubiquitinated Securin	Complex82	Complex79	
+BiochemicalReaction35	Securin sequesters Separase	Protein324	Complex84	
+BiochemicalReaction35	Securin sequesters Separase	Protein249	Complex84	
+BiochemicalReaction36	Autocleavage of Separin	Protein324	Complex85	
+BiochemicalReaction37	ESPL1 (Separase) cleaves centromeric cohesin	Complex73	Complex86	
+BiochemicalReaction38	Separation of sister chromatids	Complex86	Complex88	
+BiochemicalReaction38	Separation of sister chromatids	Complex86	Protein203	
+BiochemicalReaction38	Separation of sister chromatids	Complex86	Complex89	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	Protein331	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	Protein331	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	Protein331	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	Protein209	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	Protein209	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	Protein209	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	SmallMolecule7	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	SmallMolecule7	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	Protein212	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	Protein212	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	Protein212	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	Complex91	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	Complex91	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	Complex91	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	Protein332	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	Protein332	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	Protein332	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Protein335	Protein333	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	Complex89	Protein333	
+BiochemicalReaction39	Deacetylation of cleaved cohesin	SmallMolecule6	Protein333	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	Complex10	SmallMolecule3	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	SmallMolecule2	Complex11	
+BiochemicalReaction4	PLK1 phosphorylates GORASP1	Complex10	Complex11	
+BiochemicalReaction40	ANKLE2 binds VRK1 or VRK2	Protein336	Complex92	
+BiochemicalReaction40	ANKLE2 binds VRK1 or VRK2	Protein339	Complex92	
+BiochemicalReaction41	PP2A dephosphorylates BANF1	Complex93	SmallMolecule9	
+BiochemicalReaction41	PP2A dephosphorylates BANF1	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction41	PP2A dephosphorylates BANF1	SmallMolecule8	Complex94	
+BiochemicalReaction41	PP2A dephosphorylates BANF1	Complex93	Complex94	
+BiochemicalReaction42	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	PhysicalEntity5	Complex31	
+BiochemicalReaction42	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Complex96	Complex31	
+BiochemicalReaction42	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Complex94	Complex31	
+BiochemicalReaction42	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Protein93	Complex31	
+BiochemicalReaction43	Regulation of KIF23 (MKLP1) by phosphorylation	Protein346	Protein347	
+BiochemicalReaction44	Regulation of KIF20A (MKL2) by phosphorylation	Protein348	Protein349	
+BiochemicalReaction45	Regulation of NUDC by phosphorylation	Protein350	Protein351	
+BiochemicalReaction46	Cohesin binds PDS5 and WAPAL	Complex99	Complex100	
+BiochemicalReaction46	Cohesin binds PDS5 and WAPAL	Protein357	Complex100	
+BiochemicalReaction46	Cohesin binds PDS5 and WAPAL	Protein358	Complex100	
+BiochemicalReaction47	Cohesin binding to decondensed chromatin is facilitated by NIPBL:MAU2	PhysicalEntity5	Complex102	
+BiochemicalReaction47	Cohesin binding to decondensed chromatin is facilitated by NIPBL:MAU2	Complex101	Complex102	
+BiochemicalReaction47	Cohesin binding to decondensed chromatin is facilitated by NIPBL:MAU2	Complex100	Complex102	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	Complex12	SmallMolecule3	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	SmallMolecule2	Complex14	
+BiochemicalReaction5	MAPK3-3 or MAPK1 phosphorylate GORASP2	Complex12	Complex14	
+BiochemicalReaction6	GORASP1 phosphorylated by PLK1 and GORASP2 phosphorylated by MAPK3-3/MAPK1 are unable to promote Golgi cisternae stacking	PhysicalEntity3	PhysicalEntity4	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	SmallMolecule4	Protein25	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	Protein24	Protein25	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	Protein24	SmallMolecule5	
+BiochemicalReaction7	CDK1 phosphorylates MASTL	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	Protein28	SmallMolecule5	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	SmallMolecule4	Protein29	
+BiochemicalReaction8	MASTL (GWL) phosphorylates ARPP19	Protein28	Protein29	
+BiochemicalReaction9	MASTL phosphorylates ENSA	Protein30	SmallMolecule5	
+BiochemicalReaction9	MASTL phosphorylates ENSA	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction9	MASTL phosphorylates ENSA	SmallMolecule4	Protein31	
+BiochemicalReaction9	MASTL phosphorylates ENSA	Protein30	Protein31	

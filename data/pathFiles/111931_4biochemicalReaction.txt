@@ -1,0 +1,12 @@
+BiochemicalReaction1	Adenylate cyclase produces cAMP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Adenylate cyclase produces cAMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	cAMP induces dissociation of inactive PKA tetramers	Complex3	Protein17	
+BiochemicalReaction2	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule2	Protein17	
+BiochemicalReaction2	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule2	Complex4	
+BiochemicalReaction2	cAMP induces dissociation of inactive PKA tetramers	Complex3	Complex4	
+BiochemicalReaction3	PKA catalytic subunit translocates to the nucleus	Protein17	Protein21	
+BiochemicalReaction4	PKA phosphorylates CREB	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction4	PKA phosphorylates CREB	Protein25	SmallMolecule7	
+BiochemicalReaction4	PKA phosphorylates CREB	Protein25	Protein26	
+BiochemicalReaction4	PKA phosphorylates CREB	SmallMolecule6	Protein26	
+BiochemicalReaction5	Dimerisation of CREB	Protein26	Complex5	

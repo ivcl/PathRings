@@ -1,0 +1,36 @@
+BiochemicalReaction1	alpha-D-glucose 6-phosphate <=> D-fructose 6-phosphate	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction10	2-Phospho-D-glycerate <=> Phosphoenolpyruvate + H2O	SmallMolecule19	SmallMolecule3	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule6	SmallMolecule21	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule20	SmallMolecule5	
+BiochemicalReaction11	phosphoenolpyruvate + ADP => pyruvate + ATP	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex2	SmallMolecule4	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	SmallMolecule3	Complex3	
+BiochemicalReaction2	Dephosphorylation of phosphoPFKFB1 by PP2A complex	Complex2	Complex3	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule7	
+BiochemicalReaction3	D-fructose 6-phosphate + ATP => D-fructose 2,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule6	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule2	SmallMolecule8	
+BiochemicalReaction4	D-fructose 6-phosphate + ATP => D-fructose 1,6-bisphosphate + ADP	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction5	D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction5	D-fructose 1,6-bisphosphate <=> dihydroxyacetone phosphate + D-glyceraldehyde 3-phosphate	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction6	dihydroxyacetone phosphate <=> D-glyceraldehyde 3-phosphate	SmallMolecule12	SmallMolecule11	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule4	SmallMolecule14	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule13	SmallMolecule15	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule11	SmallMolecule15	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule4	SmallMolecule15	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule13	SmallMolecule16	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule11	SmallMolecule16	
+BiochemicalReaction7	D-glyceraldehyde 3-phosphate + orthophosphate + NAD+ <=> 1,3-bisphospho-D-glycerate + NADH + H+	SmallMolecule4	SmallMolecule16	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule6	SmallMolecule17	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule15	SmallMolecule17	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule15	SmallMolecule5	
+BiochemicalReaction8	1,3-bisphospho-D-glycerate + ADP <=> 3-phospho-D-glycerate + ADP	SmallMolecule6	SmallMolecule5	
+BiochemicalReaction9	3-Phospho-D-glycerate <=> 2-Phospho-D-glycerate	SmallMolecule17	SmallMolecule19	

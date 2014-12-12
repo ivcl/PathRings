@@ -1,0 +1,99 @@
+BiochemicalReaction1	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL1	Protein1	NA	
+BiochemicalReaction1	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL1	Complex1	NA	
+BiochemicalReaction10	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1	Protein14	Complex12	
+BiochemicalReaction10	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1	Complex11	Complex12	
+BiochemicalReaction11	Complex of NOTCH1 with its ligand is cleaved to produce NEXT1	Complex12	Complex13	
+BiochemicalReaction11	Complex of NOTCH1 with its ligand is cleaved to produce NEXT1	Complex12	Protein7	
+BiochemicalReaction12	NEXT1 is cleaved to produce NICD1	Protein7	Protein35	
+BiochemicalReaction12	NEXT1 is cleaved to produce NICD1	Protein7	Protein36	
+BiochemicalReaction13	NICD1 traffics to nucleus	Protein35	Protein43	
+BiochemicalReaction14	DTX binds NOTCH1	Complex5	Complex18	
+BiochemicalReaction14	DTX binds NOTCH1	Protein44	Complex18	
+BiochemicalReaction15	Contactin-1 (CNTN1) binds NOTCH1	Complex18	Complex19	
+BiochemicalReaction15	Contactin-1 (CNTN1) binds NOTCH1	Protein48	Complex19	
+BiochemicalReaction16	Cleavage of CNTN1:NOTCH1 complex releases NICD1	Complex19	Complex20	
+BiochemicalReaction17	NOTCH1 binds DNER	Protein49	Complex21	
+BiochemicalReaction17	NOTCH1 binds DNER	Complex18	Complex21	
+BiochemicalReaction18	Cleavage of DNER:NOTCH1 complex releases NICD1	Complex21	Complex20	
+BiochemicalReaction19	DTX recruits beta-arrestin (ARRB) to NOTCH	Protein50	Complex22	
+BiochemicalReaction19	DTX recruits beta-arrestin (ARRB) to NOTCH	Complex18	Complex22	
+BiochemicalReaction2	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL4	Protein4	NA	
+BiochemicalReaction2	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind DLL4	Complex1	NA	
+BiochemicalReaction20	ARRB mediates NOTCH1 ubiquitination	Protein14	Complex23	
+BiochemicalReaction20	ARRB mediates NOTCH1 ubiquitination	Complex22	Complex23	
+BiochemicalReaction21	ITCH binds DTX	Protein44	Complex24	
+BiochemicalReaction21	ITCH binds DTX	Protein53	Complex24	
+BiochemicalReaction22	ITCH ubiquitinates DTX	Protein14	Complex25	
+BiochemicalReaction22	ITCH ubiquitinates DTX	Complex24	Complex25	
+BiochemicalReaction23	NOTCH1 binds DLL/JAG ligand in cis	Protein34	Complex26	
+BiochemicalReaction23	NOTCH1 binds DLL/JAG ligand in cis	Complex5	Complex26	
+BiochemicalReaction24	NOTCH1 binds DLK1	Complex5	Complex27	
+BiochemicalReaction24	NOTCH1 binds DLK1	Protein54	Complex27	
+BiochemicalReaction25	NOTCH1 associates with negative regulators NUMB and ITCH	Complex5	Complex28	
+BiochemicalReaction25	NOTCH1 associates with negative regulators NUMB and ITCH	Protein55	Complex28	
+BiochemicalReaction25	NOTCH1 associates with negative regulators NUMB and ITCH	Protein53	Complex28	
+BiochemicalReaction26	Ubiquitination of NOTCH1 by ITCH in the absence of ligand	Protein14	Complex29	
+BiochemicalReaction26	Ubiquitination of NOTCH1 by ITCH in the absence of ligand	Complex28	Complex29	
+BiochemicalReaction27	NICD1 displaces co-repressor complex from RBPJ (CSL)	Protein43	Complex32	
+BiochemicalReaction27	NICD1 displaces co-repressor complex from RBPJ (CSL)	Complex31	Complex32	
+BiochemicalReaction27	NICD1 displaces co-repressor complex from RBPJ (CSL)	Complex31	Complex33	
+BiochemicalReaction27	NICD1 displaces co-repressor complex from RBPJ (CSL)	Protein43	Complex33	
+BiochemicalReaction28	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein77	Complex34	
+BiochemicalReaction28	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein78	Complex34	
+BiochemicalReaction28	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein83	Complex34	
+BiochemicalReaction28	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein84	Complex34	
+BiochemicalReaction28	NICD1 in complex with RBPJ (CSL) recruits MAML	Complex32	Complex34	
+BiochemicalReaction29	NOTCH1 Coactivator Complex binds HES1 promoter	Dna1	Complex35	
+BiochemicalReaction29	NOTCH1 Coactivator Complex binds HES1 promoter	Complex34	Complex35	
+BiochemicalReaction3	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG1	Protein5	NA	
+BiochemicalReaction3	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG1	Complex1	NA	
+BiochemicalReaction30	NOTCH1 stimulates HES1 transcription	Dna1	Protein87	
+BiochemicalReaction31	HES1 binds TLE	Protein88	Complex36	
+BiochemicalReaction31	HES1 binds TLE	Protein87	Complex36	
+BiochemicalReaction32	NOTCH1 Coactivator Complex binds MYC promoter	Complex34	Complex37	
+BiochemicalReaction32	NOTCH1 Coactivator Complex binds MYC promoter	Dna2	Complex37	
+BiochemicalReaction33	NOTCH1 stimulates MYC transcription	Dna2	Protein93	
+BiochemicalReaction34	NOTCH1 Coactivator Complex binds HES5 promoter	Dna3	Complex38	
+BiochemicalReaction34	NOTCH1 Coactivator Complex binds HES5 promoter	Complex34	Complex38	
+BiochemicalReaction35	NOTCH1 stimulates HES5 transcription	Dna3	Protein94	
+BiochemicalReaction36	NOTCH1 Coactivator Complex binds promoters of HEY genes	Dna4	Complex39	
+BiochemicalReaction36	NOTCH1 Coactivator Complex binds promoters of HEY genes	Complex34	Complex39	
+BiochemicalReaction37	NOTCH1 stimulates HEY transcription	Dna4	Protein95	
+BiochemicalReaction38	MAML in complex with NICD1 recruits CDK8	Complex34	Complex41	
+BiochemicalReaction38	MAML in complex with NICD1 recruits CDK8	Complex40	Complex41	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Protein77	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein77	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein78	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Protein78	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	SmallMolecule3	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein83	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Protein83	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Complex42	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Complex42	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein84	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Protein84	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein101	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Protein101	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	SmallMolecule2	Complex40	
+BiochemicalReaction39	NICD1 is phosphorylated by CDK8	Complex41	Complex40	
+BiochemicalReaction4	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG2	Complex1	NA	
+BiochemicalReaction4	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) does not bind JAG2	Protein6	NA	
+BiochemicalReaction40	Phosphorylated NICD1 binds FBXW7	Protein101	Complex44	
+BiochemicalReaction40	Phosphorylated NICD1 binds FBXW7	Complex43	Complex44	
+BiochemicalReaction41	Ubiquitination of NICD1 by FBWX7	Complex44	Complex45	
+BiochemicalReaction41	Ubiquitination of NICD1 by FBWX7	Protein108	Complex45	
+BiochemicalReaction41	Ubiquitination of NICD1 by FBWX7	Protein108	Complex43	
+BiochemicalReaction41	Ubiquitination of NICD1 by FBWX7	Complex44	Complex43	
+BiochemicalReaction42	NICD1 binds HIF1A	Protein43	Complex46	
+BiochemicalReaction42	NICD1 binds HIF1A	Protein123	Complex46	
+BiochemicalReaction5	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) is cleaved to produce NEXT1	Complex1	Protein7	
+BiochemicalReaction5	NOTCH1 t(7;9)(NOTCH1:M1580_K2555) is cleaved to produce NEXT1	Complex1	Complex2	
+BiochemicalReaction6	NOTCH1 binds DLL1	Protein1	Complex7	
+BiochemicalReaction6	NOTCH1 binds DLL1	Complex4	Complex7	
+BiochemicalReaction7	NOTCH1 binds DLL4	Complex4	Complex8	
+BiochemicalReaction7	NOTCH1 binds DLL4	Protein4	Complex8	
+BiochemicalReaction8	NOTCH1 binds JAG1	Complex5	Complex9	
+BiochemicalReaction8	NOTCH1 binds JAG1	Protein5	Complex9	
+BiochemicalReaction9	NOTCH1 binds JAG2	Complex5	Complex10	
+BiochemicalReaction9	NOTCH1 binds JAG2	Protein6	Complex10	

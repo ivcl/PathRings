@@ -1,0 +1,20 @@
+Complex1	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule1	
+Complex1	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule2	
+Complex1	LDL	extracellular region	Reactome DB_ID: 171131	Protein1	
+Complex1	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule3	
+Complex1	LDL	extracellular region	Reactome DB_ID: 171131	SmallMolecule4	
+Complex2	LDL:LRP8	plasma membrane	Reactome DB_ID: 432119	Complex1	
+Complex2	LDL:LRP8	plasma membrane	Reactome DB_ID: 432119	Protein2	
+Complex3	LDL:p-LRP8:FGR	plasma membrane	Reactome DB_ID: 432132	Protein3	
+Complex3	LDL:p-LRP8:FGR	plasma membrane	Reactome DB_ID: 432132	Complex4	
+Complex4	LDL:p-LRP8	plasma membrane	Reactome DB_ID: 432133	Complex1	
+Complex4	LDL:p-LRP8	plasma membrane	Reactome DB_ID: 432133	Protein4	
+Complex5	PP2A	cytosol	Reactome DB_ID: 196206	Protein10	
+Complex5	PP2A	cytosol	Reactome DB_ID: 196206	Protein13	
+Complex5	PP2A	cytosol	Reactome DB_ID: 196206	Protein16	
+Complex6	p-PECAM:PP2A	plasma membrane	Reactome DB_ID: 432144	Protein9	
+Complex6	p-PECAM:PP2A	plasma membrane	Reactome DB_ID: 432144	Complex5	
+Complex7	PECAM-1:SHP-1 complex	plasma membrane	Reactome DB_ID: 210221	Protein9	
+Complex7	PECAM-1:SHP-1 complex	plasma membrane	Reactome DB_ID: 210221	Protein22	
+Complex8	PECAM-1:SHP-2 complex	plasma membrane	Reactome DB_ID: 210219	Protein9	
+Complex8	PECAM-1:SHP-2 complex	plasma membrane	Reactome DB_ID: 210219	Protein23	

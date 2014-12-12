@@ -1,0 +1,21 @@
+BiochemicalReaction1	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Complex1	Complex12	
+BiochemicalReaction1	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Protein4	Complex12	
+BiochemicalReaction1	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Complex2	Complex12	
+BiochemicalReaction2	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	Complex12	SmallMolecule4	
+BiochemicalReaction2	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	SmallMolecule3	Complex13	
+BiochemicalReaction2	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	Complex12	Complex13	
+BiochemicalReaction3	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein103	Complex15	
+BiochemicalReaction3	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Complex13	Complex15	
+BiochemicalReaction3	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein104	Complex15	
+BiochemicalReaction3	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Complex14	Complex15	
+BiochemicalReaction3	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein108	Complex15	
+BiochemicalReaction4	SMG6 Cleaves mRNA with Premature Termination Codon	Complex15	Complex16	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Protein103	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Protein104	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Complex4	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Protein7	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Protein4	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Protein8	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Complex14	
+BiochemicalReaction5	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex16	Protein108	

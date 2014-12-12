@@ -1,0 +1,20 @@
+Complex1	RNA primer-DNA primer:origin duplex	nucleoplasm	Reactome DB_ID: 68425	Complex2	
+Complex1	RNA primer-DNA primer:origin duplex	nucleoplasm	Reactome DB_ID: 68425	PhysicalEntity3	
+Complex2	RNA primer:origin duplex:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 68423	PhysicalEntity1	
+Complex2	RNA primer:origin duplex:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 68423	PhysicalEntity2	
+Complex2	RNA primer:origin duplex:DNA polymerase alpha:primase complex	nucleoplasm	Reactome DB_ID: 68423	Complex3	
+Complex3	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein1	
+Complex3	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein2	
+Complex3	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein3	
+Complex3	primosome	nucleoplasm	Reactome DB_ID: 68507	Protein4	
+Complex4	RNA primer-DNA primer:origin duplex with DNA damage	nucleoplasm	Reactome DB_ID: 113656	PhysicalEntity3	
+Complex4	RNA primer-DNA primer:origin duplex with DNA damage	nucleoplasm	Reactome DB_ID: 113656	PhysicalEntity4	
+Complex5	Rb1:RNA primer-DNA primer:origin duplex with DNA damage	nucleoplasm	Reactome DB_ID: 113646	Complex4	
+Complex5	Rb1:RNA primer-DNA primer:origin duplex with DNA damage	nucleoplasm	Reactome DB_ID: 113646	Protein6	
+Complex6	PP2A	nucleoplasm	Reactome DB_ID: 1362456	Protein7	
+Complex6	PP2A	nucleoplasm	Reactome DB_ID: 1362456	Protein10	
+Complex6	PP2A	nucleoplasm	Reactome DB_ID: 1362456	Protein11	
+Complex7	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein14	
+Complex7	E2F1:TFDP1	nucleoplasm	Reactome DB_ID: 68653	Protein15	
+Complex8	Aborted replication complex	nucleoplasm	Reactome DB_ID: 113648	Complex5	
+Complex8	Aborted replication complex	nucleoplasm	Reactome DB_ID: 113648	Complex7	

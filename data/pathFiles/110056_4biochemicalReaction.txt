@@ -1,0 +1,14 @@
+BiochemicalReaction1	Inactivation of MEK1 by p34cdc2	Protein1	SmallMolecule2	
+BiochemicalReaction1	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein4	
+BiochemicalReaction1	Inactivation of MEK1 by p34cdc2	Protein1	Protein4	
+BiochemicalReaction2	MEK1 binds ERK-1	Protein3	Complex1	
+BiochemicalReaction2	MEK1 binds ERK-1	Protein8	Complex1	
+BiochemicalReaction3	MEK1 phosphorylates ERK-1	Complex1	Complex2	
+BiochemicalReaction3	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex2	
+BiochemicalReaction3	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	MEK1 phosphorylates ERK-1	Complex1	SmallMolecule2	
+BiochemicalReaction4	Dissociation of phospho-ERK-1:MEK1	Complex2	Protein3	
+BiochemicalReaction4	Dissociation of phospho-ERK-1:MEK1	Complex2	Protein9	
+BiochemicalReaction5	Dimerisation of phospho-ERK-1	Protein9	Complex3	
+BiochemicalReaction6	Nuclear translocation of phospho-ERK-1 dimer	Complex3	Complex4	

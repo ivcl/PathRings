@@ -1,0 +1,6 @@
+Complex1	Connexin 26 Connexon	endoplasmic reticulum-Golgi intermediate compartment	Reactome DB_ID: 190641	Protein1	
+Complex2	Connexon 26	plasma membrane	Reactome DB_ID: 112301	Protein2	
+Complex3	Connexin 43 connexon	Golgi membrane	Reactome DB_ID: 190652	Protein3	
+Complex4	Connexin 43 connexon in Golgi transport vesicle	Golgi-associated vesicle membrane	Reactome DB_ID: 190583	Protein4	
+Complex5	connexons in Golgi transport vesicle docked to microtubules	cytosol	Reactome DB_ID: 190556	PhysicalEntity1	
+Complex5	connexons in Golgi transport vesicle docked to microtubules	cytosol	Reactome DB_ID: 190556	Complex4	

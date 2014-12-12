@@ -1,0 +1,22 @@
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:ErbB2	Complex2	SmallMolecule2	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:ErbB2	Complex2	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:ErbB2	SmallMolecule1	Complex3	
+BiochemicalReaction1	SEMA4D interacts with Plexin-B1:ErbB2	Complex1	Complex3	
+BiochemicalReaction2	LARG and PDZ-RhoGEF binds to Plexin-B1	Complex5	Complex7	
+BiochemicalReaction2	LARG and PDZ-RhoGEF binds to Plexin-B1	Protein12	Complex7	
+BiochemicalReaction3	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	Complex9	
+BiochemicalReaction3	Activation of Rho by LARG and PDZ-RhoGEF	Complex8	Complex9	
+BiochemicalReaction3	Activation of Rho by LARG and PDZ-RhoGEF	Complex8	SmallMolecule6	
+BiochemicalReaction3	Activation of Rho by LARG and PDZ-RhoGEF	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction4	ROCK activation by Rho	Protein19	Complex10	
+BiochemicalReaction4	ROCK activation by Rho	Complex9	Complex10	
+BiochemicalReaction5	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	Complex12	
+BiochemicalReaction5	Myosin regulatory light chain phosphorylation by ROCK	Complex11	Complex12	
+BiochemicalReaction5	Myosin regulatory light chain phosphorylation by ROCK	Complex11	SmallMolecule2	
+BiochemicalReaction5	Myosin regulatory light chain phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	LIM kinase phosphorylation by ROCK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	LIM kinase phosphorylation by ROCK	Protein34	SmallMolecule2	
+BiochemicalReaction6	LIM kinase phosphorylation by ROCK	Protein34	Protein37	
+BiochemicalReaction6	LIM kinase phosphorylation by ROCK	SmallMolecule1	Protein37	

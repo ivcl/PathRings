@@ -1,0 +1,18 @@
+BiochemicalReaction1	Interaction of Csk with PAG	Protein1	Complex1	
+BiochemicalReaction1	Interaction of Csk with PAG	Protein2	Complex1	
+BiochemicalReaction2	Inactivation of Lck by Csk	Complex2	SmallMolecule2	
+BiochemicalReaction2	Inactivation of Lck by Csk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Inactivation of Lck by Csk	SmallMolecule1	Complex9	
+BiochemicalReaction2	Inactivation of Lck by Csk	Complex2	Complex9	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	Complex9	SmallMolecule4	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	SmallMolecule3	Complex2	
+BiochemicalReaction3	Dephosphorylation of Lck-pY505 by CD45	Complex9	Complex2	
+BiochemicalReaction4	Activation of Lck	Complex2	SmallMolecule2	
+BiochemicalReaction4	Activation of Lck	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Activation of Lck	SmallMolecule1	Complex10	
+BiochemicalReaction4	Activation of Lck	Complex2	Complex10	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	Complex10	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	SmallMolecule1	Complex11	
+BiochemicalReaction5	Phosphorylation of ITAM motifs in CD3 complexes	Complex10	Complex11	

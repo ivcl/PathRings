@@ -1,0 +1,12 @@
+Complex1	S100B homodimer	extracellular region	Reactome DB_ID: 879449	Protein4	
+Complex2	F-actin capping protein fragment TRTK12:S100B homodimer	extracellular region	Reactome DB_ID: 879368	Protein1	
+Complex2	F-actin capping protein fragment TRTK12:S100B homodimer	extracellular region	Reactome DB_ID: 879368	Complex1	
+Complex3	AGE adducts:Peptide	extracellular region	Reactome DB_ID: 879479	SmallMolecule1	
+Complex3	AGE adducts:Peptide	extracellular region	Reactome DB_ID: 879479	SmallMolecule2	
+Complex4	S100A12 dimer	extracellular region	Reactome DB_ID: 879439	Protein6	
+Complex5	AGER ligands:AGER	plasma membrane	Reactome DB_ID: 879365	Protein5	
+Complex5	AGER ligands:AGER	plasma membrane	Reactome DB_ID: 879365	PhysicalEntity1	
+Complex6	AGER ligands:AGER:ERK	plasma membrane	Reactome DB_ID: 879427	Complex5	
+Complex6	AGER ligands:AGER:ERK	plasma membrane	Reactome DB_ID: 879427	Protein11	
+Complex7	AGE adducts:Peptide:AGER-1,2,3	plasma membrane	Reactome DB_ID: 879489	Protein14	
+Complex7	AGE adducts:Peptide:AGER-1,2,3	plasma membrane	Reactome DB_ID: 879489	Complex3	

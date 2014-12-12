@@ -1,0 +1,38 @@
+BiochemicalReaction1	Formation of Cyclin A:Cdk2 complexes	Protein1	Complex1	
+BiochemicalReaction1	Formation of Cyclin A:Cdk2 complexes	Protein4	Complex1	
+BiochemicalReaction10	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	Complex2	SmallMolecule2	
+BiochemicalReaction10	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	SmallMolecule1	Complex11	
+BiochemicalReaction10	Phosphorylation of Cyclin A:Cdk2 at Tyr 15	Complex2	Complex11	
+BiochemicalReaction11	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	Complex11	Complex2	
+BiochemicalReaction11	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	SmallMolecule3	Complex2	
+BiochemicalReaction11	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction11	Cdc25A mediated dephosphorylation of Cyclin A:phospho-Cdk2	Complex11	SmallMolecule4	
+BiochemicalReaction12	CAK-mediated phosphorylation of Cyclin A:Cdk2	Complex2	Complex13	
+BiochemicalReaction12	CAK-mediated phosphorylation of Cyclin A:Cdk2	SmallMolecule1	Complex13	
+BiochemicalReaction12	CAK-mediated phosphorylation of Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	CAK-mediated phosphorylation of Cyclin A:Cdk2	Complex2	SmallMolecule2	
+BiochemicalReaction13	Cyclin A:Cdk2 mediated phosphorylation of p27/p21	Complex15	Complex16	
+BiochemicalReaction14	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Complex2	Complex15	
+BiochemicalReaction14	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Protein16	Complex15	
+BiochemicalReaction15	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	Complex17	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	SmallMolecule1	Complex18	
+BiochemicalReaction15	Phosphorylation of proteins involved in the G1/S transition by Cyclin A:Cdk2	Complex17	Complex18	
+BiochemicalReaction2	Translocation of Cyclin A:Cdk2 complexes to the nucleus	Complex1	Complex2	
+BiochemicalReaction3	Translocation of p21 to the nucleus	Protein9	Protein10	
+BiochemicalReaction4	Translocation of p27 to the nucleoplasm	Protein11	Protein12	
+BiochemicalReaction5	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex3	SmallMolecule2	
+BiochemicalReaction5	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	SmallMolecule1	Complex5	
+BiochemicalReaction5	Cyclin E/A:Cdk2-mediated  phosphorylation of p27/p21	Complex3	Complex5	
+BiochemicalReaction6	Association of Cks1 with SCF(Skp2) complex	Protein20	Complex7	
+BiochemicalReaction6	Association of Cks1 with SCF(Skp2) complex	Complex6	Complex7	
+BiochemicalReaction7	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex7	Complex8	
+BiochemicalReaction7	Binding of phospho-p27/p21:Cdk2:Cyclin E/A to the SCF(Skp2):Cks1 complex	Complex5	Complex8	
+BiochemicalReaction8	Ubiquitination of phospho-p27/p21	Complex8	Complex9	
+BiochemicalReaction8	Ubiquitination of phospho-p27/p21	Protein24	Complex9	
+BiochemicalReaction9	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex9	Complex7	
+BiochemicalReaction9	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex9	Complex4	
+BiochemicalReaction9	Degradation of ubiquitinated p27/p21 by the 26S proteasome	Complex9	Protein24	
+TemplateReaction1	Activation of Cdc25A by c-myc	NA	Protein82	

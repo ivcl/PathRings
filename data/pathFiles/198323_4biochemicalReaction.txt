@@ -1,0 +1,32 @@
+BiochemicalReaction1	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates BAD	Protein1	SmallMolecule2	
+BiochemicalReaction1	AKT phosphorylates BAD	Protein1	Protein2	
+BiochemicalReaction1	AKT phosphorylates BAD	SmallMolecule1	Protein2	
+BiochemicalReaction2	AKT phosphorylates GSK3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	AKT phosphorylates GSK3	Protein7	SmallMolecule2	
+BiochemicalReaction2	AKT phosphorylates GSK3	Protein7	Protein10	
+BiochemicalReaction2	AKT phosphorylates GSK3	SmallMolecule1	Protein10	
+BiochemicalReaction3	AKT phosphorylates caspase-9	Protein13	SmallMolecule2	
+BiochemicalReaction3	AKT phosphorylates caspase-9	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	AKT phosphorylates caspase-9	SmallMolecule1	Protein14	
+BiochemicalReaction3	AKT phosphorylates caspase-9	Protein13	Protein14	
+BiochemicalReaction4	AKT phosphorylates MDM2	SmallMolecule1	Protein16	
+BiochemicalReaction4	AKT phosphorylates MDM2	Protein15	Protein16	
+BiochemicalReaction4	AKT phosphorylates MDM2	Protein15	SmallMolecule2	
+BiochemicalReaction4	AKT phosphorylates MDM2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	AKT phosphorylates IKKalpha	Protein17	SmallMolecule2	
+BiochemicalReaction5	AKT phosphorylates IKKalpha	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	AKT phosphorylates IKKalpha	SmallMolecule1	Protein18	
+BiochemicalReaction5	AKT phosphorylates IKKalpha	Protein17	Protein18	
+BiochemicalReaction6	AKT phosphorylates p21Cip1 and p27Kip1	Protein19	Protein22	
+BiochemicalReaction6	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	Protein22	
+BiochemicalReaction6	AKT phosphorylates p21Cip1 and p27Kip1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	AKT phosphorylates p21Cip1 and p27Kip1	Protein19	SmallMolecule2	
+BiochemicalReaction7	AKT phosphorylates TSC2, inhibiting it	Protein25	SmallMolecule2	
+BiochemicalReaction7	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	AKT phosphorylates TSC2, inhibiting it	SmallMolecule1	Protein26	
+BiochemicalReaction7	AKT phosphorylates TSC2, inhibiting it	Protein25	Protein26	
+BiochemicalReaction8	AKT phosphorylates AKT1S1 (PRAS40)	Protein27	Protein28	
+BiochemicalReaction8	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	Protein28	
+BiochemicalReaction8	AKT phosphorylates AKT1S1 (PRAS40)	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	AKT phosphorylates AKT1S1 (PRAS40)	Protein27	SmallMolecule2	

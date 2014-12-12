@@ -1,0 +1,34 @@
+BiochemicalReaction1	Activated ERK1/2 threonine-phosphorylate FRS2alpha.	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	Activated ERK1/2 threonine-phosphorylate FRS2alpha.	Complex1	SmallMolecule3	
+BiochemicalReaction1	Activated ERK1/2 threonine-phosphorylate FRS2alpha.	Complex1	Complex20	
+BiochemicalReaction1	Activated ERK1/2 threonine-phosphorylate FRS2alpha.	SmallMolecule1	Complex20	
+BiochemicalReaction10	CBL dissociates from ubiquitinated p-SPRY2	Complex37	Protein69	
+BiochemicalReaction10	CBL dissociates from ubiquitinated p-SPRY2	Complex37	Complex38	
+BiochemicalReaction11	SPRY2 is phosphorylated by phosphorylated MNK1	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction11	SPRY2 is phosphorylated by phosphorylated MNK1	Complex32	SmallMolecule3	
+BiochemicalReaction11	SPRY2 is phosphorylated by phosphorylated MNK1	Complex32	Complex34	
+BiochemicalReaction11	SPRY2 is phosphorylated by phosphorylated MNK1	SmallMolecule1	Complex34	
+BiochemicalReaction12	SPRY2 is serine phosphorylated in response to MAPK activation	Complex39	Complex40	
+BiochemicalReaction13	B-RAF dissociates from S111/S120 p-SPRY2	Complex40	Protein72	
+BiochemicalReaction13	B-RAF dissociates from S111/S120 p-SPRY2	Complex40	Protein73	
+BiochemicalReaction14	SHP2 dephosphorylates SPRY2	Complex35	Protein43	
+BiochemicalReaction14	SHP2 dephosphorylates SPRY2	Complex35	Complex33	
+BiochemicalReaction2	p-CBL:GRB2 binds p-FRS2alpha:activated FGFR	Complex24	Complex27	
+BiochemicalReaction2	p-CBL:GRB2 binds p-FRS2alpha:activated FGFR	Complex26	Complex27	
+BiochemicalReaction3	CBL ubiquitinates FRS2 and FGFR	Protein44	Complex28	
+BiochemicalReaction3	CBL ubiquitinates FRS2 and FGFR	Complex27	Complex28	
+BiochemicalReaction4	PPA2A dephosphorylates SPRY2	Complex29	SmallMolecule4	
+BiochemicalReaction4	PPA2A dephosphorylates SPRY2	Complex29	Complex31	
+BiochemicalReaction5	SPRY2 translocates to the plasma membrane	Complex31	Complex32	
+BiochemicalReaction6	SRC phosphorylates SPRY2 on Y55 and Y227	Complex32	SmallMolecule3	
+BiochemicalReaction6	SRC phosphorylates SPRY2 on Y55 and Y227	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction6	SRC phosphorylates SPRY2 on Y55 and Y227	SmallMolecule1	Complex33	
+BiochemicalReaction6	SRC phosphorylates SPRY2 on Y55 and Y227	Complex32	Complex33	
+BiochemicalReaction7	SPRY2 binds GRB2	Protein43	Complex35	
+BiochemicalReaction7	SPRY2 binds GRB2	Complex33	Complex35	
+BiochemicalReaction8	SPRY2 binds CBL	Protein69	Complex36	
+BiochemicalReaction8	SPRY2 binds CBL	Complex33	Complex36	
+BiochemicalReaction8	SPRY2 binds CBL	Complex33	Complex30	
+BiochemicalReaction8	SPRY2 binds CBL	Protein69	Complex30	
+BiochemicalReaction9	Phosphorylated SPRY2 is ubiquitinated by CBL	Protein44	Complex37	
+BiochemicalReaction9	Phosphorylated SPRY2 is ubiquitinated by CBL	Complex36	Complex37	

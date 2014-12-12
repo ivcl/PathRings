@@ -1,0 +1,135 @@
+BiochemicalReaction1	HIV Promoter Opening: First Transition	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	HIV Promoter Opening: First Transition	Complex1	SmallMolecule2	
+BiochemicalReaction1	HIV Promoter Opening: First Transition	Complex1	SmallMolecule3	
+BiochemicalReaction1	HIV Promoter Opening: First Transition	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	HIV Promoter Opening: First Transition	Complex1	Complex15	
+BiochemicalReaction1	HIV Promoter Opening: First Transition	SmallMolecule1	Complex15	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule4	Complex8	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex21	Complex8	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex21	SmallMolecule8	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex21	Complex11	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule4	Complex11	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex21	Complex14	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule4	Complex14	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	Complex21	Complex23	
+BiochemicalReaction10	Addition of nucleotides 5 through 9 on the growing HIV-1 transcript	SmallMolecule4	Complex23	
+BiochemicalReaction11	Abortive HIV-1 Initiation After Second Transition	Complex24	Complex3	
+BiochemicalReaction11	Abortive HIV-1 Initiation After Second Transition	Complex24	Complex12	
+BiochemicalReaction11	Abortive HIV-1 Initiation After Second Transition	Complex24	Complex14	
+BiochemicalReaction11	Abortive HIV-1 Initiation After Second Transition	Complex24	PhysicalEntity11	
+BiochemicalReaction12	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction12	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	Complex23	SmallMolecule8	
+BiochemicalReaction12	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	Complex23	Complex25	
+BiochemicalReaction12	Addition of nucleotides 10 and 11 on the growing HIV-1 transcript: Third Transition	SmallMolecule4	Complex25	
+BiochemicalReaction13	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction13	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	Complex25	SmallMolecule8	
+BiochemicalReaction13	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	Complex25	Complex26	
+BiochemicalReaction13	Addition of nucleotides between position +11 and +30 on HIV-1 transcript	SmallMolecule4	Complex26	
+BiochemicalReaction14	Extrusion of 5'-end of 30 nt long HIV-1 transcript through the pore in Pol II complex	Complex26	Complex27	
+BiochemicalReaction15	Phosphorylation (Ser5) of RNA pol II CTD	Complex27	Complex28	
+BiochemicalReaction16	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex28	Complex31	
+BiochemicalReaction16	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein42	Complex31	
+BiochemicalReaction17	Activation of GT	Complex31	Complex32	
+BiochemicalReaction18	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein43	Complex33	
+BiochemicalReaction18	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein44	Complex33	
+BiochemicalReaction18	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex32	Complex33	
+BiochemicalReaction19	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex12	Complex37	
+BiochemicalReaction19	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex34	Complex37	
+BiochemicalReaction19	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein47	Complex37	
+BiochemicalReaction19	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein47	Complex12	
+BiochemicalReaction19	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex34	Complex12	
+BiochemicalReaction19	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex12	Complex12	
+BiochemicalReaction2	Fall Back to Closed Pre-initiation Complex	Complex15	Complex1	
+BiochemicalReaction20	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex37	Complex40	
+BiochemicalReaction20	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex39	Complex40	
+BiochemicalReaction21	Formation of DSIF:NELF:HIV-1 early elongation complex	SmallMolecule4	SmallMolecule4	
+BiochemicalReaction21	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex40	SmallMolecule4	
+BiochemicalReaction21	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex41	SmallMolecule4	
+BiochemicalReaction21	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex41	Complex42	
+BiochemicalReaction21	Formation of DSIF:NELF:HIV-1 early elongation complex	Complex40	Complex42	
+BiochemicalReaction21	Formation of DSIF:NELF:HIV-1 early elongation complex	SmallMolecule4	Complex42	
+BiochemicalReaction22	Abortive termination of HIV-1 early transcription elongation by DSIF:NELF	Complex42	Complex43	
+BiochemicalReaction23	Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex	Complex35	Complex34	
+BiochemicalReaction23	Recognition and binding of the HIV-1 mRNA cap by the cap-binding complex	Complex36	Complex34	
+BiochemicalReaction24	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Complex44	Complex45	
+BiochemicalReaction24	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Protein55	Complex45	
+BiochemicalReaction25	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex42	Complex35	
+BiochemicalReaction25	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex45	Complex35	
+BiochemicalReaction25	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex45	Complex46	
+BiochemicalReaction25	Hyperphosphorylation (Ser2) of RNA Pol II CTD by the P-TEFb(Cyclin T1:Cdk9) complex	Complex42	Complex46	
+BiochemicalReaction26	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction26	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex46	SmallMolecule3	
+BiochemicalReaction26	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	Complex46	Complex49	
+BiochemicalReaction26	Phosphorylation of  NEFL by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	Complex49	
+BiochemicalReaction27	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	Complex51	
+BiochemicalReaction27	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex49	Complex51	
+BiochemicalReaction27	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	Complex49	SmallMolecule3	
+BiochemicalReaction27	Phosphorylation of DSIF by the P-TEFb(Cyclin T1:Cdk9) complex	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction28	Recruitment of elongation factors to form HIV-1 elongation complex	Protein58	Complex56	
+BiochemicalReaction28	Recruitment of elongation factors to form HIV-1 elongation complex	Complex51	Complex56	
+BiochemicalReaction28	Recruitment of elongation factors to form HIV-1 elongation complex	Protein59	Complex56	
+BiochemicalReaction28	Recruitment of elongation factors to form HIV-1 elongation complex	Complex12	Complex56	
+BiochemicalReaction28	Recruitment of elongation factors to form HIV-1 elongation complex	Complex53	Complex56	
+BiochemicalReaction28	Recruitment of elongation factors to form HIV-1 elongation complex	Complex55	Complex56	
+BiochemicalReaction29	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule4	Complex12	
+BiochemicalReaction29	Addition of nucleotides leads to HIV-1 transcript elongation	Complex56	Complex12	
+BiochemicalReaction29	Addition of nucleotides leads to HIV-1 transcript elongation	Complex56	Complex57	
+BiochemicalReaction29	Addition of nucleotides leads to HIV-1 transcript elongation	SmallMolecule4	Complex57	
+BiochemicalReaction3	NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex	SmallMolecule4	Complex16	
+BiochemicalReaction3	NTP binds active site of RNA Polymerase II in HIV-1 open pre-initiation complex	Complex15	Complex16	
+BiochemicalReaction30	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule4	SmallMolecule4	
+BiochemicalReaction30	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex57	SmallMolecule4	
+BiochemicalReaction30	Pol II elongation complex moves on the HIV-1 template as transcript elongates	Complex57	Complex58	
+BiochemicalReaction30	Pol II elongation complex moves on the HIV-1 template as transcript elongates	SmallMolecule4	Complex58	
+BiochemicalReaction31	Separation of elongating HIV-1 transcript from template	Complex58	Complex59	
+BiochemicalReaction32	Limited elongation of the HIV-1 transcript	SmallMolecule4	Complex60	
+BiochemicalReaction32	Limited elongation of the HIV-1 transcript	Complex42	Complex60	
+BiochemicalReaction33	Separation of abortive HIV-1 transcript from template	Complex60	Complex61	
+BiochemicalReaction34	7-14 nt. Backtracking of Pol II complex on the HIV-1 template leading to elongation arrest	Complex62	Complex64	
+BiochemicalReaction35	Abortive termination of HIV-1 elongation after arrest	Complex64	Complex65	
+BiochemicalReaction36	TFIIS-mediated recovery of HIV-1 elongation from arrest	Complex64	Complex62	
+BiochemicalReaction37	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex63	Complex35	
+BiochemicalReaction37	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex42	Complex35	
+BiochemicalReaction37	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex42	Complex66	
+BiochemicalReaction37	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex63	Complex66	
+BiochemicalReaction38	Recruitment of elongation factors to form HIV-1 elongation complex	Protein58	Complex67	
+BiochemicalReaction38	Recruitment of elongation factors to form HIV-1 elongation complex	Complex66	Complex67	
+BiochemicalReaction38	Recruitment of elongation factors to form HIV-1 elongation complex	Protein59	Complex67	
+BiochemicalReaction38	Recruitment of elongation factors to form HIV-1 elongation complex	Complex12	Complex67	
+BiochemicalReaction38	Recruitment of elongation factors to form HIV-1 elongation complex	Complex53	Complex67	
+BiochemicalReaction38	Recruitment of elongation factors to form HIV-1 elongation complex	Complex55	Complex67	
+BiochemicalReaction39	2-4 nt.backtracking of Pol II complex on the HIV-1 template leading to elongation pausing	Complex62	Complex68	
+BiochemicalReaction4	Nucleophillic attack by 3'-hydroxyl oxygen of nascent HIV-1 transcript on the Alpha phosphate of NTP	Complex16	Complex18	
+BiochemicalReaction40	Resumption of elongation of HIV-1 transcript after recovery from pausing	Complex68	Complex62	
+BiochemicalReaction41	TFIIS-mediated recovery of elongation from arrest	Complex69	Complex57	
+BiochemicalReaction42	Abortive  termination of HIV-1 elongation after arrest (Tat-containing elongation complex)	Complex69	Complex70	
+BiochemicalReaction43	7-14 nt. Backtracking of Pol II complex on the HIV-1 template leading to elongation arrest	Complex57	Complex69	
+BiochemicalReaction44	2-4 nt.backtracking of Pol II complex on the HIV-1 template leading to elongation pausing	Complex57	Complex71	
+BiochemicalReaction45	Resumption of elongation of HIV-1 transcript after recovery from pausing	Complex71	Complex57	
+BiochemicalReaction5	Newly formed phosphodiester bond stabilized and PPi released	Complex18	SmallMolecule8	
+BiochemicalReaction5	Newly formed phosphodiester bond stabilized and PPi released	Complex18	Complex19	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	Complex3	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	Complex8	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	Protein26	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	Complex11	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	Complex12	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	Complex14	
+BiochemicalReaction6	Abortive HIV-1 initiation after formation of the first phosphodiester bond	Complex19	PhysicalEntity6	
+BiochemicalReaction7	Addition of the third nucleotide on the nascent HIV-1 transcript	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction7	Addition of the third nucleotide on the nascent HIV-1 transcript	Complex19	SmallMolecule8	
+BiochemicalReaction7	Addition of the third nucleotide on the nascent HIV-1 transcript	Complex19	Complex20	
+BiochemicalReaction7	Addition of the third nucleotide on the nascent HIV-1 transcript	SmallMolecule4	Complex20	
+BiochemicalReaction8	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule4	Protein26	
+BiochemicalReaction8	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex20	Protein26	
+BiochemicalReaction8	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex20	SmallMolecule8	
+BiochemicalReaction8	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction8	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	Complex20	Complex21	
+BiochemicalReaction8	Addition of the fourth nucleotide on the nascent HIV-1 transcript: Second Transition	SmallMolecule4	Complex21	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	Complex3	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	Complex8	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	Protein26	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	Complex11	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	Complex12	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	Complex14	
+BiochemicalReaction9	Abortive HIV-1 Initiation Before Second Transition	Complex22	PhysicalEntity9	

@@ -1,0 +1,7 @@
+BiochemicalReaction1	FGFR1b binds to FGF	Protein1	Complex1	
+BiochemicalReaction1	FGFR1b binds to FGF	PhysicalEntity1	Complex1	
+BiochemicalReaction1	FGFR1b binds to FGF	SmallMolecule1	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1b	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1b	Complex1	SmallMolecule3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1b	Complex1	Complex3	
+BiochemicalReaction2	Autocatalytic phosphorylation of FGFR1b	SmallMolecule2	Complex3	

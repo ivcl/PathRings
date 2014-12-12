@@ -1,0 +1,47 @@
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule1	SmallMolecule5	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction1	SLC35D2 exchanges UDP-sugars for UMP	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction10	HS3STs sulfate GlcN at C3 in heparan sulfate	SmallMolecule13	Protein128	
+BiochemicalReaction10	HS3STs sulfate GlcN at C3 in heparan sulfate	Protein114	Protein128	
+BiochemicalReaction10	HS3STs sulfate GlcN at C3 in heparan sulfate	Protein114	SmallMolecule14	
+BiochemicalReaction10	HS3STs sulfate GlcN at C3 in heparan sulfate	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction11	HS3ST1 sulfates GlcN at C3 in heparan sulfate	SmallMolecule13	Protein128	
+BiochemicalReaction11	HS3ST1 sulfates GlcN at C3 in heparan sulfate	Protein114	Protein128	
+BiochemicalReaction11	HS3ST1 sulfates GlcN at C3 in heparan sulfate	Protein114	SmallMolecule14	
+BiochemicalReaction11	HS3ST1 sulfates GlcN at C3 in heparan sulfate	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction12	GLCE epimerises more GlcA to IdoA as sulfate content rises	Protein128	Protein151	
+BiochemicalReaction13	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	Protein151	SmallMolecule14	
+BiochemicalReaction13	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction13	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	SmallMolecule13	Protein164	
+BiochemicalReaction13	HS6STs sulfate GlcN at C6 in heparan sulfate/heparin	Protein151	Protein164	
+BiochemicalReaction14	Some HSPGs are secreted to the plasma membrane	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	The addition of GlcNAc to the terminal glucuronate residue creates heparan	Protein2	SmallMolecule9	
+BiochemicalReaction2	The addition of GlcNAc to the terminal glucuronate residue creates heparan	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction2	The addition of GlcNAc to the terminal glucuronate residue creates heparan	SmallMolecule7	Protein15	
+BiochemicalReaction2	The addition of GlcNAc to the terminal glucuronate residue creates heparan	Protein2	Protein15	
+BiochemicalReaction3	Glucuronate is added to the heparan chain	SmallMolecule10	Protein30	
+BiochemicalReaction3	Glucuronate is added to the heparan chain	Protein15	Protein30	
+BiochemicalReaction3	Glucuronate is added to the heparan chain	Protein15	SmallMolecule9	
+BiochemicalReaction3	Glucuronate is added to the heparan chain	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction4	Another GlcNAc addition extends the heparan chain	Protein30	Protein43	
+BiochemicalReaction4	Another GlcNAc addition extends the heparan chain	SmallMolecule7	Protein43	
+BiochemicalReaction4	Another GlcNAc addition extends the heparan chain	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction4	Another GlcNAc addition extends the heparan chain	Protein30	SmallMolecule9	
+BiochemicalReaction5	Another GlcA addition extends the heparan chain	SmallMolecule10	Protein56	
+BiochemicalReaction5	Another GlcA addition extends the heparan chain	Protein43	Protein56	
+BiochemicalReaction5	Another GlcA addition extends the heparan chain	Protein43	SmallMolecule9	
+BiochemicalReaction5	Another GlcA addition extends the heparan chain	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction6	NDST1-4 N-deacetylates GlcNAc residues in heparan	Protein56	SmallMolecule12	
+BiochemicalReaction6	NDST1-4 N-deacetylates GlcNAc residues in heparan	SmallMolecule11	SmallMolecule12	
+BiochemicalReaction6	NDST1-4 N-deacetylates GlcNAc residues in heparan	SmallMolecule11	Protein69	
+BiochemicalReaction6	NDST1-4 N-deacetylates GlcNAc residues in heparan	Protein56	Protein69	
+BiochemicalReaction7	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	Protein69	Protein87	
+BiochemicalReaction7	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	SmallMolecule13	Protein87	
+BiochemicalReaction7	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction7	NDST1-4 can sulfate a glucosamine residue in heparan to form heparan sulfate (HS)	Protein69	SmallMolecule14	
+BiochemicalReaction8	GLCE epimerises GlcA to IdoA	Protein87	Protein100	
+BiochemicalReaction9	HS2ST1 sulfates IdoA at C2 in heparan sulfate	Protein100	SmallMolecule14	
+BiochemicalReaction9	HS2ST1 sulfates IdoA at C2 in heparan sulfate	SmallMolecule13	SmallMolecule14	
+BiochemicalReaction9	HS2ST1 sulfates IdoA at C2 in heparan sulfate	SmallMolecule13	Protein114	
+BiochemicalReaction9	HS2ST1 sulfates IdoA at C2 in heparan sulfate	Protein100	Protein114	

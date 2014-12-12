@@ -1,0 +1,37 @@
+Complex1	Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 399844	Protein3	
+Complex1	Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 399844	Protein4	
+Complex10	RAC1-GDP	cytosol	Reactome DB_ID: 445010	SmallMolecule4	
+Complex10	RAC1-GDP	cytosol	Reactome DB_ID: 445010	Protein16	
+Complex11	RAC1-GTP	cytosol	Reactome DB_ID: 442641	SmallMolecule3	
+Complex11	RAC1-GTP	cytosol	Reactome DB_ID: 442641	Protein16	
+Complex12	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	plasma membrane	Reactome DB_ID: 399872	Complex7	
+Complex12	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP	plasma membrane	Reactome DB_ID: 399872	Complex11	
+Complex13	Rnd1-GTP	cytosol	Reactome DB_ID: 421104	SmallMolecule3	
+Complex13	Rnd1-GTP	cytosol	Reactome DB_ID: 421104	Protein17	
+Complex14	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP:Rnd1	plasma membrane	Reactome DB_ID: 399877	Complex13	
+Complex14	Sema3A:Nrp-1:pPlexinA:Fyn:Fes:Rac-1-GTP:Rnd1	plasma membrane	Reactome DB_ID: 399877	Complex12	
+Complex15	R-Ras-GTP	plasma membrane	Reactome DB_ID: 399865	SmallMolecule5	
+Complex15	R-Ras-GTP	plasma membrane	Reactome DB_ID: 399865	Protein18	
+Complex16	R-Ras-GDP	plasma membrane	Reactome DB_ID: 399866	SmallMolecule7	
+Complex16	R-Ras-GDP	plasma membrane	Reactome DB_ID: 399866	Protein18	
+Complex17	PIP5K1gamma:Talin-1	cytosol	Reactome DB_ID: 398218	Protein19	
+Complex17	PIP5K1gamma:Talin-1	cytosol	Reactome DB_ID: 398218	Protein20	
+Complex18	FARP2:PIP5KIgamma	cytosol	Reactome DB_ID: 399839	Protein2	
+Complex18	FARP2:PIP5KIgamma	cytosol	Reactome DB_ID: 399839	Protein20	
+Complex2	NRP1:PlexinA1-4:FARP2:FYN	plasma membrane	Reactome DB_ID: 399837	Protein1	
+Complex2	NRP1:PlexinA1-4:FARP2:FYN	plasma membrane	Reactome DB_ID: 399837	Complex3	
+Complex3	Plexin-A1-4:FYN:FARP2	plasma membrane	Reactome DB_ID: 421116	Protein2	
+Complex3	Plexin-A1-4:FYN:FARP2	plasma membrane	Reactome DB_ID: 421116	Complex1	
+Complex4	Sema3A dimer	extracellular region	Reactome DB_ID: 399861	Protein9	
+Complex5	Sema3A:Nrp-1:Plexin A:Fyn	plasma membrane	Reactome DB_ID: 399858	Complex4	
+Complex5	Sema3A:Nrp-1:Plexin A:Fyn	plasma membrane	Reactome DB_ID: 399858	Complex6	
+Complex6	NRP1:Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 399841	Protein1	
+Complex6	NRP1:Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 399841	Protein3	
+Complex6	NRP1:Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 399841	Protein4	
+Complex7	Sema3A:NRP-1:pPlexin-A:Fyn:Fes	plasma membrane	Reactome DB_ID: 399859	Protein10	
+Complex7	Sema3A:NRP-1:pPlexin-A:Fyn:Fes	plasma membrane	Reactome DB_ID: 399859	Complex8	
+Complex8	Sema3A:NRP-1:pPlexin-A:fyn	plasma membrane	Reactome DB_ID: 419622	Complex4	
+Complex8	Sema3A:NRP-1:pPlexin-A:fyn	plasma membrane	Reactome DB_ID: 419622	Complex9	
+Complex9	NRP1:p-Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 419625	Protein1	
+Complex9	NRP1:p-Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 419625	Protein3	
+Complex9	NRP1:p-Plexin-A1-4:FYN	plasma membrane	Reactome DB_ID: 419625	Protein11	

@@ -1,0 +1,17 @@
+BiochemicalReaction1	Transport of NOTCH precursor to Golgi	Protein1	Protein6	
+BiochemicalReaction2	NOTCH precursor cleaved to form mature NOTCH	Protein6	Complex1	
+BiochemicalReaction3	Glycosylation of Pre-NOTCH by FRINGE	Protein6	SmallMolecule2	
+BiochemicalReaction3	Glycosylation of Pre-NOTCH by FRINGE	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Glycosylation of Pre-NOTCH by FRINGE	SmallMolecule1	Protein26	
+BiochemicalReaction3	Glycosylation of Pre-NOTCH by FRINGE	Protein6	Protein26	
+BiochemicalReaction4	Galactosylation of Pre-NOTCH	SmallMolecule3	Protein35	
+BiochemicalReaction4	Galactosylation of Pre-NOTCH	Protein26	Protein35	
+BiochemicalReaction4	Galactosylation of Pre-NOTCH	Protein26	SmallMolecule2	
+BiochemicalReaction4	Galactosylation of Pre-NOTCH	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	Sialylation of Pre-NOTCH	Protein35	Protein41	
+BiochemicalReaction5	Sialylation of Pre-NOTCH	SmallMolecule4	Protein41	
+BiochemicalReaction5	Sialylation of Pre-NOTCH	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction5	Sialylation of Pre-NOTCH	Protein35	SmallMolecule5	
+BiochemicalReaction6	Fringe-modified Pre-NOTCH is cleaved by FURIN	Protein41	Complex7	
+BiochemicalReaction7	Mature NOTCH heterodimer traffics to the plasma membrane	Complex1	Complex12	
+BiochemicalReaction8	Transport of fringe-modified NOTCH to plasma membrane	Complex7	Complex17	

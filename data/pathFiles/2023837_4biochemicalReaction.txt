@@ -1,0 +1,9 @@
+BiochemicalReaction1	Dimerization of overexpressed FGFR2	Protein1	Complex1	
+BiochemicalReaction2	Autocatalytic phosphorylation of overexpressed FGFR2 variants	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Autocatalytic phosphorylation of overexpressed FGFR2 variants	Complex1	SmallMolecule2	
+BiochemicalReaction2	Autocatalytic phosphorylation of overexpressed FGFR2 variants	Complex1	Complex4	
+BiochemicalReaction2	Autocatalytic phosphorylation of overexpressed FGFR2 variants	SmallMolecule1	Complex4	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants	SmallMolecule3	Complex7	
+BiochemicalReaction3	Tyrosine kinase inhibitors bind to overexpressed FGFR2 variants	Complex1	Complex7	
+BiochemicalReaction4	GP369 inhibits activation of amplified FGFR2 signaling	Complex1	Complex8	
+BiochemicalReaction4	GP369 inhibits activation of amplified FGFR2 signaling	PhysicalEntity1	Complex8	

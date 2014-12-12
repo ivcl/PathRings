@@ -1,0 +1,92 @@
+BiochemicalReaction1	RAD51B binds RAD51C	Protein1	Complex1	
+BiochemicalReaction1	RAD51B binds RAD51C	Protein2	Complex1	
+BiochemicalReaction10	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,5-P4	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction10	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,5-P4	SmallMolecule6	SmallMolecule4	
+BiochemicalReaction10	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,5-P4	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction10	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,5-P4	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction11	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,6-P4	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction11	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,6-P4	SmallMolecule6	SmallMolecule4	
+BiochemicalReaction11	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,6-P4	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction11	ITPK1 converts Ins-1,3,4-P3 to Ins-1,3,4,6-P4	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction12	LRRC16A binds F-actin capping protein	Protein48	Complex22	
+BiochemicalReaction12	LRRC16A binds F-actin capping protein	Complex21	Complex22	
+BiochemicalReaction13	F-actin capping protein is a heterodimer	Protein49	Complex21	
+BiochemicalReaction13	F-actin capping protein is a heterodimer	Protein52	Complex21	
+BiochemicalReaction14	F-actin capping protein binds to the barbed end of elongating F-actin	PhysicalEntity5	Complex23	
+BiochemicalReaction14	F-actin capping protein binds to the barbed end of elongating F-actin	Complex21	Complex23	
+BiochemicalReaction15	REST recruits the BHC complex	Complex24	Complex26	
+BiochemicalReaction15	REST recruits the BHC complex	Complex25	Complex26	
+BiochemicalReaction16	ZFPM proteins bind GATA proteins	Protein59	Complex27	
+BiochemicalReaction16	ZFPM proteins bind GATA proteins	Protein66	Complex27	
+BiochemicalReaction17	JMJD1C demethylates H3K9 mono- and di-methylation	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction18	SH2B proteins bind JAK2	Protein78	Complex28	
+BiochemicalReaction18	SH2B proteins bind JAK2	Protein79	Complex28	
+BiochemicalReaction19	Adenylate Kinase 3 is a GTP-AMP phosphotransferase	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction19	Adenylate Kinase 3 is a GTP-AMP phosphotransferase	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction19	Adenylate Kinase 3 is a GTP-AMP phosphotransferase	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction19	Adenylate Kinase 3 is a GTP-AMP phosphotransferase	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction2	RAD51B:RAD51C binds single-stranded DNA	Complex1	Complex2	
+BiochemicalReaction2	RAD51B:RAD51C binds single-stranded DNA	SmallMolecule1	Complex2	
+BiochemicalReaction20	NFE2 is a heterodimer	Protein84	Complex29	
+BiochemicalReaction20	NFE2 is a heterodimer	Protein88	Complex29	
+BiochemicalReaction21	NFE2 binds the beta globin locus control region	Complex29	Complex30	
+BiochemicalReaction21	NFE2 binds the beta globin locus control region	PhysicalEntity9	Complex30	
+BiochemicalReaction22	Expression of globin genes under control of the beta globin control region	NA	Protein89	
+BiochemicalReaction22	Expression of globin genes under control of the beta globin control region	NA	Protein90	
+BiochemicalReaction22	Expression of globin genes under control of the beta globin control region	NA	Protein91	
+BiochemicalReaction22	Expression of globin genes under control of the beta globin control region	NA	Protein92	
+BiochemicalReaction22	Expression of globin genes under control of the beta globin control region	NA	Protein93	
+BiochemicalReaction23	EHD proteins interact with Rabenosyn-5	Protein94	Complex31	
+BiochemicalReaction23	EHD proteins interact with Rabenosyn-5	Protein98	Complex31	
+BiochemicalReaction24	Rabenosyn-5 connects  Rab5 to VPS-45	Protein99	Complex32	
+BiochemicalReaction24	Rabenosyn-5 connects  Rab5 to VPS-45	Protein100	Complex32	
+BiochemicalReaction24	Rabenosyn-5 connects  Rab5 to VPS-45	Protein98	Complex32	
+BiochemicalReaction25	DOCKs bind to RhoGEFs	Protein101	Complex33	
+BiochemicalReaction25	DOCKs bind to RhoGEFs	Protein104	Complex33	
+BiochemicalReaction26	Cables link CDK5 and ABL1	Protein117	Complex34	
+BiochemicalReaction26	Cables link CDK5 and ABL1	Protein118	Complex34	
+BiochemicalReaction26	Cables link CDK5 and ABL1	Protein119	Complex34	
+BiochemicalReaction27	Cables1 links CDK2 and WEE1	Protein122	Complex35	
+BiochemicalReaction27	Cables1 links CDK2 and WEE1	Protein123	Complex35	
+BiochemicalReaction27	Cables1 links CDK2 and WEE1	Protein124	Complex35	
+BiochemicalReaction28	Kinesin-1 is a heterotetramer	Protein125	Complex36	
+BiochemicalReaction28	Kinesin-1 is a heterotetramer	Protein128	Complex36	
+BiochemicalReaction29	Kinesin-2 is a heterotrimer	Protein133	Complex37	
+BiochemicalReaction29	Kinesin-2 is a heterotrimer	Protein134	Complex37	
+BiochemicalReaction29	Kinesin-2 is a heterotrimer	Protein137	Complex37	
+BiochemicalReaction3	Dual-specific AKAPs bind type I and II PKA regulatory subunits	Complex3	Complex4	
+BiochemicalReaction3	Dual-specific AKAPs bind type I and II PKA regulatory subunits	Protein12	Complex4	
+BiochemicalReaction30	Kinesin-3 is a dimer	Protein138	Complex38	
+BiochemicalReaction31	Chromokinesins form dimers	PhysicalEntity10	PhysicalEntity11	
+BiochemicalReaction32	Kinesin-5 is a homotetramer	Protein145	Complex47	
+BiochemicalReaction33	Kinesin-6 and RACGAP1 form the heterotetrameric complex centralspindlin	Protein146	Complex48	
+BiochemicalReaction33	Kinesin-6 and RACGAP1 form the heterotetrameric complex centralspindlin	Protein147	Complex48	
+BiochemicalReaction34	Kinesin-7 is a dimer	Protein150	Complex49	
+BiochemicalReaction35	Kinesin-8 is a dimer	Protein151	Complex50	
+BiochemicalReaction36	Kinesin-9 is a dimer	Protein152	Complex51	
+BiochemicalReaction37	Kinesin-12 is a dimer	Protein153	Complex52	
+BiochemicalReaction38	Kinesin-13 is a dimer	Protein154	Complex53	
+BiochemicalReaction39	Kinesin-14 is a dimer	Protein158	Complex57	
+BiochemicalReaction4	Mitofusins trans-interact linking mitochondria prior to fusion	Protein15	Complex5	
+BiochemicalReaction40	Kinesins bind microtubules	PhysicalEntity12	Complex58	
+BiochemicalReaction40	Kinesins bind microtubules	PhysicalEntity13	Complex58	
+BiochemicalReaction41	Kinesins move along microtubules consuming ATP	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction41	Kinesins move along microtubules consuming ATP	Complex58	SmallMolecule4	
+BiochemicalReaction41	Kinesins move along microtubules consuming ATP	Complex58	Complex58	
+BiochemicalReaction41	Kinesins move along microtubules consuming ATP	SmallMolecule3	Complex58	
+BiochemicalReaction5	p53, SIN3A and MYB form a complex	Protein18	Complex7	
+BiochemicalReaction5	p53, SIN3A and MYB form a complex	Protein19	Complex7	
+BiochemicalReaction5	p53, SIN3A and MYB form a complex	Complex6	Complex7	
+BiochemicalReaction6	IRF1 binds the promoters of Interferon alpha and beta	Protein21	Complex8	
+BiochemicalReaction6	IRF1 binds the promoters of Interferon alpha and beta	PhysicalEntity1	Complex8	
+BiochemicalReaction6	IRF1 binds the promoters of Interferon alpha and beta	PhysicalEntity2	Complex8	
+BiochemicalReaction7	IRF2 binds the promoters of Interferon alpha and beta	Protein41	Complex17	
+BiochemicalReaction7	IRF2 binds the promoters of Interferon alpha and beta	PhysicalEntity1	Complex17	
+BiochemicalReaction7	IRF2 binds the promoters of Interferon alpha and beta	PhysicalEntity2	Complex17	
+BiochemicalReaction8	HP1 alpha binds Histone H3K9(me)3	Protein42	Complex20	
+BiochemicalReaction8	HP1 alpha binds Histone H3K9(me)3	Protein43	Complex20	
+BiochemicalReaction9	ITPK1 converts Ins-3,4,5,6-P4 to Ins-1,3,4,5,6-P5	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction9	ITPK1 converts Ins-3,4,5,6-P4 to Ins-1,3,4,5,6-P5	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	ITPK1 converts Ins-3,4,5,6-P4 to Ins-1,3,4,5,6-P5	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction9	ITPK1 converts Ins-3,4,5,6-P4 to Ins-1,3,4,5,6-P5	SmallMolecule2	SmallMolecule5	
+TemplateReaction1	Expression of Interferon-alpha and beta	NA	PhysicalEntity3	

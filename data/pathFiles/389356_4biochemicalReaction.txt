@@ -1,0 +1,63 @@
+BiochemicalReaction1	CD28 homodimer binds B7-1 homodimer	Complex1	Complex3	
+BiochemicalReaction1	CD28 homodimer binds B7-1 homodimer	Complex2	Complex3	
+BiochemicalReaction10	AKT binds PDPK1	Complex11	Complex16	
+BiochemicalReaction10	AKT binds PDPK1	Complex13	Complex16	
+BiochemicalReaction11	PDPK1 phosphorylates AKT at T308	Complex16	Complex11	
+BiochemicalReaction11	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Complex11	
+BiochemicalReaction11	PDPK1 phosphorylates AKT at T308	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	PDPK1 phosphorylates AKT at T308	Complex16	SmallMolecule2	
+BiochemicalReaction11	PDPK1 phosphorylates AKT at T308	SmallMolecule1	Protein39	
+BiochemicalReaction11	PDPK1 phosphorylates AKT at T308	Complex16	Protein39	
+BiochemicalReaction12	AKT interacts and phosphorylates Cot	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	AKT interacts and phosphorylates Cot	Protein43	SmallMolecule2	
+BiochemicalReaction12	AKT interacts and phosphorylates Cot	Protein43	Protein44	
+BiochemicalReaction12	AKT interacts and phosphorylates Cot	SmallMolecule1	Protein44	
+BiochemicalReaction13	p-S400-Cot phosphorylates NIK	Protein45	SmallMolecule2	
+BiochemicalReaction13	p-S400-Cot phosphorylates NIK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	p-S400-Cot phosphorylates NIK	SmallMolecule1	Protein46	
+BiochemicalReaction13	p-S400-Cot phosphorylates NIK	Protein45	Protein46	
+BiochemicalReaction14	Grb2 binds CD28	Complex6	Complex17	
+BiochemicalReaction14	Grb2 binds CD28	Protein47	Complex17	
+BiochemicalReaction15	Translocation of Vav1 to CD28	Complex17	Complex18	
+BiochemicalReaction15	Translocation of Vav1 to CD28	Protein48	Complex18	
+BiochemicalReaction15	Translocation of Vav1 to CD28	SmallMolecule4	Complex18	
+BiochemicalReaction16	Activation of Vav1	Complex18	SmallMolecule2	
+BiochemicalReaction16	Activation of Vav1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction16	Activation of Vav1	SmallMolecule1	Complex19	
+BiochemicalReaction16	Activation of Vav1	Complex18	Complex19	
+BiochemicalReaction17	Activation of Rac1 by pVav1	SmallMolecule5	Complex21	
+BiochemicalReaction17	Activation of Rac1 by pVav1	Complex20	Complex21	
+BiochemicalReaction17	Activation of Rac1 by pVav1	Complex20	SmallMolecule6	
+BiochemicalReaction17	Activation of Rac1 by pVav1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction18	Activation of Cdc42 by pVav1	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction18	Activation of Cdc42 by pVav1	Complex22	SmallMolecule6	
+BiochemicalReaction18	Activation of Cdc42 by pVav1	Complex22	Complex23	
+BiochemicalReaction18	Activation of Cdc42 by pVav1	SmallMolecule5	Complex23	
+BiochemicalReaction19	Activation of PAK by Rac1 and Cdc42	Complex24	Protein52	
+BiochemicalReaction19	Activation of PAK by Rac1 and Cdc42	Complex25	Protein52	
+BiochemicalReaction19	Activation of PAK by Rac1 and Cdc42	Complex25	Complex26	
+BiochemicalReaction19	Activation of PAK by Rac1 and Cdc42	Complex24	Complex26	
+BiochemicalReaction2	CD28 homodimer binds B7-2 monomer	Protein3	Complex4	
+BiochemicalReaction2	CD28 homodimer binds B7-2 monomer	Complex1	Complex4	
+BiochemicalReaction3	Phosphorylation of CD28	Protein4	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CD28	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CD28	Complex5	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CD28	Complex5	Complex6	
+BiochemicalReaction3	Phosphorylation of CD28	SmallMolecule1	Complex6	
+BiochemicalReaction3	Phosphorylation of CD28	Protein4	Complex6	
+BiochemicalReaction4	Gads binds CD28	Protein12	Complex8	
+BiochemicalReaction4	Gads binds CD28	Complex6	Complex8	
+BiochemicalReaction5	PI3K binds CD28	Complex9	Complex10	
+BiochemicalReaction5	PI3K binds CD28	Complex6	Complex10	
+BiochemicalReaction6	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction6	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction6	CD28 bound PI3K phosphorylates PIP2 to PIP3	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	PIP3 recruits PDPK1 to the membrane	Protein18	Complex11	
+BiochemicalReaction7	PIP3 recruits PDPK1 to the membrane	SmallMolecule4	Complex11	
+BiochemicalReaction8	PIP3 recruits AKT to the membrane	Protein20	Complex12	
+BiochemicalReaction8	PIP3 recruits AKT to the membrane	SmallMolecule4	Complex12	
+BiochemicalReaction9	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	TORC2 (mTOR) phosphorylates AKT at S473	Complex12	SmallMolecule2	
+BiochemicalReaction9	TORC2 (mTOR) phosphorylates AKT at S473	Complex12	Complex13	
+BiochemicalReaction9	TORC2 (mTOR) phosphorylates AKT at S473	SmallMolecule1	Complex13	

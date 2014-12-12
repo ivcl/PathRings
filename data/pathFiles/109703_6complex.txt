@@ -1,0 +1,31 @@
+Complex1	PIP3:Phosphorylated PKB complex	plasma membrane	Reactome DB_ID: 162387	Protein3	
+Complex1	PIP3:Phosphorylated PKB complex	plasma membrane	Reactome DB_ID: 162387	SmallMolecule3	
+Complex10	AMPK heterotrimer	cytosol	Reactome DB_ID: 380961	Protein32	
+Complex10	AMPK heterotrimer	cytosol	Reactome DB_ID: 380961	Protein35	
+Complex10	AMPK heterotrimer	cytosol	Reactome DB_ID: 380961	Protein39	
+Complex11	p-AMPK heterotrimer	cytosol	Reactome DB_ID: 380934	Protein32	
+Complex11	p-AMPK heterotrimer	cytosol	Reactome DB_ID: 380934	Protein35	
+Complex11	p-AMPK heterotrimer	cytosol	Reactome DB_ID: 380934	Protein42	
+Complex12	p-AMPK heterotrimer:AMP	cytosol	Reactome DB_ID: 380931	Complex11	
+Complex12	p-AMPK heterotrimer:AMP	cytosol	Reactome DB_ID: 380931	SmallMolecule6	
+Complex13	TSC1:p-S1387-TSC2	cytosol	Reactome DB_ID: 381855	Protein6	
+Complex13	TSC1:p-S1387-TSC2	cytosol	Reactome DB_ID: 381855	Protein47	
+Complex2	TSC1:TSC2	cytosol	Reactome DB_ID: 165175	Protein4	
+Complex2	TSC1:TSC2	cytosol	Reactome DB_ID: 165175	Protein6	
+Complex3	TSC1:Inhibited TSC2-1-P	cytosol	Reactome DB_ID: 165180	Protein5	
+Complex3	TSC1:Inhibited TSC2-1-P	cytosol	Reactome DB_ID: 165180	Protein6	
+Complex4	Rheb:GDP	cytosol	Reactome DB_ID: 165191	Protein7	
+Complex4	Rheb:GDP	cytosol	Reactome DB_ID: 165191	SmallMolecule8	
+Complex5	Rheb:GTP	cytosol	Reactome DB_ID: 165189	SmallMolecule7	
+Complex5	Rheb:GTP	cytosol	Reactome DB_ID: 165189	Protein7	
+Complex6	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Protein8	
+Complex6	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Protein9	
+Complex6	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Complex5	
+Complex6	Activated mTORC1	cytosol	Reactome DB_ID: 165678	Protein10	
+Complex7	eIF4E:4E-BP	cytosol	Reactome DB_ID: 72581	Protein22	
+Complex7	eIF4E:4E-BP	cytosol	Reactome DB_ID: 72581	Protein23	
+Complex8	eIF4E:4E-BP1-P	cytosol	Reactome DB_ID: 165697	Protein23	
+Complex8	eIF4E:4E-BP1-P	cytosol	Reactome DB_ID: 165697	Protein24	
+Complex9	LKB1:STRAD:MO25	cytosol	Reactome DB_ID: 380967	Protein25	
+Complex9	LKB1:STRAD:MO25	cytosol	Reactome DB_ID: 380967	Protein28	
+Complex9	LKB1:STRAD:MO25	cytosol	Reactome DB_ID: 380967	Protein29	

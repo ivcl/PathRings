@@ -1,0 +1,6 @@
+Complex1	dsDNA:AIM2	cytosol	Reactome DB_ID: 874096	SmallMolecule1	
+Complex1	dsDNA:AIM2	cytosol	Reactome DB_ID: 874096	Protein1	
+Complex2	dsDNA:AIM2 oligomer:ASC	cytosol	Reactome DB_ID: 874098	PhysicalEntity1	
+Complex2	dsDNA:AIM2 oligomer:ASC	cytosol	Reactome DB_ID: 874098	Protein2	
+Complex3	dsDNA:AIM2 oligomer:ASC:Procaspase-1	cytosol	Reactome DB_ID: 874100	Complex2	
+Complex3	dsDNA:AIM2 oligomer:ASC:Procaspase-1	cytosol	Reactome DB_ID: 874100	Protein3	

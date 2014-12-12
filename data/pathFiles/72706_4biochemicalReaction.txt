@@ -1,0 +1,39 @@
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	SmallMolecule2	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	SmallMolecule2	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	SmallMolecule2	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Complex5	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Complex5	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Complex5	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Protein1	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Protein1	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Protein1	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Protein2	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Protein2	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Protein2	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Protein3	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Protein3	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Protein3	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Complex10	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Complex10	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Complex10	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Protein55	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Protein55	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Protein55	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Protein7	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Protein7	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Protein7	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Complex3	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Complex3	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Complex3	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Protein6	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Protein6	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Protein6	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity2	Complex11	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Complex1	Complex11	
+BiochemicalReaction1	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1	Complex11	
+BiochemicalReaction2	eIF5B:GTP is hydrolyzed and released	Complex12	SmallMolecule2	
+BiochemicalReaction2	eIF5B:GTP is hydrolyzed and released	Complex12	Complex16	
+BiochemicalReaction2	eIF5B:GTP is hydrolyzed and released	Complex12	Complex17	
+BiochemicalReaction3	The 60S subunit joins the translation initiation complex 	Complex15	Complex12	
+BiochemicalReaction3	The 60S subunit joins the translation initiation complex 	Complex10	Complex12	
+BiochemicalReaction3	The 60S subunit joins the translation initiation complex 	Complex13	Complex12	

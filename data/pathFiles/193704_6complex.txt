@@ -1,0 +1,144 @@
+Complex1	p75NTR:sortilin complex	plasma membrane	Reactome DB_ID: 193698	Protein1	
+Complex1	p75NTR:sortilin complex	plasma membrane	Reactome DB_ID: 193698	Protein2	
+Complex10	NGF ligand:p75NTR:NRIF	plasma membrane	Reactome DB_ID: 205100	Complex5	
+Complex10	NGF ligand:p75NTR:NRIF	plasma membrane	Reactome DB_ID: 205100	Protein53	
+Complex11	TRAF6 homotrimer	cytosol	Reactome DB_ID: 421373	Protein54	
+Complex12	NGF ligand:p75NTR:NRIF:TRAF6	plasma membrane	Reactome DB_ID: 204977	Complex11	
+Complex12	NGF ligand:p75NTR:NRIF:TRAF6	plasma membrane	Reactome DB_ID: 204977	Complex5	
+Complex12	NGF ligand:p75NTR:NRIF:TRAF6	plasma membrane	Reactome DB_ID: 204977	Protein53	
+Complex13	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Protein55	
+Complex13	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Protein58	
+Complex13	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Complex14	
+Complex13	gamma-secretase complex	plasma membrane	Reactome DB_ID: 157343	Protein60	
+Complex14	PSEN2 dimer	plasma membrane	Reactome DB_ID: 157352	Protein59	
+Complex15	K63 linked polyubiquitin chain	cytosol	Reactome DB_ID: 204940	Protein61	
+Complex16	Ubiquitinated NRIF	cytosol	Reactome DB_ID: 204965	Protein53	
+Complex16	Ubiquitinated NRIF	cytosol	Reactome DB_ID: 204965	Complex15	
+Complex17	Ubiquitinated NRIF:Sequestosome	cytosol	Reactome DB_ID: 205035	Protein53	
+Complex17	Ubiquitinated NRIF:Sequestosome	cytosol	Reactome DB_ID: 205035	Protein76	
+Complex17	Ubiquitinated NRIF:Sequestosome	cytosol	Reactome DB_ID: 205035	Complex15	
+Complex18	Ubiquitinated NRIF:Sequestosome	nucleoplasm	Reactome DB_ID: 210946	Protein77	
+Complex18	Ubiquitinated NRIF:Sequestosome	nucleoplasm	Reactome DB_ID: 210946	Complex19	
+Complex18	Ubiquitinated NRIF:Sequestosome	nucleoplasm	Reactome DB_ID: 210946	Protein93	
+Complex19	K63 linked polyubiquitin chain	nucleoplasm	Reactome DB_ID: 205097	Protein78	
+Complex2	pro-beta-NGF homodimer	extracellular region	Reactome DB_ID: 187029	Protein3	
+Complex20	NGF:p75NTR:NADE	plasma membrane	Reactome DB_ID: 204978	Complex5	
+Complex20	NGF:p75NTR:NADE	plasma membrane	Reactome DB_ID: 204978	Protein94	
+Complex22	Active Caspase-2 heterotetramer	cytosol	Reactome DB_ID: 350852	Complex23	
+Complex23	Caspase-2	cytosol	Reactome DB_ID: 205098	Protein98	
+Complex23	Caspase-2	cytosol	Reactome DB_ID: 205098	Protein99	
+Complex24	Active Caspase-3 heterotetramer	cytosol	Reactome DB_ID: 350870	Complex25	
+Complex25	Caspase-3 heterodimer	cytosol	Reactome DB_ID: 350888	Protein100	
+Complex25	Caspase-3 heterodimer	cytosol	Reactome DB_ID: 350888	Protein101	
+Complex26	YWHAE dimer	cytosol	Reactome DB_ID: 194364	Protein102	
+Complex27	NGF ligand:p75NTR:NADE:14-3-3epsilon	plasma membrane	Reactome DB_ID: 205018	Complex5	
+Complex27	NGF ligand:p75NTR:NADE:14-3-3epsilon	plasma membrane	Reactome DB_ID: 205018	Protein94	
+Complex27	NGF ligand:p75NTR:NADE:14-3-3epsilon	plasma membrane	Reactome DB_ID: 205018	Complex26	
+Complex28	NGF:p75NTR:PRDM4	plasma membrane	Reactome DB_ID: 204972	Protein103	
+Complex28	NGF:p75NTR:PRDM4	plasma membrane	Reactome DB_ID: 204972	Complex4	
+Complex28	NGF:p75NTR:PRDM4	plasma membrane	Reactome DB_ID: 204972	Protein2	
+Complex29	PRDM4:Histone deacetylase	nucleoplasm	Reactome DB_ID: 205111	Protein104	
+Complex29	PRDM4:Histone deacetylase	nucleoplasm	Reactome DB_ID: 205111	Protein105	
+Complex3	pro-beta NGF:p75NTR:sortilin	plasma membrane	Reactome DB_ID: 193678	Complex2	
+Complex3	pro-beta NGF:p75NTR:sortilin	plasma membrane	Reactome DB_ID: 193678	Complex1	
+Complex30	NGF:p75NTR:RIP2	plasma membrane	Reactome DB_ID: 209578	Complex5	
+Complex30	NGF:p75NTR:RIP2	plasma membrane	Reactome DB_ID: 209578	Protein109	
+Complex31	IRAK1:MYD88	cytosol	Reactome DB_ID: 193874	Protein110	
+Complex31	IRAK1:MYD88	cytosol	Reactome DB_ID: 193874	Complex32	
+Complex32	MYD88 homodimer	cytosol	Reactome DB_ID: 193932	Protein111	
+Complex33	NGF ligand:p75NTR:IRAK1:MYD88	plasma membrane	Reactome DB_ID: 209570	Complex5	
+Complex33	NGF ligand:p75NTR:IRAK1:MYD88	plasma membrane	Reactome DB_ID: 209570	Complex31	
+Complex34	NGF ligand:p75NTR:p-IRAK1:MYD88	plasma membrane	Reactome DB_ID: 209572	Complex5	
+Complex34	NGF ligand:p75NTR:p-IRAK1:MYD88	plasma membrane	Reactome DB_ID: 209572	Protein112	
+Complex34	NGF ligand:p75NTR:p-IRAK1:MYD88	plasma membrane	Reactome DB_ID: 209572	Complex32	
+Complex35	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	plasma membrane	Reactome DB_ID: 209574	Complex5	
+Complex35	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	plasma membrane	Reactome DB_ID: 209574	Protein112	
+Complex35	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	plasma membrane	Reactome DB_ID: 209574	Protein54	
+Complex35	NGF ligand:p75NTR:Phospho-IRAK1:MYD88:TRAF6	plasma membrane	Reactome DB_ID: 209574	Complex32	
+Complex36	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 209569	Complex5	
+Complex36	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 209569	Protein112	
+Complex36	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6	plasma membrane	Reactome DB_ID: 209569	Protein54	
+Complex37	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	plasma membrane	Reactome DB_ID: 209577	Complex5	
+Complex37	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	plasma membrane	Reactome DB_ID: 209577	Protein112	
+Complex37	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	plasma membrane	Reactome DB_ID: 209577	Protein76	
+Complex37	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62	plasma membrane	Reactome DB_ID: 209577	Protein54	
+Complex38	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62	plasma membrane	Reactome DB_ID: 209542	Complex5	
+Complex38	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62	plasma membrane	Reactome DB_ID: 209542	Protein113	
+Complex38	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62	plasma membrane	Reactome DB_ID: 209542	Protein76	
+Complex38	NGF ligand:p75NTR:Phospho-IRAK1:polyubiquitinated TRAF6:p62	plasma membrane	Reactome DB_ID: 209542	Protein114	
+Complex39	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	plasma membrane	Reactome DB_ID: 209558	Complex5	
+Complex39	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	plasma membrane	Reactome DB_ID: 209558	Protein112	
+Complex39	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	plasma membrane	Reactome DB_ID: 209558	Protein115	
+Complex39	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	plasma membrane	Reactome DB_ID: 209558	Protein76	
+Complex39	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:aPKCi	plasma membrane	Reactome DB_ID: 209558	Protein54	
+Complex4	mature beta-NGF homodimer	extracellular region	Reactome DB_ID: 187031	Protein4	
+Complex40	IKK-beta homdimer	cytosol	Reactome DB_ID: 193897	Protein116	
+Complex41	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	plasma membrane	Reactome DB_ID: 209533	Complex5	
+Complex41	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	plasma membrane	Reactome DB_ID: 209533	Protein112	
+Complex41	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	plasma membrane	Reactome DB_ID: 209533	Complex40	
+Complex41	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	plasma membrane	Reactome DB_ID: 209533	Protein76	
+Complex41	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:IKK-beta	plasma membrane	Reactome DB_ID: 209533	Protein54	
+Complex42	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	plasma membrane	Reactome DB_ID: 209565	Complex5	
+Complex42	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	plasma membrane	Reactome DB_ID: 209565	Protein112	
+Complex42	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	plasma membrane	Reactome DB_ID: 209565	Protein76	
+Complex42	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	plasma membrane	Reactome DB_ID: 209565	Protein54	
+Complex42	NGF ligand:p75NTR:Phospho-IRAK1:TRAF6:p62:Phospho-IKK-beta	plasma membrane	Reactome DB_ID: 209565	Complex43	
+Complex43	Phospho-IKK-beta homdimer	cytosol	Reactome DB_ID: 193888	Protein117	
+Complex44	IkB(alpha):NF-kB complex	cytosol	Reactome DB_ID: 193938	Complex45	
+Complex44	IkB(alpha):NF-kB complex	cytosol	Reactome DB_ID: 193938	Protein120	
+Complex45	NF-kB complex	cytosol	Reactome DB_ID: 194043	Protein118	
+Complex45	NF-kB complex	cytosol	Reactome DB_ID: 194043	Protein119	
+Complex46	Ubiquitinated phospho-IkB	cytosol	Reactome DB_ID: 209535	Protein61	
+Complex46	Ubiquitinated phospho-IkB	cytosol	Reactome DB_ID: 209535	Protein121	
+Complex47	NF-kB complex	nucleoplasm	Reactome DB_ID: 194047	Protein122	
+Complex47	NF-kB complex	nucleoplasm	Reactome DB_ID: 194047	Protein123	
+Complex48	Active N-SMase:Mg2+	plasma membrane	Reactome DB_ID: 194354	Protein124	
+Complex48	Active N-SMase:Mg2+	plasma membrane	Reactome DB_ID: 194354	SmallMolecule7	
+Complex49	RHOA:RHO-GDIalpha	plasma membrane	Reactome DB_ID: 194533	Complex50	
+Complex49	RHOA:RHO-GDIalpha	plasma membrane	Reactome DB_ID: 194533	Protein126	
+Complex5	mature NGF homodimer:p75NTR	plasma membrane	Reactome DB_ID: 205123	Complex4	
+Complex5	mature NGF homodimer:p75NTR	plasma membrane	Reactome DB_ID: 205123	Protein2	
+Complex50	RhoA (Mg cofactor):GDP	plasma membrane	Reactome DB_ID: 194489	Protein125	
+Complex50	RhoA (Mg cofactor):GDP	plasma membrane	Reactome DB_ID: 194489	SmallMolecule4	
+Complex50	RhoA (Mg cofactor):GDP	plasma membrane	Reactome DB_ID: 194489	SmallMolecule7	
+Complex51	RHOA:RHO-GDIalpha:p75NTR	plasma membrane	Reactome DB_ID: 194466	Complex50	
+Complex51	RHOA:RHO-GDIalpha:p75NTR	plasma membrane	Reactome DB_ID: 194466	Protein126	
+Complex51	RHOA:RHO-GDIalpha:p75NTR	plasma membrane	Reactome DB_ID: 194466	Protein2	
+Complex52	RhoA:Rho-GDIalpha:p75NTR:NGF	plasma membrane	Reactome DB_ID: 194506	Complex50	
+Complex52	RhoA:Rho-GDIalpha:p75NTR:NGF	plasma membrane	Reactome DB_ID: 194506	Protein126	
+Complex52	RhoA:Rho-GDIalpha:p75NTR:NGF	plasma membrane	Reactome DB_ID: 194506	Complex4	
+Complex52	RhoA:Rho-GDIalpha:p75NTR:NGF	plasma membrane	Reactome DB_ID: 194506	Protein2	
+Complex53	p75NTR:NgR	plasma membrane	Reactome DB_ID: 194513	PhysicalEntity2	
+Complex53	p75NTR:NgR	plasma membrane	Reactome DB_ID: 194513	Protein2	
+Complex54	p75NTR:NgR:LINGO1	plasma membrane	Reactome DB_ID: 194583	Protein127	
+Complex54	p75NTR:NgR:LINGO1	plasma membrane	Reactome DB_ID: 194583	PhysicalEntity2	
+Complex54	p75NTR:NgR:LINGO1	plasma membrane	Reactome DB_ID: 194583	Protein2	
+Complex55	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	Protein127	
+Complex55	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	Protein128	
+Complex55	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	PhysicalEntity2	
+Complex55	p75NTR:NgR:LINGO1:myelin component	plasma membrane	Reactome DB_ID: 194499	Protein2	
+Complex56	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	Protein128	
+Complex56	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	Complex49	
+Complex56	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	PhysicalEntity2	
+Complex56	RHOA:RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194481	Protein2	
+Complex57	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	Protein128	
+Complex57	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	Protein126	
+Complex57	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	PhysicalEntity2	
+Complex57	RHO-GDI:p75NTR:NgR:myelin component	plasma membrane	Reactome DB_ID: 194528	Protein2	
+Complex58	RhoA (Mg cofactor):GTP	plasma membrane	Reactome DB_ID: 194545	Protein125	
+Complex58	RhoA (Mg cofactor):GTP	plasma membrane	Reactome DB_ID: 194545	SmallMolecule5	
+Complex58	RhoA (Mg cofactor):GTP	plasma membrane	Reactome DB_ID: 194545	SmallMolecule7	
+Complex59	ADAM 17 metalloprotease (Zn cofactor)	plasma membrane	Reactome DB_ID: 194538	Protein135	
+Complex59	ADAM 17 metalloprotease (Zn cofactor)	plasma membrane	Reactome DB_ID: 194538	SmallMolecule7	
+Complex6	NGF:p75NTR:NRAGE	plasma membrane	Reactome DB_ID: 205059	Complex5	
+Complex6	NGF:p75NTR:NRAGE	plasma membrane	Reactome DB_ID: 205059	Protein5	
+Complex60	NF-kB:p75NTR ICD:TRAF6	cytosol	Reactome DB_ID: 197481	Complex45	
+Complex60	NF-kB:p75NTR ICD:TRAF6	cytosol	Reactome DB_ID: 197481	Protein54	
+Complex60	NF-kB:p75NTR ICD:TRAF6	cytosol	Reactome DB_ID: 197481	Protein138	
+Complex7	NGF ligand:p75NTR:NRAGE:CHE1	plasma membrane	Reactome DB_ID: 205048	Complex5	
+Complex7	NGF ligand:p75NTR:NRAGE:CHE1	plasma membrane	Reactome DB_ID: 205048	Protein5	
+Complex7	NGF ligand:p75NTR:NRAGE:CHE1	plasma membrane	Reactome DB_ID: 205048	Protein6	
+Complex8	RAC1:GDP	plasma membrane	Reactome DB_ID: 217287	SmallMolecule4	
+Complex8	RAC1:GDP	plasma membrane	Reactome DB_ID: 217287	Protein9	
+Complex9	RAC1:GTP	plasma membrane	Reactome DB_ID: 217289	SmallMolecule5	
+Complex9	RAC1:GTP	plasma membrane	Reactome DB_ID: 217289	Protein9	

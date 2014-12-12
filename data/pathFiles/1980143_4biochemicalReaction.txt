@@ -1,0 +1,89 @@
+BiochemicalReaction1	NOTCH1 binds DLL1	Protein1	Complex4	
+BiochemicalReaction1	NOTCH1 binds DLL1	Complex1	Complex4	
+BiochemicalReaction10	Contactin-1 (CNTN1) binds NOTCH1	Complex16	Complex17	
+BiochemicalReaction10	Contactin-1 (CNTN1) binds NOTCH1	Protein47	Complex17	
+BiochemicalReaction11	Cleavage of CNTN1:NOTCH1 complex releases NICD1	Complex17	Complex18	
+BiochemicalReaction12	NOTCH1 binds DNER	Protein48	Complex19	
+BiochemicalReaction12	NOTCH1 binds DNER	Complex16	Complex19	
+BiochemicalReaction13	Cleavage of DNER:NOTCH1 complex releases NICD1	Complex19	Complex18	
+BiochemicalReaction14	DTX recruits beta-arrestin (ARRB) to NOTCH	Protein49	Complex20	
+BiochemicalReaction14	DTX recruits beta-arrestin (ARRB) to NOTCH	Complex16	Complex20	
+BiochemicalReaction15	ARRB mediates NOTCH1 ubiquitination	Protein8	Complex21	
+BiochemicalReaction15	ARRB mediates NOTCH1 ubiquitination	Complex20	Complex21	
+BiochemicalReaction16	ITCH binds DTX	Protein43	Complex22	
+BiochemicalReaction16	ITCH binds DTX	Protein52	Complex22	
+BiochemicalReaction17	ITCH ubiquitinates DTX	Protein8	Complex23	
+BiochemicalReaction17	ITCH ubiquitinates DTX	Complex22	Complex23	
+BiochemicalReaction18	NOTCH1 binds DLL/JAG ligand in cis	Protein28	Complex24	
+BiochemicalReaction18	NOTCH1 binds DLL/JAG ligand in cis	Complex2	Complex24	
+BiochemicalReaction19	NOTCH1 binds DLK1	Complex2	Complex25	
+BiochemicalReaction19	NOTCH1 binds DLK1	Protein53	Complex25	
+BiochemicalReaction2	NOTCH1 binds DLL4	Complex1	Complex5	
+BiochemicalReaction2	NOTCH1 binds DLL4	Protein5	Complex5	
+BiochemicalReaction20	NOTCH1 associates with negative regulators NUMB and ITCH	Complex2	Complex26	
+BiochemicalReaction20	NOTCH1 associates with negative regulators NUMB and ITCH	Protein54	Complex26	
+BiochemicalReaction20	NOTCH1 associates with negative regulators NUMB and ITCH	Protein52	Complex26	
+BiochemicalReaction21	Ubiquitination of NOTCH1 by ITCH in the absence of ligand	Protein8	Complex27	
+BiochemicalReaction21	Ubiquitination of NOTCH1 by ITCH in the absence of ligand	Complex26	Complex27	
+BiochemicalReaction22	NICD1 displaces co-repressor complex from RBPJ (CSL)	Protein42	Complex30	
+BiochemicalReaction22	NICD1 displaces co-repressor complex from RBPJ (CSL)	Complex29	Complex30	
+BiochemicalReaction22	NICD1 displaces co-repressor complex from RBPJ (CSL)	Complex29	Complex31	
+BiochemicalReaction22	NICD1 displaces co-repressor complex from RBPJ (CSL)	Protein42	Complex31	
+BiochemicalReaction23	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein76	Complex32	
+BiochemicalReaction23	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein77	Complex32	
+BiochemicalReaction23	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein82	Complex32	
+BiochemicalReaction23	NICD1 in complex with RBPJ (CSL) recruits MAML	Protein83	Complex32	
+BiochemicalReaction23	NICD1 in complex with RBPJ (CSL) recruits MAML	Complex30	Complex32	
+BiochemicalReaction24	NOTCH1 Coactivator Complex binds HES1 promoter	Dna1	Complex33	
+BiochemicalReaction24	NOTCH1 Coactivator Complex binds HES1 promoter	Complex32	Complex33	
+BiochemicalReaction25	NOTCH1 stimulates HES1 transcription	Dna1	Protein86	
+BiochemicalReaction26	HES1 binds TLE	Protein87	Complex34	
+BiochemicalReaction26	HES1 binds TLE	Protein86	Complex34	
+BiochemicalReaction27	NOTCH1 Coactivator Complex binds MYC promoter	Complex32	Complex35	
+BiochemicalReaction27	NOTCH1 Coactivator Complex binds MYC promoter	Dna2	Complex35	
+BiochemicalReaction28	NOTCH1 stimulates MYC transcription	Dna2	Protein92	
+BiochemicalReaction29	NOTCH1 Coactivator Complex binds HES5 promoter	Dna3	Complex36	
+BiochemicalReaction29	NOTCH1 Coactivator Complex binds HES5 promoter	Complex32	Complex36	
+BiochemicalReaction3	NOTCH1 binds JAG1	Complex2	Complex6	
+BiochemicalReaction3	NOTCH1 binds JAG1	Protein6	Complex6	
+BiochemicalReaction30	NOTCH1 stimulates HES5 transcription	Dna3	Protein93	
+BiochemicalReaction31	NOTCH1 Coactivator Complex binds promoters of HEY genes	Dna4	Complex37	
+BiochemicalReaction31	NOTCH1 Coactivator Complex binds promoters of HEY genes	Complex32	Complex37	
+BiochemicalReaction32	NOTCH1 stimulates HEY transcription	Dna4	Protein94	
+BiochemicalReaction33	MAML in complex with NICD1 recruits CDK8	Complex32	Complex39	
+BiochemicalReaction33	MAML in complex with NICD1 recruits CDK8	Complex38	Complex39	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Protein76	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein76	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein77	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Protein77	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	SmallMolecule3	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein82	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Protein82	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Complex40	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Complex40	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein83	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Protein83	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Protein100	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Protein100	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	SmallMolecule2	Complex38	
+BiochemicalReaction34	NICD1 is phosphorylated by CDK8	Complex39	Complex38	
+BiochemicalReaction35	Phosphorylated NICD1 binds FBXW7	Protein100	Complex42	
+BiochemicalReaction35	Phosphorylated NICD1 binds FBXW7	Complex41	Complex42	
+BiochemicalReaction36	Ubiquitination of NICD1 by FBWX7	Complex42	Complex43	
+BiochemicalReaction36	Ubiquitination of NICD1 by FBWX7	Protein107	Complex43	
+BiochemicalReaction36	Ubiquitination of NICD1 by FBWX7	Protein107	Complex41	
+BiochemicalReaction36	Ubiquitination of NICD1 by FBWX7	Complex42	Complex41	
+BiochemicalReaction37	NICD1 binds HIF1A	Protein42	Complex44	
+BiochemicalReaction37	NICD1 binds HIF1A	Protein122	Complex44	
+BiochemicalReaction4	NOTCH1 binds JAG2	Complex2	Complex7	
+BiochemicalReaction4	NOTCH1 binds JAG2	Protein7	Complex7	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1	Protein8	Complex9	
+BiochemicalReaction5	Ubiquitination of DLL/JAG ligands upon binding to NOTCH1	Complex8	Complex9	
+BiochemicalReaction6	Complex of NOTCH1 with its ligand is cleaved to produce NEXT1	Complex9	Complex10	
+BiochemicalReaction6	Complex of NOTCH1 with its ligand is cleaved to produce NEXT1	Complex9	Protein30	
+BiochemicalReaction7	NEXT1 is cleaved to produce NICD1	Protein30	Protein34	
+BiochemicalReaction7	NEXT1 is cleaved to produce NICD1	Protein30	Protein35	
+BiochemicalReaction8	NICD1 traffics to nucleus	Protein34	Protein42	
+BiochemicalReaction9	DTX binds NOTCH1	Complex2	Complex16	
+BiochemicalReaction9	DTX binds NOTCH1	Protein43	Complex16	

@@ -1,0 +1,15 @@
+BiochemicalReaction1	Activation of CaMKK	Protein1	SmallMolecule2	
+BiochemicalReaction1	Activation of CaMKK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Activation of CaMKK	SmallMolecule1	Protein2	
+BiochemicalReaction1	Activation of CaMKK	Protein1	Protein2	
+BiochemicalReaction2	Calmodulin binds CaMK IV	Complex1	Complex2	
+BiochemicalReaction2	Calmodulin binds CaMK IV	Protein4	Complex2	
+BiochemicalReaction3	CamKIV enters the nucleus	Complex2	Complex3	
+BiochemicalReaction4	CaMK IV autophosphorylation	Complex3	Complex5	
+BiochemicalReaction4	CaMK IV autophosphorylation	SmallMolecule5	Complex5	
+BiochemicalReaction4	CaMK IV autophosphorylation	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	CaMK IV autophosphorylation	Complex3	SmallMolecule6	
+BiochemicalReaction5	Phosphorylation of CREB by CaMKIV	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction5	Phosphorylation of CREB by CaMKIV	Protein8	SmallMolecule6	
+BiochemicalReaction5	Phosphorylation of CREB by CaMKIV	Protein8	Protein9	
+BiochemicalReaction5	Phosphorylation of CREB by CaMKIV	SmallMolecule5	Protein9	

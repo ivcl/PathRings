@@ -1,0 +1,10 @@
+BiochemicalReaction1	Synthesis of minus strand strong stop DNA (-sssDNA)	Complex1	SmallMolecule6	
+BiochemicalReaction1	Synthesis of minus strand strong stop DNA (-sssDNA)	SmallMolecule1	SmallMolecule6	
+BiochemicalReaction1	Synthesis of minus strand strong stop DNA (-sssDNA)	SmallMolecule1	Complex4	
+BiochemicalReaction1	Synthesis of minus strand strong stop DNA (-sssDNA)	Complex1	Complex4	
+BiochemicalReaction2	RNase H-mediated cleavage of the RNA strand of the -sssDNA:RNA duplex	Complex4	Complex6	
+BiochemicalReaction3	RNase H-mediated degradation of the RNA strand of the -sssDNA:RNA duplex	Complex6	Complex8	
+BiochemicalReaction4	First strand transfer mediated by Repeated (R) sequence	Complex8	Complex10	
+BiochemicalReaction5	Minus strand DNA synthesis resumes	Complex10	Complex12	
+BiochemicalReaction6	RNase H-mediated cleavage of the template strand	Complex12	Complex13	
+BiochemicalReaction7	RNase H-mediated degradation of the template strand	Complex13	Complex15	

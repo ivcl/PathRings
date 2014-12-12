@@ -1,0 +1,17 @@
+BiochemicalReaction1	PP2A binds CTLA4 homodimer	Complex1	Complex3	
+BiochemicalReaction1	PP2A binds CTLA4 homodimer	Complex2	Complex3	
+BiochemicalReaction2	CTLA-4 binds B7-1/B7-2	PhysicalEntity1	Complex5	
+BiochemicalReaction2	CTLA-4 binds B7-1/B7-2	Complex3	Complex5	
+BiochemicalReaction3	Phosphorylation of CTLA-4	Complex5	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CTLA-4	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CTLA-4	Protein16	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of CTLA-4	Protein16	Complex1	
+BiochemicalReaction3	Phosphorylation of CTLA-4	SmallMolecule1	Complex1	
+BiochemicalReaction3	Phosphorylation of CTLA-4	Complex5	Complex1	
+BiochemicalReaction3	Phosphorylation of CTLA-4	Protein16	Complex6	
+BiochemicalReaction3	Phosphorylation of CTLA-4	SmallMolecule1	Complex6	
+BiochemicalReaction3	Phosphorylation of CTLA-4	Complex5	Complex6	
+BiochemicalReaction4	SHP2 phosphatase binds CTLA-4	Protein23	Complex9	
+BiochemicalReaction4	SHP2 phosphatase binds CTLA-4	Complex6	Complex9	
+BiochemicalReaction5	Dephosphorylation of AKT by PP2A	Complex10	SmallMolecule4	
+BiochemicalReaction5	Dephosphorylation of AKT by PP2A	Complex10	Complex11	

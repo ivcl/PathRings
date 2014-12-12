@@ -1,0 +1,5 @@
+BiochemicalReaction1	Ligation of DNA and formation of Holliday structures following repair synthesis	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction2	Cleavage of Holliday junctions	PhysicalEntity2	PhysicalEntity3	
+BiochemicalReaction3	Dissociation of the extended strands 	PhysicalEntity1	PhysicalEntity4	
+BiochemicalReaction3	Dissociation of the extended strands 	PhysicalEntity1	PhysicalEntity5	
+BiochemicalReaction4	Fill-in DNA synthesis	PhysicalEntity4	PhysicalEntity6	

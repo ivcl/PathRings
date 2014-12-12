@@ -1,0 +1,98 @@
+BiochemicalReaction1	LEP Binds LEPR:JAK2	Complex1	Complex3	
+BiochemicalReaction1	LEP Binds LEPR:JAK2	Protein3	Complex3	
+BiochemicalReaction10	STAT5 dimers translocate to the nucleus and bind to specific DNA sequences	Complex14	Complex15	
+BiochemicalReaction11	Phosphorylated LEPR Binds STAT3	Complex7	Complex16	
+BiochemicalReaction11	Phosphorylated LEPR Binds STAT3	Protein18	Complex16	
+BiochemicalReaction12	JAK2 Phosphoryates STAT3 in Response to Leptin	Complex16	SmallMolecule2	
+BiochemicalReaction12	JAK2 Phosphoryates STAT3 in Response to Leptin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction12	JAK2 Phosphoryates STAT3 in Response to Leptin	SmallMolecule1	Complex17	
+BiochemicalReaction12	JAK2 Phosphoryates STAT3 in Response to Leptin	Complex16	Complex17	
+BiochemicalReaction13	Phosphorylated STAT3 Dissociates from Leptin Receptor	Complex17	Complex7	
+BiochemicalReaction13	Phosphorylated STAT3 Dissociates from Leptin Receptor	Complex17	Protein19	
+BiochemicalReaction14	Phosphorylated STAT3 Forms Dimer	Protein19	Complex18	
+BiochemicalReaction15	Phosphorylated STAT3 Dimer Translocates to the Nucleus	Complex18	Complex19	
+BiochemicalReaction16	Phosphorylated LEP:LEPR:JAK2 Binds SH2B1	Protein21	Complex20	
+BiochemicalReaction16	Phosphorylated LEP:LEPR:JAK2 Binds SH2B1	Complex7	Complex20	
+BiochemicalReaction17	Phosphorylated LEP:LEPR:JAK2:SH2B1 Binds IRS1/2	Complex20	Complex21	
+BiochemicalReaction17	Phosphorylated LEP:LEPR:JAK2:SH2B1 Binds IRS1/2	Protein22	Complex21	
+BiochemicalReaction18	JAK2 Phosphorylates IRS in Response to Leptin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction18	JAK2 Phosphorylates IRS in Response to Leptin	Complex21	SmallMolecule2	
+BiochemicalReaction18	JAK2 Phosphorylates IRS in Response to Leptin	Complex21	Complex22	
+BiochemicalReaction18	JAK2 Phosphorylates IRS in Response to Leptin	SmallMolecule1	Complex22	
+BiochemicalReaction19	Phosphorylated LEPR Binds SOCS3	Protein5	Complex6	
+BiochemicalReaction19	Phosphorylated LEPR Binds SOCS3	Complex7	Complex6	
+BiochemicalReaction2	JAK2 Autophosphorylates in Response to Leptin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	JAK2 Autophosphorylates in Response to Leptin	Complex3	SmallMolecule2	
+BiochemicalReaction2	JAK2 Autophosphorylates in Response to Leptin	Complex3	Complex4	
+BiochemicalReaction2	JAK2 Autophosphorylates in Response to Leptin	SmallMolecule1	Complex4	
+BiochemicalReaction20	p-RAF binds 14-3-3 beta/alpha	Protein28	Complex23	
+BiochemicalReaction20	p-RAF binds 14-3-3 beta/alpha	Protein29	Complex23	
+BiochemicalReaction21	Transient dissociation of 14-3-3 upon Ras binding	Complex23	Complex25	
+BiochemicalReaction21	Transient dissociation of 14-3-3 upon Ras binding	Complex24	Complex25	
+BiochemicalReaction21	Transient dissociation of 14-3-3 upon Ras binding	Complex24	Protein28	
+BiochemicalReaction21	Transient dissociation of 14-3-3 upon Ras binding	Complex23	Protein28	
+BiochemicalReaction22	Stabilisation of RAS:RAF by 14-3-3	Complex25	Complex26	
+BiochemicalReaction22	Stabilisation of RAS:RAF by 14-3-3	Protein28	Complex26	
+BiochemicalReaction23	Stabilisation of RAF by further phosphorylation	SmallMolecule1	Complex27	
+BiochemicalReaction23	Stabilisation of RAF by further phosphorylation	Complex26	Complex27	
+BiochemicalReaction23	Stabilisation of RAF by further phosphorylation	Complex26	SmallMolecule2	
+BiochemicalReaction23	Stabilisation of RAF by further phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction24	Phosphorylated human RAF1 binds to RAS:GTP complex	Protein29	Complex29	
+BiochemicalReaction24	Phosphorylated human RAF1 binds to RAS:GTP complex	Complex28	Complex29	
+BiochemicalReaction25	Activated RAF1 complex binds MEK	Protein35	Complex30	
+BiochemicalReaction25	Activated RAF1 complex binds MEK	Complex27	Complex30	
+BiochemicalReaction26	RAF1  phosphorylates MEK1	SmallMolecule1	Protein38	
+BiochemicalReaction26	RAF1  phosphorylates MEK1	Complex31	Protein38	
+BiochemicalReaction26	RAF1  phosphorylates MEK1	Complex31	Complex27	
+BiochemicalReaction26	RAF1  phosphorylates MEK1	SmallMolecule1	Complex27	
+BiochemicalReaction26	RAF1  phosphorylates MEK1	Complex31	SmallMolecule2	
+BiochemicalReaction26	RAF1  phosphorylates MEK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	RAF1 phosphorylates MEK2	Complex32	Complex27	
+BiochemicalReaction27	RAF1 phosphorylates MEK2	SmallMolecule1	Complex27	
+BiochemicalReaction27	RAF1 phosphorylates MEK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	RAF1 phosphorylates MEK2	Complex32	SmallMolecule2	
+BiochemicalReaction27	RAF1 phosphorylates MEK2	SmallMolecule1	Protein39	
+BiochemicalReaction27	RAF1 phosphorylates MEK2	Complex32	Protein39	
+BiochemicalReaction28	Inactivation of MEK1 by p34cdc2	Protein40	SmallMolecule2	
+BiochemicalReaction28	Inactivation of MEK1 by p34cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction28	Inactivation of MEK1 by p34cdc2	SmallMolecule1	Protein41	
+BiochemicalReaction28	Inactivation of MEK1 by p34cdc2	Protein40	Protein41	
+BiochemicalReaction29	MEK1 binds ERK-1	Protein38	Complex33	
+BiochemicalReaction29	MEK1 binds ERK-1	Protein45	Complex33	
+BiochemicalReaction3	JAK2 Phosphorylates LEPR	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	JAK2 Phosphorylates LEPR	Complex4	SmallMolecule2	
+BiochemicalReaction3	JAK2 Phosphorylates LEPR	Complex4	Complex7	
+BiochemicalReaction3	JAK2 Phosphorylates LEPR	SmallMolecule1	Complex7	
+BiochemicalReaction30	MEK1 phosphorylates ERK-1	Complex33	Complex34	
+BiochemicalReaction30	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex34	
+BiochemicalReaction30	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	MEK1 phosphorylates ERK-1	Complex33	SmallMolecule2	
+BiochemicalReaction31	Dissociation of phospho-ERK-1:MEK1	Complex34	Protein38	
+BiochemicalReaction31	Dissociation of phospho-ERK-1:MEK1	Complex34	Protein46	
+BiochemicalReaction32	Dimerisation of phospho-ERK-1	Protein46	Complex35	
+BiochemicalReaction33	Nuclear translocation of phospho-ERK-1 dimer	Complex35	Complex36	
+BiochemicalReaction34	MEK2 binds ERK-2	Protein39	Complex45	
+BiochemicalReaction34	MEK2 binds ERK-2	Protein56	Complex45	
+BiochemicalReaction35	MEK2 phosphorylates ERK-2	Complex45	SmallMolecule2	
+BiochemicalReaction35	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction35	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex46	
+BiochemicalReaction35	MEK2 phosphorylates ERK-2	Complex45	Complex46	
+BiochemicalReaction36	Dissociation of phospho-ERK-2:MEK2	Complex46	Protein39	
+BiochemicalReaction36	Dissociation of phospho-ERK-2:MEK2	Complex46	Protein57	
+BiochemicalReaction37	Dimerisation of phospho-ERK-2	Protein57	Complex47	
+BiochemicalReaction38	Nuclear translocation of phospho-ERK-2 dimer	Complex47	Complex48	
+BiochemicalReaction4	Phosphorylated LEPR Binds SHP2 (PTPN11)	Complex7	Complex10	
+BiochemicalReaction4	Phosphorylated LEPR Binds SHP2 (PTPN11)	Protein7	Complex10	
+BiochemicalReaction5	JAK2 Phosphorylates SHP2 (PTPN11) in Response to Leptin	Complex10	SmallMolecule2	
+BiochemicalReaction5	JAK2 Phosphorylates SHP2 (PTPN11) in Response to Leptin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	JAK2 Phosphorylates SHP2 (PTPN11) in Response to Leptin	SmallMolecule1	Complex11	
+BiochemicalReaction5	JAK2 Phosphorylates SHP2 (PTPN11) in Response to Leptin	Complex10	Complex11	
+BiochemicalReaction6	Phosphorylated LEPR Binds STAT5	Protein9	Complex12	
+BiochemicalReaction6	Phosphorylated LEPR Binds STAT5	Complex7	Complex12	
+BiochemicalReaction7	JAK2 Phosphorylates STAT5 in Response to Leptin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	JAK2 Phosphorylates STAT5 in Response to Leptin	Complex12	SmallMolecule2	
+BiochemicalReaction7	JAK2 Phosphorylates STAT5 in Response to Leptin	Complex12	Complex13	
+BiochemicalReaction7	JAK2 Phosphorylates STAT5 in Response to Leptin	SmallMolecule1	Complex13	
+BiochemicalReaction8	Phosphorylated STAT5 Dissociates from Leptin Receptor	Complex13	Protein12	
+BiochemicalReaction8	Phosphorylated STAT5 Dissociates from Leptin Receptor	Complex13	Complex7	
+BiochemicalReaction9	Phosphorylated STAT5 forms dimers	Protein12	Complex14	

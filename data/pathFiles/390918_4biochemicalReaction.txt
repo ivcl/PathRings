@@ -1,0 +1,207 @@
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	PMP34-mediated exchange of cytosolic ATP for peroxisomal AMP	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction10	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX3)	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction10	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX3)	SmallMolecule9	SmallMolecule27	
+BiochemicalReaction10	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX3)	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction10	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX3)	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction11	trans-2,3-dehydropristanoyl-CoA + H2O => 3-hydroxypristanoyl-CoA	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction11	trans-2,3-dehydropristanoyl-CoA + H2O => 3-hydroxypristanoyl-CoA	SmallMolecule19	SmallMolecule30	
+BiochemicalReaction12	3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction12	3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+	SmallMolecule30	SmallMolecule22	
+BiochemicalReaction12	3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+	SmallMolecule30	SmallMolecule31	
+BiochemicalReaction12	3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+	SmallMolecule21	SmallMolecule31	
+BiochemicalReaction12	3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+	SmallMolecule30	SmallMolecule24	
+BiochemicalReaction12	3-hydroxypristanoyl-CoA + NAD+ => 3-ketoxypristanoyl-CoA + NADH + H+	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction13	3-ketopristanoyl-CoA + CoASH => 4,8,12-trimethyltridecanoyl-CoA + propionyl-CoA	SmallMolecule31	SmallMolecule32	
+BiochemicalReaction13	3-ketopristanoyl-CoA + CoASH => 4,8,12-trimethyltridecanoyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule32	
+BiochemicalReaction13	3-ketopristanoyl-CoA + CoASH => 4,8,12-trimethyltridecanoyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule33	
+BiochemicalReaction13	3-ketopristanoyl-CoA + CoASH => 4,8,12-trimethyltridecanoyl-CoA + propionyl-CoA	SmallMolecule31	SmallMolecule33	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule9	SmallMolecule34	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule21	SmallMolecule34	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule19	SmallMolecule34	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule34	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule22	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule33	SmallMolecule22	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule19	SmallMolecule22	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule9	SmallMolecule22	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule32	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule33	SmallMolecule32	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule19	SmallMolecule32	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule21	SmallMolecule32	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule9	SmallMolecule32	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule35	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule19	SmallMolecule35	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule21	SmallMolecule35	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule9	SmallMolecule35	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule28	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule33	SmallMolecule28	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule19	SmallMolecule28	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule21	SmallMolecule28	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule6	SmallMolecule24	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule33	SmallMolecule24	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule19	SmallMolecule24	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction14	4,8,12-trimethyltridecanoyl-CoA + 2 O2 + 2 H2O + 2 NAD+ + 2 CoASH => 4,8-dimethylnonanoyl-CoA + 2 H2O2 + 2 NADH + 2 H+ + acetyl-CoA + propionyl-CoA	SmallMolecule9	SmallMolecule24	
+BiochemicalReaction15	4,8-dimethylnonanoyl-CoA + carnitine => 4,8-dimethylnonanoylcarnitine + CoASH	SmallMolecule34	SmallMolecule37	
+BiochemicalReaction15	4,8-dimethylnonanoyl-CoA + carnitine => 4,8-dimethylnonanoylcarnitine + CoASH	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction15	4,8-dimethylnonanoyl-CoA + carnitine => 4,8-dimethylnonanoylcarnitine + CoASH	SmallMolecule36	SmallMolecule6	
+BiochemicalReaction15	4,8-dimethylnonanoyl-CoA + carnitine => 4,8-dimethylnonanoylcarnitine + CoASH	SmallMolecule34	SmallMolecule6	
+BiochemicalReaction16	acetyl-CoA + carnitine => acetylcarnitine + CoASH	SmallMolecule35	SmallMolecule38	
+BiochemicalReaction16	acetyl-CoA + carnitine => acetylcarnitine + CoASH	SmallMolecule36	SmallMolecule38	
+BiochemicalReaction16	acetyl-CoA + carnitine => acetylcarnitine + CoASH	SmallMolecule36	SmallMolecule6	
+BiochemicalReaction16	acetyl-CoA + carnitine => acetylcarnitine + CoASH	SmallMolecule35	SmallMolecule6	
+BiochemicalReaction17	acetyl-CoA + H2O => acetate + CoASH	SmallMolecule35	SmallMolecule39	
+BiochemicalReaction17	acetyl-CoA + H2O => acetate + CoASH	SmallMolecule19	SmallMolecule39	
+BiochemicalReaction17	acetyl-CoA + H2O => acetate + CoASH	SmallMolecule19	SmallMolecule6	
+BiochemicalReaction17	acetyl-CoA + H2O => acetate + CoASH	SmallMolecule35	SmallMolecule6	
+BiochemicalReaction18	propionyl-CoA + carnitine => propionylcarnitine + CoASH	SmallMolecule32	SmallMolecule40	
+BiochemicalReaction18	propionyl-CoA + carnitine => propionylcarnitine + CoASH	SmallMolecule36	SmallMolecule40	
+BiochemicalReaction18	propionyl-CoA + carnitine => propionylcarnitine + CoASH	SmallMolecule36	SmallMolecule6	
+BiochemicalReaction18	propionyl-CoA + carnitine => propionylcarnitine + CoASH	SmallMolecule32	SmallMolecule6	
+BiochemicalReaction19	Peroxisomal uptake of very long-chain fatty acyl CoA	SmallMolecule41	SmallMolecule42	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule5	SmallMolecule1	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction2	phytanate + CoA-SH + ATP => phytanoyl-CoA + AMP + pyrophosphate	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction20	hexacosanoyl-CoA + O2 => trans-2,3-dehydrohexacosanoyl-CoA + H2O2	SmallMolecule42	SmallMolecule28	
+BiochemicalReaction20	hexacosanoyl-CoA + O2 => trans-2,3-dehydrohexacosanoyl-CoA + H2O2	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction20	hexacosanoyl-CoA + O2 => trans-2,3-dehydrohexacosanoyl-CoA + H2O2	SmallMolecule9	SmallMolecule43	
+BiochemicalReaction20	hexacosanoyl-CoA + O2 => trans-2,3-dehydrohexacosanoyl-CoA + H2O2	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction21	trans-2,3-dehydrohexacosanoyl-CoA + H2O => 3-hydroxyhexacosanoyl-CoA	SmallMolecule19	SmallMolecule44	
+BiochemicalReaction21	trans-2,3-dehydrohexacosanoyl-CoA + H2O => 3-hydroxyhexacosanoyl-CoA	SmallMolecule43	SmallMolecule44	
+BiochemicalReaction22	3-hydroxyhexacosanoyl-CoA + NAD+ => 3-ketohexacosanoyl-CoA + NADH + H+	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction22	3-hydroxyhexacosanoyl-CoA + NAD+ => 3-ketohexacosanoyl-CoA + NADH + H+	SmallMolecule44	SmallMolecule22	
+BiochemicalReaction22	3-hydroxyhexacosanoyl-CoA + NAD+ => 3-ketohexacosanoyl-CoA + NADH + H+	SmallMolecule44	SmallMolecule45	
+BiochemicalReaction22	3-hydroxyhexacosanoyl-CoA + NAD+ => 3-ketohexacosanoyl-CoA + NADH + H+	SmallMolecule21	SmallMolecule45	
+BiochemicalReaction22	3-hydroxyhexacosanoyl-CoA + NAD+ => 3-ketohexacosanoyl-CoA + NADH + H+	SmallMolecule44	SmallMolecule24	
+BiochemicalReaction22	3-hydroxyhexacosanoyl-CoA + NAD+ => 3-ketohexacosanoyl-CoA + NADH + H+	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction23	3-ketohexacosanoyl-CoA + CoASH => tetracosanoyl-CoA + acetyl-CoA	SmallMolecule45	SmallMolecule35	
+BiochemicalReaction23	3-ketohexacosanoyl-CoA + CoASH => tetracosanoyl-CoA + acetyl-CoA	SmallMolecule6	SmallMolecule35	
+BiochemicalReaction23	3-ketohexacosanoyl-CoA + CoASH => tetracosanoyl-CoA + acetyl-CoA	SmallMolecule6	SmallMolecule46	
+BiochemicalReaction23	3-ketohexacosanoyl-CoA + CoASH => tetracosanoyl-CoA + acetyl-CoA	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule9	SmallMolecule22	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule46	SmallMolecule22	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule19	SmallMolecule22	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule6	SmallMolecule22	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule6	SmallMolecule47	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule19	SmallMolecule47	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule46	SmallMolecule47	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule21	SmallMolecule47	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule9	SmallMolecule47	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule6	SmallMolecule35	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule19	SmallMolecule35	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule46	SmallMolecule35	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule21	SmallMolecule35	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule9	SmallMolecule35	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule6	SmallMolecule28	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule19	SmallMolecule28	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule46	SmallMolecule28	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule21	SmallMolecule28	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule6	SmallMolecule24	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule19	SmallMolecule24	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule46	SmallMolecule24	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction24	tetracosenoyl-CoA + 8 O2 + 8 H2O + 8 NAD+ + 8 CoASH => octanoyl-CoA + 8 H2O2 + 8 NADH + 8 H+ + 8 acetyl-CoA	SmallMolecule9	SmallMolecule24	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule48	SmallMolecule50	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule24	SmallMolecule50	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule24	SmallMolecule51	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule49	SmallMolecule51	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule48	SmallMolecule51	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule24	SmallMolecule6	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule49	SmallMolecule6	
+BiochemicalReaction25	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR1]	SmallMolecule48	SmallMolecule6	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule48	SmallMolecule50	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule49	SmallMolecule50	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule24	SmallMolecule50	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule24	SmallMolecule51	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule49	SmallMolecule51	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule48	SmallMolecule51	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule24	SmallMolecule6	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule49	SmallMolecule6	
+BiochemicalReaction26	palmitoyl-CoA + 2 NADPH + 2 H+ => hexadecanol + 2 NADP+ [FAR2]	SmallMolecule48	SmallMolecule6	
+BiochemicalReaction27	palmitoyl-CoA + DHAP => 1-palmitoylglycerone phosphate + CoASH	SmallMolecule52	SmallMolecule53	
+BiochemicalReaction27	palmitoyl-CoA + DHAP => 1-palmitoylglycerone phosphate + CoASH	SmallMolecule49	SmallMolecule53	
+BiochemicalReaction27	palmitoyl-CoA + DHAP => 1-palmitoylglycerone phosphate + CoASH	SmallMolecule49	SmallMolecule6	
+BiochemicalReaction27	palmitoyl-CoA + DHAP => 1-palmitoylglycerone phosphate + CoASH	SmallMolecule52	SmallMolecule6	
+BiochemicalReaction28	1-palmitoylglycerone phosphate + hexadecanol => O-hexadecylglycerone phosphate + palmitate	SmallMolecule53	SmallMolecule54	
+BiochemicalReaction28	1-palmitoylglycerone phosphate + hexadecanol => O-hexadecylglycerone phosphate + palmitate	SmallMolecule50	SmallMolecule54	
+BiochemicalReaction28	1-palmitoylglycerone phosphate + hexadecanol => O-hexadecylglycerone phosphate + palmitate	SmallMolecule50	SmallMolecule55	
+BiochemicalReaction28	1-palmitoylglycerone phosphate + hexadecanol => O-hexadecylglycerone phosphate + palmitate	SmallMolecule53	SmallMolecule55	
+BiochemicalReaction29	Movement of O-hexadecylglycerone phosphate from the peroxisomal matrix to the cytosol	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule9	SmallMolecule11	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule10	SmallMolecule12	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule7	SmallMolecule12	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule9	SmallMolecule12	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule10	SmallMolecule13	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule7	SmallMolecule13	
+BiochemicalReaction3	phytanoyl-CoA + 2-oxoglutarate + O2 => 2-hydroxyphytanoyl-CoA + succinate + CO2	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction30	Conversion of acylated DHAP to lysophosphatidic acid acid	SmallMolecule57	SmallMolecule59	
+BiochemicalReaction30	Conversion of acylated DHAP to lysophosphatidic acid acid	SmallMolecule58	SmallMolecule59	
+BiochemicalReaction30	Conversion of acylated DHAP to lysophosphatidic acid acid	SmallMolecule56	SmallMolecule59	
+BiochemicalReaction30	Conversion of acylated DHAP to lysophosphatidic acid acid	SmallMolecule56	SmallMolecule60	
+BiochemicalReaction30	Conversion of acylated DHAP to lysophosphatidic acid acid	SmallMolecule58	SmallMolecule60	
+BiochemicalReaction30	Conversion of acylated DHAP to lysophosphatidic acid acid	SmallMolecule57	SmallMolecule60	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule61	SmallMolecule48	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule51	SmallMolecule48	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule51	SmallMolecule10	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule61	SmallMolecule10	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule51	SmallMolecule24	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule61	SmallMolecule24	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule51	SmallMolecule13	
+BiochemicalReaction31	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule61	SmallMolecule13	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule60	SmallMolecule57	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule62	SmallMolecule57	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule62	SmallMolecule58	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule60	SmallMolecule58	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule62	SmallMolecule63	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule60	SmallMolecule63	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule62	SmallMolecule64	
+BiochemicalReaction32	isocitrate + NADP+ => 2-oxoglutarate + CO2 + NADPH + H+	SmallMolecule60	SmallMolecule64	
+BiochemicalReaction33	Exchange of isocitrate and 2-oxoglutarate across the peroxisomal membrane	SmallMolecule10	SmallMolecule61	
+BiochemicalReaction33	Exchange of isocitrate and 2-oxoglutarate across the peroxisomal membrane	SmallMolecule62	SmallMolecule61	
+BiochemicalReaction33	Exchange of isocitrate and 2-oxoglutarate across the peroxisomal membrane	SmallMolecule62	SmallMolecule64	
+BiochemicalReaction33	Exchange of isocitrate and 2-oxoglutarate across the peroxisomal membrane	SmallMolecule10	SmallMolecule64	
+BiochemicalReaction34	malonyl-CoA is decarboxylated to acetyl-CoA in peroxisome	SmallMolecule65	SmallMolecule35	
+BiochemicalReaction34	malonyl-CoA is decarboxylated to acetyl-CoA in peroxisome	SmallMolecule65	SmallMolecule13	
+BiochemicalReaction4	2-hydroxyphytanoyl-CoA => pristanal + formyl-CoA	SmallMolecule12	SmallMolecule15	
+BiochemicalReaction4	2-hydroxyphytanoyl-CoA => pristanal + formyl-CoA	SmallMolecule12	SmallMolecule16	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule16	SmallMolecule20	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule19	SmallMolecule6	
+BiochemicalReaction5	formyl-CoA + H2O => formate + CoASH	SmallMolecule16	SmallMolecule6	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule15	SmallMolecule22	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule21	SmallMolecule22	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule21	SmallMolecule23	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule15	SmallMolecule23	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule21	SmallMolecule24	
+BiochemicalReaction6	pristanal + NAD+ => pristanate + NADH + H+	SmallMolecule15	SmallMolecule24	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule1	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule23	SmallMolecule1	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule1	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule23	SmallMolecule8	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule6	SmallMolecule25	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction7	pristanate + CoA-SH + ATP => pristanoyl-CoA + AMP + pyrophosphate	SmallMolecule3	SmallMolecule25	
+BiochemicalReaction8	Isomerization of (2R)-pristanoyl-CoA to (2S)-pristanoyl-CoA	SmallMolecule25	SmallMolecule26	
+BiochemicalReaction9	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX2)	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction9	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX2)	SmallMolecule9	SmallMolecule27	
+BiochemicalReaction9	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX2)	SmallMolecule9	SmallMolecule28	
+BiochemicalReaction9	(2S)-pristanoyl-CoA + O2 => trans-2,3-dehydropristanoyl-CoA + H2O2 (ACOX2)	SmallMolecule26	SmallMolecule28	

@@ -1,0 +1,26 @@
+BiochemicalReaction1	Stalling of DNA replication fork and RPA binding	Complex1	Complex2	
+BiochemicalReaction1	Stalling of DNA replication fork and RPA binding	PhysicalEntity1	Complex2	
+BiochemicalReaction2	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex3	Complex4	
+BiochemicalReaction2	Binding of ATR-ATRIP to the RPA-ssDNA complex	Complex2	Complex4	
+BiochemicalReaction3	Recruitment of Rad17-RFC complex to DNA	Complex5	Complex6	
+BiochemicalReaction3	Recruitment of Rad17-RFC complex to DNA	Complex2	Complex6	
+BiochemicalReaction4	Recruitment of the 9-1-1 complex to DNA	Complex7	Complex8	
+BiochemicalReaction4	Recruitment of the 9-1-1 complex to DNA	Complex6	Complex8	
+BiochemicalReaction5	Loading of claspin onto DNA during replication origin firing	Complex9	Complex19	
+BiochemicalReaction5	Loading of claspin onto DNA during replication origin firing	Protein35	Complex19	
+BiochemicalReaction6	Activation of claspin	SmallMolecule1	Complex20	
+BiochemicalReaction6	Activation of claspin	Complex19	Complex20	
+BiochemicalReaction6	Activation of claspin	Complex19	SmallMolecule2	
+BiochemicalReaction6	Activation of claspin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Recruitment and activation of Chk1	SmallMolecule1	Protein38	
+BiochemicalReaction7	Recruitment and activation of Chk1	Protein37	Protein38	
+BiochemicalReaction7	Recruitment and activation of Chk1	Protein37	SmallMolecule2	
+BiochemicalReaction7	Recruitment and activation of Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein39	SmallMolecule2	
+BiochemicalReaction8	Phosphorylation of Cdc25A at Ser-123 by Chk1	Protein39	Protein40	
+BiochemicalReaction8	Phosphorylation of Cdc25A at Ser-123 by Chk1	SmallMolecule1	Protein40	
+BiochemicalReaction9	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein41	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phosphorylation of Cdc25C at Ser 216 by Chk1	SmallMolecule1	Protein42	
+BiochemicalReaction9	Phosphorylation of Cdc25C at Ser 216 by Chk1	Protein41	Protein42	

@@ -1,0 +1,8 @@
+BiochemicalReaction1	N-myristoylation of GAG polyprotein by NMT2	SmallMolecule1	Protein2	
+BiochemicalReaction1	N-myristoylation of GAG polyprotein by NMT2	Protein1	Protein2	
+BiochemicalReaction1	N-myristoylation of GAG polyprotein by NMT2	Protein1	SmallMolecule2	
+BiochemicalReaction1	N-myristoylation of GAG polyprotein by NMT2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Monoubiquitination of N-myristoyl GAG polyprotein	Protein4	Complex1	
+BiochemicalReaction2	Monoubiquitination of N-myristoyl GAG polyprotein	Protein2	Complex1	
+BiochemicalReaction3	Monoubiquitinated N-myristoyl GAG polyprotein is targeted to the late endosomal vesicle membrane by the ESCRT-I complex	Complex1	Complex2	
+BiochemicalReaction4	Transport of GAG to the Plasma Membrane	Complex2	Complex4	

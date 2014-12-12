@@ -1,0 +1,168 @@
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein1	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein2	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein3	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein4	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein5	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein6	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein7	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein8	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein9	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein10	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein11	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein12	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein13	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein14	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein15	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein16	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein17	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein18	Complex1	
+BiochemicalReaction10	WWTR1 (TAZ) binds RUNX2	Protein464	Complex10	
+BiochemicalReaction10	WWTR1 (TAZ) binds RUNX2	Protein472	Complex10	
+BiochemicalReaction11	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein488	Complex14	
+BiochemicalReaction11	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein489	Complex14	
+BiochemicalReaction12	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex14	Complex15	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex15	SmallMolecule8	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex15	Complex16	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule7	Complex16	
+BiochemicalReaction14	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Complex14	Complex20	
+BiochemicalReaction14	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Protein502	Complex20	
+BiochemicalReaction15	WWTR1:SMAD translocates to the nucleus	Complex20	Complex21	
+BiochemicalReaction16	WWTR1:SMAD stimulates transcription of SMAD7	Dna1	Protein503	
+BiochemicalReaction17	WWTR1:SMAD stimulates transcription of SERPINE1 while TGIF:SMAD and SMAD7 inhibit it	Dna2	Protein504	
+BiochemicalReaction18	RNF111 binds SMAD7	Protein503	Complex23	
+BiochemicalReaction18	RNF111 binds SMAD7	Protein509	Complex23	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Complex23	Complex24	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Protein510	Complex24	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Protein510	Protein509	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Complex23	Protein509	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein2	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein3	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein4	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein5	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein6	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein8	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein9	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein10	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein11	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein14	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein15	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein16	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein18	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein17	Complex2	
+BiochemicalReaction20	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex25	Complex26	
+BiochemicalReaction20	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex15	Complex26	
+BiochemicalReaction21	MYC trancscription is negatively regulated by SMAD2/3:SMAD4:RBL1:E2F4/5:DP1/2 complex	Dna3	Protein532	
+BiochemicalReaction22	SMAD2/3:SMAD4 heterotrimer binds SP1	Complex15	Complex27	
+BiochemicalReaction22	SMAD2/3:SMAD4 heterotrimer binds SP1	Protein533	Complex27	
+BiochemicalReaction23	SMAD2/3:SMAD4:SP1 complex stimulates transcription of CDKN2B	Dna4	Protein534	
+BiochemicalReaction24	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Complex15	Complex28	
+BiochemicalReaction24	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Protein535	Complex28	
+BiochemicalReaction25	SMAD2/3:SMAD4 complex positively regulates JUNB transcription	Dna5	Protein536	
+BiochemicalReaction26	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Protein537	Complex29	
+BiochemicalReaction26	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Complex15	Complex29	
+BiochemicalReaction26	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Protein540	Complex29	
+BiochemicalReaction27	SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL	Complex29	Complex30	
+BiochemicalReaction27	SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL	Protein543	Complex30	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Protein537	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Protein537	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Complex31	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Complex31	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Complex15	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Complex15	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Protein543	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Protein543	
+BiochemicalReaction29	TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus	Protein545	Complex32	
+BiochemicalReaction29	TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus	Complex15	Complex32	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein2	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein3	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein19	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein4	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein20	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein21	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein5	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein6	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein8	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein9	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein11	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein10	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein14	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein15	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein22	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein16	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein17	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein18	Complex3	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Complex32	Protein545	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Protein510	Protein545	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Protein510	Complex33	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Complex32	Complex33	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Protein510	Protein493	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Complex32	Protein493	
+BiochemicalReaction31	Ubiquitinated SMAD4 translocates from the nucleus to the cytosol	Complex33	Complex34	
+BiochemicalReaction32	USP9X (FAM) binds to ubiquitinated SMAD4	Protein561	Complex35	
+BiochemicalReaction32	USP9X (FAM) binds to ubiquitinated SMAD4	Complex34	Complex35	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule9	Protein546	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	Complex35	Protein546	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	Complex35	Protein488	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule9	Protein488	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	Complex35	Protein561	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule9	Protein561	
+BiochemicalReaction34	NEDD4L binds phosphorylated linker region of SMAD2/3	Protein562	Complex36	
+BiochemicalReaction34	NEDD4L binds phosphorylated linker region of SMAD2/3	Complex16	Complex36	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Protein510	Complex37	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Complex36	Complex37	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Complex36	Protein562	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Protein510	Protein562	
+BiochemicalReaction36	SMURF2 binds SMAD3 phosphorylated in the linker region	Protein544	Complex38	
+BiochemicalReaction36	SMURF2 binds SMAD3 phosphorylated in the linker region	Complex16	Complex38	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Complex38	Protein544	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Protein510	Protein544	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Protein510	Protein492	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Complex38	Protein492	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Protein510	Complex39	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Complex38	Complex39	
+BiochemicalReaction38	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Complex15	Complex22	
+BiochemicalReaction38	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Protein505	Complex22	
+BiochemicalReaction38	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Protein506	Complex22	
+BiochemicalReaction39	PARP1 binds SMAD2/3:SMAD4 heterotrimer	Complex15	Complex40	
+BiochemicalReaction39	PARP1 binds SMAD2/3:SMAD4 heterotrimer	Protein563	Complex40	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein23	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein28	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein33	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein35	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein38	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein39	Complex4	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex40	SmallMolecule11	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule10	Protein563	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex40	Protein563	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule10	Complex41	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex40	Complex41	
+BiochemicalReaction41	PPM1A protein phosphatase binds phosphorylated SMAD2/3	Complex15	Complex42	
+BiochemicalReaction41	PPM1A protein phosphatase binds phosphorylated SMAD2/3	Protein567	Complex42	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	SmallMolecule13	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	Protein568	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	Protein568	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	Protein492	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	Protein492	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	Protein567	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	Protein567	
+BiochemicalReaction43	Dephosphorylated SMAD2/3 translocates to the cytosol	Protein568	Protein571	
+BiochemicalReaction5	Formation of NR-MED1 Coactivator Complex	Protein6	Complex5	
+BiochemicalReaction5	Formation of NR-MED1 Coactivator Complex	Protein41	Complex5	
+BiochemicalReaction6	KRAB-ZNF / KAP Interaction	Protein125	Complex6	
+BiochemicalReaction6	KRAB-ZNF / KAP Interaction	Protein462	Complex6	
+BiochemicalReaction7	WWTR1 (TAZ) binds TEAD	Protein464	Complex7	
+BiochemicalReaction7	WWTR1 (TAZ) binds TEAD	Protein465	Complex7	
+BiochemicalReaction8	YAP1 binds TEAD	Protein470	Complex8	
+BiochemicalReaction8	YAP1 binds TEAD	Protein465	Complex8	
+BiochemicalReaction9	WWTR1 (TAZ), TBX5, and PCAF form a complex	Protein464	Complex9	
+BiochemicalReaction9	WWTR1 (TAZ), TBX5, and PCAF form a complex	Protein471	Complex9	
+BiochemicalReaction9	WWTR1 (TAZ), TBX5, and PCAF form a complex	Protein36	Complex9	
+Degradation1	Degradation of Ub-SMAD7	Complex24	NA	
+Degradation2	Degradation of ubiquitinated SKI/SKIL	Complex31	NA	
+Degradation3	Degradation of SMAD2/3:SMAD4 complex	Complex37	NA	
+Degradation4	Ubiquitin-dependent degradation of the SMAD complex terminates TGF-beta signaling	Complex15	NA	
+TemplateReaction1	Expression of CTGF	NA	Protein473	
+TemplateReaction2	Expression of NPPA (ANF)	NA	Protein487	

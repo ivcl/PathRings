@@ -1,0 +1,14 @@
+BiochemicalReaction1	Synthesis of nascent polypeptide containing signal sequence	Rna1	Complex4	
+BiochemicalReaction1	Synthesis of nascent polypeptide containing signal sequence	Complex1	Complex4	
+BiochemicalReaction2	Association of a nascent polypeptide:mRNA:ribosome complex with a signal recognition particle (SRP)	Complex5	Complex6	
+BiochemicalReaction2	Association of a nascent polypeptide:mRNA:ribosome complex with a signal recognition particle (SRP)	Complex4	Complex6	
+BiochemicalReaction3	The SRP receptor binds the SRP:nascent peptide:ribosome complex	Complex6	Complex8	
+BiochemicalReaction3	The SRP receptor binds the SRP:nascent peptide:ribosome complex	Complex7	Complex8	
+BiochemicalReaction4	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex8	Complex5	
+BiochemicalReaction4	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex9	Complex5	
+BiochemicalReaction4	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex9	Complex12	
+BiochemicalReaction4	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex8	Complex12	
+BiochemicalReaction4	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex9	Complex7	
+BiochemicalReaction4	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex8	Complex7	
+BiochemicalReaction5	Signal peptide cleavage from ribosome-associated nascent protein	Complex12	Complex14	
+BiochemicalReaction5	Signal peptide cleavage from ribosome-associated nascent protein	Complex12	PhysicalEntity4	

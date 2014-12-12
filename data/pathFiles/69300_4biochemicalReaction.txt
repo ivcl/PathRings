@@ -1,0 +1,27 @@
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	Complex1	SmallMolecule2	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Complex7	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	Complex1	Complex7	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	SmallMolecule1	Protein16	
+BiochemicalReaction1	Orc1 is phosphorylated by cyclin A/CDK2	Complex1	Protein16	
+BiochemicalReaction10	Ubiquitinated Cdc6 is degraded by the proteasome	Complex18	Protein41	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex2	Protein1	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex2	Protein2	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex2	Complex19	
+BiochemicalReaction11	Rearrangement and mobilization of Mcm2-7	Complex2	Protein4	
+BiochemicalReaction2	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein26	Complex10	
+BiochemicalReaction2	Phosphorylated Orc1 is ubiquitinated while still associated with chromatin	Protein16	Complex10	
+BiochemicalReaction3	Ubiquitinated Orc1 enters the cytosol	Complex10	Complex11	
+BiochemicalReaction4	Ubiquitinated Orc1 is degraded by the proteasome	Complex11	Protein41	
+BiochemicalReaction5	Cdt1 is displaced from the pre-replicative complex.	Complex13	Protein7	
+BiochemicalReaction5	Cdt1 is displaced from the pre-replicative complex.	Complex13	Complex14	
+BiochemicalReaction6	Cdt1 associates with geminin	Protein102	Complex16	
+BiochemicalReaction6	Cdt1 associates with geminin	Protein7	Complex16	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	Protein8	SmallMolecule2	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	Protein8	Protein103	
+BiochemicalReaction7	Cdc6 protein is phosphorylated by CDK	SmallMolecule1	Protein103	
+BiochemicalReaction8	Phosphorylated Cdc6 is exported from the nucleus	Protein103	Protein105	
+BiochemicalReaction9	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein41	Complex18	
+BiochemicalReaction9	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	Protein105	Complex18	
+BiochemicalReaction9	Cytoplasmic phosphorylated Cdc6 is ubiquitinated by the anaphase-promoting complex	SmallMolecule3	Complex18	

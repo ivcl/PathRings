@@ -1,0 +1,72 @@
+BiochemicalReaction1	MPG glycosylase mediated recognition and binding of 3-methyladenine 	Protein1	Complex1	
+BiochemicalReaction1	MPG glycosylase mediated recognition and binding of 3-methyladenine 	PhysicalEntity1	Complex1	
+BiochemicalReaction10	Cleavage of hypoxanthine by MPG glycosylase	Complex3	SmallMolecule4	
+BiochemicalReaction10	Cleavage of hypoxanthine by MPG glycosylase	Complex3	Complex8	
+BiochemicalReaction11	Cleavage of 8-oxo guanine by hOGG1 glycosylase	Complex5	Complex9	
+BiochemicalReaction11	Cleavage of 8-oxo guanine by hOGG1 glycosylase	Complex5	SmallMolecule1	
+BiochemicalReaction12	Cleavage of formamidopyrimidine by hOGG1 glycosylase	Complex6	SmallMolecule5	
+BiochemicalReaction12	Cleavage of formamidopyrimidine by hOGG1 glycosylase	Complex6	Complex9	
+BiochemicalReaction13	UNG glycosylase mediated recognition and binding of a 5-hydroxyuracil opposite to a guanine	PhysicalEntity8	Complex10	
+BiochemicalReaction13	UNG glycosylase mediated recognition and binding of a 5-hydroxyuracil opposite to a guanine	Protein4	Complex10	
+BiochemicalReaction14	UNG glycosylase mediated recognition and binding of an uracil opposite to a guanine	Protein4	Complex11	
+BiochemicalReaction14	UNG glycosylase mediated recognition and binding of an uracil opposite to a guanine	PhysicalEntity9	Complex11	
+BiochemicalReaction15	TDG glycosylase mediated recognition and binding of an ethenocytosine	PhysicalEntity10	Complex12	
+BiochemicalReaction15	TDG glycosylase mediated recognition and binding of an ethenocytosine	Protein5	Complex12	
+BiochemicalReaction16	TDG glycosylase mediated recognition and binding of an thymine opposite to a guanine	PhysicalEntity11	Complex13	
+BiochemicalReaction16	TDG glycosylase mediated recognition and binding of an thymine opposite to a guanine	Protein5	Complex13	
+BiochemicalReaction17	TDG glycosylase mediated recognition and binding of an uracil opposite to a guanine	PhysicalEntity9	Complex14	
+BiochemicalReaction17	TDG glycosylase mediated recognition and binding of an uracil opposite to a guanine	Protein5	Complex14	
+BiochemicalReaction18	hSMUG1 glycosylase mediated recognition and binding of uracil within single-stranded DNA	PhysicalEntity12	Complex15	
+BiochemicalReaction18	hSMUG1 glycosylase mediated recognition and binding of uracil within single-stranded DNA	Protein6	Complex15	
+BiochemicalReaction19	MBD4 glycosylase mediated recognition and binding of a thymine opposite to a guanine at CpG sequences	PhysicalEntity13	Complex16	
+BiochemicalReaction19	MBD4 glycosylase mediated recognition and binding of a thymine opposite to a guanine at CpG sequences	Protein7	Complex16	
+BiochemicalReaction2	MPG glycosylase mediated recognition and binding of ethenoadenine 	Protein1	Complex2	
+BiochemicalReaction2	MPG glycosylase mediated recognition and binding of ethenoadenine 	PhysicalEntity2	Complex2	
+BiochemicalReaction20	MBD4 glycosylase mediated recognition and binding of an uracil opposite to a guanine at CpG sequences	PhysicalEntity14	Complex17	
+BiochemicalReaction20	MBD4 glycosylase mediated recognition and binding of an uracil opposite to a guanine at CpG sequences	Protein7	Complex17	
+BiochemicalReaction21	hNTH1 glycosylase mediated recognition and binding of cytosine glycol	PhysicalEntity15	Complex18	
+BiochemicalReaction21	hNTH1 glycosylase mediated recognition and binding of cytosine glycol	Protein8	Complex18	
+BiochemicalReaction22	hNTH1 glycosylase mediated recognition and binding of dihydrouracil 	PhysicalEntity16	Complex19	
+BiochemicalReaction22	hNTH1 glycosylase mediated recognition and binding of dihydrouracil 	Protein8	Complex19	
+BiochemicalReaction23	hNTH1 glycosylase mediated recognition and binding of formamidopyrimidine	PhysicalEntity6	Complex20	
+BiochemicalReaction23	hNTH1 glycosylase mediated recognition and binding of formamidopyrimidine	Protein8	Complex20	
+BiochemicalReaction24	hNTH1 glycosylase mediated recognition and binding of thymine glycol	PhysicalEntity17	Complex21	
+BiochemicalReaction24	hNTH1 glycosylase mediated recognition and binding of thymine glycol	Protein8	Complex21	
+BiochemicalReaction25	Cleavage of uracil by UNG2 glycosylase	Complex11	Complex22	
+BiochemicalReaction25	Cleavage of uracil by UNG2 glycosylase	Complex11	SmallMolecule6	
+BiochemicalReaction26	Cleavage of 5-hydroxyluracil by UNG2 glycosylase 	Complex10	Complex22	
+BiochemicalReaction26	Cleavage of 5-hydroxyluracil by UNG2 glycosylase 	Complex10	SmallMolecule7	
+BiochemicalReaction27	Cleavage of uracil by TDG glycosylase	Complex14	Complex23	
+BiochemicalReaction27	Cleavage of uracil by TDG glycosylase	Complex14	SmallMolecule6	
+BiochemicalReaction28	Cleavage of  thymine by TDG glycosylase	Complex13	Complex23	
+BiochemicalReaction28	Cleavage of  thymine by TDG glycosylase	Complex13	SmallMolecule8	
+BiochemicalReaction29	Cleavage of uracil by hSMUG1 glycosylase	Complex15	Complex24	
+BiochemicalReaction29	Cleavage of uracil by hSMUG1 glycosylase	Complex15	SmallMolecule6	
+BiochemicalReaction3	MPG glycosylase mediated recognition and binding of hypoxanthine	Protein1	Complex3	
+BiochemicalReaction3	MPG glycosylase mediated recognition and binding of hypoxanthine	PhysicalEntity3	Complex3	
+BiochemicalReaction30	Cleavage of thymine glycol  by hNTH1 glycosylase  	Complex21	Complex25	
+BiochemicalReaction30	Cleavage of thymine glycol  by hNTH1 glycosylase  	Complex21	PhysicalEntity18	
+BiochemicalReaction31	Cleavage of cytosine glycol by hNTH1 glycosylase	Complex18	Complex25	
+BiochemicalReaction31	Cleavage of cytosine glycol by hNTH1 glycosylase	Complex18	PhysicalEntity19	
+BiochemicalReaction32	Cleavage of dihydrouracil by hNTH1 glycosylase	Complex19	SmallMolecule9	
+BiochemicalReaction32	Cleavage of dihydrouracil by hNTH1 glycosylase	Complex19	Complex25	
+BiochemicalReaction33	Cleavage of formamidopyrimidine  by hNTH1 glycosylase 	Complex20	SmallMolecule5	
+BiochemicalReaction33	Cleavage of formamidopyrimidine  by hNTH1 glycosylase 	Complex20	Complex25	
+BiochemicalReaction34	Cleavage of uracil by MBD4 glycosylase	Complex17	Complex26	
+BiochemicalReaction34	Cleavage of uracil by MBD4 glycosylase	Complex17	SmallMolecule6	
+BiochemicalReaction35	Cleavage of  thymine by MBD4 glycosylase	Complex16	Complex26	
+BiochemicalReaction35	Cleavage of  thymine by MBD4 glycosylase	Complex16	SmallMolecule8	
+BiochemicalReaction36	Cleavage of ethenocytosine by TDG glycosylase 	Complex12	Complex23	
+BiochemicalReaction36	Cleavage of ethenocytosine by TDG glycosylase 	Complex12	SmallMolecule10	
+BiochemicalReaction4	MYH glycosylase mediated recognition and binding of an adenine opposite to an 8-oxo guanine	Protein2	Complex4	
+BiochemicalReaction4	MYH glycosylase mediated recognition and binding of an adenine opposite to an 8-oxo guanine	PhysicalEntity4	Complex4	
+BiochemicalReaction5	hOGG1 glycosylase mediated recognition and binding of an 8-oxo guanine opposite to a cytosine	Protein3	Complex5	
+BiochemicalReaction5	hOGG1 glycosylase mediated recognition and binding of an 8-oxo guanine opposite to a cytosine	PhysicalEntity5	Complex5	
+BiochemicalReaction6	hOGG1 glycosylase mediated recognition and binding of a formamidopyrimidine	Protein3	Complex6	
+BiochemicalReaction6	hOGG1 glycosylase mediated recognition and binding of a formamidopyrimidine	PhysicalEntity6	Complex6	
+BiochemicalReaction7	Cleavage 8-oxo guanine  by MYH glycosylase	Complex4	SmallMolecule1	
+BiochemicalReaction7	Cleavage 8-oxo guanine  by MYH glycosylase	Complex4	Complex7	
+BiochemicalReaction8	Cleavage of 3-methyladenine by MPG glycosylase 	Complex1	Complex8	
+BiochemicalReaction8	Cleavage of 3-methyladenine by MPG glycosylase 	Complex1	SmallMolecule2	
+BiochemicalReaction9	Cleavage of ethenoadenine by MPG glycosylase	Complex2	SmallMolecule3	
+BiochemicalReaction9	Cleavage of ethenoadenine by MPG glycosylase	Complex2	Complex8	

@@ -1,0 +1,19 @@
+BiochemicalReaction1	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	Protein1	Complex1	
+BiochemicalReaction1	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity1	Complex1	
+BiochemicalReaction2	BRF1 Complex Recruits RNA Degradation Activities	Protein2	Complex4	
+BiochemicalReaction2	BRF1 Complex Recruits RNA Degradation Activities	Complex2	Complex4	
+BiochemicalReaction2	BRF1 Complex Recruits RNA Degradation Activities	Protein13	Complex4	
+BiochemicalReaction2	BRF1 Complex Recruits RNA Degradation Activities	Protein14	Complex4	
+BiochemicalReaction2	BRF1 Complex Recruits RNA Degradation Activities	Complex1	Complex4	
+BiochemicalReaction3	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex1	Complex5	
+BiochemicalReaction3	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule1	Complex5	
+BiochemicalReaction4	Phosphorylation of BRF1 by MK2	SmallMolecule1	Complex6	
+BiochemicalReaction4	Phosphorylation of BRF1 by MK2	Complex1	Complex6	
+BiochemicalReaction4	Phosphorylation of BRF1 by MK2	Complex1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of BRF1 by MK2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Complex5	Complex7	
+BiochemicalReaction5	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Protein19	Complex7	
+BiochemicalReaction6	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Complex6	Complex8	
+BiochemicalReaction6	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Protein19	Complex8	

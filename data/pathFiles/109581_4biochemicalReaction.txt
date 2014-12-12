@@ -1,0 +1,263 @@
+BiochemicalReaction1	FASL binds FAS Receptor	Protein1	Complex1	
+BiochemicalReaction1	FASL binds FAS Receptor	Protein2	Complex1	
+BiochemicalReaction10	TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.	Complex12	Complex13	
+BiochemicalReaction10	TRADD:TRAF2:RIP1 complex dissociates from the TNF-alpha:TNF-R1 complex.	Complex12	Complex11	
+BiochemicalReaction100	Caspase-mediated cleavage of Acinus	Protein170	Protein171	
+BiochemicalReaction100	Caspase-mediated cleavage of Acinus	Protein170	Protein172	
+BiochemicalReaction101	Caspase-mediated cleavage of Rock-1	Protein173	Protein174	
+BiochemicalReaction101	Caspase-mediated cleavage of Rock-1	Protein173	Protein175	
+BiochemicalReaction102	Caspase-mediated cleavage of farnesyltransferase/geranyl- geranyltransferase subunit alpha 	Protein176	Protein177	
+BiochemicalReaction102	Caspase-mediated cleavage of farnesyltransferase/geranyl- geranyltransferase subunit alpha 	Protein176	Protein178	
+BiochemicalReaction103	Caspase mediated cleavage of BAP31	Protein179	Protein180	
+BiochemicalReaction103	Caspase mediated cleavage of BAP31	Protein179	Protein181	
+BiochemicalReaction103	Caspase mediated cleavage of BAP31	Protein179	Protein182	
+BiochemicalReaction104	Caspase-mediated cleavage of Etk	Protein185	Protein186	
+BiochemicalReaction104	Caspase-mediated cleavage of Etk	Protein185	Protein187	
+BiochemicalReaction105	Caspase-mediated cleavage of MASK	Protein188	Protein189	
+BiochemicalReaction105	Caspase-mediated cleavage of MASK	Protein188	Protein190	
+BiochemicalReaction106	Caspase-mediated cleavage of MST3	Protein191	Protein192	
+BiochemicalReaction106	Caspase-mediated cleavage of MST3	Protein191	Protein193	
+BiochemicalReaction107	Caspase-mediated cleavage of claspin	Protein194	Protein195	
+BiochemicalReaction107	Caspase-mediated cleavage of claspin	Protein194	Protein196	
+BiochemicalReaction108	Cleavage of Satb1	Protein199	Protein200	
+BiochemicalReaction108	Cleavage of Satb1	Protein199	Protein201	
+BiochemicalReaction109	Association of DFF40 with DFF45	Protein202	Complex84	
+BiochemicalReaction109	Association of DFF40 with DFF45	Protein203	Complex84	
+BiochemicalReaction11	TRADD:TRAF2:RIP1 complex binds FADD	Complex13	Complex14	
+BiochemicalReaction11	TRADD:TRAF2:RIP1 complex binds FADD	Protein3	Complex14	
+BiochemicalReaction110	Association of DFF with alpha:beta importin	Complex84	Complex86	
+BiochemicalReaction110	Association of DFF with alpha:beta importin	Complex85	Complex86	
+BiochemicalReaction111	Translocation of DFF to the nucleus	Complex86	Complex87	
+BiochemicalReaction112	Translocation of caspase-3 to the nucleus	Complex68	Complex90	
+BiochemicalReaction113	Caspase 3-mediated cleavage of DFF45 (117)	Complex88	Complex91	
+BiochemicalReaction114	Cleavage of DFF45 (224) by caspase-3	Complex91	Complex92	
+BiochemicalReaction115	Cleaved fragments of DFF45 dissociate from  DFF40	Complex92	Protein214	
+BiochemicalReaction115	Cleaved fragments of DFF45 dissociate from  DFF40	Complex92	Protein206	
+BiochemicalReaction115	Cleaved fragments of DFF45 dissociate from  DFF40	Complex92	Protein213	
+BiochemicalReaction115	Cleaved fragments of DFF45 dissociate from  DFF40	Complex92	Protein215	
+BiochemicalReaction116	Homodimerization  of DFF40	Protein206	Complex93	
+BiochemicalReaction117	Association of DFF40 with chromatin	PhysicalEntity8	Complex95	
+BiochemicalReaction117	Association of DFF40 with chromatin	Complex94	Complex95	
+BiochemicalReaction118	Association of HMGB1/HMGB2 with chromatin	Protein223	Complex96	
+BiochemicalReaction118	Association of HMGB1/HMGB2 with chromatin	PhysicalEntity10	Complex96	
+BiochemicalReaction119	Cleavage of DNA by DFF40	Complex95	PhysicalEntity8	
+BiochemicalReaction119	Cleavage of DNA by DFF40	Complex95	Complex97	
+BiochemicalReaction12	TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  	Complex14	Complex15	
+BiochemicalReaction12	TRADD:TRAF2:RIP1:FADD complex binds Pro-Caspase 8  	Protein4	Complex15	
+BiochemicalReaction120	Cleavage of PAK-2 at 212	Protein226	Protein227	
+BiochemicalReaction120	Cleavage of PAK-2 at 212	Protein226	Protein228	
+BiochemicalReaction121	Autophosphorylation of PAK-2p34 in the activation loop	Protein228	SmallMolecule3	
+BiochemicalReaction121	Autophosphorylation of PAK-2p34 in the activation loop	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction121	Autophosphorylation of PAK-2p34 in the activation loop	SmallMolecule2	Protein229	
+BiochemicalReaction121	Autophosphorylation of PAK-2p34 in the activation loop	Protein228	Protein229	
+BiochemicalReaction122	Proteolytic PAK-2p34 fragment translocates to the nucleus	Protein229	Protein230	
+BiochemicalReaction123	Partial autophosphorylation of PAK-2 at  Ser-19, Ser-20, Ser-55, Ser-192, and Ser-197	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction123	Partial autophosphorylation of PAK-2 at  Ser-19, Ser-20, Ser-55, Ser-192, and Ser-197	Protein231	SmallMolecule3	
+BiochemicalReaction123	Partial autophosphorylation of PAK-2 at  Ser-19, Ser-20, Ser-55, Ser-192, and Ser-197	Protein231	Protein226	
+BiochemicalReaction123	Partial autophosphorylation of PAK-2 at  Ser-19, Ser-20, Ser-55, Ser-192, and Ser-197	SmallMolecule2	Protein226	
+BiochemicalReaction124	Translocation of active caspase-8 to the mitochondrial membrane	Complex27	Complex81	
+BiochemicalReaction125	Mitochondrial recruitment of Drp1	Protein232	Protein233	
+BiochemicalReaction126	Nuclear translocation of catalytic domain of Mst3	Protein193	Protein234	
+BiochemicalReaction127	Ubiquitination of PAK-2p34	Protein235	Protein250	
+BiochemicalReaction127	Ubiquitination of PAK-2p34	Protein229	Protein250	
+BiochemicalReaction128	Proteasome mediated degradation of PAK-2p34	Protein250	Protein235	
+BiochemicalReaction129	Rho GTPase-activating protein 10 (RHG10) interacts with caspase-activated PAK-2p34	Protein295	Complex99	
+BiochemicalReaction129	Rho GTPase-activating protein 10 (RHG10) interacts with caspase-activated PAK-2p34	Protein229	Complex99	
+BiochemicalReaction13	TRAIL Binds TRAIL-Receptor2	Protein14	Complex16	
+BiochemicalReaction13	TRAIL Binds TRAIL-Receptor2	Protein15	Complex16	
+BiochemicalReaction130	Interaction of PAK-2p34 with RGH10/ PS-GAP results in accumulation of PAK-2p34 in the perinuclear region	Complex99	Complex100	
+BiochemicalReaction131	Caspase cleavage of DCC	Protein296	Protein297	
+BiochemicalReaction131	Caspase cleavage of DCC	Protein296	Protein298	
+BiochemicalReaction132	DCC interacts with DIP13alpha	Protein299	Complex103	
+BiochemicalReaction132	DCC interacts with DIP13alpha	Protein298	Complex103	
+BiochemicalReaction133	Caspase-9 binds DCC:DIP13alpha complex	Complex103	Complex104	
+BiochemicalReaction133	Caspase-9 binds DCC:DIP13alpha complex	Complex67	Complex104	
+BiochemicalReaction134	Activation of caspase-3	Protein82	SmallMolecule3	
+BiochemicalReaction134	Activation of caspase-3	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction134	Activation of caspase-3	SmallMolecule2	Complex68	
+BiochemicalReaction134	Activation of caspase-3	Protein82	Complex68	
+BiochemicalReaction135	Caspase cleavage of UNC5B	Protein300	Protein301	
+BiochemicalReaction135	Caspase cleavage of UNC5B	Protein300	Protein302	
+BiochemicalReaction136	DAPK binds UNC5B	Protein301	Complex105	
+BiochemicalReaction136	DAPK binds UNC5B	Protein303	Complex105	
+BiochemicalReaction137	Caspase cleavage of UNC5A	Protein307	Protein308	
+BiochemicalReaction137	Caspase cleavage of UNC5A	Protein307	Protein309	
+BiochemicalReaction138	UNC5A binds NRAGE	Protein310	Complex106	
+BiochemicalReaction138	UNC5A binds NRAGE	Protein308	Complex106	
+BiochemicalReaction14	Trimerization of TRAIL: TRAIL receptor-2 complex	Complex16	Complex17	
+BiochemicalReaction15	TRAIL:TRAIL receptor-2 Trimer Binds FADD	Complex17	Complex18	
+BiochemicalReaction15	TRAIL:TRAIL receptor-2 Trimer Binds FADD	Protein3	Complex18	
+BiochemicalReaction16	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-8	Protein4	Complex19	
+BiochemicalReaction16	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-8	Complex18	Complex19	
+BiochemicalReaction17	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-10	Protein6	Complex20	
+BiochemicalReaction17	TRAIL:TRAIL-Receptor2 Trimer:FADD complex binds Caspase-10	Complex18	Complex20	
+BiochemicalReaction18	FAS-mediated dimerization of procaspase-8	Complex4	Complex21	
+BiochemicalReaction18	FAS-mediated dimerization of procaspase-8	Protein4	Complex21	
+BiochemicalReaction19	TRAIL-mediated dimerization of procaspase-8	Complex19	Complex23	
+BiochemicalReaction19	TRAIL-mediated dimerization of procaspase-8	Protein4	Complex23	
+BiochemicalReaction2	Trimerization of the FASL:FAS receptor complex	Complex1	Complex2	
+BiochemicalReaction20	TNF-mediated dimerization of procaspase-8	Complex15	Complex24	
+BiochemicalReaction20	TNF-mediated dimerization of procaspase-8	Protein4	Complex24	
+BiochemicalReaction21	Caspase-8 processing 	Complex25	Complex26	
+BiochemicalReaction21	Caspase-8 processing 	Complex25	Complex27	
+BiochemicalReaction22	FLIP(L) and procaspase-8 form heterodimer in TNF signaling	Complex15	Complex29	
+BiochemicalReaction22	FLIP(L) and procaspase-8 form heterodimer in TNF signaling	Protein23	Complex29	
+BiochemicalReaction23	FLIP(L) and procaspase-8 form heterodimer in TRAIL signaling	Complex19	Complex30	
+BiochemicalReaction23	FLIP(L) and procaspase-8 form heterodimer in TRAIL signaling	Protein23	Complex30	
+BiochemicalReaction24	FLIP(L) and procaspase-8 form heterodimer in FasL/CD95 signaling	Complex4	Complex31	
+BiochemicalReaction24	FLIP(L) and procaspase-8 form heterodimer in FasL/CD95 signaling	Protein23	Complex31	
+BiochemicalReaction25	Caspase-8 and FLIP(L) processing at DISC	Complex32	Protein24	
+BiochemicalReaction25	Caspase-8 and FLIP(L) processing at DISC	Complex32	Complex34	
+BiochemicalReaction26	FLIP(S) and procaspase-8 form heterodimer	Complex33	Complex35	
+BiochemicalReaction26	FLIP(S) and procaspase-8 form heterodimer	Protein17	Complex35	
+BiochemicalReaction27	Caspase-8 activates BID by cleavage	Protein27	Protein28	
+BiochemicalReaction28	Granzyme-B activates BID by cleavage	Protein27	Protein28	
+BiochemicalReaction29	Myristoylation of tBID by NMT1	Protein28	Protein30	
+BiochemicalReaction3	FasL:Fas binds FADD	Complex2	Complex3	
+BiochemicalReaction3	FasL:Fas binds FADD	Protein3	Complex3	
+BiochemicalReaction30	Translocation of tBID to mitochondria	Protein30	Protein32	
+BiochemicalReaction31	AKT phosphorylates BAD	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction31	AKT phosphorylates BAD	Protein33	SmallMolecule3	
+BiochemicalReaction31	AKT phosphorylates BAD	Protein33	Protein34	
+BiochemicalReaction31	AKT phosphorylates BAD	SmallMolecule2	Protein34	
+BiochemicalReaction32	Sequestration of BAD protein by 14-3-3	Complex36	Complex44	
+BiochemicalReaction32	Sequestration of BAD protein by 14-3-3	Protein34	Complex44	
+BiochemicalReaction33	Activation of BAD by calcineurin	Complex44	SmallMolecule5	
+BiochemicalReaction33	Activation of BAD by calcineurin	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction33	Activation of BAD by calcineurin	SmallMolecule4	Complex36	
+BiochemicalReaction33	Activation of BAD by calcineurin	Complex44	Complex36	
+BiochemicalReaction33	Activation of BAD by calcineurin	SmallMolecule4	Protein33	
+BiochemicalReaction33	Activation of BAD by calcineurin	Complex44	Protein33	
+BiochemicalReaction34	Translocation of activated BAD protein to mitochondria	Protein33	Protein48	
+BiochemicalReaction35	BAD displaces tBID from BCL-2 sequestration	Complex46	Complex47	
+BiochemicalReaction35	BAD displaces tBID from BCL-2 sequestration	Protein48	Complex47	
+BiochemicalReaction35	BAD displaces tBID from BCL-2 sequestration	Protein48	Protein32	
+BiochemicalReaction35	BAD displaces tBID from BCL-2 sequestration	Complex46	Protein32	
+BiochemicalReaction36	TP53 binds PMAIP1 (NOXA) promoter	Dna1	Complex49	
+BiochemicalReaction36	TP53 binds PMAIP1 (NOXA) promoter	Complex48	Complex49	
+BiochemicalReaction37	Transactivation of PMAIP1 (NOXA) by p53	Dna1	Protein51	
+BiochemicalReaction38	E2F1 binds PMAIP1 (NOXA) promoter	Dna1	Complex51	
+BiochemicalReaction38	E2F1 binds PMAIP1 (NOXA) promoter	Complex50	Complex51	
+BiochemicalReaction39	Transactivation of PMAIP1 (NOXA) by E2F1	Dna1	Protein51	
+BiochemicalReaction4	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8	Complex3	Complex4	
+BiochemicalReaction4	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-8	Protein4	Complex4	
+BiochemicalReaction40	Translocation of PMAIP1 (NOXA) to mitochondria	Protein51	Protein54	
+BiochemicalReaction41	TP53 binds BBC3 (PUMA) promoter	Dna2	Complex52	
+BiochemicalReaction41	TP53 binds BBC3 (PUMA) promoter	Complex48	Complex52	
+BiochemicalReaction42	Transactivation of BBC3 (PUMA) by p53	Dna2	Protein55	
+BiochemicalReaction43	E2F1 binds BBC3 (PUMA) promoter	Dna2	Complex53	
+BiochemicalReaction43	E2F1 binds BBC3 (PUMA) promoter	Complex50	Complex53	
+BiochemicalReaction44	Transactivation of BBC3 (PUMA) by E2F1	Dna2	Protein55	
+BiochemicalReaction45	Translocation of BBC3 (PUMA) protein to mitochondria	Protein55	Protein56	
+BiochemicalReaction46	MAPK8 phosphorylates BCL2L11	Complex54	Protein59	
+BiochemicalReaction46	MAPK8 phosphorylates BCL2L11	Complex54	Complex55	
+BiochemicalReaction47	Translocation of BIM to mitochondria	Protein59	Protein61	
+BiochemicalReaction48	Phosphorylation of DLC2 by MAPK8	Complex56	Protein64	
+BiochemicalReaction48	Phosphorylation of DLC2 by MAPK8	Complex56	Complex57	
+BiochemicalReaction49	Translocation of BMF to mitochondria	Protein64	Protein65	
+BiochemicalReaction5	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-10	Protein6	Complex5	
+BiochemicalReaction5	FASL:FAS Receptor Trimer:FADD complex binds pro-Caspase-10	Complex3	Complex5	
+BiochemicalReaction50	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2	Protein66	Complex58	
+BiochemicalReaction50	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2	Protein49	Complex58	
+BiochemicalReaction51	Sequestration of tBID by BCL-2	Protein49	Complex46	
+BiochemicalReaction51	Sequestration of tBID by BCL-2	Protein32	Complex46	
+BiochemicalReaction52	BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL	Protein67	Complex59	
+BiochemicalReaction52	BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL	Protein68	Complex59	
+BiochemicalReaction53	tBID binds to inactive BAX protein	Protein28	Complex60	
+BiochemicalReaction53	tBID binds to inactive BAX protein	Protein69	Complex60	
+BiochemicalReaction54	tBID activates BAX protein	Complex60	Protein28	
+BiochemicalReaction54	tBID activates BAX protein	Complex60	Protein70	
+BiochemicalReaction55	Translocation of activated BAX to the mitochondria	Protein70	Protein71	
+BiochemicalReaction56	Oligomerization of BAX at the mitochondrial membrane	Protein71	Complex61	
+BiochemicalReaction57	tBID binds to inactive BAK protein	Protein72	Complex62	
+BiochemicalReaction57	tBID binds to inactive BAK protein	Protein32	Complex62	
+BiochemicalReaction58	tBID activates BAK protein	Complex62	Protein73	
+BiochemicalReaction58	tBID activates BAK protein	Complex62	Protein32	
+BiochemicalReaction59	Oligomerization  of BAK at the mitochondrial membrane	Protein73	Complex63	
+BiochemicalReaction6	TNF-alpha cleavage by TACE	Complex6	Complex7	
+BiochemicalReaction60	Release of Cytochrome c from mitochondria	Protein74	Protein75	
+BiochemicalReaction61	Release of SMAC from mitochondria	Protein76	Protein77	
+BiochemicalReaction62	Cytochrome C Binds to Apaf-1	Protein78	Complex64	
+BiochemicalReaction62	Cytochrome C Binds to Apaf-1	Protein75	Complex64	
+BiochemicalReaction63	Cytochrome C:Apaf-1 binds Procaspase-9	Protein79	Complex65	
+BiochemicalReaction63	Cytochrome C:Apaf-1 binds Procaspase-9	Complex64	Complex65	
+BiochemicalReaction63	Cytochrome C:Apaf-1 binds Procaspase-9	SmallMolecule2	Complex65	
+BiochemicalReaction64	Cleavage of Procaspase-9 to Caspase-9	Complex65	SmallMolecule3	
+BiochemicalReaction64	Cleavage of Procaspase-9 to Caspase-9	Complex65	Complex66	
+BiochemicalReaction65	Cleavage of Procaspase-3 by the apoptosome	Protein82	SmallMolecule3	
+BiochemicalReaction65	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction65	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule2	Complex68	
+BiochemicalReaction65	Cleavage of Procaspase-3 by the apoptosome	Protein82	Complex68	
+BiochemicalReaction66	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction66	Cleavage of Procaspase-7 by the apoptosome	Protein85	SmallMolecule3	
+BiochemicalReaction66	Cleavage of Procaspase-7 by the apoptosome	Protein85	Complex69	
+BiochemicalReaction66	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule2	Complex69	
+BiochemicalReaction67	SMAC binds XIAP:Caspase-3	Complex70	Complex71	
+BiochemicalReaction67	SMAC binds XIAP:Caspase-3	Protein77	Complex71	
+BiochemicalReaction68	SMAC binds XIAP:Caspase-7	Complex72	Complex73	
+BiochemicalReaction68	SMAC binds XIAP:Caspase-7	Protein77	Complex73	
+BiochemicalReaction69	SMAC binds XIAP:Caspase-9	Protein77	Complex75	
+BiochemicalReaction69	SMAC binds XIAP:Caspase-9	Complex74	Complex75	
+BiochemicalReaction7	Soluble TNF-alpha binds TNF-R1	Protein10	Complex9	
+BiochemicalReaction7	Soluble TNF-alpha binds TNF-R1	Complex7	Complex9	
+BiochemicalReaction70	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex71	Complex68	
+BiochemicalReaction70	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex71	Complex76	
+BiochemicalReaction71	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex73	Complex69	
+BiochemicalReaction71	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex73	Complex76	
+BiochemicalReaction72	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex75	Complex67	
+BiochemicalReaction72	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex75	Complex76	
+BiochemicalReaction73	Caspase-mediated cleavage of alpha adducin	Protein89	Protein90	
+BiochemicalReaction73	Caspase-mediated cleavage of alpha adducin	Protein89	Protein91	
+BiochemicalReaction74	Caspase mediated cleavage of alpha-II-Fodrin	Protein92	Protein93	
+BiochemicalReaction74	Caspase mediated cleavage of alpha-II-Fodrin	Protein92	Protein94	
+BiochemicalReaction75	Caspase-mediated cleavage of GAS2	Protein95	Protein96	
+BiochemicalReaction75	Caspase-mediated cleavage of GAS2	Protein95	Protein97	
+BiochemicalReaction76	Caspase mediated cleavage of HIP-55	Protein98	Protein99	
+BiochemicalReaction76	Caspase mediated cleavage of HIP-55	Protein98	Protein100	
+BiochemicalReaction77	Caspase-mediated cleavage of vimentin at DSVD (85)	Protein101	Protein102	
+BiochemicalReaction77	Caspase-mediated cleavage of vimentin at DSVD (85)	Protein101	Protein103	
+BiochemicalReaction78	Caspase mediated cleavage of vimentin at IDVD (259)	Protein101	Protein104	
+BiochemicalReaction78	Caspase mediated cleavage of vimentin at IDVD (259)	Protein101	Protein105	
+BiochemicalReaction79	Caspase-mediated cleavage of vimentin at TNLD (429)	Protein101	Protein106	
+BiochemicalReaction79	Caspase-mediated cleavage of vimentin at TNLD (429)	Protein101	Protein107	
+BiochemicalReaction8	Membrane-anchored TNF-alpha binds TNF-R1	Protein10	Complex10	
+BiochemicalReaction8	Membrane-anchored TNF-alpha binds TNF-R1	Complex6	Complex10	
+BiochemicalReaction80	Caspase-mediated cleavage of gelsolin	Protein110	Protein111	
+BiochemicalReaction80	Caspase-mediated cleavage of gelsolin	Protein110	Protein112	
+BiochemicalReaction81	Caspase-mediated cleavage of plectin-1	Protein113	Protein114	
+BiochemicalReaction81	Caspase-mediated cleavage of plectin-1	Protein113	Protein115	
+BiochemicalReaction82	Caspase-mediated cleavage of Tau	Protein116	Protein117	
+BiochemicalReaction82	Caspase-mediated cleavage of Tau	Protein116	Protein118	
+BiochemicalReaction83	Caspase-mediated cleavage of E-Cadherin	Protein119	Protein120	
+BiochemicalReaction83	Caspase-mediated cleavage of E-Cadherin	Protein119	Protein121	
+BiochemicalReaction84	Caspase mediated cleavage of beta-catenin	Protein124	Protein126	
+BiochemicalReaction84	Caspase mediated cleavage of beta-catenin	Protein124	Protein127	
+BiochemicalReaction85	Caspase-mediated cleavage of Desmoglein 3	Protein128	Protein129	
+BiochemicalReaction85	Caspase-mediated cleavage of Desmoglein 3	Protein128	Protein130	
+BiochemicalReaction86	Caspase-mediated cleavage of Desmoglein 2	Protein131	Protein132	
+BiochemicalReaction87	Caspase-mediated cleavage of Desmoglein 1	Protein133	Protein134	
+BiochemicalReaction87	Caspase-mediated cleavage of Desmoglein 1	Protein133	Protein135	
+BiochemicalReaction88	Caspase-mediated cleavage of Desmoplakin	Protein136	Protein137	
+BiochemicalReaction89	Caspase-mediated cleavage of plakophilin-1	Protein138	Protein139	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein11	Complex12	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein12	Complex12	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Protein13	Complex12	
+BiochemicalReaction9	TNF:TNF-R1 binds TRADD, TRAF2 and RIP 	Complex11	Complex12	
+BiochemicalReaction90	Caspase-mediated cleavage of TJP1	Protein140	Protein141	
+BiochemicalReaction91	Caspase-mediated cleavage of Z0-2	Protein142	Protein143	
+BiochemicalReaction92	Caspase-mediated cleavage of occludin	Protein144	Protein145	
+BiochemicalReaction92	Caspase-mediated cleavage of occludin	Protein144	Protein146	
+BiochemicalReaction93	Caspase-mediated cleavage of Lamin A	Protein147	Protein148	
+BiochemicalReaction93	Caspase-mediated cleavage of Lamin A	Protein147	Protein149	
+BiochemicalReaction94	Caspase-mediated cleavage of Lamin B1	Protein152	Protein153	
+BiochemicalReaction94	Caspase-mediated cleavage of Lamin B1	Protein152	Protein154	
+BiochemicalReaction95	Caspase mediated cleavage of APC	Protein155	Protein156	
+BiochemicalReaction95	Caspase mediated cleavage of APC	Protein155	Protein157	
+BiochemicalReaction96	Caspase mediated cleavage of C-IAP1	Protein158	Protein159	
+BiochemicalReaction96	Caspase mediated cleavage of C-IAP1	Protein158	Protein160	
+BiochemicalReaction97	Caspase-mediated cleavage of FADK 1	Protein161	Protein162	
+BiochemicalReaction97	Caspase-mediated cleavage of FADK 1	Protein161	Protein163	
+BiochemicalReaction98	Caspase 3-mediated cleavage of PKC delta	Protein164	Protein165	
+BiochemicalReaction98	Caspase 3-mediated cleavage of PKC delta	Protein164	Protein166	
+BiochemicalReaction99	Caspase-mediated cleavage of PKC theta	Protein167	Protein168	
+BiochemicalReaction99	Caspase-mediated cleavage of PKC theta	Protein167	Protein169	

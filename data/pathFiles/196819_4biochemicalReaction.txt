@@ -1,0 +1,13 @@
+BiochemicalReaction1	Thiamin transport across the plasma membrane	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Thiamin is pyrophosphorylated	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Thiamin is pyrophosphorylated	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction2	Thiamin is pyrophosphorylated	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction2	Thiamin is pyrophosphorylated	SmallMolecule2	SmallMolecule5	
+BiochemicalReaction3	ThDP + ATP <-> ThTP + ADP	SmallMolecule4	SmallMolecule7	
+BiochemicalReaction3	ThDP + ATP <-> ThTP + ADP	SmallMolecule3	SmallMolecule7	
+BiochemicalReaction3	ThDP + ATP <-> ThTP + ADP	SmallMolecule3	SmallMolecule8	
+BiochemicalReaction3	ThDP + ATP <-> ThTP + ADP	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction4	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction4	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction4	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule9	SmallMolecule4	
+BiochemicalReaction4	THTPA:Mg2+ hydrolyzes ThTP to TDP	SmallMolecule7	SmallMolecule4	

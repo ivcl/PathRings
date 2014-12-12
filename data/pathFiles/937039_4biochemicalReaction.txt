@@ -1,0 +1,17 @@
+BiochemicalReaction1	Pellino binds hp-IRAK1:TRAF6	Protein1	Complex2	
+BiochemicalReaction1	Pellino binds hp-IRAK1:TRAF6	Complex1	Complex2	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino	Complex2	SmallMolecule2	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino	SmallMolecule1	Complex3	
+BiochemicalReaction2	IRAK1 phosphorylates Pellino	Complex2	Complex3	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	Complex4	Protein1	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	PhysicalEntity1	Protein1	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	Complex3	Protein1	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	Complex3	Complex4	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	PhysicalEntity1	Complex4	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	Complex4	Complex4	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	Complex3	Complex5	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	PhysicalEntity1	Complex5	
+BiochemicalReaction3	Pellino ubiquitinates hp-IRAK1	Complex4	Complex5	
+BiochemicalReaction4	NEMO subunit of IKK complex binds to activated IRAK1	Complex5	Complex7	
+BiochemicalReaction4	NEMO subunit of IKK complex binds to activated IRAK1	Complex6	Complex7	

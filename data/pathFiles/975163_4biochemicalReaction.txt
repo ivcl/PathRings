@@ -1,0 +1,12 @@
+BiochemicalReaction1	IRAK2 induces TRAF6 oligomerization initiated from endosomal compartments	Protein1	Complex2	
+BiochemicalReaction1	IRAK2 induces TRAF6 oligomerization initiated from endosomal compartments	Complex1	Complex2	
+BiochemicalReaction2	Auto ubiquitination of oligo-TRAF6 bound to p-IRAK2 at endosome membrane	Protein4	Complex3	
+BiochemicalReaction2	Auto ubiquitination of oligo-TRAF6 bound to p-IRAK2 at endosome membrane	Complex2	Complex3	
+BiochemicalReaction3	Activated TRAF6 synthesizes unanchored polyubiquitin chains upon TLR stimulation 	Protein4	PhysicalEntity1	
+BiochemicalReaction4	Activated TRAF6:p-IRAK2 interacts with TAK1 complex upon TLR7/8 or 9 stimulation	Complex4	Complex5	
+BiochemicalReaction4	Activated TRAF6:p-IRAK2 interacts with TAK1 complex upon TLR7/8 or 9 stimulation	Complex3	Complex5	
+BiochemicalReaction4	Activated TRAF6:p-IRAK2 interacts with TAK1 complex upon TLR7/8 or 9 stimulation	PhysicalEntity1	Complex5	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	Complex5	SmallMolecule2	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	Complex5	Complex7	
+BiochemicalReaction5	Auto phosphorylation of TAK1 bound to p-IRAK2:pUb oligo-TRAF6: free K63 pUb:TAB1:TAB2/TAB3  upon TLR7/8 or 9 activation	SmallMolecule1	Complex7	

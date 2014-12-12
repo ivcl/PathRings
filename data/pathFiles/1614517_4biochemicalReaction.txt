@@ -1,0 +1,40 @@
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	Protein1	Protein2	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	SmallMolecule1	Protein2	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	SmallMolecule2	Protein2	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	SmallMolecule3	Protein2	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction1	SQR oxidizes sulfide to bound persulfide	Protein1	SmallMolecule4	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	Protein2	Protein3	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	SmallMolecule6	Protein3	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	SmallMolecule7	Protein3	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	Protein2	SmallMolecule8	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	SmallMolecule6	SmallMolecule9	
+BiochemicalReaction2	Persulfide sulfur is dioxygenated	Protein2	SmallMolecule9	
+BiochemicalReaction3	Persulfide sulfur is transferred onto sulfite	Protein2	Protein3	
+BiochemicalReaction3	Persulfide sulfur is transferred onto sulfite	SmallMolecule8	Protein3	
+BiochemicalReaction3	Persulfide sulfur is transferred onto sulfite	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction3	Persulfide sulfur is transferred onto sulfite	Protein2	SmallMolecule11	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule9	SmallMolecule13	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule12	SmallMolecule8	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule11	SmallMolecule8	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule9	SmallMolecule14	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction4	Thiosulfate can transfer its sulfate to glutathione	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction5	Sulfite is oxidized to sulfate	SmallMolecule8	SmallMolecule15	
+BiochemicalReaction5	Sulfite is oxidized to sulfate	SmallMolecule6	SmallMolecule15	
+BiochemicalReaction5	Sulfite is oxidized to sulfate	SmallMolecule7	SmallMolecule15	
+BiochemicalReaction5	Sulfite is oxidized to sulfate	SmallMolecule7	SmallMolecule16	
+BiochemicalReaction5	Sulfite is oxidized to sulfate	SmallMolecule6	SmallMolecule16	
+BiochemicalReaction5	Sulfite is oxidized to sulfate	SmallMolecule8	SmallMolecule16	
+BiochemicalReaction6	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule18	SmallMolecule19	
+BiochemicalReaction6	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule15	SmallMolecule19	
+BiochemicalReaction6	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction6	Sulfate is exported to the cytosol in exchange for dicarboxylate	SmallMolecule18	SmallMolecule20	

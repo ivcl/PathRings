@@ -1,0 +1,92 @@
+Complex1	RasGRPs:DAG:Ca2+	plasma membrane	Reactome DB_ID: 2685686	Protein1	
+Complex1	RasGRPs:DAG:Ca2+	plasma membrane	Reactome DB_ID: 2685686	SmallMolecule1	
+Complex1	RasGRPs:DAG:Ca2+	plasma membrane	Reactome DB_ID: 2685686	SmallMolecule2	
+Complex10	Ig Lambda	extracellular region	Reactome DB_ID: 983672	Protein103	
+Complex10	Ig Lambda	extracellular region	Reactome DB_ID: 983672	Protein161	
+Complex11	p-5Y-PKC-theta:DAG	plasma membrane	Reactome DB_ID: 2685674	Protein167	
+Complex11	p-5Y-PKC-theta:DAG	plasma membrane	Reactome DB_ID: 2685674	SmallMolecule2	
+Complex12	DAG:p-5Y-PKC-theta:p-S552,S645-CARMA1	plasma membrane	Reactome DB_ID: 2685711	Complex11	
+Complex12	DAG:p-5Y-PKC-theta:p-S552,S645-CARMA1	plasma membrane	Reactome DB_ID: 2685711	Protein169	
+Complex13	DAG:p-5Y-PKC-theta:p-S552,S645-CARMA1 oligomer	plasma membrane	Reactome DB_ID: 2685699	PhysicalEntity3	
+Complex13	DAG:p-5Y-PKC-theta:p-S552,S645-CARMA1 oligomer	plasma membrane	Reactome DB_ID: 2685699	Complex11	
+Complex14	BCL10:MALT1	cytosol	Reactome DB_ID: 2685715	Protein170	
+Complex14	BCL10:MALT1	cytosol	Reactome DB_ID: 2685715	Protein171	
+Complex15	DAG:p-5Y-PKC-theta:CBM complex	plasma membrane	Reactome DB_ID: 2685688	Complex16	
+Complex15	DAG:p-5Y-PKC-theta:CBM complex	plasma membrane	Reactome DB_ID: 2685688	Complex11	
+Complex16	p-CARMA1 oligomer:BCL10:MALT1 (CBM complex)	plasma membrane	Reactome DB_ID: 2685679	PhysicalEntity3	
+Complex16	p-CARMA1 oligomer:BCL10:MALT1 (CBM complex)	plasma membrane	Reactome DB_ID: 2685679	Complex14	
+Complex17	DAG:p-5Y-PKC-theta:CBM oligomer	plasma membrane	Reactome DB_ID: 2685671	Complex18	
+Complex17	DAG:p-5Y-PKC-theta:CBM oligomer	plasma membrane	Reactome DB_ID: 2685671	Complex11	
+Complex18	CBM oligomer	plasma membrane	Reactome DB_ID: 2685684	PhysicalEntity3	
+Complex18	CBM oligomer	plasma membrane	Reactome DB_ID: 2685684	PhysicalEntity4	
+Complex18	CBM oligomer	plasma membrane	Reactome DB_ID: 2685684	PhysicalEntity5	
+Complex19	DAG:p-5Y-PKC-theta:CBM oligomer:TRAF6	plasma membrane	Reactome DB_ID: 2685682	Complex20	
+Complex19	DAG:p-5Y-PKC-theta:CBM oligomer:TRAF6	plasma membrane	Reactome DB_ID: 2685682	Complex11	
+Complex2	PKC-theta (open): DAG	plasma membrane	Reactome DB_ID: 202187	Protein6	
+Complex2	PKC-theta (open): DAG	plasma membrane	Reactome DB_ID: 202187	SmallMolecule2	
+Complex20	CBM oligomer:TRAF6	plasma membrane	Reactome DB_ID: 2685697	PhysicalEntity3	
+Complex20	CBM oligomer:TRAF6	plasma membrane	Reactome DB_ID: 2685697	Complex21	
+Complex21	BCL10 oligomer:MALT1 oligomer:TRAF6	cytosol	Reactome DB_ID: 2685667	PhysicalEntity4	
+Complex21	BCL10 oligomer:MALT1 oligomer:TRAF6	cytosol	Reactome DB_ID: 2685667	Complex22	
+Complex22	MALT1oligomer:TRAF6	cytosol	Reactome DB_ID: 2685676	Protein172	
+Complex22	MALT1oligomer:TRAF6	cytosol	Reactome DB_ID: 2685676	PhysicalEntity5	
+Complex23	DAG:p-5Y-PKC-theta:CBM oligomer:TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685713	Complex24	
+Complex23	DAG:p-5Y-PKC-theta:CBM oligomer:TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685713	Complex11	
+Complex24	CBM oligomer:TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685695	PhysicalEntity6	
+Complex24	CBM oligomer:TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685695	PhysicalEntity3	
+Complex24	CBM oligomer:TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685695	PhysicalEntity4	
+Complex24	CBM oligomer:TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685695	PhysicalEntity5	
+Complex25	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein173	
+Complex25	TRIKA1	cytosol	Reactome DB_ID: 202463	Protein174	
+Complex26	DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6	plasma membrane	Reactome DB_ID: 2685691	Complex27	
+Complex26	DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6	plasma membrane	Reactome DB_ID: 2685691	Complex11	
+Complex27	CBM oligomer:oligo-K63-poly Ub-TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685678	PhysicalEntity3	
+Complex27	CBM oligomer:oligo-K63-poly Ub-TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685678	Protein175	
+Complex27	CBM oligomer:oligo-K63-poly Ub-TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685678	PhysicalEntity4	
+Complex27	CBM oligomer:oligo-K63-poly Ub-TRAF6 oligomer	plasma membrane	Reactome DB_ID: 2685678	PhysicalEntity5	
+Complex28	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein176	
+Complex28	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein177	
+Complex28	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein180	
+Complex29	DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6:TAK1:TAB1:TAB2/3	plasma membrane	Reactome DB_ID: 2685689	Complex28	
+Complex29	DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6:TAK1:TAB1:TAB2/3	plasma membrane	Reactome DB_ID: 2685689	Complex26	
+Complex3	p-Y90-PKC-theta:DAG	plasma membrane	Reactome DB_ID: 202300	Protein7	
+Complex3	p-Y90-PKC-theta:DAG	plasma membrane	Reactome DB_ID: 202300	SmallMolecule2	
+Complex30	DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6:activated TAK1 complex	plasma membrane	Reactome DB_ID: 2685709	Complex28	
+Complex30	DAG:p-5Y-PKC-theta:CBM oligomer:oligo-K63-poly Ub-TRAF6:activated TAK1 complex	plasma membrane	Reactome DB_ID: 2685709	Complex26	
+Complex31	IKK complex	cytosol	Reactome DB_ID: 168113	Protein181	
+Complex31	IKK complex	cytosol	Reactome DB_ID: 168113	Protein182	
+Complex31	IKK complex	cytosol	Reactome DB_ID: 168113	Protein183	
+Complex32	p-S177,S181-IKKB:IKKA:NEMO	cytosol	Reactome DB_ID: 202513	Protein181	
+Complex32	p-S177,S181-IKKB:IKKA:NEMO	cytosol	Reactome DB_ID: 202513	Protein184	
+Complex32	p-S177,S181-IKKB:IKKA:NEMO	cytosol	Reactome DB_ID: 202513	Protein182	
+Complex33	p-S177,S181-IKKB:IKKA:pUb-NEMO	cytosol	Reactome DB_ID: 202562	Protein181	
+Complex33	p-S177,S181-IKKB:IKKA:pUb-NEMO	cytosol	Reactome DB_ID: 202562	Protein185	
+Complex33	p-S177,S181-IKKB:IKKA:pUb-NEMO	cytosol	Reactome DB_ID: 202562	Protein184	
+Complex34	Ub-TRAF6 trimer bound to CBM complex	plasma membrane	Reactome DB_ID: 202456	Protein175	
+Complex34	Ub-TRAF6 trimer bound to CBM complex	plasma membrane	Reactome DB_ID: 202456	Complex35	
+Complex35	MALT1 trimer bound to Bcl10 and CARMA1 trimer	plasma membrane	Reactome DB_ID: 202468	Complex36	
+Complex35	MALT1 trimer bound to Bcl10 and CARMA1 trimer	plasma membrane	Reactome DB_ID: 202468	Complex39	
+Complex36	Bcl10 trimer bound to CARMA1 trimer	plasma membrane	Reactome DB_ID: 202475	Complex37	
+Complex36	Bcl10 trimer bound to CARMA1 trimer	plasma membrane	Reactome DB_ID: 202475	Protein188	
+Complex37	CARMA1 trimer	plasma membrane	Reactome DB_ID: 202445	Protein186	
+Complex37	CARMA1 trimer	plasma membrane	Reactome DB_ID: 202445	Complex38	
+Complex38	PDK1:PIP2,PIP3	plasma membrane	Reactome DB_ID: 202311	Protein187	
+Complex38	PDK1:PIP2,PIP3	plasma membrane	Reactome DB_ID: 202311	SmallMolecule7	
+Complex39	MALT1 trimer	cytosol	Reactome DB_ID: 202487	Protein170	
+Complex4	Allergin:p-LYN:p-FCERI:IgE aggregate	plasma membrane	Reactome DB_ID: 2454232	PhysicalEntity1	
+Complex4	Allergin:p-LYN:p-FCERI:IgE aggregate	plasma membrane	Reactome DB_ID: 2454232	Complex5	
+Complex40	IkB(alpha):NF-kB complex	cytosol	Reactome DB_ID: 193938	Complex41	
+Complex40	IkB(alpha):NF-kB complex	cytosol	Reactome DB_ID: 193938	Protein191	
+Complex41	NF-kB complex	cytosol	Reactome DB_ID: 194043	Protein189	
+Complex41	NF-kB complex	cytosol	Reactome DB_ID: 194043	Protein190	
+Complex42	NF-kB complex	nucleoplasm	Reactome DB_ID: 194047	Protein193	
+Complex42	NF-kB complex	nucleoplasm	Reactome DB_ID: 194047	Protein194	
+Complex5	p-LYN:p-FCERI:IgE aggregate	plasma membrane	Reactome DB_ID: 2454169	Protein8	
+Complex5	p-LYN:p-FCERI:IgE aggregate	plasma membrane	Reactome DB_ID: 2454169	PhysicalEntity2	
+Complex5	p-LYN:p-FCERI:IgE aggregate	plasma membrane	Reactome DB_ID: 2454169	Complex6	
+Complex6	IgE	extracellular region	Reactome DB_ID: 1591211	Complex7	
+Complex6	IgE	extracellular region	Reactome DB_ID: 1591211	Complex8	
+Complex7	IgE Heavy Chain	extracellular region	Reactome DB_ID: 1591209	Protein9	
+Complex7	IgE Heavy Chain	extracellular region	Reactome DB_ID: 1591209	Protein10	
+Complex9	Ig Kappa	extracellular region	Reactome DB_ID: 983670	Protein49	
+Complex9	Ig Kappa	extracellular region	Reactome DB_ID: 983670	Protein102	

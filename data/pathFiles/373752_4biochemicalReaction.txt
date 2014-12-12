@@ -1,0 +1,98 @@
+BiochemicalReaction1	DCC interaction with Netrin-1	Protein1	Complex1	
+BiochemicalReaction1	DCC interaction with Netrin-1	Protein2	Complex1	
+BiochemicalReaction10	Activation of Rac1	Complex10	Complex15	
+BiochemicalReaction10	Activation of Rac1	SmallMolecule3	Complex15	
+BiochemicalReaction10	Activation of Rac1	Complex14	Complex15	
+BiochemicalReaction10	Activation of Rac1	Complex14	SmallMolecule4	
+BiochemicalReaction10	Activation of Rac1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction10	Activation of Rac1	Complex10	SmallMolecule4	
+BiochemicalReaction11	Recruitment and activation of N-WASP by Cdc42	Protein15	Complex17	
+BiochemicalReaction11	Recruitment and activation of N-WASP by Cdc42	Complex12	Complex17	
+BiochemicalReaction11	Recruitment and activation of N-WASP by Cdc42	SmallMolecule5	Complex17	
+BiochemicalReaction12	Recruitment of ABLIM to the plasma membrane	Complex15	Complex18	
+BiochemicalReaction12	Recruitment of ABLIM to the plasma membrane	Protein17	Complex18	
+BiochemicalReaction13	UNC-5 binds Netrin-1	Protein21	Complex19	
+BiochemicalReaction13	UNC-5 binds Netrin-1	Protein1	Complex19	
+BiochemicalReaction14	DCC heterodimerizes with UNC-5:Netrin-1	Complex19	Complex20	
+BiochemicalReaction14	DCC heterodimerizes with UNC-5:Netrin-1	Protein2	Complex20	
+BiochemicalReaction15	Phosphorylation of Unc5C	Complex21	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Unc5C	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction15	Phosphorylation of Unc5C	SmallMolecule1	Complex23	
+BiochemicalReaction15	Phosphorylation of Unc5C	Complex21	Complex23	
+BiochemicalReaction16	Shp2 binds pUnc5C	Complex23	Complex25	
+BiochemicalReaction16	Shp2 binds pUnc5C	Protein27	Complex25	
+BiochemicalReaction17	DCC interaction with ROBO-1	Complex26	Complex27	
+BiochemicalReaction17	DCC interaction with ROBO-1	Protein2	Complex27	
+BiochemicalReaction18	DCC interaction with SIAH1	Complex1	Complex28	
+BiochemicalReaction18	DCC interaction with SIAH1	Protein33	Complex28	
+BiochemicalReaction19	DCC interaction with SIAH2	Complex1	Complex29	
+BiochemicalReaction19	DCC interaction with SIAH2	Protein34	Complex29	
+BiochemicalReaction2	Netrin-1 induced DCC clustering	Complex1	Complex2	
+BiochemicalReaction2	Netrin-1 induced DCC clustering	Protein2	Complex2	
+BiochemicalReaction20	Translocation of Ezrin to plasma membrane	SmallMolecule5	Complex30	
+BiochemicalReaction20	Translocation of Ezrin to plasma membrane	Protein35	Complex30	
+BiochemicalReaction21	Phosphorylation and activation of Ezrin	Complex30	SmallMolecule2	
+BiochemicalReaction21	Phosphorylation and activation of Ezrin	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	Phosphorylation and activation of Ezrin	SmallMolecule1	Complex31	
+BiochemicalReaction21	Phosphorylation and activation of Ezrin	Complex30	Complex31	
+BiochemicalReaction22	DCC interaction with Ezrin	Complex31	Complex32	
+BiochemicalReaction22	DCC interaction with Ezrin	Protein2	Complex32	
+BiochemicalReaction23	Netrin-4 binds DCC/UNC5A	Protein38	Complex33	
+BiochemicalReaction23	Netrin-4 binds DCC/UNC5A	Protein39	Complex33	
+BiochemicalReaction24	Neogenin binds Netrin-1	Protein40	Complex34	
+BiochemicalReaction24	Neogenin binds Netrin-1	Protein1	Complex34	
+BiochemicalReaction25	Neogenin binds repulsive guidance molecules (RGDs)	Protein41	Complex35	
+BiochemicalReaction25	Neogenin binds repulsive guidance molecules (RGDs)	Protein40	Complex35	
+BiochemicalReaction26	Myosin-X binds DCC/Neogenin	Protein45	Complex36	
+BiochemicalReaction26	Myosin-X binds DCC/Neogenin	Protein46	Complex36	
+BiochemicalReaction27	PIKE-L interaction with UNC5B	Protein23	Complex37	
+BiochemicalReaction27	PIKE-L interaction with UNC5B	Protein47	Complex37	
+BiochemicalReaction28	PITPalpha binds DCC	Complex2	Complex38	
+BiochemicalReaction28	PITPalpha binds DCC	Protein48	Complex38	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule5	Complex39	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	Complex39	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	Complex38	Complex39	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	Protein49	Complex39	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	Protein49	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	Complex38	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	Protein49	Complex38	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	Complex38	Complex38	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule1	Complex38	
+BiochemicalReaction29	Phosphorylation of PLCgamma by Netrin-1	SmallMolecule5	Complex38	
+BiochemicalReaction3	FADK1 interaction with DCC	Complex2	Complex3	
+BiochemicalReaction3	FADK1 interaction with DCC	Protein3	Complex3	
+BiochemicalReaction30	PIP2 hydrolysis	SmallMolecule5	SmallMolecule7	
+BiochemicalReaction30	PIP2 hydrolysis	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction30	PIP2 hydrolysis	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction30	PIP2 hydrolysis	SmallMolecule5	SmallMolecule8	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	SmallMolecule7	Complex42	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	Complex40	Complex42	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	SmallMolecule8	Complex42	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	SmallMolecule8	SmallMolecule7	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	Complex40	SmallMolecule7	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	SmallMolecule7	SmallMolecule7	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	SmallMolecule8	SmallMolecule8	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	Complex40	SmallMolecule8	
+BiochemicalReaction31	Activation of TRPC channels by Netrin-1	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction4	Phosphorylation of FADK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of FADK1	Complex3	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation of FADK1	Complex3	Complex4	
+BiochemicalReaction4	Phosphorylation of FADK1	SmallMolecule1	Complex4	
+BiochemicalReaction5	Recruitment of Src and Fyn to DCC:FADK1	Complex4	Complex5	
+BiochemicalReaction5	Recruitment of Src and Fyn to DCC:FADK1	Protein5	Complex5	
+BiochemicalReaction6	Phosphorylation of DCC by Fyn	Complex5	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of DCC by Fyn	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of DCC by Fyn	SmallMolecule1	Complex6	
+BiochemicalReaction6	Phosphorylation of DCC by Fyn	Complex5	Complex6	
+BiochemicalReaction7	DCC interacting NCK-1	Protein9	Complex9	
+BiochemicalReaction7	DCC interacting NCK-1	Complex6	Complex9	
+BiochemicalReaction8	RhoGTPase GEF's recruited to DCC	Complex9	Complex10	
+BiochemicalReaction8	RhoGTPase GEF's recruited to DCC	Protein10	Complex10	
+BiochemicalReaction9	Activation of Cdc42	Complex10	Complex12	
+BiochemicalReaction9	Activation of Cdc42	SmallMolecule3	Complex12	
+BiochemicalReaction9	Activation of Cdc42	Complex11	Complex12	
+BiochemicalReaction9	Activation of Cdc42	Complex11	SmallMolecule4	
+BiochemicalReaction9	Activation of Cdc42	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction9	Activation of Cdc42	Complex10	SmallMolecule4	

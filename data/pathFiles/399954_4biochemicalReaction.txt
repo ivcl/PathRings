@@ -1,0 +1,26 @@
+BiochemicalReaction1	Activation of PAK by Rac1	Complex1	Protein1	
+BiochemicalReaction1	Activation of PAK by Rac1	Complex2	Protein1	
+BiochemicalReaction1	Activation of PAK by Rac1	Complex2	Complex8	
+BiochemicalReaction1	Activation of PAK by Rac1	Complex1	Complex8	
+BiochemicalReaction2	Autophosphorylation of PAK	SmallMolecule2	Complex9	
+BiochemicalReaction2	Autophosphorylation of PAK	Complex8	Complex9	
+BiochemicalReaction2	Autophosphorylation of PAK	Complex8	SmallMolecule3	
+BiochemicalReaction2	Autophosphorylation of PAK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of LIMK-1 by PAK	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of LIMK-1 by PAK	Protein17	SmallMolecule3	
+BiochemicalReaction3	Phosphorylation of LIMK-1 by PAK	Protein17	Protein18	
+BiochemicalReaction3	Phosphorylation of LIMK-1 by PAK	SmallMolecule2	Protein18	
+BiochemicalReaction4	Dimerization of LIMK1 by Hsp90	Protein19	Complex10	
+BiochemicalReaction4	Dimerization of LIMK1 by Hsp90	Protein18	Complex10	
+BiochemicalReaction5	Transphosphorylation of pLIMK1	SmallMolecule2	Protein19	
+BiochemicalReaction5	Transphosphorylation of pLIMK1	Complex10	Protein19	
+BiochemicalReaction5	Transphosphorylation of pLIMK1	Complex10	SmallMolecule3	
+BiochemicalReaction5	Transphosphorylation of pLIMK1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Transphosphorylation of pLIMK1	Complex10	Complex11	
+BiochemicalReaction5	Transphosphorylation of pLIMK1	SmallMolecule2	Complex11	
+BiochemicalReaction6	Phosphorylation of cofilin by LIMK-1	Protein23	SmallMolecule3	
+BiochemicalReaction6	Phosphorylation of cofilin by LIMK-1	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction6	Phosphorylation of cofilin by LIMK-1	Complex11	SmallMolecule3	
+BiochemicalReaction6	Phosphorylation of cofilin by LIMK-1	Complex11	Complex12	
+BiochemicalReaction6	Phosphorylation of cofilin by LIMK-1	SmallMolecule2	Complex12	
+BiochemicalReaction6	Phosphorylation of cofilin by LIMK-1	Protein23	Complex12	

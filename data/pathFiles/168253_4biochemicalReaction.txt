@@ -1,0 +1,11 @@
+BiochemicalReaction1	Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF)	Protein1	Complex2	
+BiochemicalReaction1	Binding of NS1 to cleavage and host polyadenylation specificity factor (CPSF)	Complex1	Complex2	
+BiochemicalReaction2	Binding of NS1 to poly(A)-binding protein II (PABII)	Complex1	Complex3	
+BiochemicalReaction2	Binding of NS1 to poly(A)-binding protein II (PABII)	Protein3	Complex3	
+BiochemicalReaction3	Binding of NS1 to dsRNA	Complex4	Complex5	
+BiochemicalReaction3	Binding of NS1 to dsRNA	PhysicalEntity1	Complex5	
+BiochemicalReaction4	Binding of NS1 to PKR	Protein5	Complex6	
+BiochemicalReaction4	Binding of NS1 to PKR	Complex4	Complex6	
+BiochemicalReaction5	NA activation of TGF-beta	Protein6	Protein7	
+BiochemicalReaction6	PB1-F2 binds to the mitochondrial adenine nucleotide translocator 3 ANT3, inducing apoptosis	Protein9	Complex7	
+BiochemicalReaction6	PB1-F2 binds to the mitochondrial adenine nucleotide translocator 3 ANT3, inducing apoptosis	Protein10	Complex7	

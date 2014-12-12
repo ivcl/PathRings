@@ -1,0 +1,49 @@
+BiochemicalReaction1	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	PhysicalEntity1	PhysicalEntity3	
+BiochemicalReaction1	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	Complex1	PhysicalEntity3	
+BiochemicalReaction1	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	Complex1	Complex1	
+BiochemicalReaction1	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	PhysicalEntity1	Complex1	
+BiochemicalReaction10	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	SmallMolecule1	PhysicalEntity1	
+BiochemicalReaction10	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	Complex8	PhysicalEntity1	
+BiochemicalReaction10	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	Complex8	Complex8	
+BiochemicalReaction10	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	SmallMolecule1	Complex8	
+BiochemicalReaction11	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	SmallMolecule1	PhysicalEntity1	
+BiochemicalReaction11	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	Complex9	PhysicalEntity1	
+BiochemicalReaction11	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	Complex9	Complex9	
+BiochemicalReaction11	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	SmallMolecule1	Complex9	
+BiochemicalReaction12	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity12	PhysicalEntity14	
+BiochemicalReaction12	RNA Polymerase III Termination and release of transcribed mRNA	Complex22	PhysicalEntity14	
+BiochemicalReaction12	RNA Polymerase III Termination and release of transcribed mRNA	Complex22	Complex4	
+BiochemicalReaction12	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity12	Complex4	
+BiochemicalReaction12	RNA Polymerase III Termination and release of transcribed mRNA	Complex22	PhysicalEntity13	
+BiochemicalReaction12	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity12	PhysicalEntity13	
+BiochemicalReaction13	RNA Polymerase III Transcriptional Pause at Terminator Sequence	Complex12	PhysicalEntity12	
+BiochemicalReaction13	RNA Polymerase III Transcriptional Pause at Terminator Sequence	PhysicalEntity7	PhysicalEntity12	
+BiochemicalReaction13	RNA Polymerase III Transcriptional Pause at Terminator Sequence	PhysicalEntity7	Complex22	
+BiochemicalReaction13	RNA Polymerase III Transcriptional Pause at Terminator Sequence	Complex12	Complex22	
+BiochemicalReaction2	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	PhysicalEntity1	PhysicalEntity3	
+BiochemicalReaction2	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	Complex8	PhysicalEntity3	
+BiochemicalReaction2	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	Complex8	Complex8	
+BiochemicalReaction2	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	PhysicalEntity1	Complex8	
+BiochemicalReaction3	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	PhysicalEntity1	PhysicalEntity3	
+BiochemicalReaction3	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	Complex9	PhysicalEntity3	
+BiochemicalReaction3	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	Complex9	Complex9	
+BiochemicalReaction3	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	PhysicalEntity1	Complex9	
+BiochemicalReaction4	RNA Polymerase III Productive Transcription	Complex12	Complex12	
+BiochemicalReaction4	RNA Polymerase III Productive Transcription	SmallMolecule1	Complex12	
+BiochemicalReaction4	RNA Polymerase III Productive Transcription	PhysicalEntity7	Complex12	
+BiochemicalReaction4	RNA Polymerase III Productive Transcription	PhysicalEntity7	PhysicalEntity8	
+BiochemicalReaction4	RNA Polymerase III Productive Transcription	SmallMolecule1	PhysicalEntity8	
+BiochemicalReaction4	RNA Polymerase III Productive Transcription	Complex12	PhysicalEntity8	
+BiochemicalReaction5	RNA Polymerase III Promoter Opening at Type 1 Promoters	Complex13	Complex1	
+BiochemicalReaction6	RNA Polymerase III Promoter Opening at Type 2 Promoters	Complex16	Complex8	
+BiochemicalReaction7	RNA Polymerase III Promoter Opening at Type 3 Promoters	Complex19	Complex9	
+BiochemicalReaction8	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	Complex12	PhysicalEntity12	
+BiochemicalReaction8	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	PhysicalEntity8	PhysicalEntity12	
+BiochemicalReaction8	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	PhysicalEntity8	Complex12	
+BiochemicalReaction8	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	Complex12	Complex12	
+BiochemicalReaction8	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	PhysicalEntity8	SmallMolecule6	
+BiochemicalReaction8	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	Complex12	SmallMolecule6	
+BiochemicalReaction9	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	SmallMolecule1	PhysicalEntity1	
+BiochemicalReaction9	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	Complex1	PhysicalEntity1	
+BiochemicalReaction9	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	Complex1	Complex1	
+BiochemicalReaction9	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	SmallMolecule1	Complex1	

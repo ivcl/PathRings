@@ -1,0 +1,121 @@
+/**
+ * Created by Yongnanzhu on 5/3/2014.
+ */
+* { margin:0; padding:0 }
+html { height:100%;  }
+body { font-family: sans-serif; background:#111; margin: 0;
+    overflow: hidden; }
+
+#navigationBar canvas {margin:0 0 -5px 0; z-index:300;background:#282828;}    /*background:#666699*/
+
+.bubble { border:solid 0 red; float:left; margin:0;}
+.compare { border:solid 0 red; float:left; margin:0;}
+
+#bubble canvas { margin:0 0 -5px 0; }
+#bgCanvas {cursor:auto;z-index:-10;
+    /*background: -webkit-linear-gradient(rgba(62,64,65,0), rgba(137,157,171,0)); *//* For Safari 5.1 to 6.0 */
+    /*background: -o-linear-gradient(rgba(62,64,65,0), rgba(137,157,171,0)); *//* For Opera 11.1 to 12.0 */
+    /*background: -moz-linear-gradient("#3E4041", "#899DAB"); *//* For Firefox 3.6 to 15 */
+    /*background: linear-gradient("#3E4041", "#899DAB"); *//* Standard syntax (must be last) */
+}
+#bgsvg {z-index:1000;pointer-events: none;}
+#progressbar {
+    position: relative;
+}
+.progress-label {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #fff;
+}
+
+#minMaxRatio{
+    font-size: 11px;
+}
+#updownLabel{
+    font-size: 10px;
+}
+.inlineinput div {
+    display: inline;
+}
+.dragheader { color:#fff; font-weight:bold; font-size:0.9em;letter-spacing:1px;text-align: left;
+    padding:5px 0 5px 0.5em; cursor:move; position:relative; bottom:0px; margin:0 0 0 0; }
+
+.dragheader:hover {color:red z-index:120;}
+/*.dragheader a { color:orange; cursor:pointer!important } */
+#select_menu {float:right; margin-right: 1.3em;display:none;}
+#select_menu .selectItem{cursor:pointer;}
+.close { color:red; float:right; font-family:"Helvetica Neue", Arial, Helvetica, sans-serif; font-weight:bold; cursor:pointer; padding:0 0.4em;
+    position:relative; right:1em; margin-right:-1em }
+.open_para{ color:red; float:right; font-family:"Helvetica Neue", Arial, Helvetica, sans-serif; font-weight:bold; cursor:pointer; padding:0 0.4em;
+    position:relative; right:1em; margin-right:-1em }
+
+.widget { margin:1em; padding:1em; float:left; background:#0a0a0a; z-index:120;}
+
+.widget .close { color:red; font-size:0.7em; text-align: center; position:relative; top:-1em; left:1em; margin:0 0 -1em 0; padding:0; }
+.widget .close:hover { color:red }
+
+
+.widget .close_para { color:#222; font-size:0.7em; text-align: center; position:relative; top:-1em; left:1em; margin:0 0 -1em 0; padding:0;cursor:pointer; }
+.widget .close_para:hover { color:red }
+
+.button { display:inline; cursor:pointer; color:#555; font-size:0.9em; padding:0.5em 0.25em; position:relative; margin:-20px 0 0 0 }
+.on { color:#aaa }
+
+.shadow { box-shadow:0px 3px 15px #333333; /*rgba(0,0,0,1)*/}
+.clr { clear:both }
+
+.para_header {
+    /*background:transparent;*/
+    color:#fff;
+    font-weight:normal;
+    font-size:1.2em;
+    text-align: center;
+    top:1px;
+    /*padding:1px 0 1px;*/
+    cursor:move;
+    position:relative;
+}
+.para {
+    font-size:0.9em;
+    text-align: left;
+    top:0.1em;
+    cursor:pointer;
+    position:relative;
+}
+#para_items {
+    /*background:transparent;*/
+    color:#fff;
+    text-align:left;
+    top:1px;
+    padding:0.3em 0;
+    z-index:200;
+    position:relative;
+    overflow: hidden;
+}
+#para_items li{
+    color:#555;
+    font-size:1.0em;
+}
+#para_items li:hover {
+    cursor:pointer;
+    background:#555;
+    color:rgba(50,0,0,1);
+}
+.chartTooltip
+{
+    z-index: 1500;
+    top: 0px;
+    left: 0px;
+    display: none;
+    border-color: #666;
+    background-color: #fff;
+    color: #666;
+    position: absolute;
+    border: 1px solid #ff0000;
+    padding: 15px 9px 5px 9px;
+    text-align: left;
+    word-wrap: break-word;
+    overflow: hidden;
+}

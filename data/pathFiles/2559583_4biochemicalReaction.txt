@@ -1,0 +1,193 @@
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	Protein1	SmallMolecule2	
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	SmallMolecule1	Protein4	
+BiochemicalReaction1	MAPKs phosphorylate ETS1 and ETS2	Protein1	Protein4	
+BiochemicalReaction10	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Complex8	Complex9	
+BiochemicalReaction10	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Dna1	Complex9	
+BiochemicalReaction10	E2F1, E2F2, or E2F3 and SP1 bind p14-ARF promoter	Protein26	Complex9	
+BiochemicalReaction11	E2F1/E2F2/E2F3 and SP1 stimulate transcription of p14-ARF mRNA	Dna1	Rna2	
+BiochemicalReaction12	miR-24 binds p16-INK4a and p14-ARF mRNAs	Rna3	Complex12	
+BiochemicalReaction12	miR-24 binds p16-INK4a and p14-ARF mRNAs	Complex10	Complex12	
+BiochemicalReaction13	Translation of p14-ARF mRNA is inhibited by miR-24	Rna2	Protein36	
+BiochemicalReaction14	Translation of p16-INK4a mRNA is inhibited by miR-24	Rna1	Protein15	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Complex13	Complex15	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Protein39	Complex15	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Protein39	Complex16	
+BiochemicalReaction15	MDM2 ubiquitinates TP53	Complex13	Complex16	
+BiochemicalReaction16	p14-ARF forms a ternary complex with MDM2 and TP53	Complex13	Complex17	
+BiochemicalReaction16	p14-ARF forms a ternary complex with MDM2 and TP53	Protein36	Complex17	
+BiochemicalReaction17	p14-ARF sequesters MDM2	Complex17	Complex18	
+BiochemicalReaction17	p14-ARF sequesters MDM2	Complex17	Complex14	
+BiochemicalReaction18	ROS oxidize thioredoxin and activate MAP3K5	Complex19	Protein56	
+BiochemicalReaction18	ROS oxidize thioredoxin and activate MAP3K5	SmallMolecule3	Protein56	
+BiochemicalReaction18	ROS oxidize thioredoxin and activate MAP3K5	SmallMolecule3	Protein55	
+BiochemicalReaction18	ROS oxidize thioredoxin and activate MAP3K5	Complex19	Protein55	
+BiochemicalReaction19	MAP3K5 phosphorylates MKK3 and MKK6	Protein61	Protein64	
+BiochemicalReaction19	MAP3K5 phosphorylates MKK3 and MKK6	SmallMolecule4	Protein64	
+BiochemicalReaction19	MAP3K5 phosphorylates MKK3 and MKK6	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction19	MAP3K5 phosphorylates MKK3 and MKK6	Protein61	SmallMolecule5	
+BiochemicalReaction2	Phosphorylated ETS1/ETS2 binds p16-INK4A promoter	Dna1	Complex4	
+BiochemicalReaction2	Phosphorylated ETS1/ETS2 binds p16-INK4A promoter	Protein4	Complex4	
+BiochemicalReaction20	Phosphorylated MKK3/MKK6 migrates to nucleus	Protein64	Protein67	
+BiochemicalReaction21	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex20	Complex21	
+BiochemicalReaction21	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule1	Complex21	
+BiochemicalReaction21	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction21	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK2 or MAPKAPK3	Complex20	SmallMolecule2	
+BiochemicalReaction22		Complex21	SmallMolecule2	
+BiochemicalReaction22		SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22		SmallMolecule1	Complex22	
+BiochemicalReaction22		Complex21	Complex22	
+BiochemicalReaction23	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	Protein82	SmallMolecule5	
+BiochemicalReaction23	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction23	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	SmallMolecule4	Protein83	
+BiochemicalReaction23	MAP3K5 (ASK1) phosphorylates MAP2K4 (SEK1)	Protein82	Protein83	
+BiochemicalReaction24	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein84	SmallMolecule5	
+BiochemicalReaction24	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction24	Phosphorylation of human JNKs by activated MKK4/MKK7	SmallMolecule4	Protein88	
+BiochemicalReaction24	Phosphorylation of human JNKs by activated MKK4/MKK7	Protein84	Protein88	
+BiochemicalReaction25	Activated human JNKs migrate to nucleoplasm	Protein88	Protein94	
+BiochemicalReaction26	Activated JNKs phosphorylate c-JUN	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction26	Activated JNKs phosphorylate c-JUN	Protein98	SmallMolecule2	
+BiochemicalReaction26	Activated JNKs phosphorylate c-JUN	Protein98	Protein99	
+BiochemicalReaction26	Activated JNKs phosphorylate c-JUN	SmallMolecule1	Protein99	
+BiochemicalReaction27	c-FOS activation by phospho ERK1/2	Protein100	SmallMolecule2	
+BiochemicalReaction27	c-FOS activation by phospho ERK1/2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction27	c-FOS activation by phospho ERK1/2	SmallMolecule1	Protein101	
+BiochemicalReaction27	c-FOS activation by phospho ERK1/2	Protein100	Protein101	
+BiochemicalReaction28	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein99	Complex23	
+BiochemicalReaction28	Formation of Activated Protein 1 (AP-1) complex. cFOS/c-JUN heterodimer. 	Protein101	Complex23	
+BiochemicalReaction29	E2F1/2/3:DP1/2 binds EED gene promoter	Complex8	Complex24	
+BiochemicalReaction29	E2F1/2/3:DP1/2 binds EED gene promoter	Dna3	Complex24	
+BiochemicalReaction3	p-T38-ETS1/p-T72-ETS2 stimulates transcription of p16-INK4A mRNA	Dna1	Rna1	
+BiochemicalReaction30	E2F1/2/3 stimulates EED transcription	Dna3	Protein102	
+BiochemicalReaction31	E2F1/2/3:DP1/2 binds EZH2 gene promoter	Complex8	Complex25	
+BiochemicalReaction31	E2F1/2/3:DP1/2 binds EZH2 gene promoter	Dna4	Complex25	
+BiochemicalReaction32	E2F1/2/3 stimulates EZH2 transcription	Dna4	Protein103	
+BiochemicalReaction33	E2F1/2/3:DP1/2 binds SUZ12 gene promoter	Complex8	Complex26	
+BiochemicalReaction33	E2F1/2/3:DP1/2 binds SUZ12 gene promoter	Dna5	Complex26	
+BiochemicalReaction34	E2F1/2/3 stimulates SUZ12 transcription	Dna5	Protein104	
+BiochemicalReaction35	Formation of PRC2-EZH2 complex	Protein102	Complex27	
+BiochemicalReaction35	Formation of PRC2-EZH2 complex	Protein105	Complex27	
+BiochemicalReaction35	Formation of PRC2-EZH2 complex	Protein106	Complex27	
+BiochemicalReaction35	Formation of PRC2-EZH2 complex	Protein103	Complex27	
+BiochemicalReaction35	Formation of PRC2-EZH2 complex	Protein104	Complex27	
+BiochemicalReaction36	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	Complex28	SmallMolecule7	
+BiochemicalReaction36	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction36	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	SmallMolecule6	Complex30	
+BiochemicalReaction36	PRC2-EZH2 trimethylates nucleosomes associated with CDKN2A promoter	Complex28	Complex30	
+BiochemicalReaction37	PRC1.4 complex binds H3K27Me3 nucleosomes on CDKN2A promoter	Complex30	Complex33	
+BiochemicalReaction37	PRC1.4 complex binds H3K27Me3 nucleosomes on CDKN2A promoter	Complex32	Complex33	
+BiochemicalReaction38	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule1	Complex30	
+BiochemicalReaction38	p-MAPKAPK3 phosphorylates BMI1	Complex33	Complex30	
+BiochemicalReaction38	p-MAPKAPK3 phosphorylates BMI1	Complex33	SmallMolecule2	
+BiochemicalReaction38	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction38	p-MAPKAPK3 phosphorylates BMI1	Complex33	Complex34	
+BiochemicalReaction38	p-MAPKAPK3 phosphorylates BMI1	SmallMolecule1	Complex34	
+BiochemicalReaction39	MAPKAPK2/3-mediated removal of PRC1.4 complex stimulates p14-ARF transcription	Complex30	Rna2	
+BiochemicalReaction4	ID1 sequesters ETS2	Protein6	Complex5	
+BiochemicalReaction4	ID1 sequesters ETS2	Protein9	Complex5	
+BiochemicalReaction40	ERK1/2-activated AP1 complex binds KDM6B promoter	Dna6	Complex36	
+BiochemicalReaction40	ERK1/2-activated AP1 complex binds KDM6B promoter	Complex23	Complex36	
+BiochemicalReaction41	AP-1 complex stimulates KDM6B transcription	Dna6	Complex37	
+BiochemicalReaction42	KDM6B demethylates H3K27me3 on p16-INK4A promoter	Complex30	SmallMolecule10	
+BiochemicalReaction42	KDM6B demethylates H3K27me3 on p16-INK4A promoter	SmallMolecule9	SmallMolecule10	
+BiochemicalReaction42	KDM6B demethylates H3K27me3 on p16-INK4A promoter	SmallMolecule9	Complex28	
+BiochemicalReaction42	KDM6B demethylates H3K27me3 on p16-INK4A promoter	Complex30	Complex28	
+BiochemicalReaction43	Demethylation of H3K27Me3 by KDM6B stimulates p16-INK4A transcription, while binding of PRC1.4 complex to H3K27Me3 represses p16-INK4A transcription	Complex28	Rna1	
+BiochemicalReaction44	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	SmallMolecule1	Complex39	
+BiochemicalReaction44	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	Complex38	Complex39	
+BiochemicalReaction44	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	Complex38	SmallMolecule2	
+BiochemicalReaction44	Activated human MKK3/MKK6 phosphorylates p38 MAPK complexed with MAPKAPK5	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction45		Complex39	SmallMolecule2	
+BiochemicalReaction45		SmallMolecule1	SmallMolecule2	
+BiochemicalReaction45		SmallMolecule1	Complex40	
+BiochemicalReaction45		Complex39	Complex40	
+BiochemicalReaction46	MAPKAPK5 phosphorylates TP53	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction46	MAPKAPK5 phosphorylates TP53	Complex14	SmallMolecule2	
+BiochemicalReaction46	MAPKAPK5 phosphorylates TP53	Complex14	Complex41	
+BiochemicalReaction46	MAPKAPK5 phosphorylates TP53	SmallMolecule1	Complex41	
+BiochemicalReaction47	ROS induce double strand DNA breaks	SmallMolecule11	PhysicalEntity2	
+BiochemicalReaction47	ROS induce double strand DNA breaks	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction48	Telomere shortening during replicative exhaustion	Complex42	PhysicalEntity5	
+BiochemicalReaction48	Telomere shortening during replicative exhaustion	Complex42	Complex43	
+BiochemicalReaction49	MRN complex binds DNA double strand breaks and shortened telomeres	Complex46	Complex47	
+BiochemicalReaction49	MRN complex binds DNA double strand breaks and shortened telomeres	PhysicalEntity6	Complex47	
+BiochemicalReaction5	ERF binds ETS2 promoter	Protein10	Complex6	
+BiochemicalReaction5	ERF binds ETS2 promoter	Dna2	Complex6	
+BiochemicalReaction50	MRN complex bound to DNA ends recruits ATM	Complex47	Complex49	
+BiochemicalReaction50	MRN complex bound to DNA ends recruits ATM	Complex48	Complex49	
+BiochemicalReaction51	MRN activates ATM	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction51	MRN activates ATM	Complex49	SmallMolecule2	
+BiochemicalReaction51	MRN activates ATM	Complex49	Complex47	
+BiochemicalReaction51	MRN activates ATM	SmallMolecule1	Complex47	
+BiochemicalReaction51	MRN activates ATM	Complex49	Protein168	
+BiochemicalReaction51	MRN activates ATM	SmallMolecule1	Protein168	
+BiochemicalReaction52	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction52	Phosphorylation of p53 at ser-15 by ATM kinase	Complex14	SmallMolecule2	
+BiochemicalReaction52	Phosphorylation of p53 at ser-15 by ATM kinase	Complex14	Complex50	
+BiochemicalReaction52	Phosphorylation of p53 at ser-15 by ATM kinase	SmallMolecule1	Complex50	
+BiochemicalReaction53	TP53 binds CDKN1A promoter	Dna7	Complex51	
+BiochemicalReaction53	TP53 binds CDKN1A promoter	Complex50	Complex51	
+BiochemicalReaction54	Transcriptional activation of p21 by p53 after DNA damage	Dna7	Protein170	
+BiochemicalReaction55	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Complex52	Complex53	
+BiochemicalReaction55	Inactivation of Cyclin A:Cdk2 complexes by p27/p21	Protein175	Complex53	
+BiochemicalReaction56	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Complex54	Complex55	
+BiochemicalReaction56	Inactivation of Cyclin E:Cdk2 complexes by p27/p21	Protein175	Complex55	
+BiochemicalReaction57	Initiation of SAHF formation	Protein180	Complex56	
+BiochemicalReaction57	Initiation of SAHF formation	Protein181	Complex56	
+BiochemicalReaction57	Initiation of SAHF formation	Protein182	Complex56	
+BiochemicalReaction57	Initiation of SAHF formation	Protein183	Complex56	
+BiochemicalReaction58	CDKN1A (p21) prevents association of Cyclin A:Cdk2 with Cdh1	Complex57	Complex60	
+BiochemicalReaction58	CDKN1A (p21) prevents association of Cyclin A:Cdk2 with Cdh1	Complex58	Complex60	
+BiochemicalReaction59	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex60	SmallMolecule2	
+BiochemicalReaction59	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction59	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule1	Complex61	
+BiochemicalReaction59	CDKN1A (p21) prevents phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex60	Complex61	
+BiochemicalReaction6	ERF inhibits ETS2 expression	Dna2	Protein3	
+BiochemicalReaction60	Cdh1:APC/C complex binds EHMT1:EHMT2	Complex58	Complex64	
+BiochemicalReaction60	Cdh1:APC/C complex binds EHMT1:EHMT2	Complex63	Complex64	
+BiochemicalReaction61	Cdh1:APC/C ubiquitinates EHMT1 and EHMT2	Complex64	Complex65	
+BiochemicalReaction61	Cdh1:APC/C ubiquitinates EHMT1 and EHMT2	Protein39	Complex65	
+BiochemicalReaction62	EHMT1:EHMT2 methylates IL6 promoter	Complex68	SmallMolecule7	
+BiochemicalReaction62	EHMT1:EHMT2 methylates IL6 promoter	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction62	EHMT1:EHMT2 methylates IL6 promoter	SmallMolecule6	Complex69	
+BiochemicalReaction62	EHMT1:EHMT2 methylates IL6 promoter	Complex68	Complex69	
+BiochemicalReaction63	EHMT1:EHMT2 methylates IL8 promoter	Complex71	SmallMolecule7	
+BiochemicalReaction63	EHMT1:EHMT2 methylates IL8 promoter	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction63	EHMT1:EHMT2 methylates IL8 promoter	SmallMolecule6	Complex72	
+BiochemicalReaction63	EHMT1:EHMT2 methylates IL8 promoter	Complex71	Complex72	
+BiochemicalReaction64	ERK1/2/5 activate RSK1/2/3	SmallMolecule1	Protein211	
+BiochemicalReaction64	ERK1/2/5 activate RSK1/2/3	Protein207	Protein211	
+BiochemicalReaction64	ERK1/2/5 activate RSK1/2/3	Protein207	SmallMolecule2	
+BiochemicalReaction64	ERK1/2/5 activate RSK1/2/3	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction65	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction65	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	Protein217	SmallMolecule2	
+BiochemicalReaction65	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	Protein217	Protein218	
+BiochemicalReaction65	MAPK3 (ERK1) and MAPK1 (ERK2) phosphorylate CEBPB	SmallMolecule1	Protein218	
+BiochemicalReaction66	RPS6KA1/2/3 phosphorylates CEBPB on S321	Protein218	SmallMolecule2	
+BiochemicalReaction66	RPS6KA1/2/3 phosphorylates CEBPB on S321	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction66	RPS6KA1/2/3 phosphorylates CEBPB on S321	SmallMolecule1	Protein219	
+BiochemicalReaction66	RPS6KA1/2/3 phosphorylates CEBPB on S321	Protein218	Protein219	
+BiochemicalReaction67	CEBPB homodimerization	Protein219	Complex73	
+BiochemicalReaction68	Activated CEBPB binds IL6 promoter	Complex73	Complex74	
+BiochemicalReaction68	Activated CEBPB binds IL6 promoter	Complex68	Complex74	
+BiochemicalReaction69	Stimulation of IL6 transcription in senescent cells	Complex68	Protein220	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	Protein10	Protein11	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	SmallMolecule1	Protein11	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Activated ERKs phosphorylate ERF	Protein10	SmallMolecule2	
+BiochemicalReaction70	Activated STAT3 positively regulates CEBPB transcription	Dna10	Protein217	
+BiochemicalReaction71	Activated CEBPB binds IL8 promoter	Complex71	Complex76	
+BiochemicalReaction71	Activated CEBPB binds IL8 promoter	Complex73	Complex76	
+BiochemicalReaction72	Stimulation of IL8 transcription in senescent cells	Complex71	Protein222	
+BiochemicalReaction73	Activated CEBPB binds CDKN2B promoter	Complex73	Complex77	
+BiochemicalReaction73	Activated CEBPB binds CDKN2B promoter	Dna11	Complex77	
+BiochemicalReaction74	Activated CEBPB stimulates transcription of CDKN2B	Dna11	Protein14	
+BiochemicalReaction75	AP-1 transcription factor binds IGFBP7 promoter	Complex23	Complex78	
+BiochemicalReaction75	AP-1 transcription factor binds IGFBP7 promoter	Dna12	Complex78	
+BiochemicalReaction76	AP-1 stimulates transcription of IGFBP7	Dna12	Protein223	
+BiochemicalReaction8	Phosphorylated ERF translocates to the cytosol	Protein11	Protein12	
+BiochemicalReaction9	Association of INK4A with Cdk4/6	Protein13	Complex7	
+BiochemicalReaction9	Association of INK4A with Cdk4/6	Protein18	Complex7	
+TemplateReaction1	RAS signaling promotes generation of reactive oxygen species (ROS)	NA	SmallMolecule3	
+TemplateReaction2	Expression of MINK1/TNIK is positively regulated by ROS	NA	Protein57	

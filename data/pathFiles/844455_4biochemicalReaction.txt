@@ -1,0 +1,7 @@
+BiochemicalReaction1	Bcl-2 and Bcl-XL bind NLRP1	Protein1	Complex1	
+BiochemicalReaction1	Bcl-2 and Bcl-XL bind NLRP1	Protein2	Complex1	
+BiochemicalReaction2	NLRP1 senses MDP	Protein1	Complex2	
+BiochemicalReaction2	NLRP1 senses MDP	SmallMolecule1	Complex2	
+BiochemicalReaction3	MDP:NLRP1 binds ATP	SmallMolecule2	Complex3	
+BiochemicalReaction3	MDP:NLRP1 binds ATP	Complex2	Complex3	
+BiochemicalReaction4	NLRP1 oligomerizes	Complex3	PhysicalEntity1	

@@ -1,0 +1,53 @@
+BiochemicalReaction1	L1 and NCAM1 engaged in cis-interaction	Protein1	Complex1	
+BiochemicalReaction1	L1 and NCAM1 engaged in cis-interaction	Protein2	Complex1	
+BiochemicalReaction10	MEK2 phosphorylates ERK-2	Complex19	SmallMolecule2	
+BiochemicalReaction10	MEK2 phosphorylates ERK-2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction10	MEK2 phosphorylates ERK-2	SmallMolecule1	Complex20	
+BiochemicalReaction10	MEK2 phosphorylates ERK-2	Complex19	Complex20	
+BiochemicalReaction11	Phosphorylation of L1 by CK-II	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by CK-II	Complex21	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by CK-II	Protein1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of L1 by CK-II	Protein1	Complex22	
+BiochemicalReaction11	Phosphorylation of L1 by CK-II	Complex21	Complex22	
+BiochemicalReaction11	Phosphorylation of L1 by CK-II	SmallMolecule1	Complex22	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	SmallMolecule1	Complex27	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Protein25	Complex27	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Complex23	Complex27	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Complex23	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	Protein25	SmallMolecule2	
+BiochemicalReaction12	Phosphorylation of L1 by ERK	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of L1 by p90rsk	Protein39	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of L1 by p90rsk	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of L1 by p90rsk	Complex23	SmallMolecule2	
+BiochemicalReaction13	Phosphorylation of L1 by p90rsk	Complex23	Complex28	
+BiochemicalReaction13	Phosphorylation of L1 by p90rsk	SmallMolecule1	Complex28	
+BiochemicalReaction13	Phosphorylation of L1 by p90rsk	Protein39	Complex28	
+BiochemicalReaction2	L1-FGFR cis-heterodimerization	Protein3	Complex3	
+BiochemicalReaction2	L1-FGFR cis-heterodimerization	Complex2	Complex3	
+BiochemicalReaction3	L1-EGFR trans-heterodimerization	Protein4	Complex4	
+BiochemicalReaction3	L1-EGFR trans-heterodimerization	Protein1	Complex4	
+BiochemicalReaction4	L1 binds NRP1	Protein5	Complex5	
+BiochemicalReaction4	L1 binds NRP1	Protein1	Complex5	
+BiochemicalReaction5	L1 interaction with Integrins	Complex6	Complex12	
+BiochemicalReaction5	L1 interaction with Integrins	Protein1	Complex12	
+BiochemicalReaction6	Phosphorylation of VAV2	Protein12	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of VAV2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of VAV2	SmallMolecule1	Protein13	
+BiochemicalReaction6	Phosphorylation of VAV2	Protein12	Protein13	
+BiochemicalReaction7	Activation of Rac1 by VAV2	SmallMolecule3	Complex14	
+BiochemicalReaction7	Activation of Rac1 by VAV2	Complex13	Complex14	
+BiochemicalReaction7	Activation of Rac1 by VAV2	Complex13	SmallMolecule4	
+BiochemicalReaction7	Activation of Rac1 by VAV2	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	Protein15	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	Complex15	Protein15	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	Complex14	Protein15	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	Complex14	SmallMolecule2	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	Complex15	SmallMolecule2	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	Complex14	Complex16	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	Complex15	Complex16	
+BiochemicalReaction8	Interaction of PAK1 with Rac1-GTP	SmallMolecule1	Complex16	
+BiochemicalReaction9	MEK1 phosphorylates ERK-1	Complex17	Complex18	
+BiochemicalReaction9	MEK1 phosphorylates ERK-1	SmallMolecule1	Complex18	
+BiochemicalReaction9	MEK1 phosphorylates ERK-1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	MEK1 phosphorylates ERK-1	Complex17	SmallMolecule2	

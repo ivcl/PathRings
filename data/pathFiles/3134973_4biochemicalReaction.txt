@@ -1,0 +1,15 @@
+BiochemicalReaction1	LRR FLII-interacting protein 1 binds dsDNA	PhysicalEntity1	Complex2	
+BiochemicalReaction1	LRR FLII-interacting protein 1 binds dsDNA	Complex1	Complex2	
+BiochemicalReaction2	LRR FLII-interacting protein 1 associates with beta-catenin	Protein2	Complex3	
+BiochemicalReaction2	LRR FLII-interacting protein 1 associates with beta-catenin	Complex2	Complex3	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser552	Complex3	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser552	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser552	SmallMolecule1	Protein3	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser552	Complex3	Protein3	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser552	SmallMolecule1	Complex2	
+BiochemicalReaction3	Phosphorylation of beta-catenin at Ser552	Complex3	Complex2	
+BiochemicalReaction4	Beta-catenin migrates to the nucleus	Protein3	Protein4	
+BiochemicalReaction5	Beta-catenin enhances association of IRF3 with CBP/p300 	Complex4	Complex5	
+BiochemicalReaction5	Beta-catenin enhances association of IRF3 with CBP/p300 	Protein6	Complex5	
+BiochemicalReaction5	Beta-catenin enhances association of IRF3 with CBP/p300 	Protein4	Complex5	
+BiochemicalReaction5	Beta-catenin enhances association of IRF3 with CBP/p300 	PhysicalEntity4	Complex5	

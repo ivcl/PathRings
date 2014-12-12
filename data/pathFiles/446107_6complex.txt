@@ -1,0 +1,18 @@
+Complex1	Integrin alpha6beta4	plasma membrane	Reactome DB_ID: 215997	Protein1	
+Complex1	Integrin alpha6beta4	plasma membrane	Reactome DB_ID: 215997	Protein2	
+Complex2	Integrin alpha 6:beta 4:Plectin complex	plasma membrane	Reactome DB_ID: 445996	Complex1	
+Complex2	Integrin alpha 6:beta 4:Plectin complex	plasma membrane	Reactome DB_ID: 445996	Protein3	
+Complex3	Integrin alpha6:beta4:Plectin:BP180 complex	plasma membrane	Reactome DB_ID: 445993	Protein4	
+Complex3	Integrin alpha6:beta4:Plectin:BP180 complex	plasma membrane	Reactome DB_ID: 445993	Complex2	
+Complex4	Laminin-5	extracellular region	Reactome DB_ID: 216001	Protein5	
+Complex4	Laminin-5	extracellular region	Reactome DB_ID: 216001	Protein6	
+Complex4	Laminin-5	extracellular region	Reactome DB_ID: 216001	Protein7	
+Complex5	Integrin alpha 6:beta 4:Plectin:BP180:Laminin-322 complex	plasma membrane	Reactome DB_ID: 445997	Protein4	
+Complex5	Integrin alpha 6:beta 4:Plectin:BP180:Laminin-322 complex	plasma membrane	Reactome DB_ID: 445997	Complex4	
+Complex5	Integrin alpha 6:beta 4:Plectin:BP180:Laminin-322 complex	plasma membrane	Reactome DB_ID: 445997	Complex2	
+Complex6	BP230:BP180:Plectin:integrin alpha 6 beta 4:Laminin 332	plasma membrane	Reactome DB_ID: 446010	Protein8	
+Complex6	BP230:BP180:Plectin:integrin alpha 6 beta 4:Laminin 332	plasma membrane	Reactome DB_ID: 446010	Complex5	
+Complex7	CD151:BP230:BP180:Plectin:Integrin alpha 6 beta 4: Laminin	plasma membrane	Reactome DB_ID: 446066	Complex6	
+Complex7	CD151:BP230:BP180:Plectin:Integrin alpha 6 beta 4: Laminin	plasma membrane	Reactome DB_ID: 446066	Protein10	
+Complex8	Type II hemidesmosome	plasma membrane	Reactome DB_ID: 446086	Complex7	
+Complex8	Type II hemidesmosome	plasma membrane	Reactome DB_ID: 446086	PhysicalEntity1	

@@ -1,0 +1,9 @@
+BiochemicalReaction1	Binding of TFIIIA To type 1 Promoter	Protein1	Complex1	
+BiochemicalReaction1	Binding of TFIIIA To type 1 Promoter	PhysicalEntity1	Complex1	
+BiochemicalReaction2	Binding of TFIIIC to TFIIIA:Type I Promoter complex 	Complex2	Complex3	
+BiochemicalReaction2	Binding of TFIIIC to TFIIIA:Type I Promoter complex 	Complex1	Complex3	
+BiochemicalReaction3	Binding of TFIIIB to TFIIIC:TFIIIA:Type I Promoter complex	Complex4	Complex5	
+BiochemicalReaction3	Binding of TFIIIB to TFIIIC:TFIIIA:Type I Promoter complex	Complex3	Complex5	
+BiochemicalReaction4	Recruitment of  RNA polymerase III to TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	Complex5	Complex10	
+BiochemicalReaction4	Recruitment of  RNA polymerase III to TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	Complex6	Complex10	
+BiochemicalReaction5	RNA Polymerase III Promoter Opening at Type 1 Promoters	Complex10	Complex11	

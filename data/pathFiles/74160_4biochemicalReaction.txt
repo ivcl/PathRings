@@ -1,0 +1,1521 @@
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein1	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein2	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein3	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein4	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein5	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein6	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein7	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein8	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein9	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein10	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein11	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein12	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein13	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein14	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein15	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein16	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein17	Complex1	
+BiochemicalReaction1	Formation of ARC coactivator complex	Protein18	Complex1	
+BiochemicalReaction10	WWTR1 (TAZ) binds RUNX2	Protein464	Complex10	
+BiochemicalReaction10	WWTR1 (TAZ) binds RUNX2	Protein472	Complex10	
+BiochemicalReaction100	Abortive termination of elongation after arrest	Complex109	Complex116	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	PhysicalEntity29	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex107	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex96	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex19	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex103	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Protein717	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex102	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Protein718	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	SmallMolecule15	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Protein719	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex104	
+BiochemicalReaction101	Elongating transcript encounters a lesion in the template	Complex108	Complex100	
+BiochemicalReaction102	Fall Back to Closed Pre-initiation Complex	Complex117	Complex118	
+BiochemicalReaction103	Recognition and Binding of Core Promoter Elements by TFIID	Complex93	Complex121	
+BiochemicalReaction103	Recognition and Binding of Core Promoter Elements by TFIID	PhysicalEntity31	Complex121	
+BiochemicalReaction104	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Protein680	Complex120	
+BiochemicalReaction104	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Complex121	Complex120	
+BiochemicalReaction104	Binding of TFIIA and TFIIB to the pol II promoter:TFIID complex	Complex94	Complex120	
+BiochemicalReaction105	Recruitment of RNA Polymerase II Holoenzyme by TFIIF to the pol II promoter:TFIID:TFIIA:TFIIB complex	Complex120	Complex119	
+BiochemicalReaction105	Recruitment of RNA Polymerase II Holoenzyme by TFIIF to the pol II promoter:TFIID:TFIIA:TFIIB complex	Complex95	Complex119	
+BiochemicalReaction106	Binding of TFIIE to the growing preinitiation complex	Complex92	Complex122	
+BiochemicalReaction106	Binding of TFIIE to the growing preinitiation complex	Complex119	Complex122	
+BiochemicalReaction107	Formation of the closed pre-initiation complex	Complex55	Complex118	
+BiochemicalReaction107	Formation of the closed pre-initiation complex	Complex122	Complex118	
+BiochemicalReaction108	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction108	RNA Polymerase II Promoter Opening: First Transition	Complex118	SmallMolecule8	
+BiochemicalReaction108	RNA Polymerase II Promoter Opening: First Transition	Complex118	SmallMolecule13	
+BiochemicalReaction108	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule7	SmallMolecule13	
+BiochemicalReaction108	RNA Polymerase II Promoter Opening: First Transition	Complex118	Complex117	
+BiochemicalReaction108	RNA Polymerase II Promoter Opening: First Transition	SmallMolecule7	Complex117	
+BiochemicalReaction109	NTP Binds Active Site of RNA Polymerase II	Complex117	Complex123	
+BiochemicalReaction109	NTP Binds Active Site of RNA Polymerase II	SmallMolecule15	Complex123	
+BiochemicalReaction11	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein488	Complex14	
+BiochemicalReaction11	Phosphorylated SMAD2 and SMAD3 form a complex with SMAD4	Protein489	Complex14	
+BiochemicalReaction110	Nucleophillic Attack by 3'-hydroxyl Oxygen of nascent transcript on the Alpha Phosphate of NTP	Complex123	Complex125	
+BiochemicalReaction111	Newly Formed Phosphodiester Bond Stabilized and PPi Released	Complex125	Complex91	
+BiochemicalReaction111	Newly Formed Phosphodiester Bond Stabilized and PPi Released	Complex125	SmallMolecule20	
+BiochemicalReaction112	Addition of the third nucleotide on the nascent transcript	Complex91	SmallMolecule20	
+BiochemicalReaction112	Addition of the third nucleotide on the nascent transcript	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction112	Addition of the third nucleotide on the nascent transcript	SmallMolecule15	Complex126	
+BiochemicalReaction112	Addition of the third nucleotide on the nascent transcript	Complex91	Complex126	
+BiochemicalReaction113	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule15	Protein680	
+BiochemicalReaction113	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex126	Protein680	
+BiochemicalReaction113	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex126	Complex127	
+BiochemicalReaction113	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule15	Complex127	
+BiochemicalReaction113	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	Complex126	SmallMolecule20	
+BiochemicalReaction113	Addition of the fourth nucleotide on the Nascent Transcript: Second Transition	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule15	Complex128	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex127	Complex128	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex127	Complex92	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule15	Complex92	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex127	Complex93	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule15	Complex93	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex127	Complex94	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule15	Complex94	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	Complex127	SmallMolecule20	
+BiochemicalReaction114	Addition of Nucleotides 5 through 9 on the growing Transcript	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction115	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	Complex128	Complex129	
+BiochemicalReaction115	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	SmallMolecule15	Complex129	
+BiochemicalReaction115	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction115	Addition of nucleotides 10 and 11 on the growing transcript: Third Transition	Complex128	SmallMolecule20	
+BiochemicalReaction116	Addition of nucleotides between position +11 and +30	Complex129	Complex130	
+BiochemicalReaction116	Addition of nucleotides between position +11 and +30	SmallMolecule15	Complex130	
+BiochemicalReaction116	Addition of nucleotides between position +11 and +30	SmallMolecule15	SmallMolecule20	
+BiochemicalReaction116	Addition of nucleotides between position +11 and +30	Complex129	SmallMolecule20	
+BiochemicalReaction117	Extrusion of 5'-end of 30 nt long transcript through the pore in Pol II complex	Complex130	Complex131	
+BiochemicalReaction118	Phosphorylation (Ser5) of RNA pol II CTD	Complex131	Complex132	
+BiochemicalReaction119	RNA Polymerase II CTD (phosphorylated) binds to CE	Complex132	Complex135	
+BiochemicalReaction119	RNA Polymerase II CTD (phosphorylated) binds to CE	Protein723	Complex135	
+BiochemicalReaction12	The SMAD2/3:SMAD4 complex transfers to the nucleus	Complex14	Complex15	
+BiochemicalReaction120	Activation of GT	Complex135	Complex136	
+BiochemicalReaction121	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein705	Complex137	
+BiochemicalReaction121	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Protein724	Complex137	
+BiochemicalReaction121	SPT5 subunit of Pol II binds the RNA triphosphatase (RTP)	Complex136	Complex137	
+BiochemicalReaction122	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex138	Complex112	
+BiochemicalReaction122	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein717	Complex112	
+BiochemicalReaction122	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex55	Complex112	
+BiochemicalReaction122	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex55	Complex55	
+BiochemicalReaction122	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Protein717	Complex55	
+BiochemicalReaction122	Hypophosphorylation of RNA Pol II CTD by FCP1P protein	Complex138	Complex55	
+BiochemicalReaction123	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex112	Complex111	
+BiochemicalReaction123	DSIF complex binds to RNA Pol II (hypophosphorylated)	Complex100	Complex111	
+BiochemicalReaction124	Formation of DSIF:NELF:early elongation complex	Complex103	Complex110	
+BiochemicalReaction124	Formation of DSIF:NELF:early elongation complex	SmallMolecule15	Complex110	
+BiochemicalReaction124	Formation of DSIF:NELF:early elongation complex	Complex111	Complex110	
+BiochemicalReaction124	Formation of DSIF:NELF:early elongation complex	Complex111	SmallMolecule15	
+BiochemicalReaction124	Formation of DSIF:NELF:early elongation complex	SmallMolecule15	SmallMolecule15	
+BiochemicalReaction124	Formation of DSIF:NELF:early elongation complex	Complex103	SmallMolecule15	
+BiochemicalReaction125	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex19	Complex114	
+BiochemicalReaction125	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex110	Complex114	
+BiochemicalReaction125	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex110	Complex140	
+BiochemicalReaction125	Hyperphosphorylation (Ser2) of RNA Pol II CTD by P-TEFb complex	Complex19	Complex140	
+BiochemicalReaction126	Recruitment of elongation factors to form elongation complex	Complex102	Complex141	
+BiochemicalReaction126	Recruitment of elongation factors to form elongation complex	Protein718	Complex141	
+BiochemicalReaction126	Recruitment of elongation factors to form elongation complex	Complex140	Complex141	
+BiochemicalReaction126	Recruitment of elongation factors to form elongation complex	Complex55	Complex141	
+BiochemicalReaction126	Recruitment of elongation factors to form elongation complex	Complex104	Complex141	
+BiochemicalReaction126	Recruitment of elongation factors to form elongation complex	Protein719	Complex141	
+BiochemicalReaction127	Addition of nucleotides leads to transcript elongation	SmallMolecule15	Complex108	
+BiochemicalReaction127	Addition of nucleotides leads to transcript elongation	Complex141	Complex108	
+BiochemicalReaction127	Addition of nucleotides leads to transcript elongation	Complex141	Complex55	
+BiochemicalReaction127	Addition of nucleotides leads to transcript elongation	SmallMolecule15	Complex55	
+BiochemicalReaction128	Pol II elongation complex moves on the template as transcript elongates	Complex108	Complex142	
+BiochemicalReaction128	Pol II elongation complex moves on the template as transcript elongates	SmallMolecule15	Complex142	
+BiochemicalReaction128	Pol II elongation complex moves on the template as transcript elongates	SmallMolecule15	SmallMolecule15	
+BiochemicalReaction128	Pol II elongation complex moves on the template as transcript elongates	Complex108	SmallMolecule15	
+BiochemicalReaction129	Separation of elongating transcript from template	Complex142	Complex143	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex15	SmallMolecule8	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	Complex15	Complex16	
+BiochemicalReaction13	Phosphorylation of SMAD2 and SMAD3 linker regions by CDK8 or CDK9	SmallMolecule7	Complex16	
+BiochemicalReaction130	Cleavage of mRNA at the 3'-end	Complex144	Complex147	
+BiochemicalReaction130	Cleavage of mRNA at the 3'-end	Complex144	Complex146	
+BiochemicalReaction130	Cleavage of mRNA at the 3'-end	Complex144	Complex148	
+BiochemicalReaction130	Cleavage of mRNA at the 3'-end	Complex144	Complex153	
+BiochemicalReaction131	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex155	Complex156	
+BiochemicalReaction131	Cleavage of the 3'-end of Replication Dependent Histone Pre-mRNA	Complex155	Complex160	
+BiochemicalReaction132	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex161	Complex162	
+BiochemicalReaction132	Cleavage of the 3'-end of the Histone Pre-mRNA	Complex161	Complex156	
+BiochemicalReaction133	Cleavage of Intronless Pre-mRNA at 3'-end	Complex163	Complex147	
+BiochemicalReaction133	Cleavage of Intronless Pre-mRNA at 3'-end	Complex163	Complex146	
+BiochemicalReaction133	Cleavage of Intronless Pre-mRNA at 3'-end	Complex163	Complex148	
+BiochemicalReaction133	Cleavage of Intronless Pre-mRNA at 3'-end	Complex163	Complex167	
+BiochemicalReaction133	Cleavage of Intronless Pre-mRNA at 3'-end	Complex163	PhysicalEntity57	
+BiochemicalReaction134	Capping complex formation	Complex137	Complex168	
+BiochemicalReaction134	Capping complex formation	PhysicalEntity58	Complex168	
+BiochemicalReaction134	Capping complex formation	PhysicalEntity6	Complex168	
+BiochemicalReaction135	Hydrolysis of the 5'-end of the nascent transcript by the capping enzyme	Complex168	Complex169	
+BiochemicalReaction135	Hydrolysis of the 5'-end of the nascent transcript by the capping enzyme	Complex168	SmallMolecule13	
+BiochemicalReaction136	Formation of the CE:GMP intermediate complex	Complex169	SmallMolecule21	
+BiochemicalReaction136	Formation of the CE:GMP intermediate complex	SmallMolecule17	SmallMolecule21	
+BiochemicalReaction136	Formation of the CE:GMP intermediate complex	SmallMolecule17	Complex170	
+BiochemicalReaction136	Formation of the CE:GMP intermediate complex	Complex169	Complex170	
+BiochemicalReaction137	Transfer of GMP from the capping enzyme GT site to 5'-end of mRNA	Complex170	Complex172	
+BiochemicalReaction138	Dissociation of  transcript with 5'-GMP from GT	Complex172	Complex173	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	Complex173	SmallMolecule24	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule23	Protein705	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	Complex173	Protein705	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule23	Complex139	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	Complex173	Complex139	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule23	Complex174	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	Complex173	Complex174	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	SmallMolecule23	Complex55	
+BiochemicalReaction139	Methylation of GMP-cap by RNA Methyltransferase	Complex173	Complex55	
+BiochemicalReaction14	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Complex14	Complex20	
+BiochemicalReaction14	WWTR1 binds SMAD2/3:SMAD4 heterotrimer	Protein502	Complex20	
+BiochemicalReaction140	Recognition and binding of the mRNA cap by the cap-binding complex 	Complex139	Complex138	
+BiochemicalReaction140	Recognition and binding of the mRNA cap by the cap-binding complex 	Complex114	Complex138	
+BiochemicalReaction141	Formation of cap binding complex (CBC)	Protein721	Complex114	
+BiochemicalReaction141	Formation of cap binding complex (CBC)	Protein722	Complex114	
+BiochemicalReaction142	Internal Methylation of mRNA	Complex138	Complex175	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein766	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein767	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein768	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein769	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein770	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein771	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein772	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein773	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein774	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein775	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein776	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein777	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein778	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein779	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein780	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Complex175	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein781	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein782	Complex177	
+BiochemicalReaction143	Formation of pre-mRNPs	Protein783	Complex177	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein752	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein725	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein784	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein785	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity64	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein786	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity65	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein787	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein742	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein729	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein753	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein744	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein788	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein789	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein746	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity66	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity67	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity68	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein790	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein727	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein728	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Complex178	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein754	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity70	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein747	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity71	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein756	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity72	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein797	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein749	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Complex177	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	PhysicalEntity73	Complex180	
+BiochemicalReaction144	Formation of the Spliceosomal E complex	Protein798	Complex180	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	PhysicalEntity48	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Protein743	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Protein726	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Protein745	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	PhysicalEntity74	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Protein748	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Protein799	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Complex181	Complex184	
+BiochemicalReaction145	Formation of the Spliceosomal A Complex	Complex180	Complex184	
+BiochemicalReaction146	Formation of the Spliceosomal B Complex	Complex184	Complex190	
+BiochemicalReaction146	Formation of the Spliceosomal B Complex	Complex185	Complex190	
+BiochemicalReaction147	Formation of the Cleavage and Polyadenylation Complex	Protein730	Complex145	
+BiochemicalReaction147	Formation of the Cleavage and Polyadenylation Complex	Complex146	Complex145	
+BiochemicalReaction147	Formation of the Cleavage and Polyadenylation Complex	Complex147	Complex145	
+BiochemicalReaction147	Formation of the Cleavage and Polyadenylation Complex	Protein736	Complex145	
+BiochemicalReaction147	Formation of the Cleavage and Polyadenylation Complex	Complex148	Complex145	
+BiochemicalReaction147	Formation of the Cleavage and Polyadenylation Complex	Complex149	Complex145	
+BiochemicalReaction148	Formation of an intermediate Spliceosomal C complex	Complex190	Complex188	
+BiochemicalReaction148	Formation of an intermediate Spliceosomal C complex	Complex145	Complex188	
+BiochemicalReaction148	Formation of an intermediate Spliceosomal C complex	Complex145	Complex191	
+BiochemicalReaction148	Formation of an intermediate Spliceosomal C complex	Complex190	Complex191	
+BiochemicalReaction148	Formation of an intermediate Spliceosomal C complex	Complex145	Complex178	
+BiochemicalReaction148	Formation of an intermediate Spliceosomal C complex	Complex190	Complex178	
+BiochemicalReaction149	Formation of the active Spliceosomal C complex	Complex191	Complex193	
+BiochemicalReaction15	WWTR1:SMAD translocates to the nucleus	Complex20	Complex21	
+BiochemicalReaction150	Lariat Formation and 5'-Splice Site Cleavage	Complex193	Complex194	
+BiochemicalReaction150	Lariat Formation and 5'-Splice Site Cleavage	Protein755	Complex194	
+BiochemicalReaction151	Formation of Exon Junction Complex	Complex194	Complex196	
+BiochemicalReaction151	Formation of Exon Junction Complex	Complex151	Complex196	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein766	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein767	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein768	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein769	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein770	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein771	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein772	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein773	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Complex144	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein774	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein775	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Complex133	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein776	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Complex197	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein777	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein778	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein779	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein780	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein781	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein782	
+BiochemicalReaction152	Cleavage at the 3'-Splice Site and Exon Ligation	Complex196	Protein783	
+BiochemicalReaction153	Formation of AT-AC A complex	Protein727	Complex200	
+BiochemicalReaction153	Formation of AT-AC A complex	Protein728	Complex200	
+BiochemicalReaction153	Formation of AT-AC A complex	Protein742	Complex200	
+BiochemicalReaction153	Formation of AT-AC A complex	Complex198	Complex200	
+BiochemicalReaction153	Formation of AT-AC A complex	Protein749	Complex200	
+BiochemicalReaction153	Formation of AT-AC A complex	Complex175	Complex200	
+BiochemicalReaction153	Formation of AT-AC A complex	Complex199	Complex200	
+BiochemicalReaction154	Formation of AT-AC B Complex	Complex201	Complex205	
+BiochemicalReaction154	Formation of AT-AC B Complex	Complex200	Complex205	
+BiochemicalReaction155	Formation of AT-AC C complex	Complex205	Complex204	
+BiochemicalReaction155	Formation of AT-AC C complex	Complex205	Complex206	
+BiochemicalReaction156	ATAC spliceosome mediated Lariat formation,5' splice site cleavage 	Complex206	Complex207	
+BiochemicalReaction157	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex207	Complex186	
+BiochemicalReaction157	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex207	Complex203	
+BiochemicalReaction157	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex207	Complex198	
+BiochemicalReaction157	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex207	Complex199	
+BiochemicalReaction157	ATAC spliceosome mediated 3' splice site cleavage, exon ligation	Complex207	Complex208	
+BiochemicalReaction158	mRNA polyadenylation	SmallMolecule7	Protein730	
+BiochemicalReaction158	mRNA polyadenylation	Complex153	Protein730	
+BiochemicalReaction158	mRNA polyadenylation	Complex153	Complex209	
+BiochemicalReaction158	mRNA polyadenylation	SmallMolecule7	Complex209	
+BiochemicalReaction158	mRNA polyadenylation	Complex153	Protein736	
+BiochemicalReaction158	mRNA polyadenylation	SmallMolecule7	Protein736	
+BiochemicalReaction158	mRNA polyadenylation	Complex153	Complex149	
+BiochemicalReaction158	mRNA polyadenylation	SmallMolecule7	Complex149	
+BiochemicalReaction159	Recruitment of TAP to the EJC	Complex209	Complex210	
+BiochemicalReaction159	Recruitment of TAP to the EJC	Protein822	Complex210	
+BiochemicalReaction16	WWTR1:SMAD stimulates transcription of SMAD7	Dna1	Protein503	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein725	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein726	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein727	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein728	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	PhysicalEntity42	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein729	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein742	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	PhysicalEntity47	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein743	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	PhysicalEntity48	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein744	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein745	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein746	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein747	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	PhysicalEntity49	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein748	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Complex211	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	Protein749	
+BiochemicalReaction160	Docking of the TAP:EJC Complex with the NPC	Complex210	PhysicalEntity50	
+BiochemicalReaction161	Transport of the export-competent complex through the NPC	Complex211	Complex215	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Protein864	Protein858	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Complex215	Protein858	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Complex215	Complex218	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Protein864	Complex218	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Complex215	Protein859	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Protein864	Protein859	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Complex215	Protein863	
+BiochemicalReaction162	Release from the NPC and Disassembly of the mRNP	Protein864	Protein863	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein756	Complex219	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein822	Complex219	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex160	Complex219	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex160	Protein721	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein822	Protein721	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein756	Protein721	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Complex160	Protein722	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein822	Protein722	
+BiochemicalReaction163	Docking of Mature Replication Dependent Histone mRNA with the NPC	Protein756	Protein722	
+BiochemicalReaction164	Transport of the Mature IntronlessTranscript Derived Histone mRNA:SLBP:TAP:Aly/Ref complex through the NPC	Complex219	Complex220	
+BiochemicalReaction165	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex220	Protein858	
+BiochemicalReaction165	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein864	Protein858	
+BiochemicalReaction165	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein864	Complex221	
+BiochemicalReaction165	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex220	Complex221	
+BiochemicalReaction165	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Protein864	Protein863	
+BiochemicalReaction165	Release of the Mature intronless transcript derived Histone mRNA:SLBP:eIF4E Complex	Complex220	Protein863	
+BiochemicalReaction166	Docking of Mature Histone mRNA complex:TAP at the NPC	Complex162	Complex222	
+BiochemicalReaction166	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein756	Complex222	
+BiochemicalReaction166	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein822	Complex222	
+BiochemicalReaction166	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein822	Complex114	
+BiochemicalReaction166	Docking of Mature Histone mRNA complex:TAP at the NPC	Protein756	Complex114	
+BiochemicalReaction166	Docking of Mature Histone mRNA complex:TAP at the NPC	Complex162	Complex114	
+BiochemicalReaction167	Transport of the Mature Intronless Transcript Derived Histone mRNA:TAP:Aly/Ref Complex through the NPC	Complex222	Complex223	
+BiochemicalReaction168	Release of the SLBP independent Histone mRNA from the NPC	Complex223	Protein858	
+BiochemicalReaction168	Release of the SLBP independent Histone mRNA from the NPC	Protein864	Protein858	
+BiochemicalReaction168	Release of the SLBP independent Histone mRNA from the NPC	Protein864	Complex224	
+BiochemicalReaction168	Release of the SLBP independent Histone mRNA from the NPC	Complex223	Complex224	
+BiochemicalReaction168	Release of the SLBP independent Histone mRNA from the NPC	Protein864	Protein863	
+BiochemicalReaction168	Release of the SLBP independent Histone mRNA from the NPC	Complex223	Protein863	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex225	Complex226	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein756	Complex226	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein822	Complex226	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein822	Complex114	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein756	Complex114	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex225	Complex114	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein822	Complex149	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Protein756	Complex149	
+BiochemicalReaction169	Docking of the Mature intronless derived transcript derived mRNA, TAP and Aly/Ref at the NPC	Complex225	Complex149	
+BiochemicalReaction17	WWTR1:SMAD stimulates transcription of SERPINE1 while TGIF:SMAD and SMAD7 inhibit it	Dna2	Protein504	
+BiochemicalReaction170	Transport of the Mature intronless transcript derived mRNA:TAP:Aly/Ref Complex through the NPC	Complex226	Complex227	
+BiochemicalReaction171	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein864	Protein858	
+BiochemicalReaction171	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex227	Protein858	
+BiochemicalReaction171	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex227	Complex228	
+BiochemicalReaction171	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein864	Complex228	
+BiochemicalReaction171	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Complex227	Protein863	
+BiochemicalReaction171	Release of the Mature intronless derived mRNA, TAP, and Aly/Ref from the NPC	Protein864	Protein863	
+BiochemicalReaction172	Binding of SLBP to Replication-Dependent Histone Pre-mRNA	Complex159	Complex158	
+BiochemicalReaction172	Binding of SLBP to Replication-Dependent Histone Pre-mRNA	Protein764	Complex158	
+BiochemicalReaction173	Recruitment of U7 snRNP:ZFP100 complex to the SLBP Bound Pre-mRNA	Complex156	Complex155	
+BiochemicalReaction173	Recruitment of U7 snRNP:ZFP100 complex to the SLBP Bound Pre-mRNA	Complex158	Complex155	
+BiochemicalReaction174	Recruitment of U7 snRNP:ZFP100 complex to the Histone Pre-mRNA	Complex159	Complex161	
+BiochemicalReaction174	Recruitment of U7 snRNP:ZFP100 complex to the Histone Pre-mRNA	Complex156	Complex161	
+BiochemicalReaction175	Recognition of AAUAAA sequence by CPSF	Complex166	Complex165	
+BiochemicalReaction175	Recognition of AAUAAA sequence by CPSF	Complex149	Complex165	
+BiochemicalReaction176	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex165	Complex164	
+BiochemicalReaction176	Recruitment of CstF to the CPSF Bound Pre-mRNA	Complex147	Complex164	
+BiochemicalReaction177	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein730	Complex163	
+BiochemicalReaction177	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex164	Complex163	
+BiochemicalReaction177	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex146	Complex163	
+BiochemicalReaction177	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Protein736	Complex163	
+BiochemicalReaction177	Binding of Cleavage factors and Poly(A)Polymerase to the CstF:CPSF:Pre-mRNA Complex	Complex148	Complex163	
+BiochemicalReaction178	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex163	Protein730	
+BiochemicalReaction178	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex163	Complex225	
+BiochemicalReaction178	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex163	Complex146	
+BiochemicalReaction178	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex163	Complex147	
+BiochemicalReaction178	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex163	Protein736	
+BiochemicalReaction178	Cleavage and polyadenylation of Intronless Pre-mRNA	Complex163	Complex148	
+BiochemicalReaction179	Formation of stem-loop structure in ApoB mRNA	PhysicalEntity43	PhysicalEntity86	
+BiochemicalReaction18	RNF111 binds SMAD7	Protein503	Complex23	
+BiochemicalReaction18	RNF111 binds SMAD7	Protein509	Complex23	
+BiochemicalReaction180	Binding of A1CF to stem-looped RNA	Protein866	Complex229	
+BiochemicalReaction180	Binding of A1CF to stem-looped RNA	PhysicalEntity86	Complex229	
+BiochemicalReaction181	Binding of APOBEC-1 to form editosome	Protein867	Complex230	
+BiochemicalReaction181	Binding of APOBEC-1 to form editosome	Complex229	Complex230	
+BiochemicalReaction182	C4 deamination of cytidine	Complex230	SmallMolecule25	
+BiochemicalReaction182	C4 deamination of cytidine	SmallMolecule12	SmallMolecule25	
+BiochemicalReaction182	C4 deamination of cytidine	SmallMolecule12	Complex231	
+BiochemicalReaction182	C4 deamination of cytidine	Complex230	Complex231	
+BiochemicalReaction183	Formation of dsRNA structure by looping 	PhysicalEntity58	PhysicalEntity88	
+BiochemicalReaction184	Formation of ADAR1 homodimer	Protein868	Complex232	
+BiochemicalReaction185	Binding of ADAR1 homodimer to dsRNA duplex	PhysicalEntity88	Complex233	
+BiochemicalReaction185	Binding of ADAR1 homodimer to dsRNA duplex	Complex232	Complex233	
+BiochemicalReaction186	Formation of ADAR2  homodimer	Protein869	Complex234	
+BiochemicalReaction187	Binding of ADAR2 homodimer to dsRNA duplex	PhysicalEntity88	Complex235	
+BiochemicalReaction187	Binding of ADAR2 homodimer to dsRNA duplex	Complex234	Complex235	
+BiochemicalReaction188	Deamination at C6 position of adenosine in Editosome (ADAR1)	Complex233	Complex236	
+BiochemicalReaction188	Deamination at C6 position of adenosine in Editosome (ADAR1)	SmallMolecule12	Complex236	
+BiochemicalReaction188	Deamination at C6 position of adenosine in Editosome (ADAR1)	SmallMolecule12	SmallMolecule25	
+BiochemicalReaction188	Deamination at C6 position of adenosine in Editosome (ADAR1)	Complex233	SmallMolecule25	
+BiochemicalReaction189	Deamination at C6 position of adenosine in Editosome (ADAR2)	SmallMolecule12	Complex237	
+BiochemicalReaction189	Deamination at C6 position of adenosine in Editosome (ADAR2)	Complex235	Complex237	
+BiochemicalReaction189	Deamination at C6 position of adenosine in Editosome (ADAR2)	Complex235	SmallMolecule25	
+BiochemicalReaction189	Deamination at C6 position of adenosine in Editosome (ADAR2)	SmallMolecule12	SmallMolecule25	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Complex23	Complex24	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Protein510	Complex24	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Protein510	Protein509	
+BiochemicalReaction19	RNF111 ubiquitinates SMAD7	Complex23	Protein509	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule26	SmallMolecule29	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule28	SmallMolecule30	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule26	SmallMolecule30	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule28	SmallMolecule31	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule31	
+BiochemicalReaction190	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule26	SmallMolecule31	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule32	SmallMolecule29	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule33	SmallMolecule29	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule34	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule33	SmallMolecule34	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule32	SmallMolecule34	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule33	SmallMolecule30	
+BiochemicalReaction191	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule32	SmallMolecule30	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule37	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule35	SmallMolecule37	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule36	SmallMolecule29	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule35	SmallMolecule29	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule36	SmallMolecule30	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule35	SmallMolecule30	
+BiochemicalReaction192	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule38	SmallMolecule29	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule39	SmallMolecule29	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule39	SmallMolecule30	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule38	SmallMolecule30	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule40	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule39	SmallMolecule40	
+BiochemicalReaction193	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule38	SmallMolecule40	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule41	SmallMolecule29	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule42	SmallMolecule29	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule42	SmallMolecule30	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule41	SmallMolecule30	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule43	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction194	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule41	SmallMolecule43	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule44	SmallMolecule46	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule45	SmallMolecule46	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule46	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule45	SmallMolecule29	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule44	SmallMolecule29	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule45	SmallMolecule30	
+BiochemicalReaction195	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule44	SmallMolecule30	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule47	SmallMolecule29	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule48	SmallMolecule29	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule48	SmallMolecule30	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule47	SmallMolecule30	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule48	SmallMolecule49	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule49	
+BiochemicalReaction196	glutamine + tRNA(Gln) + ATP => Gln-tRNA(Gln) + AMP + pyrophosphate	SmallMolecule47	SmallMolecule49	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule50	SmallMolecule52	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule52	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule51	SmallMolecule52	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule51	SmallMolecule29	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule50	SmallMolecule29	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule51	SmallMolecule30	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction197	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule50	SmallMolecule30	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule53	SmallMolecule29	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule54	SmallMolecule29	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule54	SmallMolecule30	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule53	SmallMolecule30	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule55	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule54	SmallMolecule55	
+BiochemicalReaction198	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule53	SmallMolecule55	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule56	SmallMolecule58	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule58	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule57	SmallMolecule29	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule56	SmallMolecule29	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule57	SmallMolecule30	
+BiochemicalReaction199	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule56	SmallMolecule30	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein2	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein3	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein4	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein5	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein6	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein8	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein9	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein10	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein11	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein14	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein15	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein16	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein18	Complex2	
+BiochemicalReaction2	Formation of DRIP coactivator complex	Protein17	Complex2	
+BiochemicalReaction20	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex25	Complex26	
+BiochemicalReaction20	SMAD2/3:SMAD4 heterotrimer forms a complex with RBL1, E2F4/5 and DP1/2	Complex15	Complex26	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule59	SmallMolecule29	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule60	SmallMolecule29	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule60	SmallMolecule61	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule61	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule59	SmallMolecule61	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule60	SmallMolecule30	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction200	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule59	SmallMolecule30	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule62	SmallMolecule29	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule63	SmallMolecule29	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule63	SmallMolecule30	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule62	SmallMolecule30	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule63	SmallMolecule64	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule62	SmallMolecule64	
+BiochemicalReaction201	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule64	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule65	SmallMolecule67	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule67	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule66	SmallMolecule67	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule66	SmallMolecule29	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule65	SmallMolecule29	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule66	SmallMolecule30	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction202	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule65	SmallMolecule30	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule68	SmallMolecule29	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule69	SmallMolecule29	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule69	SmallMolecule70	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule70	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule68	SmallMolecule70	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule69	SmallMolecule30	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction203	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule68	SmallMolecule30	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule71	SmallMolecule29	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule72	SmallMolecule29	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule72	SmallMolecule73	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule73	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule71	SmallMolecule73	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule72	SmallMolecule30	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction204	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule71	SmallMolecule30	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule74	SmallMolecule76	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule76	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule75	SmallMolecule29	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule74	SmallMolecule29	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule75	SmallMolecule30	
+BiochemicalReaction205	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule74	SmallMolecule30	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule77	SmallMolecule79	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule79	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule78	SmallMolecule79	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule78	SmallMolecule29	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule77	SmallMolecule29	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule78	SmallMolecule30	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction206	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule77	SmallMolecule30	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule80	SmallMolecule82	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule82	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule81	SmallMolecule82	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule81	SmallMolecule29	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule80	SmallMolecule29	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule81	SmallMolecule30	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction207	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule80	SmallMolecule30	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule83	SmallMolecule85	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule85	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule84	SmallMolecule85	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule84	SmallMolecule29	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule83	SmallMolecule29	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule84	SmallMolecule30	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction208	tyrosine + tRNA(Tyr) + ATP =>Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule83	SmallMolecule30	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule86	SmallMolecule88	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule88	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule87	SmallMolecule88	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule87	SmallMolecule29	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule29	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule86	SmallMolecule29	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule87	SmallMolecule30	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule27	SmallMolecule30	
+BiochemicalReaction209	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule86	SmallMolecule30	
+BiochemicalReaction21	MYC trancscription is negatively regulated by SMAD2/3:SMAD4:RBL1:E2F4/5:DP1/2 complex	Dna3	Protein532	
+BiochemicalReaction210	pyrophosphate + H2O => 2 orthophosphate [cytosolic]	SmallMolecule30	SmallMolecule89	
+BiochemicalReaction210	pyrophosphate + H2O => 2 orthophosphate [cytosolic]	SmallMolecule9	SmallMolecule89	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule91	SmallMolecule94	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule92	SmallMolecule94	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule95	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule92	SmallMolecule95	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule91	SmallMolecule95	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule92	SmallMolecule96	
+BiochemicalReaction211	alanine + tRNA(Ala) + ATP => Ala-tRNA(Ala) + AMP + pyrophosphate	SmallMolecule91	SmallMolecule96	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule97	SmallMolecule99	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule98	SmallMolecule99	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule99	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule98	SmallMolecule94	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule97	SmallMolecule94	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule98	SmallMolecule96	
+BiochemicalReaction212	arginine + tRNA(Arg) + ATP => Arg-tRNA(Arg) + AMP + pyrophosphate	SmallMolecule97	SmallMolecule96	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule100	SmallMolecule102	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule101	SmallMolecule102	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule102	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule101	SmallMolecule94	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule100	SmallMolecule94	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule101	SmallMolecule96	
+BiochemicalReaction213	asparagine + tRNA(Asn) + ATP => Asn-tRNA(Asn) + AMP + pyrophosphate	SmallMolecule100	SmallMolecule96	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule103	SmallMolecule105	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule104	SmallMolecule105	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule105	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule104	SmallMolecule94	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule103	SmallMolecule94	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule104	SmallMolecule96	
+BiochemicalReaction214	aspartate + tRNA(Asp) + ATP => Asp-tRNA(Asp) + AMP + pyrophosphate	SmallMolecule103	SmallMolecule96	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule106	SmallMolecule108	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule107	SmallMolecule108	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule108	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule107	SmallMolecule94	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule106	SmallMolecule94	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule107	SmallMolecule96	
+BiochemicalReaction215	cysteine + tRNA(Cys) + ATP => Cys-tRNA(Cys) + AMP + pyrophosphate	SmallMolecule106	SmallMolecule96	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule109	SmallMolecule94	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule110	SmallMolecule94	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule111	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule110	SmallMolecule111	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule109	SmallMolecule111	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule110	SmallMolecule96	
+BiochemicalReaction216	glutamate + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule109	SmallMolecule96	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule112	SmallMolecule114	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule113	SmallMolecule114	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule114	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule113	SmallMolecule94	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule112	SmallMolecule94	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule113	SmallMolecule96	
+BiochemicalReaction217	glutamine + tRNA(Glu) + ATP => Glu-tRNA(Glu) + AMP + pyrophosphate	SmallMolecule112	SmallMolecule96	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule115	SmallMolecule94	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule116	SmallMolecule94	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule116	SmallMolecule96	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule115	SmallMolecule96	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule117	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule116	SmallMolecule117	
+BiochemicalReaction218	glycine + tRNA(Gly) + ATP => Gly-tRNA(Gly) + AMP + pyrophosphate	SmallMolecule115	SmallMolecule117	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule118	SmallMolecule94	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule119	SmallMolecule94	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule120	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule119	SmallMolecule120	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule118	SmallMolecule120	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule119	SmallMolecule96	
+BiochemicalReaction219	histidine + tRNA(His) + ATP => His-tRNA(His) + AMP + pyrophosphate	SmallMolecule118	SmallMolecule96	
+BiochemicalReaction22	SMAD2/3:SMAD4 heterotrimer binds SP1	Complex15	Complex27	
+BiochemicalReaction22	SMAD2/3:SMAD4 heterotrimer binds SP1	Protein533	Complex27	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule121	SmallMolecule123	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule122	SmallMolecule123	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule123	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule122	SmallMolecule94	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule121	SmallMolecule94	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule122	SmallMolecule96	
+BiochemicalReaction220	isoleucine + tRNA(Ile) + ATP => Ile-tRNA(Ile) + AMP + pyrophosphate	SmallMolecule121	SmallMolecule96	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule124	SmallMolecule126	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule125	SmallMolecule126	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule126	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule125	SmallMolecule94	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule124	SmallMolecule94	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule125	SmallMolecule96	
+BiochemicalReaction221	leucine + tRNA(Leu) + ATP => Leu-tRNA(Leu) + AMP + pyrophosphate	SmallMolecule124	SmallMolecule96	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule127	SmallMolecule129	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule128	SmallMolecule129	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule129	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule128	SmallMolecule94	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule127	SmallMolecule94	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule128	SmallMolecule96	
+BiochemicalReaction222	lysine + tRNA(Lys) + ATP => Lys-tRNA(Lys) + AMP + pyrophosphate	SmallMolecule127	SmallMolecule96	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule130	SmallMolecule94	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule131	SmallMolecule94	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule132	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule131	SmallMolecule132	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule130	SmallMolecule132	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule131	SmallMolecule96	
+BiochemicalReaction223	methionine + tRNA(Met) + ATP => Met-tRNA(Met) + AMP + pyrophosphate	SmallMolecule130	SmallMolecule96	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule133	SmallMolecule94	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule134	SmallMolecule94	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule135	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule134	SmallMolecule135	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule133	SmallMolecule135	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule134	SmallMolecule96	
+BiochemicalReaction224	phenylalanine + tRNA(Phe) + ATP => Phe-tRNA(Phe) + AMP + pyrophosphate	SmallMolecule133	SmallMolecule96	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule136	SmallMolecule94	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule137	SmallMolecule94	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule138	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule137	SmallMolecule138	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule136	SmallMolecule138	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule137	SmallMolecule96	
+BiochemicalReaction225	proline + tRNA(Pro) + ATP => Pro-tRNA(Pro) + AMP + pyrophosphate	SmallMolecule136	SmallMolecule96	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule139	SmallMolecule141	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule140	SmallMolecule141	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule141	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule140	SmallMolecule94	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule139	SmallMolecule94	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule140	SmallMolecule96	
+BiochemicalReaction226	serine + tRNA(Ser) + ATP => Ser-tRNA(Ser) + AMP + pyrophosphate	SmallMolecule139	SmallMolecule96	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule142	SmallMolecule94	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule143	SmallMolecule94	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule143	SmallMolecule96	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule142	SmallMolecule96	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule144	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule143	SmallMolecule144	
+BiochemicalReaction227	threonine + tRNA(Thr) + ATP => Thr-tRNA(Thr) + AMP + pyrophosphate	SmallMolecule142	SmallMolecule144	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule145	SmallMolecule94	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule146	SmallMolecule94	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule147	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule146	SmallMolecule147	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule145	SmallMolecule147	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule146	SmallMolecule96	
+BiochemicalReaction228	tryptophan + tRNA(Trp) + ATP => Trp-tRNA(Trp) + AMP + pyrophosphate	SmallMolecule145	SmallMolecule96	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule148	SmallMolecule94	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule149	SmallMolecule94	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule150	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule149	SmallMolecule150	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule148	SmallMolecule150	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule149	SmallMolecule96	
+BiochemicalReaction229	tyrosine + tRNA(Tyr) + ATP => Tyr-tRNA(Tyr) + AMP + pyrophosphate	SmallMolecule148	SmallMolecule96	
+BiochemicalReaction23	SMAD2/3:SMAD4:SP1 complex stimulates transcription of CDKN2B	Dna4	Protein534	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule151	SmallMolecule94	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule94	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule152	SmallMolecule94	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule152	SmallMolecule96	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule96	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule151	SmallMolecule96	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule152	SmallMolecule153	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule93	SmallMolecule153	
+BiochemicalReaction230	valine + tRNA(Val) + ATP => Val-tRNA(Val) + AMP + pyrophosphate	SmallMolecule151	SmallMolecule153	
+BiochemicalReaction231	pyrophosphate + H2O => 2 orthophosphate [mitochondrial]	SmallMolecule154	SmallMolecule155	
+BiochemicalReaction231	pyrophosphate + H2O => 2 orthophosphate [mitochondrial]	SmallMolecule96	SmallMolecule155	
+BiochemicalReaction232	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	Complex255	Complex256	
+BiochemicalReaction232	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	SmallMolecule9	Complex256	
+BiochemicalReaction232	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction232	Partial Deadenylation of mRNA by the PAN2-PAN3 Complex	Complex255	SmallMolecule29	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	Protein915	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	Protein915	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	Protein864	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	Protein864	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	Protein919	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	Protein919	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	SmallMolecule29	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	Protein920	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	Protein920	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	PhysicalEntity92	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	PhysicalEntity92	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	Protein921	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	Protein921	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	SmallMolecule9	Protein922	
+BiochemicalReaction233	Deadenylation of mRNA by PARN	Complex256	Protein922	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	Protein915	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	Protein915	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	Protein864	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	Protein864	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	Protein919	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	Protein919	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	SmallMolecule29	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	Protein920	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	Protein920	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	PhysicalEntity92	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	PhysicalEntity92	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	Protein921	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	Protein921	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	SmallMolecule9	Protein922	
+BiochemicalReaction234	Deadenylation of mRNA by the CCR4-NOT Complex	Complex256	Protein922	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity92	SmallMolecule157	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule9	SmallMolecule157	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule9	SmallMolecule158	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity92	SmallMolecule158	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule9	SmallMolecule159	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity92	SmallMolecule159	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule9	PhysicalEntity93	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity92	PhysicalEntity93	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction235	3' to 5' Exoribonuclease Digestion of mRNA by the Exosome Complex	PhysicalEntity92	SmallMolecule29	
+BiochemicalReaction236	Scavenging of the 7-methylguanosine Cap by DCPS	PhysicalEntity93	PhysicalEntity94	
+BiochemicalReaction236	Scavenging of the 7-methylguanosine Cap by DCPS	SmallMolecule9	PhysicalEntity94	
+BiochemicalReaction236	Scavenging of the 7-methylguanosine Cap by DCPS	SmallMolecule9	SmallMolecule160	
+BiochemicalReaction236	Scavenging of the 7-methylguanosine Cap by DCPS	PhysicalEntity93	SmallMolecule160	
+BiochemicalReaction237	Binding of Lsm1-7 Complex to Deadenylated mRNA	Complex262	Complex263	
+BiochemicalReaction237	Binding of Lsm1-7 Complex to Deadenylated mRNA	PhysicalEntity92	Complex263	
+BiochemicalReaction238	Decapping of mRNA by the DCP1-DCP2 Complex	Complex263	Complex264	
+BiochemicalReaction238	Decapping of mRNA by the DCP1-DCP2 Complex	SmallMolecule9	Complex264	
+BiochemicalReaction238	Decapping of mRNA by the DCP1-DCP2 Complex	SmallMolecule9	SmallMolecule161	
+BiochemicalReaction238	Decapping of mRNA by the DCP1-DCP2 Complex	Complex263	SmallMolecule161	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex264	Complex262	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule9	Complex262	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule9	SmallMolecule157	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex264	SmallMolecule157	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule9	SmallMolecule158	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex264	SmallMolecule158	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule9	SmallMolecule159	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex264	SmallMolecule159	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	SmallMolecule9	SmallMolecule29	
+BiochemicalReaction239	5' to 3' Exoribonuclease Digestion of Decapped mRNA	Complex264	SmallMolecule29	
+BiochemicalReaction24	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Complex15	Complex28	
+BiochemicalReaction24	MEN1 binds SMAD2/3:SMAD4 heterotrimer	Protein535	Complex28	
+BiochemicalReaction240	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Complex266	Complex275	
+BiochemicalReaction240	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Protein969	Complex275	
+BiochemicalReaction240	UPF1 Binds an mRNP with a Termination Codon Preceding an Exon Junction Complex	Complex267	Complex275	
+BiochemicalReaction241	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	Complex275	SmallMolecule164	
+BiochemicalReaction241	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction241	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	SmallMolecule27	Complex276	
+BiochemicalReaction241	SMG1 Phosphorylates UPF1 (Enhanced by Exon Junction Complex)	Complex275	Complex276	
+BiochemicalReaction242	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein1059	Complex278	
+BiochemicalReaction242	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Complex276	Complex278	
+BiochemicalReaction242	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein1060	Complex278	
+BiochemicalReaction242	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Complex277	Complex278	
+BiochemicalReaction242	Phosphorylated UPF1 Recruits SMG5, SMG7, SMG6, and PP2A	Protein1064	Complex278	
+BiochemicalReaction243	SMG6 Cleaves mRNA with Premature Termination Codon	Complex278	Complex279	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Protein1059	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Protein1060	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Complex216	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Protein919	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Protein969	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Protein921	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Complex277	
+BiochemicalReaction244	Decay of mRNA in SMG6:SMG5:SMG7:mRNA Complex	Complex279	Protein1064	
+BiochemicalReaction245	Formation of UPF1:eRF3 Complex on mRNA with a Premature Termination Codon and No Exon Junction Complex	Complex280	Complex282	
+BiochemicalReaction245	Formation of UPF1:eRF3 Complex on mRNA with a Premature Termination Codon and No Exon Junction Complex	Protein969	Complex282	
+BiochemicalReaction246	Microprocessor complex cleaves pri-miRNA to pre-miRNA	PhysicalEntity100	PhysicalEntity101	
+BiochemicalReaction247	Exportin-5 recognizes 3' overhang of pre-miRNA 	Complex284	Complex286	
+BiochemicalReaction247	Exportin-5 recognizes 3' overhang of pre-miRNA 	PhysicalEntity101	Complex286	
+BiochemicalReaction248	Exportin complex translocates pre-miRNA to cytosol	Complex286	Complex287	
+BiochemicalReaction248	Exportin complex translocates pre-miRNA to cytosol	Complex286	PhysicalEntity102	
+BiochemicalReaction249	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein1072	Complex289	
+BiochemicalReaction249	Dicer cleaves pre-miRNA to yield duplex miRNA	PhysicalEntity102	Complex289	
+BiochemicalReaction249	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein1073	Complex289	
+BiochemicalReaction249	Dicer cleaves pre-miRNA to yield duplex miRNA	Protein1074	Complex289	
+BiochemicalReaction25	SMAD2/3:SMAD4 complex positively regulates JUNB transcription	Dna5	Protein536	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Complex289	Protein1072	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Protein1075	Protein1072	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Protein1075	Protein1073	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Complex289	Protein1073	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Protein1075	Protein1074	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Complex289	Protein1074	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Protein1075	Complex290	
+BiochemicalReaction250	Duplex miRNA is loaded into Argonaute	Complex289	Complex290	
+BiochemicalReaction251	Removal of miRNA passenger strand	Complex290	Complex295	
+BiochemicalReaction252	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein1072	Complex300	
+BiochemicalReaction252	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein1073	Complex300	
+BiochemicalReaction252	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	PhysicalEntity105	Complex300	
+BiochemicalReaction252	Dicer cleaves double-stranded RNA to yield double-stranded siRNA	Protein1074	Complex300	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Complex300	Protein1072	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Protein1075	Protein1072	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Protein1075	Protein1073	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Complex300	Protein1073	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Protein1075	Complex301	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Complex300	Complex301	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Protein1075	Protein1074	
+BiochemicalReaction253	Duplex siRNA is loaded into Argonaute	Complex300	Protein1074	
+BiochemicalReaction254	Cleavage-based removal of the siRNA passenger strand by AGO2	Complex303	Complex306	
+BiochemicalReaction255	Removal of siRNA passenger strand	Complex301	Complex307	
+BiochemicalReaction256	Cleavage of Target RNAs by Endonucleolytic RISC	PhysicalEntity108	PhysicalEntity109	
+BiochemicalReaction257	Binding of Inexactly Matching Target RNAs by RISC.	Complex312	Complex313	
+BiochemicalReaction257	Binding of Inexactly Matching Target RNAs by RISC.	PhysicalEntity110	Complex313	
+BiochemicalReaction257	Binding of Inexactly Matching Target RNAs by RISC.	Protein1080	Complex313	
+BiochemicalReaction258	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	Complex315	Complex316	
+BiochemicalReaction258	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	PhysicalEntity108	Complex316	
+BiochemicalReaction258	Binding of Exactly Matching Target RNAs by Nonendonucleolytic RISC	Protein1080	Complex316	
+BiochemicalReaction259	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	Complex318	Complex321	
+BiochemicalReaction259	AUF1(hnRNP D0) Dimers Bind AU-rich Element in 3' UTR of Transcripts	PhysicalEntity111	Complex321	
+BiochemicalReaction26	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Protein537	Complex29	
+BiochemicalReaction26	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Complex15	Complex29	
+BiochemicalReaction26	SKI/SKIL binds SMAD complex, suppressing TGF-beta signaling	Protein540	Complex29	
+BiochemicalReaction260	Association of AUF1 with Translation and Heat Shock Proteins	Protein1086	Complex325	
+BiochemicalReaction260	Association of AUF1 with Translation and Heat Shock Proteins	Complex321	Complex325	
+BiochemicalReaction260	Association of AUF1 with Translation and Heat Shock Proteins	Protein1087	Complex325	
+BiochemicalReaction260	Association of AUF1 with Translation and Heat Shock Proteins	Protein919	Complex325	
+BiochemicalReaction260	Association of AUF1 with Translation and Heat Shock Proteins	Protein921	Complex325	
+BiochemicalReaction260	Association of AUF1 with Translation and Heat Shock Proteins	Protein1088	Complex325	
+BiochemicalReaction261	Ubiquitination of AUF1 (hnRNP D0)	Protein546	Complex326	
+BiochemicalReaction261	Ubiquitination of AUF1 (hnRNP D0)	Complex325	Complex326	
+BiochemicalReaction262	Destruction of AUF1 and mRNA	Complex326	NA	
+BiochemicalReaction263	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	Protein1136	Complex329	
+BiochemicalReaction263	Butyrate Response Factor1 (BRF1) Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity112	Complex329	
+BiochemicalReaction264	BRF1 Complex Recruits RNA Degradation Activities	Protein965	Complex330	
+BiochemicalReaction264	BRF1 Complex Recruits RNA Degradation Activities	Complex260	Complex330	
+BiochemicalReaction264	BRF1 Complex Recruits RNA Degradation Activities	Protein962	Complex330	
+BiochemicalReaction264	BRF1 Complex Recruits RNA Degradation Activities	Protein963	Complex330	
+BiochemicalReaction264	BRF1 Complex Recruits RNA Degradation Activities	Complex329	Complex330	
+BiochemicalReaction265	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction265	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex329	SmallMolecule164	
+BiochemicalReaction265	Phosphorylation of BRF1 by Protein Kinase B/Akt	Complex329	Complex331	
+BiochemicalReaction265	Phosphorylation of BRF1 by Protein Kinase B/Akt	SmallMolecule27	Complex331	
+BiochemicalReaction266	Phosphorylation of BRF1 by MK2	SmallMolecule27	Complex332	
+BiochemicalReaction266	Phosphorylation of BRF1 by MK2	Complex329	Complex332	
+BiochemicalReaction266	Phosphorylation of BRF1 by MK2	Complex329	SmallMolecule164	
+BiochemicalReaction266	Phosphorylation of BRF1 by MK2	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction267	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Complex331	Complex333	
+BiochemicalReaction267	Phosphorylated BRF1 (Ser92, Ser203) Binds 14-3-3	Protein1141	Complex333	
+BiochemicalReaction268	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Complex332	Complex334	
+BiochemicalReaction268	Phosphorylated BRF1 (Ser54, Ser92, Ser203) Binds 14-3-3	Protein1141	Complex334	
+BiochemicalReaction269	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein1142	Complex335	
+BiochemicalReaction269	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	Protein1143	Complex335	
+BiochemicalReaction269	Tristetraproline (TTP) Binds AU-rich Elements in 3' UTR of Target mRNAs	PhysicalEntity113	Complex335	
+BiochemicalReaction27	SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL	Complex29	Complex30	
+BiochemicalReaction27	SMAD2/3 activation induces binding of RNF111/SMURF2 to SKI/SKIL	Protein543	Complex30	
+BiochemicalReaction270	TTP Recruits RNA Degradation Activities	Protein965	Complex336	
+BiochemicalReaction270	TTP Recruits RNA Degradation Activities	Complex335	Complex336	
+BiochemicalReaction270	TTP Recruits RNA Degradation Activities	Complex260	Complex336	
+BiochemicalReaction270	TTP Recruits RNA Degradation Activities	Protein962	Complex336	
+BiochemicalReaction270	TTP Recruits RNA Degradation Activities	Protein963	Complex336	
+BiochemicalReaction271	Phosphorylation of Tristetraproline (TTP) by MK2	Complex335	SmallMolecule164	
+BiochemicalReaction271	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction271	Phosphorylation of Tristetraproline (TTP) by MK2	SmallMolecule27	Complex337	
+BiochemicalReaction271	Phosphorylation of Tristetraproline (TTP) by MK2	Complex335	Complex337	
+BiochemicalReaction272	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Complex337	Complex338	
+BiochemicalReaction272	Phosphorylated Tristetraproline (TTP) binds 14-3-3beta	Protein1141	Complex338	
+BiochemicalReaction273	KSRP Binds AU-rich Element in 3' UTR of mRNA	PhysicalEntity114	Complex339	
+BiochemicalReaction273	KSRP Binds AU-rich Element in 3' UTR of mRNA	Protein1145	Complex339	
+BiochemicalReaction274	KSRP Recruits RNA Degradation Activities	Complex260	Complex340	
+BiochemicalReaction274	KSRP Recruits RNA Degradation Activities	Protein962	Complex340	
+BiochemicalReaction274	KSRP Recruits RNA Degradation Activities	Complex339	Complex340	
+BiochemicalReaction274	KSRP Recruits RNA Degradation Activities	Protein925	Complex340	
+BiochemicalReaction275	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction275	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein1145	SmallMolecule164	
+BiochemicalReaction275	Phosphorylation of KSRP by Protein Kinase B/Akt	Protein1145	Protein1146	
+BiochemicalReaction275	Phosphorylation of KSRP by Protein Kinase B/Akt	SmallMolecule27	Protein1146	
+BiochemicalReaction276	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein1146	Complex341	
+BiochemicalReaction276	Phosphorylated KSRP (Ser193) Binds 14-3-3zeta in the Nucleus	Protein1147	Complex341	
+BiochemicalReaction277	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction277	Phosphorylation of KSRP by MAP kinase p38	Protein1145	SmallMolecule164	
+BiochemicalReaction277	Phosphorylation of KSRP by MAP kinase p38	Protein1145	Protein1149	
+BiochemicalReaction277	Phosphorylation of KSRP by MAP kinase p38	SmallMolecule27	Protein1149	
+BiochemicalReaction278	Phosphorylation of HuR by PKCalpha	Protein1153	SmallMolecule8	
+BiochemicalReaction278	Phosphorylation of HuR by PKCalpha	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction278	Phosphorylation of HuR by PKCalpha	SmallMolecule7	Protein1154	
+BiochemicalReaction278	Phosphorylation of HuR by PKCalpha	Protein1153	Protein1154	
+BiochemicalReaction279	Phosphorylation of HuR by PKCdelta	Protein1153	SmallMolecule8	
+BiochemicalReaction279	Phosphorylation of HuR by PKCdelta	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction279	Phosphorylation of HuR by PKCdelta	SmallMolecule7	Protein1156	
+BiochemicalReaction279	Phosphorylation of HuR by PKCdelta	Protein1153	Protein1156	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Protein537	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Protein537	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Complex31	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Complex31	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Complex15	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Complex15	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Protein510	Protein543	
+BiochemicalReaction28	Ubiquitination of SKI/SKIL by RNF111/SMURF2	Complex30	Protein543	
+BiochemicalReaction280	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	PhysicalEntity115	Complex343	
+BiochemicalReaction280	Phosphorylated HuR (Ser221, Ser158) Binds mRNA	Protein1154	Complex343	
+BiochemicalReaction281	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	PhysicalEntity116	Complex344	
+BiochemicalReaction281	Phosphorylated HuR (Ser221, Ser318) Binds mRNA	Protein1156	Complex344	
+BiochemicalReaction282	HuR Binds mRNAs in the Nucleus	Protein1153	Complex345	
+BiochemicalReaction282	HuR Binds mRNAs in the Nucleus	PhysicalEntity117	Complex345	
+BiochemicalReaction283	Association of HuR with the CRM1 Nuclear Export Machinery	Protein1158	Complex347	
+BiochemicalReaction283	Association of HuR with the CRM1 Nuclear Export Machinery	Protein1159	Complex347	
+BiochemicalReaction283	Association of HuR with the CRM1 Nuclear Export Machinery	Protein1160	Complex347	
+BiochemicalReaction283	Association of HuR with the CRM1 Nuclear Export Machinery	Complex346	Complex347	
+BiochemicalReaction283	Association of HuR with the CRM1 Nuclear Export Machinery	Protein1161	Complex347	
+BiochemicalReaction283	Association of HuR with the CRM1 Nuclear Export Machinery	Protein1162	Complex347	
+BiochemicalReaction284	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex347	Complex348	
+BiochemicalReaction284	Export of HuR:mRNA Complex from the Nucleus to the Cytoplasm	Complex347	Protein1166	
+BiochemicalReaction285	Release of 40S and 60S subunits from the 80S ribosome 	Protein1167	Complex273	
+BiochemicalReaction285	Release of 40S and 60S subunits from the 80S ribosome 	Complex272	Complex273	
+BiochemicalReaction285	Release of 40S and 60S subunits from the 80S ribosome 	Complex272	Complex274	
+BiochemicalReaction285	Release of 40S and 60S subunits from the 80S ribosome 	Protein1167	Complex274	
+BiochemicalReaction285	Release of 40S and 60S subunits from the 80S ribosome 	Complex272	Protein1167	
+BiochemicalReaction285	Release of 40S and 60S subunits from the 80S ribosome 	Protein1167	Protein1167	
+BiochemicalReaction286	eIF3 and eIF1A bind to the 40S subunit	Complex352	Complex353	
+BiochemicalReaction286	eIF3 and eIF1A bind to the 40S subunit	Complex274	Complex353	
+BiochemicalReaction286	eIF3 and eIF1A bind to the 40S subunit	Protein1167	Complex353	
+BiochemicalReaction287	De novo formation of eIF2:GTP	SmallMolecule165	Complex355	
+BiochemicalReaction287	De novo formation of eIF2:GTP	Complex354	Complex355	
+BiochemicalReaction288	Met-tRNAi binds to eIF2:GTP to form the ternary complex	Complex355	Complex356	
+BiochemicalReaction288	Met-tRNAi binds to eIF2:GTP to form the ternary complex	PhysicalEntity122	Complex356	
+BiochemicalReaction289	Formation of the 43S pre-initiation complex	Complex356	Complex357	
+BiochemicalReaction289	Formation of the 43S pre-initiation complex	Complex353	Complex357	
+BiochemicalReaction29	TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus	Protein545	Complex32	
+BiochemicalReaction29	TRIM33 (Ectodermin) binds SMAD heterotrimer in the nucleus	Complex15	Complex32	
+BiochemicalReaction290	Release of eIF4E from the inactive eIF4E:4E-BP complex 	Complex358	Protein1182	
+BiochemicalReaction290	Release of eIF4E from the inactive eIF4E:4E-BP complex 	Complex358	Protein864	
+BiochemicalReaction291	Formation of the cap-binding eIF4F complex	Protein864	Complex360	
+BiochemicalReaction291	Formation of the cap-binding eIF4F complex	Complex359	Complex360	
+BiochemicalReaction291	Formation of the cap-binding eIF4F complex	Protein921	Complex360	
+BiochemicalReaction292	eIF4F binds to mRNP	Complex361	Complex362	
+BiochemicalReaction292	eIF4F binds to mRNP	Complex360	Complex362	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein1183	SmallMolecule89	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	SmallMolecule27	SmallMolecule89	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein920	SmallMolecule89	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex359	SmallMolecule89	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex362	SmallMolecule89	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex362	PhysicalEntity123	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex359	PhysicalEntity123	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein920	PhysicalEntity123	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	SmallMolecule27	PhysicalEntity123	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein1183	PhysicalEntity123	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex362	SmallMolecule164	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex359	SmallMolecule164	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein920	SmallMolecule164	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein1183	SmallMolecule164	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex362	Complex363	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex359	Complex363	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein920	Complex363	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	SmallMolecule27	Complex363	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein1183	Complex363	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex362	Complex359	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Complex359	Complex359	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein920	Complex359	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	SmallMolecule27	Complex359	
+BiochemicalReaction293	Cap-bound mRNA is activated by helicases 	Protein1183	Complex359	
+BiochemicalReaction294	Formation of translation initiation complexes containing mRNA that does not circularize	Protein1167	Protein1167	
+BiochemicalReaction294	Formation of translation initiation complexes containing mRNA that does not circularize	Complex363	Protein1167	
+BiochemicalReaction294	Formation of translation initiation complexes containing mRNA that does not circularize	Complex357	Protein1167	
+BiochemicalReaction294	Formation of translation initiation complexes containing mRNA that does not circularize	Complex357	Complex364	
+BiochemicalReaction294	Formation of translation initiation complexes containing mRNA that does not circularize	Complex363	Complex364	
+BiochemicalReaction294	Formation of translation initiation complexes containing mRNA that does not circularize	Protein1167	Complex364	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex365	Complex366	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein919	Complex366	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein1167	Complex366	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex357	Complex366	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex357	Protein1167	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein1167	Protein1167	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Protein919	Protein1167	
+BiochemicalReaction295	Formation of translation initiation complexes yielding circularized Ceruloplasmin mRNA in a  'closed-loop' conformation	Complex365	Protein1167	
+BiochemicalReaction296	Ribosomal scanning 	SmallMolecule27	SmallMolecule89	
+BiochemicalReaction296	Ribosomal scanning 	Complex364	SmallMolecule89	
+BiochemicalReaction296	Ribosomal scanning 	Complex364	SmallMolecule164	
+BiochemicalReaction296	Ribosomal scanning 	SmallMolecule27	SmallMolecule164	
+BiochemicalReaction296	Ribosomal scanning 	Complex364	Complex367	
+BiochemicalReaction296	Ribosomal scanning 	SmallMolecule27	Complex367	
+BiochemicalReaction297	Start codon recognition	Complex354	Complex354	
+BiochemicalReaction297	Start codon recognition	Protein1184	Complex354	
+BiochemicalReaction297	Start codon recognition	Complex367	Complex354	
+BiochemicalReaction297	Start codon recognition	Protein1167	Complex354	
+BiochemicalReaction297	Start codon recognition	PhysicalEntity124	Complex354	
+BiochemicalReaction297	Start codon recognition	PhysicalEntity124	Protein1184	
+BiochemicalReaction297	Start codon recognition	Protein1167	Protein1184	
+BiochemicalReaction297	Start codon recognition	Complex367	Protein1184	
+BiochemicalReaction297	Start codon recognition	Protein1184	Protein1184	
+BiochemicalReaction297	Start codon recognition	Complex354	Protein1184	
+BiochemicalReaction297	Start codon recognition	PhysicalEntity124	Complex367	
+BiochemicalReaction297	Start codon recognition	Protein1167	Complex367	
+BiochemicalReaction297	Start codon recognition	Complex367	Complex367	
+BiochemicalReaction297	Start codon recognition	Protein1184	Complex367	
+BiochemicalReaction297	Start codon recognition	Complex354	Complex367	
+BiochemicalReaction297	Start codon recognition	PhysicalEntity124	Protein1167	
+BiochemicalReaction297	Start codon recognition	Protein1167	Protein1167	
+BiochemicalReaction297	Start codon recognition	Complex367	Protein1167	
+BiochemicalReaction297	Start codon recognition	Protein1184	Protein1167	
+BiochemicalReaction297	Start codon recognition	Complex354	Protein1167	
+BiochemicalReaction297	Start codon recognition	PhysicalEntity124	PhysicalEntity124	
+BiochemicalReaction297	Start codon recognition	Protein1167	PhysicalEntity124	
+BiochemicalReaction297	Start codon recognition	Complex367	PhysicalEntity124	
+BiochemicalReaction297	Start codon recognition	Protein1184	PhysicalEntity124	
+BiochemicalReaction297	Start codon recognition	Complex354	PhysicalEntity124	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	SmallMolecule89	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	SmallMolecule89	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	SmallMolecule89	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Complex352	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Complex352	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Complex352	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Protein1184	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Protein1184	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Protein1184	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Protein1183	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Protein1183	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Protein1183	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Protein864	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Protein864	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Protein864	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Complex368	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Complex368	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Complex368	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Protein1167	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Protein1167	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Protein1167	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Protein920	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Protein920	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Protein920	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Complex359	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Complex359	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Complex359	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Protein921	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Protein921	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Protein921	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	PhysicalEntity124	Complex369	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Complex367	Complex369	
+BiochemicalReaction298	eIF2:GTP is hydrolyzed, eIFs are released 	Protein1184	Complex369	
+BiochemicalReaction299	eIF5B:GTP is hydrolyzed and released	Complex370	SmallMolecule89	
+BiochemicalReaction299	eIF5B:GTP is hydrolyzed and released	Complex370	Complex372	
+BiochemicalReaction299	eIF5B:GTP is hydrolyzed and released	Complex370	Complex373	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein2	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein3	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein19	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein4	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein20	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein21	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein5	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein6	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein8	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein9	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein11	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein10	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein14	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein15	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein22	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein16	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein17	Complex3	
+BiochemicalReaction3	Formation of TRAP coactivator complex	Protein18	Complex3	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Complex32	Protein545	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Protein510	Protein545	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Protein510	Complex33	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Complex32	Complex33	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Protein510	Protein493	
+BiochemicalReaction30	TRIM33 monoubiquitinates SMAD4	Complex32	Protein493	
+BiochemicalReaction300	The 60S subunit joins the translation initiation complex 	Complex273	Complex370	
+BiochemicalReaction300	The 60S subunit joins the translation initiation complex 	Complex368	Complex370	
+BiochemicalReaction300	The 60S subunit joins the translation initiation complex 	Complex371	Complex370	
+BiochemicalReaction301	Formation of eIF2:GDP:eIF2B intermediate	Complex374	Complex375	
+BiochemicalReaction301	Formation of eIF2:GDP:eIF2B intermediate	Complex369	Complex375	
+BiochemicalReaction302	eIF2 activation	SmallMolecule165	Complex374	
+BiochemicalReaction302	eIF2 activation	Complex375	Complex374	
+BiochemicalReaction302	eIF2 activation	Complex375	Complex355	
+BiochemicalReaction302	eIF2 activation	SmallMolecule165	Complex355	
+BiochemicalReaction302	eIF2 activation	Complex375	SmallMolecule163	
+BiochemicalReaction302	eIF2 activation	SmallMolecule165	SmallMolecule163	
+BiochemicalReaction303	Dissociation of L13a from the 60s ribosomal subunit	Complex273	Protein981	
+BiochemicalReaction303	Dissociation of L13a from the 60s ribosomal subunit	Complex273	Complex376	
+BiochemicalReaction304	INF-gamma induced phosphorylation of L13a	Protein981	Protein1191	
+BiochemicalReaction305	Association of phospho-L13a with GAIT element of Ceruloplasmin mRNA	Protein1191	Complex377	
+BiochemicalReaction305	Association of phospho-L13a with GAIT element of Ceruloplasmin mRNA	Complex366	Complex377	
+BiochemicalReaction306	Synthesis of nascent polypeptide containing signal sequence	Rna6	Complex378	
+BiochemicalReaction306	Synthesis of nascent polypeptide containing signal sequence	Complex272	Complex378	
+BiochemicalReaction307	Association of a nascent polypeptide:mRNA:ribosome complex with a signal recognition particle (SRP)	Complex379	Complex380	
+BiochemicalReaction307	Association of a nascent polypeptide:mRNA:ribosome complex with a signal recognition particle (SRP)	Complex378	Complex380	
+BiochemicalReaction308	The SRP receptor binds the SRP:nascent peptide:ribosome complex	Complex380	Complex382	
+BiochemicalReaction308	The SRP receptor binds the SRP:nascent peptide:ribosome complex	Complex381	Complex382	
+BiochemicalReaction309	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex382	Complex379	
+BiochemicalReaction309	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex383	Complex379	
+BiochemicalReaction309	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex383	Complex386	
+BiochemicalReaction309	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex382	Complex386	
+BiochemicalReaction309	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex383	Complex381	
+BiochemicalReaction309	Translocation of signal-containing nascent peptide to Endoplasmic Reticulum	Complex382	Complex381	
+BiochemicalReaction31	Ubiquitinated SMAD4 translocates from the nucleus to the cytosol	Complex33	Complex34	
+BiochemicalReaction310	Signal peptide cleavage from ribosome-associated nascent protein	Complex386	Complex388	
+BiochemicalReaction310	Signal peptide cleavage from ribosome-associated nascent protein	Complex386	PhysicalEntity129	
+BiochemicalReaction311	eEF1A complexes with GTP	SmallMolecule165	Complex391	
+BiochemicalReaction311	eEF1A complexes with GTP	Protein1218	Complex391	
+BiochemicalReaction312	eEF1A:GTP:aminoacyl tRNA ternary complex formation.	Complex391	Complex392	
+BiochemicalReaction312	eEF1A:GTP:aminoacyl tRNA ternary complex formation.	SmallMolecule166	Complex392	
+BiochemicalReaction313	Aminoacyl-tRNA  binds to the ribosome at the A-site	Complex372	Complex393	
+BiochemicalReaction313	Aminoacyl-tRNA  binds to the ribosome at the A-site	Complex392	Complex393	
+BiochemicalReaction314	Hydrolysis of eEF1A:GTP	Complex393	SmallMolecule89	
+BiochemicalReaction314	Hydrolysis of eEF1A:GTP	Complex393	Complex394	
+BiochemicalReaction314	Hydrolysis of eEF1A:GTP	Complex393	Complex395	
+BiochemicalReaction315	Peptide transfer from P-site tRNA to the A-site tRNA	Complex395	Complex396	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex396	SmallMolecule89	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex397	SmallMolecule89	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex392	SmallMolecule89	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex392	Complex394	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex397	Complex394	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex396	Complex394	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex392	Complex398	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex397	Complex398	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex396	Complex398	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex392	Complex399	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex397	Complex399	
+BiochemicalReaction316	Translocation of ribosome by 3 bases in the 3' direction	Complex396	Complex399	
+BiochemicalReaction317	GTP-binding activates eEF2	SmallMolecule165	Complex397	
+BiochemicalReaction317	GTP-binding activates eEF2	Protein1222	Complex397	
+BiochemicalReaction318	Regeneration of eEF1A:GTP by eEF1B activity	Complex394	Complex391	
+BiochemicalReaction318	Regeneration of eEF1A:GTP by eEF1B activity	SmallMolecule165	Complex391	
+BiochemicalReaction318	Regeneration of eEF1A:GTP by eEF1B activity	Complex400	Complex391	
+BiochemicalReaction318	Regeneration of eEF1A:GTP by eEF1B activity	Complex400	Complex401	
+BiochemicalReaction318	Regeneration of eEF1A:GTP by eEF1B activity	SmallMolecule165	Complex401	
+BiochemicalReaction318	Regeneration of eEF1A:GTP by eEF1B activity	Complex394	Complex401	
+BiochemicalReaction319	Formation of eEF1B complex	Protein1223	Complex400	
+BiochemicalReaction319	Formation of eEF1B complex	Protein1224	Complex400	
+BiochemicalReaction319	Formation of eEF1B complex	Protein1225	Complex400	
+BiochemicalReaction32	USP9X (FAM) binds to ubiquitinated SMAD4	Protein561	Complex35	
+BiochemicalReaction32	USP9X (FAM) binds to ubiquitinated SMAD4	Complex34	Complex35	
+BiochemicalReaction320	GTP bound eRF3:eRF1 complex binds the peptidyl tRNA:mRNA:80S Ribosome complex	Protein970	Complex403	
+BiochemicalReaction320	GTP bound eRF3:eRF1 complex binds the peptidyl tRNA:mRNA:80S Ribosome complex	Complex399	Complex403	
+BiochemicalReaction320	GTP bound eRF3:eRF1 complex binds the peptidyl tRNA:mRNA:80S Ribosome complex	Complex402	Complex403	
+BiochemicalReaction321	GTP Hydrolysis by eRF3 bound to the eRF1:mRNA:polypeptide:80S Ribosome complex	Complex403	SmallMolecule89	
+BiochemicalReaction321	GTP Hydrolysis by eRF3 bound to the eRF1:mRNA:polypeptide:80S Ribosome complex	Complex403	Complex404	
+BiochemicalReaction322	Polypeptide release from the eRF3-GDP:eRF1:mRNA:80S Ribosome complex	Complex404	Complex405	
+BiochemicalReaction322	Polypeptide release from the eRF3-GDP:eRF1:mRNA:80S Ribosome complex	Complex404	PhysicalEntity131	
+BiochemicalReaction323	Nuclear export of snRNA transcripts	Complex406	Complex407	
+BiochemicalReaction323	Nuclear export of snRNA transcripts	Complex406	Protein1227	
+BiochemicalReaction323	Nuclear export of snRNA transcripts	Complex406	Complex216	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	SmallMolecule169	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1228	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1229	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Complex408	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1237	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1238	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1239	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1240	Complex409	
+BiochemicalReaction324	Loading and methylation of Sm proteins onto SMN Complexes	Protein1241	Complex409	
+BiochemicalReaction325	snRNP complex assembly	Complex407	Complex412	
+BiochemicalReaction325	snRNP complex assembly	Complex409	Complex412	
+BiochemicalReaction326	snRNA Cap hypermethylation	Complex412	Complex413	
+BiochemicalReaction327	snRNP:Snurportin complex formation	Complex413	Complex415	
+BiochemicalReaction327	snRNP:Snurportin complex formation	Protein1248	Complex415	
+BiochemicalReaction328	snRNP nuclear import and release	Complex415	Complex416	
+BiochemicalReaction328	snRNP nuclear import and release	Complex415	Complex417	
+BiochemicalReaction328	snRNP nuclear import and release	Complex415	Protein1248	
+BiochemicalReaction329	IGF2BP1 Binds Specific RNA Molecules	Protein1256	Complex419	
+BiochemicalReaction329	IGF2BP1 Binds Specific RNA Molecules	Rna22	Complex419	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule9	Protein546	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	Complex35	Protein546	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	Complex35	Protein488	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule9	Protein488	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	Complex35	Protein561	
+BiochemicalReaction33	USP9X (FAM) deubiquitinates SMAD4	SmallMolecule9	Protein561	
+BiochemicalReaction330	IGF2BP2 Binds Specific RNA Molecules	Rna33	Complex420	
+BiochemicalReaction330	IGF2BP2 Binds Specific RNA Molecules	Protein1257	Complex420	
+BiochemicalReaction331	IGF2BP3 Binds Specific RNA Molecules	Rna34	Complex421	
+BiochemicalReaction331	IGF2BP3 Binds Specific RNA Molecules	Protein1258	Complex421	
+BiochemicalReaction34	NEDD4L binds phosphorylated linker region of SMAD2/3	Protein562	Complex36	
+BiochemicalReaction34	NEDD4L binds phosphorylated linker region of SMAD2/3	Complex16	Complex36	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Protein510	Complex37	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Complex36	Complex37	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Complex36	Protein562	
+BiochemicalReaction35	NEDD4L ubiquitinates SMAD2/3	Protein510	Protein562	
+BiochemicalReaction36	SMURF2 binds SMAD3 phosphorylated in the linker region	Protein544	Complex38	
+BiochemicalReaction36	SMURF2 binds SMAD3 phosphorylated in the linker region	Complex16	Complex38	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Complex38	Protein544	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Protein510	Protein544	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Protein510	Protein492	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Complex38	Protein492	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Protein510	Complex39	
+BiochemicalReaction37	SMURF2 monoubiquitinates SMAD3	Complex38	Complex39	
+BiochemicalReaction38	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Complex15	Complex22	
+BiochemicalReaction38	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Protein505	Complex22	
+BiochemicalReaction38	TGIF recruits HDAC1 to SMAD2/3:SMAD4 heterotrimer	Protein506	Complex22	
+BiochemicalReaction39	PARP1 binds SMAD2/3:SMAD4 heterotrimer	Complex15	Complex40	
+BiochemicalReaction39	PARP1 binds SMAD2/3:SMAD4 heterotrimer	Protein563	Complex40	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein23	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein28	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein33	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein35	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein38	Complex4	
+BiochemicalReaction4	Formation of CSL-NICD coactivator complex	Protein39	Complex4	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex40	SmallMolecule11	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule10	SmallMolecule11	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule10	Protein563	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex40	Protein563	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	SmallMolecule10	Complex41	
+BiochemicalReaction40	PARP1 ADP-ribosylates SMAD3 and SMAD4	Complex40	Complex41	
+BiochemicalReaction41	PPM1A protein phosphatase binds phosphorylated SMAD2/3	Complex15	Complex42	
+BiochemicalReaction41	PPM1A protein phosphatase binds phosphorylated SMAD2/3	Protein567	Complex42	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	SmallMolecule13	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	Protein568	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	Protein568	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	Protein492	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	Protein492	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	SmallMolecule12	Protein567	
+BiochemicalReaction42	PPM1A dephosphorylates nuclear SMAD2/3	Complex42	Protein567	
+BiochemicalReaction43	Dephosphorylated SMAD2/3 translocates to the cytosol	Protein568	Protein571	
+BiochemicalReaction44	UBF-1 Binds rDNA Promoter	PhysicalEntity2	Complex43	
+BiochemicalReaction44	UBF-1 Binds rDNA Promoter	Protein577	Complex43	
+BiochemicalReaction45	Phosphorylation of UBF-1:rDNA Promoter	Complex43	Complex46	
+BiochemicalReaction45	Phosphorylation of UBF-1:rDNA Promoter	SmallMolecule7	Complex46	
+BiochemicalReaction46	Formation of SL1	Protein611	Complex48	
+BiochemicalReaction46	Formation of SL1	Protein612	Complex48	
+BiochemicalReaction46	Formation of SL1	Protein613	Complex48	
+BiochemicalReaction47	Acetylation of SL1	SmallMolecule14	Complex49	
+BiochemicalReaction47	Acetylation of SL1	Complex48	Complex49	
+BiochemicalReaction48	Recruitment of Acetylated SL1 to phosUBF-1:rDNA Promoter	Complex49	Complex50	
+BiochemicalReaction48	Recruitment of Acetylated SL1 to phosUBF-1:rDNA Promoter	Complex46	Complex50	
+BiochemicalReaction49	Assembly of RNA Polymerase I Holoenzyme (human)	Protein617	Complex53	
+BiochemicalReaction49	Assembly of RNA Polymerase I Holoenzyme (human)	Protein618	Complex53	
+BiochemicalReaction49	Assembly of RNA Polymerase I Holoenzyme (human)	Protein619	Complex53	
+BiochemicalReaction49	Assembly of RNA Polymerase I Holoenzyme (human)	Protein620	Complex53	
+BiochemicalReaction49	Assembly of RNA Polymerase I Holoenzyme (human)	Protein621	Complex53	
+BiochemicalReaction49	Assembly of RNA Polymerase I Holoenzyme (human)	Protein622	Complex53	
+BiochemicalReaction5	Formation of NR-MED1 Coactivator Complex	Protein6	Complex5	
+BiochemicalReaction5	Formation of NR-MED1 Coactivator Complex	Protein41	Complex5	
+BiochemicalReaction50	Binding of Rrn3 to RNA Polymerase I	Protein623	Complex54	
+BiochemicalReaction50	Binding of Rrn3 to RNA Polymerase I	Complex53	Complex54	
+BiochemicalReaction51	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex54	Complex57	
+BiochemicalReaction51	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex55	Complex57	
+BiochemicalReaction51	Recruitment of Active RNA Polymerase I to SL1:phos.UBF-1:rDNA Promoter	Complex50	Complex57	
+BiochemicalReaction52	Loss of Rrn3 from RNA Polymerase I promoter escape complex	Complex57	Complex58	
+BiochemicalReaction52	Loss of Rrn3 from RNA Polymerase I promoter escape complex	Complex57	Protein623	
+BiochemicalReaction53	Elongation of pre-rRNA transcript	PhysicalEntity5	PhysicalEntity5	
+BiochemicalReaction53	Elongation of pre-rRNA transcript	SmallMolecule15	PhysicalEntity5	
+BiochemicalReaction54	TTF-I binds to the Sal Box	Protein614	Complex52	
+BiochemicalReaction54	TTF-I binds to the Sal Box	PhysicalEntity4	Complex52	
+BiochemicalReaction55	Polymerase I Transcription Complex/Nascent Pre rRNA Complex pauses at the TTF-I:Sal Box	Complex58	Complex62	
+BiochemicalReaction55	Polymerase I Transcription Complex/Nascent Pre rRNA Complex pauses at the TTF-I:Sal Box	Complex52	Complex62	
+BiochemicalReaction55	Polymerase I Transcription Complex/Nascent Pre rRNA Complex pauses at the TTF-I:Sal Box	PhysicalEntity7	Complex62	
+BiochemicalReaction56	PTRF Binds the Polymerase I Transcription Complex/Nascent Pre rRNA Complex paused at the TTF-I:Sal Box	Protein638	Complex63	
+BiochemicalReaction56	PTRF Binds the Polymerase I Transcription Complex/Nascent Pre rRNA Complex paused at the TTF-I:Sal Box	Complex62	Complex63	
+BiochemicalReaction57	Dissociation of PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	Complex63	Protein638	
+BiochemicalReaction57	Dissociation of PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	Complex63	Complex58	
+BiochemicalReaction57	Dissociation of PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	Complex63	Protein614	
+BiochemicalReaction57	Dissociation of PTRF:Polymerase I/Nascent Pre rRNA Complex:TTF-I:Sal Box	Complex63	PhysicalEntity7	
+BiochemicalReaction58	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	PhysicalEntity8	PhysicalEntity10	
+BiochemicalReaction58	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	Complex64	PhysicalEntity10	
+BiochemicalReaction58	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	Complex64	Complex64	
+BiochemicalReaction58	RNA Polymerase III Abortive Initiation At Type 1 Open Promoters	PhysicalEntity8	Complex64	
+BiochemicalReaction59	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	PhysicalEntity8	PhysicalEntity10	
+BiochemicalReaction59	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	Complex71	PhysicalEntity10	
+BiochemicalReaction59	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	Complex71	Complex71	
+BiochemicalReaction59	RNA Polymerase III Abortive Initiation At Type 2 Open Promoters	PhysicalEntity8	Complex71	
+BiochemicalReaction6	KRAB-ZNF / KAP Interaction	Protein125	Complex6	
+BiochemicalReaction6	KRAB-ZNF / KAP Interaction	Protein462	Complex6	
+BiochemicalReaction60	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	PhysicalEntity8	PhysicalEntity10	
+BiochemicalReaction60	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	Complex72	PhysicalEntity10	
+BiochemicalReaction60	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	Complex72	Complex72	
+BiochemicalReaction60	RNA Polymerase III Abortive Initiation At Type 3 Open Promoters	PhysicalEntity8	Complex72	
+BiochemicalReaction61	RNA Polymerase III Productive Transcription	Complex75	Complex75	
+BiochemicalReaction61	RNA Polymerase III Productive Transcription	SmallMolecule15	Complex75	
+BiochemicalReaction61	RNA Polymerase III Productive Transcription	PhysicalEntity14	Complex75	
+BiochemicalReaction61	RNA Polymerase III Productive Transcription	PhysicalEntity14	PhysicalEntity15	
+BiochemicalReaction61	RNA Polymerase III Productive Transcription	SmallMolecule15	PhysicalEntity15	
+BiochemicalReaction61	RNA Polymerase III Productive Transcription	Complex75	PhysicalEntity15	
+BiochemicalReaction62	RNA Polymerase III Promoter Opening at Type 1 Promoters	Complex76	Complex64	
+BiochemicalReaction63	RNA Polymerase III Promoter Opening at Type 2 Promoters	Complex79	Complex71	
+BiochemicalReaction64	RNA Polymerase III Promoter Opening at Type 3 Promoters	Complex82	Complex72	
+BiochemicalReaction65	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	Complex75	PhysicalEntity19	
+BiochemicalReaction65	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	PhysicalEntity15	PhysicalEntity19	
+BiochemicalReaction65	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	PhysicalEntity15	Complex75	
+BiochemicalReaction65	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	Complex75	Complex75	
+BiochemicalReaction65	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	PhysicalEntity15	SmallMolecule19	
+BiochemicalReaction65	RNA Polymerase III Retractive RNase Activity at U-tract Pause Sites	Complex75	SmallMolecule19	
+BiochemicalReaction66	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	SmallMolecule15	PhysicalEntity8	
+BiochemicalReaction66	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	Complex64	PhysicalEntity8	
+BiochemicalReaction66	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	Complex64	Complex64	
+BiochemicalReaction66	RNA Polymerase III Simple Start Sequence Initiation At Type 1 Promoters	SmallMolecule15	Complex64	
+BiochemicalReaction67	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	SmallMolecule15	PhysicalEntity8	
+BiochemicalReaction67	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	Complex71	PhysicalEntity8	
+BiochemicalReaction67	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	Complex71	Complex71	
+BiochemicalReaction67	RNA Polymerase III Simple Start Sequence Initiation At Type 2 Promoters	SmallMolecule15	Complex71	
+BiochemicalReaction68	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	SmallMolecule15	PhysicalEntity8	
+BiochemicalReaction68	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	Complex72	PhysicalEntity8	
+BiochemicalReaction68	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	Complex72	Complex72	
+BiochemicalReaction68	RNA Polymerase III Simple Start Sequence Initiation At Type 3 Promoters	SmallMolecule15	Complex72	
+BiochemicalReaction69	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity19	PhysicalEntity21	
+BiochemicalReaction69	RNA Polymerase III Termination and release of transcribed mRNA	Complex85	PhysicalEntity21	
+BiochemicalReaction69	RNA Polymerase III Termination and release of transcribed mRNA	Complex85	Complex67	
+BiochemicalReaction69	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity19	Complex67	
+BiochemicalReaction69	RNA Polymerase III Termination and release of transcribed mRNA	Complex85	PhysicalEntity20	
+BiochemicalReaction69	RNA Polymerase III Termination and release of transcribed mRNA	PhysicalEntity19	PhysicalEntity20	
+BiochemicalReaction7	WWTR1 (TAZ) binds TEAD	Protein464	Complex7	
+BiochemicalReaction7	WWTR1 (TAZ) binds TEAD	Protein465	Complex7	
+BiochemicalReaction70	RNA Polymerase III Transcriptional Pause at Terminator Sequence	Complex75	PhysicalEntity19	
+BiochemicalReaction70	RNA Polymerase III Transcriptional Pause at Terminator Sequence	PhysicalEntity14	PhysicalEntity19	
+BiochemicalReaction70	RNA Polymerase III Transcriptional Pause at Terminator Sequence	PhysicalEntity14	Complex85	
+BiochemicalReaction70	RNA Polymerase III Transcriptional Pause at Terminator Sequence	Complex75	Complex85	
+BiochemicalReaction71	Binding of TFIIIA To type 1 Promoter	Protein644	Complex86	
+BiochemicalReaction71	Binding of TFIIIA To type 1 Promoter	PhysicalEntity16	Complex86	
+BiochemicalReaction72	Binding of TFIIIC to TFIIIA:Type I Promoter complex 	Complex65	Complex78	
+BiochemicalReaction72	Binding of TFIIIC to TFIIIA:Type I Promoter complex 	Complex86	Complex78	
+BiochemicalReaction73	Binding of TFIIIB to TFIIIC:TFIIIA:Type I Promoter complex	Complex66	Complex77	
+BiochemicalReaction73	Binding of TFIIIB to TFIIIC:TFIIIA:Type I Promoter complex	Complex78	Complex77	
+BiochemicalReaction74	Recruitment of  RNA polymerase III to TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	Complex77	Complex76	
+BiochemicalReaction74	Recruitment of  RNA polymerase III to TFIIIB:TFIIIC:TFIIIA:Type 1 Promoter Complex	Complex67	Complex76	
+BiochemicalReaction75	Binding of TFIIIC to Type 2 promoter	Complex65	Complex81	
+BiochemicalReaction75	Binding of TFIIIC to Type 2 promoter	PhysicalEntity17	Complex81	
+BiochemicalReaction76	Binding of TFIIIB to TFIIC: Type 2 Promoter Complex	Complex66	Complex80	
+BiochemicalReaction76	Binding of TFIIIB to TFIIC: Type 2 Promoter Complex	Complex81	Complex80	
+BiochemicalReaction77	Recruitment of RNA Polymerase III to the TFIIIB:TFIIIC: Type 2 Promoter Complex	Complex80	Complex79	
+BiochemicalReaction77	Recruitment of RNA Polymerase III to the TFIIIB:TFIIIC: Type 2 Promoter Complex	Complex67	Complex79	
+BiochemicalReaction78	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	PhysicalEntity18	Complex84	
+BiochemicalReaction78	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	Protein663	Complex84	
+BiochemicalReaction78	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	Protein664	Complex84	
+BiochemicalReaction78	Binding of SNAPc, Oct-1, and Staf to Type 3 Promoter	Complex74	Complex84	
+BiochemicalReaction79	Binding of TFIIIB to SNAPc:Oct-1:Staf:Type 3 Promoter Complex	Complex84	Complex83	
+BiochemicalReaction79	Binding of TFIIIB to SNAPc:Oct-1:Staf:Type 3 Promoter Complex	Complex73	Complex83	
+BiochemicalReaction8	YAP1 binds TEAD	Protein470	Complex8	
+BiochemicalReaction8	YAP1 binds TEAD	Protein465	Complex8	
+BiochemicalReaction80	Recruitment of RNA Polymerase III to TFIIIB:SNAPc:Type 3 Promoter Complex	Complex83	Complex82	
+BiochemicalReaction80	Recruitment of RNA Polymerase III to TFIIIB:SNAPc:Type 3 Promoter Complex	Complex67	Complex82	
+BiochemicalReaction81	Initiation of RNA Polymerase III Productive Transcription	Complex75	Complex75	
+BiochemicalReaction81	Initiation of RNA Polymerase III Productive Transcription	PhysicalEntity8	Complex75	
+BiochemicalReaction81	Initiation of RNA Polymerase III Productive Transcription	SmallMolecule15	Complex75	
+BiochemicalReaction81	Initiation of RNA Polymerase III Productive Transcription	SmallMolecule15	PhysicalEntity14	
+BiochemicalReaction81	Initiation of RNA Polymerase III Productive Transcription	PhysicalEntity8	PhysicalEntity14	
+BiochemicalReaction81	Initiation of RNA Polymerase III Productive Transcription	Complex75	PhysicalEntity14	
+BiochemicalReaction82	Resumption of RNA Polymerase III Productive Transcription	PhysicalEntity19	Complex75	
+BiochemicalReaction82	Resumption of RNA Polymerase III Productive Transcription	Complex75	Complex75	
+BiochemicalReaction82	Resumption of RNA Polymerase III Productive Transcription	SmallMolecule15	Complex75	
+BiochemicalReaction82	Resumption of RNA Polymerase III Productive Transcription	SmallMolecule15	PhysicalEntity14	
+BiochemicalReaction82	Resumption of RNA Polymerase III Productive Transcription	Complex75	PhysicalEntity14	
+BiochemicalReaction82	Resumption of RNA Polymerase III Productive Transcription	PhysicalEntity19	PhysicalEntity14	
+BiochemicalReaction83	TFAM binds to mitochondrial promoters	Protein676	Complex87	
+BiochemicalReaction83	TFAM binds to mitochondrial promoters	PhysicalEntity22	Complex87	
+BiochemicalReaction84	Association of TFAM:mt promoter complex with POLRMT:TFB2M	Complex87	Complex89	
+BiochemicalReaction84	Association of TFAM:mt promoter complex with POLRMT:TFB2M	Complex88	Complex89	
+BiochemicalReaction85	Association of mTERF with the termination sequence	Protein679	Complex90	
+BiochemicalReaction85	Association of mTERF with the termination sequence	PhysicalEntity23	Complex90	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	Protein680	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	Complex92	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	Complex93	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	Complex94	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	Complex55	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	PhysicalEntity24	
+BiochemicalReaction86	Abortive initiation after formation of the first phosphodiester bond	Complex91	Complex95	
+BiochemicalReaction87	Abortive Initiation After Second Transition	Complex98	Complex92	
+BiochemicalReaction87	Abortive Initiation After Second Transition	Complex98	PhysicalEntity25	
+BiochemicalReaction87	Abortive Initiation After Second Transition	Complex98	Complex55	
+BiochemicalReaction87	Abortive Initiation After Second Transition	Complex98	Complex95	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	Protein680	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	Complex92	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	Complex93	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	Complex94	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	Complex55	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	PhysicalEntity26	
+BiochemicalReaction88	Abortive Initiation Before Second Transition	Complex99	Complex95	
+BiochemicalReaction89	Formation of DSIF complex 	Protein705	Complex100	
+BiochemicalReaction89	Formation of DSIF complex 	Protein706	Complex100	
+BiochemicalReaction9	WWTR1 (TAZ), TBX5, and PCAF form a complex	Protein464	Complex9	
+BiochemicalReaction9	WWTR1 (TAZ), TBX5, and PCAF form a complex	Protein471	Complex9	
+BiochemicalReaction9	WWTR1 (TAZ), TBX5, and PCAF form a complex	Protein36	Complex9	
+BiochemicalReaction90	Formation of Elongin BC complex	Protein707	Complex101	
+BiochemicalReaction90	Formation of Elongin BC complex	Protein708	Complex101	
+BiochemicalReaction91	Formation of FACT complex	Protein709	Complex102	
+BiochemicalReaction91	Formation of FACT complex	Protein710	Complex102	
+BiochemicalReaction92	Formation of NELF complex 	Protein711	Complex103	
+BiochemicalReaction92	Formation of NELF complex 	Protein712	Complex103	
+BiochemicalReaction92	Formation of NELF complex 	Protein713	Complex103	
+BiochemicalReaction92	Formation of NELF complex 	Protein714	Complex103	
+BiochemicalReaction93	Formation of P-TEFb complex	Protein499	Complex19	
+BiochemicalReaction93	Formation of P-TEFb complex	Protein500	Complex19	
+BiochemicalReaction93	Formation of P-TEFb complex	Protein501	Complex19	
+BiochemicalReaction94	Formation of elongin complex	Protein715	Complex104	
+BiochemicalReaction94	Formation of elongin complex	Complex101	Complex104	
+BiochemicalReaction95	Resumption of elongation after recovery from pausing	Complex105	Complex108	
+BiochemicalReaction96	2-4 nt.backtracking of Pol II complex on the template leading to elongation pausing	Complex108	Complex105	
+BiochemicalReaction97	7-14 nt. Backtracking of Pol II complex on the template leading to elongation arrest	Complex108	Complex109	
+BiochemicalReaction98	TFIIS-mediated recovery of elongation from arrest	Complex109	Complex108	
+BiochemicalReaction99	Abortive termination of early transcription elongation by DSIF:NELF	Complex110	Complex115	
+Degradation1	Degradation of Ub-SMAD7	Complex24	NA	
+Degradation2	Degradation of ubiquitinated SKI/SKIL	Complex31	NA	
+Degradation3	Degradation of SMAD2/3:SMAD4 complex	Complex37	NA	
+Degradation4	Ubiquitin-dependent degradation of the SMAD complex terminates TGF-beta signaling	Complex15	NA	
+TemplateReaction1	Expression of CTGF	NA	Protein473	
+TemplateReaction2	Expression of NPPA (ANF)	NA	Protein487	
+TemplateReaction3	Pol II mediated transcription of microRNA genes	NA	PhysicalEntity100	

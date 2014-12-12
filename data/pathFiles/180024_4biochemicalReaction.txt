@@ -1,0 +1,29 @@
+BiochemicalReaction1	PKA phosphorylates PDE4B	Protein1	SmallMolecule2	
+BiochemicalReaction1	PKA phosphorylates PDE4B	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction1	PKA phosphorylates PDE4B	SmallMolecule1	Protein2	
+BiochemicalReaction1	PKA phosphorylates PDE4B	Protein1	Protein2	
+BiochemicalReaction10	DARPP-32 is dephosphorylated on Thr34 by PP2B	Protein30	SmallMolecule8	
+BiochemicalReaction10	DARPP-32 is dephosphorylated on Thr34 by PP2B	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction10	DARPP-32 is dephosphorylated on Thr34 by PP2B	SmallMolecule4	Protein25	
+BiochemicalReaction10	DARPP-32 is dephosphorylated on Thr34 by PP2B	Protein30	Protein25	
+BiochemicalReaction2	cAMP hydrolysis by PDE 4	SmallMolecule3	SmallMolecule5	
+BiochemicalReaction2	cAMP hydrolysis by PDE 4	SmallMolecule4	SmallMolecule5	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	Complex1	Protein3	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule3	Protein3	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	SmallMolecule3	Complex2	
+BiochemicalReaction3	cAMP induces dissociation of inactive PKA tetramers	Complex1	Complex2	
+BiochemicalReaction4	PKA phosphorylates DARPP-32 on Thr34	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	PKA phosphorylates DARPP-32 on Thr34	Protein25	SmallMolecule2	
+BiochemicalReaction4	PKA phosphorylates DARPP-32 on Thr34	Protein25	Protein30	
+BiochemicalReaction4	PKA phosphorylates DARPP-32 on Thr34	SmallMolecule1	Protein30	
+BiochemicalReaction5	DARPP-32 phosphorylated on T34 binds to PP1, inhibiting its function	Protein35	Complex3	
+BiochemicalReaction5	DARPP-32 phosphorylated on T34 binds to PP1, inhibiting its function	Protein30	Complex3	
+BiochemicalReaction6	CDK5 phosphorylates DARPP-32 on Thr75	Protein36	Protein7	
+BiochemicalReaction7	DARPP-32 phosphorylated on Thr75 binds to PKA, inhibiting its function	Protein4	Complex5	
+BiochemicalReaction7	DARPP-32 phosphorylated on Thr75 binds to PKA, inhibiting its function	Protein7	Complex5	
+BiochemicalReaction8	DARPP-32 is dephosphorylated on Thr75 by PP2A	Protein7	SmallMolecule8	
+BiochemicalReaction8	DARPP-32 is dephosphorylated on Thr75 by PP2A	SmallMolecule4	SmallMolecule8	
+BiochemicalReaction8	DARPP-32 is dephosphorylated on Thr75 by PP2A	SmallMolecule4	Protein36	
+BiochemicalReaction8	DARPP-32 is dephosphorylated on Thr75 by PP2A	Protein7	Protein36	
+BiochemicalReaction9	Inactive catalytic PP2B is activated by the binding of calmodulin	Complex7	Complex9	
+BiochemicalReaction9	Inactive catalytic PP2B is activated by the binding of calmodulin	Complex8	Complex9	

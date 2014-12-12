@@ -1,0 +1,14 @@
+BiochemicalReaction1	Activated TLR3/4:TRIF recruits TRAF6	Protein1	Complex8	
+BiochemicalReaction1	Activated TLR3/4:TRIF recruits TRAF6	Complex1	Complex8	
+BiochemicalReaction2	Auto ubiquitination of TRAF6 bound to the activated TLR complex	Protein10	Complex10	
+BiochemicalReaction2	Auto ubiquitination of TRAF6 bound to the activated TLR complex	Complex8	Complex10	
+BiochemicalReaction3	Activated TRAF6 synthesizes unanchored polyubiquitin chains	Protein10	PhysicalEntity2	
+BiochemicalReaction4	Activated TLR:TRIF:K63-pUb-TRAF6 recruits TAK1complex	PhysicalEntity2	Complex12	
+BiochemicalReaction4	Activated TLR:TRIF:K63-pUb-TRAF6 recruits TAK1complex	Complex11	Complex12	
+BiochemicalReaction4	Activated TLR:TRIF:K63-pUb-TRAF6 recruits TAK1complex	Complex10	Complex12	
+BiochemicalReaction5	Activation of TAK1 complex bound to activated TLR	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction5	Activation of TAK1 complex bound to activated TLR	Complex12	SmallMolecule3	
+BiochemicalReaction5	Activation of TAK1 complex bound to activated TLR	Complex12	Complex13	
+BiochemicalReaction5	Activation of TAK1 complex bound to activated TLR	SmallMolecule2	Complex13	
+BiochemicalReaction6	Phosphorylated TAK1 leaves activated TLR receptor complex	Complex13	Complex14	
+BiochemicalReaction6	Phosphorylated TAK1 leaves activated TLR receptor complex	Complex13	Complex1	

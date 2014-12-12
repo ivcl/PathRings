@@ -1,0 +1,123 @@
+BiochemicalReaction1	Translocation of Vpr to the mitochondria	Protein1	Protein2	
+BiochemicalReaction10	Association of Ran-GTP with importin-beta	Complex16	Complex17	
+BiochemicalReaction10	Association of Ran-GTP with importin-beta	Complex13	Complex17	
+BiochemicalReaction11	Disassembly of the Rev-importin beta-B23:Ran-GTP complex	Complex17	PhysicalEntity4	
+BiochemicalReaction11	Disassembly of the Rev-importin beta-B23:Ran-GTP complex	Complex17	Complex18	
+BiochemicalReaction11	Disassembly of the Rev-importin beta-B23:Ran-GTP complex	Complex17	Protein55	
+BiochemicalReaction12	Rev molecules assemble onto the RRE RNA sequence through their ARM sequence	Protein59	Complex19	
+BiochemicalReaction12	Rev molecules assemble onto the RRE RNA sequence through their ARM sequence	Rna1	Complex19	
+BiochemicalReaction13	Multimerization of Rev	Complex19	Complex20	
+BiochemicalReaction13	Multimerization of Rev	PhysicalEntity4	Complex20	
+BiochemicalReaction14	Rev multimer-bound HIV mRNA associates with Crm1	Protein60	Complex21	
+BiochemicalReaction14	Rev multimer-bound HIV mRNA associates with Crm1	Complex20	Complex21	
+BiochemicalReaction15	Rev multimer-bound  HIV mRNA:CRM1 complex associates with Ran:GTP	Complex16	Complex22	
+BiochemicalReaction15	Rev multimer-bound  HIV mRNA:CRM1 complex associates with Ran:GTP	Complex21	Complex22	
+BiochemicalReaction16	Rev multimer-bound HIV mRNA:Crm1:Ran:GTP complex associates with the NPC	Complex2	Complex23	
+BiochemicalReaction16	Rev multimer-bound HIV mRNA:Crm1:Ran:GTP complex associates with the NPC	Complex22	Complex23	
+BiochemicalReaction17	Translocation of nuclear RNA transport complex to cytoplasm	Complex23	Complex24	
+BiochemicalReaction17	Translocation of nuclear RNA transport complex to cytoplasm	Complex23	Complex2	
+BiochemicalReaction18	Association of RanBP1 with Ran-GTP:CRM1:Rev:mRNA complex	Complex24	Complex29	
+BiochemicalReaction18	Association of RanBP1 with Ran-GTP:CRM1:Rev:mRNA complex	Protein63	Complex29	
+BiochemicalReaction19	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex29	Protein61	
+BiochemicalReaction19	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex29	Protein63	
+BiochemicalReaction19	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex29	Protein47	
+BiochemicalReaction19	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex29	PhysicalEntity3	
+BiochemicalReaction19	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex29	Rna3	
+BiochemicalReaction19	Release of the HIV mRNA and Crm1 from Rev in the cytoplasm	Complex29	Complex28	
+BiochemicalReaction2	Association of Vpr with ANT1	Protein3	Complex1	
+BiochemicalReaction2	Association of Vpr with ANT1	Protein2	Complex1	
+BiochemicalReaction20	Hydrolysis of Ran:GTP to Ran:GDP	Complex28	Complex30	
+BiochemicalReaction20	Hydrolysis of Ran:GTP to Ran:GDP	Complex28	SmallMolecule5	
+BiochemicalReaction21	Association of APOBEC3G with Gag	Complex5	Complex31	
+BiochemicalReaction21	Association of APOBEC3G with Gag	Protein65	Complex31	
+BiochemicalReaction22	Association of APOBEC3G with single-stranded region of forming HIV-1 minus strand	Complex32	Complex35	
+BiochemicalReaction22	Association of APOBEC3G with single-stranded region of forming HIV-1 minus strand	Protein65	Complex35	
+BiochemicalReaction23	Deamination of C residues during synthesis of HIV-1 reverse transcript minus-strand	Complex35	Complex36	
+BiochemicalReaction23	Deamination of C residues during synthesis of HIV-1 reverse transcript minus-strand	SmallMolecule6	Complex36	
+BiochemicalReaction23	Deamination of C residues during synthesis of HIV-1 reverse transcript minus-strand	SmallMolecule6	SmallMolecule7	
+BiochemicalReaction23	Deamination of C residues during synthesis of HIV-1 reverse transcript minus-strand	Complex35	SmallMolecule7	
+BiochemicalReaction24	Association of Vif with APOBEC3G	Protein48	Complex39	
+BiochemicalReaction24	Association of Vif with APOBEC3G	Protein65	Complex39	
+BiochemicalReaction25	Association of APOBEC3G:Vif with the Cul5-SCF complex	Complex40	Complex41	
+BiochemicalReaction25	Association of APOBEC3G:Vif with the Cul5-SCF complex	Complex39	Complex41	
+BiochemicalReaction26	Multi-ubiquitination of APOBEC3G	Complex41	Complex42	
+BiochemicalReaction26	Multi-ubiquitination of APOBEC3G	Protein74	Complex42	
+BiochemicalReaction27	Proteosome-mediated degradation of APOBEC3G	Complex42	Complex43	
+BiochemicalReaction27	Proteosome-mediated degradation of APOBEC3G	Complex42	Protein74	
+BiochemicalReaction28	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Complex45	Complex46	
+BiochemicalReaction28	Association of Tat with P-TEFb(Cyclin T1:Cdk9)	Protein135	Complex46	
+BiochemicalReaction29	Nef mediated activation of the T-cell receptor	Protein136	Complex47	
+BiochemicalReaction29	Nef mediated activation of the T-cell receptor	Protein137	Complex47	
+BiochemicalReaction29	Nef mediated activation of the T-cell receptor	Protein138	Complex47	
+BiochemicalReaction29	Nef mediated activation of the T-cell receptor	PhysicalEntity8	Complex47	
+BiochemicalReaction3	Vpr binds nucleoporins	Complex2	Complex8	
+BiochemicalReaction3	Vpr binds nucleoporins	Complex5	Complex8	
+BiochemicalReaction30	Nef Binds and activates the Src-family tyrosine kinase Hck	Protein136	Complex48	
+BiochemicalReaction30	Nef Binds and activates the Src-family tyrosine kinase Hck	Protein139	Complex48	
+BiochemicalReaction31	Nef Binds and activates the Src-family tyrosine kinase Fyn	Protein136	Complex49	
+BiochemicalReaction31	Nef Binds and activates the Src-family tyrosine kinase Fyn	Protein140	Complex49	
+BiochemicalReaction32	Nef Binds and activates the Src-family tyrosine kinase Lck	Protein136	Complex50	
+BiochemicalReaction32	Nef Binds and activates the Src-family tyrosine kinase Lck	Protein141	Complex50	
+BiochemicalReaction33	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein136	Complex51	
+BiochemicalReaction33	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein142	Complex51	
+BiochemicalReaction33	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein143	Complex51	
+BiochemicalReaction33	Nef binds a ternary complex comprising DOCK2 guanine nucleotide exchange factor for small Rho-family GTPase Rac, its cofactor ELMO1, and Rac, and activates Rac through this interaction	Protein144	Complex51	
+BiochemicalReaction34	Formation of Nef CD28 cytoplasmic tail complex	Protein145	Complex52	
+BiochemicalReaction34	Formation of Nef CD28 cytoplasmic tail complex	Protein136	Complex52	
+BiochemicalReaction35	Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex	Complex52	Complex53	
+BiochemicalReaction35	Formation of Nef:Cd28:Clathrin-coated Pit Adapter Protein complex	Protein146	Complex53	
+BiochemicalReaction36	Internalization of Nef:CD28:Clathrin-Coated Pit Adapter Protein Complex	Complex53	Complex54	
+BiochemicalReaction37	Formation of MHC I:Nef Complex	Protein136	Complex56	
+BiochemicalReaction37	Formation of MHC I:Nef Complex	Complex55	Complex56	
+BiochemicalReaction38	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Protein151	Complex58	
+BiochemicalReaction38	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex57	Complex58	
+BiochemicalReaction38	Formation of MHC I:Nef:AP-1:PACS-1 Complex	Complex56	Complex58	
+BiochemicalReaction39	Transport of MHC I:Nef:AP-1:PACS-1 Complex	Complex58	Complex59	
+BiochemicalReaction4	Interaction of Vpr with importin alpha	Complex5	Complex9	
+BiochemicalReaction4	Interaction of Vpr with importin alpha	Protein52	Complex9	
+BiochemicalReaction40	Degradation of MHC I Complex	Complex59	Protein151	
+BiochemicalReaction40	Degradation of MHC I Complex	Complex59	Protein136	
+BiochemicalReaction40	Degradation of MHC I Complex	Complex59	Complex57	
+BiochemicalReaction41	Nef mediated disruption of CD4:Lck Complex	Protein136	Protein141	
+BiochemicalReaction41	Nef mediated disruption of CD4:Lck Complex	Complex61	Protein141	
+BiochemicalReaction41	Nef mediated disruption of CD4:Lck Complex	Complex61	Complex62	
+BiochemicalReaction41	Nef mediated disruption of CD4:Lck Complex	Protein136	Complex62	
+BiochemicalReaction42	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex63	Complex64	
+BiochemicalReaction42	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Protein169	Complex64	
+BiochemicalReaction42	Formation of CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex62	Complex64	
+BiochemicalReaction43	Internalization of the CD4:Nef:AP-2 Complex:v-ATPase Complex	Complex64	Complex65	
+BiochemicalReaction44	Formation of a Nef:ARF1:CD4 complex	Protein136	Complex66	
+BiochemicalReaction44	Formation of a Nef:ARF1:CD4 complex	Protein163	Complex66	
+BiochemicalReaction44	Formation of a Nef:ARF1:CD4 complex	Protein172	Complex66	
+BiochemicalReaction45	Degradation of CD4	Complex65	Complex63	
+BiochemicalReaction45	Degradation of CD4	Complex65	Protein136	
+BiochemicalReaction45	Degradation of CD4	Complex65	Protein171	
+BiochemicalReaction46	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex63	Complex68	
+BiochemicalReaction46	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex67	Complex68	
+BiochemicalReaction46	Formation of CD8:Nef:AP-2 Complex:v-ATPase Complex	Protein169	Complex68	
+BiochemicalReaction47	Internalization of the CD8:Nef:AP-2 Complex:v-ATPase Complex	Complex68	Complex69	
+BiochemicalReaction48	Degradation of CD8	Complex69	Complex63	
+BiochemicalReaction48	Degradation of CD8	Complex69	Protein136	
+BiochemicalReaction48	Degradation of CD8	Complex69	Protein171	
+BiochemicalReaction49	Association of Vpu with CD4	Protein175	Complex70	
+BiochemicalReaction49	Association of Vpu with CD4	Protein176	Complex70	
+BiochemicalReaction5	Association of multimerized Rev with beta-importin	Protein53	Complex10	
+BiochemicalReaction5	Association of multimerized Rev with beta-importin	PhysicalEntity3	Complex10	
+BiochemicalReaction50	Vpu:CD4 associates with beta-TrCP	Protein177	Complex71	
+BiochemicalReaction50	Vpu:CD4 associates with beta-TrCP	Complex70	Complex71	
+BiochemicalReaction51	The Vpu:CD4:beta-TrCP complex recruits SKP1	Complex71	Complex72	
+BiochemicalReaction51	The Vpu:CD4:beta-TrCP complex recruits SKP1	Protein178	Complex72	
+BiochemicalReaction52	Ubiquitination of CD4 by Vpu:CD4:beta-TrCP:SKP1 complex	Complex72	Complex73	
+BiochemicalReaction52	Ubiquitination of CD4 by Vpu:CD4:beta-TrCP:SKP1 complex	Protein74	Complex73	
+BiochemicalReaction53	Degradation of ubiquitinated CD4	Complex73	Complex74	
+BiochemicalReaction53	Degradation of ubiquitinated CD4	Complex73	Protein74	
+BiochemicalReaction6	Rev associates with B23	Protein54	Complex11	
+BiochemicalReaction6	Rev associates with B23	Complex10	Complex11	
+BiochemicalReaction7	Rev:importin beta:B23 recruited to the nuclear pore	Complex11	Complex12	
+BiochemicalReaction7	Rev:importin beta:B23 recruited to the nuclear pore	Complex2	Complex12	
+BiochemicalReaction8	Translocation of Rev:importin-beta:B23 to the nucleus	Complex12	Complex13	
+BiochemicalReaction8	Translocation of Rev:importin-beta:B23 to the nucleus	Complex12	Complex2	
+BiochemicalReaction9	Conversion of Ran-GDP to Ran-GTP	Complex15	Complex16	
+BiochemicalReaction9	Conversion of Ran-GDP to Ran-GTP	SmallMolecule2	Complex16	
+BiochemicalReaction9	Conversion of Ran-GDP to Ran-GTP	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction9	Conversion of Ran-GDP to Ran-GTP	Complex15	SmallMolecule1	

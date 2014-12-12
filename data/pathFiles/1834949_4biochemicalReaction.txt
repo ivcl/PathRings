@@ -1,0 +1,138 @@
+BiochemicalReaction1	ZBP1 binds cytosolic DNA	PhysicalEntity1	Complex1	
+BiochemicalReaction1	ZBP1 binds cytosolic DNA	Protein1	Complex1	
+BiochemicalReaction10	Released NFkB complex is transported to nucleus	Complex18	Complex19	
+BiochemicalReaction11	cGAS binds cytosolic DNA	Protein43	Complex26	
+BiochemicalReaction11	cGAS binds cytosolic DNA	PhysicalEntity7	Complex26	
+BiochemicalReaction12	cGAS produces cyclic GMP-AMP	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction12	cGAS produces cyclic GMP-AMP	SmallMolecule1	SmallMolecule8	
+BiochemicalReaction12	cGAS produces cyclic GMP-AMP	SmallMolecule1	SmallMolecule9	
+BiochemicalReaction12	cGAS produces cyclic GMP-AMP	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction13	IFI16 binds cytosolic dsDNA	PhysicalEntity2	Complex27	
+BiochemicalReaction13	IFI16 binds cytosolic dsDNA	Protein44	Complex27	
+BiochemicalReaction14	DDX41 binds dsDNA or c-di-NMP	PhysicalEntity9	Complex28	
+BiochemicalReaction14	DDX41 binds dsDNA or c-di-NMP	Protein45	Complex28	
+BiochemicalReaction15	STING dimerization	Protein47	Complex29	
+BiochemicalReaction16	STING binds c-di-GMP	Complex29	Complex30	
+BiochemicalReaction16	STING binds c-di-GMP	SmallMolecule10	Complex30	
+BiochemicalReaction17	STING binds cyclic GMP-AMP	Complex29	Complex31	
+BiochemicalReaction17	STING binds cyclic GMP-AMP	SmallMolecule8	Complex31	
+BiochemicalReaction18	STING recruits TBK1 and IRF3	Protein2	Complex32	
+BiochemicalReaction18	STING recruits TBK1 and IRF3	Complex8	Complex32	
+BiochemicalReaction18	STING recruits TBK1 and IRF3	Protein4	Complex32	
+BiochemicalReaction19	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	Complex32	SmallMolecule2	
+BiochemicalReaction19	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction19	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	SmallMolecule1	Complex7	
+BiochemicalReaction19	TBK1 is phosphorylated within STING:TBK1:IRF3 complex	Complex32	Complex7	
+BiochemicalReaction2	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Complex1	SmallMolecule2	
+BiochemicalReaction2	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Protein2	SmallMolecule2	
+BiochemicalReaction2	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	SmallMolecule1	Complex3	
+BiochemicalReaction2	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Protein2	Complex3	
+BiochemicalReaction2	Recruitment TBK1 to dsDNA:ZBP1 followed by its activation	Complex1	Complex3	
+BiochemicalReaction20	IRF3 is phosphorylated by TBK1	Complex7	SmallMolecule2	
+BiochemicalReaction20	IRF3 is phosphorylated by TBK1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction20	IRF3 is phosphorylated by TBK1	SmallMolecule1	Complex37	
+BiochemicalReaction20	IRF3 is phosphorylated by TBK1	Complex7	Complex37	
+BiochemicalReaction20	IRF3 is phosphorylated by TBK1	SmallMolecule1	Protein5	
+BiochemicalReaction20	IRF3 is phosphorylated by TBK1	Complex7	Protein5	
+BiochemicalReaction21	STING recruits TBK1 and STAT6	Protein2	Complex38	
+BiochemicalReaction21	STING recruits TBK1 and STAT6	Complex8	Complex38	
+BiochemicalReaction21	STING recruits TBK1 and STAT6	Protein53	Complex38	
+BiochemicalReaction22	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	Complex38	SmallMolecule2	
+BiochemicalReaction22	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction22	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	SmallMolecule1	Complex39	
+BiochemicalReaction22	TBK1 is phosphorylated within STING:TBK1:STAT6 complex	Complex38	Complex39	
+BiochemicalReaction23	TBK1 phosphorylates STAT6 at Ser407	Complex39	SmallMolecule2	
+BiochemicalReaction23	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction23	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule1	Protein54	
+BiochemicalReaction23	TBK1 phosphorylates STAT6 at Ser407	Complex39	Protein54	
+BiochemicalReaction23	TBK1 phosphorylates STAT6 at Ser407	SmallMolecule1	Complex37	
+BiochemicalReaction23	TBK1 phosphorylates STAT6 at Ser407	Complex39	Complex37	
+BiochemicalReaction24	p-S407-STAT6 is phosphorylated at Tyr641	Protein54	SmallMolecule2	
+BiochemicalReaction24	p-S407-STAT6 is phosphorylated at Tyr641	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction24	p-S407-STAT6 is phosphorylated at Tyr641	SmallMolecule1	Protein55	
+BiochemicalReaction24	p-S407-STAT6 is phosphorylated at Tyr641	Protein54	Protein55	
+BiochemicalReaction25	p-S407,Y641-STAT6 is dimerized	Protein55	Complex40	
+BiochemicalReaction26	p-S407,Y641-STAT6 dimer migrates to the nucleus	Complex40	Complex41	
+BiochemicalReaction27	RNA polymerase III transcribes microbial dsDNA to dsRNA	PhysicalEntity12	PhysicalEntity14	
+BiochemicalReaction28	LRR FLII-interacting protein 1 binds dsDNA	PhysicalEntity1	Complex47	
+BiochemicalReaction28	LRR FLII-interacting protein 1 binds dsDNA	Complex46	Complex47	
+BiochemicalReaction29	LRR FLII-interacting protein 1 associates with beta-catenin	Protein77	Complex48	
+BiochemicalReaction29	LRR FLII-interacting protein 1 associates with beta-catenin	Complex47	Complex48	
+BiochemicalReaction3	Recruitment of IRF3 to activated ZBP1:TBK1	Protein4	Complex4	
+BiochemicalReaction3	Recruitment of IRF3 to activated ZBP1:TBK1	Complex3	Complex4	
+BiochemicalReaction30	Phosphorylation of beta-catenin at Ser552	Complex48	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of beta-catenin at Ser552	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction30	Phosphorylation of beta-catenin at Ser552	SmallMolecule1	Protein78	
+BiochemicalReaction30	Phosphorylation of beta-catenin at Ser552	Complex48	Protein78	
+BiochemicalReaction30	Phosphorylation of beta-catenin at Ser552	SmallMolecule1	Complex47	
+BiochemicalReaction30	Phosphorylation of beta-catenin at Ser552	Complex48	Complex47	
+BiochemicalReaction31	Beta-catenin migrates to the nucleus	Protein78	Protein79	
+BiochemicalReaction32	Beta-catenin enhances association of IRF3 with CBP/p300 	Complex10	Complex49	
+BiochemicalReaction32	Beta-catenin enhances association of IRF3 with CBP/p300 	Protein80	Complex49	
+BiochemicalReaction32	Beta-catenin enhances association of IRF3 with CBP/p300 	Protein79	Complex49	
+BiochemicalReaction32	Beta-catenin enhances association of IRF3 with CBP/p300 	PhysicalEntity15	Complex49	
+BiochemicalReaction33	DHX36 binds DNA	Protein83	Complex50	
+BiochemicalReaction33	DHX36 binds DNA	PhysicalEntity6	Complex50	
+BiochemicalReaction34	DHX9 binds DNA	Protein42	Complex25	
+BiochemicalReaction34	DHX9 binds DNA	PhysicalEntity6	Complex25	
+BiochemicalReaction35	DHX36 or DHX9 binds MyD88	Protein41	Complex52	
+BiochemicalReaction35	DHX36 or DHX9 binds MyD88	Complex51	Complex52	
+BiochemicalReaction36	Translocation of p-IRF7:p-IRF7 to nucleus	Complex54	Complex55	
+BiochemicalReaction37	DNA-PK binds microbial dsDNA	PhysicalEntity1	Complex35	
+BiochemicalReaction37	DNA-PK binds microbial dsDNA	Complex36	Complex35	
+BiochemicalReaction37	DNA-PK binds microbial dsDNA	Protein52	Complex35	
+BiochemicalReaction38	MRE11 binds cytosolic DNA	Protein49	Complex34	
+BiochemicalReaction38	MRE11 binds cytosolic DNA	PhysicalEntity11	Complex34	
+BiochemicalReaction39	DDX41 ubiquitination by TRIM21	Protein86	Complex56	
+BiochemicalReaction39	DDX41 ubiquitination by TRIM21	Protein46	Complex56	
+BiochemicalReaction39	DDX41 ubiquitination by TRIM21	Protein45	Complex56	
+BiochemicalReaction4	Phosphorylation and release of IRF3 	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation and release of IRF3 	Complex4	SmallMolecule2	
+BiochemicalReaction4	Phosphorylation and release of IRF3 	Complex4	Protein5	
+BiochemicalReaction4	Phosphorylation and release of IRF3 	SmallMolecule1	Protein5	
+BiochemicalReaction4	Phosphorylation and release of IRF3 	Complex4	Complex3	
+BiochemicalReaction4	Phosphorylation and release of IRF3 	SmallMolecule1	Complex3	
+BiochemicalReaction40	STING binds TRIM32 or TRIM56 	Protein47	Complex57	
+BiochemicalReaction40	STING binds TRIM32 or TRIM56 	Protein104	Complex57	
+BiochemicalReaction41	STING ubiquitination by TRIM32 or TRIM56	Protein86	Protein107	
+BiochemicalReaction41	STING ubiquitination by TRIM32 or TRIM56	Complex57	Protein107	
+BiochemicalReaction41	STING ubiquitination by TRIM32 or TRIM56	Complex57	Protein104	
+BiochemicalReaction41	STING ubiquitination by TRIM32 or TRIM56	Protein86	Protein104	
+BiochemicalReaction42	NLRP4 and DTX4 associate with p-S172-TBK1	Protein6	Complex5	
+BiochemicalReaction42	NLRP4 and DTX4 associate with p-S172-TBK1	Protein7	Complex5	
+BiochemicalReaction42	NLRP4 and DTX4 associate with p-S172-TBK1	Complex6	Complex5	
+BiochemicalReaction43	p-S172-TBK1 is ubiquitinated by DTX4	Protein86	Protein6	
+BiochemicalReaction43	p-S172-TBK1 is ubiquitinated by DTX4	Complex5	Protein6	
+BiochemicalReaction43	p-S172-TBK1 is ubiquitinated by DTX4	Complex5	Protein7	
+BiochemicalReaction43	p-S172-TBK1 is ubiquitinated by DTX4	Protein86	Protein7	
+BiochemicalReaction43	p-S172-TBK1 is ubiquitinated by DTX4	Complex5	Complex58	
+BiochemicalReaction43	p-S172-TBK1 is ubiquitinated by DTX4	Protein86	Complex58	
+BiochemicalReaction44	TREX1 binds retroviral-derived DNA	SmallMolecule13	Complex62	
+BiochemicalReaction44	TREX1 binds retroviral-derived DNA	Complex33	Complex62	
+BiochemicalReaction44	TREX1 binds retroviral-derived DNA	Complex61	Complex62	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	Complex62	SmallMolecule15	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	Complex62	SmallMolecule16	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	SmallMolecule14	Complex33	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	Complex62	Complex33	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	SmallMolecule14	SmallMolecule17	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	Complex62	SmallMolecule17	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	SmallMolecule14	SmallMolecule18	
+BiochemicalReaction45	Viral DNA cleavage by TREX1	Complex62	SmallMolecule18	
+BiochemicalReaction5	p-T,4S-IRF3 is dimerized	Protein5	Complex9	
+BiochemicalReaction6	Dimerized phospho-IRF3 migrates to the nucleus	Complex9	Complex10	
+BiochemicalReaction7	ZBP1(DAI) recruits RIP1 and RIP3	Protein10	Complex11	
+BiochemicalReaction7	ZBP1(DAI) recruits RIP1 and RIP3	Complex1	Complex11	
+BiochemicalReaction7	ZBP1(DAI) recruits RIP1 and RIP3	Protein11	Complex11	
+BiochemicalReaction8	RIP1 facilitates IKK complex phosphorylation	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction8	RIP1 facilitates IKK complex phosphorylation	Complex12	SmallMolecule2	
+BiochemicalReaction8	RIP1 facilitates IKK complex phosphorylation	Complex12	Complex13	
+BiochemicalReaction8	RIP1 facilitates IKK complex phosphorylation	SmallMolecule1	Complex13	
+BiochemicalReaction9	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex17	Protein27	
+BiochemicalReaction9	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Protein27	
+BiochemicalReaction9	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction9	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex17	SmallMolecule2	
+BiochemicalReaction9	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	SmallMolecule1	Complex18	
+BiochemicalReaction9	Phospho-IKK Complex phosphorylates IkB within the IkB:NFkB Complex	Complex17	Complex18	

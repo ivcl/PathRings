@@ -1,0 +1,87 @@
+BiochemicalReaction1	Caspase-8 activates BID by cleavage	Protein1	Protein2	
+BiochemicalReaction10	TP53 binds PMAIP1 (NOXA) promoter	Dna1	Complex16	
+BiochemicalReaction10	TP53 binds PMAIP1 (NOXA) promoter	Complex15	Complex16	
+BiochemicalReaction11	Transactivation of PMAIP1 (NOXA) by p53	Dna1	Protein27	
+BiochemicalReaction12	E2F1 binds PMAIP1 (NOXA) promoter	Dna1	Complex18	
+BiochemicalReaction12	E2F1 binds PMAIP1 (NOXA) promoter	Complex17	Complex18	
+BiochemicalReaction13	Transactivation of PMAIP1 (NOXA) by E2F1	Dna1	Protein27	
+BiochemicalReaction14	Translocation of PMAIP1 (NOXA) to mitochondria	Protein27	Protein30	
+BiochemicalReaction15	TP53 binds BBC3 (PUMA) promoter	Dna2	Complex19	
+BiochemicalReaction15	TP53 binds BBC3 (PUMA) promoter	Complex15	Complex19	
+BiochemicalReaction16	Transactivation of BBC3 (PUMA) by p53	Dna2	Protein31	
+BiochemicalReaction17	E2F1 binds BBC3 (PUMA) promoter	Dna2	Complex20	
+BiochemicalReaction17	E2F1 binds BBC3 (PUMA) promoter	Complex17	Complex20	
+BiochemicalReaction18	Transactivation of BBC3 (PUMA) by E2F1	Dna2	Protein31	
+BiochemicalReaction19	Translocation of BBC3 (PUMA) protein to mitochondria	Protein31	Protein32	
+BiochemicalReaction2	Granzyme-B activates BID by cleavage	Protein1	Protein2	
+BiochemicalReaction20	MAPK8 phosphorylates BCL2L11	Complex21	Protein35	
+BiochemicalReaction20	MAPK8 phosphorylates BCL2L11	Complex21	Complex22	
+BiochemicalReaction21	Translocation of BIM to mitochondria	Protein35	Protein37	
+BiochemicalReaction22	Phosphorylation of DLC2 by MAPK8	Complex23	Protein40	
+BiochemicalReaction22	Phosphorylation of DLC2 by MAPK8	Complex23	Complex24	
+BiochemicalReaction23	Translocation of BMF to mitochondria	Protein40	Protein41	
+BiochemicalReaction24	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2	Protein42	Complex25	
+BiochemicalReaction24	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2	Protein25	Complex25	
+BiochemicalReaction25	Sequestration of tBID by BCL-2	Protein25	Complex13	
+BiochemicalReaction25	Sequestration of tBID by BCL-2	Protein8	Complex13	
+BiochemicalReaction26	BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL	Protein43	Complex26	
+BiochemicalReaction26	BH3 only proteins associate with and inactivate anti-apoptotic BCL-XL	Protein44	Complex26	
+BiochemicalReaction27	tBID binds to inactive BAX protein	Protein2	Complex27	
+BiochemicalReaction27	tBID binds to inactive BAX protein	Protein45	Complex27	
+BiochemicalReaction28	tBID activates BAX protein	Complex27	Protein2	
+BiochemicalReaction28	tBID activates BAX protein	Complex27	Protein46	
+BiochemicalReaction29	Translocation of activated BAX to the mitochondria	Protein46	Protein47	
+BiochemicalReaction3	Myristoylation of tBID by NMT1	Protein2	Protein6	
+BiochemicalReaction30	Oligomerization of BAX at the mitochondrial membrane	Protein47	Complex28	
+BiochemicalReaction31	tBID binds to inactive BAK protein	Protein48	Complex29	
+BiochemicalReaction31	tBID binds to inactive BAK protein	Protein8	Complex29	
+BiochemicalReaction32	tBID activates BAK protein	Complex29	Protein49	
+BiochemicalReaction32	tBID activates BAK protein	Complex29	Protein8	
+BiochemicalReaction33	Oligomerization  of BAK at the mitochondrial membrane	Protein49	Complex30	
+BiochemicalReaction34	Release of Cytochrome c from mitochondria	Protein50	Protein51	
+BiochemicalReaction35	Release of SMAC from mitochondria	Protein52	Protein53	
+BiochemicalReaction36	Cytochrome C Binds to Apaf-1	Protein54	Complex31	
+BiochemicalReaction36	Cytochrome C Binds to Apaf-1	Protein51	Complex31	
+BiochemicalReaction37	Cytochrome C:Apaf-1 binds Procaspase-9	Protein55	Complex32	
+BiochemicalReaction37	Cytochrome C:Apaf-1 binds Procaspase-9	Complex31	Complex32	
+BiochemicalReaction37	Cytochrome C:Apaf-1 binds Procaspase-9	SmallMolecule1	Complex32	
+BiochemicalReaction38	Cleavage of Procaspase-9 to Caspase-9	Complex32	SmallMolecule2	
+BiochemicalReaction38	Cleavage of Procaspase-9 to Caspase-9	Complex32	Complex33	
+BiochemicalReaction39	Cleavage of Procaspase-3 by the apoptosome	Protein58	SmallMolecule2	
+BiochemicalReaction39	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction39	Cleavage of Procaspase-3 by the apoptosome	SmallMolecule1	Complex35	
+BiochemicalReaction39	Cleavage of Procaspase-3 by the apoptosome	Protein58	Complex35	
+BiochemicalReaction4	Translocation of tBID to mitochondria	Protein6	Protein8	
+BiochemicalReaction40	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction40	Cleavage of Procaspase-7 by the apoptosome	Protein61	SmallMolecule2	
+BiochemicalReaction40	Cleavage of Procaspase-7 by the apoptosome	Protein61	Complex36	
+BiochemicalReaction40	Cleavage of Procaspase-7 by the apoptosome	SmallMolecule1	Complex36	
+BiochemicalReaction41	SMAC binds XIAP:Caspase-3	Complex37	Complex38	
+BiochemicalReaction41	SMAC binds XIAP:Caspase-3	Protein53	Complex38	
+BiochemicalReaction42	SMAC binds XIAP:Caspase-7	Complex39	Complex40	
+BiochemicalReaction42	SMAC binds XIAP:Caspase-7	Protein53	Complex40	
+BiochemicalReaction43	SMAC binds XIAP:Caspase-9	Protein53	Complex42	
+BiochemicalReaction43	SMAC binds XIAP:Caspase-9	Complex41	Complex42	
+BiochemicalReaction44	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex38	Complex35	
+BiochemicalReaction44	Dissociation of Caspase-3 from SMAC:XIAP:Caspase-3	Complex38	Complex43	
+BiochemicalReaction45	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex40	Complex36	
+BiochemicalReaction45	Dissociation of Caspase-7 from SMAC:XIAP:Caspase-7	Complex40	Complex43	
+BiochemicalReaction46	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex42	Complex34	
+BiochemicalReaction46	Dissociation of Caspase-9 from SMAC:XIAP:Caspase-9	Complex42	Complex43	
+BiochemicalReaction5	AKT phosphorylates BAD	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction5	AKT phosphorylates BAD	Protein9	SmallMolecule2	
+BiochemicalReaction5	AKT phosphorylates BAD	Protein9	Protein10	
+BiochemicalReaction5	AKT phosphorylates BAD	SmallMolecule1	Protein10	
+BiochemicalReaction6	Sequestration of BAD protein by 14-3-3	Complex3	Complex11	
+BiochemicalReaction6	Sequestration of BAD protein by 14-3-3	Protein10	Complex11	
+BiochemicalReaction7	Activation of BAD by calcineurin	Complex11	SmallMolecule4	
+BiochemicalReaction7	Activation of BAD by calcineurin	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction7	Activation of BAD by calcineurin	SmallMolecule3	Complex3	
+BiochemicalReaction7	Activation of BAD by calcineurin	Complex11	Complex3	
+BiochemicalReaction7	Activation of BAD by calcineurin	SmallMolecule3	Protein9	
+BiochemicalReaction7	Activation of BAD by calcineurin	Complex11	Protein9	
+BiochemicalReaction8	Translocation of activated BAD protein to mitochondria	Protein9	Protein24	
+BiochemicalReaction9	BAD displaces tBID from BCL-2 sequestration	Complex13	Complex14	
+BiochemicalReaction9	BAD displaces tBID from BCL-2 sequestration	Protein24	Complex14	
+BiochemicalReaction9	BAD displaces tBID from BCL-2 sequestration	Protein24	Protein8	
+BiochemicalReaction9	BAD displaces tBID from BCL-2 sequestration	Complex13	Protein8	

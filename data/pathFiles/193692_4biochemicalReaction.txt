@@ -1,0 +1,9 @@
+BiochemicalReaction1	alpha-secretase cleaves the p75NTR extracellular domain	Protein1	Protein2	
+BiochemicalReaction1	alpha-secretase cleaves the p75NTR extracellular domain	Protein1	Protein3	
+BiochemicalReaction2	The p75NTR C-terminal fragment enters endosomes	Protein2	Protein5	
+BiochemicalReaction3	gamma-secretase cleaves the p75NTR transmembrane domain	Protein2	Protein6	
+BiochemicalReaction3	gamma-secretase cleaves the p75NTR transmembrane domain	Protein2	Protein7	
+BiochemicalReaction4	p75NTR ICD signals to NF-kB	Complex4	Complex5	
+BiochemicalReaction4	p75NTR ICD signals to NF-kB	Protein16	Complex5	
+BiochemicalReaction4	p75NTR ICD signals to NF-kB	Protein7	Complex5	
+BiochemicalReaction5	Part of the ICD migrates to the nucleus	Protein7	Protein17	

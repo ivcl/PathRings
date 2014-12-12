@@ -1,0 +1,485 @@
+BiochemicalReaction1	vitamin K epoxide -> vitamin K hydroquinone	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction1	vitamin K epoxide -> vitamin K hydroquinone	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction10	Pro-factor IX is transported from the endoplasmic reticulum to the Golgi apparatus	Protein3	Protein21	
+BiochemicalReaction100	Addition of a bifurcating GlcNAc to the N-glycan by MGAT3	SmallMolecule117	PhysicalEntity14	
+BiochemicalReaction100	Addition of a bifurcating GlcNAc to the N-glycan by MGAT3	SmallMolecule114	PhysicalEntity14	
+BiochemicalReaction101	Trimming of mannoses on the alpha1,6 arm by MAN2A1	SmallMolecule115	SmallMolecule111	
+BiochemicalReaction101	Trimming of mannoses on the alpha1,6 arm by MAN2A1	SmallMolecule115	SmallMolecule118	
+BiochemicalReaction102	Addition of a GlcNAc on the alpha 1,4 branch by MGAT2	SmallMolecule118	SmallMolecule120	
+BiochemicalReaction102	Addition of a GlcNAc on the alpha 1,4 branch by MGAT2	SmallMolecule114	SmallMolecule120	
+BiochemicalReaction103	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule117	PhysicalEntity15	
+BiochemicalReaction103	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule121	PhysicalEntity15	
+BiochemicalReaction103	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule121	SmallMolecule122	
+BiochemicalReaction103	Addition of alpha 1,6 fucose to the first GlcNAc of the N-glycan	SmallMolecule117	SmallMolecule122	
+BiochemicalReaction104	Addition of GlcNAc to position 4 by N-acetylglucosaminyltransferase (GnT)-IV	SmallMolecule117	PhysicalEntity16	
+BiochemicalReaction104	Addition of GlcNAc to position 4 by N-acetylglucosaminyltransferase (GnT)-IV	SmallMolecule114	PhysicalEntity16	
+BiochemicalReaction105	Addition of GlcNAc to position 5 by MGAT5	SmallMolecule117	PhysicalEntity17	
+BiochemicalReaction105	Addition of GlcNAc to position 5 by MGAT5	SmallMolecule114	PhysicalEntity17	
+BiochemicalReaction106	Addition of galactose by beta 4-galactosyltransferases	SmallMolecule117	PhysicalEntity18	
+BiochemicalReaction106	Addition of galactose by beta 4-galactosyltransferases	SmallMolecule123	PhysicalEntity18	
+BiochemicalReaction107	ST6GAL1 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule124	PhysicalEntity19	
+BiochemicalReaction107	ST6GAL1 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule117	PhysicalEntity19	
+BiochemicalReaction108	ST8SIA2,3,6 transfer Neu5Ac to terminal Gal of N-glycans	SmallMolecule124	PhysicalEntity19	
+BiochemicalReaction108	ST8SIA2,3,6 transfer Neu5Ac to terminal Gal of N-glycans	SmallMolecule117	PhysicalEntity19	
+BiochemicalReaction109	ST3GAL4 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule124	PhysicalEntity19	
+BiochemicalReaction109	ST3GAL4 transfers Neu5Ac to terminal Gal of N-glycans	SmallMolecule117	PhysicalEntity19	
+BiochemicalReaction11	Pro-factor VII is transported from the endoplasmic reticulum to the Golgi apparatus	Protein6	Protein22	
+BiochemicalReaction110	Addition of GalNAc to mucins to form the Tn antigen	SmallMolecule125	Protein245	
+BiochemicalReaction110	Addition of GalNAc to mucins to form the Tn antigen	Protein226	Protein245	
+BiochemicalReaction110	Addition of GalNAc to mucins to form the Tn antigen	Protein226	SmallMolecule116	
+BiochemicalReaction110	Addition of GalNAc to mucins to form the Tn antigen	SmallMolecule125	SmallMolecule116	
+BiochemicalReaction111	C1GALT1  transfers galactose to the Tn antigen forming Core 1 glycoproteins (T antigens)	Protein245	Protein286	
+BiochemicalReaction111	C1GALT1  transfers galactose to the Tn antigen forming Core 1 glycoproteins (T antigens)	SmallMolecule123	Protein286	
+BiochemicalReaction111	C1GALT1  transfers galactose to the Tn antigen forming Core 1 glycoproteins (T antigens)	SmallMolecule123	SmallMolecule116	
+BiochemicalReaction111	C1GALT1  transfers galactose to the Tn antigen forming Core 1 glycoproteins (T antigens)	Protein245	SmallMolecule116	
+BiochemicalReaction112	Addition of GlcNAc to the T antigen forms a Core 2 glycoprotein	Protein286	SmallMolecule116	
+BiochemicalReaction112	Addition of GlcNAc to the T antigen forms a Core 2 glycoprotein	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction112	Addition of GlcNAc to the T antigen forms a Core 2 glycoprotein	SmallMolecule114	Protein306	
+BiochemicalReaction112	Addition of GlcNAc to the T antigen forms a Core 2 glycoprotein	Protein286	Protein306	
+BiochemicalReaction113	Addition of GlcNAc to the Tn antigen forms a Core 3 glycoprotein	Protein245	Protein331	
+BiochemicalReaction113	Addition of GlcNAc to the Tn antigen forms a Core 3 glycoprotein	SmallMolecule114	Protein331	
+BiochemicalReaction113	Addition of GlcNAc to the Tn antigen forms a Core 3 glycoprotein	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction113	Addition of GlcNAc to the Tn antigen forms a Core 3 glycoprotein	Protein245	SmallMolecule116	
+BiochemicalReaction114	Addition of GlcNAc to Core 3 forms a Core 4 glycoprotein	Protein331	Protein360	
+BiochemicalReaction114	Addition of GlcNAc to Core 3 forms a Core 4 glycoprotein	SmallMolecule114	Protein360	
+BiochemicalReaction114	Addition of GlcNAc to Core 3 forms a Core 4 glycoprotein	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction114	Addition of GlcNAc to Core 3 forms a Core 4 glycoprotein	Protein331	SmallMolecule116	
+BiochemicalReaction115	Addition of GlcNAc to the Tn antigen via an alpha-1,3 linkage forms a Core 5 glycoprotein	Protein245	Protein379	
+BiochemicalReaction115	Addition of GlcNAc to the Tn antigen via an alpha-1,3 linkage forms a Core 5 glycoprotein	SmallMolecule114	Protein379	
+BiochemicalReaction115	Addition of GlcNAc to the Tn antigen via an alpha-1,3 linkage forms a Core 5 glycoprotein	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction115	Addition of GlcNAc to the Tn antigen via an alpha-1,3 linkage forms a Core 5 glycoprotein	Protein245	SmallMolecule116	
+BiochemicalReaction116	Addition of GlcNAc to the Tn antigen via a beta-1,6 linkage forms a Core 6 glycoprotein	Protein245	SmallMolecule116	
+BiochemicalReaction116	Addition of GlcNAc to the Tn antigen via a beta-1,6 linkage forms a Core 6 glycoprotein	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction116	Addition of GlcNAc to the Tn antigen via a beta-1,6 linkage forms a Core 6 glycoprotein	SmallMolecule114	Protein398	
+BiochemicalReaction116	Addition of GlcNAc to the Tn antigen via a beta-1,6 linkage forms a Core 6 glycoprotein	Protein245	Protein398	
+BiochemicalReaction117	Addition of galactose to Core 6 glycoprotein	Protein398	SmallMolecule116	
+BiochemicalReaction117	Addition of galactose to Core 6 glycoprotein	SmallMolecule123	SmallMolecule116	
+BiochemicalReaction117	Addition of galactose to Core 6 glycoprotein	SmallMolecule123	Protein417	
+BiochemicalReaction117	Addition of galactose to Core 6 glycoprotein	Protein398	Protein417	
+BiochemicalReaction118	Addition of GalNAc to the Tn antigen via an alpha-1,6 linkage forms a Core 7 glycoprotein	Protein245	SmallMolecule116	
+BiochemicalReaction118	Addition of GalNAc to the Tn antigen via an alpha-1,6 linkage forms a Core 7 glycoprotein	SmallMolecule125	SmallMolecule116	
+BiochemicalReaction118	Addition of GalNAc to the Tn antigen via an alpha-1,6 linkage forms a Core 7 glycoprotein	SmallMolecule125	Protein437	
+BiochemicalReaction118	Addition of GalNAc to the Tn antigen via an alpha-1,6 linkage forms a Core 7 glycoprotein	Protein245	Protein437	
+BiochemicalReaction119	Addition of galactose to the Tn antigen via an alpha-1,3 linkage forms a Core 8 glycoprotein	Protein245	Protein456	
+BiochemicalReaction119	Addition of galactose to the Tn antigen via an alpha-1,3 linkage forms a Core 8 glycoprotein	SmallMolecule123	Protein456	
+BiochemicalReaction119	Addition of galactose to the Tn antigen via an alpha-1,3 linkage forms a Core 8 glycoprotein	SmallMolecule123	SmallMolecule116	
+BiochemicalReaction119	Addition of galactose to the Tn antigen via an alpha-1,3 linkage forms a Core 8 glycoprotein	Protein245	SmallMolecule116	
+BiochemicalReaction12	Pro-factor X is transported from the endoplasmic reticulum to the Golgi apparatus	Complex2	Complex5	
+BiochemicalReaction120	Sialyltransferase I can add sialic acid to the Tn antigen at the alpha 6 position	Protein245	Protein475	
+BiochemicalReaction120	Sialyltransferase I can add sialic acid to the Tn antigen at the alpha 6 position	SmallMolecule126	Protein475	
+BiochemicalReaction120	Sialyltransferase I can add sialic acid to the Tn antigen at the alpha 6 position	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction120	Sialyltransferase I can add sialic acid to the Tn antigen at the alpha 6 position	Protein245	SmallMolecule127	
+BiochemicalReaction121	Sialyltransferase I can add sialic acid to the T antigen at the alpha 6 position	Protein286	Protein494	
+BiochemicalReaction121	Sialyltransferase I can add sialic acid to the T antigen at the alpha 6 position	SmallMolecule126	Protein494	
+BiochemicalReaction121	Sialyltransferase I can add sialic acid to the T antigen at the alpha 6 position	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction121	Sialyltransferase I can add sialic acid to the T antigen at the alpha 6 position	Protein286	SmallMolecule127	
+BiochemicalReaction122	GalNAc alpha-2,6-sialyltransferase II can add a sialic acid to the T antigen at the alpha 6 position	Protein286	Protein494	
+BiochemicalReaction122	GalNAc alpha-2,6-sialyltransferase II can add a sialic acid to the T antigen at the alpha 6 position	SmallMolecule126	Protein494	
+BiochemicalReaction122	GalNAc alpha-2,6-sialyltransferase II can add a sialic acid to the T antigen at the alpha 6 position	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction122	GalNAc alpha-2,6-sialyltransferase II can add a sialic acid to the T antigen at the alpha 6 position	Protein286	SmallMolecule127	
+BiochemicalReaction123	ST3GAL1-4 can add a sialic acid to the T antigen at the alpha 3 position	Protein286	Protein514	
+BiochemicalReaction123	ST3GAL1-4 can add a sialic acid to the T antigen at the alpha 3 position	SmallMolecule126	Protein514	
+BiochemicalReaction123	ST3GAL1-4 can add a sialic acid to the T antigen at the alpha 3 position	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction123	ST3GAL1-4 can add a sialic acid to the T antigen at the alpha 3 position	Protein286	SmallMolecule127	
+BiochemicalReaction124	ST6GALNAC3/4 can add a sialic acid to the sialyl T antigen to form the disialyl T antigen	Protein514	SmallMolecule127	
+BiochemicalReaction124	ST6GALNAC3/4 can add a sialic acid to the sialyl T antigen to form the disialyl T antigen	SmallMolecule126	SmallMolecule127	
+BiochemicalReaction124	ST6GALNAC3/4 can add a sialic acid to the sialyl T antigen to form the disialyl T antigen	SmallMolecule126	Protein537	
+BiochemicalReaction124	ST6GALNAC3/4 can add a sialic acid to the sialyl T antigen to form the disialyl T antigen	Protein514	Protein537	
+BiochemicalReaction125	Proteolytic Processing of SUMO1	Protein559	Protein560	
+BiochemicalReaction126	Proteolytic Processing of SUMO2	Protein565	Protein566	
+BiochemicalReaction127	Proteolytic Processing of SUMO3	Protein567	Protein568	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	Protein560	Complex75	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	Complex74	Complex75	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	SmallMolecule128	Complex75	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	SmallMolecule128	SmallMolecule129	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	Complex74	SmallMolecule129	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	Protein560	SmallMolecule129	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	SmallMolecule128	SmallMolecule130	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	Complex74	SmallMolecule130	
+BiochemicalReaction128	Conjugation of SUMO1 to UBA2:SAE1	Protein560	SmallMolecule130	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	Complex74	Complex77	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	SmallMolecule128	Complex77	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	Protein566	Complex77	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	Protein566	SmallMolecule129	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	SmallMolecule128	SmallMolecule129	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	Complex74	SmallMolecule129	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	Protein566	SmallMolecule130	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	SmallMolecule128	SmallMolecule130	
+BiochemicalReaction129	Conjugation of SUMO2 to UBA2:SAE1	Complex74	SmallMolecule130	
+BiochemicalReaction13	Pro-prothrombin is transported from the endoplasmic reticulum to the Golgi apparatus	Protein11	Protein25	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	Complex74	Complex79	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	Protein568	Complex79	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	SmallMolecule128	Complex79	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	SmallMolecule128	SmallMolecule129	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	Protein568	SmallMolecule129	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	Complex74	SmallMolecule129	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	SmallMolecule128	SmallMolecule130	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	Protein568	SmallMolecule130	
+BiochemicalReaction130	Conjugation of SUMO3 to UBA2:SAE1	Complex74	SmallMolecule130	
+BiochemicalReaction131	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Complex75	Complex74	
+BiochemicalReaction131	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Protein577	Complex74	
+BiochemicalReaction131	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Protein577	Complex81	
+BiochemicalReaction131	Transfer of SUMO1 from E1 to UBE2I (UBC9)	Complex75	Complex81	
+BiochemicalReaction132	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Protein577	Complex74	
+BiochemicalReaction132	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Complex77	Complex74	
+BiochemicalReaction132	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Complex77	Complex82	
+BiochemicalReaction132	Transfer of SUMO2 from E1 to UBE2I (UBC9)	Protein577	Complex82	
+BiochemicalReaction133	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Protein577	Complex83	
+BiochemicalReaction133	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Complex79	Complex83	
+BiochemicalReaction133	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Complex79	Complex74	
+BiochemicalReaction133	Transfer of SUMO3 from E1 to UBE2I (UBC9)	Protein577	Complex74	
+BiochemicalReaction14	Pro-protein C is transported from the endoplasmic reticulum to the Golgi apparatus	Complex4	Complex6	
+BiochemicalReaction15	Pro-protein S is transported from the endoplasmic reticulum to the Golgi apparatus	Protein16	Protein28	
+BiochemicalReaction16	Pro-protein Z is transported from the endoplasmic reticulum to the Golgi apparatus	Protein18	Protein29	
+BiochemicalReaction17	Pro-GAS6 is transported from the endoplasmic reticulum to the Golgi apparatus	Protein20	Protein30	
+BiochemicalReaction18	pro-factor IX -> factor IX + factor IX propeptide	Protein21	Protein31	
+BiochemicalReaction18	pro-factor IX -> factor IX + factor IX propeptide	Protein21	Protein32	
+BiochemicalReaction19	pro-factor VII -> factor VII + factor VII propeptide	Protein22	Protein34	
+BiochemicalReaction19	pro-factor VII -> factor VII + factor VII propeptide	Protein22	Protein35	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	Protein2	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule5	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule4	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	Protein2	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule3	Protein3	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	Protein2	SmallMolecule6	
+BiochemicalReaction2	pro-factor IX, uncarboxylated + 12 CO2 + 12 O2 + 12 vitamin K hydroquinone -> pro-factor IX + 12 H2O + 12 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction20	pro-factor X -> factor X + factor X propeptide	Complex5	Complex7	
+BiochemicalReaction20	pro-factor X -> factor X + factor X propeptide	Complex5	Protein37	
+BiochemicalReaction21	pro-prothrombin -> prothrombin + prothrombin propeptide	Protein25	Protein38	
+BiochemicalReaction21	pro-prothrombin -> prothrombin + prothrombin propeptide	Protein25	Protein39	
+BiochemicalReaction22	pro-protein C -> protein C + protein C propeptide	Complex6	Protein40	
+BiochemicalReaction22	pro-protein C -> protein C + protein C propeptide	Complex6	Complex8	
+BiochemicalReaction23	pro-protein S -> protein S + protein S propeptide	Protein28	Protein42	
+BiochemicalReaction23	pro-protein S -> protein S + protein S propeptide	Protein28	Protein43	
+BiochemicalReaction24	pro-protein Z -> protein Z + protein Z propeptide	Protein29	Protein44	
+BiochemicalReaction24	pro-protein Z -> protein Z + protein Z propeptide	Protein29	Protein45	
+BiochemicalReaction25	pro-GAS6 -> GAS6 + GAS6 propeptide	Protein30	Protein46	
+BiochemicalReaction25	pro-GAS6 -> GAS6 + GAS6 propeptide	Protein30	Protein47	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule7	SmallMolecule9	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	Protein48	SmallMolecule9	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	Protein48	SmallMolecule10	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule8	Protein51	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	Protein48	Protein51	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule7	Protein51	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule8	SmallMolecule11	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	Protein48	SmallMolecule11	
+BiochemicalReaction26	EIF5A + spermidine <=> EIF5A(Dhp) + 1,3-diaminopropane	SmallMolecule7	SmallMolecule11	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	SmallMolecule9	SmallMolecule7	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	SmallMolecule10	SmallMolecule7	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	Protein51	SmallMolecule7	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	Protein51	Protein48	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	SmallMolecule10	Protein48	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	SmallMolecule9	Protein48	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	Protein51	SmallMolecule8	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	SmallMolecule10	SmallMolecule8	
+BiochemicalReaction27	EIF5A(Dhp) + 1,3-diaminopropane <=> EIF5A + spermidine	SmallMolecule9	SmallMolecule8	
+BiochemicalReaction28	EIF5A(Dhp) + O2 => EIF5A(Hyp)	Protein51	Protein55	
+BiochemicalReaction28	EIF5A(Dhp) + O2 => EIF5A(Hyp)	SmallMolecule12	Protein55	
+BiochemicalReaction29	SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases	PhysicalEntity1	SmallMolecule15	
+BiochemicalReaction29	SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases	SmallMolecule14	SmallMolecule15	
+BiochemicalReaction29	SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases	SmallMolecule14	SmallMolecule16	
+BiochemicalReaction29	SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases	PhysicalEntity1	SmallMolecule16	
+BiochemicalReaction29	SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases	SmallMolecule14	PhysicalEntity2	
+BiochemicalReaction29	SUMF1 mediates the oxidation of cysteine to formylglycine, producing active arylsulfatases	PhysicalEntity1	PhysicalEntity2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	Protein5	SmallMolecule2	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	Protein5	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	Protein6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	Protein5	SmallMolecule6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction3	pro-factor VII, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-factor VII + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction30	SUMF2 inhibits SUMF1-mediated activation of arylsulfatases	Protein83	Complex13	
+BiochemicalReaction30	SUMF2 inhibits SUMF1-mediated activation of arylsulfatases	Protein82	Complex13	
+BiochemicalReaction31	dolichyl phosphate + GDP-alpha-D-mannose -> dolichyl phosphate D-mannose	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction31	dolichyl phosphate + GDP-alpha-D-mannose -> dolichyl phosphate D-mannose	SmallMolecule19	SmallMolecule20	
+BiochemicalReaction32	Reorientation of dolichyl phosphate D-mannose in the endoplasmic reticulum membrane	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction33	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction33	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction33	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction33	phosphatidylinositol + UDP-N-acetyl-D-glucosamine -> N-acetylglucosaminyl-PI + UDP	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction34	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule25	SmallMolecule27	
+BiochemicalReaction34	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule26	SmallMolecule27	
+BiochemicalReaction34	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule26	SmallMolecule28	
+BiochemicalReaction34	N-acetylglucosaminyl-PI + H2O -> glucosaminyl-PI + acetate	SmallMolecule25	SmallMolecule28	
+BiochemicalReaction35	Reorientation of glucosaminyl-acyl-PI in the endoplasmic reticulum membrane	SmallMolecule29	SmallMolecule29	
+BiochemicalReaction36	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule30	SmallMolecule31	
+BiochemicalReaction36	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule28	SmallMolecule31	
+BiochemicalReaction36	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule28	SmallMolecule29	
+BiochemicalReaction36	glucosaminyl-PI + fatty acyl-CoA -> glucosaminyl-acyl-PI + CoA-SH	SmallMolecule30	SmallMolecule29	
+BiochemicalReaction37	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule29	SmallMolecule32	
+BiochemicalReaction37	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule20	SmallMolecule32	
+BiochemicalReaction37	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule20	SmallMolecule33	
+BiochemicalReaction37	glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose(al1-4)glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule29	SmallMolecule33	
+BiochemicalReaction38	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule34	PhysicalEntity3	
+BiochemicalReaction38	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule33	PhysicalEntity3	
+BiochemicalReaction38	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule33	SmallMolecule35	
+BiochemicalReaction38	mannose(a1-4)glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose(al1-4)glucosaminyl-acyl-PI + diacylglycerol	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction39	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	PhysicalEntity3	SmallMolecule32	
+BiochemicalReaction39	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule20	SmallMolecule32	
+BiochemicalReaction39	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule20	SmallMolecule36	
+BiochemicalReaction39	(ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	PhysicalEntity3	SmallMolecule36	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	Complex1	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	Complex1	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	Complex2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	Complex2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	Complex1	Complex2	
+BiochemicalReaction4	pro-factor X, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-factor X + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	Complex2	
+BiochemicalReaction40	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule20	SmallMolecule32	
+BiochemicalReaction40	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule36	SmallMolecule32	
+BiochemicalReaction40	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule36	SmallMolecule37	
+BiochemicalReaction40	mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate D-mannose -> mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + dolichol phosphate	SmallMolecule20	SmallMolecule37	
+BiochemicalReaction41	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule34	SmallMolecule38	
+BiochemicalReaction41	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule37	SmallMolecule38	
+BiochemicalReaction41	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule37	SmallMolecule35	
+BiochemicalReaction41	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI + phosphatidylethanolamine -> (ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI (acyl-GPI) + diacylglycerol	SmallMolecule34	SmallMolecule35	
+BiochemicalReaction42	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI -> mannose (a1) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	SmallMolecule37	PhysicalEntity4	
+BiochemicalReaction42	mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI -> mannose (a1) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	SmallMolecule20	PhysicalEntity4	
+BiochemicalReaction43	(ethanolamineP) mannose (a1-2) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI -> (ethanolamineP) mannose (a1-2) (ethanolamineP) mannose (a1-6) (ethanolamineP) mannose (a1-4) glucosaminyl-acyl-PI	SmallMolecule38	SmallMolecule39	
+BiochemicalReaction44	uPAR precursor + acyl-GPI -> uPAR-acyl-GPI + uPAR propeptide	Protein103	Protein104	
+BiochemicalReaction44	uPAR precursor + acyl-GPI -> uPAR-acyl-GPI + uPAR propeptide	SmallMolecule38	Protein104	
+BiochemicalReaction44	uPAR precursor + acyl-GPI -> uPAR-acyl-GPI + uPAR propeptide	SmallMolecule38	Protein105	
+BiochemicalReaction44	uPAR precursor + acyl-GPI -> uPAR-acyl-GPI + uPAR propeptide	Protein103	Protein105	
+BiochemicalReaction45	uPAR-acyl-GPI + H2O -> uPAR + long-chain fatty acid	Protein104	Protein111	
+BiochemicalReaction45	uPAR-acyl-GPI + H2O -> uPAR + long-chain fatty acid	SmallMolecule6	Protein111	
+BiochemicalReaction45	uPAR-acyl-GPI + H2O -> uPAR + long-chain fatty acid	SmallMolecule6	SmallMolecule40	
+BiochemicalReaction45	uPAR-acyl-GPI + H2O -> uPAR + long-chain fatty acid	Protein104	SmallMolecule40	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule41	SmallMolecule43	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule42	SmallMolecule43	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule42	SmallMolecule44	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule41	SmallMolecule44	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule42	SmallMolecule45	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule41	SmallMolecule45	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule42	SmallMolecule46	
+BiochemicalReaction46	MVD decarboxylates MVA5PP to IPPP	SmallMolecule41	SmallMolecule46	
+BiochemicalReaction47	DOLK phosphorylates DCHOL to DOLP	SmallMolecule47	SmallMolecule49	
+BiochemicalReaction47	DOLK phosphorylates DCHOL to DOLP	SmallMolecule48	SmallMolecule49	
+BiochemicalReaction47	DOLK phosphorylates DCHOL to DOLP	SmallMolecule48	SmallMolecule18	
+BiochemicalReaction47	DOLK phosphorylates DCHOL to DOLP	SmallMolecule47	SmallMolecule18	
+BiochemicalReaction48	DOLPP1 dephosphorylates DOLDP to DOLP	SmallMolecule50	SmallMolecule43	
+BiochemicalReaction48	DOLPP1 dephosphorylates DOLDP to DOLP	SmallMolecule26	SmallMolecule43	
+BiochemicalReaction48	DOLPP1 dephosphorylates DOLDP to DOLP	SmallMolecule26	SmallMolecule18	
+BiochemicalReaction48	DOLPP1 dephosphorylates DOLDP to DOLP	SmallMolecule50	SmallMolecule18	
+BiochemicalReaction49	GFPT1,2 transfer an amino group from L-Gln to F6P to form GlcN6P	SmallMolecule51	SmallMolecule53	
+BiochemicalReaction49	GFPT1,2 transfer an amino group from L-Gln to F6P to form GlcN6P	SmallMolecule52	SmallMolecule53	
+BiochemicalReaction49	GFPT1,2 transfer an amino group from L-Gln to F6P to form GlcN6P	SmallMolecule52	SmallMolecule54	
+BiochemicalReaction49	GFPT1,2 transfer an amino group from L-Gln to F6P to form GlcN6P	SmallMolecule51	SmallMolecule54	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	Protein10	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	Protein10	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule5	Protein11	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule4	Protein11	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	Protein10	Protein11	
+BiochemicalReaction5	pro-prothrombin, uncarboxylated + 10 CO2 + 10 O2 + 10 vitamin K hydroquinone -> pro-prothrombin + 10 H2O + 10 vitamin K epoxide	SmallMolecule3	Protein11	
+BiochemicalReaction50	Acetylation of glucosamine 6-phosphate to GlcNAc6P	SmallMolecule53	SmallMolecule56	
+BiochemicalReaction50	Acetylation of glucosamine 6-phosphate to GlcNAc6P	SmallMolecule55	SmallMolecule56	
+BiochemicalReaction50	Acetylation of glucosamine 6-phosphate to GlcNAc6P	SmallMolecule55	SmallMolecule57	
+BiochemicalReaction50	Acetylation of glucosamine 6-phosphate to GlcNAc6P	SmallMolecule53	SmallMolecule57	
+BiochemicalReaction51	Isomerization of GlcNAc6P to GlcNAc1P	SmallMolecule57	SmallMolecule58	
+BiochemicalReaction52	GlcNAc1P is dephosphorylated to UDP-N-acetyl-glucosamine	SmallMolecule58	SmallMolecule60	
+BiochemicalReaction52	GlcNAc1P is dephosphorylated to UDP-N-acetyl-glucosamine	SmallMolecule59	SmallMolecule60	
+BiochemicalReaction52	GlcNAc1P is dephosphorylated to UDP-N-acetyl-glucosamine	SmallMolecule59	SmallMolecule23	
+BiochemicalReaction52	GlcNAc1P is dephosphorylated to UDP-N-acetyl-glucosamine	SmallMolecule58	SmallMolecule23	
+BiochemicalReaction53	MPI isomerizes Fru6P to Man6P	SmallMolecule52	SmallMolecule61	
+BiochemicalReaction54	PMM1,2 isomerize Man6P to Man1P	SmallMolecule61	SmallMolecule62	
+BiochemicalReaction55	Mannose-1-phosphate converted to GDP-Mannose	SmallMolecule63	SmallMolecule60	
+BiochemicalReaction55	Mannose-1-phosphate converted to GDP-Mannose	SmallMolecule62	SmallMolecule60	
+BiochemicalReaction55	Mannose-1-phosphate converted to GDP-Mannose	SmallMolecule62	SmallMolecule19	
+BiochemicalReaction55	Mannose-1-phosphate converted to GDP-Mannose	SmallMolecule63	SmallMolecule19	
+BiochemicalReaction56	Synthesis of dolichyl-phosphate-glucose	SmallMolecule18	SmallMolecule65	
+BiochemicalReaction56	Synthesis of dolichyl-phosphate-glucose	SmallMolecule64	SmallMolecule65	
+BiochemicalReaction57	Flipping of dolichyl-phosphate-glucose into the ER lumen	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction58	Addition of N-acetyl-D-glucosamine to Dolichyl phosphate	SmallMolecule23	SmallMolecule67	
+BiochemicalReaction58	Addition of N-acetyl-D-glucosamine to Dolichyl phosphate	SmallMolecule18	SmallMolecule67	
+BiochemicalReaction58	Addition of N-acetyl-D-glucosamine to Dolichyl phosphate	SmallMolecule18	SmallMolecule68	
+BiochemicalReaction58	Addition of N-acetyl-D-glucosamine to Dolichyl phosphate	SmallMolecule23	SmallMolecule68	
+BiochemicalReaction59	Addition of the second N-acetyl-glucosamine to the N-glycan precursor	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction59	Addition of the second N-acetyl-glucosamine to the N-glycan precursor	SmallMolecule68	SmallMolecule24	
+BiochemicalReaction59	Addition of the second N-acetyl-glucosamine to the N-glycan precursor	SmallMolecule68	SmallMolecule69	
+BiochemicalReaction59	Addition of the second N-acetyl-glucosamine to the N-glycan precursor	SmallMolecule23	SmallMolecule69	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	Complex3	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule5	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule4	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	Complex3	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule3	Complex4	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	Complex3	SmallMolecule6	
+BiochemicalReaction6	pro-protein C, uncarboxylated + 8 CO2 + 8 O2 + 8 vitamin K hydroquinone -> pro-protein C + 8 H2O + 8 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction60	Addition of the first mannose to the N-glycan precursor by ALG13/14	SmallMolecule69	SmallMolecule70	
+BiochemicalReaction60	Addition of the first mannose to the N-glycan precursor by ALG13/14	SmallMolecule19	SmallMolecule70	
+BiochemicalReaction60	Addition of the first mannose to the N-glycan precursor by ALG13/14	SmallMolecule19	SmallMolecule71	
+BiochemicalReaction60	Addition of the first mannose to the N-glycan precursor by ALG13/14	SmallMolecule69	SmallMolecule71	
+BiochemicalReaction61	Addition of a second mannose to the N-glycan precursor by ALG2	SmallMolecule70	SmallMolecule71	
+BiochemicalReaction61	Addition of a second mannose to the N-glycan precursor by ALG2	SmallMolecule19	SmallMolecule71	
+BiochemicalReaction61	Addition of a second mannose to the N-glycan precursor by ALG2	SmallMolecule19	SmallMolecule72	
+BiochemicalReaction61	Addition of a second mannose to the N-glycan precursor by ALG2	SmallMolecule70	SmallMolecule72	
+BiochemicalReaction62	Addition of a third mannose to the N-glycan precursor by ALG2	SmallMolecule19	SmallMolecule73	
+BiochemicalReaction62	Addition of a third mannose to the N-glycan precursor by ALG2	SmallMolecule72	SmallMolecule73	
+BiochemicalReaction62	Addition of a third mannose to the N-glycan precursor by ALG2	SmallMolecule72	SmallMolecule71	
+BiochemicalReaction62	Addition of a third mannose to the N-glycan precursor by ALG2	SmallMolecule19	SmallMolecule71	
+BiochemicalReaction63	Addition of a fourth and fifth mannose to the N-glycan precursor by ALG11	SmallMolecule73	SmallMolecule74	
+BiochemicalReaction63	Addition of a fourth and fifth mannose to the N-glycan precursor by ALG11	SmallMolecule19	SmallMolecule74	
+BiochemicalReaction63	Addition of a fourth and fifth mannose to the N-glycan precursor by ALG11	SmallMolecule19	SmallMolecule71	
+BiochemicalReaction63	Addition of a fourth and fifth mannose to the N-glycan precursor by ALG11	SmallMolecule73	SmallMolecule71	
+BiochemicalReaction64	Flipping of the N-glycan precursor to inside the ER	SmallMolecule74	SmallMolecule75	
+BiochemicalReaction65	Addition of the sixth mannose to the N-glycan precursor by ALG3.	SmallMolecule75	SmallMolecule76	
+BiochemicalReaction65	Addition of the sixth mannose to the N-glycan precursor by ALG3.	SmallMolecule21	SmallMolecule76	
+BiochemicalReaction65	Addition of the sixth mannose to the N-glycan precursor by ALG3.	SmallMolecule21	SmallMolecule77	
+BiochemicalReaction65	Addition of the sixth mannose to the N-glycan precursor by ALG3.	SmallMolecule75	SmallMolecule77	
+BiochemicalReaction66	Addition of the seventh mannose to the N-glycan precursor by ALG9, inside the ER lumen	SmallMolecule76	SmallMolecule77	
+BiochemicalReaction66	Addition of the seventh mannose to the N-glycan precursor by ALG9, inside the ER lumen	SmallMolecule21	SmallMolecule77	
+BiochemicalReaction66	Addition of the seventh mannose to the N-glycan precursor by ALG9, inside the ER lumen	SmallMolecule21	SmallMolecule78	
+BiochemicalReaction66	Addition of the seventh mannose to the N-glycan precursor by ALG9, inside the ER lumen	SmallMolecule76	SmallMolecule78	
+BiochemicalReaction67	Addition of the eighth mannose to the N-glycan precursor by ALG12, inside the ER lumen	SmallMolecule78	SmallMolecule79	
+BiochemicalReaction67	Addition of the eighth mannose to the N-glycan precursor by ALG12, inside the ER lumen	SmallMolecule21	SmallMolecule79	
+BiochemicalReaction67	Addition of the eighth mannose to the N-glycan precursor by ALG12, inside the ER lumen	SmallMolecule21	SmallMolecule77	
+BiochemicalReaction67	Addition of the eighth mannose to the N-glycan precursor by ALG12, inside the ER lumen	SmallMolecule78	SmallMolecule77	
+BiochemicalReaction68	Addition of the last mannose to the N-glycan precursor by ALG3, inside the ER lumen.	SmallMolecule79	SmallMolecule77	
+BiochemicalReaction68	Addition of the last mannose to the N-glycan precursor by ALG3, inside the ER lumen.	SmallMolecule21	SmallMolecule77	
+BiochemicalReaction68	Addition of the last mannose to the N-glycan precursor by ALG3, inside the ER lumen.	SmallMolecule21	SmallMolecule80	
+BiochemicalReaction68	Addition of the last mannose to the N-glycan precursor by ALG3, inside the ER lumen.	SmallMolecule79	SmallMolecule80	
+BiochemicalReaction69	Addition of the first glucose to the N-glycan precursor by ALG6	SmallMolecule66	SmallMolecule81	
+BiochemicalReaction69	Addition of the first glucose to the N-glycan precursor by ALG6	SmallMolecule80	SmallMolecule81	
+BiochemicalReaction69	Addition of the first glucose to the N-glycan precursor by ALG6	SmallMolecule80	SmallMolecule77	
+BiochemicalReaction69	Addition of the first glucose to the N-glycan precursor by ALG6	SmallMolecule66	SmallMolecule77	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	Protein15	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	Protein15	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	Protein16	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	Protein16	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	Protein15	Protein16	
+BiochemicalReaction7	pro-protein S, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-protein S + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	Protein16	
+BiochemicalReaction70	Addition of a second glucose to the N-glycan precursor by ALG8	SmallMolecule81	SmallMolecule77	
+BiochemicalReaction70	Addition of a second glucose to the N-glycan precursor by ALG8	SmallMolecule66	SmallMolecule77	
+BiochemicalReaction70	Addition of a second glucose to the N-glycan precursor by ALG8	SmallMolecule66	SmallMolecule82	
+BiochemicalReaction70	Addition of a second glucose to the N-glycan precursor by ALG8	SmallMolecule81	SmallMolecule82	
+BiochemicalReaction71	Addition of a third glucose to the N-glycan precursor by an ALG10 homologue	SmallMolecule66	SmallMolecule77	
+BiochemicalReaction71	Addition of a third glucose to the N-glycan precursor by an ALG10 homologue	SmallMolecule82	SmallMolecule77	
+BiochemicalReaction71	Addition of a third glucose to the N-glycan precursor by an ALG10 homologue	SmallMolecule82	SmallMolecule83	
+BiochemicalReaction71	Addition of a third glucose to the N-glycan precursor by an ALG10 homologue	SmallMolecule66	SmallMolecule83	
+BiochemicalReaction72	Transfer of N-glycan to the protein	SmallMolecule83	SmallMolecule77	
+BiochemicalReaction72	Transfer of N-glycan to the protein	PhysicalEntity5	SmallMolecule77	
+BiochemicalReaction72	Transfer of N-glycan to the protein	PhysicalEntity5	Complex24	
+BiochemicalReaction72	Transfer of N-glycan to the protein	SmallMolecule83	Complex24	
+BiochemicalReaction73	Trimming of the first glucose by glucosidase I	Complex24	SmallMolecule85	
+BiochemicalReaction73	Trimming of the first glucose by glucosidase I	Complex24	Complex26	
+BiochemicalReaction74	Binding of Malectin	Complex26	Complex27	
+BiochemicalReaction74	Binding of Malectin	Protein153	Complex27	
+BiochemicalReaction75	Removal of the second glucose by glucosidase II	Complex27	SmallMolecule85	
+BiochemicalReaction75	Removal of the second glucose by glucosidase II	Complex27	Complex28	
+BiochemicalReaction75	Removal of the second glucose by glucosidase II	Complex27	Protein153	
+BiochemicalReaction76	Binding of calnexin/calreticulin to the unfolded protein	Protein156	Complex30	
+BiochemicalReaction76	Binding of calnexin/calreticulin to the unfolded protein	Complex28	Complex30	
+BiochemicalReaction77	Binding of ERp57	Protein159	Complex32	
+BiochemicalReaction77	Binding of ERp57	Complex30	Complex32	
+BiochemicalReaction78	Removal of the third glucose by glucosidase II and release from the chaperone	Complex33	SmallMolecule85	
+BiochemicalReaction78	Removal of the third glucose by glucosidase II and release from the chaperone	Complex33	Complex31	
+BiochemicalReaction78	Removal of the third glucose by glucosidase II and release from the chaperone	Complex33	Complex35	
+BiochemicalReaction78	Removal of the third glucose by glucosidase II and release from the chaperone	Complex33	Protein159	
+BiochemicalReaction79	Incorrectly folded glycoproteins translocate to the ERQC	Complex36	Complex37	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	Protein17	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule5	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule4	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	Protein17	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule3	Protein18	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	Protein17	SmallMolecule6	
+BiochemicalReaction8	pro-protein Z, uncarboxylated + 13 CO2 + 13 O2 + 13 vitamin K hydroquinone -> pro-protein Z + 13 H2O + 13 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction80	Trimming of the terminal mannose on the B branch	Complex37	Complex38	
+BiochemicalReaction80	Trimming of the terminal mannose on the B branch	Complex37	SmallMolecule94	
+BiochemicalReaction81	Trimming of the terminal mannose on the C branch	Complex37	Complex39	
+BiochemicalReaction81	Trimming of the terminal mannose on the C branch	Complex37	SmallMolecule94	
+BiochemicalReaction82	Trimming of the first mannose on the A branch	Complex37	Complex40	
+BiochemicalReaction82	Trimming of the first mannose on the A branch	Complex37	SmallMolecule94	
+BiochemicalReaction83	Trimming of the second mannose on the A branch	Complex40	Complex41	
+BiochemicalReaction83	Trimming of the second mannose on the A branch	Complex40	SmallMolecule94	
+BiochemicalReaction84	Re-addition of a glucose on the alpha 1,3 branch	SmallMolecule98	Complex42	
+BiochemicalReaction84	Re-addition of a glucose on the alpha 1,3 branch	Complex37	Complex42	
+BiochemicalReaction84	Re-addition of a glucose on the alpha 1,3 branch	Complex37	SmallMolecule100	
+BiochemicalReaction84	Re-addition of a glucose on the alpha 1,3 branch	SmallMolecule98	SmallMolecule100	
+BiochemicalReaction85	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex41	Complex43	
+BiochemicalReaction85	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex40	Complex43	
+BiochemicalReaction85	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex40	Complex44	
+BiochemicalReaction85	Glycoproteins with major folding defects are sent to degradation by EDEMs	Complex41	Complex44	
+BiochemicalReaction86	Glycoproteins with lesser folding defects get transported back to the ER and the CNX/CRT complex	Complex42	Complex28	
+BiochemicalReaction87	Correctly folded glycoproteins translocate to the Golgi	Complex36	Complex45	
+BiochemicalReaction88	Transport of glycoproteins with Man8 (or Man9) N-glycans to the Golgi	Complex46	Complex47	
+BiochemicalReaction89	Sar1p Activation And Membrane Binding	SmallMolecule63	Complex53	
+BiochemicalReaction89	Sar1p Activation And Membrane Binding	Complex52	Complex53	
+BiochemicalReaction89	Sar1p Activation And Membrane Binding	Complex52	SmallMolecule71	
+BiochemicalReaction89	Sar1p Activation And Membrane Binding	SmallMolecule63	SmallMolecule71	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	Protein19	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule2	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	Protein19	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	Protein20	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule5	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule4	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	Protein19	SmallMolecule6	
+BiochemicalReaction9	pro-GAS6, uncarboxylated + 11 CO2 + 11 O2 + 11 vitamin K hydroquinone -> pro-GAS6 + 11 H2O + 11 vitamin K epoxide	SmallMolecule3	SmallMolecule6	
+BiochemicalReaction90	Coat Assembly	Complex53	Complex55	
+BiochemicalReaction90	Coat Assembly	Complex54	Complex55	
+BiochemicalReaction91	Loss of Sar1b GTPase	Complex55	SmallMolecule43	
+BiochemicalReaction91	Loss of Sar1b GTPase	Complex55	Complex54	
+BiochemicalReaction91	Loss of Sar1b GTPase	Complex55	Complex52	
+BiochemicalReaction92	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein185	Complex57	
+BiochemicalReaction92	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Complex55	Complex57	
+BiochemicalReaction92	Cargo, Sec31p:Sec13p, and v-SNARE recruitment	Protein186	Complex57	
+BiochemicalReaction93	Vesicle Budding	Complex57	Complex59	
+BiochemicalReaction94	Vesicle Uncoating	Complex59	SmallMolecule43	
+BiochemicalReaction94	Vesicle Uncoating	Complex59	Protein185	
+BiochemicalReaction94	Vesicle Uncoating	Complex59	Protein179	
+BiochemicalReaction94	Vesicle Uncoating	Complex59	Protein170	
+BiochemicalReaction94	Vesicle Uncoating	Complex59	Protein186	
+BiochemicalReaction94	Vesicle Uncoating	Complex59	Protein173	
+BiochemicalReaction95	Alternative endo-mannosidase I route	SmallMolecule107	SmallMolecule108	
+BiochemicalReaction95	Alternative endo-mannosidase I route	SmallMolecule107	SmallMolecule109	
+BiochemicalReaction96	Progressive trimming of alpha-1,2-linked mannose residues from Man9GlcNAc2 to produce Man5GlcNAc2	SmallMolecule103	SmallMolecule110	
+BiochemicalReaction96	Progressive trimming of alpha-1,2-linked mannose residues from Man9GlcNAc2 to produce Man5GlcNAc2	SmallMolecule103	SmallMolecule111	
+BiochemicalReaction97	Progressive trimming of alpha-1,2-linked mannose residues from Man8GlcNAc2 to produce Man5GlcNAc2	SmallMolecule112	SmallMolecule110	
+BiochemicalReaction97	Progressive trimming of alpha-1,2-linked mannose residues from Man8GlcNAc2 to produce Man5GlcNAc2	SmallMolecule112	SmallMolecule111	
+BiochemicalReaction98	Progressive trimming of alpha-1,2-linked mannose residues from Man7GlcNAc2 to produce Man5GlcNAc2	SmallMolecule113	SmallMolecule110	
+BiochemicalReaction98	Progressive trimming of alpha-1,2-linked mannose residues from Man7GlcNAc2 to produce Man5GlcNAc2	SmallMolecule113	SmallMolecule111	
+BiochemicalReaction99	Addition of GlcNAc to the glycan on the A arm	SmallMolecule110	SmallMolecule115	
+BiochemicalReaction99	Addition of GlcNAc to the glycan on the A arm	SmallMolecule114	SmallMolecule115	
+BiochemicalReaction99	Addition of GlcNAc to the glycan on the A arm	SmallMolecule114	SmallMolecule116	
+BiochemicalReaction99	Addition of GlcNAc to the glycan on the A arm	SmallMolecule110	SmallMolecule116	

@@ -1,0 +1,291 @@
+BiochemicalReaction1	Defective STRA6 does not transport atROL	Complex1	NA	
+BiochemicalReaction10	Defective RDH12 does not reduce atRAL to atROL and causes RP53	SmallMolecule10	NA	
+BiochemicalReaction10	Defective RDH12 does not reduce atRAL to atROL and causes RP53	SmallMolecule11	NA	
+BiochemicalReaction10	Defective RDH12 does not reduce atRAL to atROL and causes RP53	SmallMolecule12	NA	
+BiochemicalReaction11	Defective RDH5 does not oxidise 11cROL to 11cRAL and causes RPA	SmallMolecule13	NA	
+BiochemicalReaction11	Defective RDH5 does not oxidise 11cROL to 11cRAL and causes RPA	Complex5	NA	
+BiochemicalReaction12	Defective RBP4 does not bind atROL	SmallMolecule15	NA	
+BiochemicalReaction12	Defective RBP4 does not bind atROL	Protein19	NA	
+BiochemicalReaction13	atRAL can spontaneously react with PE to form NRPE	SmallMolecule16	SmallMolecule6	
+BiochemicalReaction13	atRAL can spontaneously react with PE to form NRPE	SmallMolecule7	SmallMolecule6	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule6	SmallMolecule17	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule7	SmallMolecule17	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule7	SmallMolecule8	
+BiochemicalReaction14	NRPE condenses with atRAL to form A2PE	SmallMolecule6	SmallMolecule8	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule17	SmallMolecule18	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule8	SmallMolecule18	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule8	SmallMolecule19	
+BiochemicalReaction15	A2PE hydrolyses to A2E	SmallMolecule17	SmallMolecule19	
+BiochemicalReaction16	A2E is phagocytosed	SmallMolecule18	SmallMolecule20	
+BiochemicalReaction17	A2E translocates to RPE cells	SmallMolecule20	SmallMolecule21	
+BiochemicalReaction18	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction18	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction18	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction18	PNLIP:CLPS hydrolyses RPALM to atROL and PALM	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction19	PLB1 hydrolyses RPALM to atROL	SmallMolecule22	SmallMolecule24	
+BiochemicalReaction19	PLB1 hydrolyses RPALM to atROL	SmallMolecule23	SmallMolecule24	
+BiochemicalReaction19	PLB1 hydrolyses RPALM to atROL	SmallMolecule23	SmallMolecule25	
+BiochemicalReaction19	PLB1 hydrolyses RPALM to atROL	SmallMolecule22	SmallMolecule25	
+BiochemicalReaction2	Defective LRAT does not esterify atROL and PALM to RPALM	Complex3	NA	
+BiochemicalReaction2	Defective LRAT does not esterify atROL and PALM to RPALM	SmallMolecule3	NA	
+BiochemicalReaction20	atROL binds to RBP2	SmallMolecule24	Complex7	
+BiochemicalReaction20	atROL binds to RBP2	Protein26	Complex7	
+BiochemicalReaction21	BCMO1:Fe2+ oxidises betaC to atRAL	SmallMolecule27	SmallMolecule10	
+BiochemicalReaction21	BCMO1:Fe2+ oxidises betaC to atRAL	SmallMolecule28	SmallMolecule10	
+BiochemicalReaction22	atRAL binds to RBP2	SmallMolecule10	Complex9	
+BiochemicalReaction22	atRAL binds to RBP2	Protein26	Complex9	
+BiochemicalReaction23	RDH11 reduces RBP2:atRAL to RBP2:atROL	Complex9	SmallMolecule30	
+BiochemicalReaction23	RDH11 reduces RBP2:atRAL to RBP2:atROL	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction23	RDH11 reduces RBP2:atRAL to RBP2:atROL	SmallMolecule12	SmallMolecule30	
+BiochemicalReaction23	RDH11 reduces RBP2:atRAL to RBP2:atROL	SmallMolecule12	Complex7	
+BiochemicalReaction23	RDH11 reduces RBP2:atRAL to RBP2:atROL	SmallMolecule11	Complex7	
+BiochemicalReaction23	RDH11 reduces RBP2:atRAL to RBP2:atROL	Complex9	Complex7	
+BiochemicalReaction24	AKRs reduce RBP2:atRAL to RBP2:atROL	Complex9	SmallMolecule30	
+BiochemicalReaction24	AKRs reduce RBP2:atRAL to RBP2:atROL	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction24	AKRs reduce RBP2:atRAL to RBP2:atROL	SmallMolecule12	SmallMolecule30	
+BiochemicalReaction24	AKRs reduce RBP2:atRAL to RBP2:atROL	SmallMolecule12	Complex7	
+BiochemicalReaction24	AKRs reduce RBP2:atRAL to RBP2:atROL	SmallMolecule11	Complex7	
+BiochemicalReaction24	AKRs reduce RBP2:atRAL to RBP2:atROL	Complex9	Complex7	
+BiochemicalReaction25	LRAT esterifies RBP2:atROL and FACYLs to atREs	Complex7	Protein26	
+BiochemicalReaction25	LRAT esterifies RBP2:atROL and FACYLs to atREs	SmallMolecule31	Protein26	
+BiochemicalReaction25	LRAT esterifies RBP2:atROL and FACYLs to atREs	SmallMolecule31	SmallMolecule36	
+BiochemicalReaction25	LRAT esterifies RBP2:atROL and FACYLs to atREs	Complex7	SmallMolecule36	
+BiochemicalReaction26	atREs binds to nascent CM	Complex10	Complex12	
+BiochemicalReaction26	atREs binds to nascent CM	SmallMolecule36	Complex12	
+BiochemicalReaction27	Chylomicron secretion into the lymphatic system	Complex12	Complex13	
+BiochemicalReaction28	Nascent CMs transform into mature CMs	Complex15	Complex17	
+BiochemicalReaction28	Nascent CMs transform into mature CMs	Complex13	Complex17	
+BiochemicalReaction28	Nascent CMs transform into mature CMs	Complex13	Complex16	
+BiochemicalReaction28	Nascent CMs transform into mature CMs	Complex15	Complex16	
+BiochemicalReaction29	LPL hydrolyses TGs from mature CMs	Complex17	Complex18	
+BiochemicalReaction29	LPL hydrolyses TGs from mature CMs	Complex17	SmallMolecule54	
+BiochemicalReaction29	LPL hydrolyses TGs from mature CMs	Complex17	SmallMolecule55	
+BiochemicalReaction3	Defective ABCA4 does not transport atRAL or NRPE from disc membranes	SmallMolecule4	NA	
+BiochemicalReaction3	Defective ABCA4 does not transport atRAL or NRPE from disc membranes	SmallMolecule5	NA	
+BiochemicalReaction3	Defective ABCA4 does not transport atRAL or NRPE from disc membranes	SmallMolecule8	NA	
+BiochemicalReaction30	LDLR transports extracellular CR:atREs to cytosol 	Complex18	Complex21	
+BiochemicalReaction31	CR:atREs binds apoE and HSPG	Complex18	Complex24	
+BiochemicalReaction31	CR:atREs binds apoE and HSPG	Protein45	Complex24	
+BiochemicalReaction31	CR:atREs binds apoE and HSPG	PhysicalEntity1	Complex24	
+BiochemicalReaction32	LRPs transport extracellular CR:atREs:HSPG:apoE to cytosol	Complex24	Complex26	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	Complex21	SmallMolecule66	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	Complex21	SmallMolecule67	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	SmallMolecule65	SmallMolecule67	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	Complex21	SmallMolecule71	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	SmallMolecule65	SmallMolecule71	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	Complex21	Complex22	
+BiochemicalReaction33	NREH hydrolyses atREs to atROL and FAs	SmallMolecule65	Complex22	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	SmallMolecule65	SmallMolecule66	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	Complex26	SmallMolecule66	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	Complex26	Protein50	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	SmallMolecule65	Protein50	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	Complex26	SmallMolecule67	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	SmallMolecule65	SmallMolecule67	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	Complex26	SmallMolecule71	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	SmallMolecule65	SmallMolecule71	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	Complex26	Complex22	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	SmallMolecule65	Complex22	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	Complex26	PhysicalEntity1	
+BiochemicalReaction34	NREH hydrolyses atREs (HSPG:apoE) to atROL and FAs	SmallMolecule65	PhysicalEntity1	
+BiochemicalReaction35	atROL binds RBP1 (parenchymal cell)	SmallMolecule71	Complex27	
+BiochemicalReaction35	atROL binds RBP1 (parenchymal cell)	Protein10	Complex27	
+BiochemicalReaction36	Parenchymal atROL translocates to HSCs	Complex27	Protein10	
+BiochemicalReaction36	Parenchymal atROL translocates to HSCs	Complex27	SmallMolecule2	
+BiochemicalReaction37	atROL binds RBP1	Protein10	Complex3	
+BiochemicalReaction37	atROL binds RBP1	SmallMolecule2	Complex3	
+BiochemicalReaction38	LRAT esterifies RBP1:atROL and FACYLs to atREs	Complex3	Protein10	
+BiochemicalReaction38	LRAT esterifies RBP1:atROL and FACYLs to atREs	SmallMolecule31	Protein10	
+BiochemicalReaction38	LRAT esterifies RBP1:atROL and FACYLs to atREs	SmallMolecule31	SmallMolecule72	
+BiochemicalReaction38	LRAT esterifies RBP1:atROL and FACYLs to atREs	Complex3	SmallMolecule72	
+BiochemicalReaction39	A REH hydrolses atREs to atROL and FAs	SmallMolecule72	SmallMolecule77	
+BiochemicalReaction39	A REH hydrolses atREs to atROL and FAs	SmallMolecule8	SmallMolecule77	
+BiochemicalReaction39	A REH hydrolses atREs to atROL and FAs	SmallMolecule8	SmallMolecule2	
+BiochemicalReaction39	A REH hydrolses atREs to atROL and FAs	SmallMolecule72	SmallMolecule2	
+BiochemicalReaction4	Defective OPN1SW causes tritanopia	Complex4	NA	
+BiochemicalReaction4	Defective OPN1SW causes tritanopia	Protein12	NA	
+BiochemicalReaction40	atROL secreted into bloodstream	SmallMolecule2	SmallMolecule1	
+BiochemicalReaction41	RBP4 binds atROL	Protein9	Complex28	
+BiochemicalReaction41	RBP4 binds atROL	SmallMolecule1	Complex28	
+BiochemicalReaction42	RBP4:atROL binds TTR	Complex28	Complex29	
+BiochemicalReaction42	RBP4:atROL binds TTR	Complex2	Complex29	
+BiochemicalReaction43	TTR:RBP:atROL binds to STRA6 receptor	Complex29	Complex30	
+BiochemicalReaction43	TTR:RBP:atROL binds to STRA6 receptor	Protein142	Complex30	
+BiochemicalReaction44	atROL (extracellular) is transported to cytosol by STRA6	Complex30	SmallMolecule82	
+BiochemicalReaction44	atROL (extracellular) is transported to cytosol by STRA6	Complex30	Complex31	
+BiochemicalReaction45	atROL binds RBP1 to form RBP1:atROL	Protein10	Complex32	
+BiochemicalReaction45	atROL binds RBP1 to form RBP1:atROL	SmallMolecule82	Complex32	
+BiochemicalReaction46	LRAT esterifies all-trans-retinol in RPE	Complex32	Protein10	
+BiochemicalReaction46	LRAT esterifies all-trans-retinol in RPE	SmallMolecule31	Protein10	
+BiochemicalReaction46	LRAT esterifies all-trans-retinol in RPE	SmallMolecule31	SmallMolecule72	
+BiochemicalReaction46	LRAT esterifies all-trans-retinol in RPE	Complex32	SmallMolecule72	
+BiochemicalReaction47	RPE65 isomero-hydrolyses atREs to 11cROL	SmallMolecule72	SmallMolecule12	
+BiochemicalReaction47	RPE65 isomero-hydrolyses atREs to 11cROL	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction47	RPE65 isomero-hydrolyses atREs to 11cROL	SmallMolecule8	SmallMolecule77	
+BiochemicalReaction47	RPE65 isomero-hydrolyses atREs to 11cROL	SmallMolecule72	SmallMolecule77	
+BiochemicalReaction47	RPE65 isomero-hydrolyses atREs to 11cROL	SmallMolecule8	SmallMolecule83	
+BiochemicalReaction47	RPE65 isomero-hydrolyses atREs to 11cROL	SmallMolecule72	SmallMolecule83	
+BiochemicalReaction48	RDHs oxidise 11cROL to 11cRAL	SmallMolecule30	Complex4	
+BiochemicalReaction48	RDHs oxidise 11cROL to 11cRAL	Complex5	Complex4	
+BiochemicalReaction48	RDHs oxidise 11cROL to 11cRAL	Complex5	SmallMolecule11	
+BiochemicalReaction48	RDHs oxidise 11cROL to 11cRAL	SmallMolecule30	SmallMolecule11	
+BiochemicalReaction48	RDHs oxidise 11cROL to 11cRAL	Complex5	SmallMolecule12	
+BiochemicalReaction48	RDHs oxidise 11cROL to 11cRAL	SmallMolecule30	SmallMolecule12	
+BiochemicalReaction49	RDH5 oxidises 11cROL to 11cRAL	SmallMolecule13	Complex4	
+BiochemicalReaction49	RDH5 oxidises 11cROL to 11cRAL	Complex5	Complex4	
+BiochemicalReaction49	RDH5 oxidises 11cROL to 11cRAL	Complex5	SmallMolecule12	
+BiochemicalReaction49	RDH5 oxidises 11cROL to 11cRAL	SmallMolecule13	SmallMolecule12	
+BiochemicalReaction49	RDH5 oxidises 11cROL to 11cRAL	Complex5	SmallMolecule84	
+BiochemicalReaction49	RDH5 oxidises 11cROL to 11cRAL	SmallMolecule13	SmallMolecule84	
+BiochemicalReaction5	Defective OPN1MW causes DCB and BCM	Complex4	NA	
+BiochemicalReaction5	Defective OPN1MW causes DCB and BCM	Protein15	NA	
+BiochemicalReaction50	11cRAL (RPE) translocates to photoreceptor outer segment	Complex4	SmallMolecule9	
+BiochemicalReaction51	11-cis-retinal binds to rhodopsin	SmallMolecule9	Complex33	
+BiochemicalReaction51	11-cis-retinal binds to rhodopsin	Protein154	Complex33	
+BiochemicalReaction52	Rhodopsin activation	Complex33	Complex34	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule4	SmallMolecule10	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule8	SmallMolecule86	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule7	SmallMolecule86	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule4	SmallMolecule86	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule8	SmallMolecule87	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule7	SmallMolecule87	
+BiochemicalReaction53	ABCA4 mediates atRAL transport	SmallMolecule4	SmallMolecule87	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule6	SmallMolecule86	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule4	SmallMolecule86	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule8	SmallMolecule86	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule8	SmallMolecule87	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule4	SmallMolecule87	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule6	SmallMolecule87	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule8	SmallMolecule88	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule4	SmallMolecule88	
+BiochemicalReaction54	NRPE is a substrate for ABCA4	SmallMolecule6	SmallMolecule88	
+BiochemicalReaction55	NRPE dissociates to atRAL and PE	SmallMolecule88	SmallMolecule10	
+BiochemicalReaction55	NRPE dissociates to atRAL and PE	SmallMolecule88	SmallMolecule16	
+BiochemicalReaction56	atRAL(membrane) diffuses to atRAL(cytosol)	SmallMolecule7	SmallMolecule10	
+BiochemicalReaction57	RDH12 reduces atRAL to atROL	SmallMolecule10	SmallMolecule89	
+BiochemicalReaction57	RDH12 reduces atRAL to atROL	SmallMolecule11	SmallMolecule89	
+BiochemicalReaction57	RDH12 reduces atRAL to atROL	SmallMolecule12	SmallMolecule89	
+BiochemicalReaction57	RDH12 reduces atRAL to atROL	SmallMolecule12	SmallMolecule30	
+BiochemicalReaction57	RDH12 reduces atRAL to atROL	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction57	RDH12 reduces atRAL to atROL	SmallMolecule10	SmallMolecule30	
+BiochemicalReaction58	RDH8 reduces atRAL to atROL	SmallMolecule10	SmallMolecule89	
+BiochemicalReaction58	RDH8 reduces atRAL to atROL	SmallMolecule11	SmallMolecule89	
+BiochemicalReaction58	RDH8 reduces atRAL to atROL	SmallMolecule12	SmallMolecule89	
+BiochemicalReaction58	RDH8 reduces atRAL to atROL	SmallMolecule12	SmallMolecule30	
+BiochemicalReaction58	RDH8 reduces atRAL to atROL	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction58	RDH8 reduces atRAL to atROL	SmallMolecule10	SmallMolecule30	
+BiochemicalReaction59	RBP3 regulates the transport of atROL from ROS to RPE	SmallMolecule89	SmallMolecule82	
+BiochemicalReaction6	Defective OPN1MW causes COD5	Complex4	NA	
+BiochemicalReaction6	Defective OPN1MW causes COD5	Protein15	NA	
+BiochemicalReaction60	RBP3 regulates atROL taken up by Muller cells	SmallMolecule90	SmallMolecule91	
+BiochemicalReaction61	An atROL isomerase isomerises atROL to 11cROL	Complex35	Complex5	
+BiochemicalReaction62	A REH hydrolyses 11cRE to 11cROL	SmallMolecule92	SmallMolecule93	
+BiochemicalReaction62	A REH hydrolyses 11cRE to 11cROL	SmallMolecule8	SmallMolecule93	
+BiochemicalReaction62	A REH hydrolyses 11cRE to 11cROL	SmallMolecule8	SmallMolecule12	
+BiochemicalReaction62	A REH hydrolyses 11cRE to 11cROL	SmallMolecule92	SmallMolecule12	
+BiochemicalReaction62	A REH hydrolyses 11cRE to 11cROL	SmallMolecule8	SmallMolecule3	
+BiochemicalReaction62	A REH hydrolyses 11cRE to 11cROL	SmallMolecule92	SmallMolecule3	
+BiochemicalReaction63	11cROL translocates from Muller cells to cone photoreceptor cells	SmallMolecule93	SmallMolecule14	
+BiochemicalReaction64	RLBP1 binds atROL	Protein11	Complex5	
+BiochemicalReaction64	RLBP1 binds atROL	SmallMolecule14	Complex5	
+BiochemicalReaction65	11cRDH oxidises 11cROL to 11cRAL	SmallMolecule30	Complex4	
+BiochemicalReaction65	11cRDH oxidises 11cROL to 11cRAL	Complex5	Complex4	
+BiochemicalReaction65	11cRDH oxidises 11cROL to 11cRAL	Complex5	SmallMolecule11	
+BiochemicalReaction65	11cRDH oxidises 11cROL to 11cRAL	SmallMolecule30	SmallMolecule11	
+BiochemicalReaction65	11cRDH oxidises 11cROL to 11cRAL	Complex5	SmallMolecule12	
+BiochemicalReaction65	11cRDH oxidises 11cROL to 11cRAL	SmallMolecule30	SmallMolecule12	
+BiochemicalReaction66	Photons induce isomerisation of 11cRAL to atRAL	Complex36	Complex40	
+BiochemicalReaction67	atRAL is hydrolysed from R*	Complex40	SmallMolecule10	
+BiochemicalReaction67	atRAL is hydrolysed from R*	SmallMolecule8	SmallMolecule10	
+BiochemicalReaction67	atRAL is hydrolysed from R*	SmallMolecule8	Protein160	
+BiochemicalReaction67	atRAL is hydrolysed from R*	Complex40	Protein160	
+BiochemicalReaction68	atRAL is reduced to atROL	SmallMolecule10	SmallMolecule30	
+BiochemicalReaction68	atRAL is reduced to atROL	SmallMolecule11	SmallMolecule30	
+BiochemicalReaction68	atRAL is reduced to atROL	SmallMolecule12	SmallMolecule30	
+BiochemicalReaction68	atRAL is reduced to atROL	SmallMolecule12	SmallMolecule90	
+BiochemicalReaction68	atRAL is reduced to atROL	SmallMolecule11	SmallMolecule90	
+BiochemicalReaction68	atRAL is reduced to atROL	SmallMolecule10	SmallMolecule90	
+BiochemicalReaction69	MII catalyses GDP/GTP exchange on Gt	SmallMolecule94	SmallMolecule95	
+BiochemicalReaction69	MII catalyses GDP/GTP exchange on Gt	Complex44	SmallMolecule95	
+BiochemicalReaction69	MII catalyses GDP/GTP exchange on Gt	Complex44	Complex47	
+BiochemicalReaction69	MII catalyses GDP/GTP exchange on Gt	SmallMolecule94	Complex47	
+BiochemicalReaction7	Defective OPN1LW causes BCM	Complex4	NA	
+BiochemicalReaction7	Defective OPN1LW causes BCM	Protein17	NA	
+BiochemicalReaction70	Gt-GTP dissociates to GNAT1-GTP and GNB1:GNGT1	Complex47	Complex48	
+BiochemicalReaction70	Gt-GTP dissociates to GNAT1-GTP and GNB1:GNGT1	Complex47	Complex46	
+BiochemicalReaction71	GNAT1-GTP binds PDE6 and activates it	Complex49	Complex50	
+BiochemicalReaction71	GNAT1-GTP binds PDE6 and activates it	Complex48	Complex50	
+BiochemicalReaction72	PDE hydrolyses cGMP to GMP	SmallMolecule8	SmallMolecule97	
+BiochemicalReaction72	PDE hydrolyses cGMP to GMP	SmallMolecule96	SmallMolecule97	
+BiochemicalReaction73	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule98	SmallMolecule100	
+BiochemicalReaction73	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule99	SmallMolecule100	
+BiochemicalReaction73	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule99	SmallMolecule101	
+BiochemicalReaction73	cGMP:CNG transports Na+ and Ca2+ into the rod outer segment	SmallMolecule98	SmallMolecule101	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule101	SmallMolecule103	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule99	SmallMolecule103	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule102	SmallMolecule103	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule102	SmallMolecule100	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule99	SmallMolecule100	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule101	SmallMolecule100	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule102	SmallMolecule98	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule99	SmallMolecule98	
+BiochemicalReaction74	NCKX1 exchanges Na+ for Ca2+/K+	SmallMolecule101	SmallMolecule98	
+BiochemicalReaction75	cGMP dissociates from CNG channels	Complex51	Complex52	
+BiochemicalReaction75	cGMP dissociates from CNG channels	Complex51	SmallMolecule96	
+BiochemicalReaction76	METAP1/2 demethylates GNAT1	Protein175	SmallMolecule104	
+BiochemicalReaction76	METAP1/2 demethylates GNAT1	Protein175	Protein176	
+BiochemicalReaction77	NMT1/2 transfer MYS to GNAT1	SmallMolecule106	Protein166	
+BiochemicalReaction77	NMT1/2 transfer MYS to GNAT1	Protein176	Protein166	
+BiochemicalReaction77	NMT1/2 transfer MYS to GNAT1	Protein176	SmallMolecule107	
+BiochemicalReaction77	NMT1/2 transfer MYS to GNAT1	SmallMolecule106	SmallMolecule107	
+BiochemicalReaction78	FNTA:FNTB transfers FARN to GNGT1	SmallMolecule108	Protein167	
+BiochemicalReaction78	FNTA:FNTB transfers FARN to GNGT1	Protein182	Protein167	
+BiochemicalReaction78	FNTA:FNTB transfers FARN to GNGT1	Protein182	SmallMolecule109	
+BiochemicalReaction78	FNTA:FNTB transfers FARN to GNGT1	SmallMolecule108	SmallMolecule109	
+BiochemicalReaction79	Unknown NAT N-acylates Gly in GNAT1	SmallMolecule110	SmallMolecule107	
+BiochemicalReaction79	Unknown NAT N-acylates Gly in GNAT1	Protein176	SmallMolecule107	
+BiochemicalReaction79	Unknown NAT N-acylates Gly in GNAT1	Protein176	Protein185	
+BiochemicalReaction79	Unknown NAT N-acylates Gly in GNAT1	SmallMolecule110	Protein185	
+BiochemicalReaction8	Defective OPN1LW causes CBP	Complex4	NA	
+BiochemicalReaction8	Defective OPN1LW causes CBP	Protein17	NA	
+BiochemicalReaction80	GRK1 phosphorylates MII to p-MII	Complex34	SmallMolecule87	
+BiochemicalReaction80	GRK1 phosphorylates MII to p-MII	SmallMolecule4	SmallMolecule87	
+BiochemicalReaction80	GRK1 phosphorylates MII to p-MII	SmallMolecule4	Complex57	
+BiochemicalReaction80	GRK1 phosphorylates MII to p-MII	Complex34	Complex57	
+BiochemicalReaction81	RCVRN:Ca2+ binds to and inhibits GRK1	Protein187	Complex59	
+BiochemicalReaction81	RCVRN:Ca2+ binds to and inhibits GRK1	Complex58	Complex59	
+BiochemicalReaction82	SAG binds p-MII to form p-MII:SAG	Complex57	Complex60	
+BiochemicalReaction82	SAG binds p-MII to form p-MII:SAG	Protein189	Complex60	
+BiochemicalReaction83	atRAL dissociates from p-MII:SAG	Complex60	Complex61	
+BiochemicalReaction83	atRAL dissociates from p-MII:SAG	Complex60	SmallMolecule7	
+BiochemicalReaction84	p-MII:SAG dissociates to p-RHO and SAG	Complex61	Protein186	
+BiochemicalReaction84	p-MII:SAG dissociates to p-RHO and SAG	Complex61	Protein189	
+BiochemicalReaction85	PP2A dephosphorylates p-RHO to RHO	Protein186	SmallMolecule86	
+BiochemicalReaction85	PP2A dephosphorylates p-RHO to RHO	SmallMolecule8	SmallMolecule86	
+BiochemicalReaction85	PP2A dephosphorylates p-RHO to RHO	SmallMolecule8	Protein154	
+BiochemicalReaction85	PP2A dephosphorylates p-RHO to RHO	Protein186	Protein154	
+BiochemicalReaction86	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule8	SmallMolecule86	
+BiochemicalReaction86	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex50	SmallMolecule86	
+BiochemicalReaction86	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex50	Complex49	
+BiochemicalReaction86	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule8	Complex49	
+BiochemicalReaction86	GNAT1-GTP hydrolyses its bound GTP to GDP	Complex50	Complex45	
+BiochemicalReaction86	GNAT1-GTP hydrolyses its bound GTP to GDP	SmallMolecule8	Complex45	
+BiochemicalReaction87	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	SmallMolecule4	SmallMolecule87	
+BiochemicalReaction87	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	Complex63	SmallMolecule87	
+BiochemicalReaction87	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	Complex63	Complex64	
+BiochemicalReaction87	PRKCA/Q phosphorylate RGS9-1:GN5B:RGS9BP	SmallMolecule4	Complex64	
+BiochemicalReaction88	GNAT1-GDP binds to GNB1:GNGT1	Complex45	Complex44	
+BiochemicalReaction88	GNAT1-GDP binds to GNB1:GNGT1	Complex46	Complex44	
+BiochemicalReaction89	GUCA binds Ca2+ to form GUCA:Ca2+	Protein198	Complex65	
+BiochemicalReaction89	GUCA binds Ca2+ to form GUCA:Ca2+	SmallMolecule101	Complex65	
+BiochemicalReaction9	Defective RDH12 does not reduce atRAL to atROL and causes LCA13	SmallMolecule10	NA	
+BiochemicalReaction9	Defective RDH12 does not reduce atRAL to atROL and causes LCA13	SmallMolecule11	NA	
+BiochemicalReaction9	Defective RDH12 does not reduce atRAL to atROL and causes LCA13	SmallMolecule12	NA	
+BiochemicalReaction90	GUCYs converts GTP to cGMP	SmallMolecule94	SmallMolecule109	
+BiochemicalReaction90	GUCYs converts GTP to cGMP	SmallMolecule94	SmallMolecule96	
+BiochemicalReaction91	cGMP binds CNG channel to form cGMP:CNG channel	Complex52	Complex51	
+BiochemicalReaction91	cGMP binds CNG channel to form cGMP:CNG channel	SmallMolecule96	Complex51	
+BiochemicalReaction92	CALM1:Ca2+ binds CNG channel	Complex52	Complex72	
+BiochemicalReaction92	CALM1:Ca2+ binds CNG channel	Complex71	Complex72	

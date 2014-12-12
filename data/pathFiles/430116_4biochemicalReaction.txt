@@ -1,0 +1,14 @@
+BiochemicalReaction1	GP1b-IX-V binds 14-3-3-zeta	Complex1	Complex5	
+BiochemicalReaction1	GP1b-IX-V binds 14-3-3-zeta	Complex2	Complex5	
+BiochemicalReaction2	GPIb-IX-V binding to 14-3-3 zeta is reduced by shear stress	Complex5	Complex1	
+BiochemicalReaction2	GPIb-IX-V binding to 14-3-3 zeta is reduced by shear stress	Complex5	Complex2	
+BiochemicalReaction3	GP1b-IX-V binds filamin	Complex2	Complex6	
+BiochemicalReaction3	GP1b-IX-V binds filamin	Protein7	Complex6	
+BiochemicalReaction4	GP1b-IX-V:13-3-3-zeta complexes with p85 PI3K	Complex5	Complex7	
+BiochemicalReaction4	GP1b-IX-V:13-3-3-zeta complexes with p85 PI3K	Protein8	Complex7	
+BiochemicalReaction5	GP1b signaling involves c-Src	Protein9	Protein10	
+BiochemicalReaction5	GP1b signaling involves c-Src	Complex2	Protein10	
+BiochemicalReaction6	c-Src binds Raf1	Protein11	Complex8	
+BiochemicalReaction6	c-Src binds Raf1	Protein10	Complex8	
+BiochemicalReaction7	14-3-3-zeta binds Raf1	Complex1	Complex9	
+BiochemicalReaction7	14-3-3-zeta binds Raf1	Protein11	Complex9	

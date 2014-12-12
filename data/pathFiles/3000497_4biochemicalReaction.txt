@@ -1,0 +1,6 @@
+BiochemicalReaction1	STAB1 (FEEL-1) Binds Ligands	Protein1	Complex3	
+BiochemicalReaction1	STAB1 (FEEL-1) Binds Ligands	PhysicalEntity1	Complex3	
+BiochemicalReaction2	Endocytosis of STAB1:Ligand	Complex3	Complex4	
+BiochemicalReaction3	STAB2 (FEEL-2) Binds Ligands	PhysicalEntity3	Complex7	
+BiochemicalReaction3	STAB2 (FEEL-2) Binds Ligands	Protein7	Complex7	
+BiochemicalReaction4	Endocytosis of STAB2:Ligand	Complex7	Complex8	

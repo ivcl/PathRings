@@ -1,0 +1,43 @@
+Complex1	ERM:PIP2	plasma membrane	Reactome DB_ID: 443660	Protein4	
+Complex1	ERM:PIP2	plasma membrane	Reactome DB_ID: 443660	SmallMolecule3	
+Complex10	L1:AP-2 Clathrin complex	clathrin-coated endocytic vesicle	Reactome DB_ID: 392743	Protein16	
+Complex10	L1:AP-2 Clathrin complex	clathrin-coated endocytic vesicle	Reactome DB_ID: 392743	Complex6	
+Complex10	L1:AP-2 Clathrin complex	clathrin-coated endocytic vesicle	Reactome DB_ID: 392743	Protein1	
+Complex11	CRMP-2:NUMB:alpha adaptin	plasma membrane	Reactome DB_ID: 443669	Protein9	
+Complex11	CRMP-2:NUMB:alpha adaptin	plasma membrane	Reactome DB_ID: 443669	Protein21	
+Complex11	CRMP-2:NUMB:alpha adaptin	plasma membrane	Reactome DB_ID: 443669	Protein22	
+Complex12	L1:NUMB:CRMP-2:alpha-adaptin	clathrin-coated endocytic vesicle	Reactome DB_ID: 443657	Complex11	
+Complex12	L1:NUMB:CRMP-2:alpha-adaptin	clathrin-coated endocytic vesicle	Reactome DB_ID: 443657	Protein1	
+Complex13	L1:AP-2 Clathrin complex	endosome	Reactome DB_ID: 392746	Protein16	
+Complex13	L1:AP-2 Clathrin complex	endosome	Reactome DB_ID: 392746	Complex6	
+Complex13	L1:AP-2 Clathrin complex	endosome	Reactome DB_ID: 392746	Protein1	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Protein16	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Complex6	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Protein23	
+Complex14	pL1 (S1152):p90rsk:clathrin-dynamin complex	endosome	Reactome DB_ID: 374597	Protein30	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Protein16	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Complex6	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Protein32	
+Complex15	pL1 (S1204, 1248):ERK2:clathrin-dynamin complex	endosome	Reactome DB_ID: 445005	Protein31	
+Complex16	KIF4 dimer	cytosol	Reactome DB_ID: 445013	Protein33	
+Complex17	AP2 clathrin:L1:KIF4:microtubule	cytosol	Reactome DB_ID: 445022	Complex16	
+Complex17	AP2 clathrin:L1:KIF4:microtubule	cytosol	Reactome DB_ID: 445022	PhysicalEntity3	
+Complex17	AP2 clathrin:L1:KIF4:microtubule	cytosol	Reactome DB_ID: 445022	Complex13	
+Complex2	pL1:Ezrin	plasma membrane	Reactome DB_ID: 374575	Complex1	
+Complex2	pL1:Ezrin	plasma membrane	Reactome DB_ID: 374575	Protein2	
+Complex3	L1 trans-homodimer	plasma membrane	Reactome DB_ID: 191438	Protein1	
+Complex3	L1 trans-homodimer	plasma membrane	Reactome DB_ID: 191438	Complex2	
+Complex4	pL1:ERM:F-actin	plasma membrane	Reactome DB_ID: 443655	PhysicalEntity1	
+Complex4	pL1:ERM:F-actin	plasma membrane	Reactome DB_ID: 443655	Complex3	
+Complex5	pL1:Shootin-1:F-actin	plasma membrane	Reactome DB_ID: 443668	PhysicalEntity1	
+Complex5	pL1:Shootin-1:F-actin	plasma membrane	Reactome DB_ID: 443668	Protein8	
+Complex5	pL1:Shootin-1:F-actin	plasma membrane	Reactome DB_ID: 443668	Protein2	
+Complex6	Clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 177505	Complex7	
+Complex6	Clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 177505	Complex8	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein9	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein12	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein13	
+Complex7	AP-2 complex	plasma membrane	Reactome DB_ID: 177480	Protein14	
+Complex8	Clathrin	plasma membrane	Reactome DB_ID: 177482	Protein15	
+Complex9	L1:clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 555064	Complex6	
+Complex9	L1:clathrin-coated vesicle	plasma membrane	Reactome DB_ID: 555064	Protein1	

@@ -1,0 +1,93 @@
+Complex1	RAD51B:RAD51C	nucleoplasm	Reactome DB_ID: 983240	Protein1	
+Complex1	RAD51B:RAD51C	nucleoplasm	Reactome DB_ID: 983240	Protein2	
+Complex10	IRF1:Promoter region of IFN beta	nucleoplasm	Reactome DB_ID: 1008252	Protein21	
+Complex11	VAF/pIRF7:CBP/p300 bound to type I IFN gene promoter	nucleoplasm	Reactome DB_ID: 1027368	Complex12	
+Complex11	VAF/pIRF7:CBP/p300 bound to type I IFN gene promoter	nucleoplasm	Reactome DB_ID: 1027368	PhysicalEntity4	
+Complex13	CBP/p300:pIRF7:pIRF7	nucleoplasm	Reactome DB_ID: 933471	Complex14	
+Complex13	CBP/p300:pIRF7:pIRF7	nucleoplasm	Reactome DB_ID: 933471	Protein37	
+Complex14	p-2S-IRF7:p-2S-IRF7	nucleoplasm	Reactome DB_ID: 450306	Protein36	
+Complex15	VAF (virus-activated factor)	nucleoplasm	Reactome DB_ID: 1027360	Complex16	
+Complex15	VAF (virus-activated factor)	nucleoplasm	Reactome DB_ID: 1027360	Protein37	
+Complex16	IRF3-P:IRF7-P	nucleoplasm	Reactome DB_ID: 1027365	Protein40	
+Complex16	IRF3-P:IRF7-P	nucleoplasm	Reactome DB_ID: 1027365	Protein36	
+Complex18	IRF2:Promoter region of INF alpha	nucleoplasm	Reactome DB_ID: 994019	Protein41	
+Complex18	IRF2:Promoter region of INF alpha	nucleoplasm	Reactome DB_ID: 994019	PhysicalEntity2	
+Complex19	IRF2:Promoter region of INF beta	nucleoplasm	Reactome DB_ID: 1018384	Protein41	
+Complex19	IRF2:Promoter region of INF beta	nucleoplasm	Reactome DB_ID: 1018384	PhysicalEntity1	
+Complex2	RAD51B:RAD51C:Single-stranded DNA	nucleoplasm	Reactome DB_ID: 983270	Complex1	
+Complex2	RAD51B:RAD51C:Single-stranded DNA	nucleoplasm	Reactome DB_ID: 983270	SmallMolecule1	
+Complex20	HP1alpha:Histone H3 methylated at K9	nucleoplasm	Reactome DB_ID: 994100	Protein42	
+Complex20	HP1alpha:Histone H3 methylated at K9	nucleoplasm	Reactome DB_ID: 994100	Protein43	
+Complex21	CP	cytosol	Reactome DB_ID: 879384	Protein49	
+Complex21	CP	cytosol	Reactome DB_ID: 879384	Protein52	
+Complex22	LRRC16A:F-actin capping protein	cytosol	Reactome DB_ID: 994154	Protein48	
+Complex22	LRRC16A:F-actin capping protein	cytosol	Reactome DB_ID: 994154	Complex21	
+Complex23	F-actin capping protein:f-actin	cytosol	Reactome DB_ID: 994173	PhysicalEntity5	
+Complex23	F-actin capping protein:f-actin	cytosol	Reactome DB_ID: 994173	Complex21	
+Complex24	REST:REST DNA binding sites	nucleoplasm	Reactome DB_ID: 996761	PhysicalEntity6	
+Complex24	REST:REST DNA binding sites	nucleoplasm	Reactome DB_ID: 996761	Protein53	
+Complex25	BHC complex	nucleoplasm	Reactome DB_ID: 996752	Protein54	
+Complex25	BHC complex	nucleoplasm	Reactome DB_ID: 996752	Protein55	
+Complex25	BHC complex	nucleoplasm	Reactome DB_ID: 996752	Protein56	
+Complex25	BHC complex	nucleoplasm	Reactome DB_ID: 996752	Protein57	
+Complex25	BHC complex	nucleoplasm	Reactome DB_ID: 996752	Protein53	
+Complex25	BHC complex	nucleoplasm	Reactome DB_ID: 996752	Protein58	
+Complex26	BHC complex:REST:REST DNA binding sites	nucleoplasm	Reactome DB_ID: 996764	Complex24	
+Complex26	BHC complex:REST:REST DNA binding sites	nucleoplasm	Reactome DB_ID: 996764	Complex25	
+Complex27	ZFPM proteins:GATA proteins	nucleoplasm	Reactome DB_ID: 996751	Protein59	
+Complex27	ZFPM proteins:GATA proteins	nucleoplasm	Reactome DB_ID: 996751	Protein66	
+Complex28	SH2B family:p-Y813-JAK2	cytosol	Reactome DB_ID: 997243	Protein78	
+Complex28	SH2B family:p-Y813-JAK2	cytosol	Reactome DB_ID: 997243	Protein79	
+Complex29	NF-E2	nucleoplasm	Reactome DB_ID: 1008229	Protein84	
+Complex29	NF-E2	nucleoplasm	Reactome DB_ID: 1008229	Protein88	
+Complex3	PKA tetramer	cytosol	Reactome DB_ID: 111922	Protein3	
+Complex3	PKA tetramer	cytosol	Reactome DB_ID: 111922	Protein8	
+Complex30	NF-E2:Promoter region of beta-globin	nucleoplasm	Reactome DB_ID: 1008206	Complex29	
+Complex30	NF-E2:Promoter region of beta-globin	nucleoplasm	Reactome DB_ID: 1008206	PhysicalEntity9	
+Complex31	C-terminal EH domain containing proteins:Rabenosyn-5	endosome membrane	Reactome DB_ID: 1011577	Protein94	
+Complex31	C-terminal EH domain containing proteins:Rabenosyn-5	endosome membrane	Reactome DB_ID: 1011577	Protein98	
+Complex32	Rabenosyn-5:VPS-45	endosome membrane	Reactome DB_ID: 1011605	Protein99	
+Complex32	Rabenosyn-5:VPS-45	endosome membrane	Reactome DB_ID: 1011605	Protein100	
+Complex32	Rabenosyn-5:VPS-45	endosome membrane	Reactome DB_ID: 1011605	Protein98	
+Complex33	DOCK-GEFs:RAC1, CDC42	cytosol	Reactome DB_ID: 1012969	Protein101	
+Complex33	DOCK-GEFs:RAC1, CDC42	cytosol	Reactome DB_ID: 1012969	Protein104	
+Complex34	CDK5:CABLES:ABL	cytosol	Reactome DB_ID: 1013836	Protein117	
+Complex34	CDK5:CABLES:ABL	cytosol	Reactome DB_ID: 1013836	Protein118	
+Complex34	CDK5:CABLES:ABL	cytosol	Reactome DB_ID: 1013836	Protein119	
+Complex35	CDK2:CABLES1:WEE1	nucleoplasm	Reactome DB_ID: 1013858	Protein122	
+Complex35	CDK2:CABLES1:WEE1	nucleoplasm	Reactome DB_ID: 1013858	Protein123	
+Complex35	CDK2:CABLES1:WEE1	nucleoplasm	Reactome DB_ID: 1013858	Protein124	
+Complex36	Kinesin-1	cytosol	Reactome DB_ID: 983227	Protein125	
+Complex36	Kinesin-1	cytosol	Reactome DB_ID: 983227	Protein128	
+Complex37	Kinesin-2	cytosol	Reactome DB_ID: 984619	Protein133	
+Complex37	Kinesin-2	cytosol	Reactome DB_ID: 984619	Protein134	
+Complex37	Kinesin-2	cytosol	Reactome DB_ID: 984619	Protein137	
+Complex39	KIF3A dimer	cytosol	Reactome DB_ID: 984646	Protein137	
+Complex4	Dual-specific AKAPs:PKA tetramer	cytosol	Reactome DB_ID: 992693	Complex3	
+Complex4	Dual-specific AKAPs:PKA tetramer	cytosol	Reactome DB_ID: 992693	Protein12	
+Complex40	KIF3B dimer	cytosol	Reactome DB_ID: 984756	Protein135	
+Complex41	KIF5B dimer	cytosol	Reactome DB_ID: 984749	Protein139	
+Complex42	KIF5C dimer	cytosol	Reactome DB_ID: 984596	Protein140	
+Complex43	Kinesin-10	cytosol	Reactome DB_ID: 984651	Protein144	
+Complex45	KIF4A homodimer	cytosol	Reactome DB_ID: 984684	Protein142	
+Complex46	KIF4B homodimer	cytosol	Reactome DB_ID: 984621	Protein143	
+Complex47	Kinesin-5 homotetramer	cytosol	Reactome DB_ID: 984691	Protein145	
+Complex48	Centralspindlin	cytosol	Reactome DB_ID: 984587	Protein146	
+Complex48	Centralspindlin	cytosol	Reactome DB_ID: 984587	Protein147	
+Complex49	CENP-E dimer	cytosol	Reactome DB_ID: 984773	Protein150	
+Complex5	Mitofusin complex	mitochondrial outer membrane	Reactome DB_ID: 992739	Protein15	
+Complex50	KIF18A dimer	cytosol	Reactome DB_ID: 984631	Protein151	
+Complex51	KIF9 dimer	cytosol	Reactome DB_ID: 984777	Protein152	
+Complex52	KIF15 dimer	cytosol	Reactome DB_ID: 984823	Protein153	
+Complex54	KIF2A dimer	cytosol	Reactome DB_ID: 990480	Protein156	
+Complex55	KIF2B dimer	cytosol	Reactome DB_ID: 990505	Protein155	
+Complex56	MCAK dimer	cytosol	Reactome DB_ID: 990513	Protein157	
+Complex57	Kinesin-14	cytosol	Reactome DB_ID: 1015869	Protein158	
+Complex58	Kinesins:microtubule	cytosol	Reactome DB_ID: 983245	PhysicalEntity12	
+Complex58	Kinesins:microtubule	cytosol	Reactome DB_ID: 983245	PhysicalEntity13	
+Complex6	TP53 Tetramer	nucleoplasm	Reactome DB_ID: 3209194	Protein20	
+Complex7	p53:MYB:SIN3A	nucleoplasm	Reactome DB_ID: 992748	Protein18	
+Complex7	p53:MYB:SIN3A	nucleoplasm	Reactome DB_ID: 992748	Protein19	
+Complex7	p53:MYB:SIN3A	nucleoplasm	Reactome DB_ID: 992748	Complex6	
+Complex9	IRF-1:IFN-alpha promoter	nucleoplasm	Reactome DB_ID: 994039	Protein21	
+Complex9	IRF-1:IFN-alpha promoter	nucleoplasm	Reactome DB_ID: 994039	PhysicalEntity2	

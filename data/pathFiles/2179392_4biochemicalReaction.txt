@@ -1,0 +1,14 @@
+BiochemicalReaction1	Activation of Protein kinase C, alpha type by Diacylglycerol	SmallMolecule1	Complex1	
+BiochemicalReaction1	Activation of Protein kinase C, alpha type by Diacylglycerol	Protein1	Complex1	
+BiochemicalReaction2	Active MMP3 can cleave pro-HBEGF to form active HBEGF	Protein4	Protein5	
+BiochemicalReaction2	Active MMP3 can cleave pro-HBEGF to form active HBEGF	Protein4	Protein6	
+BiochemicalReaction2	Active MMP3 can cleave pro-HBEGF to form active HBEGF	Protein4	Protein7	
+BiochemicalReaction3	Mature HBEGF binds to EGFR, triggering dimerisation and autophosphorylation of the receptor	Protein8	Complex2	
+BiochemicalReaction3	Mature HBEGF binds to EGFR, triggering dimerisation and autophosphorylation of the receptor	Protein7	Complex2	
+BiochemicalReaction4	GRB2:SOS1 binds to HBEGF:p-Y-EGFR	Complex2	Complex5	
+BiochemicalReaction4	GRB2:SOS1 binds to HBEGF:p-Y-EGFR	Complex4	Complex5	
+BiochemicalReaction5	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	SmallMolecule2	Complex7	
+BiochemicalReaction5	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	Complex6	Complex7	
+BiochemicalReaction5	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	Complex6	SmallMolecule3	
+BiochemicalReaction5	SOS1-mediated nucleotide exchange of RAS (HB-EFG-initiated)	SmallMolecule2	SmallMolecule3	
+TemplateReaction1	Activated PKC-alpha can activate MMP3	NA	Protein3	

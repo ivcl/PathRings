@@ -1,0 +1,14 @@
+BiochemicalReaction1	CDK1 phosphorylates MASTL	SmallMolecule1	Protein2	
+BiochemicalReaction1	CDK1 phosphorylates MASTL	Protein1	Protein2	
+BiochemicalReaction1	CDK1 phosphorylates MASTL	Protein1	SmallMolecule2	
+BiochemicalReaction1	CDK1 phosphorylates MASTL	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	MASTL (GWL) phosphorylates ARPP19	Protein5	SmallMolecule2	
+BiochemicalReaction2	MASTL (GWL) phosphorylates ARPP19	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	MASTL (GWL) phosphorylates ARPP19	SmallMolecule1	Protein6	
+BiochemicalReaction2	MASTL (GWL) phosphorylates ARPP19	Protein5	Protein6	
+BiochemicalReaction3	MASTL phosphorylates ENSA	Protein7	SmallMolecule2	
+BiochemicalReaction3	MASTL phosphorylates ENSA	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	MASTL phosphorylates ENSA	SmallMolecule1	Protein8	
+BiochemicalReaction3	MASTL phosphorylates ENSA	Protein7	Protein8	
+BiochemicalReaction4	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Protein9	Complex3	
+BiochemicalReaction4	p-S62-ARPP19/p-S67-ENSA binds PP2A-PPP2R2D	Complex2	Complex3	

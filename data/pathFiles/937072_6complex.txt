@@ -1,0 +1,35 @@
+Complex10	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6	endosome membrane	Reactome DB_ID: 936965	Complex1	
+Complex10	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6	endosome membrane	Reactome DB_ID: 936965	Protein25	
+Complex11	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein26	
+Complex11	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein27	
+Complex11	TAB1:TAB2/TAB3:TAK1	cytosol	Reactome DB_ID: 450277	Protein30	
+Complex12	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:TAK1complex	endosome membrane	Reactome DB_ID: 936954	PhysicalEntity2	
+Complex12	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:TAK1complex	endosome membrane	Reactome DB_ID: 936954	Complex11	
+Complex12	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:TAK1complex	endosome membrane	Reactome DB_ID: 936954	Complex10	
+Complex13	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Protein26	
+Complex13	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	PhysicalEntity2	
+Complex13	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Protein27	
+Complex13	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Protein31	
+Complex13	activated TLR4/TLR3:TRIF:K63-pUb-TRAF6:free K63-linked pUb:activated TAK1 complex	endosome membrane	Reactome DB_ID: 936946	Complex10	
+Complex14	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein26	
+Complex14	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	PhysicalEntity2	
+Complex14	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein27	
+Complex14	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein31	
+Complex14	pUb-TRAF6:TAB1:TAB2/TAB3:free polyubiquitin chain : phospho-TAK1	cytosol	Reactome DB_ID: 847073	Protein25	
+Complex2	TRIF:TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166172	Complex3	
+Complex2	TRIF:TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166172	Protein6	
+Complex3	TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166163	Protein2	
+Complex3	TRAM:TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 166163	Complex4	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	Complex5	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	SmallMolecule1	
+Complex4	TLR4:MD2:LPS:CD14	endosome membrane	Reactome DB_ID: 2201299	Protein5	
+Complex5	TLR4:MD2	endosome membrane	Reactome DB_ID: 2201291	Protein3	
+Complex5	TLR4:MD2	endosome membrane	Reactome DB_ID: 2201291	Protein4	
+Complex6	viral dsRNA:TLR3:TRIF 	endosome membrane	Reactome DB_ID: 168907	Protein7	
+Complex6	viral dsRNA:TLR3:TRIF 	endosome membrane	Reactome DB_ID: 168907	Complex7	
+Complex7	viral dsRNA :TLR3	endosome membrane	Reactome DB_ID: 167985	Protein8	
+Complex7	viral dsRNA :TLR3	endosome membrane	Reactome DB_ID: 167985	PhysicalEntity1	
+Complex8	activated TLR4/TLR3:TRIF:TRAF6	endosome membrane	Reactome DB_ID: 936976	Protein1	
+Complex8	activated TLR4/TLR3:TRIF:TRAF6	endosome membrane	Reactome DB_ID: 936976	Complex1	
+Complex9	SARM:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2559578	Protein9	
+Complex9	SARM:TRIF:activated TLR3/TLR4	endosome membrane	Reactome DB_ID: 2559578	Complex1	

@@ -1,0 +1,18 @@
+BiochemicalReaction1	Oxidation of Cysteine to Cystine in Proinsulin	Protein1	Protein2	
+BiochemicalReaction2	Translocation of Cystine-bonded Proinsulin from the Endoplasmic Reticulum to the Golgi	Protein2	Protein6	
+BiochemicalReaction3	Formation of Proinsulin-Zinc-Calcium Complex	Protein6	Complex1	
+BiochemicalReaction3	Formation of Proinsulin-Zinc-Calcium Complex	SmallMolecule1	Complex1	
+BiochemicalReaction3	Formation of Proinsulin-Zinc-Calcium Complex	SmallMolecule2	Complex1	
+BiochemicalReaction4	Transport of Proinsulin-Zinc-Calcium Complex to Immature Secretory Granule	Complex1	Complex2	
+BiochemicalReaction5	Processing of Proinsulin to Insulin	Complex2	Protein11	
+BiochemicalReaction5	Processing of Proinsulin to Insulin	Complex2	Complex3	
+BiochemicalReaction6	Translocation of Insulin Secretory Granules to Cell Cortex	Complex3	Complex3	
+BiochemicalReaction7	Traversal of the cortical actin network and docking at plasma membrane	Complex3	Complex6	
+BiochemicalReaction8	Exocyst complex formation	Protein27	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein28	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein29	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein30	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein31	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein32	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein33	Complex8	
+BiochemicalReaction8	Exocyst complex formation	Protein34	Complex8	

@@ -1,0 +1,90 @@
+Complex1	CDC37	cytosol	Reactome DB_ID: 1225828	Protein1	
+Complex10	Ligand-responsive EGFR mutants dimer	plasma membrane	Reactome DB_ID: 1500849	Complex3	
+Complex13	Dimers of EGF:Ligand-responsive p-6Y-EGFR mutants	plasma membrane	Reactome DB_ID: 1220652	Complex14	
+Complex15	EGF:Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809164	Protein31	
+Complex15	EGF:Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809164	Complex1	
+Complex15	EGF:Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809164	Complex2	
+Complex15	EGF:Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809164	Protein30	
+Complex16	EGF:Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809167	Complex1	
+Complex16	EGF:Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809167	Protein38	
+Complex16	EGF:Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809167	Complex2	
+Complex16	EGF:Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809167	Protein30	
+Complex17	Dimers of ligand-responsive p-6Y-EGFR mutants	plasma membrane	Reactome DB_ID: 1220654	Complex18	
+Complex19	Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809168	Protein31	
+Complex19	Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809168	Complex1	
+Complex19	Ligand-responsive p-6Y-EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809168	Complex2	
+Complex2	HSP90	cytosol	Reactome DB_ID: 1221657	Protein2	
+Complex20	Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809170	Complex1	
+Complex20	Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809170	Protein38	
+Complex20	Ligand-responsive p-6Y-EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1809170	Complex2	
+Complex21	EGFRvIIImut:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1248004	Protein58	
+Complex21	EGFRvIIImut:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1248004	Complex1	
+Complex21	EGFRvIIImut:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1248004	Complex2	
+Complex22	EGFRvIII mutant dimer	plasma membrane	Reactome DB_ID: 1248010	Complex21	
+Complex23	p-5Y-EGFRvIII mutant dimer	plasma membrane	Reactome DB_ID: 1248654	Complex24	
+Complex24	Phospho-EGFRvIIImut:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1248651	Complex1	
+Complex24	Phospho-EGFRvIIImut:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1248651	Complex2	
+Complex24	Phospho-EGFRvIIImut:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1248651	Protein59	
+Complex25	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein60	
+Complex25	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein61	
+Complex26	p-EGFR mutants:GRB2:SOS1	plasma membrane	Reactome DB_ID: 1225859	PhysicalEntity2	
+Complex26	p-EGFR mutants:GRB2:SOS1	plasma membrane	Reactome DB_ID: 1225859	Complex25	
+Complex27	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	Protein62	
+Complex27	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	SmallMolecule4	
+Complex28	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule3	
+Complex28	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein62	
+Complex29	p-EGFR mutants:SHC1	plasma membrane	Reactome DB_ID: 1225858	PhysicalEntity2	
+Complex29	p-EGFR mutants:SHC1	plasma membrane	Reactome DB_ID: 1225858	Protein66	
+Complex30	p-EGFR mutants:p-Y349,350-SHC1	plasma membrane	Reactome DB_ID: 1225854	Protein67	
+Complex30	p-EGFR mutants:p-Y349,350-SHC1	plasma membrane	Reactome DB_ID: 1225854	PhysicalEntity2	
+Complex31	p-EGFR mutants:p-Y349,350-SHC1:GRB2:SOS1	plasma membrane	Reactome DB_ID: 1225856	Complex30	
+Complex31	p-EGFR mutants:p-Y349,350-SHC1:GRB2:SOS1	plasma membrane	Reactome DB_ID: 1225856	Complex25	
+Complex32	GRB2:GAB1:PIK3R1	cytosol	Reactome DB_ID: 179864	Protein68	
+Complex32	GRB2:GAB1:PIK3R1	cytosol	Reactome DB_ID: 179864	Protein69	
+Complex32	GRB2:GAB1:PIK3R1	cytosol	Reactome DB_ID: 179864	Protein61	
+Complex33	p-EGFR mutants:GRB2:GAB1:PIK3R1	plasma membrane	Reactome DB_ID: 1226015	Complex32	
+Complex33	p-EGFR mutants:GRB2:GAB1:PIK3R1	plasma membrane	Reactome DB_ID: 1226015	PhysicalEntity2	
+Complex34	p-EGFR mutants:GRB2:GAB1:PI3K	plasma membrane	Reactome DB_ID: 1226013	Protein70	
+Complex34	p-EGFR mutants:GRB2:GAB1:PI3K	plasma membrane	Reactome DB_ID: 1226013	Complex33	
+Complex35	p-EGFR mutants:PLCG1	plasma membrane	Reactome DB_ID: 1247845	PhysicalEntity2	
+Complex35	p-EGFR mutants:PLCG1	plasma membrane	Reactome DB_ID: 1247845	Protein71	
+Complex36	p-EGFR mutants:p-Y472,771,783,1254-PLCG1	plasma membrane	Reactome DB_ID: 1247846	Protein72	
+Complex36	p-EGFR mutants:p-Y472,771,783,1254-PLCG1	plasma membrane	Reactome DB_ID: 1247846	PhysicalEntity2	
+Complex37	Ligand-responsive p-6Y-EGFR mutants:CBL	plasma membrane	Reactome DB_ID: 1225855	Complex12	
+Complex37	Ligand-responsive p-6Y-EGFR mutants:CBL	plasma membrane	Reactome DB_ID: 1225855	Protein74	
+Complex38	Ligand-responsive p-6Y-EGFR mutants:p-Y371-CBL	plasma membrane	Reactome DB_ID: 1225857	Protein75	
+Complex38	Ligand-responsive p-6Y-EGFR mutants:p-Y371-CBL	plasma membrane	Reactome DB_ID: 1225857	Complex12	
+Complex39	Ligand-responsive Ub-p-6Y-EGFR mutants:p-Y371-CBL	plasma membrane	Reactome DB_ID: 1225852	Protein76	
+Complex39	Ligand-responsive Ub-p-6Y-EGFR mutants:p-Y371-CBL	plasma membrane	Reactome DB_ID: 1225852	Complex38	
+Complex4	Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220581	Complex1	
+Complex4	Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220581	Complex2	
+Complex4	Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220581	Protein23	
+Complex40	HSP90:Benzoquinoid ansamycins	cytosol	Reactome DB_ID: 1218829	Complex2	
+Complex40	HSP90:Benzoquinoid ansamycins	cytosol	Reactome DB_ID: 1218829	SmallMolecule7	
+Complex42	Dimers of EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs	plasma membrane	Reactome DB_ID: 1220574	Complex7	
+Complex43	Dimers of ligand-responsive EGFR mutants resistant to non-covalent TKIs	plasma membrane	Reactome DB_ID: 1220575	Complex4	
+Complex44	Sensitive ligand-responsive EGFR mutants:Non-covalent EGFR TKIs	plasma membrane	Reactome DB_ID: 1220587	Complex45	
+Complex44	Sensitive ligand-responsive EGFR mutants:Non-covalent EGFR TKIs	plasma membrane	Reactome DB_ID: 1220587	PhysicalEntity3	
+Complex46	Dimers of EGF:Ligand-responsive EGFR mutants sensitive to non-covalent TKIs	plasma membrane	Reactome DB_ID: 1220571	Complex8	
+Complex47	Dimers of ligand-responsive EGFR mutants sensitive to non-covalent TKIs 	plasma membrane	Reactome DB_ID: 1181059	Complex5	
+Complex48	Resistant ligand-responsive EGFR mutants:Covalent EGFR TKIs	plasma membrane	Reactome DB_ID: 1220579	Complex41	
+Complex48	Resistant ligand-responsive EGFR mutants:Covalent EGFR TKIs	plasma membrane	Reactome DB_ID: 1220579	PhysicalEntity4	
+Complex49	EGF:EGFR dimer	plasma membrane	Reactome DB_ID: 179845	Complex50	
+Complex5	Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220583	Complex1	
+Complex5	Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220583	Complex2	
+Complex5	Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220583	Protein3	
+Complex50	EGF:EGFR	plasma membrane	Reactome DB_ID: 179847	Protein91	
+Complex50	EGF:EGFR	plasma membrane	Reactome DB_ID: 179847	Protein30	
+Complex51	EGF:EGFR Dimer:irrevTKIs	plasma membrane	Reactome DB_ID: 1225979	Complex49	
+Complex51	EGF:EGFR Dimer:irrevTKIs	plasma membrane	Reactome DB_ID: 1225979	PhysicalEntity4	
+Complex52	EGFR:Cetuximab	plasma membrane	Reactome DB_ID: 1248675	Protein91	
+Complex52	EGFR:Cetuximab	plasma membrane	Reactome DB_ID: 1248675	PhysicalEntity5	
+Complex7	EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220573	Complex1	
+Complex7	EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220573	Complex2	
+Complex7	EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220573	Protein23	
+Complex7	EGF:Ligand-responsive EGFR mutants resistant to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220573	Protein30	
+Complex8	EGF:Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220580	Complex1	
+Complex8	EGF:Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220580	Complex2	
+Complex8	EGF:Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220580	Protein3	
+Complex8	EGF:Ligand-responsive EGFR mutants sensitive to non-covalent TKIs:HSP90:CDC37	plasma membrane	Reactome DB_ID: 1220580	Protein30	
+Complex9	EGF:Ligand-responsive EGFR mutants dimer	plasma membrane	Reactome DB_ID: 1500847	Complex6	

@@ -1,0 +1,10 @@
+BiochemicalReaction1	ANKLE2 binds VRK1 or VRK2	Protein1	Complex1	
+BiochemicalReaction1	ANKLE2 binds VRK1 or VRK2	Protein4	Complex1	
+BiochemicalReaction2	PP2A dephosphorylates BANF1	Complex2	SmallMolecule2	
+BiochemicalReaction2	PP2A dephosphorylates BANF1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	PP2A dephosphorylates BANF1	SmallMolecule1	Complex3	
+BiochemicalReaction2	PP2A dephosphorylates BANF1	Complex2	Complex3	
+BiochemicalReaction3	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	PhysicalEntity1	Complex8	
+BiochemicalReaction3	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Complex5	Complex8	
+BiochemicalReaction3	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Complex3	Complex8	
+BiochemicalReaction3	BANF1 binds chromatin, EMD/TMPO/LEMD3/LEMD2 and lamins	Protein13	Complex8	

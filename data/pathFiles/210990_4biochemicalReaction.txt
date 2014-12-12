@@ -1,0 +1,15 @@
+BiochemicalReaction1	Trans-homophilic interaction of PECAM-1	Protein1	Complex1	
+BiochemicalReaction2	Interaction of integrin alphaVbeta3 with PECAM1	Protein1	Complex3	
+BiochemicalReaction2	Interaction of integrin alphaVbeta3 with PECAM1	Complex2	Complex3	
+BiochemicalReaction3	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	Complex1	SmallMolecule2	
+BiochemicalReaction3	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	SmallMolecule1	Complex4	
+BiochemicalReaction3	Phoshorylation of PECAM-1 by Fyn or Lyn or c-Src	Complex1	Complex4	
+BiochemicalReaction4	Interaction of PECAM-1 and SHIP	Protein11	Complex5	
+BiochemicalReaction4	Interaction of PECAM-1 and SHIP	Protein4	Complex5	
+BiochemicalReaction5	Interaction of PECAM-1 and SHP-2	Protein4	Complex6	
+BiochemicalReaction5	Interaction of PECAM-1 and SHP-2	Protein12	Complex6	
+BiochemicalReaction6	Interaction of PECAM-1 and PLC gamma1	Protein13	Complex7	
+BiochemicalReaction6	Interaction of PECAM-1 and PLC gamma1	Protein4	Complex7	
+BiochemicalReaction7	Interaction of PECAM-1 and SHP-1	Protein4	Complex8	
+BiochemicalReaction7	Interaction of PECAM-1 and SHP-1	Protein14	Complex8	

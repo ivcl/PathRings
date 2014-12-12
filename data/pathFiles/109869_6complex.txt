@@ -1,0 +1,46 @@
+Complex1	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein1	
+Complex1	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein2	
+Complex10	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Protein10	
+Complex10	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Complex5	
+Complex11	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein11	
+Complex11	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein18	
+Complex12	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein11	
+Complex12	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein19	
+Complex13	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein19	
+Complex14	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein20	
+Complex15	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein21	
+Complex15	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex16	
+Complex16	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex17	
+Complex18	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex19	
+Complex18	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex20	
+Complex19	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein22	
+Complex19	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein23	
+Complex2	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule1	
+Complex2	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein3	
+Complex20	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein27	
+Complex20	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein28	
+Complex21	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex19	
+Complex21	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex22	
+Complex22	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein27	
+Complex22	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein29	
+Complex23	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein12	
+Complex23	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein30	
+Complex24	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein12	
+Complex24	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein31	
+Complex25	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein31	
+Complex26	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein32	
+Complex3	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein2	
+Complex3	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex2	
+Complex4	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex3	
+Complex4	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein1	
+Complex5	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein1	
+Complex5	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex2	
+Complex5	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein7	
+Complex6	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein4	
+Complex6	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule1	
+Complex7	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein2	
+Complex7	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex6	
+Complex8	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Protein8	
+Complex8	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Complex5	
+Complex9	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Complex5	
+Complex9	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Protein9	

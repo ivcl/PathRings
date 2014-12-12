@@ -1,0 +1,112 @@
+Complex1	SREBP1A/1C/2:SCAP	endoplasmic reticulum membrane	Reactome DB_ID: 2317520	Protein4	
+Complex1	SREBP1A/1C/2:SCAP	endoplasmic reticulum membrane	Reactome DB_ID: 2317520	Complex2	
+Complex10	SREBP1A/1C/2:SCAP:Cop II Coat	endoplasmic reticulum membrane	Reactome DB_ID: 1655765	Complex1	
+Complex10	SREBP1A/1C/2:SCAP:Cop II Coat	endoplasmic reticulum membrane	Reactome DB_ID: 1655765	Complex7	
+Complex11	SREBP1A/1C/2:SCAP	Golgi membrane	Reactome DB_ID: 1655742	Protein16	
+Complex11	SREBP1A/1C/2:SCAP	Golgi membrane	Reactome DB_ID: 1655742	Complex12	
+Complex12	SCAP tetramer	Golgi membrane	Reactome DB_ID: 1655737	Protein20	
+Complex13	SREBP1A/1C/2 Dimer	cytosol	Reactome DB_ID: 2065548	Protein26	
+Complex14	SREBP1A/1C/2:Importin beta-1	cytosol	Reactome DB_ID: 2065556	Protein31	
+Complex14	SREBP1A/1C/2:Importin beta-1	cytosol	Reactome DB_ID: 2065556	Complex13	
+Complex15	SREBP1A/1C/2:Importin beta-1	nucleoplasm	Reactome DB_ID: 2065543	Complex16	
+Complex15	SREBP1A/1C/2:Importin beta-1	nucleoplasm	Reactome DB_ID: 2065543	Protein36	
+Complex16	SREBP1A/1C/2 Dimer	nucleoplasm	Reactome DB_ID: 1655744	Protein32	
+Complex17	Ran-GTP	nucleoplasm	Reactome DB_ID: 180738	SmallMolecule4	
+Complex17	Ran-GTP	nucleoplasm	Reactome DB_ID: 180738	Protein37	
+Complex18	Importin-beta:Ran GTP complex	nucleoplasm	Reactome DB_ID: 180719	Complex17	
+Complex18	Importin-beta:Ran GTP complex	nucleoplasm	Reactome DB_ID: 180719	Protein36	
+Complex19	SREBP1A/1C Dimer	nucleoplasm	Reactome DB_ID: 2065537	Protein38	
+Complex2	SCAP tetramer	endoplasmic reticulum membrane	Reactome DB_ID: 1655748	Protein8	
+Complex20	SREBP1A/1C:ACACA gene	nucleoplasm	Reactome DB_ID: 2426141	Dna1	
+Complex20	SREBP1A/1C:ACACA gene	nucleoplasm	Reactome DB_ID: 2426141	Complex19	
+Complex21	SREBP1A/1C:ACACB gene	nucleoplasm	Reactome DB_ID: 2426125	Dna2	
+Complex21	SREBP1A/1C:ACACB gene	nucleoplasm	Reactome DB_ID: 2426125	Complex19	
+Complex21	SREBP1A/1C:ACACB gene	nucleoplasm	Reactome DB_ID: 2426125	Protein39	
+Complex22	NF-Y	nucleoplasm	Reactome DB_ID: 381204	Protein40	
+Complex22	NF-Y	nucleoplasm	Reactome DB_ID: 381204	Protein41	
+Complex22	NF-Y	nucleoplasm	Reactome DB_ID: 381204	Protein42	
+Complex23	SREBP1A/1C/2:NF-Y:TM7SF2 gene	nucleoplasm	Reactome DB_ID: 1655714	Dna3	
+Complex23	SREBP1A/1C/2:NF-Y:TM7SF2 gene	nucleoplasm	Reactome DB_ID: 1655714	Complex16	
+Complex23	SREBP1A/1C/2:NF-Y:TM7SF2 gene	nucleoplasm	Reactome DB_ID: 1655714	Complex22	
+Complex24	SREBP1A/1C:NF-Y:GPAM gene	nucleoplasm	Reactome DB_ID: 2426131	Complex19	
+Complex24	SREBP1A/1C:NF-Y:GPAM gene	nucleoplasm	Reactome DB_ID: 2426131	Dna4	
+Complex24	SREBP1A/1C:NF-Y:GPAM gene	nucleoplasm	Reactome DB_ID: 2426131	Complex22	
+Complex25	SREBP1A/1C:NF-Y:SP1:FASN gene	nucleoplasm	Reactome DB_ID: 1655738	Dna5	
+Complex25	SREBP1A/1C:NF-Y:SP1:FASN gene	nucleoplasm	Reactome DB_ID: 1655738	Complex19	
+Complex25	SREBP1A/1C:NF-Y:SP1:FASN gene	nucleoplasm	Reactome DB_ID: 1655738	Protein39	
+Complex25	SREBP1A/1C:NF-Y:SP1:FASN gene	nucleoplasm	Reactome DB_ID: 1655738	Complex22	
+Complex26	SREBP1A/2 Dimer	nucleoplasm	Reactome DB_ID: 2065551	Protein43	
+Complex27	SREBP1A/2:LSS gene	nucleoplasm	Reactome DB_ID: 2426137	Dna6	
+Complex27	SREBP1A/2:LSS gene	nucleoplasm	Reactome DB_ID: 2426137	Complex26	
+Complex28	SREBP1A/2:MVD gene	nucleoplasm	Reactome DB_ID: 2426130	Dna7	
+Complex28	SREBP1A/2:MVD gene	nucleoplasm	Reactome DB_ID: 2426130	Complex26	
+Complex29	SREBP1A/2:NF-Y:HMGCR gene	nucleoplasm	Reactome DB_ID: 2426128	Complex22	
+Complex29	SREBP1A/2:NF-Y:HMGCR gene	nucleoplasm	Reactome DB_ID: 2426128	Complex26	
+Complex29	SREBP1A/2:NF-Y:HMGCR gene	nucleoplasm	Reactome DB_ID: 2426128	Dna8	
+Complex3	SREBP1A/1C/2:SCAP:cholesterol:INSIG	endoplasmic reticulum membrane	Reactome DB_ID: 1655766	Complex4	
+Complex3	SREBP1A/1C/2:SCAP:cholesterol:INSIG	endoplasmic reticulum membrane	Reactome DB_ID: 1655766	Protein4	
+Complex3	SREBP1A/1C/2:SCAP:cholesterol:INSIG	endoplasmic reticulum membrane	Reactome DB_ID: 1655766	Protein1	
+Complex30	SREBP1A/2:NF-Y:SC5DL gene	nucleoplasm	Reactome DB_ID: 2426140	Dna9	
+Complex30	SREBP1A/2:NF-Y:SC5DL gene	nucleoplasm	Reactome DB_ID: 2426140	Complex22	
+Complex30	SREBP1A/2:NF-Y:SC5DL gene	nucleoplasm	Reactome DB_ID: 2426140	Complex26	
+Complex31	SREBP1A/2:NF-Y:SP1:CYP51A1 gene	nucleoplasm	Reactome DB_ID: 2426132	Dna10	
+Complex31	SREBP1A/2:NF-Y:SP1:CYP51A1 gene	nucleoplasm	Reactome DB_ID: 2426132	Protein39	
+Complex31	SREBP1A/2:NF-Y:SP1:CYP51A1 gene	nucleoplasm	Reactome DB_ID: 2426132	Complex22	
+Complex31	SREBP1A/2:NF-Y:SP1:CYP51A1 gene	nucleoplasm	Reactome DB_ID: 2426132	Complex26	
+Complex32	SREBP1A/2:NF-Y:SP1:DHCR7 gene	nucleoplasm	Reactome DB_ID: 2426124	Dna11	
+Complex32	SREBP1A/2:NF-Y:SP1:DHCR7 gene	nucleoplasm	Reactome DB_ID: 2426124	Protein39	
+Complex32	SREBP1A/2:NF-Y:SP1:DHCR7 gene	nucleoplasm	Reactome DB_ID: 2426124	Complex22	
+Complex32	SREBP1A/2:NF-Y:SP1:DHCR7 gene	nucleoplasm	Reactome DB_ID: 2426124	Complex26	
+Complex33	SREBP1A/2:NF-Y:SP1:GGPS1 gene	nucleoplasm	Reactome DB_ID: 2426126	Protein39	
+Complex33	SREBP1A/2:NF-Y:SP1:GGPS1 gene	nucleoplasm	Reactome DB_ID: 2426126	Dna12	
+Complex33	SREBP1A/2:NF-Y:SP1:GGPS1 gene	nucleoplasm	Reactome DB_ID: 2426126	Complex22	
+Complex33	SREBP1A/2:NF-Y:SP1:GGPS1 gene	nucleoplasm	Reactome DB_ID: 2426126	Complex26	
+Complex34	SREBP1A/2:NF-Y:SP1:IDI1 gene	nucleoplasm	Reactome DB_ID: 2426138	Dna13	
+Complex34	SREBP1A/2:NF-Y:SP1:IDI1 gene	nucleoplasm	Reactome DB_ID: 2426138	Protein39	
+Complex34	SREBP1A/2:NF-Y:SP1:IDI1 gene	nucleoplasm	Reactome DB_ID: 2426138	Complex22	
+Complex34	SREBP1A/2:NF-Y:SP1:IDI1 gene	nucleoplasm	Reactome DB_ID: 2426138	Complex26	
+Complex35	SREBP1A/2:NF-Y:SP1:MVK gene	nucleoplasm	Reactome DB_ID: 2426127	Protein39	
+Complex35	SREBP1A/2:NF-Y:SP1:MVK gene	nucleoplasm	Reactome DB_ID: 2426127	Dna14	
+Complex35	SREBP1A/2:NF-Y:SP1:MVK gene	nucleoplasm	Reactome DB_ID: 2426127	Complex22	
+Complex35	SREBP1A/2:NF-Y:SP1:MVK gene	nucleoplasm	Reactome DB_ID: 2426127	Complex26	
+Complex36	SREBP1A/2:NF-Y:SP1:PMVK gene	nucleoplasm	Reactome DB_ID: 2426139	Protein39	
+Complex36	SREBP1A/2:NF-Y:SP1:PMVK gene	nucleoplasm	Reactome DB_ID: 2426139	Complex22	
+Complex36	SREBP1A/2:NF-Y:SP1:PMVK gene	nucleoplasm	Reactome DB_ID: 2426139	Dna15	
+Complex36	SREBP1A/2:NF-Y:SP1:PMVK gene	nucleoplasm	Reactome DB_ID: 2426139	Complex26	
+Complex37	SREBP1A/2:SQLE gene	nucleoplasm	Reactome DB_ID: 2426136	Dna16	
+Complex37	SREBP1A/2:SQLE gene	nucleoplasm	Reactome DB_ID: 2426136	Complex22	
+Complex37	SREBP1A/2:SQLE gene	nucleoplasm	Reactome DB_ID: 2426136	Complex26	
+Complex38	SREBP1A/1C/2:ELOVL6 gene	nucleoplasm	Reactome DB_ID: 1655762	Dna17	
+Complex38	SREBP1A/1C/2:ELOVL6 gene	nucleoplasm	Reactome DB_ID: 1655762	Complex16	
+Complex39	SREBP1A/1C/2:NF-Y:FDPS gene	nucleoplasm	Reactome DB_ID: 2426134	Dna18	
+Complex39	SREBP1A/1C/2:NF-Y:FDPS gene	nucleoplasm	Reactome DB_ID: 2426134	Complex16	
+Complex39	SREBP1A/1C/2:NF-Y:FDPS gene	nucleoplasm	Reactome DB_ID: 2426134	Complex22	
+Complex4	SCAP:cholesterol	endoplasmic reticulum membrane	Reactome DB_ID: 1655741	Complex2	
+Complex4	SCAP:cholesterol	endoplasmic reticulum membrane	Reactome DB_ID: 1655741	SmallMolecule1	
+Complex40	SREBP1A/1C/2:NF-Y:HMGCS1 gene	nucleoplasm	Reactome DB_ID: 2426129	Complex16	
+Complex40	SREBP1A/1C/2:NF-Y:HMGCS1 gene	nucleoplasm	Reactome DB_ID: 2426129	Dna19	
+Complex40	SREBP1A/1C/2:NF-Y:HMGCS1 gene	nucleoplasm	Reactome DB_ID: 2426129	Complex22	
+Complex41	SREBP1A/1C/2:NF-Y:SP1:FDFT1 gene	nucleoplasm	Reactome DB_ID: 2426135	Dna20	
+Complex41	SREBP1A/1C/2:NF-Y:SP1:FDFT1 gene	nucleoplasm	Reactome DB_ID: 2426135	Protein39	
+Complex41	SREBP1A/1C/2:NF-Y:SP1:FDFT1 gene	nucleoplasm	Reactome DB_ID: 2426135	Complex16	
+Complex41	SREBP1A/1C/2:NF-Y:SP1:FDFT1 gene	nucleoplasm	Reactome DB_ID: 2426135	Complex22	
+Complex42	PPARA:RXRA Coactivator Complex	nucleoplasm	Reactome DB_ID: 400154	Complex43	
+Complex42	PPARA:RXRA Coactivator Complex	nucleoplasm	Reactome DB_ID: 400154	Protein47	
+Complex42	PPARA:RXRA Coactivator Complex	nucleoplasm	Reactome DB_ID: 400154	Protein48	
+Complex42	PPARA:RXRA Coactivator Complex	nucleoplasm	Reactome DB_ID: 400154	Protein59	
+Complex43	Activated PPARA:RXRA Heterodimer	nucleoplasm	Reactome DB_ID: 422412	Complex44	
+Complex43	Activated PPARA:RXRA Heterodimer	nucleoplasm	Reactome DB_ID: 422412	Protein46	
+Complex43	Activated PPARA:RXRA Heterodimer	nucleoplasm	Reactome DB_ID: 422412	PhysicalEntity1	
+Complex44	PPARA: Fatty Acid Complex (Activated PPARA)	nucleoplasm	Reactome DB_ID: 422413	Protein45	
+Complex44	PPARA: Fatty Acid Complex (Activated PPARA)	nucleoplasm	Reactome DB_ID: 422413	SmallMolecule5	
+Complex5	INSIG:oxysterol	endoplasmic reticulum membrane	Reactome DB_ID: 2317517	Protein1	
+Complex5	INSIG:oxysterol	endoplasmic reticulum membrane	Reactome DB_ID: 2317517	SmallMolecule2	
+Complex6	SREBP1A/1C/2:SCAP:INSIG:oxysterol	endoplasmic reticulum membrane	Reactome DB_ID: 2317522	Protein4	
+Complex6	SREBP1A/1C/2:SCAP:INSIG:oxysterol	endoplasmic reticulum membrane	Reactome DB_ID: 2317522	Complex2	
+Complex6	SREBP1A/1C/2:SCAP:INSIG:oxysterol	endoplasmic reticulum membrane	Reactome DB_ID: 2317522	Complex5	
+Complex7	Sar1b:GTP:Sec23p:Sec24p	endoplasmic reticulum membrane	Reactome DB_ID: 203997	Complex8	
+Complex7	Sar1b:GTP:Sec23p:Sec24p	endoplasmic reticulum membrane	Reactome DB_ID: 203997	Complex9	
+Complex8	Sar1b:GTP Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204003	SmallMolecule3	
+Complex8	Sar1b:GTP Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204003	Protein9	
+Complex9	Sec23p:Sec24p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204007	Protein10	
+Complex9	Sec23p:Sec24p Complex	endoplasmic reticulum membrane	Reactome DB_ID: 204007	Protein11	

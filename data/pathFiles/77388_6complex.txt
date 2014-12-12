@@ -1,0 +1,62 @@
+Complex1	activated insulin receptor	plasma membrane	Reactome DB_ID: 74678	Complex2	
+Complex1	activated insulin receptor	plasma membrane	Reactome DB_ID: 74678	Complex3	
+Complex10	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein17	
+Complex10	p-Raf1(S259,S621):14-3-3 protein beta/alpha	cytosol	Reactome DB_ID: 109787	Protein18	
+Complex11	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Protein18	
+Complex11	RAS:RAF	plasma membrane	Reactome DB_ID: 109788	Complex9	
+Complex12	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Complex11	
+Complex12	RAS:RAF:14-3-3	plasma membrane	Reactome DB_ID: 109789	Protein17	
+Complex13	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein17	
+Complex13	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Complex9	
+Complex13	Activated RAF1 complex	plasma membrane	Reactome DB_ID: 109793	Protein19	
+Complex14	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	Protein14	
+Complex14	HRAS:GTP	plasma membrane	Reactome DB_ID: 167204	SmallMolecule3	
+Complex15	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Protein18	
+Complex15	Ras:GTP:p-Raf1(S259,S621)	plasma membrane	Reactome DB_ID: 206716	Complex14	
+Complex16	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Protein20	
+Complex16	Activated RAF1 complex:MEK	plasma membrane	Reactome DB_ID: 112406	Complex13	
+Complex17	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Complex13	
+Complex17	Activated RAF1 complex:MEK1	plasma membrane	Reactome DB_ID: 109794	Protein21	
+Complex18	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Protein22	
+Complex18	Activated RAF1 complex:MEK2	plasma membrane	Reactome DB_ID: 109795	Complex13	
+Complex19	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein23	
+Complex19	MEK1:ERK-1	cytosol	Reactome DB_ID: 109838	Protein30	
+Complex2	phospho-insulin receptor	plasma membrane	Reactome DB_ID: 74671	Protein1	
+Complex2	phospho-insulin receptor	plasma membrane	Reactome DB_ID: 74671	Protein2	
+Complex20	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein23	
+Complex20	phospho-ERK-1:MEK1	cytosol	Reactome DB_ID: 109843	Protein31	
+Complex21	phospho-ERK-1 dimer	cytosol	Reactome DB_ID: 109844	Protein31	
+Complex22	phospho-ERK-1 dimer	nucleoplasm	Reactome DB_ID: 109845	Protein32	
+Complex23	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Protein33	
+Complex23	IL6:Tyrosine phosphorylated hexameric IL-6 receptor:Activated JAKs:p-SHP2	plasma membrane	Reactome DB_ID: 1112753	Complex24	
+Complex24	Tyrosine phosphorylated IL6 receptor hexamer:Activated JAKs	plasma membrane	Reactome DB_ID: 1112594	Complex25	
+Complex26	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex27	
+Complex26	IL6:IL6RA:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112585	Complex28	
+Complex27	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein34	
+Complex27	Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112563	Protein35	
+Complex28	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein39	
+Complex28	IL6:IL6RA	plasma membrane	Reactome DB_ID: 1067638	Protein40	
+Complex29	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex27	
+Complex29	IL6:sIL6R:Tyrosine phosphorylated IL6RB:Activated JAKs	plasma membrane	Reactome DB_ID: 1112570	Complex30	
+Complex3	insulin	extracellular region	Reactome DB_ID: 74674	Protein3	
+Complex3	insulin	extracellular region	Reactome DB_ID: 74674	Protein4	
+Complex30	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein39	
+Complex30	IL6:sIL6R	extracellular region	Reactome DB_ID: 1067687	Protein41	
+Complex31	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein24	
+Complex31	MEK2:ERK-2	cytosol	Reactome DB_ID: 109849	Protein42	
+Complex32	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein24	
+Complex32	phospho-ERK-2:MEK2	cytosol	Reactome DB_ID: 109854	Protein43	
+Complex33	phospho-ERK-2 dimer	cytosol	Reactome DB_ID: 109855	Protein43	
+Complex34	phospho-ERK-2 dimer	nucleoplasm	Reactome DB_ID: 109856	Protein44	
+Complex4	SHC:activated insulin receptor	plasma membrane	Reactome DB_ID: 74681	Complex1	
+Complex4	SHC:activated insulin receptor	plasma membrane	Reactome DB_ID: 74681	Protein5	
+Complex5	phospho-SHC: activated insulin receptor	plasma membrane	Reactome DB_ID: 74685	Protein6	
+Complex5	phospho-SHC: activated insulin receptor	plasma membrane	Reactome DB_ID: 74685	Complex1	
+Complex6	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein11	
+Complex6	GRB2:SOS1	cytosol	Reactome DB_ID: 109797	Protein12	
+Complex7	GRB2:SOS:Phospho-SHC	cytosol	Reactome DB_ID: 109798	Protein7	
+Complex7	GRB2:SOS:Phospho-SHC	cytosol	Reactome DB_ID: 109798	Complex6	
+Complex8	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	Protein13	
+Complex8	p21 RAS:GDP	plasma membrane	Reactome DB_ID: 109796	SmallMolecule4	
+Complex9	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	SmallMolecule3	
+Complex9	p21 RAS:GTP	plasma membrane	Reactome DB_ID: 109783	Protein13	

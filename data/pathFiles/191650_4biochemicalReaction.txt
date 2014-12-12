@@ -1,0 +1,9 @@
+BiochemicalReaction1	Association of Cx43  with TJP1	Protein1	Complex2	
+BiochemicalReaction1	Association of Cx43  with TJP1	Complex1	Complex2	
+BiochemicalReaction2	c-src associates with Cx43 in gap junctions	Protein4	Complex5	
+BiochemicalReaction2	c-src associates with Cx43 in gap junctions	Complex3	Complex5	
+BiochemicalReaction3	Phosphorylation of Cx43 by c-src	Complex5	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Cx43 by c-src	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction3	Phosphorylation of Cx43 by c-src	SmallMolecule1	Complex7	
+BiochemicalReaction3	Phosphorylation of Cx43 by c-src	Complex5	Complex7	
+BiochemicalReaction4	Closure of gap junction	Complex9	Complex11	

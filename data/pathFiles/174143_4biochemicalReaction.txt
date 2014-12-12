@@ -1,0 +1,76 @@
+BiochemicalReaction1	Association of Cyclin A:Cdk2 with Cdh1	Complex1	Complex4	
+BiochemicalReaction1	Association of Cyclin A:Cdk2 with Cdh1	Complex2	Complex4	
+BiochemicalReaction10	SCF-mediated degradation of Emi1	Complex18	Protein38	
+BiochemicalReaction10	SCF-mediated degradation of Emi1	Complex18	Protein30	
+BiochemicalReaction10	SCF-mediated degradation of Emi1	Complex18	Complex16	
+BiochemicalReaction11	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	Protein5	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction11	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	SmallMolecule1	Protein20	
+BiochemicalReaction11	Phosphorylation of Cdh1 by Cyclin B1:Cdc2	Protein5	Protein20	
+BiochemicalReaction12	Inactivation of APC/C via CDC20 sequestration	Protein97	Complex20	
+BiochemicalReaction12	Inactivation of APC/C via CDC20 sequestration	Protein31	Complex20	
+BiochemicalReaction13	Formation of the MCC complex	Protein97	Complex21	
+BiochemicalReaction13	Formation of the MCC complex	Protein98	Complex21	
+BiochemicalReaction13	Formation of the MCC complex	Protein31	Complex21	
+BiochemicalReaction13	Formation of the MCC complex	Protein99	Complex21	
+BiochemicalReaction14	Binding of the MCC complex to the APC/C complex	Complex21	Complex23	
+BiochemicalReaction14	Binding of the MCC complex to the APC/C complex	Complex22	Complex23	
+BiochemicalReaction15	Free APC/C phosphorylated by Plk1	Complex24	Complex3	
+BiochemicalReaction16	Free APC/C phosphorylated by Cyclin B:Cdc2	Complex24	Complex3	
+BiochemicalReaction17	Activation of APC/C:Cdc20 by dissociation of Cdc20:phospho-APC/C from Cdc20:phospho-APC/C:Mad2:Bub3:BubR1	Complex23	Complex25	
+BiochemicalReaction17	Activation of APC/C:Cdc20 by dissociation of Cdc20:phospho-APC/C from Cdc20:phospho-APC/C:Mad2:Bub3:BubR1	Complex23	Complex26	
+BiochemicalReaction18	Association of Cyclin B:Cdc2 with Cdc20:APC/C complex	Complex26	Complex28	
+BiochemicalReaction18	Association of Cyclin B:Cdc2 with Cdc20:APC/C complex	Complex27	Complex28	
+BiochemicalReaction19	Ubiquitination of Cyclin B by phospho-APC/C:Cdc20 complex	Protein38	Complex29	
+BiochemicalReaction19	Ubiquitination of Cyclin B by phospho-APC/C:Cdc20 complex	Complex28	Complex29	
+BiochemicalReaction2	Phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex4	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction2	Phosphorylation of Cdh1 by Cyclin A:Cdk2	SmallMolecule1	Complex5	
+BiochemicalReaction2	Phosphorylation of Cdh1 by Cyclin A:Cdk2	Complex4	Complex5	
+BiochemicalReaction20	Degradation of multiubiquitinated Cyclin B	Complex29	Protein38	
+BiochemicalReaction20	Degradation of multiubiquitinated Cyclin B	Complex29	Protein114	
+BiochemicalReaction20	Degradation of multiubiquitinated Cyclin B	Complex29	Complex26	
+BiochemicalReaction21	Association of Securin with Cdc20:APC/C complex	Protein116	Complex30	
+BiochemicalReaction21	Association of Securin with Cdc20:APC/C complex	Complex26	Complex30	
+BiochemicalReaction22	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Protein38	Complex31	
+BiochemicalReaction22	Ubiquitination of Securin by phospho-APC/C:Cdc20 complex	Complex30	Complex31	
+BiochemicalReaction23	Degradation of multiubiquitinated Securin	Complex31	Protein38	
+BiochemicalReaction23	Degradation of multiubiquitinated Securin	Complex31	Complex26	
+BiochemicalReaction24	Dephosphorylation of phospho-Cdh1	Protein118	Protein32	
+BiochemicalReaction24	Dephosphorylation of phospho-Cdh1	SmallMolecule3	Protein32	
+BiochemicalReaction24	Dephosphorylation of phospho-Cdh1	SmallMolecule3	SmallMolecule4	
+BiochemicalReaction24	Dephosphorylation of phospho-Cdh1	Protein118	SmallMolecule4	
+BiochemicalReaction25	Dissociation of Cdc20 from APC/C complex	Complex26	Protein31	
+BiochemicalReaction25	Dissociation of Cdc20 from APC/C complex	Complex26	Complex22	
+BiochemicalReaction26	Association of Cdh1 with the APC/C	Protein32	Complex32	
+BiochemicalReaction26	Association of Cdh1 with the APC/C	Complex22	Complex32	
+BiochemicalReaction27	Association of cell cycle proteins with the APC/C:Cdh1 complex	Protein121	Complex33	
+BiochemicalReaction27	Association of cell cycle proteins with the APC/C:Cdh1 complex	Complex32	Complex33	
+BiochemicalReaction28	Ubiquitination of cell cycle proteins targeted by the APC/C:Cdh1complex	Protein38	Complex34	
+BiochemicalReaction28	Ubiquitination of cell cycle proteins targeted by the APC/C:Cdh1complex	Complex33	Complex34	
+BiochemicalReaction29	Degradation of multiubiquitinated cell cycle proteins	Complex34	Protein38	
+BiochemicalReaction29	Degradation of multiubiquitinated cell cycle proteins	Complex34	Complex32	
+BiochemicalReaction3	Dissociation of phospho-Cdh1 from the APC/C complex	Complex6	Protein20	
+BiochemicalReaction3	Dissociation of phospho-Cdh1 from the APC/C complex	Complex6	Complex3	
+BiochemicalReaction30	APC/C:Cdh1-mediated degradation of Skp2	Complex35	Protein38	
+BiochemicalReaction30	APC/C:Cdh1-mediated degradation of Skp2	Complex35	Complex32	
+BiochemicalReaction31	Multiubiquitination of APC/C-associated Cdh1	Protein126	Complex36	
+BiochemicalReaction31	Multiubiquitination of APC/C-associated Cdh1	Complex6	Complex36	
+BiochemicalReaction32	Degradation of multiubiquitinated Cdh1	Complex36	Complex3	
+BiochemicalReaction32	Degradation of multiubiquitinated Cdh1	Complex36	Protein126	
+BiochemicalReaction4	Association of Emi1 with Cdh1	Protein21	Complex7	
+BiochemicalReaction4	Association of Emi1 with Cdh1	Protein22	Complex7	
+BiochemicalReaction5	Association of Emi1 with Cdc20	Protein23	Complex8	
+BiochemicalReaction5	Association of Emi1 with Cdc20	Protein21	Complex8	
+BiochemicalReaction6	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	Complex9	SmallMolecule2	
+BiochemicalReaction6	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	Complex9	Complex10	
+BiochemicalReaction6	Phosphorylation of the Emi1 DSGxxS degron by Cyclin B:Cdc2	SmallMolecule1	Complex10	
+BiochemicalReaction7	Phosphorylation of the Emi1 DSGxxS degron by Plk1	SmallMolecule1	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of the Emi1 DSGxxS degron by Plk1	Complex9	SmallMolecule2	
+BiochemicalReaction7	Phosphorylation of the Emi1 DSGxxS degron by Plk1	Complex9	Complex12	
+BiochemicalReaction7	Phosphorylation of the Emi1 DSGxxS degron by Plk1	SmallMolecule1	Complex12	
+BiochemicalReaction8	Phosphorylated Emi1 binds the beta-TrCP in the SCF complex	Complex13	Complex17	
+BiochemicalReaction8	Phosphorylated Emi1 binds the beta-TrCP in the SCF complex	Complex16	Complex17	
+BiochemicalReaction9	Ubiquitination of Emi1 by SCF-beta-TrCP	Protein38	Complex18	
+BiochemicalReaction9	Ubiquitination of Emi1 by SCF-beta-TrCP	Complex17	Complex18	

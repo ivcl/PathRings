@@ -1,0 +1,544 @@
+BiochemicalReaction1	PDI is a chaperone for collagen peptides	Protein1	Complex1	
+BiochemicalReaction1	PDI is a chaperone for collagen peptides	Protein46	Complex1	
+BiochemicalReaction10	Dimerization of procollagen type VI	Complex85	Complex86	
+BiochemicalReaction100	Decorin binds collagens	PhysicalEntity111	Complex278	
+BiochemicalReaction100	Decorin binds collagens	Protein1656	Complex278	
+BiochemicalReaction101	BGN binds Collagen types I, VI, (IX)	PhysicalEntity113	Complex279	
+BiochemicalReaction101	BGN binds Collagen types I, VI, (IX)	Protein1661	Complex279	
+BiochemicalReaction102	BGN binds Collagen types II, III	PhysicalEntity114	Complex280	
+BiochemicalReaction102	BGN binds Collagen types II, III	Protein1661	Complex280	
+BiochemicalReaction103	VTN binds collagens I, IV and VI	PhysicalEntity115	Complex281	
+BiochemicalReaction103	VTN binds collagens I, IV and VI	Protein1587	Complex281	
+BiochemicalReaction104	VTN binds collagens II, III and V	PhysicalEntity116	Complex282	
+BiochemicalReaction104	VTN binds collagens II, III and V	Protein1587	Complex282	
+BiochemicalReaction105	VTN binds integrins	Complex283	Complex285	
+BiochemicalReaction105	VTN binds integrins	Protein1587	Complex285	
+BiochemicalReaction106	VTN binds SERPINE1	Protein1666	Complex286	
+BiochemicalReaction106	VTN binds SERPINE1	Protein1587	Complex286	
+BiochemicalReaction107	AGRN binds Alpha-dystroglycan	Protein1615	Complex287	
+BiochemicalReaction107	AGRN binds Alpha-dystroglycan	Protein1613	Complex287	
+BiochemicalReaction108	AGRN binds LRP4:MUSK	Complex288	Complex289	
+BiochemicalReaction108	AGRN binds LRP4:MUSK	Protein1615	Complex289	
+BiochemicalReaction109	AGRN binds Laminins with gamma-1 subunit	Complex290	Complex291	
+BiochemicalReaction109	AGRN binds Laminins with gamma-1 subunit	Protein1615	Complex291	
+BiochemicalReaction11	Tetramerization of procollagen VI	Complex86	Complex87	
+BiochemicalReaction110	AGRN binds NCAM1, PTPRS	Protein1669	Complex292	
+BiochemicalReaction110	AGRN binds NCAM1, PTPRS	Protein1615	Complex292	
+BiochemicalReaction111	AGRN binds Beta amyloid fibril via GAG chains	Protein1615	Complex293	
+BiochemicalReaction111	AGRN binds Beta amyloid fibril via GAG chains	PhysicalEntity117	Complex293	
+BiochemicalReaction112	SPARC binds Collagen type I fibril, hydroxylapatite and Ca2+	Protein1672	Complex294	
+BiochemicalReaction112	SPARC binds Collagen type I fibril, hydroxylapatite and Ca2+	SmallMolecule20	Complex294	
+BiochemicalReaction112	SPARC binds Collagen type I fibril, hydroxylapatite and Ca2+	SmallMolecule21	Complex294	
+BiochemicalReaction112	SPARC binds Collagen type I fibril, hydroxylapatite and Ca2+	PhysicalEntity50	Complex294	
+BiochemicalReaction113	TNC binds Integrin alphaVbeta3, alphaVbeta6, alpha2beta1, alpha7beta1, alpha8beta1, alpha9beta1, alphaXbeta1	Complex296	Complex299	
+BiochemicalReaction113	TNC binds Integrin alphaVbeta3, alphaVbeta6, alpha2beta1, alpha7beta1, alpha8beta1, alpha9beta1, alphaXbeta1	Complex295	Complex299	
+BiochemicalReaction114	Tenascins C, R, (X, N) bind lecticans	PhysicalEntity118	Complex304	
+BiochemicalReaction114	Tenascins C, R, (X, N) bind lecticans	Complex300	Complex304	
+BiochemicalReaction115	Tenascins C, R, (X, N) bind fibronectin matrix	PhysicalEntity91	Complex305	
+BiochemicalReaction115	Tenascins C, R, (X, N) bind fibronectin matrix	Complex300	Complex305	
+BiochemicalReaction116	COMP binds collagen, fibronectin, aggrecan and matrilins	PhysicalEntity119	Complex307	
+BiochemicalReaction116	COMP binds collagen, fibronectin, aggrecan and matrilins	Complex306	Complex307	
+BiochemicalReaction117	Aggrecan binds Hyaluronan and HAPLN1	Protein1675	Complex308	
+BiochemicalReaction117	Aggrecan binds Hyaluronan and HAPLN1	PhysicalEntity120	Complex308	
+BiochemicalReaction117	Aggrecan binds Hyaluronan and HAPLN1	Protein1707	Complex308	
+BiochemicalReaction118	IBSP binds collagen type I	Protein1708	Complex309	
+BiochemicalReaction118	IBSP binds collagen type I	PhysicalEntity50	Complex309	
+BiochemicalReaction119	Dentin matrix protein 1 binds integrin alphaVbeta3	Complex178	Complex310	
+BiochemicalReaction119	Dentin matrix protein 1 binds integrin alphaVbeta3	Protein1709	Complex310	
+BiochemicalReaction12	Secretion of collagens	Complex88	Protein599	
+BiochemicalReaction12	Secretion of collagens	Complex88	PhysicalEntity41	
+BiochemicalReaction120	DSPP(463-1301) binds	Complex195	Complex311	
+BiochemicalReaction120	DSPP(463-1301) binds	Protein1710	Complex311	
+BiochemicalReaction121	Initial activation of proMMP1	Protein1711	Protein1713	
+BiochemicalReaction121	Initial activation of proMMP1	Protein1711	Protein1712	
+BiochemicalReaction122	Autocatalytic activation of MMP1	Protein1712	Protein1724	
+BiochemicalReaction122	Autocatalytic activation of MMP1	Protein1712	Protein1725	
+BiochemicalReaction123	Full activation of MMP1	Protein1724	Protein1726	
+BiochemicalReaction124	proMMP9 binds TIMP1	Protein1732	Complex315	
+BiochemicalReaction124	proMMP9 binds TIMP1	Protein1731	Complex315	
+BiochemicalReaction125	MMP14 (MT1-MMP) binds TIMP2	Protein1734	Complex316	
+BiochemicalReaction125	MMP14 (MT1-MMP) binds TIMP2	Protein1733	Complex316	
+BiochemicalReaction126	MMP14:TIMP2 binds proMMP2	Complex316	Complex317	
+BiochemicalReaction126	MMP14:TIMP2 binds proMMP2	Protein1735	Complex317	
+BiochemicalReaction127	Initial activation of proMMP2 by MMP1, 7	Protein1735	Protein1736	
+BiochemicalReaction127	Initial activation of proMMP2 by MMP1, 7	Protein1735	Protein1737	
+BiochemicalReaction128	Initial activation of proMMP2 by MMP14	Complex317	Complex318	
+BiochemicalReaction128	Initial activation of proMMP2 by MMP14	Complex317	Protein1736	
+BiochemicalReaction129	Autocatalytic activation of proMMP2	Protein1737	Protein1741	
+BiochemicalReaction129	Autocatalytic activation of proMMP2	Protein1737	Protein1728	
+BiochemicalReaction13	Secretion of transmembrane collagens	Complex80	Complex121	
+BiochemicalReaction130	Autocatalytic activation of bound proMMP2	Complex318	Complex319	
+BiochemicalReaction130	Autocatalytic activation of bound proMMP2	Complex318	Protein1741	
+BiochemicalReaction131	Initial activation of proMMP3	Protein1742	Protein1743	
+BiochemicalReaction131	Initial activation of proMMP3	Protein1742	Protein1744	
+BiochemicalReaction132	Autocatalytic activation of MMP3	Protein1744	Protein1748	
+BiochemicalReaction132	Autocatalytic activation of MMP3	Protein1744	Protein1526	
+BiochemicalReaction133	Activation of proMMP7 by MMP3	Protein1749	Protein1527	
+BiochemicalReaction133	Activation of proMMP7 by MMP3	Protein1749	Protein1750	
+BiochemicalReaction134	Initial activation of proMMP7 by trypsin	Protein1749	Protein1754	
+BiochemicalReaction134	Initial activation of proMMP7 by trypsin	Protein1749	Protein1753	
+BiochemicalReaction135	Autocatalytic activation of MMP7	Protein1754	Protein1527	
+BiochemicalReaction135	Autocatalytic activation of MMP7	Protein1754	Protein1755	
+BiochemicalReaction136	Activation of proMMP8	Protein1756	Protein1757	
+BiochemicalReaction137	Initial activation of proMMP9 by MMPs	Protein1732	Protein1759	
+BiochemicalReaction137	Initial activation of proMMP9 by MMPs	Protein1732	Protein1760	
+BiochemicalReaction138	Activation of MMP9 intermediate form by MMPs	Protein1760	Protein1528	
+BiochemicalReaction138	Activation of MMP9 intermediate form by MMPs	Protein1760	Protein1762	
+BiochemicalReaction139	Activation of proMMP9 by proteases	Protein1732	Protein1528	
+BiochemicalReaction139	Activation of proMMP9 by proteases	Protein1732	Protein1763	
+BiochemicalReaction14	Removal of fibrillar collagen N-propeptides	PhysicalEntity42	PhysicalEntity45	
+BiochemicalReaction140	Activation of proMMP10	Protein1764	Protein1729	
+BiochemicalReaction141	Activation of proMMP11 by FURIN	Protein1768	Protein1730	
+BiochemicalReaction142	Initial activation of proMMP13 by plasmin and trypsin	Protein1770	Protein1772	
+BiochemicalReaction142	Initial activation of proMMP13 by plasmin and trypsin	Protein1770	Protein1771	
+BiochemicalReaction143	Initial activation of proMMP13 by MMP3	Protein1770	Protein1774	
+BiochemicalReaction143	Initial activation of proMMP13 by MMP3	Protein1770	Protein1773	
+BiochemicalReaction144	Initial activation of proMMP13 by MMP14 (MT1-MMP)	Protein1770	Protein1776	
+BiochemicalReaction144	Initial activation of proMMP13 by MMP14 (MT1-MMP)	Protein1770	Protein1775	
+BiochemicalReaction145	Autocatalytic activation of proMMP13	Protein1777	Protein1525	
+BiochemicalReaction145	Autocatalytic activation of proMMP13	Protein1777	Protein1778	
+BiochemicalReaction146	Activation of MT-MMPs by FURIN	Protein1782	Protein1789	
+BiochemicalReaction147	MT-MMPs are sorted to the plasma membrane	Protein1789	Protein1796	
+BiochemicalReaction148	Collagen type I degradation by MMP1,2,8,13, PRSS2	PhysicalEntity50	PhysicalEntity128	
+BiochemicalReaction149	Collagen type I degradation by MMP14	PhysicalEntity50	PhysicalEntity128	
+BiochemicalReaction15	Removal of fibrillar collagen C-propeptides	PhysicalEntity45	PhysicalEntity46	
+BiochemicalReaction150	Collagen type I degradation by MMP15	PhysicalEntity50	PhysicalEntity128	
+BiochemicalReaction151	Collagen type II degradation by MMP1,3,8,13,PRSS2	PhysicalEntity51	PhysicalEntity129	
+BiochemicalReaction152	Collagen type II degradation by MMP14	PhysicalEntity51	PhysicalEntity129	
+BiochemicalReaction153	Collagen type II degradation by MMP15	PhysicalEntity51	PhysicalEntity129	
+BiochemicalReaction154	Collagen type III degradation by MMP1,8,9,13	PhysicalEntity52	PhysicalEntity130	
+BiochemicalReaction155	Collagen type III degradation by MMP10	PhysicalEntity52	PhysicalEntity130	
+BiochemicalReaction156	Collagen type III degradation by MMP14	PhysicalEntity52	PhysicalEntity130	
+BiochemicalReaction157	Collagen type III degradation by MMP15	PhysicalEntity52	PhysicalEntity130	
+BiochemicalReaction158	Collagen type IV degradation by MMP2,3,4,9,10,12	PhysicalEntity62	PhysicalEntity131	
+BiochemicalReaction159	Collagen type V degradation by MMP2,9,10	PhysicalEntity53	PhysicalEntity135	
+BiochemicalReaction16	Formation of collagen fibrils	PhysicalEntity48	PhysicalEntity49	
+BiochemicalReaction160	Collagen type VI degradation by MMP2,9,11	PhysicalEntity112	PhysicalEntity136	
+BiochemicalReaction161	Collagen type VII degradation by MMP1,2,3	PhysicalEntity66	PhysicalEntity137	
+BiochemicalReaction162	Collagen type VIII degradation by MMP1	PhysicalEntity138	PhysicalEntity139	
+BiochemicalReaction163	Collagen type VIII degradation by ELANE	PhysicalEntity138	PhysicalEntity139	
+BiochemicalReaction164	Collagen type IX degradation by MMP3,13	Complex108	Complex322	
+BiochemicalReaction165	Collagen type X degradation by MMP1,2	PhysicalEntity106	PhysicalEntity140	
+BiochemicalReaction166	Collagen type X degradation by MMP3, 13	PhysicalEntity106	PhysicalEntity140	
+BiochemicalReaction167	Collagen type XI degradation by MMP1,2,3,9	PhysicalEntity54	PhysicalEntity141	
+BiochemicalReaction168	Collagen type XII degradation by MMP12	Complex110	Complex323	
+BiochemicalReaction169	Collagen type XIV degradation by MMP9,13	Complex111	Complex324	
+BiochemicalReaction17	Formation of collagen networks	PhysicalEntity57	PhysicalEntity58	
+BiochemicalReaction170	Collagen type XV restin release	PhysicalEntity142	PhysicalEntity143	
+BiochemicalReaction170	Collagen type XV restin release	PhysicalEntity142	Protein1939	
+BiochemicalReaction171	Collagen type XVI degradation by MMP9	Complex113	Complex325	
+BiochemicalReaction172	Collagen type XVIII endostatin release	PhysicalEntity144	PhysicalEntity145	
+BiochemicalReaction172	Collagen type XVIII endostatin release	PhysicalEntity144	Protein1976	
+BiochemicalReaction173	Collagen type XIII ectodomain shedding	Complex122	Complex329	
+BiochemicalReaction173	Collagen type XIII ectodomain shedding	Complex122	Protein1992	
+BiochemicalReaction174	Collagen type XVII ectodomain shedding	Complex330	Protein2031	
+BiochemicalReaction174	Collagen type XVII ectodomain shedding	Complex330	Complex331	
+BiochemicalReaction175	Collagen type XXIII ectodomain shedding	Complex332	Protein2048	
+BiochemicalReaction175	Collagen type XXIII ectodomain shedding	Complex332	Complex333	
+BiochemicalReaction176	Collagen type XXV ectomain shedding	Complex125	Protein2074	
+BiochemicalReaction176	Collagen type XXV ectomain shedding	Complex125	Complex334	
+BiochemicalReaction177	Elastin degradation by elastin-degrading extracellular proteinases	PhysicalEntity97	PhysicalEntity149	
+BiochemicalReaction178	Elastin degradation by MMP14	PhysicalEntity97	PhysicalEntity149	
+BiochemicalReaction179	Fibrillin 1, 2,(3) degradation by MMP2, 9, 12 and 13	PhysicalEntity94	PhysicalEntity150	
+BiochemicalReaction18	Collagen type VII dimerization	Complex106	Complex147	
+BiochemicalReaction180	Fibrillin-1 degradation by MMP3, CTSK, CTSL2	PhysicalEntity93	PhysicalEntity151	
+BiochemicalReaction181	Fibrillin-1 degradation by MMP14	PhysicalEntity93	PhysicalEntity151	
+BiochemicalReaction182	Fibrillin-1 degradation by ELANE	PhysicalEntity93	PhysicalEntity151	
+BiochemicalReaction183	Fibronectin degradation by MMP1, 3, 7, 12, 13, 19, CTSS	PhysicalEntity91	PhysicalEntity154	
+BiochemicalReaction184	Fibronectin degradation by MMP10	PhysicalEntity91	PhysicalEntity154	
+BiochemicalReaction185	Fibronectin degradation by MMP14	PhysicalEntity91	PhysicalEntity154	
+BiochemicalReaction186	Fibronectin degradation by CTSG	PhysicalEntity91	PhysicalEntity154	
+BiochemicalReaction187	Fibronectin degradation by ADAM8	PhysicalEntity91	PhysicalEntity155	
+BiochemicalReaction188	Laminin-332 degradation by laminin-322 degrading extracellular proteinases	Complex150	Complex335	
+BiochemicalReaction189	Laminin-322 degradation by MMP14	Complex150	Complex335	
+BiochemicalReaction19	Cleavage of collagen VII NC2 region by BMP1	Complex147	Complex148	
+BiochemicalReaction19	Cleavage of collagen VII NC2 region by BMP1	Complex147	Protein1466	
+BiochemicalReaction190	Laminin-511 degradation by MMP14	Complex216	Complex336	
+BiochemicalReaction191	NID1 degradation by MMP1, 9, 12, ELANE	Protein1604	Protein2117	
+BiochemicalReaction191	NID1 degradation by MMP1, 9, 12, ELANE	Protein1604	Protein2116	
+BiochemicalReaction192	NID1 degradation by MMP3, 7	Protein1604	Protein2117	
+BiochemicalReaction192	NID1 degradation by MMP3, 7	Protein1604	Protein2116	
+BiochemicalReaction193	NID1 degradation by MMP14, MMP15	Protein1604	Protein2117	
+BiochemicalReaction193	NID1 degradation by MMP14, MMP15	Protein1604	Protein2116	
+BiochemicalReaction194	NID1 degradation by MMP19	Protein1604	Protein2117	
+BiochemicalReaction194	NID1 degradation by MMP19	Protein1604	Protein2116	
+BiochemicalReaction195	Aggrecan degradation by ADAMTSs	Protein1675	Protein2125	
+BiochemicalReaction195	Aggrecan degradation by ADAMTSs	Protein1675	Protein2121	
+BiochemicalReaction196	Aggrecan degradation by MMP1,2,3,7,9,12,13	Protein1675	Protein2141	
+BiochemicalReaction196	Aggrecan degradation by MMP1,2,3,7,9,12,13	Protein1675	Protein2137	
+BiochemicalReaction197	Brevican degradation by ADAMTS4, ADAMTS5	Protein1686	Protein2146	
+BiochemicalReaction197	Brevican degradation by ADAMTS4, ADAMTS5	Protein1686	Protein2153	
+BiochemicalReaction198	Brevican degradation by MMP1, 2, 3, 7,8,10,13,19	Protein1686	Protein2168	
+BiochemicalReaction198	Brevican degradation by MMP1, 2, 3, 7,8,10,13,19	Protein1686	Protein2161	
+BiochemicalReaction199	HSPG2 (perlecan) degradation by MMP3, plasmin, (MMP12)	Protein1606	Protein2176	
+BiochemicalReaction199	HSPG2 (perlecan) degradation by MMP3, plasmin, (MMP12)	Protein1606	Protein2177	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	Complex2	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	Complex1	SmallMolecule4	
+BiochemicalReaction2	Collagen prolyl 4-hydroxylase converts proline to 4-hydroxyproline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction20	Formation of anchoring fibrils	Complex148	PhysicalEntity66	
+BiochemicalReaction200	Degradation of perlecan by MMP13, CTSS	Protein1606	Protein2176	
+BiochemicalReaction200	Degradation of perlecan by MMP13, CTSS	Protein1606	Protein2177	
+BiochemicalReaction201	Degradation of perlecan by MMP14, MMP15	Protein1606	Protein2176	
+BiochemicalReaction201	Degradation of perlecan by MMP14, MMP15	Protein1606	Protein2177	
+BiochemicalReaction202	HSPG2 (perlecan) is cleaved by BMP1, TLL1, TLL2, Cathepsin L1	Protein1606	Protein2179	
+BiochemicalReaction202	HSPG2 (perlecan) is cleaved by BMP1, TLL1, TLL2, Cathepsin L1	Protein1606	Protein2180	
+BiochemicalReaction203	DCN is cleaved by MMP2, 3 and 7	Protein1656	Protein2181	
+BiochemicalReaction203	DCN is cleaved by MMP2, 3 and 7	Protein1656	Protein2182	
+BiochemicalReaction204	DCN (decorin) degradation by MMP14	Protein1656	Protein2181	
+BiochemicalReaction204	DCN (decorin) degradation by MMP14	Protein1656	Protein2182	
+BiochemicalReaction205	E-cadherin degradation by MMP3, MMP7 and plasmin.	Complex337	Complex339	
+BiochemicalReaction205	E-cadherin degradation by MMP3, MMP7 and plasmin.	Complex337	Complex338	
+BiochemicalReaction206	E-cadherin degradation by MMP9, KLK7	Complex337	Complex339	
+BiochemicalReaction206	E-cadherin degradation by MMP9, KLK7	Complex337	Complex338	
+BiochemicalReaction207	E-cadherin degradation by ADAM10, ADAM15	Complex337	Complex339	
+BiochemicalReaction207	E-cadherin degradation by ADAM10, ADAM15	Complex337	Complex338	
+BiochemicalReaction208	E-cadherin degradation by PS1:NCSTN (Gamma-secretase)	Complex337	Complex340	
+BiochemicalReaction208	E-cadherin degradation by PS1:NCSTN (Gamma-secretase)	Complex337	Complex341	
+BiochemicalReaction209	E-cadherin degradation by caspase-3 and calpain-1	Complex337	Complex341	
+BiochemicalReaction209	E-cadherin degradation by caspase-3 and calpain-1	Complex337	Complex344	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	Complex150	Complex151	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity62	Complex151	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity66	Complex151	
+BiochemicalReaction21	Collagen type VII binds laminin-322 and collagen IV	PhysicalEntity50	Complex151	
+BiochemicalReaction210	MMP binding by alpha2-macroglobulin	Protein2202	Complex350	
+BiochemicalReaction210	MMP binding by alpha2-macroglobulin	Complex349	Complex350	
+BiochemicalReaction211	MMP2, MMP7, MMP9 bind CD44	Protein2203	Complex351	
+BiochemicalReaction211	MMP2, MMP7, MMP9 bind CD44	Protein2204	Complex351	
+BiochemicalReaction212	MMPs bind BSG (CD147)	Protein1726	Complex352	
+BiochemicalReaction212	MMPs bind BSG (CD147)	Protein2205	Complex352	
+BiochemicalReaction213	OPN (osteopontin) degradation by MMP3, MMP7	Protein2206	Protein2207	
+BiochemicalReaction213	OPN (osteopontin) degradation by MMP3, MMP7	Protein2206	Protein2208	
+BiochemicalReaction214	Collagen types III, IV, V, VI, VIII, IX, XVI bind integrins alpha1beta1 and alpha2beta1	Complex353	Complex355	
+BiochemicalReaction214	Collagen types III, IV, V, VI, VIII, IX, XVI bind integrins alpha1beta1 and alpha2beta1	PhysicalEntity161	Complex355	
+BiochemicalReaction215	Collagen type I binds integrin alpha1beta1, alpha2beta1, alpha10beta1	SmallMolecule26	Complex356	
+BiochemicalReaction215	Collagen type I binds integrin alpha1beta1, alpha2beta1, alpha10beta1	Complex353	Complex356	
+BiochemicalReaction215	Collagen type I binds integrin alpha1beta1, alpha2beta1, alpha10beta1	PhysicalEntity50	Complex356	
+BiochemicalReaction216	Collagen type I binds integrin alpha11beta1	SmallMolecule26	Complex358	
+BiochemicalReaction216	Collagen type I binds integrin alpha11beta1	Complex357	Complex358	
+BiochemicalReaction216	Collagen type I binds integrin alpha11beta1	PhysicalEntity50	Complex358	
+BiochemicalReaction217	Collagen type II binds integrin alpha2beta1, alpha1beta1, alpha11beta1	Complex359	Complex360	
+BiochemicalReaction217	Collagen type II binds integrin alpha2beta1, alpha1beta1, alpha11beta1	PhysicalEntity51	Complex360	
+BiochemicalReaction218	Collagen type II binds integrin alpha10beta1	SmallMolecule26	Complex361	
+BiochemicalReaction218	Collagen type II binds integrin alpha10beta1	Complex354	Complex361	
+BiochemicalReaction218	Collagen type II binds integrin alpha10beta1	PhysicalEntity51	Complex361	
+BiochemicalReaction219	Collagen type IV networks bind integrins alpha1beta1, alpha2beta1	SmallMolecule26	Complex362	
+BiochemicalReaction219	Collagen type IV networks bind integrins alpha1beta1, alpha2beta1	Complex353	Complex362	
+BiochemicalReaction219	Collagen type IV networks bind integrins alpha1beta1, alpha2beta1	PhysicalEntity62	Complex362	
+BiochemicalReaction22	Prolysyl oxidase activation	Protein1498	Protein1510	
+BiochemicalReaction22	Prolysyl oxidase activation	Protein1498	Protein1504	
+BiochemicalReaction220	Collagen type VII binds integrin alpha2beta1	Complex231	Complex363	
+BiochemicalReaction220	Collagen type VII binds integrin alpha2beta1	PhysicalEntity66	Complex363	
+BiochemicalReaction221	Collagen type X binds Integrin alpha2beta1	Complex231	Complex364	
+BiochemicalReaction221	Collagen type X binds Integrin alpha2beta1	PhysicalEntity61	Complex364	
+BiochemicalReaction222	Collagen type XIII binds Integrin alpha1beta1	Complex230	Complex365	
+BiochemicalReaction222	Collagen type XIII binds Integrin alpha1beta1	Complex122	Complex365	
+BiochemicalReaction223	Collagen type XXIII binds Integrin alpha2beta1	Complex231	Complex366	
+BiochemicalReaction223	Collagen type XXIII binds Integrin alpha2beta1	Complex124	Complex366	
+BiochemicalReaction224	Collagen types VI, IX bind integrin alpha10beta1	Complex354	Complex367	
+BiochemicalReaction224	Collagen types VI, IX bind integrin alpha10beta1	PhysicalEntity162	Complex367	
+BiochemicalReaction225	Collagen type IV binds integrin alpha10beta1	Complex354	Complex368	
+BiochemicalReaction225	Collagen type IV binds integrin alpha10beta1	PhysicalEntity62	Complex368	
+BiochemicalReaction226	Collagen type IX binds integrin alpha11beta1	Complex357	Complex369	
+BiochemicalReaction226	Collagen type IX binds integrin alpha11beta1	Complex108	Complex369	
+BiochemicalReaction227	Arresten binds integrin alpha1beta1	Protein2211	Complex370	
+BiochemicalReaction227	Arresten binds integrin alpha1beta1	Complex230	Complex370	
+BiochemicalReaction228	Endostatin binds integrin alphaVbeta3, alphaVbeta5, alpha3beta1, alpha5beta1	Protein1976	Complex372	
+BiochemicalReaction228	Endostatin binds integrin alphaVbeta3, alphaVbeta5, alpha3beta1, alpha5beta1	Complex371	Complex372	
+BiochemicalReaction229	Tumstatin binds integrin alphaVbeta 3, alpha3beta1	Protein2224	Complex374	
+BiochemicalReaction229	Tumstatin binds integrin alphaVbeta 3, alpha3beta1	Complex373	Complex374	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction23	Formation of allysine by LOX	PhysicalEntity50	SmallMolecule14	
+BiochemicalReaction23	Formation of allysine by LOX	PhysicalEntity50	SmallMolecule13	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction23	Formation of allysine by LOX	PhysicalEntity50	PhysicalEntity67	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule11	PhysicalEntity67	
+BiochemicalReaction23	Formation of allysine by LOX	SmallMolecule12	PhysicalEntity67	
+BiochemicalReaction230	Canstatin binds integrins alphaVbeta3, alphaVbeta5	Complex375	Complex376	
+BiochemicalReaction230	Canstatin binds integrins alphaVbeta3, alphaVbeta5	Protein2237	Complex376	
+BiochemicalReaction231	Tetrastatin binds integrin alphaVbeta3	Complex178	Complex377	
+BiochemicalReaction231	Tetrastatin binds integrin alphaVbeta3	Protein2250	Complex377	
+BiochemicalReaction232	THBS1 (Thrombospondin-1) binds Integrin alpha3beta1, alpha4beta1	Complex378	Complex381	
+BiochemicalReaction232	THBS1 (Thrombospondin-1) binds Integrin alpha3beta1, alpha4beta1	Complex380	Complex381	
+BiochemicalReaction233	Integrins alpha4beta1, alpha8beta1, alphaVbeta1, alphaVbeta3, alphaVbeta6 bind Fibronectin matrix	PhysicalEntity91	Complex383	
+BiochemicalReaction233	Integrins alpha4beta1, alpha8beta1, alphaVbeta1, alphaVbeta3, alphaVbeta6 bind Fibronectin matrix	Complex382	Complex383	
+BiochemicalReaction234	SPP1 (osteopontin) binds integrin alpha5beta1, alpha9beta1	Complex384	Complex385	
+BiochemicalReaction234	SPP1 (osteopontin) binds integrin alpha5beta1, alpha9beta1	Protein2206	Complex385	
+BiochemicalReaction235	Osteopontin binds Integrin alpha4beta1	Complex379	Complex386	
+BiochemicalReaction235	Osteopontin binds Integrin alpha4beta1	Protein2206	Complex386	
+BiochemicalReaction236	SPP1 (osteopontin) binds integrin alpha8beta1	Complex198	Complex387	
+BiochemicalReaction236	SPP1 (osteopontin) binds integrin alpha8beta1	Protein2206	Complex387	
+BiochemicalReaction237	Osteopontin binds Integrin alphaVbeta1, alphaVbeta3, alphaVbeta5	Complex388	Complex389	
+BiochemicalReaction237	Osteopontin binds Integrin alphaVbeta1, alphaVbeta3, alphaVbeta5	Protein2206	Complex389	
+BiochemicalReaction238	Osteopontin binds CD44	Protein2204	Complex390	
+BiochemicalReaction238	Osteopontin binds CD44	Protein2206	Complex390	
+BiochemicalReaction239	VCAM1 binds Integrin alpha4beta1	Complex379	Complex391	
+BiochemicalReaction239	VCAM1 binds Integrin alpha4beta1	Protein2264	Complex391	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule12	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule11	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity68	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity50	SmallMolecule14	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity50	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity68	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule11	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule12	SmallMolecule13	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity50	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	PhysicalEntity68	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule11	PhysicalEntity69	
+BiochemicalReaction24	Formation of hydroxyallysine by LOX	SmallMolecule12	PhysicalEntity69	
+BiochemicalReaction240	Integrin alpha4beta1 binds JAM2	Protein2265	Complex392	
+BiochemicalReaction240	Integrin alpha4beta1 binds JAM2	Complex379	Complex392	
+BiochemicalReaction241	MADCAM1-1 binds Integrin alpha4beta7	Protein2267	Complex394	
+BiochemicalReaction241	MADCAM1-1 binds Integrin alpha4beta7	Complex393	Complex394	
+BiochemicalReaction242	Interaction of integrin alpha8beta1 with Tenascin-C	Complex295	Complex395	
+BiochemicalReaction242	Interaction of integrin alpha8beta1 with Tenascin-C	Complex198	Complex395	
+BiochemicalReaction243	Interaction of integrin alpha9beta1 with VCAM1	Complex297	Complex396	
+BiochemicalReaction243	Interaction of integrin alpha9beta1 with VCAM1	Protein2264	Complex396	
+BiochemicalReaction244	Interaction of integrin alpha9beta1 with Tenascin-C	Complex295	Complex397	
+BiochemicalReaction244	Interaction of integrin alpha9beta1 with Tenascin-C	Complex297	Complex397	
+BiochemicalReaction245	Interaction of integrin alphaDbeta2 with fibrin	SmallMolecule26	Complex401	
+BiochemicalReaction245	Interaction of integrin alphaDbeta2 with fibrin	Complex399	Complex401	
+BiochemicalReaction245	Interaction of integrin alphaDbeta2 with fibrin	Complex398	Complex401	
+BiochemicalReaction246	Interaction of integrin alphaXbeta2 with fibrin	Complex402	Complex403	
+BiochemicalReaction246	Interaction of integrin alphaXbeta2 with fibrin	Complex399	Complex403	
+BiochemicalReaction247	VTN (vitronectin) binds Integrin alphaVbeta3, alphaVbeta5, alphaVbeta8	Complex404	Complex405	
+BiochemicalReaction247	VTN (vitronectin) binds Integrin alphaVbeta3, alphaVbeta5, alphaVbeta8	Protein1587	Complex405	
+BiochemicalReaction248	Integrin alphaXbeta2 binds JAM3	Complex402	Complex406	
+BiochemicalReaction248	Integrin alphaXbeta2 binds JAM3	Protein2273	Complex406	
+BiochemicalReaction249	ICAM1-4 bind Integrin alphaLbeta2 (LFA-1)	Complex407	Complex408	
+BiochemicalReaction249	ICAM1-4 bind Integrin alphaLbeta2 (LFA-1)	Protein2274	Complex408	
+BiochemicalReaction25	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity67	Complex153	
+BiochemicalReaction25	Formation of dehydro-lysinonorleucine cross-links	PhysicalEntity50	Complex153	
+BiochemicalReaction250	Integrin alphaLbeta2 (LFA-1) binds F11R (JAM-A)	Complex407	Complex409	
+BiochemicalReaction250	Integrin alphaLbeta2 (LFA-1) binds F11R (JAM-A)	Protein2280	Complex409	
+BiochemicalReaction251	Integrin alphaMbeta2 (MAC1) binds JAM3	Complex410	Complex411	
+BiochemicalReaction251	Integrin alphaMbeta2 (MAC1) binds JAM3	Protein2273	Complex411	
+BiochemicalReaction252	Basigin binds to integrins	Complex412	Complex413	
+BiochemicalReaction252	Basigin binds to integrins	Protein2205	Complex413	
+BiochemicalReaction253	Interaction of integrin alphaVbeta3 with IPSP (Bone sialoprotein 2)	Complex178	Complex414	
+BiochemicalReaction253	Interaction of integrin alphaVbeta3 with IPSP (Bone sialoprotein 2)	Protein1708	Complex414	
+BiochemicalReaction254	Interaction of integrin alphaVbeta3 with Tenascin	Complex178	Complex415	
+BiochemicalReaction254	Interaction of integrin alphaVbeta3 with Tenascin	Protein1653	Complex415	
+BiochemicalReaction255	Interaction of integrin alphaVbeta3 with Fibrillin	Complex178	Complex416	
+BiochemicalReaction255	Interaction of integrin alphaVbeta3 with Fibrillin	Protein1539	Complex416	
+BiochemicalReaction256	Interaction of integrin alphaVbeta3 with von Willbrand Factor	Complex178	Complex417	
+BiochemicalReaction256	Interaction of integrin alphaVbeta3 with von Willbrand Factor	PhysicalEntity163	Complex417	
+BiochemicalReaction257	Interaction of integrin alphaVbeta3 with PECAM1	Complex178	Complex418	
+BiochemicalReaction257	Interaction of integrin alphaVbeta3 with PECAM1	Protein2282	Complex418	
+BiochemicalReaction258	Interaction of integrin alphaEbeta7 with Cadherin-1	Complex419	Complex420	
+BiochemicalReaction258	Interaction of integrin alphaEbeta7 with Cadherin-1	Protein2184	Complex420	
+BiochemicalReaction259	Interaction of integrin alphaIIbbeta3 with Fibronectin	Complex284	Complex421	
+BiochemicalReaction259	Interaction of integrin alphaIIbbeta3 with Fibronectin	Protein1535	Complex421	
+BiochemicalReaction26	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity67	Complex154	
+BiochemicalReaction26	Formation of dehydro-hydroxylysino-norleucine cross-links	PhysicalEntity50	Complex154	
+BiochemicalReaction260	Adhesion of integrin alphaIIbbeta3 to fibrin network	Complex284	Complex422	
+BiochemicalReaction260	Adhesion of integrin alphaIIbbeta3 to fibrin network	Complex399	Complex422	
+BiochemicalReaction261	Interaction of integrin alphaIIbbeta3 with von Willebrand factor	Complex284	Complex425	
+BiochemicalReaction261	Interaction of integrin alphaIIbbeta3 with von Willebrand factor	PhysicalEntity163	Complex425	
+BiochemicalReaction262	Interaction of integrin alphaIIb beta 3 with THBS1 (Thrombospondin-1)	Protein1627	Complex426	
+BiochemicalReaction262	Interaction of integrin alphaIIb beta 3 with THBS1 (Thrombospondin-1)	Complex284	Complex426	
+BiochemicalReaction263	LUM (lumican) binds integrin alpha2beta1	Complex231	Complex427	
+BiochemicalReaction263	LUM (lumican) binds integrin alpha2beta1	Protein1659	Complex427	
+BiochemicalReaction264	HSPG2 (perlecan) binds alpha-dystroglycan	Complex251	Complex428	
+BiochemicalReaction264	HSPG2 (perlecan) binds alpha-dystroglycan	Protein1606	Complex428	
+BiochemicalReaction265	AGRN binds Integrins alphaVbeta1 (Other beta1-containing integrins)	Complex429	Complex430	
+BiochemicalReaction265	AGRN binds Integrins alphaVbeta1 (Other beta1-containing integrins)	Protein1615	Complex430	
+BiochemicalReaction266	COMP binds Integrin alpha5beta1, Integrin alphaVbeta3, CD47	Complex306	Complex431	
+BiochemicalReaction266	COMP binds Integrin alpha5beta1, Integrin alphaVbeta3, CD47	PhysicalEntity164	Complex431	
+BiochemicalReaction267	Endorepellin binds KDR (VEGFR2)	Protein2289	Complex432	
+BiochemicalReaction267	Endorepellin binds KDR (VEGFR2)	Protein2288	Complex432	
+BiochemicalReaction268	Endorepellin binds alpha2beta1 integrin	Complex231	Complex433	
+BiochemicalReaction268	Endorepellin binds alpha2beta1 integrin	Protein2288	Complex433	
+BiochemicalReaction27	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity69	Complex155	
+BiochemicalReaction27	Formation of lysino-5-ketonorleucine cross-links	PhysicalEntity50	Complex155	
+BiochemicalReaction28	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity69	Complex156	
+BiochemicalReaction28	Formation of hydroxylysino-5-ketonorleucine cross-links	PhysicalEntity50	Complex156	
+BiochemicalReaction29	Formation of lysyl-pyridinoline cross-links	Complex156	Complex157	
+BiochemicalReaction29	Formation of lysyl-pyridinoline cross-links	Complex155	Complex157	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	Complex4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	Complex2	SmallMolecule4	
+BiochemicalReaction3	Collagen prolyl 3-hydroxylase converts proline to 3-hydroxyproline	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction30	Formation of hydroxylysyl-pyridinoline cross-links	Complex156	Complex158	
+BiochemicalReaction31	Formation of lysyl-pyrrole cross-links	Complex154	Complex159	
+BiochemicalReaction31	Formation of lysyl-pyrrole cross-links	Complex155	Complex159	
+BiochemicalReaction32	Formation of hydroxylysyl-pyrrole cross-links	Complex154	Complex160	
+BiochemicalReaction32	Formation of hydroxylysyl-pyrrole cross-links	Complex156	Complex160	
+BiochemicalReaction33	Formation of histidino-hydroxylysinonorleucine cross-links	Complex154	Complex161	
+BiochemicalReaction33	Formation of histidino-hydroxylysinonorleucine cross-links	PhysicalEntity50	Complex161	
+BiochemicalReaction34	Formation of collagen fibres	PhysicalEntity49	PhysicalEntity79	
+BiochemicalReaction35	Collagen XI cross-links with collagen II	PhysicalEntity51	Complex162	
+BiochemicalReaction35	Collagen XI cross-links with collagen II	PhysicalEntity54	Complex162	
+BiochemicalReaction36	Collagen IX is cross-linked to the surface of collagen type II fibrils	PhysicalEntity51	Complex163	
+BiochemicalReaction37	Type XII and XIV collagens associate with type I and type II fibrils.	PhysicalEntity87	Complex164	
+BiochemicalReaction37	Type XII and XIV collagens associate with type I and type II fibrils.	PhysicalEntity88	Complex164	
+BiochemicalReaction38	Type X collagen associates with collagen type II fibrils	PhysicalEntity61	Complex165	
+BiochemicalReaction38	Type X collagen associates with collagen type II fibrils	PhysicalEntity51	Complex165	
+BiochemicalReaction39	Hemidesmosome formation	Protein1520	Complex170	
+BiochemicalReaction39	Hemidesmosome formation	Complex166	Complex170	
+BiochemicalReaction39	Hemidesmosome formation	Complex169	Complex170	
+BiochemicalReaction39	Hemidesmosome formation	Complex167	Complex170	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	Complex8	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	SmallMolecule3	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule2	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	Complex7	SmallMolecule4	
+BiochemicalReaction4	Procollagen lysyl hydrolases convert lysine to 5-hydroxylysine	SmallMolecule1	SmallMolecule4	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1521	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1521	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1523	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1523	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1522	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1522	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex112	Protein1524	
+BiochemicalReaction40	Release of endostatin-like peptides	Complex114	Protein1524	
+BiochemicalReaction41	FN1 dimerizes	Protein1535	Complex172	
+BiochemicalReaction42	Integrin alpha5beta1 binds FN1 dimer	Complex172	Complex174	
+BiochemicalReaction42	Integrin alpha5beta1 binds FN1 dimer	Complex173	Complex174	
+BiochemicalReaction42	Integrin alpha5beta1 binds FN1 dimer	SmallMolecule16	Complex174	
+BiochemicalReaction43	FN1 aggregation	Complex174	Complex175	
+BiochemicalReaction43	FN1 aggregation	Protein1535	Complex175	
+BiochemicalReaction44	FN1 binds Collagen types I-V, VII	PhysicalEntity92	Complex176	
+BiochemicalReaction44	FN1 binds Collagen types I-V, VII	Protein1535	Complex176	
+BiochemicalReaction45	Fibrillin C-terminal processing	Protein1538	Protein1546	
+BiochemicalReaction45	Fibrillin C-terminal processing	Protein1538	Protein1542	
+BiochemicalReaction46	Fibrillin-1 binds integrins	Complex177	Complex180	
+BiochemicalReaction46	Fibrillin-1 binds integrins	PhysicalEntity93	Complex180	
+BiochemicalReaction47	Fibrillin microfibril assembly	Protein1546	PhysicalEntity94	
+BiochemicalReaction48	MFAP2, MFAP5 bind microfibrils	PhysicalEntity94	Complex181	
+BiochemicalReaction48	MFAP2, MFAP5 bind microfibrils	Protein1554	Complex181	
+BiochemicalReaction49	Tropoelastin forms aggregate globules	Protein1557	Complex182	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	Complex8	SmallMolecule9	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	SmallMolecule8	Complex13	
+BiochemicalReaction5	Galactosylation of collagen propeptide hydroxylysines by procollagen galactosyltransferases 1, 2.	Complex8	Complex13	
+BiochemicalReaction50	Tropoelastin associates with microfibrils	Protein1558	Complex183	
+BiochemicalReaction50	Tropoelastin associates with microfibrils	Complex181	Complex183	
+BiochemicalReaction50	Tropoelastin associates with microfibrils	Complex182	Complex183	
+BiochemicalReaction51	Elastin cross-linking by lysyl oxidase	Complex183	Complex184	
+BiochemicalReaction52	FBLN1, FBLN2 bind fibronectin	PhysicalEntity91	Complex185	
+BiochemicalReaction52	FBLN1, FBLN2 bind fibronectin	Protein1559	Complex185	
+BiochemicalReaction53	Fibulin binds elastic fibres	Complex184	Complex186	
+BiochemicalReaction53	Fibulin binds elastic fibres	Protein1562	Complex186	
+BiochemicalReaction54	Emilin is found in elastic fibres	Complex186	Complex187	
+BiochemicalReaction54	Emilin is found in elastic fibres	PhysicalEntity98	Complex187	
+BiochemicalReaction55	LTBP1, LTBP3 bind TGF-Beta	Complex188	Complex192	
+BiochemicalReaction55	LTBP1, LTBP3 bind TGF-Beta	Protein1571	Complex192	
+BiochemicalReaction56	LTBP4 binds TGF-Beta-1	Complex189	Complex193	
+BiochemicalReaction56	LTBP4 binds TGF-Beta-1	Protein1574	Complex193	
+BiochemicalReaction57	Latent TGF-beta-1 binds integrins	Complex189	Complex199	
+BiochemicalReaction57	Latent TGF-beta-1 binds integrins	Complex194	Complex199	
+BiochemicalReaction58	Latent TGF-beta-3 binds integrins	Complex191	Complex201	
+BiochemicalReaction58	Latent TGF-beta-3 binds integrins	Complex200	Complex201	
+BiochemicalReaction59	Fibrillins bind BMPs	Protein1578	Complex202	
+BiochemicalReaction59	Fibrillins bind BMPs	PhysicalEntity94	Complex202	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	Complex8	SmallMolecule9	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	SmallMolecule8	SmallMolecule9	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	SmallMolecule8	Complex13	
+BiochemicalReaction6	Galactosylation of collagen propeptide hydroxylysines by PLOD3	Complex8	Complex13	
+BiochemicalReaction60	Fibrillin-1 binds latent TGF-beta	PhysicalEntity93	Complex203	
+BiochemicalReaction60	Fibrillin-1 binds latent TGF-beta	Protein1584	Complex203	
+BiochemicalReaction61	Elastic fibres bind associated proteins	Complex187	Complex204	
+BiochemicalReaction61	Elastic fibres bind associated proteins	Protein1586	Complex204	
+BiochemicalReaction62	Formation of laminin networks	Complex205	PhysicalEntity102	
+BiochemicalReaction63	Integrins alpha3beta1, alpha6beta4 bind laminin-332, 511, 521, (211, 221)	Complex219	Complex222	
+BiochemicalReaction63	Integrins alpha3beta1, alpha6beta4 bind laminin-332, 511, 521, (211, 221)	Complex221	Complex222	
+BiochemicalReaction64	Integrin alpha6beta1 binds laminin-322, 512, 521, 211, 221, 411	Complex223	Complex225	
+BiochemicalReaction64	Integrin alpha6beta1 binds laminin-322, 512, 521, 211, 221, 411	Complex224	Complex225	
+BiochemicalReaction65	Integrin alpha7beta1 binds Laminin-211, 221, 411, 512, 521	Complex227	Complex228	
+BiochemicalReaction65	Integrin alpha7beta1 binds Laminin-211, 221, 411, 512, 521	Complex226	Complex228	
+BiochemicalReaction66	Integrin alpha6beta1, alpha7beta1, alpha1beta1, alpha2beta1 bind laminin-111	Complex206	Complex232	
+BiochemicalReaction66	Integrin alpha6beta1, alpha7beta1, alpha1beta1, alpha2beta1 bind laminin-111	Complex229	Complex232	
+BiochemicalReaction67	Integrin alpha2beta1 binds laminin-332	Complex150	Complex233	
+BiochemicalReaction67	Integrin alpha2beta1 binds laminin-332	Complex231	Complex233	
+BiochemicalReaction68	Laminins bind Nidogens 1, 2	Protein1603	Complex235	
+BiochemicalReaction68	Laminins bind Nidogens 1, 2	Complex234	Complex235	
+BiochemicalReaction69	Laminins bind HSPG2	Complex236	Complex237	
+BiochemicalReaction69	Laminins bind HSPG2	Protein1606	Complex237	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	Complex13	SmallMolecule9	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	SmallMolecule10	SmallMolecule9	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	SmallMolecule10	Complex14	
+BiochemicalReaction7	Glucosylation of collagen propeptide hydroxylysines	Complex13	Complex14	
+BiochemicalReaction70	Laminins:Nidogens binds HSPG2	Complex235	Complex238	
+BiochemicalReaction70	Laminins:Nidogens binds HSPG2	Protein1606	Complex238	
+BiochemicalReaction71	Laminins bind galactosyl sulfatide and related sulfated glycolipids	Complex239	Complex240	
+BiochemicalReaction71	Laminins bind galactosyl sulfatide and related sulfated glycolipids	SmallMolecule17	Complex240	
+BiochemicalReaction72	Laminins:Nidogens binds collagen type IV networks	Complex235	Complex241	
+BiochemicalReaction72	Laminins:Nidogens binds collagen type IV networks	PhysicalEntity62	Complex241	
+BiochemicalReaction73	Laminin-111 binds collagen type IV	Complex206	Complex242	
+BiochemicalReaction73	Laminin-111 binds collagen type IV	PhysicalEntity62	Complex242	
+BiochemicalReaction74	Laminin-332 binds collagen type VII	Complex150	Complex243	
+BiochemicalReaction74	Laminin-332 binds collagen type VII	PhysicalEntity66	Complex243	
+BiochemicalReaction75	Collagen type VII binds collagen type IV	PhysicalEntity62	Complex244	
+BiochemicalReaction75	Collagen type VII binds collagen type IV	PhysicalEntity66	Complex244	
+BiochemicalReaction76	Laminin-111 binds endostatin dimer	Complex245	Complex246	
+BiochemicalReaction76	Laminin-111 binds endostatin dimer	Complex206	Complex246	
+BiochemicalReaction77	Perlecan binds multiple ECM components	PhysicalEntity103	Complex250	
+BiochemicalReaction77	Perlecan binds multiple ECM components	Protein1606	Complex250	
+BiochemicalReaction78	Dystroglycan binds Laminins and Dystrophin	Protein1611	Complex252	
+BiochemicalReaction78	Dystroglycan binds Laminins and Dystrophin	Complex251	Complex252	
+BiochemicalReaction78	Dystroglycan binds Laminins and Dystrophin	Complex239	Complex252	
+BiochemicalReaction79	Dystroglycan binds AGRN and HSPG2	Protein1614	Complex253	
+BiochemicalReaction79	Dystroglycan binds AGRN and HSPG2	Complex251	Complex253	
+BiochemicalReaction8	Association of procollagen chains	PhysicalEntity6	PhysicalEntity36	
+BiochemicalReaction80	Dystroglycan binds NRXN1	Complex251	Complex254	
+BiochemicalReaction80	Dystroglycan binds NRXN1	Protein1616	Complex254	
+BiochemicalReaction81	NTN4 binds laminins with gamma-1, gamma-3	Complex234	Complex255	
+BiochemicalReaction81	NTN4 binds laminins with gamma-1, gamma-3	Protein1617	Complex255	
+BiochemicalReaction82	Discoidin domain receptor 1 binds collagens	Complex256	Complex257	
+BiochemicalReaction82	Discoidin domain receptor 1 binds collagens	PhysicalEntity104	Complex257	
+BiochemicalReaction83	Discoidin domain receptor 2  binds collagens	Complex258	Complex259	
+BiochemicalReaction83	Discoidin domain receptor 2  binds collagens	PhysicalEntity105	Complex259	
+BiochemicalReaction84	Syndecan-1 binds Integrin alphaVbeta3	Complex178	Complex260	
+BiochemicalReaction84	Syndecan-1 binds Integrin alphaVbeta3	Protein1620	Complex260	
+BiochemicalReaction85	Syndecan-1 binds Integrin alphaVBeta5	Protein1620	Complex261	
+BiochemicalReaction85	Syndecan-1 binds Integrin alphaVBeta5	Complex196	Complex261	
+BiochemicalReaction86	Syndecan-1 binds Integrins alpha2beta1, (alpha6beta4)	Protein1620	Complex263	
+BiochemicalReaction86	Syndecan-1 binds Integrins alpha2beta1, (alpha6beta4)	Complex262	Complex263	
+BiochemicalReaction87	Syndecan-1 binds THBS1	Protein1620	Complex264	
+BiochemicalReaction87	Syndecan-1 binds THBS1	Protein1627	Complex264	
+BiochemicalReaction88	Syndecan-1 binds collagen types I, III, V	Protein1620	Complex265	
+BiochemicalReaction88	Syndecan-1 binds collagen types I, III, V	PhysicalEntity107	Complex265	
+BiochemicalReaction89	Syndecan-1 binds fibronectin	PhysicalEntity91	Complex266	
+BiochemicalReaction89	Syndecan-1 binds fibronectin	Protein1620	Complex266	
+BiochemicalReaction9	Procollagen triple helix formation	PhysicalEntity36	Complex49	
+BiochemicalReaction9	Procollagen triple helix formation	Protein599	Complex49	
+BiochemicalReaction90	Syndecan-2 binds CASK	Protein1635	Complex267	
+BiochemicalReaction90	Syndecan-2 binds CASK	Protein1628	Complex267	
+BiochemicalReaction91	Syndecan-2 binds TRAPPC4	Protein1628	Complex268	
+BiochemicalReaction91	Syndecan-2 binds TRAPPC4	Protein1636	Complex268	
+BiochemicalReaction92	Syndecan-4 binds ACTN1	Protein1637	Complex269	
+BiochemicalReaction92	Syndecan-4 binds ACTN1	Protein1644	Complex269	
+BiochemicalReaction93	Syndecan-4 binds PI(4,5)P2	Protein1637	Complex270	
+BiochemicalReaction93	Syndecan-4 binds PI(4,5)P2	SmallMolecule18	Complex270	
+BiochemicalReaction94	Syndecan-4:PI(4,5)P2 binds PKC alpha:DAG	Complex270	Complex272	
+BiochemicalReaction94	Syndecan-4:PI(4,5)P2 binds PKC alpha:DAG	Complex271	Complex272	
+BiochemicalReaction95	Syndecans 1, 2 & 4 bind VTN	PhysicalEntity108	Complex273	
+BiochemicalReaction95	Syndecans 1, 2 & 4 bind VTN	Protein1587	Complex273	
+BiochemicalReaction96	Syndecans 1, 2, 4, (3) bind FGF2	PhysicalEntity109	Complex274	
+BiochemicalReaction96	Syndecans 1, 2, 4, (3) bind FGF2	Protein1607	Complex274	
+BiochemicalReaction97	Syndecans 2, (4) bind TGFB1	PhysicalEntity110	Complex275	
+BiochemicalReaction97	Syndecans 2, (4) bind TGFB1	Protein1565	Complex275	
+BiochemicalReaction98	TNC binds Syndecan-3	Protein1653	Complex276	
+BiochemicalReaction98	TNC binds Syndecan-3	Protein1646	Complex276	
+BiochemicalReaction99	SLRPs bind TGF Beta	Protein1654	Complex277	
+BiochemicalReaction99	SLRPs bind TGF Beta	Protein1655	Complex277	
+Degradation1	Endostatin degradation by cathepsins	Protein1976	NA	
+Degradation2	Collagen type XIX degradation	Complex115	NA	
+Degradation3	Gelatin degradation by MMP1, 2, 3, 7, 8, 9, 12, 13	PhysicalEntity148	NA	
+Degradation4	Gelatin degradation by MMP19	PhysicalEntity148	NA	
