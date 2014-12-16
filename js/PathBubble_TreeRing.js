@@ -84,7 +84,7 @@ PATHBUBBLES.TreeRing = function (x, y, w, h, dataName, dataType, selectedData) {
     tmp += '</div>';
     this.button.addButton(tmp);
 
-    this.pre = "(Ortholog) Human VS ";
+    this.pre = "Human VS ";
 //    this.name = this.pre + "Gallus";
     this.orthologLabel = this.pre + "Gallus";
     this.expressionLabel ="";
@@ -427,8 +427,8 @@ PATHBUBBLES.TreeRing.prototype = {
         $menuBarbubble.css({
             left: this.x + this.offsetX + this.w + 10,
             top: this.y + this.offsetY + this.cornerRadius / 2 + 40,
-            width: 240,
-            height: 265
+            width: 250,
+            height: 290
         });
         $menuBarbubble.find('#operateText').css({
             left: 10,

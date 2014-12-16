@@ -45,7 +45,7 @@ PATHBUBBLES.D3Ring.prototype = {
             .attr("transform", "translate(" + width / 2 + "," + (height / 2+20 ) + ")");
         svg.append("text")
             .style("font-size", 15)
-            .attr("transform", "translate(" + (width / 2) + "," + 12 + ")")
+            .attr("transform", "translate(" + (width - 75) + "," + 12 + ")")
             .style("text-anchor", "middle")
             .text(_this.parent.experiment_Type);
         svg.append("text")
@@ -1592,7 +1592,7 @@ PATHBUBBLES.D3Ring.prototype = {
                             }
                             var colorScaleBar = svg.append("g")
                                 .attr("class", "colorScaleBar")
-                                .attr("transform", "translate(" + (width - 30 - 33) + "," + (  0  ) + ")")
+                                .attr("transform", "translate(" + (width - 100) + "," + ( 25  ) + ")")
                                 .attr("width", BarWidth)
                                 .attr("height", BarHeight);
 
@@ -1652,7 +1652,7 @@ PATHBUBBLES.D3Ring.prototype = {
                             }
                             var colorScaleBar = svg.append("g")
                                 .attr("class", "colorScaleBar")
-                                .attr("transform", "translate(" + (width - 30 - 80) + "," + (  0  ) + ")")
+                                .attr("transform", "translate(" + (width - 30 - 80) + "," + (  25  ) + ")")
                                 .attr("width", BarWidth)
                                 .attr("height", BarHeight);
 
