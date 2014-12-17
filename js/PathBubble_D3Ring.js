@@ -98,7 +98,10 @@ PATHBUBBLES.D3Ring.prototype = {
         var tooltip = d3.select("#svg" + this.parent.id)
             .append("div")
             .attr("class", "tooltip")
-            .style("fill", "#000")
+            .style("fill", "#333")
+            .style("font-size", "12px")
+            .style("background", "#eee")
+            .style("box-shadow", "0 0 5px #999999")
             .style("position", "absolute")
             .style("z-index", "10");
 
@@ -123,8 +126,9 @@ PATHBUBBLES.D3Ring.prototype = {
             _this._crossTalkSymbols = crossTalkSymbols;
 
             d3.text("./data/ratelimitsymbol.txt", function (error, rateLimitSymbols) {
-                var rateLimit_Symbols = rateLimitSymbols.split("\r\n");
-
+                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
+                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
+                var rateLimit_Symbols = rateLimitSymbols.split("\n");
                 _this._rateLimitSymbols.keys = d3.set(rateLimit_Symbols.map(function (d) {
                     if (d !== "")
                         return d;
@@ -732,10 +736,15 @@ PATHBUBBLES.D3Ring.prototype = {
                                             .style("fill", "#f00")
                                             .attr("width", function (d) {
                                                 if(d.upX==undefined)
+                                                {
                                                     d.upX = 0;
+                                                }
                                                 if (d.expression == undefined || d.gallusOrth == undefined || upMax == 0)
+                                                {
                                                     d.upX= 0;
-                                                d.upX= 1/2*Math.floor((d.expression.ups.length) / upMax * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy)) ));
+                                                    return d.upX;
+                                                }
+                                                d.upX= 1/2*Math.floor( (d.expression.ups.length) / upMax * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy)) ));
                                                 return d.upX;
                                             })
                                             .attr("transform", function (d, i) {
@@ -869,7 +878,7 @@ PATHBUBBLES.D3Ring.prototype = {
                                             .attr("width", function (d) {
                                                 if(d.upX==undefined)
                                                     d.upX = 0;
-                                                if (d.expression == undefined || d.gallusOrth == undefined || upMax == 0)
+                                                if (d.expression == undefined || d.gallusOrth == undefined || upMax == 0|| d.depth==0)
                                                     d.upX= 0;
                                                 else
                                                     d.upX=1/2*Math.floor((d.expression.ups.length) / upMax * ( Math.max(0, y(d.y + d.dy)) - Math.max(0, y(d.y)) ));
@@ -910,7 +919,7 @@ PATHBUBBLES.D3Ring.prototype = {
                                                 return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
                                             })
                                             .attr("width", function (d) {
-                                                if (d.expression == undefined || d.gallusOrth == undefined || DownMax == 0)
+                                                if (d.expression == undefined || d.gallusOrth == undefined || DownMax == 0|| d.depth==0)
                                                     return 0;
                                                 return 1/2*Math.floor((d.expression.downs.length) / DownMax * ( Math.max(0, y(d.y + d.dy)) - Math.max(0, y(d.y)) ));
                                             })
@@ -1153,6 +1162,8 @@ PATHBUBBLES.D3Ring.prototype = {
                                         .attr("class", "highLightNode");
                                     nodeCircle =nodeCircle.append("circle")
                                     .attr('cx', function (d) {
+                                            if(d.depth == 0)
+                                                return 0;
                                             return Math.sin(
                                                     Math.PI - (Math.max(0, Math.min(2 * Math.PI, x(d.x)))
                                                     + Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx)))) / 2
@@ -1160,14 +1171,19 @@ PATHBUBBLES.D3Ring.prototype = {
                                                 * Math.max(0, y(d.y+ d.dy/2));
                                         })
                                         .attr("cy", function (d) {
-
+                                            if(d.depth == 0)
+                                                return 0;
                                             return Math.cos(
                                                     Math.PI - (Math.max(0, Math.min(2 * Math.PI, x(d.x)))
                                                     + Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx)))) / 2
                                             )
                                                 * Math.max(0, y(d.y+ d.dy/2));
                                         })
-                                        .attr('r',5)
+                                        .attr('r',function(d){
+                                            if(d.depth == 0)
+                                                return 0;
+                                            return 5;
+                                        })
                                         .style('fill',"yellow")
                                         .on("mouseover", function (d, i) {
                                             if (d.name == "homo sapiens")
@@ -1177,7 +1193,7 @@ PATHBUBBLES.D3Ring.prototype = {
                                             });
                                             return tooltip.transition()
                                                 .duration(50)
-                                                .style("opacity", 0.5);
+                                                .style("opacity", 0.8);
                                         })
                                         .on("mousemove", function (d, i) {
                                             if (d.name == "homo sapiens")
@@ -1189,7 +1205,7 @@ PATHBUBBLES.D3Ring.prototype = {
                                         .on("mouseout", function () {
                                             return tooltip.style("opacity", 0);
                                         })
-                                        .style("opacity", 0.6);
+                                        .style("opacity", 0.8);
                                 }
                                 function processTextLinks(nodes) {
                                     var importLinks = [];
@@ -1685,7 +1701,6 @@ PATHBUBBLES.D3Ring.prototype = {
                                 });
                         }
                     }
-//                });
 
             });
         });
