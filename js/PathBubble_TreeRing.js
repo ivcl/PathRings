@@ -12,7 +12,11 @@ PATHBUBBLES.TreeRing = function (x, y, w, h, dataName, dataType, selectedData) {
     this.y = y || 0;
     this.w = w || 500;
     this.h = h || 530;
-    this.strokeColor = "#00ffff";
+//    this.strokeColor = "#00ffff";
+    {
+        var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length));
+        this.strokeColor = PATHBUBBLES.borderColors[id];
+    }
     this.fillColor = "#ffffff";
     this.cornerRadius = 20;
     this.lineWidth = 10;
@@ -388,7 +392,8 @@ PATHBUBBLES.TreeRing.prototype = {
             alert("It is not Grouped, right now!");
         }
         else {
-
+            var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+            this.strokeColor = PATHBUBBLES.borderColors[id];
             this.GROUP = false;
             this.y =this.parent.children[this.parent.children.length -1].y - 20;
             this.parent.removeObject(this);
@@ -661,10 +666,16 @@ PATHBUBBLES.TreeRing.prototype = {
             this.offsetX = 0;
             this.offsetY = 0;
         }
+        this.shape.strokeColor = this.strokeColor;
         this.shape.offsetX = this.offsetX;
         this.shape.offsetY = this.offsetY;
         this.shape.x = this.x;
         this.shape.y = this.y;
+        this.menu.fillColor = this.strokeColor;
+        this.ungroupMenu.fillColor = this.strokeColor;
+        this.closeMenu.fillColor = this.strokeColor;
+        this.resetMenu.fillColor = this.strokeColor;
+
         this.menu.x = this.x + this.w - this.cornerRadius / 2;
         this.menu.y = this.y + this.cornerRadius / 2;
         this.ungroupMenu.x = this.x + this.w - this.cornerRadius / 2 - (this.cornerRadius +5)*2;

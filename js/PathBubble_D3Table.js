@@ -385,7 +385,6 @@ PATHBUBBLES.D3Table.prototype = {
                                 });
                         }
                     }
-
                     if(jsonData[0].hasOwnProperty("crossTalk"))
                     {
                         var maxCrossTalks = d3.max(jsonData,function(d){ return d.crossTalk});

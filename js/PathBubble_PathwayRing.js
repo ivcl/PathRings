@@ -298,6 +298,8 @@ PATHBUBBLES.TreeRing.prototype = {
             alert("It is not Grouped, right now!");
         }
         else {
+            var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) + 1);
+            this.strokeColor = PATHBUBBLES.borderColors[id];
             var group = this.parent;
             this.GROUP = false;
             var tempdata = [];

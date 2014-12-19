@@ -12,7 +12,12 @@ PATHBUBBLES.Bubble = function (x, y, w, h, strokeColor, fillColor, cornerRadius,
     this.y = y || 0;
     this.w = w || 500;
     this.h = h || 500;
-    this.strokeColor = strokeColor || "#00ffff";
+    if(strokeColor==undefined)
+    {
+        var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+        this.strokeColor = PATHBUBBLES.borderColors[id];
+    }
+
     this.fillColor = fillColor || "#ffffff";
     this.cornerRadius = cornerRadius || 20;
     this.lineWidth = 10;
@@ -177,24 +182,8 @@ PATHBUBBLES.Bubble.prototype = {
             this.parent.removeObject(this);
             scene.moveObjectToFront(this);
             this.parent = scene;
-//            var tempdata = [];
-//            for (var i = 0; i < group.children.length; ++i) {
-//                if (group.children[i].id !== this.id) {
-//                    var a = group.children[i];
-//                    a.parent = undefined;
-//                    tempdata.push(a);
-//                }
-//            }
-//            this.parent = undefined;     //just has one set
-//            group.tempPoints.length = 0;
-//            group.arranged.length = 0;
-//            group.children.length = 0;
-//            for (var i = tempdata.length - 1; i >= 0; i--) {
-//                group.RESET = true;
-//                group.addToGroup(tempdata[i]);
-//            }
-//            group.RESET = false;
-//            scene.addObject(group);
+            var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+            this.strokeColor = PATHBUBBLES.borderColors[id];
         }
     },
     detectEqual: function (object1, object2) {
@@ -328,6 +317,7 @@ PATHBUBBLES.Bubble.prototype = {
             this.offsetX = 0;
             this.offsetY = 0;
         }
+        this.shape.strokeColor = this.strokeColor;
         this.shape.offsetX = this.offsetX;
         this.shape.offsetY = this.offsetY;
         this.shape.x = this.x;
@@ -338,6 +328,9 @@ PATHBUBBLES.Bubble.prototype = {
         this.ungroupMenu.y = this.y + this.cornerRadius / 2;
         this.closeMenu.x = this.x + this.w - this.cornerRadius / 2 - this.cornerRadius -5;
         this.closeMenu.y = this.y + this.cornerRadius / 2;
+        this.menu.fillColor = this.strokeColor;
+        this.ungroupMenu.fillColor = this.strokeColor;
+        this.closeMenu.fillColor = this.strokeColor;
         this.shape.w = this.w;
         this.shape.h = this.h;
     },

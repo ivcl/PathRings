@@ -81,6 +81,8 @@ PATHBUBBLES.Interaction = function (renderer) {
                 _this.selection[0] = PATHBUBBLES.objects[i];
                 _this.selection[0].ungroupMenu.HighLight_State = !_this.selection[0].ungroupMenu.HighLight_State;
 //                scene.moveObjectToFront(_this.selection[0]);
+
+
                 _this.selection[0].ungroup();
                 renderer.valid = false;
 

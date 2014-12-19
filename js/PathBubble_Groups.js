@@ -63,6 +63,7 @@ PATHBUBBLES.Groups.prototype = {
             }
             else
             {
+                object.strokeColor = this.children[0].strokeColor;
                 var overlappedObjects = [];
                 for(var i=0; i< this.children.length; ++i)
                 {

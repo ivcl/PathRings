@@ -11,7 +11,11 @@ PATHBUBBLES.BiPartite = function (x, y, w, h, data,name) {
     this.y = y || 0;
     this.w = w || 500;
     this.h = h || 500;
-    this.strokeColor = "#00ffff";
+//    if(strokeColor==undefined)
+    {
+        var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+        this.strokeColor = PATHBUBBLES.borderColors[id];
+    }
     this.fillColor = "#ffffff";
     this.cornerRadius = 20;
     this.lineWidth = 10;
@@ -136,7 +140,8 @@ PATHBUBBLES.BiPartite.prototype = {
             alert("It is not Grouped, right now!");
         }
         else {
-
+            var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+            this.strokeColor = PATHBUBBLES.borderColors[id];
             this.GROUP = false;
             this.y =this.parent.children[this.parent.children.length -1].y - 20;
             this.parent.removeObject(this);
@@ -256,6 +261,7 @@ PATHBUBBLES.BiPartite.prototype = {
             this.offsetX = 0;
             this.offsetY = 0;
         }
+        this.shape.strokeColor = this.strokeColor;
         this.shape.offsetX = this.offsetX;
         this.shape.offsetY = this.offsetY;
         this.shape.x = this.x;

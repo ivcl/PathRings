@@ -11,7 +11,12 @@ PATHBUBBLES.Table = function (x, y, w, h, dbId, data, queryObject,name) {
     this.y = y || 0;
     this.w = w || 500;
     this.h = h || 500;
-    this.strokeColor = "#00ffff";
+//    if(strokeColor==undefined)
+    {
+        var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+        this.strokeColor = PATHBUBBLES.borderColors[id];
+    }
+//    this.strokeColor = "#00ffff";
     this.fillColor = "#ffffff";
     this.cornerRadius = 20;
     this.lineWidth = 10;
@@ -230,7 +235,8 @@ PATHBUBBLES.Table.prototype = {
             alert("It is not Grouped, right now!");
         }
         else {
-
+            var id=Math.floor((Math.random() * PATHBUBBLES.borderColors.length) );
+            this.strokeColor = PATHBUBBLES.borderColors[id];
             this.GROUP = false;
             this.y =this.parent.children[this.parent.children.length -1].y - 20;
             this.parent.removeObject(this);
@@ -360,11 +366,15 @@ PATHBUBBLES.Table.prototype = {
             this.offsetX = 0;
             this.offsetY = 0;
         }
+        this.shape.strokeColor = this.strokeColor;
 //        this.w = Math.max(this.w, $("#svg" + this.id).children("table").width()+40);
         this.shape.offsetX = this.offsetX;
         this.shape.offsetY = this.offsetY;
         this.shape.x = this.x;
         this.shape.y = this.y;
+        this.menu.fillColor = this.strokeColor;
+        this.ungroupMenu.fillColor = this.strokeColor;
+        this.closeMenu.fillColor = this.strokeColor;
         this.menu.x = this.x + this.w - this.cornerRadius / 2;
         this.menu.y = this.y + this.cornerRadius / 2;
         this.ungroupMenu.x = this.x + this.w - this.cornerRadius / 2 - (this.cornerRadius +5)*2;

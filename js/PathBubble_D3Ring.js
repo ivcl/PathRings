@@ -126,9 +126,10 @@ PATHBUBBLES.D3Ring.prototype = {
             _this._crossTalkSymbols = crossTalkSymbols;
 
             d3.text("./data/ratelimitsymbol.txt", function (error, rateLimitSymbols) {
-                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
-                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
-                var rateLimit_Symbols = rateLimitSymbols.split("\n");
+//                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
+//                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
+//                var rateLimit_Symbols = rateLimitSymbols.split("\n");
+                var rateLimit_Symbols = rateLimitSymbols.split("\r\n");
                 _this._rateLimitSymbols.keys = d3.set(rateLimit_Symbols.map(function (d) {
                     if (d !== "")
                         return d;
