@@ -2,20 +2,18 @@
  * Provides requestAnimationFrame in a cross browser way.
  * @author paulirish / http://paulirish.com/
  */
-if ( !window.requestAnimationFrame ) {
+var $P = PATHBUBBLES;
 
-    window.requestAnimationFrame = ( function() {
+var existingImplementation =
+			window.requestAnimationFrame ||
+			window.webkitRequestAnimationFrame ||
+      window.mozRequestAnimationFrame ||
+      window.oRequestAnimationFrame ||
+      window.msRequestAnimationFrame;
 
-        return window.webkitRequestAnimationFrame ||
-            window.mozRequestAnimationFrame ||
-            window.oRequestAnimationFrame ||
-            window.msRequestAnimationFrame ||
-            function( /* function FrameRequestCallback */ callback, /* DOMElement Element */ element ) {
-
-                window.setTimeout( callback, 1000 / 60 );
-
-            };
-
-    } )();
-
-}
+if (existingImplementation) {
+	$P.requestAnimationFrame = function(callback, element) {
+		return existingImplementation.call(window, callback, element);};}
+else {
+	$P.requestAnimationFrame = function(callback, element) {
+    window.setTimeout(callback, 1000 / 60);};}
