@@ -611,27 +611,25 @@ $P.D3TreeRing = $P.defineClass(
 												return getExpressionColor((d.unique.downs.length + d.unique.ups.length) / d.unique.sharedSymbols.length);
 											}
 										}
-									})
+										return null;})
 									.style('cursor', 'pointer')
 									.on('contextmenu', rightClick)
 									.on('click', click)
 									.on('mousedown', function() {d3.event.stopPropagation();})
 									.on('mouseover', function (d, i) {
 										if (d.name == 'homo sapiens')
-											return;
+											return null;
 										tooltip.html(function () {
 											return format_name(d);
 										});
 										return tooltip.transition()
 											.duration(50)
-											.style('opacity', 0.9);
-									})
+											.style('opacity', 0.9);})
 									.on('mousemove', function (d, i) {
-										if (d.name == 'homo sapiens')
-											return;
+										if (d.name == 'homo sapiens') {return null;}
 										return tooltip
 											.style('top', (d3.event.pageY - 10 - _this.parent.y - 70 ) + 'px')
-											.style('left', (d3.event.pageX + 10 - _this.parent.x) + 'px');
+											.style('left', (d3.event.pageX + 10 - _this.parent.x + $P.state.scrollX) + 'px');
 									})
 									.on('mouseout', function () {
 										return tooltip.style('opacity', 0);
