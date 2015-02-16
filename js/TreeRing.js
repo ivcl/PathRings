@@ -29,10 +29,9 @@
 			this._downLabel = config.downLabel || 'Down Expressed';
 
 			$P.BubbleBase.call(this, {
-				type: 'TreeRing',
 				x: x, y: y, w: w, h: h,
 				mainMenu: true, closeMenu: true, groupMenu: true, resetMenu: true,
-				name: function() {return this.dataName || 'Human';}
+				name: dataName || 'Human'
 			});},
 		{
 			get minRatio() {return this._minRatio;},
