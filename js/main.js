@@ -74,7 +74,7 @@ $(document).ready(function () {
         bubble = new $P.PathwayDiagram({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
         $P.state.scene.add(bubble);}
       else if (key === 'Open_TreeRing') {
-        bubble = new $P.TreeRing(mousePosX + $P.state.scrollX, mousePosY, 700, 760, 'homo sapiens');
+        bubble = new $P.TreeRing(mousePosX + $P.state.scrollX, mousePosY, 700, 760, 'human');
         $P.state.scene.add(bubble);}
 			else if ('open_force' == key) {
 				bubble = new $P.Force({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});

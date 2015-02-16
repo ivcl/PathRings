@@ -31,7 +31,7 @@
 			$P.BubbleBase.call(this, {
 				x: x, y: y, w: w, h: h,
 				mainMenu: true, closeMenu: true, groupMenu: true, resetMenu: true,
-				name: dataName || 'Human'
+				name: dataName || 'human'
 			});},
 		{
 			get minRatio() {return this._minRatio;},
