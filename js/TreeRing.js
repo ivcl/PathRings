@@ -151,7 +151,7 @@
 			tmp += '<input type="file" id="customOrth"  style="position: absolute; left: 0px; top: 25px; width: 220px;">';
 			tmp += '<div id=loadOrthDiv style="position: absolute; left: 0px; top: 50px; width: 220px;">';
 			tmp += '<input type="button" id=loadOrth value= "Load(Ortholog)" >';
-			tmp += '<a href="./data/sample/customeOrtholog.txt" target="_blank"><button style="position: absolute; margin-left:10px"><font style="font-size: 10px">Sample Data</font></button></a>';
+			tmp += '<a href="./data/sample/Orthology.example1.txt" target="_blank" download><button style="position: absolute; margin-left:10px"><font style="font-size: 10px">Sample Data</font></button></a>';
 			tmp += '</div>';
 			tmp += '</div>';
 			tmp += '<div id="expressionTypeDiv" style="position: absolute; left: 10px; width: 220px;">';
@@ -180,7 +180,7 @@
 			tmp += '<input type="file" id="customExp" style="position: absolute; left: 0px; top: 40px; width: 220px">';
 			tmp += '<div id=loadExpDiv style="position: absolute; left: 0px; top: 105px; width: 220px;">';
 			tmp += '<input type="button" id=loadExp value= "Load(Expression)" >';
-			tmp += '<a href="./data/sample/TGF0expression.txt" target="_blank"><button style="position: absolute; margin-left:10px"><font style="font-size: 10px">Sample Data</font></button></a>';
+			tmp += '<a href="./data/sample/GeneExpression.TGF.txt" target="_blank" download><button style="position: absolute; margin-left:10px"><font style="font-size: 10px">Sample Data</font></button></a>';
 			tmp += '</div>';
 			tmp += '</div>';
 
