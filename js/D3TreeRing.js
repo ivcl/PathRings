@@ -145,7 +145,7 @@ $P.D3TreeRing = $P.defineClass(
 							d3.select(this).attr('transform', 'translate('+dx+','+dy+')');
 						})
 						.on('dragend', function(d) {
-							var force, x, y, expression;
+							var force, x, y, expression, color;
 
 							if (!_this.dragLeft) {return;}
 							if (!_this.dragAbsolute) {return;}
@@ -169,6 +169,15 @@ $P.D3TreeRing = $P.defineClass(
 								force.addPathway(d.dbId, d.name, bubble.strokeStyle);
 								d.symbols.forEach(function(symbol) {
 									force.svg.entity_expand({name: symbol, pathwayId: d.dbId}, _this.getExpressionMap());});}
+
+							color = force.getPathwayColor(d.dbId);
+							$P.state.scene.links.push(
+								new $P.BubbleLink({
+									fillStyle: color,
+									source: new $P.D3TreeRing.BubbleLinkEnd({
+										d3ring: treeRing,
+										datum: d3.select(this).datum()}),
+									target: new $P.BubbleLink.End({object: force})}));
 
 							d3.select(this).attr('transform', null);
 							_this.dragging = null;

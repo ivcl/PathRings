@@ -28,6 +28,15 @@ $P.Force = $P.defineClass(
 			if ('Force' === this.name) {this.name = name;}
 			this.pathways[id] = {name: name, color: this.pickPathwayColor(preferredColor)};
 			if (this.svg) {this.svg.onPathwayRegistered(id);}},
+		/**
+		 * Gets the color associated with a given pathway.
+		 * @param {(string|number)} id - The pathway id. Coerced to an integer.
+		 * @returns {string} - the pathway color
+		 */
+		getPathwayColor: function(id) {
+			var pathway = this.pathways[id];
+			if (pathway) {return pathway.color;}
+			return null;},
 		pickPathwayColor: function(preferredColor) {
 			var colors = $P.borderColors.slice(0),
 					pathway;
