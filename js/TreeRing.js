@@ -7,8 +7,7 @@
 			var config = {}; // Change to argument when I have the time.
 			this.processingStatus = new PATHBUBBLES.Text(this, "Processing");
 
-			this.pre = "Human VS ";
-			this.orthologLabel = this.pre + "Gallus";
+			this.orthologLabel = 'Gallus';
 			this.expressionLabel = "";
 
 			this.dataName = dataName || null;
@@ -30,7 +29,7 @@
 
 			$P.BubbleBase.call(this, {
 				x: x, y: y, w: w, h: h,
-				mainMenu: true, closeMenu: true, groupMenu: true, resetMenu: true,
+				mainMenu: true, closeMenu: true, groupMenu: true,
 				name: dataName || 'human'
 			});},
 		{
@@ -225,7 +224,7 @@
 				bubble.createSvg(config);
 
 				bubble.name = bubble.id + '_' + val;
-				bubble.orthologLabel = bubble.pre + val;
+				bubble.orthologLabel = val;
 			});
 			//element.find('#file').val(bubble.file);
 

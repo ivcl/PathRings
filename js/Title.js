@@ -20,6 +20,7 @@ $P.Title = $P.defineClass(
     this.text = new $P.Text({
 			parent: this,
 			text: this.name,
+			fontSize: config.fontSize || this.lineWidth * 2,
 			fontBase: function(size) {return 'bold ' + size + 'px sans-serif';}});
 		this.resetPosition();
     this.wrapText = false;
@@ -47,5 +48,4 @@ $P.Title = $P.defineClass(
 				20);},
 		onParentPositionChanged: function(dx, dy, dw, dh) {
 			this.resetPosition();}
-
 	});

@@ -68,7 +68,7 @@ $P.D3TreeRing = $P.defineClass(
 
 			svg.append('text').attr('class','ortholog')
 				.style('font-size', 12)
-				.attr('transform', 'translate(' + (0) + ',' + 27 + ')')
+				.attr('transform', 'translate(' + 10 + ',' + 27 + ')')
 				.style('text-anchor', 'start')
 				.style('fill', '#666')
 				.text(_this.parent.orthologLabel);

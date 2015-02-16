@@ -39,8 +39,9 @@ $P.ActionButton = $P.defineClass(
 		this.text = new $P.Text({
 			x: this.x,
 			y: this.y,
+			r: 5,
 			text: text,
-			fontSize: config.fontSize || base.fontSize || 15,
+			fontSize: config.fontSize || base.fontSize || 9,
 			parent: this});},
 	{
 		clone: function() {return new $P.ActionButton(this);},
