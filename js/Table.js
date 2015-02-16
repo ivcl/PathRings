@@ -21,6 +21,7 @@
 			this.crosstalking = config.crosstalking || null;
 			this.experimentType = config.experimentType || 'Ortholog';
 			this.preHierarchical = config.preHierarchical || '';
+			this.keepQuery = config.keepQuery || null;
 
 			$.extend(config, {closeMenu: true, groupMenu: true});
 			$P.BubbleBase.call(this, config);

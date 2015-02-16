@@ -88,6 +88,10 @@
 						selectedData: this.selectedData,
 						name: this.dataName};
 					actual_config = $.extend(actual_config, this.getInteriorDimensions());
+					actual_config.x += 8;
+					actual_config.y += 8;
+					actual_config.w -= 16;
+					actual_config.h -= 16;
 					actual_config = $.extend(actual_config, config);
 					this.svg = new $P.D3TreeRing(actual_config);
 					this.svg.init();}},

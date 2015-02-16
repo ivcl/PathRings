@@ -14,7 +14,6 @@ $P.Title = $P.defineClass(
 		config.lineWidth = config.lineWidth || 10;
 		$P.Shape.Rectangle.call(this, config);
     this.name = config.name || 'Title';
-		console.log(this.name);
 		this.strokeStyle = config.strokeStyle || this.parent.strokeStyle || '#f00';
 		this.fillStyle = config.fillStyle || this.parent.strokeStyle || '#fff';
     this.text = new $P.Text({

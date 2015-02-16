@@ -14,7 +14,7 @@ $P.BubbleBase = $P.defineClass(
 		config.w = config.w || 500;
 		config.h = config.h || 500;
 		config.cornerRadius = config.cornerRadius || 20;
-		config.lineWidth = config.lineWidth || 10;
+		config.lineWidth = config.lineWidth || 12;
 
 		this.links = [];
 		this.neighbors = {left: null, right: null};

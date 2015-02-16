@@ -53,7 +53,7 @@ $P.D3TreeRing = $P.defineClass(
 			var colors = ['#fdae6b', '#a1d99b', '#bcbddc'];
 			var gGroup;
 			var mainSvg = svg.append('g').attr('class','mainSVG')
-						.attr('transform', 'translate(' + width / 2 + ',' + (height / 2+20 ) + ')');
+						.attr('transform', 'translate(' + treeRing.w * 0.5 + ',' + treeRing.h * 0.5 + ')');
 			svg.append('text')
 				.style('font-size', 15)
 				.attr('transform', 'translate(' + (width - 75) + ',' + 12 + ')')
@@ -552,7 +552,7 @@ $P.D3TreeRing = $P.defineClass(
 										.data(newData)
 										.enter().append('text')
 										.style('font-size', 10)
-										.attr('transform', 'translate(' + (scaleWidth / 2 + 10) + ',' + (sectionHeight) + ')')
+										.attr('transform', 'translate(' + (scaleWidth / 2 + 15) + ',' + (sectionHeight) + ')')
 										.attr('y', function (d, i) {
 											return d.data - 5;
 										})
@@ -660,7 +660,7 @@ $P.D3TreeRing = $P.defineClass(
 											return 'rotate(0)';
 										var angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90;
 
-										return 'rotate(' + angle + ')translate(' + (y(d.y) + 10) + ')rotate(' + (angle > 90 ? -180 : 0) + ')'
+										return 'rotate(' + angle + ')translate(' + (y(d.y) + 10) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
 									})
 									.attr('dy', '.35em') // vertical-align
 									.style('font-size', 10)
@@ -739,8 +739,7 @@ $P.D3TreeRing = $P.defineClass(
 											.attr('height', function (d) {
 												var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
 												var r = Math.max(0, y(d.dy));
-												return Math.min(r * thea, Math.floor(_this.maxLevel));
-											})
+												return Math.min(r * thea, Math.floor(_this.maxLevel));})
 											.attr('y', function (d) {
 												var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
 												var r = Math.max(0, y(d.dy));
@@ -755,7 +754,8 @@ $P.D3TreeRing = $P.defineClass(
 												return 2/3*Math.floor(temp / symbol_max * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy)) ));
 											})
 											.attr('transform', function (d, i) {
-												return 'rotate(' + computeRotation(d, i) + ')';
+												d.angle = computeRotation(d, i);
+												return 'rotate(' + d.angle + ')';
 											})
 											.style('fill', '#f00')
 											.on('contextmenu', barClick)
@@ -990,84 +990,71 @@ $P.D3TreeRing = $P.defineClass(
 								}
 
 								function barClick() {
-									var symbols = d3.select(this).datum().gallusOrth.sharedSymbols;
-									var _symbols = [];
-									for (var i = 0; i < symbols.length; ++i) {
-										if (symbols[i] == null)
-											continue;
-										var symbolObj = {};
-										for (var j = 0; j < _symbols.length; ++j) {
+									var symbols, _symbols, i, j, symbolObj, index1, index2, selection, datum, table;
+
+									symbols = d3.select(this).datum().gallusOrth.sharedSymbols;
+									_symbols = [];
+									for (i = 0; i < symbols.length; ++i) {
+										if (null === symbols[i]) {continue;}
+
+										symbolObj = {};
+
+										// Find j.
+										for (j = 0; j < _symbols.length; ++j) {
 											if (_symbols[j].symbol == symbols[i]) {
-												break;
-											}
-										}
+												break;}}
+
 										if (j >= _symbols.length) {
 											symbolObj.symbol = symbols[i];
 											symbolObj.count = 1;
 											symbolObj.crossTalk = 0;
 											symbolObj.rateLimit = 0;
-											_symbols.push(symbolObj);
-										}
+											_symbols.push(symbolObj);}
 										else {
-											_symbols[j].count++;
-										}
-									}
-									for(var i=0; i<_symbols.length; ++i)
-									{
-										var index1 = _this._crossTalkSymbols.symbols.indexOf(_symbols[i].symbol);
-										if(index1!==-1)
-										{
-											_symbols[i].crossTalk = _this._crossTalkSymbols.pathwayNames[index1].length;
-										}
-										else
-										{
-											_symbols[i].crossTalk = 0;
-										}
-										var index2 = _this._rateLimitSymbols.keys.indexOf(_symbols[i].symbol);
-										if(index2!==-1)
-										{
-											_symbols[i].rateLimit = _this._rateLimitSymbols.values[index2];
-										}
-										else
-										{
-											_symbols[i].rateLimit = 0;
-										}
-									}
-									var thisName = _this.parent.id + '_'+ d3.select(this).datum().name;
-									var bubble = new PATHBUBBLES.Table(_this.parent.x + _this.parent.w - 40,
-																										 _this.parent.y, 374, 400, d3.select(this).datum().dbId, _symbols,null, thisName);
+											++_symbols[j].count;}}
 
-									//                                    bubble.name = '(Shared protein) ' + d3.select(this).datum().name;
-									bubble.experimentType = _this.parent.experimentType;
-									bubble.crosstalking = _this._crossTalkSymbols;
-									bubble.addHtml();
-									bubble.table.keepQuery = true;
-									bubble.menuOperation();
-									$P.state.scene.add(bubble);
-									if (!_this.parent.GROUP) {
-										var group = new PATHBUBBLES.Groups();
-										group.add(_this.parent);
-										group.add(bubble);
-										$P.state.scene.add(group);
-									}
-									else {
-										if (_this.parent.parent instanceof  PATHBUBBLES.Groups) {
-											_this.parent.parent.add(_this.parent);
-											_this.parent.parent.add(bubble);
-											$P.state.scene.add(_this.parent.parent);
-										}
-									}
-									var id = _this.parent.id + '_' + bubble.id;
-									var svgPos = $(_this.parent.svg.element).position();
-									var transformString = d3.transform($(_this.parent.svg.element).find('.graphGroup').attr('transform'));
-									var transformCenter = d3.transform($(_this.parent.svg.element).find('.mainSVG').attr('transform'));
-									//relate to the center
-									var relateData = d3.select(this).datum();
+									for (i = 0; i < _symbols.length; ++i) {
+										index1 = _this._crossTalkSymbols.symbols.indexOf(_symbols[i].symbol);
+										if (-1 !== index1) {
+											_symbols[i].crossTalk = _this._crossTalkSymbols.pathwayNames[index1].length;}
+										else {
+											_symbols[i].crossTalk = 0;}
 
-									var relatedX = relateData.x;
-									var relatedY = relateData.y;
-									d3.event.preventDefault();
-								}
+										index2 = _this._rateLimitSymbols.keys.indexOf(_symbols[i].symbol);
+										if (-1 !== index2) {
+											_symbols[i].rateLimit = _this._rateLimitSymbols.values[index2];}
+										else {
+											_symbols[i].rateLimit = 0;}}
+
+									selection = d3.select(this);
+									datum = selection.datum();
+									table = new $P.Table({
+										dbId: datum.dbId,
+										name: datum.name,
+										data: _symbols,
+										experimentType: _this.parent.experimentType,
+										crosstalking: _this._crossTalkSymbols,
+										keepQuery: true,
+										w: 400, h: 400});
+									bubble.parent.add(table);
+
+									var angle = datum.angle * Math.PI / 180,
+											offset = parseFloat(selection.attr('x')) +
+												parseFloat(selection.attr('width')) * 0.8;
+
+									datum.outsideEdge = new $P.Vector2D(
+										Math.cos(angle) * offset,
+										Math.sin(angle) * offset);
+
+									$P.state.scene.links.push(
+										new $P.BubbleLink({
+											source: new $P.D3TreeRing.BubbleLinkEnd({
+												d3ring: treeRing,
+												datum: d3.select(this).datum()}),
+											target: new $P.BubbleLink.End({object: table})
+										}));
+
+									d3.event.preventDefault();}
 
 								function expressionBarClick() {
 									if (d3.select(this).datum().expression == undefined)
@@ -1485,7 +1472,6 @@ $P.D3TreeRing = $P.defineClass(
 										experimentType: bubble.experimentType,
 										w: 400, h: 400});
 
-									table.keepQuery = false;
 									bubble.parent.add(table);
 									$P.state.scene.links.push(
 										new $P.BubbleLink({
@@ -1618,7 +1604,7 @@ $P.D3TreeRing = $P.defineClass(
 								.data(newData)
 								.enter().append('text')
 								.style('font-size', 10)
-								.attr('transform', 'translate(' + (scaleWidth / 2 + 10) + ',' + (sectionHeight) + ')')
+								.attr('transform', 'translate(' + (scaleWidth / 2 + 15) + ',' + (sectionHeight) + ')')
 								.attr('y', function (d, i) {
 									return d.data - 5;
 								})
@@ -1674,7 +1660,7 @@ $P.D3TreeRing = $P.defineClass(
 								.data(newData)
 								.enter().append('text')
 								.style('font-size', 10)
-								.attr('transform', 'translate(' + (scaleWidth / 2 + 10) + ',' + (sectionHeight) + ')')
+								.attr('transform', 'translate(' + (scaleWidth / 2 + 15) + ',' + (sectionHeight) + ')')
 								.attr('y', function (d, i) {
 									return d.data - 5;
 								})
@@ -1742,16 +1728,15 @@ $P.D3TreeRing.BubbleLinkEnd = $P.defineClass(
 	$P.BubbleLink.End,
 	function D3TreeRingBubbleLinkEnd(config) {
 		this.ring = config.d3ring;
-		console.log(this.ring);
 		this.datum = config.datum;
 		$P.BubbleLink.End.call(this, {object: this.ring.parent});
 	},
 	{
 		get x() {
-			return this.ring.x - 8 + this.ring.w * 0.5 + this.ring.zoomTranslate[0]
+			return this.ring.x + this.ring.w * 0.5 + this.ring.zoomTranslate[0]
 				+ this.datum.outsideEdge.x * this.ring.zoomScale;},
 		get y() {
-			return this.ring.y + 10 + (this.ring.h - 40) * 0.5 + this.ring.zoomTranslate[1]
+			return this.ring.y + this.ring.h * 0.5 + this.ring.zoomTranslate[1]
 				+ this.datum.outsideEdge.y * this.ring.zoomScale;}
 	});
 
