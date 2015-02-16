@@ -94,3 +94,6 @@ $P.randomFromList = function(list) {
 $P.readonly = function(object, variable, value) {
 	Object.defineProperty(object, variable, {
 		value: value, enumerable: true});};
+
+$P.not = function(fun) {
+	return function(a) {return !fun(a);};};

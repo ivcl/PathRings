@@ -34,6 +34,7 @@ $P.D3Force = $P.defineClass(
 			if (this.force) {
 				this.force.size([this.w, this.h]).resume();}},
 		initialize: function() {
+			var self = this;
 			this.size = Math.min(this.parent.w, this.parent.h);
 			this.scale = 1;
 			this.colors = ['cyan', 'yellow', 'lime', 'orange', 'purple'];
@@ -66,6 +67,8 @@ $P.D3Force = $P.defineClass(
 			this.entity_label_charge = -0.05;
 			this.location_label_size = 0.012;
 			this.reaction_link_width = 0.002;
+			this.pathway_link_width = 0.007;
+			this.pathway_link_opacity = 1.0;
 			this.location_entity_link_width = 0.0005;
 			this.reaction_edge_count = 0;
 
@@ -118,7 +121,23 @@ $P.D3Force = $P.defineClass(
 
 				update_edge(this.svg.selectAll('.reaction-edge'));
 				update_edge(this.svg.selectAll('.entity-to-location'));
-				update_edge(this.svg.selectAll('.entity-label-edge'));}.bind(this));
+				update_edge(this.svg.selectAll('.entity-label-edge'));
+
+				self.svg.selectAll('.pathway-edge').each(function(e) {
+					var dir = new $P.Vector2D(e.target.x - e.source.x, e.target.y - e.source.y).normalized().rotate90(),
+							total = e.activePathways.length,
+							middle = (total - 1) * 0.5;
+					if (dir.angle() < 0) {dir = dir.times(-1);}
+					d3.select(this).selectAll('.pathway-edge-part')
+						.attr('x1', function(d, i) {
+							return e.source.x + dir.x * (i - middle) * self.size * self.scale * self.pathway_link_width;})
+						.attr('x2', function(d, i) {
+							return e.target.x + dir.x * (i - middle) * self.size * self.scale * self.pathway_link_width;})
+						.attr('y1', function(d, i) {
+							return e.source.y + dir.y * (i - middle) * self.size * self.scale * self.pathway_link_width;})
+						.attr('y2', function(d, i) {
+							return e.target.y + dir.y * (i - middle) * self.size * self.scale * self.pathway_link_width;});
+				});}.bind(this));
 
 			this.drag = this.force.drag()
 				.on('dragstart', function(d) {d3.select(this).classed('fixed', d.fixed = true);})
@@ -381,7 +400,44 @@ $P.D3Force = $P.defineClass(
 				.attr('text-anchor', 'middle')
 				.text($P.getter('name'));
 
-			this.svg.reaction_edges = this.svg.normal_layer.selectAll('.reaction-edge').data(this.edges.reactions, $P.getter('id')).enter()
+			// Pathway indicators
+			this.svg.entityPathwayBorders = this.svg.normal_layer.selectAll('.entity-pathway-border')
+				.data(this.nodes.entities.filter(this.entityHasPathwayBorder.bind(this)), $P.getter('id'));
+			this.svg.entityPathwayBorders.enter()
+				.append('g')
+				.attr('class', 'entity-pathway-border')
+				.selectAll('.pathway-border-arc').data(function(entity, index) {
+					var pathwayId, list = [];
+					for (pathwayId in entity.pathways) {
+						if (bubble.pathways[pathwayId]) {
+							list.push(pathwayId);
+						}}
+					entity.activePathways = list;
+					return list;})
+				.enter()
+				.append('path')
+				.attr('d', function(pathwayId, index) {
+					var entity = this.parentNode.__data__;
+					return (d3.svg.arc()
+									.innerRadius(0)
+									.outerRadius(self.entity_radius(entity) +
+															 self.entity_pathway_border_size * self.size * self.scale)
+									.startAngle(Math.PI * 2 * index / entity.activePathways.length)
+									.endAngle(Math.PI * 2 * (index + 1) / entity.activePathways.length))
+					();})
+				.attr('stroke', 'black')
+				.attr('stroke-width', this.entity_pathway_border_width)
+				.attr('fill', function(pathwayId) {
+					return bubble.pathways[pathwayId].color;});
+
+			this.edges.reactions.forEach(function(edge) {
+				edge.activePathways = edge.source.activePathways || edge.target.activePathways;
+				if (edge.activePathways && edge.activePathways.length == 0) {
+					edge.activePathways = null;}});
+
+			if (this.svg.reaction_edges) {this.svg.reaction_edges.remove();}
+			this.svg.reaction_edges = this.svg.normal_layer.selectAll('.reaction-edge')
+				.data(this.edges.reactions.filter($P.not($P.getter('activePathways'))), $P.getter('id')).enter()
 				.append('line')
 				.attr('class', 'reaction-edge')
 				.attr('stroke', function(e) {
@@ -397,6 +453,20 @@ $P.D3Force = $P.defineClass(
 				.attr('stroke-width', this.size * this.scale * this.reaction_link_width)
 				.attr('stroke-opacity', 0.4)
 				.attr('fill', 'none');
+
+			if (this.svg.pathway_edges) {this.svg.pathway_edges.remove();}
+			this.svg.pathway_edges = this.svg.normal_layer.selectAll('.pathway-edge')
+				.data(this.edges.reactions.filter($P.getter('activePathways')), $P.getter('id')).enter()
+				.append('g')
+				.attr('class', 'pathway-edge');
+			this.svg.pathway_edges.each(function(edge) {
+				d3.select(this).selectAll('.pathway-edge-part').data(edge.activePathways).enter()
+					.append('line')
+					.attr('class', 'pathway-edge-part')
+					.attr('stroke', function(pathwayId) {return bubble.pathways[pathwayId].color;})
+					.attr('stroke-width', self.size * self.scale * self.pathway_link_width)
+					.attr('stroke-opacity', self.pathway_link_opacity)
+					.attr('fill', 'none');});
 
 			this.svg.entity_label_edges = this.svg.normal_layer.selectAll('.entity-label-edge').data(this.edges.entity_labels, function(d) {return d.source.id;}).enter()
 				.append('line')
@@ -445,36 +515,6 @@ $P.D3Force = $P.defineClass(
 				.attr('stroke', this.entity_border_color)
 				.attr('stroke-width', this.entity_border_width)
 				.attr('r', function(e) {return this.entity_radius(e) + this.entity_border_size;}.bind(this));
-
-			// Pathway indicators
-			this.svg.entityPathwayBorders = this.svg.normal_layer.selectAll('.entity-pathway-border')
-				.data(this.nodes.entities.filter(this.entityHasPathwayBorder.bind(this)), $P.getter('id'));
-			this.svg.entityPathwayBorders.enter()
-				.append('g')
-				.attr('class', 'entity-pathway-border')
-				.selectAll('.pathway-border-arc').data(function(entity, index) {
-					var pathwayId, list = [];
-					for (pathwayId in entity.pathways) {
-						if (bubble.pathways[pathwayId]) {
-							list.push(pathwayId);
-						}}
-					entity.activePathways = list;
-					return list;})
-				.enter()
-				.append('path')
-				.attr('d', function(pathwayId, index) {
-					var entity = this.parentNode.__data__;
-					return (d3.svg.arc()
-									.innerRadius(0)
-									.outerRadius(self.entity_radius(entity) +
-															 self.entity_pathway_border_size * self.size * self.scale)
-									.startAngle(Math.PI * 2 * index / entity.activePathways.length)
-									.endAngle(Math.PI * 2 * (index + 1) / entity.activePathways.length))
-					();})
-				.attr('stroke', 'black')
-				.attr('stroke-width', this.entity_pathway_border_width)
-				.attr('fill', function(pathwayId) {
-					return bubble.pathways[pathwayId].color;});
 
 			// The actual entity circles.
 			this.svg.entities = this.svg.interact_layer.selectAll('.entity').data(this.nodes.entities, $P.getter('id')).enter()

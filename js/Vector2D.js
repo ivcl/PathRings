@@ -11,6 +11,7 @@ $P.Vector2D = $P.defineClass(
 				Object.defineProperty(this, '_length', {
 					value: Math.pow(Math.pow(this.x, 2) + Math.pow(this.y, 2), 0.5)});}
 			return this._length;},
+		angle: function() {return Math.atan2(this.y, this.x);},
 		times: function(scalar) {return new $P.Vector2D(this.x * scalar, this.y * scalar);},
 		normalized: function() {
 			return new $P.Vector2D(this.x / this.length, this.y / this.length);},
