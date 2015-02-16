@@ -71,17 +71,10 @@ $(document).ready(function () {
     callback: function (key) {
 			var bubble;
       if (key === 'Open_Bubble') {
-        bubble = new $P.Bubble(mousePosX, mousePosY);
-        bubble.menuOperation();
-        if (viewpoint) {
-          bubble.offsetX = viewpoint.x;
-          bubble.offsetY = viewpoint.y;
-        }
-        $P.state.scene.addObject(bubble);
-      }
+        bubble = new $P.PathwayDiagram({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
+        $P.state.scene.add(bubble);}
       else if (key === 'Open_TreeRing') {
         bubble = new $P.TreeRing(mousePosX + $P.state.scrollX, mousePosY, 700, 760, 'homo sapiens');
-				console.log($P.state.scene);
         $P.state.scene.add(bubble);}
 			else if ('open_force' == key) {
 				bubble = new $P.Force({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});

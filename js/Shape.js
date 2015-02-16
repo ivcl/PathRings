@@ -160,7 +160,9 @@ $P.Shape.Rectangle = $P.defineClass(
 					xr = this.x + this.w + expansion * 0.5,
 					yt = this.y - expansion * 0.5,
 					yb = this.y + this.h + expansion * 0.5;
-			return (xl <= x) && (x <= xr) && (yt <= y) && (y <= yb);}
+			return (xl <= x) && (x <= xr) && (yt <= y) && (y <= yb);},
+
+		clone: function() {return new $P.Shape.Rectangle(this);}
 	});
 
 $P.Shape.Ellipse = function (x, y, w, h, strokeColor, fillColor, lineWidth) {
