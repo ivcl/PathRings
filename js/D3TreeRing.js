@@ -1502,9 +1502,13 @@ $P.D3TreeRing = $P.defineClass(
 										RingWidth = RingWidth * 0.8;
 										RingHeight = RingHeight * 0.8;
 									}
-									ringBubble = new $P.TreeRing(
-										_this.parent.x + _this.parent.w - 40, _this.parent.y, RingWidth, RingHeight,
-										selectedData.name, dataType, selectedData);
+									ringBubble = new $P.TreeRing({
+										x: _this.parent.x + _this.parent.w - 40,
+										y: _this.parent.y,
+										w: RingWidth, h: RingHeight,
+										dataName: selectedData.name,
+										dataType: dataType,
+										selectedData: selectedData});
 									ringBubble.experimentType = _this.parent.experimentType;
 									if(_this.parent.preHierarchical!=='') {
 										ringBubble.preHierarchical = _this.parent.preHierarchical + '->' + _this.parent.id;}

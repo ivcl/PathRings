@@ -3,17 +3,17 @@
 
 	$P.TreeRing = $P.defineClass(
 		$P.BubbleBase,
-		function TreeRing(x, y, w, h, dataName, dataType, selectedData) {
-			var config = {}; // Change to argument when I have the time.
+		//function TreeRing(x, y, w, h, dataName, dataType, selectedData) {
+		function TreeRing(config) {
 			this.processingStatus = new PATHBUBBLES.Text(this, "Processing");
 
 			this.orthologLabel = 'Gallus';
 			this.expressionLabel = "";
 
-			this.dataName = dataName || null;
+			this.dataName = config.dataName || null;
 
-			this.dataType = dataType || null;
-			this.selectedData = selectedData || null;
+			this.dataType = config.dataType || null;
+			this.selectedData = config.selectedData || null;
 			this.experiment_Type = "Ortholog";
 			this.preHierarchical = "";
 
@@ -27,11 +27,9 @@
 			this._upLabel = config.upLabel || 'Up Expressed';
 			this._downLabel = config.downLabel || 'Down Expressed';
 
-			$P.BubbleBase.call(this, {
-				x: x, y: y, w: w, h: h,
-				mainMenu: true, closeMenu: true, groupMenu: true,
-				name: dataName || 'human'
-			});},
+			config.name = this.dataName || 'human';
+			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
+			$P.BubbleBase.call(this, config);},
 		{
 			get minRatio() {return this._minRatio;},
 			set minRatio(value) {

@@ -60,6 +60,10 @@ $(document).ready(function () {
 
   render();
 
+  $P.state.scene.add(new $P.TreeRing({
+		x: 50, y: 50, w: 700, h: 700,
+		dataName: 'human'}));
+
   var mousePosX, mousePosY;
 
   $('#bgCanvas').on('contextmenu', function (e) {
@@ -74,8 +78,9 @@ $(document).ready(function () {
         bubble = new $P.PathwayDiagram({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
         $P.state.scene.add(bubble);}
       else if (key === 'Open_TreeRing') {
-        bubble = new $P.TreeRing(mousePosX + $P.state.scrollX, mousePosY, 700, 760, 'human');
-        $P.state.scene.add(bubble);}
+				$P.state.scene.add(new $P.TreeRing({
+					x: mousePosX + $P.state.scrollX, y: mousePosY, w: 700, h: 700,
+					dataName: 'human'}));}
 			else if ('open_force' == key) {
 				bubble = new $P.Force({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
 				$P.state.scene.add(bubble);}
