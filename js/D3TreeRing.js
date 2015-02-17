@@ -1697,10 +1697,9 @@ $P.D3TreeRing = $P.defineClass(
 		 * @returns {Object} - a min and max value.
 		 */
 		getRatioLimits: function() {
-			var menu = $(this.parent.menu.element);
 			return {
-				min: parseFloat(menu.find('#minRatio').val()) || -1.5,
-				max: parseFloat(menu.find('#maxRatio').val()) || 1.5};},
+				min: parseFloat(this.parent.minRatio || '1.5'),
+				max: parseFloat(this.parent.maxRatio || '-1.5')};},
 		/**
 		 * Gets a (cached) map of ids -> expression
 		 */
