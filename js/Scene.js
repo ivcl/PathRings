@@ -47,6 +47,13 @@ $P.Scene = $P.defineClass(
 				this.links[i].draw(context, scale);}},
 
 		/**
+		 * Adds a link to the scene.
+		 */
+		addLink: function(link) {
+			this.links.push(link);
+			$P.state.markDirty();},
+
+		/**
 		 * Adds an object to this scene.
 		 * @param {$P.Object2D} child - the added object
 		 */

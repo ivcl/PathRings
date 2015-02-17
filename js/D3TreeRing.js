@@ -171,7 +171,7 @@ $P.D3TreeRing = $P.defineClass(
 									force.svg.entity_expand({name: symbol, pathwayId: d.dbId}, _this.getExpressionMap());});}
 
 							color = force.getPathwayColor(d.dbId);
-							$P.state.scene.links.push(
+							$P.state.scene.addLink(
 								new $P.BubbleLink({
 									fillStyle: color,
 									source: new $P.D3TreeRing.BubbleLinkEnd({
@@ -1044,7 +1044,7 @@ $P.D3TreeRing = $P.defineClass(
 										Math.cos(angle) * offset,
 										Math.sin(angle) * offset);
 
-									$P.state.scene.links.push(
+									$P.state.scene.addLink(
 										new $P.BubbleLink({
 											source: new $P.D3TreeRing.BubbleLinkEnd({
 												d3ring: treeRing,
@@ -1471,7 +1471,7 @@ $P.D3TreeRing = $P.defineClass(
 										w: 400, h: 400});
 
 									bubble.parent.add(table);
-									$P.state.scene.links.push(
+									$P.state.scene.addLink(
 										new $P.BubbleLink({
 											source: new $P.D3TreeRing.BubbleLinkEnd({
 												d3ring: treeRing,
@@ -1517,7 +1517,7 @@ $P.D3TreeRing = $P.defineClass(
 									ringBubble.menuHidden = _this.parent.menuHidden;
 
 									_this.parent.parent.add(ringBubble);
-									$P.state.scene.links.push(
+									$P.state.scene.addLink(
 										new $P.BubbleLink({
 											source: new $P.D3TreeRing.BubbleLinkEnd({
 												d3ring: _this,

@@ -38,11 +38,11 @@ $P.Force = $P.defineClass(
 			if (pathway) {return pathway.color;}
 			return null;},
 		pickPathwayColor: function(preferredColor) {
-			var colors = $P.borderColors.slice(0),
-					pathway;
+			var colors = $P.BubbleBase.colors.slice(0),
+					color, pathway;
 			for (pathway in this.pathways) {
-				$P.removeFromList(colors, pathway.color);}
-			if (0 === colors.length) {colors = $P.borderColors.slice(0);}
+				$P.removeFromList(colors, this.pathways[pathway].color);}
+			if (0 === colors.length) {colors = $P.BubbleBase.colors.slice(0);}
 			if (-1 !== colors.indexOf(preferredColor)) {return preferredColor;}
 			return $P.randomFromList(colors);},
 		onAdded: function(parent) {
