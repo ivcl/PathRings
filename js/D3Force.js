@@ -168,13 +168,15 @@ $P.D3Force = $P.defineClass(
 			this.labels = [];
 		},
 		entity_expand: function(entity, expressions) {
-			var forcedPathway = entity.pathwayId;
+			var forcedPathway = entity.pathwayId,
+					bubble = this.parent;
 			expressions = expressions || {};
 			$.getJSON('php/expandEntity.php?name=' + entity.name, null, function(data) {
 				var x = entity.x || this.size/2,
 						y = entity.y || this.size/2,
 						cx = entity.cx || this.size/2,
-						cy = entity.cy || this.size/2;
+						cy = entity.cy || this.size/2,
+						pathwayId;
 
 				if (data.entities) {
 					// Remove existing.
@@ -190,6 +192,12 @@ $P.D3Force = $P.defineClass(
 						// Ensure pathway
 						if (forcedPathway && !entity.pathways[forcedPathway]) {
 							entity.pathways[forcedPathway] = 'unknown';}
+
+						// Mark active pathways
+						entity.activePathways = [];
+						for (pathwayId in entity.pathways) {
+							if (bubble.pathways[pathwayId]) {
+								entity.activePathways.push(pathwayId);}}
 
 						// Create locations from entities.
 						var location_id = entity.location,
@@ -347,7 +355,15 @@ $P.D3Force = $P.defineClass(
 		 * Called when the parent bubble has a pathway registered.
 		 */
 		onPathwayRegistered: function(pathwayId) {
-			this.svg.normal_layer.selectAll('.entity-pathway-border').remove();},
+			var bubble = this.parent;
+			this.svg.normal_layer.selectAll('.entity-pathway-border').remove();
+			this.nodes.entities.forEach(function(entity) {
+				var pathwayId;
+				entity.activePathways = [];
+				for (pathwayId in entity.pathways) {
+					if (bubble.pathways[pathwayId]) {
+						entity.activePathways.push(pathwayId);}}});
+		},
 		update_svg: function() {
 			var self = this,
 					bubble = this.parent;
@@ -400,35 +416,7 @@ $P.D3Force = $P.defineClass(
 				.attr('text-anchor', 'middle')
 				.text($P.getter('name'));
 
-			// Pathway indicators
-			this.svg.entityPathwayBorders = this.svg.normal_layer.selectAll('.entity-pathway-border')
-				.data(this.nodes.entities.filter(this.entityHasPathwayBorder.bind(this)), $P.getter('id'));
-			this.svg.entityPathwayBorders.enter()
-				.append('g')
-				.attr('class', 'entity-pathway-border')
-				.selectAll('.pathway-border-arc').data(function(entity, index) {
-					var pathwayId, list = [];
-					for (pathwayId in entity.pathways) {
-						if (bubble.pathways[pathwayId]) {
-							list.push(pathwayId);
-						}}
-					entity.activePathways = list;
-					return list;})
-				.enter()
-				.append('path')
-				.attr('d', function(pathwayId, index) {
-					var entity = this.parentNode.__data__;
-					return (d3.svg.arc()
-									.innerRadius(0)
-									.outerRadius(self.entity_radius(entity) +
-															 self.entity_pathway_border_size * self.size * self.scale)
-									.startAngle(Math.PI * 2 * index / entity.activePathways.length)
-									.endAngle(Math.PI * 2 * (index + 1) / entity.activePathways.length))
-					();})
-				.attr('stroke', 'black')
-				.attr('stroke-width', this.entity_pathway_border_width)
-				.attr('fill', function(pathwayId) {
-					return bubble.pathways[pathwayId].color;});
+
 
 			this.edges.reactions.forEach(function(edge) {
 				edge.activePathways = edge.source.activePathways || edge.target.activePathways;
@@ -467,6 +455,29 @@ $P.D3Force = $P.defineClass(
 					.attr('stroke-width', self.size * self.scale * self.pathway_link_width)
 					.attr('stroke-opacity', self.pathway_link_opacity)
 					.attr('fill', 'none');});
+
+			// Pathway indicators
+			this.svg.entityPathwayBorders = this.svg.normal_layer.selectAll('.entity-pathway-border')
+				.data(this.nodes.entities.filter(this.entityHasPathwayBorder.bind(this)), $P.getter('id'));
+			this.svg.entityPathwayBorders.enter()
+				.append('g')
+				.attr('class', 'entity-pathway-border')
+				.selectAll('.pathway-border-arc').data(function(entity, index) {return entity.activePathways;})
+				.enter()
+				.append('path')
+				.attr('d', function(pathwayId, index) {
+					var entity = this.parentNode.__data__;
+					return (d3.svg.arc()
+									.innerRadius(0)
+									.outerRadius(self.entity_radius(entity) +
+															 self.entity_pathway_border_size * self.size * self.scale)
+									.startAngle(Math.PI * 2 * index / entity.activePathways.length)
+									.endAngle(Math.PI * 2 * (index + 1) / entity.activePathways.length))
+					();})
+				.attr('stroke', 'black')
+				.attr('stroke-width', this.entity_pathway_border_width)
+				.attr('fill', function(pathwayId) {
+					return bubble.pathways[pathwayId].color;});
 
 			this.svg.entity_label_edges = this.svg.normal_layer.selectAll('.entity-label-edge').data(this.edges.entity_labels, function(d) {return d.source.id;}).enter()
 				.append('line')
