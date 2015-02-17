@@ -97,3 +97,23 @@ $P.readonly = function(object, variable, value) {
 
 $P.not = function(fun) {
 	return function(a) {return !fun(a);};};
+
+/**
+ * Truncates a string to fit within the given length.
+ * @param {CanvasRenderingContext2D} context - the drawing context
+ * @param {string} string - the string to truncate
+ * @param {number} maxLength - the maximum length of the string
+ * @param {string} [ellipsis=…] - the symbol used to indicate truncation.
+ */
+$P.truncateDrawnString = function(context, string, maxLength, ellipsis) {
+	var length, finalString;
+	ellipsis = ellipsis || '…';
+
+	length = context.measureText(string).width;
+	if (length <= maxLength) {return string;}
+	do {
+		string = string.slice(0, -1);
+		finalString = string + ellipsis;}
+	while (string.length > 0 && context.measureText(finalString).width > maxLength);
+
+	return string + ellipsis;};

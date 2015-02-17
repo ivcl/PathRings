@@ -83,32 +83,8 @@
 				if (1 == this.parent.children.length) {return;}
 				$P.state.scene.add(this, 0);
 				this.groupButton.setHighlighted(false);
-				this.setStrokeStyle(this.pickRandomStrokeStyle());},
-			/*
-			 deleteBubble: function() {
-			 var i, html;
-			 if (this.button) {this.button.remove();}
-			 // Remove Links.
-			 for (i = PATHBUBBLES.bubbleLinks.length-1; i >= 0; --i)
-			 {
-			 if (PATHBUBBLES.bubbleLinks[i].startId == this.id)
-			 {
-			 PATHBUBBLES.bubbleLinks.splice(i, 1);
-			 continue;
-			 }
-			 if(PATHBUBBLES.bubbleLinks[i].endId ==this.id)
-			 {
-			 PATHBUBBLES.bubbleLinks.splice(i, 1);
-			 }
-			 }
-			 this.parent.remove(this);
-			 this.delete();
-			 },
-			 deleteThisBubble: function() {
-			 if (this.GROUP) {this.ungroup();}
-			 this.deleteBubble();
-			 },
-			 */
+				this.setStrokeStyle($P.BubbleBase.getUnusedColor());},
+
 			receiveEvent: function(event) {
 				var result = $P.Object2D.prototype.receiveEvent.call(this, event);
 				if (result) {return result;}
@@ -252,10 +228,10 @@
 	$P.BubbleBase.colors = [
 		'#E69F00',
 		'#56B4E9',
-		'#2B9F78',
 		'#F0E442',
 		'#0072B2',
 		'#D55E00',
+		'#2B9F78',
 		'#CC79A7',];
 
 	/**
