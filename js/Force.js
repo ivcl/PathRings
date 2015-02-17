@@ -42,9 +42,9 @@ $P.Force = $P.defineClass(
 					color, pathway;
 			for (pathway in this.pathways) {
 				$P.removeFromList(colors, this.pathways[pathway].color);}
-			if (0 === colors.length) {colors = $P.BubbleBase.colors.slice(0);}
+			if (0 === colors.length) {return '#666';}
 			if (-1 !== colors.indexOf(preferredColor)) {return preferredColor;}
-			return $P.randomFromList(colors);},
+			return colors[0];},
 		onAdded: function(parent) {
 			var config;
 			$P.BubbleBase.prototype.onAdded.call(this, parent);

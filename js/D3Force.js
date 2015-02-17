@@ -40,7 +40,7 @@ $P.D3Force = $P.defineClass(
 			this.colors = ['cyan', 'yellow', 'lime', 'orange', 'purple'];
 			this.entity_label_max_length = 10;
 			this.location_label_max_length = 100;
-			this.entity_background_opacity = 0.0; // 0.15
+			this.entity_background_opacity = 0.15; // 0.15
 			this.entity_aura_color = 'black';
 			this.entity_aura_opacity = 0.5;
 			this.entity_aura_size = 0.004;
@@ -186,8 +186,8 @@ $P.D3Force = $P.defineClass(
 
 					$.each(data.entities, function(entity_id, entity) {
 						// Set expression.
-						if (expressions[entity.name.toUpperCase()] == 'up') {entity.expression = 'pineal';}
-						if (expressions[entity.name.toUpperCase()] == 'down') {entity.expression = 'retinal';}
+						if (expressions[entity.name.toUpperCase()] == 'up') {entity.expression = 'retinal';}
+						if (expressions[entity.name.toUpperCase()] == 'down') {entity.expression = 'pineal';}
 
 						// Ensure pathway
 						if (forcedPathway && !entity.pathways[forcedPathway]) {
@@ -263,7 +263,7 @@ $P.D3Force = $P.defineClass(
 					data.reactions = this.merge_reactions(data.reactions);
 
 					$.each(data.reactions, function(reaction_id, reaction) {
-						var counts, red, blue;
+						var counts, red, green;
 						// Count occurences.
 						counts = {'retinal': 0, 'pineal': 0};
 						$.each(reaction.entities, function(entity_id, entity) {counts[entity.expression]++;});
@@ -271,10 +271,10 @@ $P.D3Force = $P.defineClass(
 							reaction.color = 'grey';}
 						else {
 							red = Math.floor(255 * counts.retinal / (counts.retinal + counts.pineal));
-							blue = Math.floor(255 * counts.pineal / (counts.retinal + counts.pineal));
+							green = Math.floor(255 * counts.pineal / (counts.retinal + counts.pineal));
 							if (red < 16) {red = '0' + red.toString(16);} else {red = red.toString(16);}
-							if (blue < 16) {blue = '0' + blue.toString(16);} else {blue = blue.toString(16);}
-							reaction.color = '#' + red + '00' + blue;}
+							if (green < 16) {green = '0' + green.toString(16);} else {green = green.toString(16);}
+							reaction.color = '#' + red + green + '00';}
 
 						// Already existing reactions
 						// XXX TODO possibly need to split reactions here.
@@ -434,9 +434,9 @@ $P.D3Force = $P.defineClass(
 						entity = e.target;
 						reaction = e.source;}
 					if (entity.expression == 'retinal' && reaction.color == 'red') {return 'red';}
-					if (entity.expression == 'pineal' && reaction.color == 'blue') {return 'blue';}
-					if (entity.expression == 'retinal' && reaction.blue > reaction.red) {return 'yellow';}
-					if (entity.expression == 'pineal' && reaction.blue < reaction.red) {return 'yellow';}
+					if (entity.expression == 'pineal' && reaction.color == 'green') {return 'green';}
+					if (entity.expression == 'retinal' && reaction.green > reaction.red) {return 'purple';}
+					if (entity.expression == 'pineal' && reaction.green < reaction.red) {return 'purple';}
 					return reaction.color;})
 				.attr('stroke-width', this.size * this.scale * this.reaction_link_width)
 				.attr('stroke-opacity', 0.4)
@@ -535,7 +535,7 @@ $P.D3Force = $P.defineClass(
 				.attr('stroke-width', this.size * this.scale * this.entity_width)
 				.attr('fill', function(n) {
 					if (n.expression == 'retinal') {return 'red';}
-					if (n.expression == 'pineal') {return 'blue';}
+					if (n.expression == 'pineal') {return 'green';}
 					return 'white';})
 				.attr('fill-opacity', this.entity_opacity)
 				.attr('r', this.size * this.scale * this.entity_size)
