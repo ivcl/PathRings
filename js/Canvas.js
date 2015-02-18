@@ -93,7 +93,9 @@
 			draw: function() {
 				if (!this.needsRedraw) {return;}
 				this.clear();
-				this.scene.draw(this.context, this.scale);
+				this.scene.draw(this.context, this.scale, {
+					noTitle: true, noButtons: true, sharpCorners: true, fillWithStroke: true,
+					overrideStroke: 'black'});
 				this.needsRedraw = false;},
 			/**
 			 * Run when the canvas receives a mousedown event.

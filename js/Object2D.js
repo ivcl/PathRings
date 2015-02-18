@@ -193,16 +193,17 @@ $P.Object2D = $P.defineClass(
 		 * @see drawSelf
 		 * @param {CanvasRenderingContext2D} context - the drawing context
 		 * @param {number} scale - scale multiplier for drawing
+		 * @param {Object} args - additional drawing arguments
 		 */
-		draw: function(context, scale) {
+		draw: function(context, scale, args) {
 			var i;
-			this.drawSelf(context, scale);
+			this.drawSelf(context, scale, args);
 			if (this.childrenClippingShape) {
 				context.save();
 				this.childrenClippingShape.doPath(context, scale);
 				context.clip();}
 			for (i = this.children.length - 1; i >= 0; --i) {
-				this.children[i].draw(context, scale);}
+				this.children[i].draw(context, scale, args);}
 			if (this.childrenClippingShape) {
 				context.restore();}
 		},
@@ -212,8 +213,9 @@ $P.Object2D = $P.defineClass(
 		 * @see draw
 		 * @param {CanvasRenderingContext2D} context - the drawing context
 		 * @param {number} scale - scale multiplier for drawing
+		 * @param {Object} args - additional drawing arguments
 		 */
-		drawSelf: function(context, scale) {},
+		drawSelf: function(context, scale, args) {},
 
 		/**
 		 * Sends an event to this object, which may or may not handle it.

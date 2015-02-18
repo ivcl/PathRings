@@ -51,7 +51,10 @@ $P.ActionButton = $P.defineClass(
 				return true;}
 			if ('mousedown' === event.name && this.contains(event.x, event.y)) {
 				return this.action($P.state.mainCanvas, event.x, event.y);};
-			return false;}
+			return false;},
+		draw: function(context, scale, args) {
+			if (args.noButtons) {return;}
+			$P.Shape.Circle.prototype.draw.call(this, context, scale, args);}
 	});
 
 // Define a commonly used action.

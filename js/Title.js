@@ -64,5 +64,9 @@ $P.Title = $P.defineClass(
 			this.text.move(centerX, this.parent.y - 15, width, 20);},
 		onPositionChanged: function(dx, dy, dw, dh) {
 			$P.Shape.Rectangle.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
-			this.resetPosition();}
+			this.resetPosition();},
+
+		draw: function(context, scale, args) {
+			if (args.noTitle) {return;}
+			$P.Shape.Rectangle.prototype.draw.call(this, context, scale, args);}
 	});

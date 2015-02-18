@@ -35,7 +35,7 @@ $P.Shape.Circle = $P.defineClass(
 			strokeStyle: highlight.strokeStyle || '#ff0',
 			lineWidth: highlight.lineWidth || this.lineWidth * 2};},
 	{
-		drawSelf: function (ctx, scale) {
+		drawSelf: function (ctx, scale, arg) {
 			var x = this.x * scale,
 					y = this.y * scale,
 					r = this.r * scale;
@@ -90,30 +90,32 @@ $P.Shape.Rectangle = $P.defineClass(
 		 * Sets this object as the current path of the context.
 		 * @param {CanvasRenderingContext2D} context - the rendering context
 		 * @param {number} scale - a scaling constant
+		 * @param {Object} arg - additional drawing arguments
+		 * @param {boolean} arg.sharpCorners - don't round corners
 		 */
-		doPath: function(context, scale) {
-			/*
-			var x1 = (this.x - this.lineWidth / 2 - 1) * scale,
-					y1 = (this.y - this.lineWidth / 2 - 1) * scale,
-					x2 = x1 + (this.w + this.lineWidth + 2) * scale,
-					y2 = y1 + (this.h + this.lineWidth + 2) * scale,
-					r = this.cornerRadius * scale;
-			 */
+		doPath: function(context, scale, arg) {
 			var x1 = this.x * scale,
 					y1 = this.y * scale,
 					x2 = x1 + this.w * scale,
 					y2 = y1 + this.h * scale,
 					r = this.cornerRadius * scale;
 			context.beginPath();
-			context.moveTo(x1 + r, y1);
-			context.lineTo(x2 - r, y1);
-			context.quadraticCurveTo(x2, y1, x2, y1 + r);
-			context.lineTo(x2, y2 - r);
-			context.quadraticCurveTo(x2, y2, x2 - r, y2);
-			context.lineTo(x1 + r, y2);
-			context.quadraticCurveTo(x1, y2, x1, y2 - r);
-			context.lineTo(x1, y1 + r);
-			context.quadraticCurveTo(x1, y1, x1 + r, y1);},
+			if (arg && arg.sharpCorners) {
+				context.moveTo(x1, y1);
+				context.lineTo(x2, y1);
+				context.lineTo(x2, y2);
+				context.lineTo(x1, y2);
+				context.lineTo(x1, y1);}
+			else {
+				context.moveTo(x1 + r, y1);
+				context.lineTo(x2 - r, y1);
+				context.quadraticCurveTo(x2, y1, x2, y1 + r);
+				context.lineTo(x2, y2 - r);
+				context.quadraticCurveTo(x2, y2, x2 - r, y2);
+				context.lineTo(x1 + r, y2);
+				context.quadraticCurveTo(x1, y2, x1, y2 - r);
+				context.lineTo(x1, y1 + r);
+				context.quadraticCurveTo(x1, y1, x1 + r, y1);}},
 		/**
 		 * Expands this object by n pixels in each direction, keeping its center the same.
 		 * @param {number} n - the number of pixels to expand by
@@ -135,10 +137,12 @@ $P.Shape.Rectangle = $P.defineClass(
 			this.y -= top;
 			this.w += left + right;
 			this.h += top + bottom;},
-		drawSelf: function (ctx, scale) {
-			this.doPath(ctx, scale);
+		drawSelf: function (ctx, scale, arg) {
+			this.doPath(ctx, scale, arg);
 			ctx.strokeStyle = this.strokeStyle;
+			if (arg && arg.overrideStroke) {ctx.strokeStyle = arg.overrideStroke;}
 			ctx.fillStyle = this.fillStyle;
+			if (arg && arg.fillWithStroke) {ctx.fillStyle = this.strokeStyle;}
 			ctx.lineWidth = Math.round(this.lineWidth * scale);
 			if ('none' !== this.fillStyle) {ctx.fill();}
 			ctx.stroke();},

@@ -30,11 +30,12 @@ $P.Scene = $P.defineClass(
 		 * Draws the scene to a canvas.
 		 * @param {CanvasRenderingContext2D} context - the canvas context
 		 * @param {number} scale - a scaling constant
+		 * @param {Object} args - additional arguments to pass to children
 		 */
-		draw: function(context, scale) {
+		draw: function(context, scale, args) {
 			var i;
 			for (i = this.children.length - 1; i >= 0; --i) {
-				this.children[i].draw(context, scale);}},
+				this.children[i].draw(context, scale, args || {});}},
 
 		/**
 		 * Draws the links to a canvas.
