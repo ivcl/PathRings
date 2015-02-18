@@ -22,7 +22,7 @@
 			this.neighbors = {left: null, right: null};
 			$P.Shape.Rectangle.call(this, config);
 
-			this.minSize = config.minSize || null;
+			this.minSize = config.minSize || {w: 100, h: 100};
 			if ('current' === this.minSize) {
 				this.minSize = {w: this.w, h: this.h};};
 
