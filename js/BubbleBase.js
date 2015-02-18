@@ -22,6 +22,10 @@
 			this.neighbors = {left: null, right: null};
 			$P.Shape.Rectangle.call(this, config);
 
+			this.minSize = config.minSize || null;
+			if ('current' === this.minSize) {
+				this.minSize = {w: this.w, h: this.h};};
+
 			if (config.mainMenu || this.menu) {
 				this.menuButton = $P.ActionButton.create('menu');
 				this.add(this.menuButton);}
@@ -165,11 +169,13 @@
 			 * @param {string} direction - the edge we're resizing from.
 			 * @param {number} dx - the amount to alter the size by in the x direction
 			 * @param {number} dy - the amount to alter the size by in the y direction
+			 * @returns - the {l, r, t, b} that was unused.
 			 */
 			resize: function(direction, dx, dy) {
 				var horizontalMode, verticalMode,
 						l = 0, r = 0, t = 0, b = 0,
-						lr = 0, rl = 0;
+						lr = 0, rl = 0,
+						newW, newH, multW = 1, multH = 1;
 				if (direction.indexOf('w') != -1) {
 					l = -dx;
 					lr = dx;}
@@ -178,12 +184,28 @@
 					rl = -dx;}
 				if (direction.indexOf('n') != -1) {t = -dy;}
 				if (direction.indexOf('s') != -1) {b = dy;}
-				this.expandEdges(r, t, l, b);
+
+				if (this.minSize && this.minSize.w) {
+					newW = this.w + l + r;
+					if (newW < this.minSize.w) {
+						multW = (this.minSize.w - this.w) / (l + r);}}
+
+				if (this.minSize && this.minSize.h) {
+					newH = this.h + t + b;
+					if (newH < this.minSize.h) {
+						multH = (this.minSize.h - this.h) / (t + b);}}
+
+				this.expandEdges(r * multW, t * multH, l * multW, b * multH);
 				if (this.neighbors.left) {
-					this.neighbors.left.expandEdges(lr, 0, 0, 0);}
+					this.neighbors.left.expandEdges(lr * multW, 0, 0, 0);}
 				if (this.neighbors.right) {
-					this.neighbors.right.expandEdges(0, 0, rl, 0);}
-			},
+					this.neighbors.right.expandEdges(0, 0, rl * multW, 0);}
+
+				return {
+					l: l * (1 - multW),
+					r: r * (1 - multW),
+					t: t * (1 - multH),
+					b: b * (1 - multH)};},
 
 			/**
 			 * Gets the interior dimensions of this object.

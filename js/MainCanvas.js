@@ -205,8 +205,12 @@ $P.MainCanvas = $P.defineClass(
 		{
 			mousemove: function(event, x, y) {
 				var dx = x - this.x,
-						dy = y - this.y;
-				this.selected.resize(this.direction, dx, dy);
+						dy = y - this.y,
+						unused;
+				// unused accounts for the bubble having a minimum size.
+				unused = this.selected.resize(this.direction, dx, dy);
+				x += unused.l - unused.r;
+				y += unused.t - unused.b;
 				this.x = x;
 				this.y = y;},
 			mouseup: function(event, x, y) {

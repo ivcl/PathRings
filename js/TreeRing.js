@@ -28,6 +28,7 @@
 			this._downLabel = config.downLabel || 'Down Expressed';
 
 			config.name = this.dataName || 'human';
+			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
 			$P.BubbleBase.call(this, config);},
 		{
