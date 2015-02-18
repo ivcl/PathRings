@@ -23,6 +23,8 @@ $P.NavCanvas = $P.defineClass(
 			if (this.viewbox.contains(x / this.scale, y / this.scale)) {
 				this.state = 'dragview';
 				this.setCursor('move');
+				this.useMouseupGlobally();
+				this.useMousemoveGlobally();
 				this.lastX = x;
 				this.lastY = y;}},
 		mousemove: function(event, x, y) {
@@ -38,6 +40,8 @@ $P.NavCanvas = $P.defineClass(
 			if ('dragview' !== this.state) {return;}
 			this.state = 'default';
 			this.setCursor('auto');
+			$P.state.setGlobalMouseup(null);
+			$P.state.setGlobalMousemove(null);
 			this.viewbox.updatePosition();},
 		draw: function() {
 			$P.Canvas.prototype.draw.call(this);

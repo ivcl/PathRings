@@ -20,7 +20,7 @@ $P.BubbleLink = $P.defineClass(
 		this.source.registerLink(this);
 		this.target = config.target;
 		this.target.registerLink(this);
-		this.strokeStyle = config.strokeStyle || 'gray';
+		this.strokeStyle = config.strokeStyle || 'black';
 		this.fillStyle = config.fillStyle || 'gray';
 		this.sourceWidth = config.sourceWidth || 7;
 		this.targetWidth = config.targetWidth || 2;
@@ -47,6 +47,8 @@ $P.BubbleLink = $P.defineClass(
 				this.target.x + baseDir.x * this.targetWidth * 0.5,
 				this.target.y + baseDir.y * this.targetWidth * 0.5);
 			context.closePath();
+			context.strokeStyle = this.strokeStyle;
+			context.stroke();
 			context.fillStyle = this.fillStyle;
 			context.fill();
 			context.restore();},

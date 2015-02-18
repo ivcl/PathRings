@@ -140,6 +140,8 @@ $P.MainCanvas = $P.defineClass(
 		 */
 		function(canvas) {
 			this.canvas = canvas;
+			this.canvas.useMousemoveGlobally();
+			this.canvas.useMouseupGlobally();
 		},
 		{
 			mousemove: function(event, x, y) {
@@ -167,6 +169,8 @@ $P.MainCanvas = $P.defineClass(
 			this.y = y;
 			this.selected.highlighted = true;
 			this.canvas.setCursor('move');
+			this.canvas.useMousemoveGlobally();
+			this.canvas.useMouseupGlobally();
 			$P.state.scene.disableHtmlPointerEvents();
 		},
 		{
@@ -200,6 +204,8 @@ $P.MainCanvas = $P.defineClass(
 			this.x = x;
 			this.y = y;
 			this.selected.highlighted = true;
+			this.canvas.useMouseupGlobally();
+			this.canvas.useMousemoveGlobally();
 			$P.state.scene.disableHtmlPointerEvents();
 		},
 		{

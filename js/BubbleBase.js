@@ -76,7 +76,6 @@
 				$P.Object2D.prototype.onDelete.call(this);
 				this.links.slice(0)
 					.forEach(function(link) {
-						console.log(link);
 						link.delete();});
 				if (1 == this.parent.children.length) {
 					this.parent.delete();}},
