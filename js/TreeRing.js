@@ -225,7 +225,7 @@
 				else if('showCrossTalk' == operateText) {config.showCrossTalk = true;}
 				bubble.createSvg(config);
 
-				bubble.name = bubble.id + '_' + val;
+				bubble.name = val;
 				bubble.orthologLabel = val;
 			});
 			//element.find('#file').val(bubble.file);
