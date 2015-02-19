@@ -3,7 +3,6 @@
 
 	$P.TreeRing = $P.defineClass(
 		$P.BubbleBase,
-		//function TreeRing(x, y, w, h, dataName, dataType, selectedData) {
 		function TreeRing(config) {
 			this.processingStatus = new PATHBUBBLES.Text(this, "Processing");
 
@@ -143,7 +142,7 @@
 			tmp += '<select id="crossTalkLevel" style="display: none; position: absolute; left: 10px; top: 50px; width: 220px;">';
 			tmp += '</select>';
 
-			tmp +='<div id="orthologTypeDiv" style="position: absolute; left: 10px; top: 75px; width:220px;">';
+			tmp += '<div id="orthologTypeDiv" style="position: absolute; left: 10px; top: 75px; width:220px;">';
 			tmp += '<select id="file" style="position: absolute; left: 0px; top: 0px; width: 220px;">';
 			tmp += '<option value="Default">Choose Species</option>';
 			tmp += '<option value="Gallus" selected="selected">Gallus</option>';

@@ -18,7 +18,8 @@
 				objectConfig: config});
 			this.maxHeight = this.h;
 			this.data = config.data || null;
-			this.dbId = config.dbId || null;
+			if (!config.dbId) {console.error('ERROR: D3Table(', config, ') dbId is not defined.');}
+			this.dbId = config.dbId;
 			this.keepQuery = undefined === config.keepQuery ? true : config.keepQuery;
 			this._symbols2Pathways = this.parent.crosstalking;},
 		{
@@ -29,8 +30,7 @@
 				if (undefined !== dbId) {this.dbId = dbId;}
 				if (undefined !== querySymbol) {this.querySymbol = querySymbol;}
 
-				var _this = this,
-						root = this,
+				var self = this,
 						width = this.w,
 						height = this.h;
 
@@ -52,14 +52,14 @@
 				refreshTable(null);
 				function refreshTable(sortOn){
 
-					if (_this.data == null) {
-						if (_this.querySymbol !== null && _this.querySymbol !== undefined) {
+					if (self.data == null) {
+						if (self.querySymbol !== null && self.querySymbol !== undefined) {
 							$.ajax({
 								url: './php/querybyPathwayIdSymbol.php',
 								type: 'GET',
 								data: {
-									pathwaydbId: _this.dbId,
-									symbol: _this.querySymbol
+									pathwaydbId: self.dbId,
+									symbol: self.querySymbol
 								},
 								dataType: 'json',
 								success: function (jsonData) {
@@ -74,7 +74,7 @@
 								url: './php/querybyPathwayId.php',
 								type: 'GET',
 								data: {
-									pathwaydbId: _this.dbId
+									pathwaydbId: self.dbId
 								},
 								dataType: 'json',
 								success: function (jsonData) {
@@ -86,14 +86,14 @@
 						}
 					}
 					else {
-						operation(_this.data);
+						operation(self.data);
 					}
 					function operation(jsonData) {
 
-						var oldH = _this.h;
-						_this.h = Math.min(jsonData.length *12+100, _this.maxHeight);
-						_this.parent.h += _this.h - oldH;
-						height = _this.h;
+						var oldH = self.h;
+						self.h = Math.min(jsonData.length *12+100, self.maxHeight);
+						self.parent.h += self.h - oldH;
+						height = self.h;
 
 						container
 							.style('width', width )
@@ -142,7 +142,7 @@
 							d3.select(this).classed('highlight', true);
 						});
 						var td = tr.selectAll('td').data(function (d) {
-							if(_this.keepQuery)
+							if(self.keepQuery)
 							{
 								var symbol = d.symbol;
 								var obj = [];
@@ -208,14 +208,14 @@
 									}
 									else {
 
-										var index = _this._symbols2Pathways.symbols.indexOf(d.symbol);
+										var index = self._symbols2Pathways.symbols.indexOf(d.symbol);
 										if (index !== -1) {
-											var pathways = _this._symbols2Pathways.pathwayNames[index];
+											var pathways = self._symbols2Pathways.pathwayNames[index];
 											for(var i=0; i<pathways.length; ++i)
 											{
 												pathways[i] = $.trim(pathways[i]);
 											}
-											var currentId=_this.parent.name.split('_')[0];
+											var currentId=self.parent.name.split('_')[0];
 											var currentBubble=null;
 											for(var i=0; i<scene.children.length; ++i)
 											{
@@ -271,28 +271,28 @@
 								}
 							})
 							.on('contextmenu', function (d, i) {
-								if (_this.keepQuery && d.key == 'symbol')
+								if (self.keepQuery && d.key == 'symbol')
 								{
 									if (d.value == String(d.value))
 									{
-										var bubble = new PATHBUBBLES.Table(_this.parent.x + _this.parent.offsetX + _this.parent.w - 40, _this.parent.y + _this.parent.offsetY, 530, 500, null, null, {dbId: _this.dbId, symbol: d.value});
-										bubble.name = _this.parent.name + '-' + d.value;
+										var bubble = new PATHBUBBLES.Table(self.parent.x + self.parent.offsetX + self.parent.w - 40, self.parent.y + self.parent.offsetY, 530, 500, null, null, {dbId: self.dbId, symbol: d.value});
+										bubble.name = self.parent.name + '-' + d.value;
 										bubble.addHtml();
 										bubble.table.keepQuery = false;
 										bubble.menuOperation();
 
 										scene.addObject(bubble);
-										if (!_this.parent.GROUP) {
+										if (!self.parent.GROUP) {
 											var group = new PATHBUBBLES.Groups();
-											group.objectAddToGroup(_this.parent);
+											group.objectAddToGroup(self.parent);
 											group.objectAddToGroup(bubble);
 											scene.addObject(group);
 										}
 										else {
-											if (_this.parent.parent instanceof  PATHBUBBLES.Groups) {
-												_this.parent.parent.objectAddToGroup(_this.parent);
-												_this.parent.parent.objectAddToGroup(bubble);
-												scene.addObject(_this.parent.parent);
+											if (self.parent.parent instanceof  PATHBUBBLES.Groups) {
+												self.parent.parent.objectAddToGroup(self.parent);
+												self.parent.parent.objectAddToGroup(bubble);
+												scene.addObject(self.parent.parent);
 											}
 										}
 										d3.event.preventDefault();
@@ -438,6 +438,33 @@
 						return b ? 1 : a ? -1 : 0;
 					}
 					return null;}
+			},
+
+			/**
+			 * Run callback with data as the first argument.
+			 */
+			withData: function(callback) {
+				var self = this, ajax;
+				if (this.data) {
+					callback(this.data);
+					return;}
+
+				ajax = {
+					type: 'GET',
+					data: {pathwaydbId: this.dbId},
+					success: function (data) {
+						self.data = data;
+						callback(data);},
+					error: function () {
+						console.error('D3Table#withData(', callback, '): Could not retrieve data.');}};
+
+				if (this.querySymbol) {
+					ajax.url = './php/querybyPathwayIdSymbol.php';
+					ajax.data.symbol = this.querySymbol;}
+				else {
+					ajax.url = './php/querybyPathwayId.php';}
+
+				$.ajax(ajax);
 			}
 		});
 })(PATHBUBBLES);

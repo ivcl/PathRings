@@ -24,6 +24,7 @@
 			this.keepQuery = config.keepQuery || null;
 
 			$.extend(config, {closeMenu: true, groupMenu: true});
+			console.log(config);
 			$P.BubbleBase.call(this, config);
 		}, {
 			onAdded: function(parent) {
