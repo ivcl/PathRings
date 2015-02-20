@@ -22,6 +22,7 @@
 			this.experimentType = config.experimentType || 'Ortholog';
 			this.preHierarchical = config.preHierarchical || '';
 			this.keepQuery = config.keepQuery || null;
+			this.sourceRing = config.sourceRing || null;
 
 			$.extend(config, {closeMenu: true, groupMenu: true});
 			console.log(config);

@@ -59,7 +59,9 @@
 
 			onAdded: function(parent) {
 				if (!(parent instanceof $P.BubbleGroup)) {
-					this.parent.add(new $P.BubbleGroup(this));}},
+					this.parent.add(new $P.BubbleGroup(this));
+					return true;}
+				return false;},
 
 			repositionMenus: function() {
 				var i, offset, menu, unit;

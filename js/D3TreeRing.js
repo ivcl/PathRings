@@ -19,14 +19,29 @@
 			this.showCrossTalkLevel = config.crosstalkLevel || this.parent.crossTalkLevel || 1;
 			this.changeLevel = config.changeLevel || false;
 			this.customExpression = config.customExpression || null;
-			this.expressionScaleMax = null;
 			this.maxLevel = 6;
-			this._crossTalkSymbols = {};
-			this._rateLimitSymbols = {};
+			this.crosstalkSymbols = config.crosstalkSymbols || {};
+			this.rateLimitSymbols = config.ratelimitSymbols || {};
 			this.highlightPathways = config.highlightPathways || [];
-			if (config.showTitle) {this.showTitle();}
-			else if (config.showCrossTalk) {this.showCrossTalk();}},
+			this.displayMode = config.displayMode || 'title';
+			this.initialized = false;},
 		{
+			get displayMode() {return this._displayMode;},
+			set displayMode(value) {
+				if ('title' === value) {
+					if (this.initialized) {
+						d3.select(this.element).selectAll('.link').style('opacity', 0);
+						d3.select(this.element).selectAll('.titleLink').style('opacity', 1);
+						d3.select(this.element).selectAll('.inner_node').style('opacity', 1);
+						$(this.element).find('#crossTalkLevel').hide();}
+					this._displayMode = 'title';}
+				if ('crosstalk' === value) {
+					if (this.initialized) {
+						d3.select(this.element).selectAll('.titleLink').style('opacity', 0);
+						d3.select(this.element).selectAll('.inner_node').style('opacity', 0);
+						d3.select(this.element).selectAll('.link').style('opacity', 1);
+						$(this.element).find('#crossTalkLevel').show();}
+					this._displayMode = 'crosstalk';}},
 			init: function () {
 				var self = this,
 						bubble = this.parent;
@@ -203,26 +218,26 @@
 							});
 
 				d3.json('./data/crossTalkings.json', function (error, crossTalkSymbols) {
-					_this._crossTalkSymbols = crossTalkSymbols;
+					_this.crosstalkSymbols = crossTalkSymbols;
 
 					d3.text('./data/ratelimitsymbol.txt', function (error, rateLimitSymbols) {
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
 						//                var rateLimit_Symbols = rateLimitSymbols.split('\n');
 						var rateLimit_Symbols = rateLimitSymbols.split('\r\n');
-						_this._rateLimitSymbols.keys = d3.set(rateLimit_Symbols.map(function (d) {
+						_this.rateLimitSymbols.keys = d3.set(rateLimit_Symbols.map(function (d) {
 							if (d !== '')
 								return d;
 						})).values().sort(function (a, b) {
 							return ( a < b ? -1 : a > b ? 1 : 0);
 						});
-						_this._rateLimitSymbols.values = _this._rateLimitSymbols.keys.map(function (d) {
+						_this.rateLimitSymbols.values = _this.rateLimitSymbols.keys.map(function (d) {
 							return 0;
 						});
 						for (var i = 0; i < rateLimit_Symbols.length; ++i) {
-							var index = _this._rateLimitSymbols.keys.indexOf(rateLimit_Symbols[i]);
+							var index = _this.rateLimitSymbols.keys.indexOf(rateLimit_Symbols[i]);
 							if (index !== -1) {
-								_this._rateLimitSymbols.values[index]++;
+								_this.rateLimitSymbols.values[index]++;
 							}
 						}
 						{   //main
@@ -498,7 +513,6 @@
 										});
 										//                                    }
 										//                                    else {
-										//                                        max = _this.expressionScaleMax;
 										//                                    }
 
 										var divisions = 10;
@@ -1001,8 +1015,9 @@
 											name: datum.name,
 											data: tableData,
 											experimentType: _this.parent.experimentType,
-											crosstalking: _this._crossTalkSymbols,
+											crosstalking: _this.crosstalkSymbols,
 											keepQuery: true,
+											sourceRing: self,
 											w: 400, h: 400});
 										bubble.parent.add(table);
 
@@ -1072,8 +1087,9 @@
 											namu: d3datum.name,
 											data: upData.concat(downData),
 											experimentType: self.parent.experimentType,
-											crosstalking: self._crossTalkSymbols,
+											crosstalking: self.crosstalkSymbols,
 											keepQuery: true,
+											sourceRing: self,
 											w: 400, h: 400});
 										bubble.parent.add(table);
 
@@ -1394,7 +1410,8 @@
 										table = new $P.Table({
 											dbId: datum.dbId,
 											name: datum.name,
-											experimentType: bubble.experimentType,
+											experimentType: this.parent.experimentType,
+											sourceRing: self,
 											w: 400, h: 400});
 
 										bubble.parent.add(table);
@@ -1465,7 +1482,6 @@
 										if (_this.customExpression) {
 											d3.select(ringBubble.svg.element).selectAll('.symbol').remove();
 											ringBubble.svg.customExpression = _this.customExpression;
-											ringBubble.svg.expressionScaleMax = max;
 											ringBubble.minRatio = _this.parent.minRatio;
 											ringBubble.maxRatio = _this.parent.maxRatio;
 											ringBubble.crossTalkLevel = _this.parent.crossTalkLevel;
@@ -1476,17 +1492,12 @@
 										d3.event.preventDefault();
 									}
 
+
+
 									if ('showTitle' === _this.parent.operateText) {
-										d3.select(_this.parent.svg.element).selectAll('.link').style('opacity', 0);
-										d3.select(_this.parent.svg.element).selectAll('.titleLink').style('opacity', 1);
-										d3.select(_this.parent.svg.element).selectAll('.inner_node').style('opacity', 1);
-										$(_this.parent.menu.element).find('#crossTalkLevel').hide();}
+										this.displayMode = 'title';}
 									else if ('showCrossTalk' === _this.parent.operateText) {
-										d3.select(_this.parent.svg.element).selectAll('.titleLink').style('opacity', 0);
-										d3.select(_this.parent.svg.element).selectAll('.inner_node').style('opacity', 0);
-										d3.select(_this.parent.svg.element).selectAll('.link').style('opacity', 1);
-										$(_this.parent.menu.element).find('#crossTalkLevel').show();
-									}
+										this.displayMode = 'crosstalk';}
 								});
 
 							}
@@ -1605,20 +1616,9 @@
 				});
 
 				d3.select(self.frameElement).style('height', height + 'px');
-
-			},
-			showTitle: function () {
-				d3.select(this.element).selectAll('.link').style('opacity', 0);
-				d3.select(this.element).selectAll('.titleLink').style('opacity', 1);
-				d3.select(this.element).selectAll('.inner_node').style('opacity', 1);
-				$(this.element).find('#crossTalkLevel').hide();
-			},
-			showCrossTalk: function () {
-				d3.select(this.element).selectAll('.titleLink').style('opacity', 0);
-				d3.select(this.element).selectAll('.inner_node').style('opacity', 0);
-				d3.select(this.element).selectAll('.link').style('opacity', 1);
-				$(this.element).find('#crossTalkLevel').show();
-			},
+				this.initialized = true;
+				// Force display mode.
+				this.displayMode = this.displayMode;},
 			/**
 			 * Returns the ratio limits set by the user.
 			 * @returns {Object} - a min and max value.
@@ -1657,9 +1657,9 @@
 			 * @returs {string[]} - the pathways names
 			 */
 			getCrossTalkPathways: function(symbol) {
-				var i = this._crossTalkSymbols.symbols.indexOf(symbol);
+				var i = this.crosstalkSymbols.symbols.indexOf(symbol);
 				if (-1 === i) {return [];}
-				return this._crossTalkSymbols.pathwayNames[i];},
+				return this.crosstalkSymbols.pathwayNames[i];},
 
 			/**
 			 * Gets the rate limit for a symbol
@@ -1667,9 +1667,9 @@
 			 * @returs {number} - the rate limiting on the symbol
 			 */
 			getRateLimit: function(symbol) {
-				var i = this._rateLimitSymbols.keys.indexOf(symbol);
+				var i = this.rateLimitSymbols.keys.indexOf(symbol);
 				if (-1 === i) {return 0;}
-				return this._rateLimitSymbols.values[i];}
+				return this.rateLimitSymbols.values[i];}
 		});
 
 	$P.D3TreeRing.BubbleLinkEnd = $P.defineClass(

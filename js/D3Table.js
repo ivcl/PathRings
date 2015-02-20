@@ -170,7 +170,8 @@
 							.text(function (d) {
 								return d.value;
 							})
-							.on('click',function(d,i){
+							.on('click', function (d){
+								var i, treeRing;
 								if(d.key=='symbol')
 								{
 									if( $('#information').children('iframe').length==0)
@@ -202,11 +203,12 @@
 								}
 								else if(d.key=='crossTalk')
 								{
-									if(d.value == 0)
-									{
+									if(d.value == 0) {
 										alert('It does not have cross-talking pathways!');
-									}
+										console.error('It does not have cross-talking pathways!');}
+
 									else {
+										treeRing = self.parent.sourceRing;
 
 										var index = self._symbols2Pathways.symbols.indexOf(d.symbol);
 										if (index !== -1) {

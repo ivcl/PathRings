@@ -69,30 +69,37 @@
 
 
 			onAdded: function(parent) {
-				$P.BubbleBase.prototype.onAdded.call(this, parent);
-				this.createSvg();},
+				if (!$P.BubbleBase.prototype.onAdded.call(this, parent)) {
+					this.createSvg();}},
+
 			/**
-			 * Creates the svg component if needed.
+			 * (Re)creates the svg component.
 			 * @param {object} [config] - optional config paremeters.
 			 */
 			createSvg: function(config) {
-				var actual_config;
-				if (!this.svg) {
-					if (!this.dataType) {this.dataType = 'Gallus';}
-					actual_config = {
-						parent: this,
-						defaultRadius: Math.min(this.w, this.h) - 30,
-						dataType: this.dataType,
-						selectedData: this.selectedData,
-						name: this.dataName};
-					actual_config = $.extend(actual_config, this.getInteriorDimensions());
-					actual_config.x += 8;
-					actual_config.y += 8;
-					actual_config.w -= 16;
-					actual_config.h -= 16;
-					actual_config = $.extend(actual_config, config);
-					this.svg = new $P.D3TreeRing(actual_config);
-					this.svg.init();}},
+				var actual_config = Object.create(this.svg || null); // Automatically use parameters from existing svg.
+				if (!this.dataType) {this.dataType = 'Gallus';}
+				$.extend(actual_config, {
+					defaultRadius: Math.min(this.w, this.h) - 30,
+					dataType: this.dataType,
+					selectedData: this.selectedData,
+					name: this.dataName});
+				actual_config = $.extend(actual_config, this.getInteriorDimensions());
+				actual_config.x += 8;
+				actual_config.y += 8;
+				actual_config.w -= 16;
+				actual_config.h -= 16;
+				actual_config = $.extend(actual_config, config);
+				if (this.svg) {this.svg.delete();}
+				actual_config.parent = this;
+				this.svg = new $P.D3TreeRing(actual_config);
+				this.svg.init();},
+			/**
+			 * Removes the svg component.
+			 */
+			deleteSvg: function() {
+				this.svg.delete();
+				this.svg = null;},
 			createMenu: function() {
 				this.menu = new $P.TreeRing.Menu({parent: this});},
 			addStatusElement: function () {
@@ -197,32 +204,20 @@
 			element.find('#operateText').change(function (){
 				var val = $(this).val();
 				bubble._operateText = val;
-				if ('showTitle' == val) {bubble.svg.showTitle();}
-				else if ('showCrossTalk' == val) {bubble.svg.showCrossTalk();}
+				if ('showTitle' == val) {bubble.svg.displayMode = 'title';}
+				else if ('showCrossTalk' == val) {bubble.svg.displayMode = 'crosstalk';}
 			});
 			//element.find('#operateText').val(bubble.operateText);
 
 			element.find('#file').change(function () {
-				var operateText = element.find('#operateText').val(),
-						val = $(this).val(),
-						customExpression = null,
-						highlightPathways,
+				var val = $(this).val(),
 						config;
 				if (val == undefined) {return;}
 				bubble._file = val;
-				if (bubble.svg.customExpression) {customExpression = bubble.svg.customExpression;}
-				highlightPathways = bubble.svg.highlightPathways;
-				bubble.svg.delete();
-				bubble.svg = null;
-
 				config = {
 					filename: './data/Ortholog/' + val + '/' + bubble.dataName + '.json',
 					crosstalkLevel: parseInt(element.find('#crossTalkLevel').val()),
-					highlightPathways: highlightPathways,
-					customExpression: customExpression,
 					changeLevel: true};
-				if ('showTitle' == operateText) {config.showTitle = true;}
-				else if('showCrossTalk' == operateText) {config.showCrossTalk = true;}
 				bubble.createSvg(config);
 
 				bubble.name = val;
@@ -237,13 +232,9 @@
 				bubble._crossTalkLevel = val;
 				config = {
 					filename: './data/Ortholog/' + element.find('#file').val() + '/' + bubble.dataName + '.json',
-					customOrtholog: bubble.svg.customOrtholog,
-					customExpression: bubble.svg.customExpression,
-					highlightPathways: bubble.svg.highlightPathways,
 					changeLevel: true,
 					crossTalkLevel: val};
-				bubble.svg.delete();
-				bubble.svg = null;
+				bubble.deleteSvg();
 				bubble.createSvg(config);
 			});
 			element.find('#crossTalkLevel').val(bubble.crossTalkLevel);
@@ -256,24 +247,14 @@
 					return;}
 
 				loader = new $P.FileLoader('Ortholog');
-				loader.load(bubble.selected_file, function (orthlogData) {
-					var operateText = bubble.operateText,
-							config;
-					config = {
-						customExpression: bubble.svg.customExpression,
-						highlightPathways: bubble.svg.highlightPathways,
-						customOrtholog: orthlogData,
+				loader.load(bubble.selected_file, function (orthologData) {
+					var config = {
+						customOrtholog: orthologData,
 						filename: './data/Ortholog/' + bubble.file + '/' + bubble.dataName + '.json',
-						changeLevel: true,
-						crossTalkLevel: parseInt(bubble.crossTalkLevel)};
-					if ('showTitle' == operateText) {config.showTitle = true;}
-					else if('showCrossTalk' == operateText) {config.showCrossTalk = true;}
+						changeLevel: true};
 					bubble.orthologLabel = 'Input ortholog file: ' + bubble.selected_file.name;
 					bubble.file = 'Default';
 					bubble.experiment_Type = "Ortholog";
-
-					bubble.svg.delete();
-					bubble.svg = null;
 					bubble.createSvg(config);});
 			});
 
@@ -292,19 +273,11 @@
 				loader.load(bubble.selected_file, function (expressionData) {
 					var config = {
 						filename: './data/Ortholog/' + element.find('#file').val() + '/' + bubble.dataName + '.json',
-						customOrtholog: bubble.svg.customOrtholog,
 						customExpression: expressionData,
-						highlightPathways: bubble.svg.highlightPathways,
-						changeLevel: true,
-						crossTalkLevel: parseInt(element.find('#crossTalkLevel').val())};
-					if ('showTitle' == operateText) {config.showTitle = true;}
-					else if('showCrossTalk' == operateText) {config.showCrossTalk = true;}
+						changeLevel: true};
 
 					bubble.expressionLabel = 'Input expression file: ' + bubble.selected_file.name;
 					bubble.experiment_Type = 'Expression';
-
-					bubble.svg.delete();
-					bubble.svg = null;
 					bubble.createSvg(config);});
 			});
 

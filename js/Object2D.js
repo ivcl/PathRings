@@ -72,25 +72,28 @@ $P.Object2D = $P.defineClass(
 				console.error('PATHBUBBLES.Object2D#add(:', child, "):  Can't have self as a child.");
 				return null;}
 
-			child.removeFromParent();
+			if (!child.onAdded(this)) {
 
-			if (position !== undefined) {
-				this.children.splice(position, 0, child);}
-			else {
-				position = this.children.length;
-				this.children.push(child);}
+				child.removeFromParent();
 
-			child.parent = this;
-			child.onAdded(this);
+				if (position !== undefined) {
+					this.children.splice(position, 0, child);}
+				else {
+					position = this.children.length;
+					this.children.push(child);}
 
-			if ($P.state) {$P.state.markDirty();}
-			return position;
-		},
+				child.parent = this;
+
+				if ($P.state) {$P.state.markDirty();}
+				return position;}
+
+			return null;},
 
 		/**
 		 * Called when this object is added to a parent.
 		 * @abstract
 		 * @param {($P.Object2D|$P.Scene)} parent - the parent object
+		 * @returns {boolean} - if true, do not add
 		 */
 		onAdded: function(parent) {},
 
