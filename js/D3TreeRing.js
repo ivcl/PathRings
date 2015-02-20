@@ -154,15 +154,12 @@
 									force = new $P.Force({x: x, y: y, w: 600, h: 600});
 									$P.state.scene.add(force);
 									force.addPathway(d.dbId, d.name, bubble.strokeStyle);
-									d.symbols.forEach(function(symbol) {
-										if (!symbol) {return;}
-										force.svg.entity_expand({name: symbol, pathwayId: d.dbId}, _this.getExpressionMap());});}
+									force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
 
 								// The object is a force, so add.
 								else if (force instanceof $P.Force) {
 									force.addPathway(d.dbId, d.name, bubble.strokeStyle);
-									d.symbols.forEach(function(symbol) {
-										force.svg.entity_expand({name: symbol, pathwayId: d.dbId}, _this.getExpressionMap());});}
+									force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
 
 								color = force.getPathwayColor(d.dbId);
 								$P.state.scene.addLink(
@@ -1565,7 +1562,7 @@
 								for (var i = 0; i < 2; ++i) {
 									var obj = {};
 									obj.data = (1 - i) * 20;
-									obj.text = texts[i];
+									obj.text = texts[i] + 'XXX';
 									obj.color = expressedColors[i];
 									newData.push(obj);}
 								var colorScaleBar = svg.append('g')

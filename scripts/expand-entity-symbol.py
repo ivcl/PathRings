@@ -5,17 +5,16 @@ import sys
 
 # Grab all related info for a specific entity.
 
-entity_name = sys.argv[1]
-if not entity_name:
-  sys.exit('Invalid entity name.')
+symbol_list = sys.argv[1]
+symbol_list = "'" + symbol_list.replace(",", "','") + "'"
 
 db = sqlite3.connect('../data.db')
 c = db.cursor()
 
-entity = None
-c.execute('SELECT * FROM entities WHERE name=?', (entity_name,))
+entities = {}
+c.execute('SELECT * FROM entities WHERE name IN (%s)' % symbol_list)
 for (entity_id, _type, name, location, uniprot_id) in c:
-  entity = {
+  entities[int(entity_id)] = {
     'id': entity_id,
     'reactome_id': entity_id,
     'type': _type,
@@ -25,27 +24,32 @@ for (entity_id, _type, name, location, uniprot_id) in c:
     'uniprot_id': uniprot_id,
     'pathways': {}}
 
-if not entity:
-  print('{\'error\': \'entity unknown\'}')
+if 0 == len(entities.values()):
+  print('{\'error\': \'symbols unknown\'}')
   sys.exit()
 
+sql_entity_ids = []
+for entity_id in entities:
+  sql_entity_ids.append(str(entity_id))
+sql_entity_ids = ", ".join(sql_entity_ids)
+
 pathways = {}
-c.execute('SELECT * FROM entity_pathways WHERE entity_id=?', (entity['id'],))
+c.execute('SELECT * FROM entity_pathways WHERE entity_id IN (%s)' % sql_entity_ids)
 for (entity_id, pathway_id, local_id) in c:
-  entity['pathways'][int(pathway_id)] = local_id
+  entity_id = int(entity_id)
+  entities[entity_id]['pathways'][int(pathway_id)] = local_id
   if pathway_id not in pathways:
     pathways[pathway_id] = {
       'id': pathway_id,
-      'entities': {entity['id']: local_id}}
+      'entities': {entity_id: local_id}}
 
 reactions = {}
-c.execute('SELECT DISTINCT reaction_id FROM reaction_entities WHERE entity_id=?', (entity['id'],))
+c.execute('SELECT DISTINCT reaction_id FROM reaction_entities WHERE entity_id IN (%s)' % sql_entity_ids)
 for (reaction_id,) in c:
   reaction_id = int(reaction_id)
   if reaction_id not in reactions:
     reactions[reaction_id] = {'id': reaction_id}
 
-entities = {}
 for reaction_id in reactions:
   reaction = reactions[reaction_id]
   c.execute('SELECT * FROM reactions WHERE reaction_id=?', (reaction_id,))
@@ -57,7 +61,7 @@ for reaction_id in reactions:
   for (reaction_id, entity_id, direction) in c:
     entity_id = int(entity_id)
     reaction['entities'][entity_id] = direction
-    if entity_id != entity['id'] and entity_id not in entities:
+    if entity_id not in entities:
       entities[entity_id] = {'id': entity_id, 'reactome_id': entity_id}
 
 for entity_id in entities:

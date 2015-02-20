@@ -167,16 +167,15 @@ $P.D3Force = $P.defineClass(
 			this.edges.locations = [];
 			this.labels = [];
 		},
-		entity_expand: function(entity, expressions) {
-			var forcedPathway = entity.pathwayId,
-					bubble = this.parent;
+		addSymbols: function(pathwayId, expressions, symbols) {
+			var bubble = this.parent,
+					names;
 			expressions = expressions || {};
-			$.getJSON('php/expandEntity.php?name=' + entity.name, null, function(data) {
-				var x = entity.x || this.size/2,
-						y = entity.y || this.size/2,
-						cx = entity.cx || this.size/2,
-						cy = entity.cy || this.size/2,
-						pathwayId;
+			$.getJSON('php/expandEntity.php?symbols=' + symbols.join(','), null, function(data) {
+				console.log('Data Received: ', data);
+				var x = this.size/2,
+						y = this.size/2,
+						pathwayId2;
 
 				if (data.entities) {
 					// Remove existing.
@@ -190,14 +189,14 @@ $P.D3Force = $P.defineClass(
 						if (expressions[entity.name.toUpperCase()] == 'down') {entity.expression = 'pineal';}
 
 						// Ensure pathway
-						if (forcedPathway && !entity.pathways[forcedPathway]) {
-							entity.pathways[forcedPathway] = 'unknown';}
+						if (pathwayId && !entity.pathways[pathwayId]) {
+							entity.pathways[pathwayId] = 'unknown';}
 
 						// Mark active pathways
 						entity.activePathways = [];
-						for (pathwayId in entity.pathways) {
-							if (bubble.pathways[pathwayId]) {
-								entity.activePathways.push(pathwayId);}}
+						for (pathwayId2 in entity.pathways) {
+							if (bubble.pathways[pathwayId2]) {
+								entity.activePathways.push(pathwayId2);}}
 
 						// Create locations from entities.
 						var location_id = entity.location,
@@ -241,10 +240,10 @@ $P.D3Force = $P.defineClass(
 						this.edges.entity_labels.push(edge);
 
 						// Add to main entity list.
-						entity.x = x + Math.random();
-						entity.y = y + Math.random();
-						entity.cx = cx + Math.random();
-						entity.cy = cy + Math.random();
+						entity.x = Math.random() * this.size;
+						entity.y = Math.random() * this.size;
+						entity.px = entity.x;
+						entity.py = entity.y;
 						this.entities[entity_id] = entity;
 						this.nodes.push(entity);
 						this.nodes.entities.push(entity);
