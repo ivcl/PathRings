@@ -24,7 +24,9 @@
 			this.rateLimitSymbols = config.ratelimitSymbols || {};
 			this.highlightPathways = config.highlightPathways || [];
 			this.displayMode = config.displayMode || 'title';
-			this.initialized = false;},
+			this.initialized = false;
+			this.nodeTextSize = config.nodeTextSize || 10;
+		},
 		{
 			get displayMode() {return this._displayMode;},
 			set displayMode(value) {
@@ -461,6 +463,7 @@
 									var downNode= gGroup.append('g').selectAll('.downNode');
 									var highlightNode = gGroup.append('g').selectAll('.highlightNode');
 									var textG = gGroup.append('g').selectAll('.text');
+									var barCounts;
 									var expressionColors = [
 										'#08519c',
 										'#3182bd',
@@ -654,24 +657,26 @@
 										}))
 										.enter().append('text')
 										.attr('class', 'bar-text') // add class
-										.attr('text-anchor', function (d) {
-											return 'middle';
-											//                        return x(d.x + d.dx / 2) > Math.PI ? 'end' : 'start';
-										})
+										.attr('text-anchor', 'middle')
 										.attr('transform', function (d, i) {
 											if (i == 0)
 												return 'rotate(0)';
 											var angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90;
 
-											return 'rotate(' + angle + ')translate(' + (y(d.y) + 10) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
+											return 'rotate(' + angle + ')translate(' + y(d.y + d.dy * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
 										})
-										.attr('dy', '.35em') // vertical-align
-										.style('font-size', 10)
+										.attr('dy', function(d, i) {
+											if (d.depth === _this.showCrossTalkLevel && Math.abs(x(d.x + d.dx) - x(d.x)) >= 0.16) {
+												return '0em';}
+											return '0.35em';}) // vertical-align
+										.style('font-size', function(d, i) {
+											var width = Math.abs(y(d.y + d.dy) - y(d.y)),
+													height = Math.abs(x(d.x + d.dx) - x(d.x));
+											if (d.depth === _this.showCrossTalkLevel) {width /= 2;}
+											return Math.min(width / Math.min(4, d.name.match(/\b\w/g).join('').length),
+																			height * Math.PI * 128) + 'px';})
 										.text(function (d, i) {
-											//                        if(d.name == 'homo sapiens')
-											//                            return '';
-											if (i == 0)
-												return '';
+											if (i == 0) {return '';}
 											var str = d.name;
 											str = str.match(/\b\w/g).join('');
 											str = str.substr(0, 4);
@@ -686,7 +691,7 @@
 										return angle / Math.PI * 180;
 									}
 
-									if (classes !== undefined && classes.length) {
+									if (classes && classes.length) {
 										var objects = processLinks(nodeData, classes);
 										var links = objects.imports;
 										if (!_this.customExpression) {
@@ -694,31 +699,19 @@
 												var temp = 0;
 												if (d.gallusOrth.sharedSymbols !== undefined)
 													temp = d.gallusOrth.sharedSymbols.length;
-												return temp;
-											});
-										}
+												return temp;});}
 										else if (_this.customExpression) {
 											var DownMax = d3.max(objects.nodes, function (d) {
 												if (d.expression !== undefined) {
-													return d.expression.downs.length;
-												}
+													return d.expression.downs.length;}
 												else {
-													return 0;
-												}
-
-											});
+													return 0;}});
 											var upMax = d3.max(objects.nodes, function (d) {
 												if (d.expression !== undefined) {
-													return d.expression.ups.length;
-												}
+													return d.expression.ups.length;}
 												else {
-													return 0;
-												}
-
-											});
-										}
+													return 0;}});}
 										var _nodes = objects.nodes;
-										//                    maxLevel = 6 - _nodes[0].depth;
 										link = link
 											.data(bundle(links))
 											.enter().append('path')
@@ -764,6 +757,35 @@
 												.on('contextmenu', barClick)
 												.on('mouseover', mouseovered)
 												.on('mouseout', mouseouted);
+
+											barCounts = gGroup.append('g').selectAll('.bar-count')
+												.data(_nodes.filter(function (d, i) {
+													// Remove nodes too small to write text.
+													var width = Math.abs(y(d.dy + d.d_dy) - y(d.dy)),
+															height = Math.abs(x(d.dx + d.d_dx) - x(d.dx));
+													return Math.min(width / 8, height * Math.PI * 16) >= 4 && height >= 0.16;
+												})).enter().append('text')
+												.attr('class', 'bar-count')
+												.attr('text-anchor', 'middle')
+												.attr('transform', function(d, i) {
+													var angle, crosstalkCount, distance;
+													if (!d.gallusOrth) {return '';}
+													angle = computeRotation(d, i);
+													crosstalkCount = d.gallusOrth.sharedSymbols.length;
+													distance = y(d.dy + d.d_dy * 0.5);
+													return 'rotate(' + angle + ')translate(' + distance + ')rotate(' +
+														(angle > 90 ? -180 : 0) + ')';})
+												.attr('dy', '1em')
+												.style('font-size', function(d, i) {
+													var width = Math.abs(y(d.dy + d.d_dy) - y(d.dy)),
+															height = Math.abs(x(d.dx + d.d_dx) - x(d.dx));
+													return Math.min(width / 4, height * Math.PI * 16) + 'px';})
+												.text(function(d, i) {
+													var crosstalkCount = 0;
+													if (0 === symbol_max) {return '';}
+													if (d.gallusOrth) {crosstalkCount = d.gallusOrth.sharedSymbols.length;}
+													return crosstalkCount;
+												});
 										}
 										else {
 											node = node
