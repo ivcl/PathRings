@@ -62,7 +62,7 @@
 		render();
 
 		$P.state.scene.add(new $P.TreeRing({
-			x: 50, y: 50, w: 700, h: 700,
+			x: 50, y: 50, w: 750, h: 700,
 			dataName: 'human'}));
 
 		var mousePosX, mousePosY;

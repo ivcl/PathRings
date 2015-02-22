@@ -28,6 +28,12 @@
 			this.nodeTextSize = config.nodeTextSize || 10;
 		},
 		{
+			onPositionChanged: function(dx, dy, dw, dh) {
+				$P.HtmlObject.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
+				if (this.svg) {
+					this.svg
+						.attr('width', this.w)
+						.attr('height', this.h);}},
 			get displayMode() {return this._displayMode;},
 			set displayMode(value) {
 				if ('title' === value) {
@@ -59,12 +65,13 @@
 							.range([0, radius]);
 
 				var svg = d3.select(this.element).append('svg')
-							.attr('width', width)
-							.attr('height', _this.parent.h - 40);
+							.attr('width', this.w)
+							.attr('height', this.h);
+				this.svg = svg;
 				var colors = ['#fdae6b', '#a1d99b', '#bcbddc'];
 				var gGroup;
 				var mainSvg = svg.append('g').attr('class','mainSVG')
-							.attr('transform', 'translate(' + self.w * 0.5 + ',' + self.h * 0.5 + ')');
+							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
 				svg.append('text')
 					.style('font-size', 15)
 					.attr('transform', 'translate(' + (width - 75) + ',' + 12 + ')')
@@ -460,6 +467,7 @@
 									var pathG = gGroup.append('g').selectAll('.path');
 									var link = gGroup.append('g').selectAll('.link');
 									var node = gGroup.append('g').selectAll('.node');
+									_this.nodeGroup = node;
 									var downNode= gGroup.append('g').selectAll('.downNode');
 									var highlightNode = gGroup.append('g').selectAll('.highlightNode');
 									var textG = gGroup.append('g').selectAll('.text');
@@ -718,6 +726,7 @@
 											.attr('d', diagonal)
 											.style('opacity', function(d, i) {return 'crosstalk' === self.displayMode ? 1 : 0;});
 										if (!_this.customExpression) {
+											var maxSize = 0;
 											node = node
 												.data(_nodes)
 												.attr('id', function (d, i) {
@@ -731,19 +740,22 @@
 												.attr('height', function (d) {
 													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
 													var r = Math.max(0, y(d.dy));
-													return Math.min(r * thea, Math.floor(_this.maxLevel));})
+													var val = Math.min(r * thea, Math.floor(_this.maxLevel));
+													return val;})
 												.attr('y', function (d) {
 													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
 													var r = Math.max(0, y(d.dy));
 													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
 												})
 												.attr('width', function (d) {
-													var temp = 0;
+													var temp = 0, val;
 													if (d.gallusOrth !== undefined)
 														temp = d.gallusOrth.sharedSymbols.length;
 													if (symbol_max == 0)
 														return 0;
-													return 2/3*Math.floor(temp / symbol_max * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy)) ));
+													val = 2/3*Math.floor(temp / symbol_max * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy))));
+													if (val > maxSize) {maxSize = val;}
+													return val;
 												})
 												.attr('transform', function (d, i) {
 													d.angle = computeRotation(d, i);
@@ -753,6 +765,11 @@
 												.on('contextmenu', barClick)
 												.on('mouseover', mouseovered)
 												.on('mouseout', mouseouted);
+
+											_this.crosstalkLegend.select('rect').attr('width', maxSize);
+											_this.crosstalkLegend.select('.size')
+												.attr('dx', maxSize)
+												.text(symbol_max);
 
 											/*
 											barCounts = gGroup.append('g').selectAll('.bar-count')
@@ -1533,11 +1550,11 @@
 									obj.data = i * 20;
 									obj.text = texts[i];
 									obj.color = colors[i];
-									newData.push(obj);
-								}
+									newData.push(obj);}
+
 								var colorScaleBar = svg.append('g')
 											.attr('class', 'colorScaleBar')
-											.attr('transform', 'translate(' + (width - 100) + ',' + ( 25  ) + ')')
+											.attr('transform', 'translate(' + (_this.w - 100) + ',' + ( 25  ) + ')')
 											.attr('width', BarWidth)
 											.attr('height', BarHeight);
 
@@ -1568,6 +1585,30 @@
 									.text(function (d, i) {
 										return d.text;
 									});
+
+								_this.crosstalkLegend = svg.append('g')
+											.attr('class', 'crosstalkLegend')
+											.attr('transform', 'translate(' + (_this.w - 100) + ',' + 100 + ')')
+											.attr('width', BarWidth)
+											.attr('height', 40);
+								_this.crosstalkLegend.append('rect')
+									.attr('x', 10)
+									.attr('y', -6)
+									.attr('width', 1)
+									.attr('height', 6)
+									.attr('fill', 'red');
+								_this.crosstalkLegend.append('text')
+									.attr('font-size', 10)
+									.text('0');
+								_this.crosstalkLegend.append('text')
+									.attr('font-size', 10)
+									.attr('y', 10)
+									.text('Crosstalk Count');
+								_this.crosstalkLegend.append('text')
+									.attr('class', 'size')
+									.attr('x', 15)
+									.attr('font-size', 10);
+
 							}
 							else
 							{

@@ -155,7 +155,7 @@
 			var i, tmp, menu, bubble, element;
 			tmp = '';
 
-			tmp += '<div style="border: 1px solid #444; margin: 1px; padding: 4%;">';
+			tmp += '<div style="border: 1px solid #bbb; margin: 1px 1px 0; padding: 4%;">';
 			tmp +=   '<div style="width: 100%; font-weight: bold; text-align: center;">Display</div>';
 			tmp +=   '<hr/>';
 
@@ -187,7 +187,7 @@
 			tmp +=   '</select>';
 			tmp += '</div>';
 
-			tmp += '<div style="border: 1px solid #444; margin: 1px; padding: 4%;">';
+			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 4%;">';
 			tmp +=   '<div style="width: 100%; font-weight: bold; text-align: center;">Load File</div>';
 			tmp +=   '<hr/>';
 
@@ -199,36 +199,17 @@
 			tmp +=   '<input type="file" id="expressionFile" style="display: inline-block;"/>';
 			tmp +=   '<div id="expressionRatios" style="margin: 10px 0;"><br/>';
 			tmp +=   '<div style="font-size: 80%; display: inline; margin: auto 0;">Ratio (log2):</div>';
-			tmp +=   '<input id="minRatio" type="text" style="display: inline-block; width: 20%; text-align: center;"/>';
+			tmp +=   '<input id="minRatio" type="text" style="font-size: 70%; display: inline-block; width: 20%; text-align: center;"/>';
 			tmp +=   '...';
-			tmp +=   '<input id="maxRatio" type="text" style="display: inline-block; width: 20%; text-align: center;"/>';
-			tmp +=   '<input id="updateRatio" type="button" value="Update" style="margin: auto 5px;"/>';
+			tmp +=   '<input id="maxRatio" type="text" style="font-size: 70%; display: inline-block; width: 20%; text-align: center;"/>';
+			tmp +=   '<input id="updateRatio" type="button" value="Update" style="font-size: 85%; margin: auto 5px;"/>';
 			tmp +=   '<br/>';
 
 			tmp += '</div>';
 			tmp += '<br style="display: table; clear: both;"/>';
 
-			/*
-			tmp += '<div id=loadFileDiv style="position: absolute; left: 0px; top: 90px; width: 260px; ' +
-				                                'font-size: 9pt;">';
-			tmp +=   '<div id=loadExpressionDiv>';
-			tmp +=     '<div style="position: absolute; top: 30px;">Expression: </div>';
-			tmp +=     '<input type="file" id="inputFileExpression" ' +
-				                 'style="position: absolute; top: 25px; left: 60px;"/>';
-			tmp +=     '<div style="position: absolute; top: 45px; left: 10px;">';
-			tmp +=       'With Ratio (log2):';
-			tmp +=       '<input id="minRatio" type="text" placeholder="-1.5" ' +
-				                   'style="display: inline; width: 40px; margin: 5px;"/>';
-			tmp +=       '...';
-			tmp +=       '<input id="maxRatio" type="text" placeholder="1.5" ' +
-				                   'style="display: inline; width: 40px; margin: 5px;"/>';
-			tmp +=     '</div>';
-			tmp +=   '</div>';
-			tmp += '</div>';
-			 */
-
 			config.menuString = tmp;
-			config.w = null;
+			config.w = 325;
 			config.h = null;
 			$P.HtmlMenu.call(this, config);
 
@@ -326,6 +307,7 @@
 						file = element.find('#orthologFile').get(0).files[0],
 						loader;
 				bubble.selectedFile = file;
+				bubble.orthologFile = file;
 				if (!file) {
 					alert('Please select your Ortholog data file!');
 					return;}
@@ -346,6 +328,7 @@
 						loader;
 
 				bubble.selectedFile = file;
+				bubble.expressionFile = file;
 				if (!file) {
 					alert('Please select your Expression data file!');
 					return;}
@@ -360,22 +343,6 @@
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);});},
 			onPositionChanged: function (dx, dy, dw, dh) {
-				var crossTalkLevel = this.element.querySelector('#crossTalkLevel'),
-						orthologTypeDiv = this.element.querySelector('#orthologTypeDiv'),
-						expressionTypeDiv = this.element.querySelector('#expressionTypeDiv');
-
-				if (!crossTalkLevel) {
-					$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
-					return;} // not yet initialized.
-				// ???
-				if($('#status').length)
-				{
-					$('#status').css({
-						left: this.parent.x + this.parent.w/2 - 60,
-						top: this.parent.y + this.parent.h/2
-					});
-				}
-
 				$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
 			}});
 })(PATHBUBBLES);
