@@ -16,14 +16,14 @@
 			this.file = config.filename || ('./data/Ortholog/' + this.dataType + '/' + this.name + '.json');
 			this.customOrtholog = config.customOrtholog;
 			this.selectedData = null;
-			this.showCrossTalkLevel = config.crosstalkLevel || this.parent.crossTalkLevel || 1;
+			this.showCrossTalkLevel = config.crosstalkLevel || this.parent.crosstalkLevel || 1;
 			this.changeLevel = config.changeLevel || false;
 			this.customExpression = config.customExpression || null;
 			this.maxLevel = 6;
 			this.crosstalkSymbols = config.crosstalkSymbols || {};
 			this.rateLimitSymbols = config.ratelimitSymbols || {};
 			this.highlightPathways = config.highlightPathways || [];
-			this.displayMode = config.displayMode || 'title';
+			this.displayMode = config.displayMode || this.parent.displayMode || 'title';
 			this.initialized = false;
 			this.nodeTextSize = config.nodeTextSize || 10;
 		},
@@ -82,7 +82,7 @@
 					.attr('transform', 'translate(' + 10 + ',' + 27 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
-					.text(_this.parent.orthologLabel);
+					.text(_this.parent.species);
 
 				svg.append('text').attr('class','expression')
 					.style('font-size', 12)
@@ -481,7 +481,7 @@
 									{
 										processHighlightNode(nodeData);
 									}
-									if (_this.parent.menuHidden) {
+									if (_this.customExpression) {
 										var max;
 										for (var i = 0; i < nodeData.length; ++i) {
 											if (nodeData[i].name !== 'homo sapiens' && nodeData[i].expression !== undefined && nodeData[i].gallusOrth !== undefined) {
@@ -715,7 +715,8 @@
 												d.target = d[d.length - 1];
 											})
 											.attr('class', 'link')
-											.attr('d', diagonal);
+											.attr('d', diagonal)
+											.style('opacity', function(d, i) {return 'crosstalk' === self.displayMode ? 1 : 0;});
 										if (!_this.customExpression) {
 											node = node
 												.data(_nodes)
@@ -1227,6 +1228,7 @@
 										}
 
 										var inode = gGroup.append('g').selectAll('.inner_node');
+										inode.style('opacity', function(d, i) {return 'title' === self.displayMode ? 1 : 0;});
 										var titleLink = gGroup.append('g').attr('class', 'links').selectAll('.titleLink');
 										var inodeRect = inode.data(inners).enter().append('g')
 													.attr('class', 'inner_node');
@@ -1309,7 +1311,8 @@
 											.attr('stroke', function (d) {
 												return '#00f';
 											})
-											.attr('stroke-width', '1px');
+											.attr('stroke-width', '1px')
+											.style('opacity', function(d, i) {return 'title' === self.displayMode ? 1 : 0;});
 
 										function mouserOverText(d) {
 											d3.select(_this.parent.svg.element).select('#' + 'titleLink' + d.id).attr('stroke-width', '5px');
@@ -1477,9 +1480,7 @@
 											ringBubble.preHierarchical = _this.parent.preHierarchical + '->' + _this.parent.id;}
 										else {
 											ringBubble.preHierarchical +=  _this.parent.id;}
-										ringBubble.orthologLabel=_this.parent.orthologLabel;
 										ringBubble.expressionLabel=_this.parent.expressionLabel;
-										ringBubble.menuHidden = _this.parent.menuHidden;
 
 										_this.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
@@ -1512,18 +1513,11 @@
 											ringBubble.downLabel = _this.parent.downLabel;}
 										d3.event.preventDefault();
 									}
-
-
-
-									if ('showTitle' === _this.parent.operateText) {
-										this.displayMode = 'title';}
-									else if ('showCrossTalk' === _this.parent.operateText) {
-										this.displayMode = 'crosstalk';}
 								});
 
 							}
 
-							if (_this.parent.menuHidden == undefined || _this.parent.menuHidden !== true) {     //Color Bar for ortholog
+							if (!_this.customExpression) {     //Color Bar for ortholog
 
 								var scaleMargin = {top: 5, right: 5, bottom: 5, left: 5},
 										scaleWidth = 30 - scaleMargin.left - scaleMargin.right,
@@ -1594,7 +1588,7 @@
 								for (var i = 0; i < 2; ++i) {
 									var obj = {};
 									obj.data = (1 - i) * 20;
-									obj.text = texts[i] + 'XXX';
+									obj.text = texts[i];
 									obj.color = expressedColors[i];
 									newData.push(obj);}
 								var colorScaleBar = svg.append('g')

@@ -13,14 +13,14 @@ $P.HtmlMenu = $P.defineClass(
 				menuString = config.menuString || parent.menuString || '';
 		config.x = parent.x + parent.w + parent.lineWidth * 0.6;
 		config.y = parent.y;
-		config.w = config.w || 200;
-		config.h = config.h || 245;
+		config.w = config.w;
+		config.h = config.h;
 		config = {objectConfig: config};
 		config.parent = '#bubble';
 		config.type = 'div';
 		config.pointer = 'visiblePainted';
 		$P.HtmlObject.call(this, config);
-		this.element.style.class = 'menu';
+		this.element.class = 'menu';
 		//this.element.style.opacity = 0.9;
 		this.element.style.filter = 'alpha:(opacity=40)';
 		this.element.style.background = 'lightgoldenrodyellow';

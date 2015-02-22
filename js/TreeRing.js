@@ -6,25 +6,26 @@
 		function TreeRing(config) {
 			this.processingStatus = new PATHBUBBLES.Text(this, "Processing");
 
-			this.orthologLabel = 'Gallus';
 			this.expressionLabel = "";
 
 			this.dataName = config.dataName || null;
 
 			this.dataType = config.dataType || null;
 			this.selectedData = config.selectedData || null;
-			this.experiment_Type = "Ortholog";
+			this.experimentType = "Ortholog";
 			this.preHierarchical = "";
 
 			this.selected_file = null;
 
 			this._minRatio = config.minRatio || -1.5;
 			this._maxRatio = config.maxRatio || 1.5;
-			this._crossTalkLevel = config.crossTalkLevel || 1;
+			this._crosstalkLevel = config.crosstalkLevel || 1;
 			this._file = config.file || null;
 			this._operateText = config.operateText || null;
 			this._upLabel = config.upLabel || 'Up Expressed';
 			this._downLabel = config.downLabel || 'Down Expressed';
+			this.displayMode = config.displayMode || 'title';
+			this._species = config.species || 'Gallus';
 
 			config.name = this.dataName || 'human';
 			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
@@ -33,19 +34,33 @@
 		{
 			get minRatio() {return this._minRatio;},
 			set minRatio(value) {
+				if (value === this._minRatio) {return;}
 				this._minRatio = value;
-				if (this.menu) {
-					$(this.menu.element).find('#minRatio').val(this._minRatio);}},
+				if (this.menu) {this.menu.updateRatio();}},
 			get maxRatio() {return this._maxRatio;},
 			set maxRatio(value) {
+				if (value === this._maxRatio) {return;}
 				this._maxRatio = value;
-				if (this.menu) {
-					$(this.menu.element).find('#maxRatio').val(this._maxRatio);}},
-			get crossTalkLevel() {return this._crossTalkLevel;},
-			set crossTalkLevel(value) {
-				this._crossTalkLevel = value;
-				if (this.menu) {
-					$(this.menu.element).find('#crossTalkLevel').val(this._crossTalkLevel);}},
+				if (this.menu) {this.menu.updateRatio();}},
+			get ratios() {return [this._minRatio, this._maxRatio];},
+			set ratios(value) {
+				this._minRatio = value[0];
+				this._maxRatio = value[1];
+				if (this.menu) {this.menu.updateRatio();}},
+			get crosstalkLevel() {return this._crosstalkLevel;},
+			set crosstalkLevel(value) {
+				if (value === this._crosstalkLevel) {return;}
+				this._crosstalkLevel = value;
+				if (this.menu) {this.menu.crosstalkLevel = value;}
+				if (this.svg) {this.createSvg({changeLevel: true, crossTalkLevel: value});}
+				this.displayMode = 'crosstalk';},
+			get species() {return this._species;},
+			set species(value) {
+				if (value === this._species) {return;}
+				this._species = value;
+				if (this.menu) {this.menu.species = value;}
+				if (this.svg) {
+					this.createSvg({filename: './data/Ortholog/' + value + '/' + this.dataName + '.json'});}},
 			get file() {return this._file;},
 			set file(value) {
 				this._file = value;
@@ -60,7 +75,12 @@
 			set upLabel(value) {this._upLabel = value;},
 			get downLabel() {return this._downLabel;},
 			set downLabel(value) {this._downLabel = value;},
-
+			get displayMode() {return this._displayMode;},
+			set displayMode(value) {
+				if (this._displayMode == value) {return;}
+				this._displayMode = value;
+				if (this.menu) {this.menu.updateDisplayMode(value);}
+				if (this.svg) {this.svg.displayMode = value;}},
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent)) {
 					this.createSvg();}},
@@ -132,32 +152,65 @@
 	$P.TreeRing.Menu = $P.defineClass(
 		$P.HtmlMenu,
 		function TreeRingMenu(config) {
-			var tmp, bubble, element;
+			var i, tmp, menu, bubble, element;
 			tmp = '';
-			tmp += '<select id="crossTalkLevel" style="display: none; position: absolute; left: 10px; top: 50px; width: 220px;">';
-			tmp += '</select>';
 
-			tmp += '<div id="orthologTypeDiv" style="position: absolute; left: 10px; top: 5px; width:220px;">';
-			tmp += '<select id="file" style="position: absolute; left: 0px; top: 0px; width: 220px;">';
-			tmp += '<option value="Default">Choose Species</option>';
-			tmp += '<option value="Gallus" selected="selected">Gallus</option>';
-			tmp += '<option value="Alligator">Alligator</option>';
-			tmp += '<option value="Turtle">Turtle</option>';
-			tmp += '<option value="Human">Human</option>';
-			tmp += '</select>';
+			tmp += '<div style="border: 1px solid #444; margin: 1px; padding: 4%;">';
+			tmp +=   '<div style="width: 100%; font-weight: bold; text-align: center;">Display</div>';
+			tmp +=   '<hr/>';
+
+			tmp +=   '<ul class="button-group"';
+			tmp +=       'style="list-style: none; width: 100%; text-align: center; margin: 5px 0;">';
+			tmp +=     '<li id="titleMode" style="display: inline-block; border: 1px solid #000; width: 45%; margin: 0 1% 0 4%;">';
+			tmp +=       '<a id="titleModeA" href="#" style="text-decoration: none; font-size: 90%;">';
+			tmp +=         'Pathway Names';
+			tmp +=       '</a>';
+			tmp +=     '</li>';
+			tmp +=     '<li id="crosstalkMode" style="display: inline-block; border: 1px solid #000; width: 40%; margin: 0 4% 0 1%;">';
+			tmp +=       '<a id="crosstalkModeA" href="#" style="text-decoration: none; font-size: 90%;">';
+			tmp +=         'Crosstalk';
+			tmp +=       '</a>';
+			tmp +=     '</li>';
+			tmp +=   '</ul>';
+
+			tmp +=   '<div style="display: inline; font-size: 90%; margin: auto 5% auto 0;">Species:</div>';
+			tmp +=   '<select id="selectSpecies" style="display: inline-block;">';
+			this.getSpeciesList().forEach(function(species) {
+				tmp += '<option value="' + species + '">' + species + '</option>';});
+			tmp +=   '</select>';
+			tmp +=   '<br/>';
+
+			tmp +=   '<div style="display: inline; font-size: 90%; margin: auto 5% auto 0;">Crosstalk Level:</div>';
+			tmp +=   '<select id="crosstalkLevel" style="display: inline-block;">';
+			for (i = 1; i <= 6; ++i) {
+				tmp += '<option value="' + i + '">' + i + '</option>';}
+			tmp +=   '</select>';
 			tmp += '</div>';
 
-			tmp += '<ul class="button-group" style="position: absolute; top: 50px;">';
-			tmp +=   '<li style="display: inline-block;"><a href="#" class="button">Pathway Names</a></li>';
-			tmp +=   '<li style="display: inline-block;"><a href="#" class="button">Crosstalk</a></li>';
-			tmp += '</ul>';
+			tmp += '<div style="border: 1px solid #444; margin: 1px; padding: 4%;">';
+			tmp +=   '<div style="width: 100%; font-weight: bold; text-align: center;">Load File</div>';
+			tmp +=   '<hr/>';
 
+			tmp +=   '<div style="width: 100%; font-size: 90%; text-align: center;">Ortholog:</div>';
+			tmp +=   '<input type="file" id="orthologFile" style="display: inline-block;"/>';
+			tmp +=   '<br/>';
+
+			tmp +=   '<div style="width: 100%; font-size: 90%; text-align: center;">Expression:</div>';
+			tmp +=   '<input type="file" id="expressionFile" style="display: inline-block;"/>';
+			tmp +=   '<div id="expressionRatios" style="margin: 10px 0;"><br/>';
+			tmp +=   '<div style="font-size: 80%; display: inline; margin: auto 0;">Ratio (log2):</div>';
+			tmp +=   '<input id="minRatio" type="text" style="display: inline-block; width: 20%; text-align: center;"/>';
+			tmp +=   '...';
+			tmp +=   '<input id="maxRatio" type="text" style="display: inline-block; width: 20%; text-align: center;"/>';
+			tmp +=   '<input id="updateRatio" type="button" value="Update" style="margin: auto 5px;"/>';
+			tmp +=   '<br/>';
+
+			tmp += '</div>';
+			tmp += '<br style="display: table; clear: both;"/>';
+
+			/*
 			tmp += '<div id=loadFileDiv style="position: absolute; left: 0px; top: 90px; width: 260px; ' +
 				                                'font-size: 9pt;">';
-			tmp +=   '<div id=loadOrthologDiv>';
-			tmp +=     '<div style="position: absolute; top: 5px;">Ortholog: </div>';
-			tmp +=     '<input type="file" id="inputFileOrtholog" style="position: absolute; top: 0px; left: 60px;"/>';
-			tmp +=   '</div>';
 			tmp +=   '<div id=loadExpressionDiv>';
 			tmp +=     '<div style="position: absolute; top: 30px;">Expression: </div>';
 			tmp +=     '<input type="file" id="inputFileExpression" ' +
@@ -172,111 +225,148 @@
 			tmp +=     '</div>';
 			tmp +=   '</div>';
 			tmp += '</div>';
+			 */
 
 			config.menuString = tmp;
-			config.w = config.w || 250;
-			config.h = config.h || 290;
+			config.w = null;
+			config.h = null;
 			$P.HtmlMenu.call(this, config);
 
+			menu = this;
 			bubble = this.parent;
 			element = $(this.element);
 
-			element.find('#operateText').change(function (){
-				var val = $(this).val();
-				bubble._operateText = val;
-				if ('showTitle' == val) {bubble.svg.displayMode = 'title';}
-				else if ('showCrossTalk' == val) {bubble.svg.displayMode = 'crosstalk';}
-			});
-			//element.find('#operateText').val(bubble.operateText);
+			element.find('#titleModeA').click(function() {
+				bubble.displayMode = 'title';});
 
-			element.find('#file').change(function () {
-				var val = $(this).val(),
-						config;
-				if (val == undefined) {return;}
-				bubble._file = val;
-				config = {
-					filename: './data/Ortholog/' + val + '/' + bubble.dataName + '.json',
-					crosstalkLevel: parseInt(element.find('#crossTalkLevel').val()),
-					changeLevel: true};
-				bubble.createSvg(config);
+			element.find('#crosstalkModeA').click(function() {
+				bubble.displayMode = 'crosstalk';});
 
-				bubble.name = val;
-				bubble.orthologLabel = val;
-			});
-			//element.find('#file').val(bubble.file);
+			element.find('#selectSpecies').change(function() {
+				bubble.species = $(this).val();});
 
-			element.find('#crossTalkLevel').change(function () {
-				var val = $(this).val(),
-						config;
-				if (!val) {return;}
-				bubble._crossTalkLevel = val;
-				config = {
-					filename: './data/Ortholog/' + element.find('#file').val() + '/' + bubble.dataName + '.json',
-					changeLevel: true,
-					crossTalkLevel: val};
-				bubble.deleteSvg();
-				bubble.createSvg(config);
-			});
+			element.find('#crosstalkLevel').change(function () {
+				bubble.crosstalkLevel = $(this).val();});
 			element.find('#crossTalkLevel').val(bubble.crossTalkLevel);
 
-			element.find('#loadOrth').on('click', function () {
+			element.find('#orthologFile').change(function() {menu.loadOrtholog();});
+			element.find('#expressionFile').change(function() {menu.loadExpression();});
+			element.find('#expressionRatios').slider({
+				range: true,
+				min: -10,
+				max: 10,
+				step: 0.1,
+				values: [-1.5, 1.5],
+				slide: function(event, ui) {
+					bubble.minRatio = ui.values[0];
+					bubble.maxRatio = ui.values[1];}});
+			element.find('#minRatio').change(function() {
+				bubble.minRatio = $(this).val();});
+			element.find('#maxRatio').change(function() {
+				bubble.maxRatio = $(this).val();});
+			element.find('#updateRatio').on('click', function() {menu.loadExpression();});
+
+
+			/*
+			 element.find('#loadOrth').on('click', function () {
 				var loader;
-				bubble.selected_file = element.find('#customOrth').get(0).files[0];
-				if (!bubble.selected_file) {
+				bubble.selectedFile = element.find('#customOrth').get(0).files[0];
+				if (!bubble.selectedFile) {
 					alert('Please select your Ortholog data file!');
 					return;}
 
 				loader = new $P.FileLoader('Ortholog');
-				loader.load(bubble.selected_file, function (orthologData) {
+				loader.load(bubble.selectedFile, function (orthologData) {
 					var config = {
 						customOrtholog: orthologData,
 						filename: './data/Ortholog/' + bubble.file + '/' + bubble.dataName + '.json',
 						changeLevel: true};
-					bubble.orthologLabel = 'Input ortholog file: ' + bubble.selected_file.name;
+					bubble.orthologLabel = 'Input ortholog file: ' + bubble.selectedFile.name;
 					bubble.file = 'Default';
-					bubble.experiment_Type = "Ortholog";
+					bubble.experimentType = "Ortholog";
 					bubble.createSvg(config);});
 			});
+			 */
 
-			element.find('#loadExp').on('click', function () {
-				var operateText = bubble.operateText,
+			this.updateRatio();
+			this.updateDisplayMode(bubble.displayMode);
+			this.onPositionChanged();},
+		{
+			updateDisplayMode: function(displayMode) {
+				var element = $(this.element),
+						button;
+
+				// Pressed.
+				element.find('title' === displayMode ? '#titleMode' : '#crosstalkMode').css({
+					background: '#ff8'});
+				element.find('title' === displayMode ? '#titleModeA' : '#crosstalkModeA').css({
+					color: '#000'});
+
+				// Unpressed.
+				element.find('title' === displayMode ? '#crosstalkMode' : '#titleMode').css({
+					background: this.element.style.background});
+				element.find('title' === displayMode ? '#crosstalkModeA' : '#titleModeA').css({
+					color: '#444'});},
+			updateRatio: function() {
+				var element = $(this.element),
+						bubble = this.parent;
+				element.find('#expressionRatios').slider('values', [bubble.minRatio, bubble.maxRatio]);
+				element.find('#minRatio').val(bubble.minRatio);
+				element.find('#maxRatio').val(bubble.maxRatio);},
+			getSpeciesList: function() {
+				return ['Gallus', 'Alligator', 'Turtle', 'Human'];},
+			set species(value) {
+				$(this.element).find('#selectSpecies').val(value);},
+			set crosstalkLevel(value) {
+				$(this.element).find('#crosstalkLevel').val(value);},
+			loadOrtholog: function() {
+				var menu = this,
+						bubble = this.parent,
+						element = $(this.element),
+						file = element.find('#orthologFile').get(0).files[0],
+						loader;
+				bubble.selectedFile = file;
+				if (!file) {
+					alert('Please select your Ortholog data file!');
+					return;}
+
+				loader = new $P.FileLoader('Ortholog');
+				loader.load(bubble.selectedFile, function (orthologData) {
+					var config = {
+						customOrtholog: orthologData,
+						filename: './data/Ortholog/' + bubble.species + '/' + bubble.dataName + '.json',
+						changeLevel: true};
+					//bubble.orthologLabel = 'Input ortholog file: ' + bubble.selectedFile.name;
+					bubble.experimentType = 'Ortholog';
+					bubble.createSvg(config);});},
+			loadExpression: function() {
+				var menu = this,
+						bubble = this.parent,
+						file = $(this.element).find('#expressionFile').get(0).files[0],
 						loader;
 
-				bubble.selected_file = element.find('#customExp').get(0).files[0];
-				if (!bubble.selected_file) {
+				bubble.selectedFile = file;
+				if (!file) {
 					alert('Please select your Expression data file!');
 					return;}
 
-				bubble.menuHidden = true;
-
 				loader = new $P.FileLoader('Expression');
-				loader.load(bubble.selected_file, function (expressionData) {
+				loader.load(bubble.selectedFile, function (expressionData) {
 					var config = {
-						filename: './data/Ortholog/' + element.find('#file').val() + '/' + bubble.dataName + '.json',
+						filename: './data/Ortholog/' + bubble.species + '/' + bubble.dataName + '.json',
 						customExpression: expressionData,
 						changeLevel: true};
-
-					bubble.expressionLabel = 'Input expression file: ' + bubble.selected_file.name;
-					bubble.experiment_Type = 'Expression';
-					bubble.createSvg(config);});
-			});
-
-			element.find('#minRatio').change(function() {
-				bubble._minRatio = $(this).val();});
-			element.find('#minRatio').val(bubble.minRatio);
-
-			element.find('#maxRatio').change(function() {
-				bubble._maxRatio = $(this).val();});
-			element.find('#maxRatio').val(bubble.maxRatio);
-
-			this.onPositionChanged();},
-		{
+					bubble.expressionLabel = 'Input expression file: ' + bubble.selectedFile.name;
+					bubble.experimentType = 'Expression';
+					bubble.createSvg(config);});},
 			onPositionChanged: function (dx, dy, dw, dh) {
 				var crossTalkLevel = this.element.querySelector('#crossTalkLevel'),
 						orthologTypeDiv = this.element.querySelector('#orthologTypeDiv'),
 						expressionTypeDiv = this.element.querySelector('#expressionTypeDiv');
 
-				if (!crossTalkLevel) {return;} // not yet initialized.
+				if (!crossTalkLevel) {
+					$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
+					return;} // not yet initialized.
 				// ???
 				if($('#status').length)
 				{
@@ -285,24 +375,6 @@
 						top: this.parent.y + this.parent.h/2
 					});
 				}
-
-				/*
-				if ($P.isHtmlElementVisible(crossTalkLevel)) {
-					if (this.menuHidden) {
-						$(orthologTypeDiv).hide();
-						expressionTypeDiv.style.top = '75px';}
-					else {
-						$(orthologTypeDiv).show();
-						expressionTypeDiv.style.top = '155px';}}
-				else {
-					orthologTypeDiv.style.top = '55px';
-					if (this.menuHidden) {
-						$(orthologTypeDiv).hide();
-						expressionTypeDiv.style.top = '55px';}
-					else {
-						$(orthologTypeDiv).show();
-						expressionTypeDiv.style.top = '135px';}
-				 */
 
 				$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
 			}});

@@ -34,11 +34,14 @@ $P.HtmlObject = $P.defineClass(
 		drawSelf: function() {
 			$(this.element).css({left: (this.x - $P.state.scrollX) + 'px'});},
 		onPositionChanged: function(dx, dy, dw, dh) {
+			var e = $(this.element);
 			$P.Object2D.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
-			$(this.element).css({
-				top: (this.y + $P.state.mainCanvas.getLocation().y) + 'px',
-				width: this.w + 'px',
-				height: this.h + 'px'});},
+			e.css({
+				top: (this.y + $P.state.mainCanvas.getLocation().y) + 'px'});
+			if (this.w) {e.css('width', this.w + 'px');}
+			else {e.css('width', 'auto');}
+			if (this.h) {e.css('height', this.h + 'px');}
+			else {e.css('height', 'auto');}},
 		/**
 		 * If the element can receieve pointer events.
 		 * @returns {boolean} - if it is enabled
