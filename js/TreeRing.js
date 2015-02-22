@@ -57,16 +57,9 @@
 				if (this.menu) {
 					$(this.menu.element).find('#operateText').val(this._operateText);}},
 			get upLabel() {return this._upLabel;},
-			set upLabel(value) {
-				this._upLabel = value;
-				if (this.menu) {
-					$(this.menu.element).find('#upLabel').val(this._upLabel);}},
+			set upLabel(value) {this._upLabel = value;},
 			get downLabel() {return this._downLabel;},
-			set downLabel(value) {
-				this._downLabel = value;
-				if (this.menu) {
-					$(this.menu.element).find('#downLabel').val(this._downLabel);}},
-
+			set downLabel(value) {this._downLabel = value;},
 
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent)) {
@@ -141,15 +134,10 @@
 		function TreeRingMenu(config) {
 			var tmp, bubble, element;
 			tmp = '';
-			tmp += '<select id="operateText" style="position: absolute; left: 10px; top: 25px; width: 220px;">';
-			tmp += '<option value="showTitle">Show Pathway Name</option>';
-			tmp += '<option value="showCrossTalk">Show CrossTalk</option>';
-			tmp += '</select>';
-
 			tmp += '<select id="crossTalkLevel" style="display: none; position: absolute; left: 10px; top: 50px; width: 220px;">';
 			tmp += '</select>';
 
-			tmp += '<div id="orthologTypeDiv" style="position: absolute; left: 10px; top: 75px; width:220px;">';
+			tmp += '<div id="orthologTypeDiv" style="position: absolute; left: 10px; top: 5px; width:220px;">';
 			tmp += '<select id="file" style="position: absolute; left: 0px; top: 0px; width: 220px;">';
 			tmp += '<option value="Default">Choose Species</option>';
 			tmp += '<option value="Gallus" selected="selected">Gallus</option>';
@@ -157,40 +145,32 @@
 			tmp += '<option value="Turtle">Turtle</option>';
 			tmp += '<option value="Human">Human</option>';
 			tmp += '</select>';
-			tmp += '<input type="file" id="customOrth"  style="position: absolute; left: 0px; top: 25px; width: 220px;">';
-			tmp += '<div id=loadOrthDiv style="position: absolute; left: 0px; top: 50px; width: 220px;">';
-			tmp += '<input type="button" id=loadOrth value= "Load(Ortholog)" >';
-			tmp += '<a href="./data/sample/Orthology.example1.txt" target="_blank" download><button style="position: absolute; margin-left:10px"><font style="font-size: 10px">Sample Data</font></button></a>';
-			tmp += '</div>';
-			tmp += '</div>';
-			tmp += '<div id="expressionTypeDiv" style="position: absolute; left: 10px; width: 220px;">';
-			tmp += '<div id=minMaxRatio style="position: absolute; left: 0px; top: 0px; width: 220px;">';
-			tmp += '<div style="float: left">';
-			tmp += 'Ratio(log 2 based): &gt;=';
-			tmp += '   <input id = "maxRatio" type="text"  placeholder="1.5"  style="display: inline; width: 40px;" />';
-			tmp += '</div>';
-			tmp += '<div style="float: left">';
-			tmp += 'Ratio(log 2 based): &lt;=';
-			tmp += '    <input id = "minRatio" type="text"  placeholder="-1.5" style="display: inline; width: 40px;" />';
-			tmp += '</div>';
 			tmp += '</div>';
 
-			tmp += '<div id=updownLabel style="position: absolute; left: 0px; top: 65px; width: 220px">';
-			tmp += '<div style="float: left">';
-			tmp += 'Label for &nbsp; up&nbsp;&nbsp;   expressed:';
-			tmp += '   <input id = "upLabel" type="text"  placeholder="Up expressed"  style="display: inline; width: 90px;" />';
-			tmp += '</div>';
-			tmp += '<div style="float: left">';
-			tmp += 'Label for down expressed:';
-			tmp += '    <input id = "downLabel" type="text"  placeholder="Down expressed" style="display: inline; width: 90px;" />';
-			tmp += '</div>';
-			tmp += '</div>';
+			tmp += '<ul class="button-group" style="position: absolute; top: 50px;">';
+			tmp +=   '<li style="display: inline-block;"><a href="#" class="button">Pathway Names</a></li>';
+			tmp +=   '<li style="display: inline-block;"><a href="#" class="button">Crosstalk</a></li>';
+			tmp += '</ul>';
 
-			tmp += '<input type="file" id="customExp" style="position: absolute; left: 0px; top: 40px; width: 220px">';
-			tmp += '<div id=loadExpDiv style="position: absolute; left: 0px; top: 105px; width: 220px;">';
-			tmp += '<input type="button" id=loadExp value= "Load(Expression)" >';
-			tmp += '<a href="./data/sample/GeneExpression.TGF.txt" target="_blank" download><button style="position: absolute; margin-left:10px"><font style="font-size: 10px">Sample Data</font></button></a>';
-			tmp += '</div>';
+			tmp += '<div id=loadFileDiv style="position: absolute; left: 0px; top: 90px; width: 260px; ' +
+				                                'font-size: 9pt;">';
+			tmp +=   '<div id=loadOrthologDiv>';
+			tmp +=     '<div style="position: absolute; top: 5px;">Ortholog: </div>';
+			tmp +=     '<input type="file" id="inputFileOrtholog" style="position: absolute; top: 0px; left: 60px;"/>';
+			tmp +=   '</div>';
+			tmp +=   '<div id=loadExpressionDiv>';
+			tmp +=     '<div style="position: absolute; top: 30px;">Expression: </div>';
+			tmp +=     '<input type="file" id="inputFileExpression" ' +
+				                 'style="position: absolute; top: 25px; left: 60px;"/>';
+			tmp +=     '<div style="position: absolute; top: 45px; left: 10px;">';
+			tmp +=       'With Ratio (log2):';
+			tmp +=       '<input id="minRatio" type="text" placeholder="-1.5" ' +
+				                   'style="display: inline; width: 40px; margin: 5px;"/>';
+			tmp +=       '...';
+			tmp +=       '<input id="maxRatio" type="text" placeholder="1.5" ' +
+				                   'style="display: inline; width: 40px; margin: 5px;"/>';
+			tmp +=     '</div>';
+			tmp +=   '</div>';
 			tmp += '</div>';
 
 			config.menuString = tmp;
@@ -281,14 +261,6 @@
 					bubble.createSvg(config);});
 			});
 
-			element.find('#upLabel').change(function() {
-				bubble._upLabel = $(this).val();});
-			element.find('#upLabel').val(bubble.upLabel);
-
-			element.find('#downLabel').change(function() {
-				bubble._downLabel = $(this).val();});
-			element.find('#downLabel').val(bubble.downLabel);
-
 			element.find('#minRatio').change(function() {
 				bubble._minRatio = $(this).val();});
 			element.find('#minRatio').val(bubble.minRatio);
@@ -314,6 +286,7 @@
 					});
 				}
 
+				/*
 				if ($P.isHtmlElementVisible(crossTalkLevel)) {
 					if (this.menuHidden) {
 						$(orthologTypeDiv).hide();
@@ -328,7 +301,8 @@
 						expressionTypeDiv.style.top = '55px';}
 					else {
 						$(orthologTypeDiv).show();
-						expressionTypeDiv.style.top = '135px';}}
+						expressionTypeDiv.style.top = '135px';}
+				 */
 
 				$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
 			}});

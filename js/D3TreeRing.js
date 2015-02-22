@@ -665,16 +665,11 @@
 
 											return 'rotate(' + angle + ')translate(' + y(d.y + d.dy * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
 										})
-										.attr('dy', function(d, i) {
-											if (d.depth === _this.showCrossTalkLevel && Math.abs(x(d.x + d.dx) - x(d.x)) >= 0.16) {
-												return '0em';}
-											return '0.35em';}) // vertical-align
+										.attr('dy', '0.35em')
 										.style('font-size', function(d, i) {
 											var width = Math.abs(y(d.y + d.dy) - y(d.y)),
 													height = Math.abs(x(d.x + d.dx) - x(d.x));
-											if (d.depth === _this.showCrossTalkLevel) {width /= 2;}
-											return Math.min(width / Math.min(4, d.name.match(/\b\w/g).join('').length),
-																			height * Math.PI * 128) + 'px';})
+											return Math.min(width / 4, height * Math.PI * 128) + 'px';})
 										.text(function (d, i) {
 											if (i == 0) {return '';}
 											var str = d.name;
@@ -758,6 +753,7 @@
 												.on('mouseover', mouseovered)
 												.on('mouseout', mouseouted);
 
+											/*
 											barCounts = gGroup.append('g').selectAll('.bar-count')
 												.data(_nodes.filter(function (d, i) {
 													// Remove nodes too small to write text.
@@ -786,6 +782,7 @@
 													if (d.gallusOrth) {crosstalkCount = d.gallusOrth.sharedSymbols.length;}
 													return crosstalkCount;
 												});
+											 */
 										}
 										else {
 											node = node
