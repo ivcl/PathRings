@@ -1194,28 +1194,29 @@
 											.style('opacity', 0.8);
 									}
 									function processTextLinks(nodes) {
+										var i;
+
 										var importLinks = [];
 										var data = [];
-										for (var i = 0; i < nodes.length; ++i) {
+										for (i = 0; i < nodes.length; ++i) {
 											if (nodes[i].depth == 1) {
-												data.push(nodes[i]);
-											}
-										}
-										var rect_height = 7;
+												data.push(nodes[i]);}}
+
+										var rect_height = 7.5;
 										var rect_width = 20;
 										var inner_y = d3.scale.linear()
 													.domain([0, data.length])
 													.range([-(data.length * rect_height) / 2, (data.length * rect_height) / 2]);
 										var inners = [];
-										for (var i = 0; i < data.length; ++i) {
+
+										for (i = 0; i < data.length; ++i) {
 											var object = {};
 											object.id = i;
 											object.name = data[i].name;
 											object.x = -(rect_width / 2);
 											object.y = inner_y(i);
 											object.linkTo = data[i];
-											inners.push(object);
-										}
+											inners.push(object);}
 
 										for (var i = 0; i < inners.length; ++i) {
 											var importObj = {};
@@ -1240,7 +1241,8 @@
 											.attr('transform', function (d) {
 												return 'translate(' + ( rect_width / 2 + d.x ) + ', ' + (rect_height * .75 + d.y) + ')';
 											})
-											.style('font-size', rect_height)
+											.style('font-size', rect_height + 1)
+											.style('font-weight', 'bold')
 											.text(function (d) {
 												return d.name;
 											})
