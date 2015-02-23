@@ -156,31 +156,41 @@
 			tmp = '';
 
 			tmp += '<div style="border: 1px solid #bbb; margin: 1px 1px 0; padding: 4%;">';
-			tmp +=   '<div style="width: 100%; font-weight: bold; text-align: center;">Display</div>';
+			tmp +=   '<div style="width: 100%; font-weight: bold;">Display</div>';
 			tmp +=   '<hr/>';
 
-			tmp +=   '<ul class="button-group"';
-			tmp +=       'style="list-style: none; width: 100%; text-align: center; margin: 5px 0;">';
-			tmp +=     '<li id="titleMode" style="display: inline-block; border: 1px solid #000; width: 45%; margin: 0 1% 0 4%;">';
-			tmp +=       '<a id="titleModeA" href="#" style="text-decoration: none; font-size: 90%;">';
-			tmp +=         'Pathway Names';
-			tmp +=       '</a>';
-			tmp +=     '</li>';
-			tmp +=     '<li id="crosstalkMode" style="display: inline-block; border: 1px solid #000; width: 40%; margin: 0 4% 0 1%;">';
-			tmp +=       '<a id="crosstalkModeA" href="#" style="text-decoration: none; font-size: 90%;">';
-			tmp +=         'Crosstalk';
-			tmp +=       '</a>';
-			tmp +=     '</li>';
-			tmp +=   '</ul>';
-
-			tmp +=   '<div style="display: inline; font-size: 90%; margin: auto 5% auto 0;">Species:</div>';
+			tmp +=   '<div style="display: inline; font-size: 85%; margin: auto 5% auto 0;">Species:</div>';
 			tmp +=   '<select id="selectSpecies" style="display: inline-block;">';
 			this.getSpeciesList().forEach(function(species) {
 				tmp += '<option value="' + species + '">' + species + '</option>';});
 			tmp +=   '</select>';
 			tmp +=   '<br/>';
 
-			tmp +=   '<div style="display: inline; font-size: 90%; margin: auto 5% auto 0;">Crosstalk Level:</div>';
+			tmp +=   '<form>';
+			tmp +=     '<input id="showTitle" type="radio" name="displayMode" value="title" checked  style="vertical-align: middle;"/>';
+			tmp	+=     '<label for="showTitle" style="font-size: 85%;">  Pathway Names</label><br/>';
+			tmp +=     '<input id="showCrosstalk" type="radio" name="displayMode" value="crosstalk" style="vertical-align: middle;"/>';
+			tmp	+=     '<label for="showCrosstalk" style="font-size: 85%;">  Crosstalk</label><br/>';
+			tmp +=   '</form>';
+
+
+			/*
+			tmp +=   '<ul';
+			tmp +=       'style="list-style: none; width: 100%; margin: 5px 0;">';
+			tmp +=     '<li id="titleMode" style="display: block; border: 1px solid #000;">';
+			tmp +=       '<a id="titleModeA" href="#" style="text-decoration: none; font-size: 90%;">';
+			tmp +=         'Pathway Names';
+			tmp +=       '</a>';
+			tmp +=     '</li>';
+			tmp +=     '<li id="crosstalkMode" style="display: block; border: 1px solid #000;">';
+			tmp +=       '<a id="crosstalkModeA" href="#" style="text-decoration: none; font-size: 90%;">';
+			tmp +=         'Crosstalk';
+			tmp +=       '</a>';
+			tmp +=     '</li>';
+			tmp +=   '</ul>';
+			*/
+
+			tmp +=   '<div style="display: inline; font-size: 90%; margin: auto 5% auto 18px;">Level:</div>';
 			tmp +=   '<select id="crosstalkLevel" style="display: inline-block;">';
 			for (i = 1; i <= 6; ++i) {
 				tmp += '<option value="' + i + '">' + i + '</option>';}
@@ -188,28 +198,28 @@
 			tmp += '</div>';
 
 			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 4%;">';
-			tmp +=   '<div style="width: 100%; font-weight: bold; text-align: center;">Load File</div>';
+			tmp +=   '<div style="width: 100%; font-weight: bold;">Load File</div>';
 			tmp +=   '<hr/>';
 
-			tmp +=   '<div style="width: 100%; font-size: 90%; text-align: center;">Ortholog:</div>';
-			tmp +=   '<input type="file" id="orthologFile" style="display: inline-block;"/>';
-			tmp +=   '<br/>';
+			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 0; display: inline-block; vertical-align: -4px; float: left;">Ortholog:</label>';
+			tmp +=   '<input type="file" id="orthologFile" style="display: inline; float: right; margin: 2px 0;"/>';
+			tmp +=   '<br style="display: table; clear: both;"/>';
 
-			tmp +=   '<div style="width: 100%; font-size: 90%; text-align: center;">Expression:</div>';
-			tmp +=   '<input type="file" id="expressionFile" style="display: inline-block;"/>';
+			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px;">Expression:</label>';
+			tmp +=   '<input type="file" id="expressionFile" style="float: right; display: inline; margin: 2px 0;"/>';
 			tmp +=   '<div id="expressionRatios" style="margin: 10px 0;"><br/>';
-			tmp +=   '<div style="font-size: 80%; display: inline; margin: auto 0;">Ratio (log2):</div>';
+			tmp +=   '<div style="font-size: 80%; display: inline; margin: auto 0;">log₂(ratio): </div>';
 			tmp +=   '<input id="minRatio" type="text" style="font-size: 70%; display: inline-block; width: 20%; text-align: center;"/>';
-			tmp +=   '...';
+			tmp +=   '<div style="font-size: 80%; display: inline;  margin: auto 0;"> … </div>';
 			tmp +=   '<input id="maxRatio" type="text" style="font-size: 70%; display: inline-block; width: 20%; text-align: center;"/>';
-			tmp +=   '<input id="updateRatio" type="button" value="Update" style="font-size: 85%; margin: auto 5px;"/>';
+			tmp +=   '<input id="updateRatio" type="button" value="Update" style="margin-left: 35px; font-size: 70%; margin: auto 5px;"/>';
 			tmp +=   '<br/>';
 
 			tmp += '</div>';
 			tmp += '<br style="display: table; clear: both;"/>';
 
 			config.menuString = tmp;
-			config.w = 325;
+			config.w = 350;
 			config.h = null;
 			$P.HtmlMenu.call(this, config);
 
@@ -217,11 +227,15 @@
 			bubble = this.parent;
 			element = $(this.element);
 
+			/*
 			element.find('#titleModeA').click(function() {
 				bubble.displayMode = 'title';});
-
 			element.find('#crosstalkModeA').click(function() {
 				bubble.displayMode = 'crosstalk';});
+			 */
+
+			element.find('input[type=radio][name=displayMode]').change(function() {
+				bubble.displayMode = this.value;});
 
 			element.find('#selectSpecies').change(function() {
 				bubble.species = $(this).val();});
@@ -232,11 +246,12 @@
 
 			element.find('#orthologFile').change(function() {menu.loadOrtholog();});
 			element.find('#expressionFile').change(function() {menu.loadExpression();});
-			element.find('#expressionRatios').slider({
+			element.find('#expressionRatios').tickslider({
 				range: true,
-				min: -10,
-				max: 10,
+				min: -6,
+				max: 6,
 				step: 0.1,
+				tick: 1,
 				values: [-1.5, 1.5],
 				slide: function(event, ui) {
 					bubble.minRatio = ui.values[0];
@@ -277,6 +292,7 @@
 				var element = $(this.element),
 						button;
 
+				/*
 				// Pressed.
 				element.find('title' === displayMode ? '#titleMode' : '#crosstalkMode').css({
 					background: '#ff8'});
@@ -287,11 +303,16 @@
 				element.find('title' === displayMode ? '#crosstalkMode' : '#titleMode').css({
 					background: this.element.style.background});
 				element.find('title' === displayMode ? '#crosstalkModeA' : '#titleModeA').css({
-					color: '#444'});},
+					color: '#444'});
+				 */
+
+				element.find('#showTitle').prop('checked', 'title' === displayMode);
+				element.find('#showCrosstalk').prop('checked', 'crosstalk' === displayMode);
+			},
 			updateRatio: function() {
 				var element = $(this.element),
 						bubble = this.parent;
-				element.find('#expressionRatios').slider('values', [bubble.minRatio, bubble.maxRatio]);
+				element.find('#expressionRatios').tickslider('values', [bubble.minRatio, bubble.maxRatio]);
 				element.find('#minRatio').val(bubble.minRatio);
 				element.find('#maxRatio').val(bubble.maxRatio);},
 			getSpeciesList: function() {
