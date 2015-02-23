@@ -69,7 +69,7 @@
 				offset = 0;
 				this.children.forEach(function(child) {
 					if (child instanceof $P.ActionButton) {
-						child.move(this.x + this.w - unit * 2 - offset * (2 * unit + 5), this.y - unit * 0.2);
+						child.move(this.x + this.w - unit * 2 - offset * (2 * unit + 1), this.y - unit * 0.2);
 						++offset;}
 				}.bind(this));
 			},
