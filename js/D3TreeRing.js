@@ -72,6 +72,7 @@
 				var gGroup;
 				var mainSvg = svg.append('g').attr('class','mainSVG')
 							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
+				this.mainSvg = mainSvg;
 				svg.append('text')
 					.style('font-size', 15)
 					.attr('transform', 'translate(' + (width - 75) + ',' + 12 + ')')
@@ -256,6 +257,10 @@
 							d3.json(_this.file, function (error, root) {
 								if (_this.customOrtholog && !_this.customExpression) {
 									nodeData = partition.nodes(root);
+									// Find bar height.
+									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
+									self.barLength = y(node.y + node.dy) - y(node.y);
+
 									for (var i = 0; i < nodeData.length; ++i)  //every pathway
 									{
 										if (nodeData[i].symbols == undefined) {
@@ -312,6 +317,10 @@
 									minRatio = parseFloat(minRatio);
 									maxRatio = parseFloat(maxRatio);
 									nodeData = partition.nodes(root);
+									// Find bar height.
+									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
+									self.barLength = y(node.y + node.dy) - y(node.y);
+
 									for (var i = 0; i < nodeData.length; ++i)  //every pathway
 									{
 										if (nodeData[i].gallusOrth == undefined) {
@@ -367,6 +376,11 @@
 									minRatio = parseFloat(minRatio);
 									maxRatio = parseFloat(maxRatio);
 									nodeData = partition.nodes(root);
+
+									// Find bar height.
+									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
+									self.barLength = y(node.y + node.dy) - y(node.y);
+
 									for (var i = 0; i < nodeData.length; ++i)  //every pathway
 									{
 										if (nodeData[i].symbols == undefined) {
@@ -441,6 +455,10 @@
 								}
 								else {
 									nodeData = partition.nodes(root);
+									// Find bar height.
+									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
+									self.barLength = y(node.y + node.dy) - y(node.y);
+
 									_this.maxLevel = d3.max(nodeData, function (d) {
 										return d.depth;
 									});
@@ -462,15 +480,15 @@
 								d3.json(crossTalkFileName, function (error, crossTalkData) {
 									var classes = crossTalkData[_this.showCrossTalkLevel - 1];
 									gGroup = mainSvg.append('g').attr('class', 'graphGroup');
+									self.graphGroup = gGroup;
 									gGroup.call(_this.zoomListener) // delete this line to disable free zooming
 										.call(_this.zoomListener.event);
 									var pathG = gGroup.append('g').selectAll('.path');
 									var link = gGroup.append('g').selectAll('.link');
-									var node = gGroup.append('g').selectAll('.node');
-									_this.nodeGroup = node;
+									var node; // = gGroup.append('g').selectAll('.node');
+									//_this.nodeGroup = node;
 									var downNode= gGroup.append('g').selectAll('.downNode');
 									var highlightNode = gGroup.append('g').selectAll('.highlightNode');
-									var textG = gGroup.append('g').selectAll('.text');
 									var barCounts;
 									var expressionColors = [
 										'#08519c',
@@ -655,36 +673,6 @@
 										return tooltip.html('');
 									});
 
-									textG = textG.data(nodeData.filter(
-										function (d, i) {
-											if (i == 0)          //center of the circle
-												return true;
-											var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-											var r = Math.max(0, y(d.y));
-											return thea * r >= 10;
-										}))
-										.enter().append('text')
-										.attr('class', 'bar-text') // add class
-										.attr('text-anchor', 'middle')
-										.attr('transform', function (d, i) {
-											if (i == 0)
-												return 'rotate(0)';
-											var angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90;
-
-											return 'rotate(' + angle + ')translate(' + y(d.y + d.dy * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
-										})
-										.attr('dy', '0.35em')
-										.style('font-size', function(d, i) {
-											var width = Math.abs(y(d.y + d.dy) - y(d.y)),
-													height = Math.abs(x(d.x + d.dx) - x(d.x));
-											return Math.min(width / 4, height * Math.PI * 128) + 'px';})
-										.text(function (d, i) {
-											if (i == 0) {return '';}
-											var str = d.name;
-											str = str.match(/\b\w/g).join('');
-											str = str.substr(0, 4);
-											return str;
-										});
 									var symbol_max;
 
 									function computeTextRotation(d, i) {
@@ -725,164 +713,139 @@
 											.attr('class', 'link')
 											.attr('d', diagonal)
 											.style('opacity', function(d, i) {return 'crosstalk' === self.displayMode ? 1 : 0;});
+
+										// Compute coordinates and sizes.
+										_nodes.forEach(function(d, i) {
+											d.theta = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx)))
+												- Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
+											d.r = Math.max(0, y(d.dy));
+											d.angle = computeRotation(d, i);});
+
 										if (!_this.customExpression) {
-											var maxSize = 0;
-											node = node
-												.data(_nodes)
-												.attr('id', function (d, i) {
-													return 'node' + d.dbId;
-												})
-												.enter().append('rect')
-												.attr('class', 'node')
-												.attr('x', function (d) {
-													return y(d.dy);
-												})
-												.attr('height', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-													var r = Math.max(0, y(d.dy));
-													var val = Math.min(r * thea, Math.floor(_this.maxLevel));
-													return val;})
-												.attr('y', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-													var r = Math.max(0, y(d.dy));
-													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
-												})
-												.attr('width', function (d) {
-													var temp = 0, val;
-													if (d.gallusOrth !== undefined)
-														temp = d.gallusOrth.sharedSymbols.length;
-													if (symbol_max == 0)
-														return 0;
-													val = 2/3*Math.floor(temp / symbol_max * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy))));
-													if (val > maxSize) {maxSize = val;}
-													return val;
-												})
-												.attr('transform', function (d, i) {
-													d.angle = computeRotation(d, i);
-													return 'rotate(' + d.angle + ')';
-												})
-												.style('fill', '#f00')
-												.on('contextmenu', barClick)
-												.on('mouseover', mouseovered)
-												.on('mouseout', mouseouted);
+											// Compute lengths.
+											_nodes.forEach(function(d, i) {
+												var symbolCount;
+												d.thickness = Math.min(d.theta * d.r * 0.8, Math.floor(_this.maxLevel));
+												symbolCount = 0;
+												if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
+												d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
+												if (d.exponent < 0) {d.exponent = 0;}
+												d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
+											var maxExponent = Math.floor(Math.log(symbol_max) / Math.log(10)),
+													exponentLength = self.barLength * maxExponent / 9;
+											self.crosstalkLegend.select('#exponent-bar').attr('width', exponentLength);
+											self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + exponentLength);
+											self.crosstalkLegend.select('#exponent-end-label')
+												.attr('x', 51.5 + exponentLength)
+												.text(maxExponent);
+											var groupCrosstalkBars = self.graphGroup.append('g').attr('id', 'group-crosstalk-bars');
+											var crosstalkBar = groupCrosstalkBars.selectAll('.crosstalk-bar').data(_nodes).enter()
+														.append('g')
+														.attr('class', 'crosstalk-bar')
+														.attr('transform', function(d) {return 'rotate(' + d.angle + ')';})
+														.on('contextmenu', barClick)
+														.on('mouseover', mouseovered)
+														.on('mouseout', mouseouted);
+											node = crosstalkBar;
+											crosstalkBar.append('rect')
+												.attr('class', 'exponent')
+												.attr('x', function(d) {return y(d.dy);})
+												.attr('y', function(d) {return d.thickness * -0.5;})
+												.attr('height', function(d) {return d.thickness;})
+												.attr('width', function(d) {
+													if (isNaN(d.exponent)) {return 0;}
+													if (0 === maxExponent) {return self.barLength;}
+													return self.barLength * d.exponent * 0.1;})
+												.attr('fill', '#f22')
+												.attr('stroke-width', 0.3)
+												.attr('stroke', '#000');
+											crosstalkBar.append('rect')
+												.attr('class', 'digit')
+												.attr('x', function(d) {return y(d.dy);})
+												.attr('y', function(d) {return d.thickness * -0.2;})
+												.attr('height', function(d) {return d.thickness * 0.4;})
+												.attr('width', function(d) {
+													if (isNaN(d.digit)) {return 0;}
+													return self.barLength * d.digit * 0.1;})
+												.attr('fill', '#fb8')
+												.attr('stroke-width', 0.3)
+												.attr('stroke', '#000');
 
-											_this.crosstalkLegend.select('rect').attr('width', maxSize);
-											_this.crosstalkLegend.select('.size')
-												.attr('dx', maxSize)
-												.text(symbol_max);
-
+											// Update Legend.
 											/*
-											barCounts = gGroup.append('g').selectAll('.bar-count')
-												.data(_nodes.filter(function (d, i) {
-													// Remove nodes too small to write text.
-													var width = Math.abs(y(d.dy + d.d_dy) - y(d.dy)),
-															height = Math.abs(x(d.dx + d.d_dx) - x(d.dx));
-													return Math.min(width / 8, height * Math.PI * 16) >= 4 && height >= 0.16;
-												})).enter().append('text')
-												.attr('class', 'bar-count')
-												.attr('text-anchor', 'middle')
-												.attr('transform', function(d, i) {
-													var angle, crosstalkCount, distance;
-													if (!d.gallusOrth) {return '';}
-													angle = computeRotation(d, i);
-													crosstalkCount = d.gallusOrth.sharedSymbols.length;
-													distance = y(d.dy + d.d_dy * 0.5);
-													return 'rotate(' + angle + ')translate(' + distance + ')rotate(' +
-														(angle > 90 ? -180 : 0) + ')';})
-												.attr('dy', '1em')
-												.style('font-size', function(d, i) {
-													var width = Math.abs(y(d.dy + d.d_dy) - y(d.dy)),
-															height = Math.abs(x(d.dx + d.d_dx) - x(d.dx));
-													return Math.min(width / 4, height * Math.PI * 16) + 'px';})
-												.text(function(d, i) {
-													var crosstalkCount = 0;
-													if (0 === symbol_max) {return '';}
-													if (d.gallusOrth) {crosstalkCount = d.gallusOrth.sharedSymbols.length;}
-													return crosstalkCount;
-												});
+											var eg = self.crosstalkLegend.select('#exponent-group'),
+													length = self.barLength;
+											self.crosstalkLegend.select('#exponent-bar')
+												.attr('width', length);
+											self.crosstalkLegend.select('#digit-bar')
+												.attr('width', length);
+											eg.selectAll().remove();
+											self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + length);
+											self.crosstalkLegend.select('#exponent-end-label')
+												.attr('x', 51.5 + length).text(maxExponent);
+											self.crosstalkLegend.select('#digit-end-mark').attr('x', 54.5 + length);
+											self.crosstalkLegend.select('#digit-end-label').attr('x', 51.5 + length);
 											 */
+
 										}
 										else {
-											node = node
-												.data(_nodes)
-												.attr('id', function (d, i) {
-													return 'nodeUp' + d.dbId;
-												})
-												.enter().append('rect')
-												.attr('class', 'node').attr('class','upExpressed')
-												.attr('x', function (d) {
+											/*
+											var maxUpExponent = Math.floor(Math.log(upMax) / Math.log(10)),
+													maxDownExponent = Math.floor(Math.log(DownMax) / Math.log(10));
+											maxExponent = Math.max(maxUpExponent, maxDownExponent);
+											 */
+											var maxVal = Math.max(upMax, DownMax);
+											// Compute lengths.
+											_nodes.forEach(function(d, i) {
+												d.thickness = Math.min(d.theta * d.r, Math.floor(_this.maxLevel * 2));
+												var up = d.expression.ups.length,
+														down = d.expression.downs.length;
+												/*
+												d.upExponent = Math.floor(Math.log(up) / Math.log(10));
+												if (d.upExponent < 0) {d.upExponent = 0;}
+												d.downExponent = Math.floor(Math.log(down) / Math.log(10));
+												if (d.downExponent < 0) {d.downExponent = 0;}
+												d.upDigit = Math.floor(up / Math.pow(10, d.exponent));
+												d.downDigit = Math.floor(down / Math.pow(10, d.exponent));
+												 */
+												// Don't think we need split bars at the moment.
+												d.up = up;
+												d.down = down;
+											});
 
-													return y(d.dy);
-												})
-												.attr('height', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-													var r = Math.max(0, y(d.dy));
-													return Math.min(r * thea, Math.floor(_this.maxLevel));
-												})
-												.attr('y', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-													var r = Math.max(0, y(d.dy));
-													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
-												})
-												.style('fill', '#f00')
-												.attr('width', function (d) {
-													if(d.upX==undefined)
-													{
-														d.upX = 0;
-													}
-													if (d.expression == undefined || d.gallusOrth == undefined || upMax == 0)
-													{
-														d.upX= 0;
-														return d.upX;
-													}
-													d.upX= 1/2*Math.floor( (d.expression.ups.length) / upMax * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy)) ));
-													return d.upX;
-												})
-												.attr('transform', function (d, i) {
-													return 'rotate(' + computeRotation(d, i) + ')';
-												})
-												.on('contextmenu', expressionBarClick)
-												.on('mouseover', mouseovered)
-												.on('mouseout', mouseouted);
-											downNode = downNode
-												.data(_nodes)
-												.attr('id', function (d, i) {
-													return 'nodeDown' + d.dbId;
-												})
-												.enter()
-												.append('rect')
-												.attr('class', 'node').attr('class','downExpressed')
-												.attr('x', function (d) {
-													if(d.upX==undefined)
-														return y(d.dy);
-													else
-													{
-														return y(d.dy)+ d.upX;
-													}
-												})
-												.attr('height', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-													var r = Math.max(0, y(d.dy));
-													return Math.min(r * thea, Math.floor(_this.maxLevel));
-												})
-												.attr('y', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-													var r = Math.max(0, y(d.dy));
-													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
-												})
-												.attr('width', function (d) {
-													if (d.expression == undefined || d.gallusOrth == undefined || DownMax == 0)
-														return 0;
-													return 1/2*Math.floor((d.expression.downs.length) / DownMax * ( Math.max(0, y(d.dy + d.d_dy)) - Math.max(0, y(d.dy)) ));
-												})
-												.style('fill', '#0f0')
-												.attr('transform', function (d, i) {
-													return 'rotate(' + computeRotation(d, i) + ')';
-												})
-												.on('contextmenu', expressionBarClick)
-												.on('mouseover', mouseovered)
-												.on('mouseout', mouseouted);
-
+											var groupExpressionBars = self.graphGroup.append('g').attr('id', 'group-expression-bars');
+											var expressionBar = groupExpressionBars.selectAll('.expression-bar').data(_nodes).enter()
+														.append('g')
+														.attr('class', 'expression-bar')
+														.attr('transform', function(d) {return 'rotate(' + d.angle + ')';})
+														.on('contextmenu', barClick)
+														.on('mouseover', mouseovered)
+														.on('mouseout', mouseouted);
+											node = expressionBar;
+											expressionBar.append('rect')
+												.attr('class', 'up')
+												.attr('x', function(d) {return y(d.dy);})
+												.attr('y', function(d) {return d.thickness * -0.5;})
+												.attr('height', function(d) {return d.thickness * 0.5;})
+												.attr('width', function(d) {
+													if (isNaN(d.up)) {return 0;}
+													if (0 === maxVal) {return self.barLength;}
+													return self.barLength * d.up / maxVal;})
+												.attr('fill', '#0d0')
+												.attr('stroke-width', 0.3)
+												.attr('stroke', '#000');
+											expressionBar.append('rect')
+												.attr('class', 'down')
+												.attr('x', function(d) {return y(d.dy);})
+												.attr('y', function(d) {return 0;})
+												.attr('height', function(d) {return d.thickness * 0.5;})
+												.attr('width', function(d) {
+													if (isNaN(d.down)) {return 0;}
+													if (0 === maxVal) {return self.barLength;}
+													return self.barLength * d.down / maxVal;})
+												.attr('fill', '#d00')
+												.attr('stroke-width', 0.3)
+												.attr('stroke', '#000');
 										}
 									}
 									else {
@@ -1028,6 +991,37 @@
 										}
 
 									}
+
+									var textG = gGroup.append('g').selectAll('.text').data(nodeData.filter(
+										function (d, i) {
+											if (i == 0)          //center of the circle
+												return true;
+											var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
+											var r = Math.max(0, y(d.y));
+											return thea * r >= 10;
+										}))
+										.enter().append('text')
+										.attr('class', 'bar-text') // add class
+										.attr('text-anchor', 'middle')
+										.attr('transform', function (d, i) {
+											if (i == 0)
+												return 'rotate(0)';
+											var angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90;
+
+											return 'rotate(' + angle + ')translate(' + y(d.y + d.dy * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
+										})
+										.attr('dy', '0.35em')
+										.style('font-size', function(d, i) {
+											var width = Math.abs(y(d.y + d.dy) - y(d.y)),
+													height = Math.abs(x(d.x + d.dx) - x(d.x));
+											return Math.min(width / 4, height * Math.PI * 128) + 'px';})
+										.text(function (d, i) {
+											if (i == 0) {return '';}
+											var str = d.name;
+											str = str.match(/\b\w/g).join('');
+											str = str.substr(0, 4);
+											return str;
+										});
 
 									function barClick() {
 										var symbols, tableData, i, j, symbolObj, index1, index2, selection, datum, table;
@@ -1586,28 +1580,95 @@
 										return d.text;
 									});
 
-								_this.crosstalkLegend = svg.append('g')
-											.attr('class', 'crosstalkLegend')
-											.attr('transform', 'translate(' + (_this.w - 100) + ',' + 100 + ')')
-											.attr('width', BarWidth)
-											.attr('height', 40);
-								_this.crosstalkLegend.append('rect')
-									.attr('x', 10)
-									.attr('y', -6)
-									.attr('width', 1)
-									.attr('height', 6)
-									.attr('fill', 'red');
-								_this.crosstalkLegend.append('text')
+								self.crosstalkLegend = self.mainSvg.append('g')
+									.attr('class', 'crosstalkLegend')
+									.attr('transform', 'translate(' + (self.w * 0.5 - 110) + ',' + (self.h * 0.5 - 80) + ')')
+									.attr('width', BarWidth)
+									.attr('height', 40);
+								var legend = self.crosstalkLegend;
+								legend.append('text')
 									.attr('font-size', 10)
-									.text('0');
-								_this.crosstalkLegend.append('text')
-									.attr('font-size', 10)
-									.attr('y', 10)
 									.text('Crosstalk Count');
+
+								legend.append('text')
+									.attr('font-size', 10)
+									.attr('y', 12)
+									.text('Exponent:');
+								legend.append('rect')
+									.attr('id', 'exponent-bar')
+									.attr('x', 55)
+									.attr('y', 6)
+									.attr('width', self.barLength)
+									.attr('height', 6)
+									.attr('fill', '#f44')
+									.attr('stroke', 'black')
+									.attr('stroke-width', 0.3);
+								legend.append('rect')
+									.attr('x', 54.5)
+									.attr('y', 4)
+									.attr('width', 1)
+									.attr('height', 10)
+									.attr('fill', 'black');
+								legend.append('text')
+									.attr('x', 51.5)
+									.attr('y', 22)
+									.attr('font-size', 10)
+									.text('0')
+									.attr('fill', 'black');
+								legend.append('rect')
+									.attr('id', 'exponent-end-mark')
+									.attr('x', 54.5)
+									.attr('y', 4)
+									.attr('width', 1)
+									.attr('height', 10)
+									.attr('fill', 'black');
+								legend.append('text')
+									.attr('id', 'exponent-end-label')
+									.attr('x', 51.5)
+									.attr('y', 22)
+									.attr('font-size', 10)
+									.text('9')
+									.attr('fill', 'black');
+
 								_this.crosstalkLegend.append('text')
-									.attr('class', 'size')
-									.attr('x', 15)
-									.attr('font-size', 10);
+									.attr('font-size', 10)
+									.attr('y', 34)
+									.text('Lead Digit:');
+								_this.crosstalkLegend.append('rect')
+									.attr('id', 'digit-bar')
+									.attr('x', 55)
+									.attr('y', 29)
+									.attr('width', self.barLength)
+									.attr('height', 3)
+									.attr('fill', '#fca')
+									.attr('stroke', 'black')
+									.attr('stroke-width', 0.3);
+								_this.crosstalkLegend.append('rect')
+									.attr('x', 54.5)
+									.attr('y', 26)
+									.attr('width', 1)
+									.attr('height', 10)
+									.attr('fill', 'black');
+								_this.crosstalkLegend.append('text')
+									.attr('x', 51.5)
+									.attr('y', 44)
+									.attr('font-size', 10)
+									.text('0')
+									.attr('fill', 'black');
+								_this.crosstalkLegend.append('rect')
+									.attr('id', 'digit-end-mark')
+									.attr('x', 54.5)
+									.attr('y', 26)
+									.attr('width', 1)
+									.attr('height', 10)
+									.attr('fill', 'black');
+								_this.crosstalkLegend.append('text')
+									.attr('id', 'digit-end-label')
+									.attr('x', 51.5)
+									.attr('y', 44)
+									.attr('font-size', 10)
+									.text('9')
+									.attr('fill', 'black');
 
 							}
 							else
@@ -1725,7 +1786,19 @@
 			getRateLimit: function(symbol) {
 				var i = this.rateLimitSymbols.keys.indexOf(symbol);
 				if (-1 === i) {return 0;}
-				return this.rateLimitSymbols.values[i];}
+				return this.rateLimitSymbols.values[i];},
+
+			get barLength() {return this._barLength;},
+			set barLength(value) {
+				if (this._barLength === value) {return;}
+				this._barLength = value;
+				if (this.crosstalkLegend) {
+					this.crosstalkLegend.select('#exponent-bar').attr('width', value);
+					this.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + value);
+					this.crosstalkLegend.select('#exponent-end-label').attr('x', 51.5 + value);
+					this.crosstalkLegend.select('#digit-bar').attr('width', value);
+					this.crosstalkLegend.select('#digit-end-mark').attr('x', 54.5 + value);
+					this.crosstalkLegend.select('#digit-end-label').attr('x', 51.5 + value);}}
 		});
 
 	$P.D3TreeRing.BubbleLinkEnd = $P.defineClass(

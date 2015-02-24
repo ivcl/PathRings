@@ -207,7 +207,8 @@
 
 			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px;">Expression:</label>';
 			tmp +=   '<input type="file" id="expressionFile" style="float: right; display: inline; margin: 2px 0;"/>';
-			tmp +=   '<div id="expressionRatios" style="margin: 10px 0;"><br/>';
+			tmp +=   '<div id="expressionRatios" style="font-size: 100%; margin: 10px 0;"/>';
+			tmp +=   '<br style="display: table; clear: both;"/>';
 			tmp +=   '<div style="font-size: 80%; display: inline; margin: auto 0;">log₂(ratio): </div>';
 			tmp +=   '<input id="minRatio" type="text" style="font-size: 70%; display: inline-block; width: 20%; text-align: center;"/>';
 			tmp +=   '<div style="font-size: 80%; display: inline;  margin: auto 0;"> … </div>';
@@ -316,7 +317,9 @@
 				element.find('#minRatio').val(bubble.minRatio);
 				element.find('#maxRatio').val(bubble.maxRatio);},
 			getSpeciesList: function() {
-				return ['Gallus', 'Alligator', 'Turtle', 'Human'];},
+				var list = ['Gallus', 'Alligator', 'Turtle', 'Human', 'Mouse'];
+				list.sort();
+				return list;},
 			set species(value) {
 				$(this.element).find('#selectSpecies').val(value);},
 			set crosstalkLevel(value) {
