@@ -619,10 +619,10 @@
 												else
 													var gallusOrth = d.gallusOrth;
 												if (gallusOrth !== undefined) {
-													if (gallusOrth.type === 'Part') {
+													if (gallusOrth.type === 'Complete') {
 														return colors[0];
 													}
-													else if (gallusOrth.type === 'Complete') {
+													else if (gallusOrth.type === 'Part') {
 														return colors[1];
 													}
 													else if (gallusOrth.type === 'Empty') {
@@ -1537,7 +1537,7 @@
 								var BarHeight = scaleHeight + scaleMargin.top + scaleMargin.bottom;
 
 								var sectionHeight = 20;
-								var texts = ['Partial', 'Complete', 'Empty'];
+								var texts = ['Complete', 'Partial', 'Empty'];
 								var newData = [];
 								for (var i = 0; i < 3; i++) {
 									var obj = {};
