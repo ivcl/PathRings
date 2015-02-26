@@ -60,9 +60,11 @@
 						radius = Math.min(width, height) / 2;
 				var x = d3.scale.linear()
 							.range([0, 2 * Math.PI]);
+				var a = x;
 
 				var y = d3.scale.sqrt()
 							.range([0, radius]);
+				var r = y;
 
 				var svg = d3.select(this.element).append('svg')
 							.attr('width', this.w)
@@ -223,8 +225,8 @@
 				//edge ----------------------------------------------------------------------------
 				var bundle = d3.layout.bundle();
 				var diagonal = d3.svg.diagonal()
-							.projection(function (d) {
-								return [d.x, d.y];
+							.projection(function (node) {
+								return [node.x, node.y];
 							});
 
 				d3.json('./data/crossTalkings.json', function (error, crossTalkSymbols) {
@@ -254,231 +256,53 @@
 							var minRatio;
 							var maxRatio;
 							//                        if (_this.selectedData == null) {  //12/10/2014
+
 							d3.json(_this.file, function (error, root) {
-								if (_this.customOrtholog && !_this.customExpression) {
-									nodeData = partition.nodes(root);
-									// Find bar height.
-									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
-									self.barLength = y(node.y + node.dy) - y(node.y);
+								var node, count, minRatio, maxRatio;
+								nodeData = partition.nodes(root);
+								node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
+								self.barLength = y(node.y + node.dy) - y(node.y);
+								self.maxLevel = d3.max(nodeData, function (d) {return d.depth;});
 
-									for (var i = 0; i < nodeData.length; ++i)  //every pathway
-									{
-										if (nodeData[i].symbols == undefined) {
-											continue;
-										}
-										var count = 0;
-										nodeData[i].gallusOrth = {};
-										nodeData[i].gallusOrth.sharedSymbols = [];
-										for (var k = 0; k < nodeData[i].symbols.length; ++k) {
-											for (var j = 0; j < _this.customOrtholog.length; ++j) {
-												if (nodeData[i].symbols[k] == null)
-													continue;
-												if (nodeData[i].symbols[k].toUpperCase() == _this.customOrtholog[j].symbol.toUpperCase()) {
-													if (_this.customOrtholog[j].dbId !== '\N') {
-														count++;
-														nodeData[i].gallusOrth.sharedSymbols.push(_this.customOrtholog[j].symbol);
-														break;
-													}
-												}
-											}
-										}
-
-										if (count === nodeData[i].symbols.length) {
-											nodeData[i].gallusOrth.type = 'Complete';
-										}
-										else if (count === 0) {
-											nodeData[i].gallusOrth.type = 'Empty';
-										}
+								if (self.customOrtholog) {
+									nodeData.forEach(function (d) {
+										if (!d) {return;}
+										d.gallusOrth = {};
+										d.gallusOrth.sharedSymbols = $P.listIntersection(
+											d.symbols, self.customOrtholog,
+											function(symbol, ortholog) {
+												return symbol.toUpperCase() === ortholog.symbol.toUpperCase();});
+										if (d.symbols.length === d.gallusOrth.sharedSymbols.length) {
+											d.gallusOrth.type = 'Complete';}
+										else if (0 === d.gallusOrth.sharedSymbols.length) {
+											d.gallusOrth.type = 'Empty';}
 										else {
-											nodeData[i].gallusOrth.type = 'Part';
-										}
-									}
-									_this.maxLevel = d3.max(nodeData, function (d) {
+											d.gallusOrth.type = 'Part';}});}
 
-										return d.depth;
-									});
+								if (self.customExpression) {
+									minRatio = self.parent.minRatio;
+									maxRatio = self.parent.maxRatio;
+									nodeData.forEach(function(d) {
+										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
+										d.expression = {ups: [], downs: [], unchanges: []};
+										$P.listIntersection(
+											d.gallusOrth.sharedSymbols,
+											self.customoExpression,
+											function(symbol, expression) {
+												if (symbol.toUpperCase() !== expression.symbol.toUpperCase()) {return false;}
+												var ratio = parseFloat(expression.ratio);
+												if (ratio >= maxRatio) {d.expression.ups.push(expression);}
+												else if (ratio <= minRatio) {d.expression.downs.push(expression);}
+												else {d.expression.unchanges.push(expression);}
+												return true;});});}
 
-									if (!_this.changeLevel) {
-										var tmpString = '';
-										for (var i = 1; i <= _this.maxLevel; ++i) {
-											tmpString += '<option value=' + i + '>' + 'crossTalkLevel ' + i + '</option>';
-										}
-										$(_this.parent.menu.element).find('#crossTalkLevel').html(tmpString);
-									}
+								operation(nodeData);});
 
-									operation(nodeData);
-								}   //Custom Ortholog
-								else if (_this.customExpression && !_this.customOrtholog)    //Default Ortholog //custom expression
-								{
-									var minRatio = _this.parent.minRatio;
-									var maxRatio = _this.parent.maxRatio;
-									if (minRatio == '') {minRatio = '-1.5';}
-									if (maxRatio == '') {maxRatio = '1.5';}
-									minRatio = parseFloat(minRatio);
-									maxRatio = parseFloat(maxRatio);
-									nodeData = partition.nodes(root);
-									// Find bar height.
-									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
-									self.barLength = y(node.y + node.dy) - y(node.y);
-
-									for (var i = 0; i < nodeData.length; ++i)  //every pathway
-									{
-										if (nodeData[i].gallusOrth == undefined) {
-											continue;
-										}
-										if (nodeData[i].gallusOrth.sharedSymbols == undefined) {
-											continue;
-										}
-										nodeData[i].expression = {};
-										nodeData[i].expression.ups = [];
-										nodeData[i].expression.downs = [];
-										nodeData[i].expression.unchanges = [];
-										for (var k = 0; k < nodeData[i].gallusOrth.sharedSymbols.length; ++k) {
-
-											for (var j = 0; j < _this.customExpression.length; ++j) {
-												if (nodeData[i].gallusOrth.sharedSymbols[k] == null)
-													continue;
-												if (nodeData[i].gallusOrth.sharedSymbols[k].toUpperCase() == _this.customExpression[j].symbol.toUpperCase()) {
-													if (parseFloat(_this.customExpression[j].ratio) >= maxRatio) {
-														nodeData[i].expression.ups.push(_this.customExpression[j]);
-														break;
-													}
-													else if (parseFloat(_this.customExpression[j].ratio) <= minRatio) {
-														nodeData[i].expression.downs.push(_this.customExpression[j]);
-														break;
-													}
-													else {
-														nodeData[i].expression.unchanges.push(_this.customExpression[j]);
-														break;
-													}
-												}
-											}
-										}
-									}
-									_this.maxLevel = d3.max(nodeData, function (d) {
-										return d.depth;
-									});
-									if (!_this.changeLevel) {
-										var tmpString = '';
-										for (var i = 1; i <= _this.maxLevel; ++i) {
-											tmpString += '<option value=' + i + '>' + 'crossTalkLevel ' + i + '</option>';
-										}
-										if (_this.parent.menu) {
-											$(_this.parent.menu.element).find('#crossTalkLevel').html(tmpString);}
-									}
-									operation(nodeData);
-								}
-								else if (_this.customExpression && _this.customOrtholog) {
-									var minRatio = _this.parent.minRatio;
-									var maxRatio = _this.parent.maxRatio;
-									if (minRatio == '') {minRatio = '-1.5';}
-									if (maxRatio == '') {maxRatio = '1.5';}
-									minRatio = parseFloat(minRatio);
-									maxRatio = parseFloat(maxRatio);
-									nodeData = partition.nodes(root);
-
-									// Find bar height.
-									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
-									self.barLength = y(node.y + node.dy) - y(node.y);
-
-									for (var i = 0; i < nodeData.length; ++i)  //every pathway
-									{
-										if (nodeData[i].symbols == undefined) {
-											continue;
-										}
-										//---------------------
-										var count = 0;
-										nodeData[i].gallusOrth = {};
-										nodeData[i].gallusOrth.sharedSymbols = [];
-
-										//---------------------
-										nodeData[i].expression = {};
-										nodeData[i].expression.ups = [];
-										nodeData[i].expression.downs = [];
-										nodeData[i].expression.unchanges = [];
-
-										for (var k = 0; k < nodeData[i].symbols.length; ++k) {
-											for (var j = 0; j < _this.customOrtholog.length; ++j) {
-												if (nodeData[i].symbols[k] == null)
-													continue;
-												if (nodeData[i].symbols[k].toUpperCase() == _this.customOrtholog[j].symbol.toUpperCase()) {
-													if (_this.customOrtholog[j].dbId !== '\N') {
-														count++;
-														nodeData[i].gallusOrth.sharedSymbols.push(_this.customOrtholog[j].symbol);
-														break;
-													}
-												}
-											}
-										}
-										for (var k = 0; k < nodeData[i].gallusOrth.sharedSymbols.length; ++k) {
-											for (var j = 0; j < _this.customExpression.length; ++j) {
-												if (nodeData[i].gallusOrth.sharedSymbols[k] == null)
-													continue;
-												if (nodeData[i].gallusOrth.sharedSymbols[k].toUpperCase() == _this.customExpression[j].symbol.toUpperCase()) {
-													if (parseFloat(_this.customExpression[j].ratio) >= maxRatio) {
-														nodeData[i].expression.ups.push(_this.customExpression[j]);
-														break;
-													}
-													else if (parseFloat(_this.customExpression[j].ratio) <= minRatio) {
-														nodeData[i].expression.downs.push(_this.customExpression[j]);
-														break;
-													}
-													else {
-														nodeData[i].expression.unchanges.push(_this.customExpression[j]);
-														break;
-													}
-												}
-											}
-										}
-										if (count === nodeData[i].symbols.length) {
-											nodeData[i].gallusOrth.type = 'Complete';
-										}
-										else if (count === 0) {
-											nodeData[i].gallusOrth.type = 'Empty';
-										}
-										else {
-											nodeData[i].gallusOrth.type = 'Part';
-										}
-									}
-									_this.maxLevel = d3.max(nodeData, function (d) {
-
-										return d.depth;
-									});
-									if (!_this.changeLevel) {
-										var tmpString = '';
-										for (var i = 1; i <= _this.maxLevel; ++i) {
-											tmpString += '<option value=' + i + '>' + 'crossTalkLevel ' + i + '</option>';
-										}
-										$(_this.parent.menu.element).find('#crossTalkLevel').html(tmpString);
-									}
-									operation(nodeData);
-								}
-								else {
-									nodeData = partition.nodes(root);
-									// Find bar height.
-									var node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
-									self.barLength = y(node.y + node.dy) - y(node.y);
-
-									_this.maxLevel = d3.max(nodeData, function (d) {
-										return d.depth;
-									});
-									if (!_this.changeLevel && _this.parent.menu) {
-										var tmpString = '';
-										for (var i = 1; i <= _this.maxLevel; ++i) {
-											tmpString += '<option value=' + i + '>' + 'crossTalkLevel ' + i + '</option>';
-										}
-										$(_this.parent.menu.element).find('#crossTalkLevel').html(tmpString);
-										//                                        _this.parent.name = root.name + ' ' + _this.parent.name;
-									}
-									operation(nodeData);
-								}
-							});
 							function operation(nodeData) {
-
 								var crossTalkFileName = './data/crossTalkLevel/' + nodeData[0].name + '.json';
-								_this.parent.crossTalkLevel = _this.showCrossTalkLevel;
+								self.parent.crossTalkLevel = self.showCrossTalkLevel;
 								d3.json(crossTalkFileName, function (error, crossTalkData) {
-									var classes = crossTalkData[_this.showCrossTalkLevel - 1];
+									var classes = crossTalkData[self.showCrossTalkLevel - 1];
 									gGroup = mainSvg.append('g').attr('class', 'graphGroup');
 									self.graphGroup = gGroup;
 									gGroup.call(_this.zoomListener) // delete this line to disable free zooming
@@ -673,332 +497,175 @@
 										return tooltip.html('');
 									});
 
-									var symbol_max;
-
 									function computeTextRotation(d, i) {
 										if (i == 0)
 											return 0;
-										var angle = x(d.x + d.dx / 2) - Math.PI / 2;
+										var angle = a(d.a + d.da / 2) - Math.PI / 2;
 										return angle / Math.PI * 180;
 									}
 
+									var nodes = nodeData.filter(function(d) {return self.parent.crosstalkLevel == d.depth;});
+									nodeData.forEach(function(node) {
+										node.a = node.x;
+										node.r = node.y;
+										node.da = node.dx;
+										node.dr = node.dy;
+										node.x = Math.sin(
+											Math.PI - (Math.max(0, Math.min(2 * Math.PI, a(node.a)))
+																 + Math.max(0, Math.min(2 * Math.PI, a(node.a + node.da)))) / 2)
+											* Math.max(0, r(node.r)),
+										node.y = Math.cos(
+											Math.PI - (Math.max(0, Math.min(2 * Math.PI, a(node.a)))
+																 + Math.max(0, Math.min(2 * Math.PI, a(node.a + node.da)))) / 2)
+											* Math.max(0, r(node.r));});
+
+									var maxSymbol, maxUp, maxDown;
+									if (self.customExpression) {
+										maxUp = d3.max(nodes, function(d) {
+											if (!d.expression) {return 0;}
+											return d.expression.ups.length;});
+										maxDown = d3.max(nodes, function(d) {
+											if (!d.expression) {return 0;}
+											return d.expression.downs.length;});}
+									else {
+										maxSymbol = d3.max(nodes, function(d) {
+											if (!d.gallusOrth.sharedSymbols) {return 0;}
+											return d.gallusOrth.sharedSymbols.length;});}
+
 									if (classes && classes.length) {
-										var objects = processLinks(nodeData, classes);
-										var links = objects.imports;
-										if (!_this.customExpression) {
-											symbol_max = d3.max(objects.nodes, function (d) {
-												var temp = 0;
-												if (d.gallusOrth.sharedSymbols !== undefined)
-													temp = d.gallusOrth.sharedSymbols.length;
-												return temp;});}
-										else if (_this.customExpression) {
-											var DownMax = d3.max(objects.nodes, function (d) {
-												if (d.expression !== undefined) {
-													return d.expression.downs.length;}
-												else {
-													return 0;}});
-											var upMax = d3.max(objects.nodes, function (d) {
-												if (d.expression !== undefined) {
-													return d.expression.ups.length;}
-												else {
-													return 0;}});}
-										var _nodes = objects.nodes;
+										var links = [];
+										classes.forEach(function(klass) {
+											var source;
+											var targets = [];
+											if (klass.imports.length != 0) {
+												for (var ii = 0; ii < nodes.length; ++ii) {
+													if (klass.name == nodes[ii].name) {
+														source = nodes[ii];}
+													for (var ij = 0; ij < klass.imports.length; ++ij) {
+														if (klass.imports[ij] == nodes[ii].name) {
+															targets.push(nodes[ii]);}}}}
+											for (var ijk = 0; ijk < targets.length; ++ijk) {
+												var importObj = {};
+												importObj.source = source;
+												importObj.target = targets[ijk];
+												links.push(importObj);}});
 										link = link
 											.data(bundle(links))
 											.enter().append('path')
 											.each(function (d) {
 												d.source = d[0];
-												d.target = d[d.length - 1];
-											})
+												d.target = d[d.length - 1];})
 											.attr('class', 'link')
 											.attr('d', diagonal)
-											.style('opacity', function(d, i) {return 'crosstalk' === self.displayMode ? 1 : 0;});
+											.style('opacity', function(d, i) {return 'crosstalk' === self.displayMode ? 1 : 0;});}
 
-										// Compute coordinates and sizes.
-										_nodes.forEach(function(d, i) {
-											d.theta = Math.max(0, Math.min(2 * Math.PI, x(d.dx + d.d_dx)))
-												- Math.max(0, Math.min(2 * Math.PI, x(d.dx)));
-											d.r = Math.max(0, y(d.dy));
-											d.angle = computeRotation(d, i);});
+									// Compute coordinates and sizes.
+									nodes.forEach(function(d, i) {
+										d.theta = Math.max(0, Math.min(2 * Math.PI, a(d.a + d.da)))
+											- Math.max(0, Math.min(2 * Math.PI, a(d.a)));
+										d.radius = Math.max(0, r(d.r));
+										d.angle = computeRotation(d, i);});
 
-										if (!_this.customExpression) {
-											// Compute lengths.
-											_nodes.forEach(function(d, i) {
-												var symbolCount;
-												d.thickness = Math.min(d.theta * d.r * 0.8, Math.floor(_this.maxLevel));
-												symbolCount = 0;
-												if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
-												d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
-												if (d.exponent < 0) {d.exponent = 0;}
-												d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
-											var maxExponent = Math.floor(Math.log(symbol_max) / Math.log(10)),
-													exponentLength = self.barLength * maxExponent / 9;
-											self.crosstalkLegend.select('#exponent-bar').attr('width', exponentLength);
-											self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + exponentLength);
-											self.crosstalkLegend.select('#exponent-end-label')
-												.attr('x', 51.5 + exponentLength)
-												.text(maxExponent);
-											var groupCrosstalkBars = self.graphGroup.append('g').attr('id', 'group-crosstalk-bars');
-											var crosstalkBar = groupCrosstalkBars.selectAll('.crosstalk-bar').data(_nodes).enter()
-														.append('g')
-														.attr('class', 'crosstalk-bar')
-														.attr('transform', function(d) {return 'rotate(' + d.angle + ')';})
-														.on('contextmenu', barClick)
-														.on('mouseover', mouseovered)
-														.on('mouseout', mouseouted);
-											node = crosstalkBar;
-											crosstalkBar.append('rect')
-												.attr('class', 'exponent')
-												.attr('x', function(d) {return y(d.dy);})
-												.attr('y', function(d) {return d.thickness * -0.5;})
-												.attr('height', function(d) {return d.thickness;})
-												.attr('width', function(d) {
-													if (isNaN(d.exponent)) {return 0;}
-													if (0 === maxExponent) {return self.barLength;}
-													return self.barLength * d.exponent * 0.1;})
-												.attr('fill', '#f22')
-												.attr('stroke-width', 0.3)
-												.attr('stroke', '#000');
-											crosstalkBar.append('rect')
-												.attr('class', 'digit')
-												.attr('x', function(d) {return y(d.dy);})
-												.attr('y', function(d) {return d.thickness * -0.2;})
-												.attr('height', function(d) {return d.thickness * 0.4;})
-												.attr('width', function(d) {
-													if (isNaN(d.digit)) {return 0;}
-													return self.barLength * d.digit * 0.1;})
-												.attr('fill', '#fb8')
-												.attr('stroke-width', 0.3)
-												.attr('stroke', '#000');
+									if (self.customExpression) {
+										var maxExpressions = Math.max(maxUp, maxDown);
+										// Compute lengths.
+										nodes.forEach(function(d, i) {
+											d.thickness = Math.min(d.theta * d.radius, Math.floor(self.maxLevel * 2));
+											var up = d.expression.ups.length,
+													down = d.expression.downs.length;
+											d.up = up;
+											d.down = down;});
 
-											// Update Legend.
-											/*
-											var eg = self.crosstalkLegend.select('#exponent-group'),
-													length = self.barLength;
-											self.crosstalkLegend.select('#exponent-bar')
-												.attr('width', length);
-											self.crosstalkLegend.select('#digit-bar')
-												.attr('width', length);
-											eg.selectAll().remove();
-											self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + length);
-											self.crosstalkLegend.select('#exponent-end-label')
-												.attr('x', 51.5 + length).text(maxExponent);
-											self.crosstalkLegend.select('#digit-end-mark').attr('x', 54.5 + length);
-											self.crosstalkLegend.select('#digit-end-label').attr('x', 51.5 + length);
-											 */
+										var groupExpressionBars = self.graphGroup.append('g').attr('id', 'group-expression-bars');
+										var expressionBar = groupExpressionBars.selectAll('.expression-bar').data(nodes).enter()
+													.append('g')
+													.attr('class', 'expression-bar')
+													.attr('transform', function(d) {return 'rotate(' + d.angle + ')';})
+													.on('contextmenu', expressionBarClick)
+													.on('mouseover', mouseovered)
+													.on('mouseout', mouseouted);
+										node = expressionBar;
+										expressionBar.append('rect')
+											.attr('class', 'up')
+											.attr('x', function(d) {return r(d.dr);})
+											.attr('y', function(d) {return d.thickness * -0.5;})
+											.attr('height', function(d) {return d.thickness * 0.5;})
+											.attr('width', function(d) {
+												if (isNaN(d.up)) {return 0;}
+												if (0 === maxExpressions) {return self.barLength;}
+												return self.barLength * d.up / maxExpressions;})
+											.attr('fill', '#0d0')
+											.attr('stroke-width', 0.3)
+											.attr('stroke', '#000');
+										expressionBar.append('rect')
+											.attr('class', 'down')
+											.attr('x', function(d) {return r(d.dr);})
+											.attr('y', function(d) {return 0;})
+											.attr('height', function(d) {return d.thickness * 0.5;})
+											.attr('width', function(d) {
+												if (isNaN(d.down)) {return 0;}
+												if (0 === maxExpressions) {return self.barLength;}
+												return self.barLength * d.down / maxExpressions;})
+											.attr('fill', '#d00')
+											.attr('stroke-width', 0.3)
+											.attr('stroke', '#000');}
 
-										}
-										else {
-											/*
-											var maxUpExponent = Math.floor(Math.log(upMax) / Math.log(10)),
-													maxDownExponent = Math.floor(Math.log(DownMax) / Math.log(10));
-											maxExponent = Math.max(maxUpExponent, maxDownExponent);
-											 */
-											var maxVal = Math.max(upMax, DownMax);
-											// Compute lengths.
-											_nodes.forEach(function(d, i) {
-												d.thickness = Math.min(d.theta * d.r, Math.floor(_this.maxLevel * 2));
-												var up = d.expression.ups.length,
-														down = d.expression.downs.length;
-												/*
-												d.upExponent = Math.floor(Math.log(up) / Math.log(10));
-												if (d.upExponent < 0) {d.upExponent = 0;}
-												d.downExponent = Math.floor(Math.log(down) / Math.log(10));
-												if (d.downExponent < 0) {d.downExponent = 0;}
-												d.upDigit = Math.floor(up / Math.pow(10, d.exponent));
-												d.downDigit = Math.floor(down / Math.pow(10, d.exponent));
-												 */
-												// Don't think we need split bars at the moment.
-												d.up = up;
-												d.down = down;
-											});
-
-											var groupExpressionBars = self.graphGroup.append('g').attr('id', 'group-expression-bars');
-											var expressionBar = groupExpressionBars.selectAll('.expression-bar').data(_nodes).enter()
-														.append('g')
-														.attr('class', 'expression-bar')
-														.attr('transform', function(d) {return 'rotate(' + d.angle + ')';})
-														.on('contextmenu', barClick)
-														.on('mouseover', mouseovered)
-														.on('mouseout', mouseouted);
-											node = expressionBar;
-											expressionBar.append('rect')
-												.attr('class', 'up')
-												.attr('x', function(d) {return y(d.dy);})
-												.attr('y', function(d) {return d.thickness * -0.5;})
-												.attr('height', function(d) {return d.thickness * 0.5;})
-												.attr('width', function(d) {
-													if (isNaN(d.up)) {return 0;}
-													if (0 === maxVal) {return self.barLength;}
-													return self.barLength * d.up / maxVal;})
-												.attr('fill', '#0d0')
-												.attr('stroke-width', 0.3)
-												.attr('stroke', '#000');
-											expressionBar.append('rect')
-												.attr('class', 'down')
-												.attr('x', function(d) {return y(d.dy);})
-												.attr('y', function(d) {return 0;})
-												.attr('height', function(d) {return d.thickness * 0.5;})
-												.attr('width', function(d) {
-													if (isNaN(d.down)) {return 0;}
-													if (0 === maxVal) {return self.barLength;}
-													return self.barLength * d.down / maxVal;})
-												.attr('fill', '#d00')
-												.attr('stroke-width', 0.3)
-												.attr('stroke', '#000');
-										}
-									}
 									else {
-										if (!_this.customExpression) {
-											symbol_max = d3.max(nodeData, function (d) {
-												var temp = 0;
-												if (d.gallusOrth.sharedSymbols !== undefined)
-													temp = d.gallusOrth.sharedSymbols.length;
-												return temp;
-											});
-										}
-										else if (_this.customExpression) {
-											var upMax = d3.max(nodeData, function (d) {
-												if (d.expression !== undefined) {
-													return d.expression.ups.length;
-												}
-												else {
-													return 0;
-												}
-											});
-											var DownMax = d3.max(nodeData, function (d) {
-												if (d.expression !== undefined) {
-													return d.expression.downs.length;
-												}
-												else {
-													return 0;
-												}
-											});
-										}
-										if (!_this.customExpression) {
-											node = node
-												.data(nodeData.filter(function (d) {
-													return d.depth == 1;
-												}))
-												.enter().append('rect')
-												.attr('class', 'node')
-												.attr('x', function (d) {
-													return y(d.y);
-												})
-												.attr('height', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-													var r = Math.max(0, y(d.y));
-													return Math.min(r * thea, Math.floor(_this.maxLevel));
-												})
-												.attr('y', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-													var r = Math.max(0, y(d.y));
-													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
-												})
-												.attr('width', function (d) {
-													var temp = 0;
-													if (d.gallusOrth !== undefined)
-														temp = d.gallusOrth.sharedSymbols.length;
-													if (symbol_max == 0)
-														return 0;
-													return 2/3*Math.floor(temp / symbol_max * ( Math.max(0, y(d.y + d.dy)) - Math.max(0, y(d.y)) ));
-												})
-												.attr('transform', function (d, i) {
-													return 'rotate(' + computeBarRotation(d, i) + ')';
-												})
-												.style('fill', '#f00')
-												.on('contextmenu', barClick);
-										}
-										else {
-											node = node
-												.data(nodeData.filter(function (d) {
-													return d.depth == 1;
-												}))
-												.enter().append('rect')
-												.attr('class', 'node').attr('class','downExpressed')
-												.attr('x', function (d) {
-													return y(d.y);
-												})
-												.attr('height', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-													var r = Math.max(0, y(d.y));
-													return Math.min(r * thea, Math.floor(_this.maxLevel));
-												})
-												.attr('y', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-													var r = Math.max(0, y(d.y));
-													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
-												})
-												.attr('width', function (d) {
-													if(d.upX==undefined)
-														d.upX = 0;
-													if (d.expression == undefined || d.gallusOrth == undefined || upMax == 0|| d.depth==0)
-														d.upX= 0;
-													else
-														d.upX=1/2*Math.floor((d.expression.ups.length) / upMax * ( Math.max(0, y(d.y + d.dy)) - Math.max(0, y(d.y)) ));
-													return d.upX;
-												})
-												.attr('transform', function (d, i) {
-													return 'rotate(' + computeBarRotation(d, i) + ')';
-												})
-												.style('fill', '#f00')
-												.on('contextmenu', expressionBarClick);
-
-											downNode = downNode
-												.data(nodeData.filter(function (d) {
-													return d.depth == 1;
-												}))
-												.attr('id', function (d, i) {
-													return 'nodeDown' + d.dbId;
-												})
-												.enter()
-												.append('rect')
-												.attr('class', 'node').attr('class','downExpressed')
-												.attr('x', function (d) {
-													if(d.upX==undefined)
-														return y(d.y);
-													else
-													{
-														return y(d.y)+ d.upX;
-													}
-												})
-												.attr('height', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-													var r = Math.max(0, y(d.y));
-													return Math.min(r * thea, Math.floor(_this.maxLevel));
-												})
-												.attr('y', function (d) {
-													var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-													var r = Math.max(0, y(d.y));
-													return -(Math.min(r * thea, Math.floor(_this.maxLevel))) / 2;
-												})
-												.attr('width', function (d) {
-													if (d.expression == undefined || d.gallusOrth == undefined || DownMax == 0|| d.depth==0)
-														return 0;
-													return 1/2*Math.floor((d.expression.downs.length) / DownMax * ( Math.max(0, y(d.y + d.dy)) - Math.max(0, y(d.y)) ));
-												})
-												.style('fill', '#0f0')
-												.attr('transform', function (d, i) {
-													return 'rotate(' + computeBarRotation(d, i) + ')';
-												})
-												.on('contextmenu', expressionBarClick)
-												.on('mouseover', mouseovered)
-												.on('mouseout', mouseouted);
-										}
-										function computeBarRotation(d, i) {
-											var angle = x(d.x + d.dx / 2) - Math.PI / 2;
-											return angle / Math.PI * 180;
-										}
-
-									}
+										nodes.forEach(function(d, i) {
+											var symbolCount;
+											d.thickness = Math.min(d.theta * d.radius * 0.8, Math.floor(self.maxLevel));
+											symbolCount = 0;
+											if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
+											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
+											if (d.exponent < 0) {d.exponent = 0;}
+											d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
+										var maxExponent = Math.floor(Math.log(maxSymbol) / Math.log(10)),
+												exponentLength = self.barLength * maxExponent / 9;
+										self.crosstalkLegend.select('#exponent-bar').attr('width', exponentLength);
+										self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + exponentLength);
+										self.crosstalkLegend.select('#exponent-end-label')
+											.attr('x', 51.5 + exponentLength)
+											.text(maxExponent);
+										var groupCrosstalkBars = self.graphGroup.append('g').attr('id', 'group-crosstalk-bars');
+										var crosstalkBar = groupCrosstalkBars.selectAll('.crosstalk-bar').data(nodes).enter()
+													.append('g')
+													.attr('class', 'crosstalk-bar')
+													.attr('transform', function(d) {return 'rotate(' + d.angle + ')';})
+													.on('contextmenu', barClick)
+													.on('mouseover', mouseovered)
+													.on('mouseout', mouseouted);
+										node = crosstalkBar;
+										crosstalkBar.append('rect')
+											.attr('class', 'exponent')
+											.attr('x', function(d) {return r(d.r);})
+											.attr('y', function(d) {return d.thickness * -0.5;})
+											.attr('height', function(d) {return d.thickness;})
+											.attr('width', function(d) {
+												if (isNaN(d.exponent)) {return 0;}
+												if (0 === maxExponent) {return self.barLength;}
+												return self.barLength * d.exponent * 0.1;})
+											.attr('fill', '#f22')
+											.attr('stroke-width', 0.3)
+											.attr('stroke', '#000');
+										crosstalkBar.append('rect')
+											.attr('class', 'digit')
+											.attr('x', function(d) {return r(d.r);})
+											.attr('y', function(d) {return d.thickness * -0.2;})
+											.attr('height', function(d) {return d.thickness * 0.4;})
+											.attr('width', function(d) {
+												if (isNaN(d.digit)) {return 0;}
+												return self.barLength * d.digit * 0.1;})
+											.attr('fill', '#fb8')
+											.attr('stroke-width', 0.3)
+											.attr('stroke', '#000');}
 
 									var textG = gGroup.append('g').selectAll('.text').data(nodeData.filter(
 										function (d, i) {
 											if (i == 0)          //center of the circle
 												return true;
-											var thea = Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))) - Math.max(0, Math.min(2 * Math.PI, x(d.x)));
-											var r = Math.max(0, y(d.y));
-											return thea * r >= 10;
+											var thea = Math.max(0, Math.min(2 * Math.PI, a(d.a + d.da))) - Math.max(0, Math.min(2 * Math.PI, a(d.a)));
+											var radius = Math.max(0, r(d.r));
+											return thea * radius >= 10;
 										}))
 										.enter().append('text')
 										.attr('class', 'bar-text') // add class
@@ -1006,14 +673,13 @@
 										.attr('transform', function (d, i) {
 											if (i == 0)
 												return 'rotate(0)';
-											var angle = x(d.x + d.dx / 2) * 180 / Math.PI - 90;
-
-											return 'rotate(' + angle + ')translate(' + y(d.y + d.dy * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
+											var angle = a(d.a + d.da / 2) * 180 / Math.PI - 90;
+											return 'rotate(' + angle + ')translate(' + r(d.r + d.dr * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
 										})
 										.attr('dy', '0.35em')
 										.style('font-size', function(d, i) {
-											var width = Math.abs(y(d.y + d.dy) - y(d.y)),
-													height = Math.abs(x(d.x + d.dx) - x(d.x));
+											var width = Math.abs(r(d.r + d.dr) - r(d.r)),
+													height = Math.abs(a(d.a + d.da) - a(d.a));
 											return Math.min(width / 4, height * Math.PI * 128) + 'px';})
 										.text(function (d, i) {
 											if (i == 0) {return '';}
@@ -1134,9 +800,9 @@
 										d3.event.preventDefault();}
 
 									function computeRotation(d, i) {
-										var angle = x(d.dx + d.d_dx / 2) - Math.PI / 2;
-										return angle / Math.PI * 180;
-									}
+										var angle = a(d.a + d.da / 2) - Math.PI / 2;
+										return angle / Math.PI * 180;}
+
 									function processHighlightNode(nodeData)
 									{
 										var highlights = [];
@@ -1373,70 +1039,6 @@
 											.classed('node--source', false);
 									}
 
-									function processLinks(nodes, classes) {
-										var imports = [];
-										var _nodes = [];
-										for (var i = 0; i < nodes.length; ++i) {
-											if (nodes[i].depth == _this.showCrossTalkLevel) {
-												var dx = nodes[i].x;
-												var dy = nodes[i].y;
-												var d_dx = nodes[i].dx;
-												var d_dy = nodes[i].dy;
-												var temp = {};
-												temp.x = Math.sin(
-													Math.PI - (Math.max(0, Math.min(2 * Math.PI, x(dx)))
-																		 + Math.max(0, Math.min(2 * Math.PI, x(dx + d_dx)))) / 2
-												)
-													* Math.max(0, y(dy));
-												temp.y = Math.cos(
-													Math.PI - (Math.max(0, Math.min(2 * Math.PI, x(dx)))
-																		 + Math.max(0, Math.min(2 * Math.PI, x(dx + d_dx)))) / 2
-												)
-													* Math.max(0, y(dy));
-												temp.name = nodes[i].name;
-												temp.parent = nodes[i].parent;
-												temp.depth = nodes[i].depth;
-												temp.dbId = nodes[i].dbId;
-												temp.children = nodes[i].children;
-
-												temp.dx = nodes[i].x;
-												temp.dy = nodes[i].y;
-												temp.d_dx = nodes[i].dx;
-												temp.d_dy = nodes[i].dy;
-												temp.symbols = nodes[i].symbols;
-												temp.gallusOrth = nodes[i].gallusOrth;
-												if (_this.customExpression) {
-													temp.expression = nodes[i].expression;
-												}
-
-												_nodes.push(temp);
-											}
-										}
-										for (var i = 0; i < classes.length; ++i) {
-											var source;
-											var targets = [];
-											if (classes[i].imports.length != 0) {
-												for (var ii = 0; ii < _nodes.length; ++ii) {
-													if (classes[i].name == _nodes[ii].name) {
-														source = _nodes[ii];
-													}
-													for (var ij = 0; ij < classes[i].imports.length; ++ij) {
-														if (classes[i].imports[ij] == _nodes[ii].name) {
-															targets.push(_nodes[ii]);
-														}
-													}
-												}
-											}
-											for (var ijk = 0; ijk < targets.length; ++ijk) {
-												var importObj = {};
-												importObj.source = source;
-												importObj.target = targets[ijk];
-												imports.push(importObj);
-											}
-										}
-										return {imports: imports, nodes: _nodes};
-									}
-
 									function rightClick(d, i) {
 										var datum, table;
 										if (d3.event.defaultPrevented) {return;}
@@ -1486,14 +1088,14 @@
 											dataName: selectedData.name,
 											dataType: dataType,
 											selectedData: selectedData});
-										ringBubble.experimentType = _this.parent.experimentType;
+										ringBubble.experimentType = self.parent.experimentType;
 										if(_this.parent.preHierarchical!=='') {
-											ringBubble.preHierarchical = _this.parent.preHierarchical + '->' + _this.parent.id;}
+											ringBubble.preHierarchical = self.parent.preHierarchical + '->' + self.parent.id;}
 										else {
 											ringBubble.preHierarchical +=  _this.parent.id;}
 										ringBubble.expressionLabel=_this.parent.expressionLabel;
 
-										_this.parent.parent.add(ringBubble);
+										self.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
@@ -1503,7 +1105,7 @@
 											}));
 
 
-										if (_this.customOrtholog) {
+										if (self.customOrtholog) {
 											ringBubble.svg.customOrtholog = _this.customOrtholog;
 											ringBubble.minRatio = _this.parent.minRatio;
 											ringBubble.maxRatio = _this.parent.maxRatio;
@@ -1512,7 +1114,7 @@
 											ringBubble.operateText = _this.parent.operateText;
 											ringBubble.upLabel = _this.parent.upLabel;
 											ringBubble.downLabel = _this.parent.downLabel;}
-										if (_this.customExpression) {
+										if (self.customExpression) {
 											d3.select(ringBubble.svg.element).selectAll('.symbol').remove();
 											ringBubble.svg.customExpression = _this.customExpression;
 											ringBubble.minRatio = _this.parent.minRatio;

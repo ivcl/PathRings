@@ -117,3 +117,18 @@ $P.truncateDrawnString = function(context, string, maxLength, ellipsis) {
 	while (string.length > 0 && context.measureText(finalString).width > maxLength);
 
 	return string + ellipsis;};
+
+/**
+ * Takes two list and returns a list composed of the common elements.
+ * @param {Array} listA - the first list
+ * @param {Array} listB - the second list
+ * @param {Function} [compare] - The comparsion function. Defaults to strict equality.
+ * @returns {Array} - The elements in A which are also in B, according to the compare function.
+ */
+$P.listIntersection = function(listA, listB, compare) {
+	var list = [];
+	if (!compare) {compare = function(a, b) {return a === b;};}
+	listA.forEach(function(a) {
+		if (listB.some(function(b) {return compare(a, b);})) {
+			list.push(a);}});
+	return list;};
