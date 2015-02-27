@@ -1181,56 +1181,21 @@
 								var legend = self.crosstalkLegend;
 								legend.append('text')
 									.attr('font-size', 10)
-									.text('Crosstalk Count');
-
+									.text('Crosstalk Count = ');
 								legend.append('text')
 									.attr('font-size', 10)
-									.attr('y', 12)
-									.text('Exponent:');
-								legend.append('rect')
-									.attr('id', 'exponent-bar')
-									.attr('x', 55)
-									.attr('y', 6)
-									.attr('width', self.barLength)
-									.attr('height', 6)
-									.attr('fill', '#f44')
-									.attr('stroke', 'black')
-									.attr('stroke-width', 0.3);
-								legend.append('rect')
-									.attr('x', 54.5)
-									.attr('y', 4)
-									.attr('width', 1)
-									.attr('height', 10)
-									.attr('fill', 'black');
-								legend.append('text')
-									.attr('x', 51.5)
-									.attr('y', 22)
-									.attr('font-size', 10)
-									.text('0')
-									.attr('fill', 'black');
-								legend.append('rect')
-									.attr('id', 'exponent-end-mark')
-									.attr('x', 54.5)
-									.attr('y', 4)
-									.attr('width', 1)
-									.attr('height', 10)
-									.attr('fill', 'black');
-								legend.append('text')
-									.attr('id', 'exponent-end-label')
-									.attr('x', 51.5)
-									.attr('y', 22)
-									.attr('font-size', 10)
-									.text('9')
-									.attr('fill', 'black');
+									.attr('x', 10)
+									.attr('y', 10)
+									.text('Digit × 10 ^ Exponent');
 
 								_this.crosstalkLegend.append('text')
 									.attr('font-size', 10)
-									.attr('y', 34)
-									.text('Lead Digit:');
+									.attr('y', 22)
+									.text('Digit:');
 								_this.crosstalkLegend.append('rect')
 									.attr('id', 'digit-bar')
 									.attr('x', 55)
-									.attr('y', 29)
+									.attr('y', 16)
 									.attr('width', self.barLength)
 									.attr('height', 3)
 									.attr('fill', '#fca')
@@ -1238,30 +1203,71 @@
 									.attr('stroke-width', 0.3);
 								_this.crosstalkLegend.append('rect')
 									.attr('x', 54.5)
-									.attr('y', 26)
+									.attr('y', 14)
 									.attr('width', 1)
 									.attr('height', 10)
 									.attr('fill', 'black');
 								_this.crosstalkLegend.append('text')
 									.attr('x', 51.5)
-									.attr('y', 44)
+									.attr('y', 32)
 									.attr('font-size', 10)
 									.text('0')
 									.attr('fill', 'black');
 								_this.crosstalkLegend.append('rect')
 									.attr('id', 'digit-end-mark')
 									.attr('x', 54.5)
-									.attr('y', 26)
+									.attr('y', 14)
 									.attr('width', 1)
 									.attr('height', 10)
 									.attr('fill', 'black');
 								_this.crosstalkLegend.append('text')
 									.attr('id', 'digit-end-label')
 									.attr('x', 51.5)
-									.attr('y', 44)
+									.attr('y', 32)
 									.attr('font-size', 10)
 									.text('9')
 									.attr('fill', 'black');
+
+								legend.append('text')
+									.attr('font-size', 10)
+									.attr('y', 42)
+									.text('Exponent:');
+								legend.append('rect')
+									.attr('id', 'exponent-bar')
+									.attr('x', 55)
+									.attr('y', 37)
+									.attr('width', self.barLength)
+									.attr('height', 6)
+									.attr('fill', '#f44')
+									.attr('stroke', 'black')
+									.attr('stroke-width', 0.3);
+								legend.append('rect')
+									.attr('x', 54.5)
+									.attr('y', 34)
+									.attr('width', 1)
+									.attr('height', 10)
+									.attr('fill', 'black');
+								legend.append('text')
+									.attr('x', 51.5)
+									.attr('y', 52)
+									.attr('font-size', 10)
+									.text('0')
+									.attr('fill', 'black');
+								legend.append('rect')
+									.attr('id', 'exponent-end-mark')
+									.attr('x', 54.5)
+									.attr('y', 34)
+									.attr('width', 1)
+									.attr('height', 10)
+									.attr('fill', 'black');
+								legend.append('text')
+									.attr('id', 'exponent-end-label')
+									.attr('x', 51.5)
+									.attr('y', 52)
+									.attr('font-size', 10)
+									.text('9')
+									.attr('fill', 'black');
+
 
 							}
 							else
