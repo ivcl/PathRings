@@ -49,8 +49,8 @@
 				if (value === this._crosstalkLevel) {return;}
 				this._crosstalkLevel = value;
 				if (this.menu) {this.menu.crosstalkLevel = value;}
-				if (this.svg) {this.createSvg({changeLevel: true, crossTalkLevel: value});}
-				this.displayMode = 'crosstalk';},
+				this.displayMode = 'crosstalk';
+				if (this.svg) {this.createSvg({changeLevel: true, crossTalkLevel: value});}},
 			get maxCrosstalkLevel() {
 				if (this.svg) {return this.svg.maxLevel;}
 				return 6;},
@@ -58,6 +58,7 @@
 			set species(value) {
 				if (value === this._species) {return;}
 				this._species = value;
+				if (!this.selectedData) {this.title.name = value;}
 				if (this.menu) {this.menu.species = value;}
 				if (this.svg) {
 					this.createSvg({filename: './data/Ortholog/' + value + '/' + this.dataName + '.json'});}},
@@ -88,7 +89,6 @@
 					dataType: this.dataType,
 					selectedData: this.selectedData,
 					name: this.dataName});
-				console.log(this.selectedData);
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
 				actual_config.x += 8;
 				actual_config.y += 8;
@@ -278,7 +278,7 @@
 						customOrtholog: orthologData,
 						filename: './data/Ortholog/' + bubble.species + '/' + bubble.dataName + '.json',
 						changeLevel: true};
-					//bubble.orthologLabel = 'Input ortholog file: ' + bubble.selectedFile.name;
+					bubble.orthologLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Ortholog';
 					bubble.createSvg(config);});},
 			loadExpression: function() {
@@ -287,9 +287,13 @@
 						file = $(this.element).find('#expressionFile').get(0).files[0],
 						loader;
 
-				bubble.selectedFile = file;
-				bubble.expressionFile = file;
-				if (!file) {
+				if (file) {
+					bubble.selectedFile = file;
+					bubble.expressionFile = file;}
+				else if (bubble.expressionFile) {
+					file = bubble.expressionFile;
+					bubble.selectedFile = bubble.expressionFile;}
+				else {
 					alert('Please select your Expression data file!');
 					return;}
 
@@ -299,7 +303,7 @@
 						filename: './data/Ortholog/' + bubble.species + '/' + bubble.dataName + '.json',
 						customExpression: expressionData,
 						changeLevel: true};
-					bubble.expressionLabel = 'Input expression file: ' + bubble.selectedFile.name;
+					bubble.expressionLabel =  bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);});},
 			onPositionChanged: function (dx, dy, dw, dh) {

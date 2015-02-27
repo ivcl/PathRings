@@ -32,6 +32,7 @@ $P.BubbleLink = $P.defineClass(
 			var dx = this.target.x - this.source.x,
 					dy = this.target.y - this.source.y,
 					baseDir = new $P.Vector2D(dx, dy).normalized().rotate90();
+			console.log(this.source.x, this.source.y, this.target.x, this.target.y);
 			context.save();
 			context.beginPath();
 			context.moveTo(

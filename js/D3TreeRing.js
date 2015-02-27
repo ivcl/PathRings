@@ -50,6 +50,8 @@
 						d3.select(this.element).selectAll('.link').style('opacity', 1);
 						$(this.element).find('#crossTalkLevel').show();}
 					this._displayMode = 'crosstalk';}},
+			get centerX() {return this.x + this.radius;},
+			get centerY() {return this.y + this.radius;},
 			init: function () {
 				var self = this,
 						bubble = this.parent;
@@ -58,6 +60,7 @@
 				var width = this.defaultRadius,
 						height = this.defaultRadius,
 						radius = Math.min(width, height) / 2;
+				this.radius = radius;
 				var x = d3.scale.linear()
 							.range([0, 2 * Math.PI]);
 				var a = x;
@@ -75,19 +78,26 @@
 				var mainSvg = svg.append('g').attr('class','mainSVG')
 							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
 				this.mainSvg = mainSvg;
-				svg.append('text').attr('class','ortholog')
+				svg.append('text').attr('class','species')
 					.style('font-size', 12)
 					.attr('transform', 'translate(' + 10 + ',' + 27 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
 					.text(self.parent.species);
 
-				svg.append('text').attr('class','expression')
+				svg.append('text').attr('class','ortholog')
 					.style('font-size', 12)
-					.attr('transform', 'translate(' + (0) + ',' + 43 + ')')
+					.attr('transform', 'translate(' + 10 + ',' + 43 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
-					.text(_this.parent.expressionLabel);
+					.text(self.parent.orthologLabel);
+
+				svg.append('text').attr('class','expression')
+					.style('font-size', 12)
+					.attr('transform', 'translate(' + 10 + ',' + 59 + ')')
+					.style('text-anchor', 'start')
+					.style('fill', '#666')
+					.text(self.parent.expressionLabel);
 
 				this.zoomListener = d3.behavior.zoom()
 					.translate([0, 0])
@@ -258,12 +268,14 @@
 								if (self.customOrtholog) {
 									nodeData.forEach(function (d) {
 										if (!d) {return;}
+										var symbols = d.symbols || [];
 										d.gallusOrth = {};
 										d.gallusOrth.sharedSymbols = $P.listIntersection(
-											d.symbols, self.customOrtholog,
+											symbols, self.customOrtholog,
 											function(symbol, ortholog) {
+												if (!symbol) {return false;}
 												return symbol.toUpperCase() === ortholog.symbol.toUpperCase();});
-										if (d.symbols.length === d.gallusOrth.sharedSymbols.length) {
+										if (symbols.length === d.gallusOrth.sharedSymbols.length) {
 											d.gallusOrth.type = 'Complete';}
 										else if (0 === d.gallusOrth.sharedSymbols.length) {
 											d.gallusOrth.type = 'Empty';}
@@ -278,7 +290,7 @@
 										d.expression = {ups: [], downs: [], unchanges: []};
 										$P.listIntersection(
 											d.gallusOrth.sharedSymbols,
-											self.customoExpression,
+											self.customExpression,
 											function(symbol, expression) {
 												if (symbol.toUpperCase() !== expression.symbol.toUpperCase()) {return false;}
 												var ratio = parseFloat(expression.ratio);
@@ -322,7 +334,7 @@
 									{
 										processHighlightNode(nodeData);
 									}
-									if (_this.customExpression) {
+									if (self.customExpression) {
 										var max;
 										for (var i = 0; i < nodeData.length; ++i) {
 											if (nodeData[i].name !== 'homo sapiens' && nodeData[i].expression !== undefined && nodeData[i].gallusOrth !== undefined) {
@@ -394,7 +406,7 @@
 											.attr('height', sectionHeight)
 											.attr('width', scaleWidth)
 											.attr('fill', function (d, i) {
-												return expressionColors[i]
+												return expressionColors[i];
 											});
 
 										colorScaleBar.selectAll('text')
@@ -578,7 +590,7 @@
 										node = expressionBar;
 										expressionBar.append('rect')
 											.attr('class', 'up')
-											.attr('x', function(d) {return r(d.dr);})
+											.attr('x', function(d) {return r(d.r);})
 											.attr('y', function(d) {return d.thickness * -0.5;})
 											.attr('height', function(d) {return d.thickness * 0.5;})
 											.attr('width', function(d) {
@@ -590,7 +602,7 @@
 											.attr('stroke', '#000');
 										expressionBar.append('rect')
 											.attr('class', 'down')
-											.attr('x', function(d) {return r(d.dr);})
+											.attr('x', function(d) {return r(d.r);})
 											.attr('y', function(d) {return 0;})
 											.attr('height', function(d) {return d.thickness * 0.5;})
 											.attr('width', function(d) {
@@ -633,8 +645,8 @@
 											.attr('height', function(d) {return d.thickness;})
 											.attr('width', function(d) {
 												if (isNaN(d.exponent)) {return 0;}
-												if (0 === maxExponent) {return self.barLength;}
-												return self.barLength * d.exponent * 0.1;})
+												if (0 === maxExponent) {return 0;}
+												return self.barLength * d.exponent / 9;})
 											.attr('fill', '#f22')
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');
@@ -645,7 +657,7 @@
 											.attr('height', function(d) {return d.thickness * 0.4;})
 											.attr('width', function(d) {
 												if (isNaN(d.digit)) {return 0;}
-												return self.barLength * d.digit * 0.1;})
+												return self.barLength * d.digit / 9;})
 											.attr('fill', '#fb8')
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');}
@@ -710,8 +722,7 @@
 										bubble.parent.add(table);
 
 										var angle = datum.angle * Math.PI / 180,
-												offset = parseFloat(selection.attr('x')) +
-													parseFloat(selection.attr('width')) * 0.8;
+												offset = r(datum.r + datum.dr * 0.8);
 
 										datum.outsideEdge = new $P.Vector2D(
 											Math.cos(angle) * offset,
@@ -721,7 +732,7 @@
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
 													d3ring: self,
-													datum: d3.select(this).datum()}),
+													datum: datum}),
 												target: new $P.BubbleLink.End({object: table})
 											}));
 
@@ -782,11 +793,18 @@
 										bubble.parent.add(table);
 
 										angle = d3datum.angle * Math.PI / 180;
-										offset = parseFloat(d3selection.attr('x')) +
-											parseFloat(d3selection.attr('width')) * 0.8;
+										offset = r(d3datum.r + d3datum.dr * 0.8);
 										d3datum.outsideEdge = new $P.Vector2D(
 											Math.cos(angle) * offset,
 											Math.sin(angle) * offset);
+
+										$P.state.scene.addLink(
+											new $P.BubbleLink({
+												source: new $P.D3TreeRing.BubbleLinkEnd({
+													d3ring: self,
+													datum: d3.select(this).datum()}),
+												target: new $P.BubbleLink.End({object: table})
+											}));
 
 										d3.event.preventDefault();}
 
@@ -896,12 +914,24 @@
 										}
 
 										var inode = gGroup.append('g').selectAll('.inner_node');
-										inode.style('opacity', function(d, i) {return 'title' === self.displayMode ? 1 : 0;});
+										self.inode = inode;
 										var titleLink = gGroup.append('g').attr('class', 'links').selectAll('.titleLink');
 										var inodeRect = inode.data(inners).enter().append('g')
 													.attr('class', 'inner_node');
 										var inodeText = inode.data(inners).enter().append('g')
 													.attr('class', 'inner_node');
+
+										var minY = d3.min(inners, $P.getter('y'));
+
+										gGroup.append('text')
+											.attr('class', 'inner_node')
+											.attr('id', 'pathwayTitleLabel')
+											.attr('transform',
+														'translate(' + (rect_width / 2 - 10) + ', ' + (rect_height * 0.75 + minY - 10) + ')')
+											.attr('text-anchor', 'middle')
+											.style('font-size', rect_height + 1)
+											.style('font-weight', 'bold')
+											.text('Top Level Pathways:');
 
 										inodeText = inodeText.append('text')
 											.attr('id', function (d) {
@@ -917,6 +947,7 @@
 												return d.name;
 											})
 											.each(function (d) {
+												console.log(d.x, d.y);
 												d.bx = this.getBBox().x;
 												d.by = this.getBBox().y;
 												d.bwidth = this.getBBox().width;
@@ -989,6 +1020,10 @@
 										function mouseOutText(d) {
 											d3.select(_this.parent.svg.element).select('#' + 'titleLink' + d.id).attr('stroke-width', '1px');
 										}
+
+										gGroup.selectAll('.inner_node')
+											.style('opacity', function(d, i) {return 'title' === self.displayMode ? 1 : 0;});
+
 									}
 
 									function mouseovered(d) {
@@ -999,54 +1034,47 @@
 
 										link
 											.classed('link--target', function (l) {
-												if (l.target === d) return l.source.source = true;
-											})
+												if (l.target === d) {return l.source.source = true;}
+												return null;})
 											.classed('link--source', function (l) {
-												if (l.source === d) return l.target.target = true;
-											})
-											.filter(function (l) {
-												return l.target === d || l.source === d;
-											})
-											.each(function () {
-												this.parentNode.appendChild(this);
-											});
+												if (l.source === d) {return l.target.target = true;}
+												return null;})
+											.filter(function (l) {return l.target === d || l.source === d;})
+											.each(function () {this.parentNode.appendChild(this);});
 
 										node
 											.classed('node--target', function (n) {
-												return n.target;
-											})
+												return n.target;})
 											.classed('node--source', function (n) {
-												return n.source;
-											});
+												return n.source;});
 									}
 
 									function mouseouted(d) {
 										link
 											.classed('link--target', false)
 											.classed('link--source', false);
-
 										node
 											.classed('node--target', false)
-											.classed('node--source', false);
-									}
+											.classed('node--source', false);}
 
 									function rightClick(d, i) {
-										var datum, table;
+										var selection, datum, table;
 										if (d3.event.defaultPrevented) {return;}
 
-										datum = d3.select(this).datum(),
+										selection = d3.select(this);
+										datum = selection.datum();
 										table = new $P.Table({
 											dbId: datum.dbId,
 											name: datum.name,
 											experimentType: self.parent.experimentType,
 											sourceRing: self,
 											w: 400, h: 400});
-
 										bubble.parent.add(table);
+
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
-													d3ring: self,
+													d3ring: _this,
 													datum: d3.select(this).datum()}),
 												target: new $P.BubbleLink.End({object: table})
 											}));
@@ -1084,7 +1112,7 @@
 											ringBubble.preHierarchical = self.parent.preHierarchical + '->' + self.parent.id;}
 										else {
 											ringBubble.preHierarchical +=  _this.parent.id;}
-										ringBubble.expressionLabel=_this.parent.expressionLabel;
+										ringBubble.expressionLabel = _this.parent.expressionLabel;
 
 										self.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
@@ -1101,20 +1129,14 @@
 											ringBubble.minRatio = _this.parent.minRatio;
 											ringBubble.maxRatio = _this.parent.maxRatio;
 											ringBubble.crossTalkLevel = _this.parent.crossTalkLevel;
-											ringBubble.file = _this.parent.file;
-											ringBubble.operateText = _this.parent.operateText;
-											ringBubble.upLabel = _this.parent.upLabel;
-											ringBubble.downLabel = _this.parent.downLabel;}
+											ringBubble.file = _this.parent.file;}
 										if (self.customExpression) {
 											d3.select(ringBubble.svg.element).selectAll('.symbol').remove();
 											ringBubble.svg.customExpression = _this.customExpression;
 											ringBubble.minRatio = _this.parent.minRatio;
 											ringBubble.maxRatio = _this.parent.maxRatio;
 											ringBubble.crossTalkLevel = _this.parent.crossTalkLevel;
-											ringBubble.file = _this.parent.file;
-											ringBubble.operateText = _this.parent.operateText;
-											ringBubble.upLabel = _this.parent.upLabel;
-											ringBubble.downLabel = _this.parent.downLabel;}
+											ringBubble.file = _this.parent.file;}
 										d3.event.preventDefault();
 									}
 								});
@@ -1279,11 +1301,7 @@
 								var BarHeight = scaleHeight + scaleMargin.top + scaleMargin.bottom;
 
 								var sectionHeight = 20;
-								var uplabel = _this.parent.upLabel;
-								var downlabel = _this.parent.downLabel;
-								if (uplabel == '') {uplabel = 'Up expressed';}
-								if (downlabel == '') {downlabel = 'Down expressed';}
-								var texts = [downlabel, uplabel];     //'Down expressed', 'Up expressed'
+								var texts = ['Down Expressed', 'Up Expressed'];
 								var expressedColors=['#0f0','#f00'];
 								var newData = [];
 								for (var i = 0; i < 2; ++i) {
@@ -1409,10 +1427,11 @@
 		},
 		{
 			get x() {
-				return this.ring.x + this.ring.w * 0.5 + this.ring.zoomTranslate[0]
-					+ this.datum.outsideEdge.x * this.ring.zoomScale;},
+				var x = this.ring.centerX + this.ring.zoomTranslate[0]
+							+ this.datum.outsideEdge.x * this.ring.zoomScale;
+				return x;},
 			get y() {
-				return this.ring.y + this.ring.h * 0.5 + this.ring.zoomTranslate[1]
+				return this.ring.centerY + this.ring.zoomTranslate[1]
 					+ this.datum.outsideEdge.y * this.ring.zoomScale;}
 		});
 
