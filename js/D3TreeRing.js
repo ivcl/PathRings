@@ -571,6 +571,9 @@
 
 									if (self.customExpression) {
 										var maxExpressions = Math.max(maxUp, maxDown);
+										self.expressionLegend.select('#gauge-end-text')
+											.text(maxExpressions);
+
 										// Compute lengths.
 										nodes.forEach(function(d, i) {
 											d.thickness = Math.min(d.theta * d.radius, Math.floor(self.maxLevel * 2));
@@ -918,6 +921,7 @@
 										var titleLink = gGroup.append('g').attr('class', 'links').selectAll('.titleLink');
 										var inodeRect = inode.data(inners).enter().append('g')
 													.attr('class', 'inner_node');
+										self.inodeRect = inodeRect;
 										var inodeText = inode.data(inners).enter().append('g')
 													.attr('class', 'inner_node');
 
@@ -956,6 +960,8 @@
 											.on('mouseout', mouseOutText);
 
 										inodeRect = inodeRect.append('rect')
+											.attr('id', function(d) {
+												return 'textbkg' + d.id;})
 											.attr('x', function (d) {
 												return d.bx;
 											})
@@ -1012,12 +1018,14 @@
 											.attr('stroke-width', '1px')
 											.style('opacity', function(d, i) {return 'title' === self.displayMode ? 1 : 0;});
 
-										function mouserOverText(d) {
+										function mouserOverText(d, i) {
 											d3.select(_this.parent.svg.element).select('#' + 'titleLink' + d.id).attr('stroke-width', '5px');
+											d3.select(self.inodeRect[0][i]).select('rect').attr('fill', '#bb3');
 										}
 
-										function mouseOutText(d) {
+										function mouseOutText(d, i) {
 											d3.select(_this.parent.svg.element).select('#' + 'titleLink' + d.id).attr('stroke-width', '1px');
+											d3.select(self.inodeRect[0][i]).selectAll('rect').attr('fill', '#e5f5f9');
 										}
 
 										gGroup.selectAll('.inner_node')
@@ -1293,6 +1301,7 @@
 							}
 							else
 							{
+								/*
 								var scaleMargin = {top: 5, right: 5, bottom: 5, left: 5},
 										scaleWidth = 30 - scaleMargin.left - scaleMargin.right,
 										scaleHeight = 170 - scaleMargin.top - scaleMargin.bottom;
@@ -1342,6 +1351,67 @@
 									.text(function (d, i) {
 										return d.text;
 									});
+								 */
+
+								self.expressionLegend = self.mainSvg.append('g')
+									.attr('class', 'expressionLegend')
+									.attr('transform', 'translate(' + (self.w * 0.5 - 70) + ',' + (self.h * -0.5 + 20) + ')');
+								var legend = self.expressionLegend;
+								legend.append('text')
+									.attr('font-size', 12)
+									.text('Expressed Genes: ');
+								legend.append('rect')
+									.attr('y', 5)
+									.attr('width', 8)
+									.attr('height', 8)
+									.attr('fill', '#f00');
+								legend.append('text')
+									.attr('font-size', 12)
+									.text('Up')
+									.attr('x', 10)
+									.attr('y', 13);
+								legend.append('rect')
+									.attr('x', 28)
+									.attr('y', 5)
+									.attr('width', 8)
+									.attr('height', 8)
+									.attr('fill', '#0f0');
+								legend.append('text')
+									.attr('font-size', 12)
+									.text('Down')
+									.attr('x', 38)
+									.attr('y', 13);
+								legend.append('rect')
+									.attr('id', 'gauge')
+									.attr('fill', '#f00')
+									.attr('x', 1)
+									.attr('y', 18)
+									.attr('width', self.barLength)
+									.attr('height', 6);
+								legend.append('rect')
+									.attr('x', 0.5)
+									.attr('y', 14)
+									.attr('width', 1)
+									.attr('height', 14)
+									.attr('fill', 'black');
+								legend.append('text')
+									.attr('x', -2.5)
+									.attr('y', 38)
+									.attr('font-size', 12)
+									.text(0);
+								legend.append('rect')
+									.attr('id', 'gauge-end-mark')
+									.attr('x', 0)
+									.attr('y', 14)
+									.attr('width', 1)
+									.attr('height', 14)
+									.attr('fill', 'black');
+								legend.append('text')
+									.attr('id', 'gauge-end-text')
+									.attr('x', -2.5)
+									.attr('y', 38)
+									.attr('font-size', 12)
+									.text(0);
 							}
 						}
 
@@ -1408,6 +1478,10 @@
 			set barLength(value) {
 				if (this._barLength === value) {return;}
 				this._barLength = value;
+				if (this.expressionLegend) {
+					this.expressionLegend.select('#gauge').attr('width', value);
+					this.expressionLegend.select('#gauge-end-mark').attr('x', 0.5 + value);
+					this.expressionLegend.select('#gauge-end-text').attr('x', 0.5 + value);}
 				if (this.crosstalkLegend) {
 					this.crosstalkLegend.select('#exponent-bar').attr('width', value);
 					this.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + value);
