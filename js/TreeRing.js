@@ -21,9 +21,6 @@
 			this._maxRatio = config.maxRatio || 1.5;
 			this._crosstalkLevel = config.crosstalkLevel || 1;
 			this._file = config.file || null;
-			this._operateText = config.operateText || null;
-			this._upLabel = config.upLabel || 'Up Expressed';
-			this._downLabel = config.downLabel || 'Down Expressed';
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
 
@@ -54,6 +51,9 @@
 				if (this.menu) {this.menu.crosstalkLevel = value;}
 				if (this.svg) {this.createSvg({changeLevel: true, crossTalkLevel: value});}
 				this.displayMode = 'crosstalk';},
+			get maxCrosstalkLevel() {
+				if (this.svg) {return this.svg.maxLevel;}
+				return 6;},
 			get species() {return this._species;},
 			set species(value) {
 				if (value === this._species) {return;}
@@ -66,15 +66,6 @@
 				this._file = value;
 				if (this.menu) {
 					$(this.menu.element).find('#file').val(this._file);}},
-			get operateText() {return this._operateText;},
-			set operateText(value) {
-				this._operateText = value;
-				if (this.menu) {
-					$(this.menu.element).find('#operateText').val(this._operateText);}},
-			get upLabel() {return this._upLabel;},
-			set upLabel(value) {this._upLabel = value;},
-			get downLabel() {return this._downLabel;},
-			set downLabel(value) {this._downLabel = value;},
 			get displayMode() {return this._displayMode;},
 			set displayMode(value) {
 				if (this._displayMode == value) {return;}
@@ -97,6 +88,7 @@
 					dataType: this.dataType,
 					selectedData: this.selectedData,
 					name: this.dataName});
+				console.log(this.selectedData);
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
 				actual_config.x += 8;
 				actual_config.y += 8;
@@ -166,35 +158,19 @@
 			tmp +=   '</select>';
 			tmp +=   '<br/>';
 
-			tmp +=   '<form>';
-			tmp +=     '<input id="showTitle" type="radio" name="displayMode" value="title" checked  style="vertical-align: middle;"/>';
-			tmp	+=     '<label for="showTitle" style="font-size: 85%;">  Pathway Names</label><br/>';
-			tmp +=     '<input id="showCrosstalk" type="radio" name="displayMode" value="crosstalk" style="vertical-align: middle;"/>';
-			tmp	+=     '<label for="showCrosstalk" style="font-size: 85%;">  Crosstalk</label><br/>';
-			tmp +=   '</form>';
-
-
-			/*
-			tmp +=   '<ul';
-			tmp +=       'style="list-style: none; width: 100%; margin: 5px 0;">';
-			tmp +=     '<li id="titleMode" style="display: block; border: 1px solid #000;">';
-			tmp +=       '<a id="titleModeA" href="#" style="text-decoration: none; font-size: 90%;">';
-			tmp +=         'Pathway Names';
-			tmp +=       '</a>';
-			tmp +=     '</li>';
-			tmp +=     '<li id="crosstalkMode" style="display: block; border: 1px solid #000;">';
-			tmp +=       '<a id="crosstalkModeA" href="#" style="text-decoration: none; font-size: 90%;">';
-			tmp +=         'Crosstalk';
-			tmp +=       '</a>';
-			tmp +=     '</li>';
-			tmp +=   '</ul>';
-			*/
-
-			tmp +=   '<div style="display: inline; font-size: 90%; margin: auto 5% auto 18px;">Level:</div>';
-			tmp +=   '<select id="crosstalkLevel" style="display: inline-block;">';
-			for (i = 1; i <= 6; ++i) {
+			tmp +=   '<div>';
+			tmp +=     '<form style="display: inline-block;">';
+			tmp +=       '<input id="showTitle" type="radio" name="displayMode" value="title" checked  style="vertical-align: middle;"/>';
+			tmp	+=       '<label for="showTitle" style="font-size: 85%;">  Pathway Names</label><br/>';
+			tmp +=       '<input id="showCrosstalk" type="radio" name="displayMode" value="crosstalk" style="vertical-align: middle;"/>';
+			tmp	+=       '<label for="showCrosstalk" style="font-size: 85%;">  Crosstalk</label><br/>';
+			tmp +=     '</form>';
+			tmp +=     '<div style="display: inline; font-size: 90%; margin: auto 5% auto 18px;">Level:</div>';
+			tmp +=     '<select id="crosstalkLevel" style="display: inline-block;">';
+			for (i = 1; i <= config.parent.maxCrosstalkLevel; ++i) {
 				tmp += '<option value="' + i + '">' + i + '</option>';}
-			tmp +=   '</select>';
+			tmp +=     '</select>';
+			tmp +=   '</div>';
 			tmp += '</div>';
 
 			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 4%;">';
@@ -207,8 +183,11 @@
 
 			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px;">Expression:</label>';
 			tmp +=   '<input type="file" id="expressionFile" style="float: right; display: inline; margin: 2px 0;"/>';
-			tmp +=   '<div id="expressionRatios" style="font-size: 100%; margin: 10px 0;"/>';
+			tmp +=   '<div>';
+			tmp +=     '<div id="expressionRatios" style="range: false; font-size: 70%; margin: 10px 0;"/>';
+			tmp +=   '</div>';
 			tmp +=   '<br style="display: table; clear: both;"/>';
+
 			tmp +=   '<div style="font-size: 80%; display: inline; margin: auto 0;">log₂(ratio): </div>';
 			tmp +=   '<input id="minRatio" type="text" style="font-size: 70%; display: inline-block; width: 20%; text-align: center;"/>';
 			tmp +=   '<div style="font-size: 80%; display: inline;  margin: auto 0;"> … </div>';
@@ -228,16 +207,10 @@
 			bubble = this.parent;
 			element = $(this.element);
 
-			/*
-			element.find('#titleModeA').click(function() {
-				bubble.displayMode = 'title';});
-			element.find('#crosstalkModeA').click(function() {
-				bubble.displayMode = 'crosstalk';});
-			 */
-
 			element.find('input[type=radio][name=displayMode]').change(function() {
 				bubble.displayMode = this.value;});
 
+			this.species = bubble.species;
 			element.find('#selectSpecies').change(function() {
 				bubble.species = $(this).val();});
 
@@ -263,28 +236,6 @@
 				bubble.maxRatio = $(this).val();});
 			element.find('#updateRatio').on('click', function() {menu.loadExpression();});
 
-
-			/*
-			 element.find('#loadOrth').on('click', function () {
-				var loader;
-				bubble.selectedFile = element.find('#customOrth').get(0).files[0];
-				if (!bubble.selectedFile) {
-					alert('Please select your Ortholog data file!');
-					return;}
-
-				loader = new $P.FileLoader('Ortholog');
-				loader.load(bubble.selectedFile, function (orthologData) {
-					var config = {
-						customOrtholog: orthologData,
-						filename: './data/Ortholog/' + bubble.file + '/' + bubble.dataName + '.json',
-						changeLevel: true};
-					bubble.orthologLabel = 'Input ortholog file: ' + bubble.selectedFile.name;
-					bubble.file = 'Default';
-					bubble.experimentType = "Ortholog";
-					bubble.createSvg(config);});
-			});
-			 */
-
 			this.updateRatio();
 			this.updateDisplayMode(bubble.displayMode);
 			this.onPositionChanged();},
@@ -292,21 +243,6 @@
 			updateDisplayMode: function(displayMode) {
 				var element = $(this.element),
 						button;
-
-				/*
-				// Pressed.
-				element.find('title' === displayMode ? '#titleMode' : '#crosstalkMode').css({
-					background: '#ff8'});
-				element.find('title' === displayMode ? '#titleModeA' : '#crosstalkModeA').css({
-					color: '#000'});
-
-				// Unpressed.
-				element.find('title' === displayMode ? '#crosstalkMode' : '#titleMode').css({
-					background: this.element.style.background});
-				element.find('title' === displayMode ? '#crosstalkModeA' : '#titleModeA').css({
-					color: '#444'});
-				 */
-
 				element.find('#showTitle').prop('checked', 'title' === displayMode);
 				element.find('#showCrosstalk').prop('checked', 'crosstalk' === displayMode);
 			},

@@ -208,66 +208,15 @@
 										console.error('It does not have cross-talking pathways!');}
 
 									else {
-										treeRing = self.parent.sourceRing;
+										treeRing = self.parent.sourceRing.parent;
 
 										var index = self._symbols2Pathways.symbols.indexOf(d.symbol);
 										if (index !== -1) {
 											var pathways = self._symbols2Pathways.pathwayNames[index];
-											for(var i=0; i<pathways.length; ++i)
-											{
-												pathways[i] = $.trim(pathways[i]);
-											}
-											var currentId=self.parent.name.split('_')[0];
-											var currentBubble=null;
-											for(var i=0; i<scene.children.length; ++i)
-											{
-												if(scene.children[i].id == currentId)
-												{
-													currentBubble = scene.children[i];
-													break;
-												}
-											}
-											if(!currentBubble)
-												return;
-											container.remove();
-											var tmp = '';
-											tmp += '<div id= svg' + currentId + ' style="position: absolute; width:' + (currentBubble.w + 5) + 'px; ' + 'height:' + (currentBubble.h + 5) + 'px; left:' +
-												(currentBubble.x + currentBubble.w / 2 - (Math.min(currentBubble.w, currentBubble.h) - 30) / 2 - 10) + ' px; top:' +
-												(currentBubble.y + currentBubble.h / 2 - (Math.min(currentBubble.w, currentBubble.h) - 30) / 2 + 50 - 15) + 'px;"> </div>';
-											$('#bubble').append($(tmp));
-
-											var defaultRadius = currentBubble.treeRing.defaultRadius;
-											var name = currentBubble.treeRing.name;
-											var file = currentBubble.treeRing.file;
-											var customOrtholog = currentBubble.treeRing.customOrtholog;
-											var selectedData = currentBubble.treeRing.selectedData;
-											var showCrossTalkLevel = currentBubble.treeRing.showCrossTalkLevel;
-											var ChangeLevel = currentBubble.treeRing.ChangeLevel;
-											var customExpression = currentBubble.treeRing.customExpression;
-											var expressionScaleMax = currentBubble.treeRing.expressionScaleMax;
-											//                                    var highLightPathways = currentBubble.treeRing.highLightPathways;
-											var highLightPathways = pathways;
-											var _crossTalkSymbols = currentBubble.treeRing._crossTalkSymbols;
-											var _rateLimitSymbols = currentBubble.treeRing._rateLimitSymbols;
-											var experiment_Type = currentBubble.experiment_Type;
-											//                                    highLightPathways = highLightPathways.concat(pathways);
-											currentBubble.treeRing = null;
-											currentBubble.treeRing = new PATHBUBBLES.D3TreeRing(currentBubble, Math.min(currentBubble.w, currentBubble.h) - 30, currentBubble.dataType, currentBubble.dataName);
-											currentBubble.treeRing.defaultRadius = defaultRadius;
-											currentBubble.treeRing.name = name;
-											currentBubble.treeRing.file = file;
-											currentBubble.treeRing.customOrtholog = customOrtholog;
-											currentBubble.treeRing.customExpression = customExpression;
-											currentBubble.treeRing.selectedData = selectedData;
-											currentBubble.treeRing.showCrossTalkLevel = showCrossTalkLevel;
-											currentBubble.treeRing.ChangeLevel = ChangeLevel;
-											currentBubble.treeRing.expressionScaleMax = expressionScaleMax;
-											currentBubble.treeRing._crossTalkSymbols = _crossTalkSymbols;
-											currentBubble.treeRing._rateLimitSymbols = _rateLimitSymbols;
-											currentBubble.treeRing.experiment_Type = experiment_Type;
-
-											currentBubble.treeRing.highLightPathways = highLightPathways;
-											currentBubble.treeRing.init();
+											for(i = 0; i < pathways.length; ++i) {
+												pathways[i] = $.trim(pathways[i]);}
+											if (!treeRing) {return;}
+											treeRing.createSvg({highlightPathways: pathways});
 										}
 									}
 								}

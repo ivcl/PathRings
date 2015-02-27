@@ -15,7 +15,7 @@
 			this.dataType = config.dataType;
 			this.file = config.filename || ('./data/Ortholog/' + this.dataType + '/' + this.name + '.json');
 			this.customOrtholog = config.customOrtholog;
-			this.selectedData = null;
+			this.selectedData = config.selectedData || null;
 			this.showCrossTalkLevel = config.crosstalkLevel || this.parent.crosstalkLevel || 1;
 			this.changeLevel = config.changeLevel || false;
 			this.customExpression = config.customExpression || null;
@@ -75,24 +75,12 @@
 				var mainSvg = svg.append('g').attr('class','mainSVG')
 							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
 				this.mainSvg = mainSvg;
-				svg.append('text')
-					.style('font-size', 15)
-					.attr('transform', 'translate(' + (width - 75) + ',' + 12 + ')')
-					.style('text-anchor', 'middle')
-					.text(_this.parent.experimentType);
-				svg.append('text')
-					.style('font-size', 15)
-					.attr('transform', 'translate(' + (0) + ',' + 12 + ')')
-					.style('text-anchor', 'start')
-					.style('fill', '#f0f')
-					.text(_this.parent.preHierarchical);
-
 				svg.append('text').attr('class','ortholog')
 					.style('font-size', 12)
 					.attr('transform', 'translate(' + 10 + ',' + 27 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
-					.text(_this.parent.species);
+					.text(self.parent.species);
 
 				svg.append('text').attr('class','expression')
 					.style('font-size', 12)
@@ -188,14 +176,17 @@
 									force.addPathway(d.dbId, d.name, bubble.strokeStyle);
 									force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
 
-								color = force.getPathwayColor(d.dbId);
-								$P.state.scene.addLink(
-									new $P.BubbleLink({
-										fillStyle: color,
-										source: new $P.D3TreeRing.BubbleLinkEnd({
-											d3ring: self,
-											datum: d3.select(this).datum()}),
-										target: new $P.BubbleLink.End({object: force})}));
+								else {force = null;}
+
+								if (force) {
+									color = force.getPathwayColor(d.dbId);
+									$P.state.scene.addLink(
+										new $P.BubbleLink({
+											fillStyle: color,
+											source: new $P.D3TreeRing.BubbleLinkEnd({
+												d3ring: self,
+												datum: d3.select(this).datum()}),
+											target: new $P.BubbleLink.End({object: force})}));}
 
 								d3.select(this).attr('transform', null);
 								_this.dragging = null;
@@ -1047,7 +1038,7 @@
 										table = new $P.Table({
 											dbId: datum.dbId,
 											name: datum.name,
-											experimentType: this.parent.experimentType,
+											experimentType: self.parent.experimentType,
 											sourceRing: self,
 											w: 400, h: 400});
 
