@@ -23,7 +23,7 @@
 			this._file = config.file || null;
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
-			config.name = config.name || this._species;
+			config.name = config.name || (config.selectedData && config.dataName) || this._species;
 			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
 			$P.BubbleBase.call(this, config);},
