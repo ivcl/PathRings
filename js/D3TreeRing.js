@@ -947,7 +947,6 @@
 												return d.name;
 											})
 											.each(function (d) {
-												console.log(d.x, d.y);
 												d.bx = this.getBBox().x;
 												d.by = this.getBBox().y;
 												d.bwidth = this.getBBox().width;

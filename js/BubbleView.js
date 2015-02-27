@@ -12,28 +12,22 @@
 	 * @constructor
 	 */
 	$P.BubbleView = $P.defineClass(
-		$P.Object2D,
-		function  BubbleView(config) {
-			PATHBUBBLES.Object2D.call(this);
+		$P.Shape.Rectangle,
+		function BubbleView(config) {
+			config.w = config.w || 500;
+			config.h = config.h || 500;
+
+			$P.Shape.Rectangle.call(this, config);
 			this.type = 'BubbleView';
 			this.compartments = [];
-			// Fixed size 500x500
-			this.x = config.x || 0;
-			this.y = config.y || 0;
-			this.h = config.h || 500;
-			this.w = config.w || 500;
 			this.inset = config.inset || 10;
-			this.shape = new $P.Shape.Rectangle(
-				this, this.x, this.y, this.w, this.h, null, null, 10, config.cornerRadius);
-			this.childrenClippingShape = this.shape.clone();
+			this.childrenClippingShape = this;
 			// Convenience list of all nodes.
 			this.nodes = [];
 			// Arrow is divide into three type, Black Arrow, Green Activation, Yellow Inhibition.
 			this.arrows = [];
 			this.inhibitions = [];
-			this.activations = [];
-
-			if (config.parent) {config.parent.add(this, config.position);}},
+			this.activations = [];},
 		{
 			setCenterCoordinate: function (x, y, w, h) {
 				var oldx = x;
@@ -44,8 +38,6 @@
 				var OffsetY = -oldy;
 				this.x = this.parent.w / 2 - this.w / 2;
 				this.y = this.parent.h / 2 - this.h / 2;
-				this.offsetX = 0;
-				this.offsetY = 0;
 
 				for (var i = 0; i < this.compartments.length; ++i) {
 					this.compartments[i].x += OffsetX;
@@ -53,28 +45,10 @@
 				}
 				return;
 			},
-			setOffset: function () {
-				if (this.parent !== undefined) {
-					this.childrenClippingShape.w = this.parent.shape.w - this.inset * 2;
-					this.childrenClippingShape.h = this.parent.shape.h - this.inset * 2;
-				}
-				else {
-					this.offsetX = 0;
-					this.offsetY = 0;
-				}
-				this.shape.offsetX = this.offsetX;
-				this.shape.offsetY = this.offsetY;
-				this.shape.x = this.x;
-				this.shape.y = this.y;
-				this.shape.w = this.w;
-				this.shape.h = this.h;
-			},
-
 			// Want to draw children in specific order, so override directly.
 			draw: function (ctx, scale) {
-				this.setOffset();
-
 				ctx.save();
+				//ctx.translate(this.x, this.y);
 				this.childrenClippingShape.doPath(ctx, scale);
 				ctx.clip();
 
