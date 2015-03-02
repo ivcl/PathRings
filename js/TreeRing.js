@@ -49,7 +49,7 @@
 				this._crosstalkLevel = value;
 				if (this.menu) {this.menu.crosstalkLevel = value;}
 				this.displayMode = 'crosstalk';
-				if (this.svg) {this.createSvg({changeLevel: true, crossTalkLevel: value});}},
+				if (this.svg) {this.createSvg({crossTalkLevel: value});}},
 			get maxCrosstalkLevel() {
 				if (this.svg) {return this.svg.maxLevel;}
 				return 6;},
@@ -81,13 +81,21 @@
 			 * @param {object} [config] - optional config paremeters.
 			 */
 			createSvg: function(config) {
+				var self = this;
+				console.log('Creating D3 Tree Ring', config);
+				// Propagate changes.
+				this.links.forEach(function(link) {
+					var target = link.target.object;
+					if (target === self) {return;}
+					if (target instanceof $P.TreeRing) {target.createSvg(config);}});
+
 				var actual_config = Object.create(this.svg || null); // Automatically use parameters from existing svg.
 				if (!this.dataType) {this.dataType = 'Gallus';}
 				$.extend(actual_config, {
 					defaultRadius: Math.min(this.w, this.h) - 30,
-					dataType: this.dataType,
-					selectedData: this.selectedData,
-					name: this.dataName});
+					dataType: this.dataType});
+				if (this.dataName) {actual_config.name = this.dataName;}
+				if (this.selectedData) {actual_config.selectedData = this.selectedData;}
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
 				actual_config.x += 8;
 				actual_config.y += 8;
@@ -146,7 +154,7 @@
 			var i, tmp, menu, bubble, element;
 			tmp = '';
 
-			tmp += '<div style="border: 1px solid #bbb; margin: 1px 1px 0; padding: 4%;">';
+			tmp += '<div style="border: 1px solid #bbb; margin: 1px 1px 0; padding: 2%;">';
 			tmp +=   '<div style="width: 100%; font-weight: bold;">Display</div>';
 			tmp +=   '<hr/>';
 
@@ -164,7 +172,7 @@
 			tmp +=       '<input id="showCrosstalk" type="radio" name="displayMode" value="crosstalk" style="vertical-align: middle;"/>';
 			tmp	+=       '<label for="showCrosstalk" style="font-size: 85%;">  Crosstalk</label><br/>';
 			tmp +=     '</form>';
-			tmp +=     '<div style="display: inline; font-size: 90%; margin: auto 5% auto 18px;">Level:</div>';
+			tmp +=     '<div style="display: inline; font-size: 90%; margin: auto;">Level: </div>';
 			tmp +=     '<select id="crosstalkLevel" style="display: inline-block;">';
 			for (i = 1; i <= config.parent.maxCrosstalkLevel; ++i) {
 				tmp += '<option value="' + i + '">' + i + '</option>';}
@@ -172,16 +180,21 @@
 			tmp +=   '</div>';
 			tmp += '</div>';
 
-			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 4%;">';
+			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 2%;">';
 			tmp +=   '<div style="width: 100%; font-weight: bold;">Load File</div>';
 			tmp +=   '<hr/>';
 
-			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 0; display: inline-block; vertical-align: -4px; float: left;">Ortholog:</label>';
-			tmp +=   '<input type="file" id="orthologFile" style="display: inline; float: right; margin: 2px 0;"/>';
+			tmp +=   '<div style="display: inline; float: left; width: 90px; overflow: hidden; margin: 2px;">';
+			tmp +=     '<input type="file" id="orthologFile" style="width: 300px;"/>';
+			tmp +=   '</div>';
+			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 0; display: inline-block; vertical-align: -4px; float: left;">Ortholog</label>';
 			tmp +=   '<br style="display: table; clear: both;"/>';
 
-			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px;">Expression:</label>';
-			tmp +=   '<input type="file" id="expressionFile" style="float: right; display: inline; margin: 2px 0;"/>';
+			tmp +=   '<div style="display: inline; float: left; width: 90px; overflow: hidden; margin: 2px;">';
+			tmp +=     '<input type="file" id="expressionFile" style="width: 300px;"/>';
+			tmp +=   '</div>';
+			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px; float: left;">Expression</label>';
+			tmp +=   '<br style="display: table; clear: both;"/>';
 			tmp +=   '<div>';
 			tmp +=     '<div id="expressionRatios" style="range: false; font-size: 70%; margin: 10px 0;"/>';
 			tmp +=   '</div>';
@@ -195,11 +208,11 @@
 			tmp +=   '<br/>';
 
 			tmp += '</div>';
-			tmp += '<br style="display: table; clear: both;"/>';
+			//tmp += '<br style="display: table; clear: both;"/>';
 
 			config.menuString = tmp;
-			config.w = 350;
-			config.h = null;
+			config.w = 260;
+			//config.h = 300;
 			$P.HtmlMenu.call(this, config);
 
 			menu = this;
@@ -275,8 +288,7 @@
 				loader.load(bubble.selectedFile, function (orthologData) {
 					var config = {
 						customOrtholog: orthologData,
-						filename: './data/Ortholog/' + bubble.species + '/' + bubble.dataName + '.json',
-						changeLevel: true};
+						dataType: bubble.species};
 					bubble.orthologLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Ortholog';
 					bubble.createSvg(config);});},
@@ -299,9 +311,8 @@
 				loader = new $P.FileLoader('Expression');
 				loader.load(bubble.selectedFile, function (expressionData) {
 					var config = {
-						filename: './data/Ortholog/' + bubble.species + '/' + bubble.dataName + '.json',
-						customExpression: expressionData,
-						changeLevel: true};
+						dataType: bubble.species,
+						customExpression: expressionData};
 					bubble.expressionLabel =  bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);});},

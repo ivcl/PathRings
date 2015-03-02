@@ -15,9 +15,8 @@
 			this.dataType = config.dataType;
 			this.file = config.filename || ('./data/Ortholog/' + this.dataType + '/' + this.name + '.json');
 			this.customOrtholog = config.customOrtholog;
-			this.selectedData = config.selectedData || null;
+			this.selectedData = config.selectedData || this.parent.selectedData || null;
 			this.showCrossTalkLevel = config.crosstalkLevel || this.parent.crosstalkLevel || 1;
-			this.changeLevel = config.changeLevel || false;
 			this.customExpression = config.customExpression || null;
 			this.maxLevel = 6;
 			this.crosstalkSymbols = config.crosstalkSymbols || {};
@@ -26,6 +25,8 @@
 			this.displayMode = config.displayMode || this.parent.displayMode || 'title';
 			this.initialized = false;
 			this.nodeTextSize = config.nodeTextSize || 10;
+			this.barLength = 60;
+			console.log('Constructor Done');
 		},
 		{
 			onPositionChanged: function(dx, dy, dw, dh) {
@@ -79,22 +80,22 @@
 							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
 				this.mainSvg = mainSvg;
 				svg.append('text').attr('class','species')
-					.style('font-size', 12)
-					.attr('transform', 'translate(' + 10 + ',' + 27 + ')')
+					.style('font-size', 14)
+					.attr('transform', 'translate(' + 10 + ',' + 18 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
 					.text(self.parent.species);
 
 				svg.append('text').attr('class','ortholog')
-					.style('font-size', 12)
-					.attr('transform', 'translate(' + 10 + ',' + 43 + ')')
+					.style('font-size', 14)
+					.attr('transform', 'translate(' + 10 + ',' + 32 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
 					.text(self.parent.orthologLabel);
 
 				svg.append('text').attr('class','expression')
-					.style('font-size', 12)
-					.attr('transform', 'translate(' + 10 + ',' + 59 + ')')
+					.style('font-size', 14)
+					.attr('transform', 'translate(' + 10 + ',' + 46 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', '#666')
 					.text(self.parent.expressionLabel);
@@ -230,10 +231,13 @@
 								return [node.x, node.y];
 							});
 
+				console.log('Calling Loads');
 				d3.json('./data/crossTalkings.json', function (error, crossTalkSymbols) {
+					console.log('Load 1 Done');
 					_this.crosstalkSymbols = crossTalkSymbols;
 
 					d3.text('./data/ratelimitsymbol.txt', function (error, rateLimitSymbols) {
+						console.log('Load 2 Done');
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
 						//                var rateLimit_Symbols = rateLimitSymbols.split('\n');
@@ -259,10 +263,10 @@
 							//                        if (_this.selectedData == null) {  //12/10/2014
 
 							d3.json(_this.file, function (error, root) {
+								console.log('Load 3 Done');
 								var node, count, minRatio, maxRatio;
 								nodeData = partition.nodes(root);
 								node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
-								self.barLength = y(node.y + node.dy) - y(node.y);
 								self.maxLevel = d3.max(nodeData, function (d) {return d.depth;});
 
 								if (self.customOrtholog) {
@@ -318,22 +322,19 @@
 									var highlightNode = gGroup.append('g').selectAll('.highlightNode');
 									var barCounts;
 									var expressionColors = [
-										'#08519c',
-										'#3182bd',
-										'#6baed6',
-										'#bdd7e7',
-										'#eff3ff',
-										'#fdd0a2',//red
-										'#fdae6b',
-										'#fd8d3c',
-										'#e6550d',
-										'#a63603'
-									];
+										'#089c51',
+										'#31bd82',
+										'#6bd6ae',
+										'#bde7d7',
+										'#effff3',
+										'#fda2d0',
+										'#fd6bae',
+										'#fd3c8d',
+										'#e60d55',
+										'#a60336'];
 									processTextLinks(nodeData);
-									if(_this.highlightPathways.length)
-									{
-										processHighlightNode(nodeData);
-									}
+									if(_this.highlightPathways.length) {
+										processHighlightNode(nodeData);}
 									if (self.customExpression) {
 										var max;
 										for (var i = 0; i < nodeData.length; ++i) {
@@ -382,7 +383,7 @@
 										for (var i = 0, j = 0; i < scaleHeight && j <= max; i += sectionHeight, j += max / 9) {
 											var obj = {};
 											obj.data = 9-i;
-											obj.text = parseFloat(j).toFixed(3);
+											obj.text = (parseFloat(j) * 100).toFixed(0) + '%';
 											newData.push(obj);
 										}
 
@@ -391,9 +392,18 @@
 
 										var colorScaleBar = svg.append('g')
 													.attr('class', 'colorScaleBar')
-													.attr('transform', 'translate(' + (width - 3 * scaleWidth) + ',' + ( height  ) + ')')
+													.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 40) + ')')
 													.attr('width', BarWidth)
 													.attr('height', BarHeight);
+
+										svg.append('text')
+											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 182) + ')')
+											.attr('font-size', 12)
+											.text('Percent');
+										svg.append('text')
+											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 168) + ')')
+											.attr('font-size', 12)
+											.text('Expressed');
 
 										colorScaleBar.selectAll('rect')
 											.data(newData)
@@ -426,10 +436,8 @@
 
 
 									function getExpressionColor(ratio) {
-										if (max == 0)
-											return expressionColors[0];
-										return expressionColors[Math.floor(9 * ratio / max)];
-									}
+										if (max == 0) {return expressionColors[0];}
+										return expressionColors[Math.floor(9 * ratio / max)];}
 
 									pathG = pathG.data(nodeData)
 										.enter().append('path')
@@ -598,7 +606,7 @@
 											.attr('height', function(d) {return d.thickness * 0.5;})
 											.attr('width', function(d) {
 												if (isNaN(d.up)) {return 0;}
-												if (0 === maxExpressions) {return self.barLength;}
+												if (0 === maxExpressions) {return 0;}
 												return self.barLength * d.up / maxExpressions;})
 											.attr('fill', '#0d0')
 											.attr('stroke-width', 0.3)
@@ -610,7 +618,7 @@
 											.attr('height', function(d) {return d.thickness * 0.5;})
 											.attr('width', function(d) {
 												if (isNaN(d.down)) {return 0;}
-												if (0 === maxExpressions) {return self.barLength;}
+												if (0 === maxExpressions) {return 0;}
 												return self.barLength * d.down / maxExpressions;})
 											.attr('fill', '#d00')
 											.attr('stroke-width', 0.3)
@@ -625,7 +633,7 @@
 											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
 											if (d.exponent < 0) {d.exponent = 0;}
 											d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
-										var maxExponent = Math.floor(Math.log(maxSymbol) / Math.log(10)),
+										var maxExponent = Math.floor(Math.log(maxSymbol || 1) / Math.log(10)),
 												exponentLength = self.barLength * maxExponent / 9;
 										self.crosstalkLegend.select('#exponent-bar').attr('width', exponentLength);
 										self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + exponentLength);
@@ -786,7 +794,7 @@
 
 										table = new $P.Table({
 											dbId: d3datum.dbId,
-											namu: d3datum.name,
+											name: d3datum.name,
 											data: upData.concat(downData),
 											experimentType: self.parent.experimentType,
 											crosstalking: self.crosstalkSymbols,
@@ -892,7 +900,7 @@
 											if (nodes[i].depth == 1) {
 												data.push(nodes[i]);}}
 
-										var rect_height = 7.5;
+										var rect_height = 7.2;
 										var rect_width = 20;
 										var inner_y = d3.scale.linear()
 													.domain([0, data.length])
@@ -1092,10 +1100,8 @@
 										var ringBubble;
 										if (d3.event.defaultPrevented) {return;} // Don't trigger on drag.
 
-										if (i == 0 || d.children == undefined)
-											return;
-										if (d.children.length == 0)
-											return;
+										if (i == 0 || d.children == undefined) {return;}
+										if (d.children.length == 0) {return;}
 										var selectedData = d3.select(this).datum();//Clone Select data
 										var name = selectedData.name;
 										//var dataType = $(_this.parent.menu.element).find('#file').val();
@@ -1114,13 +1120,6 @@
 											dataName: selectedData.name,
 											dataType: dataType,
 											selectedData: selectedData});
-										ringBubble.experimentType = self.parent.experimentType;
-										if(_this.parent.preHierarchical!=='') {
-											ringBubble.preHierarchical = self.parent.preHierarchical + '->' + self.parent.id;}
-										else {
-											ringBubble.preHierarchical +=  _this.parent.id;}
-										ringBubble.expressionLabel = _this.parent.expressionLabel;
-
 										self.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
@@ -1129,7 +1128,6 @@
 													datum: d3.select(this).datum()}),
 												target: new $P.BubbleLink.End({object: ringBubble})
 											}));
-
 
 										if (self.customOrtholog) {
 											ringBubble.svg.customOrtholog = _this.customOrtholog;
@@ -1167,6 +1165,12 @@
 									obj.text = texts[i];
 									obj.color = colors[i];
 									newData.push(obj);}
+
+								svg.append('text')
+									.attr('transform', 'translate(' + (self.w - 100) + ', ' + 18 + ')')
+									.style('font-size', 14)
+									.style('fill', '#666')
+									.text('Ortholog');
 
 								var colorScaleBar = svg.append('g')
 											.attr('class', 'colorScaleBar')
@@ -1244,14 +1248,14 @@
 									.attr('fill', 'black');
 								_this.crosstalkLegend.append('rect')
 									.attr('id', 'digit-end-mark')
-									.attr('x', 54.5)
+									.attr('x', 54.5 + self.barLength)
 									.attr('y', 14)
 									.attr('width', 1)
 									.attr('height', 10)
 									.attr('fill', 'black');
 								_this.crosstalkLegend.append('text')
 									.attr('id', 'digit-end-label')
-									.attr('x', 51.5)
+									.attr('x', 51.5 + self.barLength)
 									.attr('y', 32)
 									.attr('font-size', 10)
 									.text('9')
@@ -1284,14 +1288,14 @@
 									.attr('fill', 'black');
 								legend.append('rect')
 									.attr('id', 'exponent-end-mark')
-									.attr('x', 54.5)
+									.attr('x', 54.5 + self.barLength)
 									.attr('y', 34)
 									.attr('width', 1)
 									.attr('height', 10)
 									.attr('fill', 'black');
 								legend.append('text')
 									.attr('id', 'exponent-end-label')
-									.attr('x', 51.5)
+									.attr('x', 51.5 + self.barLength)
 									.attr('y', 52)
 									.attr('font-size', 10)
 									.text('9')
@@ -1299,60 +1303,7 @@
 
 
 							}
-							else
-							{
-								/*
-								var scaleMargin = {top: 5, right: 5, bottom: 5, left: 5},
-										scaleWidth = 30 - scaleMargin.left - scaleMargin.right,
-										scaleHeight = 170 - scaleMargin.top - scaleMargin.bottom;
-								var BarWidth = scaleWidth + scaleMargin.left + scaleMargin.right;
-								var BarHeight = scaleHeight + scaleMargin.top + scaleMargin.bottom;
-
-								var sectionHeight = 20;
-								var texts = ['Down Expressed', 'Up Expressed'];
-								var expressedColors=['#0f0','#f00'];
-								var newData = [];
-								for (var i = 0; i < 2; ++i) {
-									var obj = {};
-									obj.data = (1 - i) * 20;
-									obj.text = texts[i];
-									obj.color = expressedColors[i];
-									newData.push(obj);}
-								var colorScaleBar = svg.append('g')
-											.attr('class', 'colorScaleBar')
-											.attr('transform', 'translate(' + (width - 30 - 80) + ',' + (  25  ) + ')')
-											.attr('width', BarWidth)
-											.attr('height', BarHeight);
-
-								colorScaleBar.selectAll('rect')
-									.data(newData)
-									.enter()
-									.append('rect')
-									.attr('x', 0)
-									.attr('y', function (d) {
-										return d.data;
-									})
-									.attr('height', 20)
-									.attr('width', 10)
-
-									.attr('fill', function (d) {
-										return d.color;
-									});
-								colorScaleBar.selectAll('text')
-									.data(newData)
-									.enter().append('text')
-									.style('font-size', 10)
-									.attr('transform', 'translate(' + (scaleWidth / 2 + 15) + ',' + (sectionHeight) + ')')
-									.attr('y', function (d, i) {
-										return d.data - 5;
-									})
-									.attr('dy', '.1em')
-									.style('text-anchor', 'start')
-									.text(function (d, i) {
-										return d.text;
-									});
-								 */
-
+							else {
 								self.expressionLegend = self.mainSvg.append('g')
 									.attr('class', 'expressionLegend')
 									.attr('transform', 'translate(' + (self.w * 0.5 - 70) + ',' + (self.h * -0.5 + 20) + ')');
@@ -1364,7 +1315,7 @@
 									.attr('y', 5)
 									.attr('width', 8)
 									.attr('height', 8)
-									.attr('fill', '#f00');
+									.attr('fill', '#0f0');
 								legend.append('text')
 									.attr('font-size', 12)
 									.text('Up')
@@ -1375,7 +1326,7 @@
 									.attr('y', 5)
 									.attr('width', 8)
 									.attr('height', 8)
-									.attr('fill', '#0f0');
+									.attr('fill', '#f00');
 								legend.append('text')
 									.attr('font-size', 12)
 									.text('Down')
@@ -1401,14 +1352,14 @@
 									.text(0);
 								legend.append('rect')
 									.attr('id', 'gauge-end-mark')
-									.attr('x', 0)
+									.attr('x', self.barLength)
 									.attr('y', 14)
 									.attr('width', 1)
 									.attr('height', 14)
 									.attr('fill', 'black');
 								legend.append('text')
 									.attr('id', 'gauge-end-text')
-									.attr('x', -2.5)
+									.attr('x', self.barLength - 2.5)
 									.attr('y', 38)
 									.attr('font-size', 12)
 									.text(0);

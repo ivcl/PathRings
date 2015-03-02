@@ -12,6 +12,7 @@
 	var interection = null;
 	var showLinks = true;
 	$(document).ready(function () {
+		console.log('ready');
 		$P.state = new $P.Context();
 
 		var canvas = $('#bgCanvas')[0];
@@ -60,6 +61,7 @@
 		}
 
 		render();
+		console.log('rendered');
 
 		$P.state.scene.add(new $P.TreeRing({
 			x: 50, y: 50, w: 750, h: 700,

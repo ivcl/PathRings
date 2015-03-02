@@ -106,6 +106,7 @@
 						var thead = container.select('thead').selectAll('th')
 									.data(d3.keys(jsonData[0]))
 									.enter().append('th')
+									.style('padding', '5px')
 									.text(function (d) {
 										if(d=='ratio')
 											return 'ratio(log2 based)';
@@ -159,7 +160,9 @@
 						var cellTd = td.enter().append('td');
 						updateRect();
 
-						cellTd.append('text').attr('class', function (d) {
+						cellTd.append('text')
+							.style('margin', '0px 5px')
+							.attr('class', function (d) {
 							if (d.key == 'symbol')
 								return 'hyper';
 							else  if(d.key == 'crossTalk')
