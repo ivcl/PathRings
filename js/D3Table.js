@@ -20,6 +20,7 @@
 			this.data = config.data || null;
 			if (!config.dbId) {console.error('ERROR: D3Table(', config, ') dbId is not defined.');}
 			this.dbId = config.dbId;
+			this.querySymbol = config.querySymbol;
 			this.keepQuery = undefined === config.keepQuery ? true : config.keepQuery;
 			this._symbols2Pathways = this.parent.crosstalking;},
 		{
@@ -51,38 +52,17 @@
 				var format = d3.time.format('%a %b %d %Y');
 				refreshTable(null);
 				function refreshTable(sortOn){
+					console.log('refresh', self.data, self.querySymbol);
 
-					if (self.data == null) {
-						if (self.querySymbol !== null && self.querySymbol !== undefined) {
-							$.ajax({
-								url: './php/querybyPathwayIdSymbol.php',
+					if (!self.data) {
+						if (self.querySymbol) {
+							$P.getJSON('./php/querybyPathwayIdSymbol.php', function (jsonData) {operation(jsonData);}, {
 								type: 'GET',
-								data: {
-									pathwaydbId: self.dbId,
-									symbol: self.querySymbol
-								},
-								dataType: 'json',
-								success: function (jsonData) {
-									operation(jsonData);
-								},
-								error: function () {
-								}
-							});
-						}
+								data: {pathwaydbId: self.dbId, symbol: self.querySymbol}});}
 						else {
-							$.ajax({
-								url: './php/querybyPathwayId.php',
+							$P.getJSON('./php/querybyPathwayId.php', function (jsonData) {operation(jsonData);}, {
 								type: 'GET',
-								data: {
-									pathwaydbId: self.dbId
-								},
-								dataType: 'json',
-								success: function (jsonData) {
-									operation(jsonData);
-								},
-								error: function () {
-								}
-							});
+								data: {pathwaydbId: self.dbId}});
 						}
 					}
 					else {
@@ -90,10 +70,12 @@
 					}
 					function operation(jsonData) {
 
-						var oldH = self.h;
-						self.h = Math.min(jsonData.length *12+100, self.maxHeight);
-						self.parent.h += self.h - oldH;
-						height = self.h;
+						self.data = jsonData;
+
+						var oldH = self.h,
+								newH = Math.min(jsonData.length*12+100, self.maxHeight);
+						self.parent.translate(0, 0, 0, newH - oldH);
+						self.h = newH;
 
 						container
 							.style('width', width )
@@ -229,26 +211,12 @@
 								{
 									if (d.value == String(d.value))
 									{
-										var bubble = new PATHBUBBLES.Table(self.parent.x + self.parent.offsetX + self.parent.w - 40, self.parent.y + self.parent.offsetY, 530, 500, null, null, {dbId: self.dbId, symbol: d.value});
-										bubble.name = self.parent.name + '-' + d.value;
-										bubble.addHtml();
-										bubble.table.keepQuery = false;
-										bubble.menuOperation();
-
-										scene.addObject(bubble);
-										if (!self.parent.GROUP) {
-											var group = new PATHBUBBLES.Groups();
-											group.objectAddToGroup(self.parent);
-											group.objectAddToGroup(bubble);
-											scene.addObject(group);
-										}
-										else {
-											if (self.parent.parent instanceof  PATHBUBBLES.Groups) {
-												self.parent.parent.objectAddToGroup(self.parent);
-												self.parent.parent.objectAddToGroup(bubble);
-												scene.addObject(self.parent.parent);
-											}
-										}
+										var table = new $P.Table({
+											keepQuery: false,
+											queryObject: {dbId: self.dbId, symbol: d.value},
+											name: self.parent.name + '-' + d.value
+										});
+										self.parent.parent.add(table);
 										d3.event.preventDefault();
 									}
 									d3.event.preventDefault();

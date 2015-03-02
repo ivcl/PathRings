@@ -23,6 +23,7 @@
 			this.preHierarchical = config.preHierarchical || '';
 			this.keepQuery = config.keepQuery || null;
 			this.sourceRing = config.sourceRing || null;
+			console.log(this);
 
 			$.extend(config, {closeMenu: true, groupMenu: true});
 			$P.BubbleBase.call(this, config);
@@ -43,15 +44,6 @@
 					this.svg = new $P.D3Table(config);
 					this.svg.init();}
 
-			},
-			drawSVG: function() {
-				var space = 6; // leave 6 space for tree ring
-				$('#svg' + this.id).css({
-					width: this.w - 15 - space,
-					height: this.h - 20 - space,
-					left: this.x + space / 2 + 5,
-					top: this.y + this.h / 2 - this.table.h / 2 + 50 + 10 + space / 2 + 5
-				});
 			}
 		});
 })(PATHBUBBLES);

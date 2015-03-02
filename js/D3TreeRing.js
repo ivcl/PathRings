@@ -232,7 +232,7 @@
 							});
 
 				console.log('Calling Loads');
-				d3.json('./data/crossTalkings.json', function (error, crossTalkSymbols) {
+				$P.getJSON('./data/crossTalkings.json', function (crossTalkSymbols, error) {
 					console.log('Load 1 Done');
 					_this.crosstalkSymbols = crossTalkSymbols;
 
@@ -262,7 +262,7 @@
 							var maxRatio;
 							//                        if (_this.selectedData == null) {  //12/10/2014
 
-							d3.json(_this.file, function (error, root) {
+							$P.getJSON(_this.file, function (root, error) {
 								console.log('Load 3 Done');
 								var node, count, minRatio, maxRatio;
 								nodeData = partition.nodes(root);
@@ -308,7 +308,7 @@
 							function operation(nodeData) {
 								var crossTalkFileName = './data/crossTalkLevel/' + nodeData[0].name + '.json';
 								self.parent.crossTalkLevel = self.showCrossTalkLevel;
-								d3.json(crossTalkFileName, function (error, crossTalkData) {
+								$P.getJSON(crossTalkFileName, function (crossTalkData, error) {
 									var classes = crossTalkData[self.showCrossTalkLevel - 1];
 									gGroup = mainSvg.append('g').attr('class', 'graphGroup');
 									self.graphGroup = gGroup;
@@ -397,11 +397,11 @@
 													.attr('height', BarHeight);
 
 										svg.append('text')
-											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 182) + ')')
+											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 192) + ')')
 											.attr('font-size', 12)
 											.text('Percent');
 										svg.append('text')
-											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 168) + ')')
+											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 178) + ')')
 											.attr('font-size', 12)
 											.text('Expressed');
 

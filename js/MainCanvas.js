@@ -184,7 +184,7 @@ $P.MainCanvas = $P.defineClass(
 				this.canvas.defaultMode();
 				$P.state.scene.enableHtmlPointerEvents();
 				this.selected.highlighted = false;
-				this.selected.receiveEvent({name: 'dragFinish', x: x - $P.state.scrollX, y: y});}
+				this.selected.receiveEvent({name: 'dragFinish', x: x + $P.state.scrollX, y: y});}
 		});
 
 	$P.MainCanvas.Mode.Resize = $P.defineClass(

@@ -60,7 +60,7 @@
 				if (!this.selectedData) {this.title.name = value;}
 				if (this.menu) {this.menu.species = value;}
 				if (this.svg) {
-					this.createSvg({filename: './data/Ortholog/' + value + '/' + this.dataName + '.json'});}},
+					this.createSvg({dataType: value});}},
 			get file() {return this._file;},
 			set file(value) {
 				this._file = value;

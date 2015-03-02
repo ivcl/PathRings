@@ -82,7 +82,7 @@
 					$P.state.scene.add(bubble);}
 				else if (key === 'Open_TreeRing') {
 					$P.state.scene.add(new $P.TreeRing({
-						x: mousePosX + $P.state.scrollX, y: mousePosY, w: 700, h: 700,
+						x: mousePosX + $P.state.scrollX, y: mousePosY, w: 750, h: 700,
 						dataName: 'human'}));}
 				else if ('open_force' == key) {
 					bubble = new $P.Force({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});

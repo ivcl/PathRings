@@ -132,3 +132,23 @@ $P.listIntersection = function(listA, listB, compare) {
 		if (listB.some(function(b) {return compare(a, b);})) {
 			list.push(a);}});
 	return list;};
+
+/**
+ * Get a json file.
+ */
+$P.getJSON = function(url, callback, params) {
+	var call, config;
+	config = {
+		dataType: 'json',
+		url: url,
+		error: function(jqXHR, textStatus, errorThrown) {
+			if ('timeout' === textStatus) {
+				call();}
+			else {
+				console.error(errorThrown);
+				console.error(textStatus);}},
+		timeout: 5000,
+		success: callback};
+	if (params) {config = $.extend(config, params);}
+	call = function call() {$.ajax(config);};
+	call();};
