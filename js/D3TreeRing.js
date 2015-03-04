@@ -26,6 +26,24 @@
 			this.initialized = false;
 			this.nodeTextSize = config.nodeTextSize || 10;
 			this.barLength = 60;
+			this.color = {
+				crosstalkExponent: '#f44',
+				crosstalkDigit: '#fca',
+				upExponent: '#4f4',
+				upDigit: '#9f9',
+				downExponent: '#44f',
+				downDigit: '#99f'};
+			this.expressionColors = [
+				'#089c51',
+				'#31bd82',
+				'#6bd6ae',
+				'#bde7d7',
+				'#effff3',
+				'#fda2d0',
+				'#fd6bae',
+				'#fd3c8d',
+				'#e60d55',
+				'#a60336'];
 			console.log('Constructor Done');
 		},
 		{
@@ -53,6 +71,137 @@
 					this._displayMode = 'crosstalk';}},
 			get centerX() {return this.x + this.radius;},
 			get centerY() {return this.y + this.radius;},
+			/**
+			 * Adds a legend to the display.
+			 * @param {Array} config.entries - the entries to add.
+			 */
+			addLegend: function(config) {
+				var fontsize = config.fontsize || 14,
+						x = config.x || 0,
+						y = config.y || 0,
+						legend;
+				legend = config.base.append('g')
+					.attr('class', 'legend')
+					.attr('id', config.id)
+					.attr('transform', 'translate(' + x + ', ' + y + ')');
+				legend.append('text')
+					.attr('font-size', fontsize)
+					.text(config.title);
+				legend.selectAll('.color').data(config.entries).enter().append('rect')
+					.attr('class', 'color')
+					.attr('x', 2)
+					.attr('y', function(entry, i) {return 5 + (i + (config.colorOffsetY || 0)) * (fontsize + 2);})
+					.attr('width', fontsize - 2).attr('height', fontsize - 2)
+					.attr('fill', function(entry) {return entry.color || 'none';})
+					.attr('stroke', function(entry) {return entry.stroke || 'black';});
+				legend.selectAll('.text').data(config.entries).enter().append('text')
+					.attr('class', 'text')
+					.attr('x', 20)
+					.attr('y', function(entry, i) {return fontsize + 2  + (i + (config.textOffsetY || 0)) * (fontsize + 2);})
+					.attr('font-size', fontsize)
+					.text(function(entry) {return entry.text;});
+				return legend;},
+			addMarkedBar: function(config) {
+				var x = config.x || 0,
+						y = config.y || 0,
+						fontsize = config.fontsize || 14,
+						height = config.height || 8,
+						labelWidth = config.labelWidth || 66,
+						size = config.size || 50,
+						bar = config.base.append('g')
+							.attr('class', 'markedBar')
+							.attr('id', config.id)
+							.attr('transform', 'translate(' + x + ', ' + y + ')');
+				bar.append('text')
+					.attr('font-size', fontsize)
+					.attr('y', fontsize * 1.25)
+					.text(config.label);
+				bar.append('rect')
+					.attr('fill', config.fill)
+					.attr('stroke', 'black')
+					.attr('stroke-width', 0.3)
+					.attr('x', labelWidth)
+					.attr('y', 5 - height / 2)
+					.attr('height', height)
+					.attr('width', size);
+				bar.append('rect')
+					.attr('fill', 'black')
+					.attr('x', labelWidth - 1)
+					.attr('y', 0)
+					.attr('height', 10)
+					.attr('width', 2);
+				bar.append('rect')
+					.attr('fill', 'black')
+					.attr('x', labelWidth - 1 + size)
+					.attr('y', 0)
+					.attr('height', 10)
+					.attr('width', 2);
+				bar.append('text')
+					.attr('font-size', fontsize)
+					.attr('x', labelWidth - 4.5)
+					.attr('y', fontsize * 1.5 + 2)
+					.text(config.leftLabel || '0');
+				bar.append('text')
+					.attr('font-size', fontsize)
+					.attr('x', labelWidth - 4.5 + size)
+					.attr('y', fontsize * 1.5 + 2)
+					.text(config.rightLabel || '9');
+
+				return bar;},
+			addSplitLegend: function(config) {
+				var legend,
+						entrySpacing = 62,
+						entryStart = 0,
+						fontsize = config.fontsize || 14,
+						self = this;
+				legend = config.base.append('g')
+					.attr('class', 'legend')
+					.attr('id', config.id)
+					.attr('transform', 'translate(' + config.x + ', ' + config.y + ')');
+				if (config.title) {
+					legend.append('text')
+						.attr('font-size', fontsize)
+						.text(config.title);
+					legend.append('rect')
+						.attr('y', fontsize / 2)
+						.attr('width', 140)
+						.attr('height', 1)
+						.attr('fill', 'black');
+					entryStart = fontsize + 6;}
+				config.entries.forEach(function(entry, i) {
+					legend.append('text')
+						.attr('font-size', fontsize)
+						.attr('y', entryStart + i * entrySpacing)
+						.text(entry.name);
+					self.addMarkedBar({
+						base: legend,
+						y: entryStart + i * entrySpacing + 4,
+						height: 3,
+						size: entry.size,
+						fill: entry.digitColor,
+						fontsize: fontsize,
+						label: 'Digit:'});
+					self.addMarkedBar({
+						base: legend,
+						y: entryStart + i * entrySpacing + 4 + fontsize * 2,
+						height: 7,
+						size: entry.size,
+						fill: entry.exponentColor,
+						fontsize: fontsize,
+						label: 'Exponent:'});
+					legend.append('rect')
+						.attr('y', entryStart + (1 + i) * entrySpacing - fontsize)
+						.attr('width', 140)
+						.attr('height', 1)
+						.attr('fill', 'black');});
+
+				legend.append('text')
+					.attr('font-size', fontsize)
+					.attr('y', 4 + entryStart + config.entries.length * entrySpacing)
+					.text('is Digit × 10 ^ Exponent');
+
+
+				return legend;},
 			init: function () {
 				var self = this,
 						bubble = this.parent;
@@ -74,31 +223,31 @@
 							.attr('width', this.w)
 							.attr('height', this.h);
 				this.svg = svg;
-				var colors = ['#fdae6b', '#a1d99b', '#bcbddc'];
+				self.orthologColors = ['#fdae6b', '#a1d99b', '#bcbddc'];
 				var gGroup;
 				var mainSvg = svg.append('g').attr('class','mainSVG')
 							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
 				this.mainSvg = mainSvg;
 				svg.append('text').attr('class','species')
-					.style('font-size', 14)
+					.style('font-size', 12)
 					.attr('transform', 'translate(' + 10 + ',' + 18 + ')')
 					.style('text-anchor', 'start')
-					.style('fill', '#666')
-					.text(self.parent.species);
+					.style('fill', 'black')
+					.text('Human vs. ' + self.parent.species);
 
 				svg.append('text').attr('class','ortholog')
-					.style('font-size', 14)
-					.attr('transform', 'translate(' + 10 + ',' + 32 + ')')
+					.style('font-size', 12)
+					.attr('transform', 'translate(' + 10 + ',' + 30 + ')')
 					.style('text-anchor', 'start')
-					.style('fill', '#666')
-					.text(self.parent.orthologLabel);
+					.style('fill', function() {return self.parent.orthologLabel ? 'black' : '#888';})
+					.text(self.parent.orthologLabel || 'No ortholog file loaded.');
 
 				svg.append('text').attr('class','expression')
-					.style('font-size', 14)
-					.attr('transform', 'translate(' + 10 + ',' + 46 + ')')
+					.style('font-size', 12)
+					.attr('transform', 'translate(' + 10 + ',' + 42 + ')')
 					.style('text-anchor', 'start')
-					.style('fill', '#666')
-					.text(self.parent.expressionLabel);
+					.style('fill', function() {return self.parent.expressionLabel ? 'black' : '#888';})
+					.text(self.parent.expressionLabel || 'No expression file loaded.');
 
 				this.zoomListener = d3.behavior.zoom()
 					.translate([0, 0])
@@ -321,17 +470,7 @@
 									var downNode= gGroup.append('g').selectAll('.downNode');
 									var highlightNode = gGroup.append('g').selectAll('.highlightNode');
 									var barCounts;
-									var expressionColors = [
-										'#089c51',
-										'#31bd82',
-										'#6bd6ae',
-										'#bde7d7',
-										'#effff3',
-										'#fda2d0',
-										'#fd6bae',
-										'#fd3c8d',
-										'#e60d55',
-										'#a60336'];
+									var expressionColors = self.expressionColors;
 									processTextLinks(nodeData);
 									if(_this.highlightPathways.length) {
 										processHighlightNode(nodeData);}
@@ -371,73 +510,12 @@
 										//                                    }
 										//                                    else {
 										//                                    }
-
-										var divisions = 10;
-
-										var scaleMargin = {top: 5, right: 5, bottom: 5, left: 5},
-												scaleWidth = 30 - scaleMargin.left - scaleMargin.right,
-												scaleHeight = 170 - scaleMargin.top - scaleMargin.bottom;
-
-										var newData = [];
-										var sectionHeight = Math.floor(scaleHeight / divisions);
-										for (var i = 0, j = 0; i < scaleHeight && j <= max; i += sectionHeight, j += max / 9) {
-											var obj = {};
-											obj.data = 9-i;
-											obj.text = (parseFloat(j) * 100).toFixed(0) + '%';
-											newData.push(obj);
-										}
-
-										var BarWidth = scaleWidth + scaleMargin.left + scaleMargin.right;
-										var BarHeight = scaleHeight + scaleMargin.top + scaleMargin.bottom;
-
-										var colorScaleBar = svg.append('g')
-													.attr('class', 'colorScaleBar')
-													.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 40) + ')')
-													.attr('width', BarWidth)
-													.attr('height', BarHeight);
-
-										svg.append('text')
-											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 192) + ')')
-											.attr('font-size', 12)
-											.text('Percent');
-										svg.append('text')
-											.attr('transform', 'translate(' + (width - 0.5 * scaleWidth) + ',' + (height - 178) + ')')
-											.attr('font-size', 12)
-											.text('Expressed');
-
-										colorScaleBar.selectAll('rect')
-											.data(newData)
-											.enter()
-											.append('rect')
-											.attr('x', 0)
-											.attr('y', function (d) {
-												return d.data;
-											})
-											.attr('height', sectionHeight)
-											.attr('width', scaleWidth)
-											.attr('fill', function (d, i) {
-												return expressionColors[i];
-											});
-
-										colorScaleBar.selectAll('text')
-											.data(newData)
-											.enter().append('text')
-											.style('font-size', 10)
-											.attr('transform', 'translate(' + (scaleWidth / 2 + 15) + ',' + (sectionHeight) + ')')
-											.attr('y', function (d, i) {
-												return d.data - 5;
-											})
-											.attr('dy', '.1em')
-											.style('text-anchor', 'start')
-											.text(function (d, i) {
-												return d.text;
-											});
 									}
 
 
 									function getExpressionColor(ratio) {
-										if (max == 0) {return expressionColors[0];}
-										return expressionColors[Math.floor(9 * ratio / max)];}
+										if (max == 0) {return self.expressionColors[0];}
+										return self.expressionColors[Math.floor(9 * ratio / max)];}
 
 									pathG = pathG.data(nodeData)
 										.enter().append('path')
@@ -455,13 +533,13 @@
 													var gallusOrth = d.gallusOrth;
 												if (gallusOrth !== undefined) {
 													if (gallusOrth.type === 'Complete') {
-														return colors[0];
+														return self.orthologColors[0];
 													}
 													else if (gallusOrth.type === 'Part') {
-														return colors[1];
+														return self.orthologColors[1];
 													}
 													else if (gallusOrth.type === 'Empty') {
-														return colors[2];
+														return self.orthologColors[2];
 													}
 												}
 												else {
@@ -579,16 +657,17 @@
 
 									if (self.customExpression) {
 										var maxExpressions = Math.max(maxUp, maxDown);
-										self.expressionLegend.select('#gauge-end-text')
-											.text(maxExpressions);
+										//self.expressionLegend.select('#gauge-end-text')
+										//	.text(maxExpressions);
 
-										// Compute lengths.
 										nodes.forEach(function(d, i) {
 											d.thickness = Math.min(d.theta * d.radius, Math.floor(self.maxLevel * 2));
 											var up = d.expression.ups.length,
 													down = d.expression.downs.length;
-											d.up = up;
-											d.down = down;});
+											d.upExponent = Math.max(0, Math.floor(Math.log(up) / Math.log(10)));
+											d.upDigit = Math.floor(up / Math.pow(10, d.upExponent));
+											d.downExponent = Math.max(0, Math.floor(Math.log(down) / Math.log(10)));
+											d.downDigit = Math.floor(down / Math.pow(10, d.downExponent));});
 
 										var groupExpressionBars = self.graphGroup.append('g').attr('id', 'group-expression-bars');
 										var expressionBar = groupExpressionBars.selectAll('.expression-bar').data(nodes).enter()
@@ -600,27 +679,51 @@
 													.on('mouseout', mouseouted);
 										node = expressionBar;
 										expressionBar.append('rect')
-											.attr('class', 'up')
+											.attr('class', 'upExponent')
 											.attr('x', function(d) {return r(d.r);})
 											.attr('y', function(d) {return d.thickness * -0.5;})
 											.attr('height', function(d) {return d.thickness * 0.5;})
 											.attr('width', function(d) {
-												if (isNaN(d.up)) {return 0;}
+												if (isNaN(d.upExponent)) {return 0;}
 												if (0 === maxExpressions) {return 0;}
-												return self.barLength * d.up / maxExpressions;})
-											.attr('fill', '#0d0')
+												return self.barLength * d.upExponent / 9;})
+											.attr('fill', self.color.upExponent)
+											.attr('stroke-width', 0.3)
+											.attr('stroke', '#000');
+										expressionBar.append('rect')
+											.attr('class', 'upDigit')
+											.attr('x', function(d) {return r(d.r);})
+											.attr('y', function(d) {return d.thickness * -0.35;})
+											.attr('height', function(d) {return d.thickness * 0.2;})
+											.attr('width', function(d) {
+												if (isNaN(d.upDigit)) {return 0;}
+												if (0 === maxExpressions) {return 0;}
+												return self.barLength * d.upDigit / 9;})
+											.attr('fill', self.color.upDigit)
+											.attr('stroke-width', 0.3)
+											.attr('stroke', '#000');
+										expressionBar.append('rect')
+											.attr('class', 'downExponent')
+											.attr('x', function(d) {return r(d.r);})
+											.attr('y', function(d) {return 0;})
+											.attr('height', function(d) {return d.thickness * 0.5;})
+											.attr('width', function(d) {
+												if (isNaN(d.downExponent)) {return 0;}
+												if (0 === maxExpressions) {return 0;}
+												return self.barLength * d.downExponent / 9;})
+											.attr('fill', self.color.downExponent)
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');
 										expressionBar.append('rect')
 											.attr('class', 'down')
 											.attr('x', function(d) {return r(d.r);})
-											.attr('y', function(d) {return 0;})
-											.attr('height', function(d) {return d.thickness * 0.5;})
+											.attr('y', function(d) {return d.thickness * 0.15;})
+											.attr('height', function(d) {return d.thickness * 0.2;})
 											.attr('width', function(d) {
-												if (isNaN(d.down)) {return 0;}
+												if (isNaN(d.downDigit)) {return 0;}
 												if (0 === maxExpressions) {return 0;}
-												return self.barLength * d.down / maxExpressions;})
-											.attr('fill', '#d00')
+												return self.barLength * d.downDigit / 9;})
+											.attr('fill', self.color.downDigit)
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');}
 
@@ -633,13 +736,7 @@
 											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
 											if (d.exponent < 0) {d.exponent = 0;}
 											d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
-										var maxExponent = Math.floor(Math.log(maxSymbol || 1) / Math.log(10)),
-												exponentLength = self.barLength * maxExponent / 9;
-										self.crosstalkLegend.select('#exponent-bar').attr('width', exponentLength);
-										self.crosstalkLegend.select('#exponent-end-mark').attr('x', 54.5 + exponentLength);
-										self.crosstalkLegend.select('#exponent-end-label')
-											.attr('x', 51.5 + exponentLength)
-											.text(maxExponent);
+										var maxExponent = Math.floor(Math.log(maxSymbol || 1) / Math.log(10));
 										var groupCrosstalkBars = self.graphGroup.append('g').attr('id', 'group-crosstalk-bars');
 										var crosstalkBar = groupCrosstalkBars.selectAll('.crosstalk-bar').data(nodes).enter()
 													.append('g')
@@ -1150,220 +1247,65 @@
 
 							if (!_this.customExpression) {     //Color Bar for ortholog
 
-								var scaleMargin = {top: 5, right: 5, bottom: 5, left: 5},
-										scaleWidth = 30 - scaleMargin.left - scaleMargin.right,
-										scaleHeight = 170 - scaleMargin.top - scaleMargin.bottom;
-								var BarWidth = scaleWidth + scaleMargin.left + scaleMargin.right;
-								var BarHeight = scaleHeight + scaleMargin.top + scaleMargin.bottom;
+								var entries = [{text: 'Complete'}, {text: 'Partial'}, {text: 'Empty'}];
+								entries.forEach(function(entry, i) {entry.color = self.orthologColors[i];});
 
-								var sectionHeight = 20;
-								var texts = ['Complete', 'Partial', 'Empty'];
-								var newData = [];
-								for (var i = 0; i < 3; i++) {
-									var obj = {};
-									obj.data = i * 20;
-									obj.text = texts[i];
-									obj.color = colors[i];
-									newData.push(obj);}
+								self.crosstalkLegend = self.addSplitLegend({
+									base: self.mainSvg,
+									id: 'crosstalkLegend',
+									x: self.w * 0.5 - 80,
+									y: self.h * -0.5 + 10,
+									fontsize: 12,
+									entries: [{
+										name: 'Crosstalk Count:',
+										size: self.barLength,
+										exponentColor: self.color.crosstalkExponent,
+										digitColor: self.color.crosstalkDigit}]});
 
-								svg.append('text')
-									.attr('transform', 'translate(' + (self.w - 100) + ', ' + 18 + ')')
-									.style('font-size', 14)
-									.style('fill', '#666')
-									.text('Ortholog');
-
-								var colorScaleBar = svg.append('g')
-											.attr('class', 'colorScaleBar')
-											.attr('transform', 'translate(' + (_this.w - 100) + ',' + ( 25  ) + ')')
-											.attr('width', BarWidth)
-											.attr('height', BarHeight);
-
-								colorScaleBar.selectAll('rect')
-									.data(newData)
-									.enter()
-									.append('rect')
-									.attr('x', 0)
-									.attr('y', function (d) {
-										return d.data;
-									})
-									.attr('height', sectionHeight)
-									.attr('width', scaleWidth)
-
-									.attr('fill', function (d) {
-										return d.color;
-									});
-								colorScaleBar.selectAll('text')
-									.data(newData)
-									.enter().append('text')
-									.style('font-size', 10)
-									.attr('transform', 'translate(' + (scaleWidth / 2 + 15) + ',' + (sectionHeight) + ')')
-									.attr('y', function (d, i) {
-										return d.data - 5;
-									})
-									.attr('dy', '.1em')
-									.style('text-anchor', 'start')
-									.text(function (d, i) {
-										return d.text;
-									});
-
-								self.crosstalkLegend = self.mainSvg.append('g')
-									.attr('class', 'crosstalkLegend')
-									.attr('transform', 'translate(' + (self.w * 0.5 - 110) + ',' + (self.h * 0.5 - 80) + ')')
-									.attr('width', BarWidth)
-									.attr('height', 40);
-								var legend = self.crosstalkLegend;
-								legend.append('text')
-									.attr('font-size', 10)
-									.text('Crosstalk Count = ');
-								legend.append('text')
-									.attr('font-size', 10)
-									.attr('x', 10)
-									.attr('y', 10)
-									.text('Digit × 10 ^ Exponent');
-
-								_this.crosstalkLegend.append('text')
-									.attr('font-size', 10)
-									.attr('y', 22)
-									.text('Digit:');
-								_this.crosstalkLegend.append('rect')
-									.attr('id', 'digit-bar')
-									.attr('x', 55)
-									.attr('y', 16)
-									.attr('width', self.barLength)
-									.attr('height', 3)
-									.attr('fill', '#fca')
-									.attr('stroke', 'black')
-									.attr('stroke-width', 0.3);
-								_this.crosstalkLegend.append('rect')
-									.attr('x', 54.5)
-									.attr('y', 14)
-									.attr('width', 1)
-									.attr('height', 10)
-									.attr('fill', 'black');
-								_this.crosstalkLegend.append('text')
-									.attr('x', 51.5)
-									.attr('y', 32)
-									.attr('font-size', 10)
-									.text('0')
-									.attr('fill', 'black');
-								_this.crosstalkLegend.append('rect')
-									.attr('id', 'digit-end-mark')
-									.attr('x', 54.5 + self.barLength)
-									.attr('y', 14)
-									.attr('width', 1)
-									.attr('height', 10)
-									.attr('fill', 'black');
-								_this.crosstalkLegend.append('text')
-									.attr('id', 'digit-end-label')
-									.attr('x', 51.5 + self.barLength)
-									.attr('y', 32)
-									.attr('font-size', 10)
-									.text('9')
-									.attr('fill', 'black');
-
-								legend.append('text')
-									.attr('font-size', 10)
-									.attr('y', 42)
-									.text('Exponent:');
-								legend.append('rect')
-									.attr('id', 'exponent-bar')
-									.attr('x', 55)
-									.attr('y', 37)
-									.attr('width', self.barLength)
-									.attr('height', 6)
-									.attr('fill', '#f44')
-									.attr('stroke', 'black')
-									.attr('stroke-width', 0.3);
-								legend.append('rect')
-									.attr('x', 54.5)
-									.attr('y', 34)
-									.attr('width', 1)
-									.attr('height', 10)
-									.attr('fill', 'black');
-								legend.append('text')
-									.attr('x', 51.5)
-									.attr('y', 52)
-									.attr('font-size', 10)
-									.text('0')
-									.attr('fill', 'black');
-								legend.append('rect')
-									.attr('id', 'exponent-end-mark')
-									.attr('x', 54.5 + self.barLength)
-									.attr('y', 34)
-									.attr('width', 1)
-									.attr('height', 10)
-									.attr('fill', 'black');
-								legend.append('text')
-									.attr('id', 'exponent-end-label')
-									.attr('x', 51.5 + self.barLength)
-									.attr('y', 52)
-									.attr('font-size', 10)
-									.text('9')
-									.attr('fill', 'black');
-
-
-							}
+								self.orthologLegend = self.addLegend({
+									base: self.mainSvg,
+									id: 'orthologLegend',
+									x: self.w * 0.5 - 60,
+									y: self.h * 0.5 - 200,
+									fontsize: 14,
+									title: 'Ortholog:',
+									entries: entries});}
 							else {
-								self.expressionLegend = self.mainSvg.append('g')
-									.attr('class', 'expressionLegend')
-									.attr('transform', 'translate(' + (self.w * 0.5 - 70) + ',' + (self.h * -0.5 + 20) + ')');
-								var legend = self.expressionLegend;
-								legend.append('text')
-									.attr('font-size', 12)
-									.text('Expressed Genes: ');
-								legend.append('rect')
-									.attr('y', 5)
-									.attr('width', 8)
-									.attr('height', 8)
-									.attr('fill', '#0f0');
-								legend.append('text')
-									.attr('font-size', 12)
-									.text('Up')
-									.attr('x', 10)
-									.attr('y', 13);
-								legend.append('rect')
-									.attr('x', 28)
-									.attr('y', 5)
-									.attr('width', 8)
-									.attr('height', 8)
-									.attr('fill', '#f00');
-								legend.append('text')
-									.attr('font-size', 12)
-									.text('Down')
-									.attr('x', 38)
-									.attr('y', 13);
-								legend.append('rect')
-									.attr('id', 'gauge')
-									.attr('fill', '#f00')
-									.attr('x', 1)
-									.attr('y', 18)
-									.attr('width', self.barLength)
-									.attr('height', 6);
-								legend.append('rect')
-									.attr('x', 0.5)
-									.attr('y', 14)
-									.attr('width', 1)
-									.attr('height', 14)
-									.attr('fill', 'black');
-								legend.append('text')
-									.attr('x', -2.5)
-									.attr('y', 38)
-									.attr('font-size', 12)
-									.text(0);
-								legend.append('rect')
-									.attr('id', 'gauge-end-mark')
-									.attr('x', self.barLength)
-									.attr('y', 14)
-									.attr('width', 1)
-									.attr('height', 14)
-									.attr('fill', 'black');
-								legend.append('text')
-									.attr('id', 'gauge-end-text')
-									.attr('x', self.barLength - 2.5)
-									.attr('y', 38)
-									.attr('font-size', 12)
-									.text(0);
-							}
+								self.expressionLegend = self.addSplitLegend({
+									base: self.mainSvg,
+									id: 'expressionLegend',
+									x: self.w * 0.5 - 80,
+									y: self.h * -0.5 + 20,
+									fontsize: 12,
+									title: 'Expression:',
+									entries: [
+										{name: 'Up:',
+										 size: self.barLength,
+										 exponentColor: self.color.upExponent,
+										 digitColor: self.color.upDigit},
+										{name: 'Down:',
+										 size: self.barLength,
+										 exponentColor: self.color.downExponent,
+										 digitColor: self.color.downDigit}]});
+
+								entries = [];
+								for (i = 0; i < 11; ++i) {
+									entries.push({
+										color: self.expressionColors[i] || 'none',
+										text: '- ' + (i * 10) + '%',
+										stroke: 10 == i ? 'none' : 'black'
+									});
+								}
+								self.addLegend({
+									base: self.mainSvg,
+									id: 'expressionArcLegend',
+									fontsize: 12,
+									x: self.w * 0.5 - 60,
+									y: self.h * 0.5 - 200,
+									colorOffsetY: 0.5,
+									title: 'Expressed:',
+									entries: entries});}
+
 						}
 
 					});

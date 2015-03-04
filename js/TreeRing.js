@@ -23,7 +23,7 @@
 			this._file = config.file || null;
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
-			config.name = config.name || (config.selectedData && config.dataName) || this._species;
+			config.name = config.name || (config.selectedData && config.dataName) || ('Human vs. ' + this._species);
 			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
 			$P.BubbleBase.call(this, config);},
@@ -49,7 +49,7 @@
 				this._crosstalkLevel = value;
 				if (this.menu) {this.menu.crosstalkLevel = value;}
 				this.displayMode = 'crosstalk';
-				if (this.svg) {this.createSvg({crossTalkLevel: value});}},
+				if (this.svg) {this.createSvg({crossTalkLevel: value}, true);}},
 			get maxCrosstalkLevel() {
 				if (this.svg) {return this.svg.maxLevel;}
 				return 6;},
@@ -57,7 +57,7 @@
 			set species(value) {
 				if (value === this._species) {return;}
 				this._species = value;
-				if (!this.selectedData) {this.title.name = value;}
+				if (!this.selectedData) {this.title.name = 'Human vs. ' + value;}
 				if (this.menu) {this.menu.species = value;}
 				if (this.svg) {
 					this.createSvg({dataType: value});}},
@@ -80,14 +80,15 @@
 			 * (Re)creates the svg component.
 			 * @param {object} [config] - optional config paremeters.
 			 */
-			createSvg: function(config) {
+			createSvg: function(config, suppressPropogate) {
 				var self = this;
 				console.log('Creating D3 Tree Ring', config);
 				// Propagate changes.
-				this.links.forEach(function(link) {
-					var target = link.target.object;
-					if (target === self) {return;}
-					if (target instanceof $P.TreeRing) {target.createSvg(config);}});
+				if (!suppressPropogate) {
+					this.links.forEach(function(link) {
+						var target = link.target.object;
+						if (target === self) {return;}
+						if (target instanceof $P.TreeRing) {target.createSvg(config);}});}
 
 				var actual_config = Object.create(this.svg || null); // Automatically use parameters from existing svg.
 				if (!this.dataType) {this.dataType = 'Gallus';}
@@ -184,16 +185,16 @@
 			tmp +=   '<div style="width: 100%; font-weight: bold;">Load File</div>';
 			tmp +=   '<hr/>';
 
+			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 0; display: inline-block; vertical-align: -4px; float: left; width: 80px;">Ortholog:</label>';
 			tmp +=   '<div style="display: inline; float: left; width: 90px; overflow: hidden; margin: 2px;">';
 			tmp +=     '<input type="file" id="orthologFile" style="width: 300px;"/>';
 			tmp +=   '</div>';
-			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 0; display: inline-block; vertical-align: -4px; float: left;">Ortholog</label>';
 			tmp +=   '<br style="display: table; clear: both;"/>';
 
+			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px; float: left; width: 80px;">Expression:</label>';
 			tmp +=   '<div style="display: inline; float: left; width: 90px; overflow: hidden; margin: 2px;">';
 			tmp +=     '<input type="file" id="expressionFile" style="width: 300px;"/>';
 			tmp +=   '</div>';
-			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px; float: left;">Expression</label>';
 			tmp +=   '<br style="display: table; clear: both;"/>';
 			tmp +=   '<div>';
 			tmp +=     '<div id="expressionRatios" style="range: false; font-size: 70%; margin: 10px 0;"/>';

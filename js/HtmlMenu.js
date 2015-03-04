@@ -11,8 +11,8 @@ $P.HtmlMenu = $P.defineClass(
 	function HtmlMenu(config) {
 		var parent = config.parent,
 				menuString = config.menuString || parent.menuString || '';
-		config.x = parent.x + parent.w + parent.lineWidth * 0.6;
-		config.y = parent.y;
+		config.x = parent.x + parent.w;
+		config.y = parent.y - 12;
 		config.w = config.w;
 		config.h = config.h;
 		config = {objectConfig: config};
