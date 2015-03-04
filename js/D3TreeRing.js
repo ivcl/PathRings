@@ -1,6 +1,8 @@
 (function($P){
 	//'use strict';
 
+	var forceEnabled = false;
+
 	$P.D3TreeRing = $P.defineClass(
 		$P.HtmlObject,
 		function D3TreeRing(config) {
@@ -299,59 +301,61 @@
 						.times(y(datum.y + datum.dy * 0.8));
 					return arcReal(datum);};
 
-				var itemDrag = d3.behavior.drag()
-							.on('dragstart', function(d) {
-								_this.dragging = this;
-								_this.dragOffset = {x: 0, y: 0};
-								_this.dragLeft = d3.event.sourceEvent.which == 1;})
-							.on('drag', function(d) {
-								if (!_this.dragLeft) {return;}
-								_this.dragOffset.x += d3.event.dx;
-								_this.dragOffset.y += d3.event.dy;
-								_this.dragAbsolute = {x: d3.event.x, y: d3.event.y};
-								var dx = _this.dragOffset.x,
-										dy = _this.dragOffset.y;
-								d3.select(this).attr('transform', 'translate('+dx+','+dy+')');
-							})
-							.on('dragend', function(d) {
-								var force, x, y, expression, color;
+				var itemDrag;
+				if (forceEnabled) {
+					itemDrag = d3.behavior.drag()
+						.on('dragstart', function(d) {
+							_this.dragging = this;
+							_this.dragOffset = {x: 0, y: 0};
+							_this.dragLeft = d3.event.sourceEvent.which == 1;})
+						.on('drag', function(d) {
+							if (!_this.dragLeft) {return;}
+							_this.dragOffset.x += d3.event.dx;
+							_this.dragOffset.y += d3.event.dy;
+							_this.dragAbsolute = {x: d3.event.x, y: d3.event.y};
+							var dx = _this.dragOffset.x,
+									dy = _this.dragOffset.y;
+							d3.select(this).attr('transform', 'translate('+dx+','+dy+')');
+						})
+						.on('dragend', function(d) {
+							var force, x, y, expression, color;
 
-								if (!_this.dragLeft) {return;}
-								if (!_this.dragAbsolute) {return;}
+							if (!_this.dragLeft) {return;}
+							if (!_this.dragAbsolute) {return;}
 
-								x = _this.dragAbsolute.x + _this.parent.x + _this.parent.w * 0.5,
-								y = _this.dragAbsolute.y + _this.parent.y + _this.parent.h * 0.5;
+							x = _this.dragAbsolute.x + _this.parent.x + _this.parent.w * 0.5,
+							y = _this.dragAbsolute.y + _this.parent.y + _this.parent.h * 0.5;
 
-								force = $P.state.scene.sendEvent({name: 'reactionDrag', x: x, y: y});
+							force = $P.state.scene.sendEvent({name: 'reactionDrag', x: x, y: y});
 
-								// No object, so make a new force diagram.
-								if (!force) {
-									force = new $P.Force({x: x, y: y, w: 600, h: 600});
-									$P.state.scene.add(force);
-									force.addPathway(d.dbId, d.name, bubble.strokeStyle);
-									force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
+							// No object, so make a new force diagram.
+							if (!force) {
+								force = new $P.Force({x: x, y: y, w: 600, h: 600});
+								$P.state.scene.add(force);
+								force.addPathway(d.dbId, d.name, bubble.strokeStyle);
+								force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
 
-								// The object is a force, so add.
-								else if (force instanceof $P.Force) {
-									force.addPathway(d.dbId, d.name, bubble.strokeStyle);
-									force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
+							// The object is a force, so add.
+							else if (force instanceof $P.Force) {
+								force.addPathway(d.dbId, d.name, bubble.strokeStyle);
+								force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
 
-								else {force = null;}
+							else {force = null;}
 
-								if (force) {
-									color = force.getPathwayColor(d.dbId);
-									$P.state.scene.addLink(
-										new $P.BubbleLink({
-											fillStyle: color,
-											source: new $P.D3TreeRing.BubbleLinkEnd({
-												d3ring: self,
-												datum: d3.select(this).datum()}),
-											target: new $P.BubbleLink.End({object: force})}));}
+							if (force) {
+								color = force.getPathwayColor(d.dbId);
+								$P.state.scene.addLink(
+									new $P.BubbleLink({
+										fillStyle: color,
+										source: new $P.D3TreeRing.BubbleLinkEnd({
+											d3ring: self,
+											datum: d3.select(this).datum()}),
+										target: new $P.BubbleLink.End({object: force})}));}
 
-								d3.select(this).attr('transform', null);
-								_this.dragging = null;
-								_this.dragOffset = null;
-							});
+							d3.select(this).attr('transform', null);
+							_this.dragging = null;
+							_this.dragOffset = null;
+						});}
 
 				var tooltip = d3.select(this.parent.svg.element)
 							.append('div')
@@ -474,8 +478,8 @@
 									processTextLinks(nodeData);
 									if(_this.highlightPathways.length) {
 										processHighlightNode(nodeData);}
+									var max;
 									if (self.customExpression) {
-										var max;
 										for (var i = 0; i < nodeData.length; ++i) {
 											if (nodeData[i].name !== 'homo sapiens' && nodeData[i].expression !== undefined && nodeData[i].gallusOrth !== undefined) {
 												nodeData[i].unique = {};
@@ -505,8 +509,7 @@
 											if (d.name == 'homo sapiens' || d.expression == undefined || d.gallusOrth == undefined)
 												return 0;
 											//                            return (d.expression.downs.length + d.expression.ups.length) / d.gallusOrth.sharedSymbols.length;
-											return (d.unique.downs.length + d.unique.ups.length) / d.unique.sharedSymbols.length;
-										});
+											return (d.unique.downs.length + d.unique.ups.length) / d.unique.sharedSymbols.length;});
 										//                                    }
 										//                                    else {
 										//                                    }
@@ -514,8 +517,9 @@
 
 
 									function getExpressionColor(ratio) {
-										if (max == 0) {return self.expressionColors[0];}
-										return self.expressionColors[Math.floor(9 * ratio / max)];}
+										ratio = Math.min(ratio, 0.9999);
+										ratio = Math.max(ratio, 0);
+										return self.expressionColors[Math.floor(9 * ratio)];}
 
 									pathG = pathG.data(nodeData)
 										.enter().append('path')
@@ -541,6 +545,7 @@
 													else if (gallusOrth.type === 'Empty') {
 														return self.orthologColors[2];
 													}
+													else {return '#fff';}
 												}
 												else {
 													return '#fff';
@@ -580,8 +585,8 @@
 										})
 										.on('mouseout', function () {
 											return tooltip.style('opacity', 0);
-										})
-										.call(itemDrag);
+										});
+									if (forceEnabled) {pathG.call(itemDrag);}
 									svg.on('mouseout', function () {
 										return tooltip.html('');
 									});
@@ -778,27 +783,27 @@
 											var radius = Math.max(0, r(d.r));
 											return thea * radius >= 10;
 										}))
-										.enter().append('text')
-										.attr('class', 'bar-text') // add class
-										.attr('text-anchor', 'middle')
-										.attr('transform', function (d, i) {
-											if (i == 0)
-												return 'rotate(0)';
-											var angle = a(d.a + d.da / 2) * 180 / Math.PI - 90;
-											return 'rotate(' + angle + ')translate(' + r(d.r + d.dr * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
-										})
-										.attr('dy', '0.35em')
-										.style('font-size', function(d, i) {
-											var width = Math.abs(r(d.r + d.dr) - r(d.r)),
-													height = Math.abs(a(d.a + d.da) - a(d.a));
-											return Math.min(width / 4, height * Math.PI * 128) + 'px';})
-										.text(function (d, i) {
-											if (i == 0) {return '';}
-											var str = d.name;
-											str = str.match(/\b\w/g).join('');
-											str = str.substr(0, 4);
-											return str;
-										});
+												.enter().append('text')
+												.attr('class', 'bar-text') // add class
+												.attr('text-anchor', 'middle')
+												.attr('transform', function (d, i) {
+													if (i == 0)
+														return 'rotate(0)';
+													var angle = a(d.a + d.da / 2) * 180 / Math.PI - 90;
+													return 'rotate(' + angle + ')translate(' + r(d.r + d.dr * 0.5) + ')rotate(' + (angle > 90 ? -180 : 0) + ')';
+												})
+												.attr('dy', '0.35em')
+												.style('font-size', function(d, i) {
+													var width = Math.abs(r(d.r + d.dr) - r(d.r)),
+															height = Math.abs(a(d.a + d.da) - a(d.a));
+													return Math.min(width / 4, height * Math.PI * 128) + 'px';})
+												.text(function (d, i) {
+													if (i == 0) {return '';}
+													var str = d.name;
+													str = str.match(/\b\w/g).join('');
+													str = str.substr(0, 4);
+													return str;
+												});
 
 									function barClick() {
 										var symbols, tableData, i, j, symbolObj, index1, index2, selection, datum, table;
@@ -1207,7 +1212,7 @@
 										var RingWidth = _this.parent.w;
 										var RingHeight = _this.parent.h;
 										if (d3.select(this).datum().depth >= 1) {
-											RingWidth = RingWidth * 0.8;
+											RingWidth = (RingWidth - 100) * 0.8 + 100;
 											RingHeight = RingHeight * 0.8;
 										}
 										ringBubble = new $P.TreeRing({
@@ -1266,7 +1271,7 @@
 									base: self.mainSvg,
 									id: 'orthologLegend',
 									x: self.w * 0.5 - 60,
-									y: self.h * 0.5 - 200,
+									y: self.h * 0.3,
 									fontsize: 14,
 									title: 'Ortholog:',
 									entries: entries});}
