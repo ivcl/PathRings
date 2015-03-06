@@ -402,10 +402,9 @@
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
 						//                var rateLimit_Symbols = rateLimitSymbols.split('\n');
-						var rateLimit_Symbols = rateLimitSymbols.split('\r\n');
+						var rateLimit_Symbols = rateLimitSymbols.split('\n');
 						_this.rateLimitSymbols.keys = d3.set(rateLimit_Symbols.map(function (d) {
-							if (d !== '')
-								return d;
+							if (d !== '') {return d;}
 						})).values().sort(function (a, b) {
 							return ( a < b ? -1 : a > b ? 1 : 0);
 						});
@@ -418,6 +417,7 @@
 								_this.rateLimitSymbols.values[index]++;
 							}
 						}
+						console.log(_this.rateLimitSymbols);
 						{   //main
 							var minRatio;
 							var maxRatio;
