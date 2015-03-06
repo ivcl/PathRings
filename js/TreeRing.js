@@ -73,7 +73,7 @@
 				if (this.menu) {this.menu.updateDisplayMode(value);}
 				if (this.svg) {this.svg.displayMode = value;}},
 			onAdded: function(parent) {
-				if (!$P.BubbleBase.prototype.onAdded.call(this, parent)) {
+				if (!$P.BubbleBase.prototype.onAdded.call(this, parent) && !this.svg) {
 					this.createSvg();}},
 
 			/**
@@ -106,7 +106,10 @@
 				if (this.svg) {this.svg.delete();}
 				actual_config.parent = this;
 				this.svg = new $P.D3TreeRing(actual_config);
-				this.svg.init();},
+				console.log('SVG created');
+				this.svg.init();
+				console.log('SVG initialized.');
+			},
 			/**
 			 * Removes the svg component.
 			 */
@@ -292,6 +295,7 @@
 						customOrtholog: orthologData,
 						dataType: bubble.species};
 					bubble.orthologLabel = bubble.selectedFile.name;
+					if (!bubble.selectedData) {bubble.title.name = 'Human vs. Custom';}
 					bubble.experimentType = 'Ortholog';
 					bubble.createSvg(config);
 					$(menu.element).find('#speciesBlock').hide();});},
