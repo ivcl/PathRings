@@ -159,12 +159,13 @@
 			tmp +=   '<div style="width: 100%; font-weight: bold;">Display</div>';
 			tmp +=   '<hr/>';
 
-			tmp +=   '<div style="display: inline; font-size: 85%; margin: auto 5% auto 0;">Species:</div>';
-			tmp +=   '<select id="selectSpecies" style="display: inline-block;">';
+			tmp +=   '<div id="speciesBlock">';
+			tmp +=     '<div style="display: inline; font-size: 85%; margin: auto 5% auto 0;">Species:</div>';
+			tmp +=     '<select id="selectSpecies" style="display: inline-block;">';
 			this.getSpeciesList().forEach(function(species) {
 				tmp += '<option value="' + species + '">' + species + '</option>';});
-			tmp +=   '</select>';
-			tmp +=   '<br/>';
+			tmp +=     '</select>';
+			tmp +=   '</div>';
 
 			tmp +=   '<div>';
 			tmp +=     '<form style="display: inline-block;">';
@@ -292,7 +293,8 @@
 						dataType: bubble.species};
 					bubble.orthologLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Ortholog';
-					bubble.createSvg(config);});},
+					bubble.createSvg(config);
+					$(menu.element).find('#speciesBlock').hide();});},
 			loadExpression: function() {
 				var menu = this,
 						bubble = this.parent,

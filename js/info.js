@@ -5,6 +5,7 @@
  * @name        info
  */
 $(function() {
+	/*
   $('#infoBox')
     .css(
       {
@@ -21,6 +22,7 @@ $(function() {
   $('#infoBox').on('contextmenu', function(e){
     e.preventDefault();
   });
+	 */
   $('#information').dialog({
     autoOpen: false,
     modal: false,

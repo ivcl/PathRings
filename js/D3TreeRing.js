@@ -41,11 +41,17 @@
 				'#6bd6ae',
 				'#bde7d7',
 				'#effff3',
-				'#fda2d0',
-				'#fd6bae',
-				'#fd3c8d',
-				'#e60d55',
-				'#a60336'];
+				'#fdd0a2',
+				'#fdae6b',
+				'#fd8d3c',
+				'#e6550d',
+				'#a63603'];
+			/*
+			this.expressionColors = [
+				'#ffa', '#ff6', '#ffb', '#ff9', '#ff7',
+				'#ff5', '#ff3', '#ff1', '#0c0', '#0a0'
+			];
+			 */
 			console.log('Constructor Done');
 		},
 		{
@@ -235,18 +241,20 @@
 					.attr('transform', 'translate(' + 10 + ',' + 18 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', 'black')
-					.text('Human vs. ' + self.parent.species);
+					.text(self.parent.orthologLabel || ('Human vs. ' + self.parent.species));
 
+				/*
 				svg.append('text').attr('class','ortholog')
 					.style('font-size', 12)
 					.attr('transform', 'translate(' + 10 + ',' + 30 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', function() {return self.parent.orthologLabel ? 'black' : '#888';})
 					.text(self.parent.orthologLabel || 'No ortholog file loaded.');
+				 */
 
 				svg.append('text').attr('class','expression')
 					.style('font-size', 12)
-					.attr('transform', 'translate(' + 10 + ',' + 42 + ')')
+					.attr('transform', 'translate(' + 10 + ',' + 30 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', function() {return self.parent.expressionLabel ? 'black' : '#888';})
 					.text(self.parent.expressionLabel || 'No expression file loaded.');
@@ -449,6 +457,7 @@
 											d.gallusOrth.sharedSymbols,
 											self.customExpression,
 											function(symbol, expression) {
+												if (!symbol) {return false;}
 												if (symbol.toUpperCase() !== expression.symbol.toUpperCase()) {return false;}
 												var ratio = parseFloat(expression.ratio);
 												if (ratio >= maxRatio) {d.expression.ups.push(expression);}
@@ -1308,7 +1317,7 @@
 									x: self.w * 0.5 - 60,
 									y: self.h * 0.5 - 200,
 									colorOffsetY: 0.5,
-									title: 'Expressed:',
+									title: 'Percent Expressed:',
 									entries: entries});}
 
 						}
