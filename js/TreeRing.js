@@ -282,14 +282,15 @@
 						bubble = this.parent,
 						element = $(this.element),
 						file = element.find('#orthologFile').get(0).files[0],
-						loader;
+						progress, loader;
 				bubble.selectedFile = file;
 				bubble.orthologFile = file;
 				if (!file) {
 					alert('Please select your Ortholog data file!');
 					return;}
 
-				loader = new $P.FileLoader('Ortholog');
+				//progress = new $P.Progress({});
+				loader = new $P.FileLoader({type: 'Ortholog'});
 				loader.load(bubble.selectedFile, function (orthologData) {
 					var config = {
 						customOrtholog: orthologData,
@@ -315,7 +316,7 @@
 					alert('Please select your Expression data file!');
 					return;}
 
-				loader = new $P.FileLoader('Expression');
+				loader = new $P.FileLoader({type: 'Expression'});
 				loader.load(bubble.selectedFile, function (expressionData) {
 					var config = {
 						dataType: bubble.species,

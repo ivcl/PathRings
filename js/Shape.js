@@ -126,6 +126,16 @@ $P.Shape.Rectangle = $P.defineClass(
 			this.w += n;
 			this.h += n;},
 		/**
+		 * Gets the interior dimensions of this object.
+		 * @returns - an object containing x, y, w, and h matching this object's interior
+		 */
+		getInteriorDimensions: function() {
+			var half = this.lineWidth * 0.5;
+			return {x: this.x + half,
+							y: this.y + half,
+							w: this.w - this.lineWidth,
+							h: this.h - this.lineWidth};},
+		/**
 		 * Expand the given edge by the given amount of pixels.
 		 * @param {number} right - the amount to expand the right edge by
 		 * @param {number} top - the amount to expand the top edge by

@@ -152,3 +152,24 @@ $P.getJSON = function(url, callback, params) {
 	if (params) {config = $.extend(config, params);}
 	call = function call() {$.ajax(config);};
 	call();};
+
+$P.nullf = function() {};
+
+$P.asyncLoop = function(array, callback, next) {
+	var i = 0;
+	function run() {
+		function finish() {
+			++i;
+			window.setTimeout(i < array.length ? run : next, 0);}
+		callback(finish, array[i], i);}
+	run();};
+
+$P.asyncOrdered = function(callbacks) {
+	var i = 0;
+	function run() {
+		function finish() {
+			++i;
+			if (i < callbacks.length) {
+				window.setTimeout(run, 0);}}
+		callbacks[i](finish);}
+	run();};

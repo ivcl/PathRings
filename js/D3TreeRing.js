@@ -425,13 +425,20 @@
 
 							$P.getJSON(_this.file, function (root, error) {
 								console.log('Load 3 Done');
-								var node, count, minRatio, maxRatio;
+								var node, count, minRatio, maxRatio, progress;
 								nodeData = partition.nodes(root);
 								node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
 								self.maxLevel = d3.max(nodeData, function (d) {return d.depth;});
 
+								$P.asyncOrdered([
+									_loadOrtholog,
+									_loadExpression,
+									operation]);});
+
+							function _loadOrtholog(finish) {
+								var progress;
 								if (self.customOrtholog) {
-									nodeData.forEach(function (d) {
+									function process(d) {
 										if (!d) {return;}
 										var symbols = d.symbols || [];
 										d.gallusOrth = {};
@@ -445,13 +452,34 @@
 										else if (0 === d.gallusOrth.sharedSymbols.length) {
 											d.gallusOrth.type = 'Empty';}
 										else {
-											d.gallusOrth.type = 'Part';}});}
+											d.gallusOrth.type = 'Part';}}
 
+									if (self.customOrtholog.length > 100) {
+										progress = new $P.Progress({prefix: 'Processing Ortholog Data: '});
+										bubble.add(progress);
+										$P.asyncLoop(
+											nodeData,
+											function (finish, d, i) {
+												progress.setProgress(i / nodeData.length);
+												process(d);
+												finish();},
+											function() {
+												bubble.remove(progress);
+												finish();});}
+									else {
+										nodeData.forEach(process);
+										finish();}}
+								else {
+									finish();}}
+
+							function _loadExpression(finish) {
+								var progress;
 								if (self.customExpression) {
-									minRatio = self.parent.minRatio;
-									maxRatio = self.parent.maxRatio;
-									nodeData.forEach(function(d) {
+									function process(d) {
 										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
+										var minRatio, maxRatio;
+										minRatio = self.parent.minRatio;
+										maxRatio = self.parent.maxRatio;
 										d.expression = {ups: [], downs: [], unchanges: []};
 										$P.listIntersection(
 											d.gallusOrth.sharedSymbols,
@@ -463,11 +491,29 @@
 												if (ratio >= maxRatio) {d.expression.ups.push(expression);}
 												else if (ratio <= minRatio) {d.expression.downs.push(expression);}
 												else {d.expression.unchanges.push(expression);}
-												return true;});});}
+												return true;});}
 
-								operation(nodeData);});
+									if (self.customExpression.length > 100) {
+										progress = new $P.Progress({prefix: 'Processing Expression Data: ', color: '#0f0'});
+										bubble.add(progress);
+										$P.asyncLoop(
+											nodeData,
+											function(finish, d, i) {
+												progress.setProgress(i / nodeData.length);
+												process(d);
+												finish();},
+											function() {
+												bubble.remove(progress);
+												finish();});}
+									else {
+										nodeData.forEach(process);
+										finish();}}
+								else {
+									finish();}}
 
-							function operation(nodeData) {
+
+							function operation(finish) {
+								console.log('operation start');
 								var crossTalkFileName = './data/crossTalkLevel/' + nodeData[0].name + '.json';
 								self.parent.crossTalkLevel = self.showCrossTalkLevel;
 								$P.getJSON(crossTalkFileName, function (crossTalkData, error) {
@@ -675,7 +721,7 @@
 										//	.text(maxExpressions);
 
 										nodes.forEach(function(d, i) {
-											d.thickness = Math.min(d.theta * d.radius, Math.floor(self.maxLevel * 2));
+											d.thickness = Math.min(d.theta * d.radius, Math.floor(self.maxLevel * 6));
 											var up = d.expression.ups.length,
 													down = d.expression.downs.length;
 											d.upExponent = Math.max(0, Math.floor(Math.log(up) / Math.log(10)));
@@ -744,7 +790,7 @@
 									else {
 										nodes.forEach(function(d, i) {
 											var symbolCount;
-											d.thickness = Math.min(d.theta * d.radius * 0.8, Math.floor(self.maxLevel));
+											d.thickness = Math.min(d.theta * d.radius * 0.8, Math.floor(self.maxLevel * 3));
 											symbolCount = 0;
 											if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
 											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
@@ -1257,7 +1303,7 @@
 									}
 								});
 
-							}
+								finish();}
 
 							if (!_this.customExpression) {     //Color Bar for ortholog
 
@@ -1303,7 +1349,7 @@
 										 digitColor: self.color.downDigit}]});
 
 								entries = [];
-								for (i = 0; i < 11; ++i) {
+								for (i = 10; i >= 0; --i) {
 									entries.push({
 										color: self.expressionColors[i] || 'none',
 										text: '- ' + (i * 10) + '%',
@@ -1316,7 +1362,7 @@
 									fontsize: 12,
 									x: self.w * 0.5 - 60,
 									y: self.h * 0.5 - 200,
-									colorOffsetY: 0.5,
+									colorOffsetY: -0.5,
 									title: 'Percent Expressed:',
 									entries: entries});}
 
