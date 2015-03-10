@@ -25,16 +25,18 @@
 			this.rateLimitSymbols = config.ratelimitSymbols || {};
 			this.highlightPathways = config.highlightPathways || [];
 			this.displayMode = config.displayMode || this.parent.displayMode || 'title';
+			this.localExpressionPercent = config.localExpressionPercent || false;
 			this.initialized = false;
 			this.nodeTextSize = config.nodeTextSize || 10;
 			this.barLength = 60;
+			this.legendWidth = 140;
 			this.color = {
 				crosstalkExponent: '#f44',
 				crosstalkDigit: '#fca',
-				upExponent: '#4f4',
-				upDigit: '#9f9',
-				downExponent: '#44f',
-				downDigit: '#99f'};
+				upExponent: '#aa0',
+				upDigit: '#ff5',
+				downExponent: '#00a',
+				downDigit: '#55f'};
 			this.expressionColors = [
 				'#089c51',
 				'#31bd82',
@@ -151,9 +153,9 @@
 					.text(config.leftLabel || '0');
 				bar.append('text')
 					.attr('font-size', fontsize)
-					.attr('x', labelWidth - 4.5 + size)
+					.attr('x', labelWidth - 8.5 + size)
 					.attr('y', fontsize * 1.5 + 2)
-					.text(config.rightLabel || '9');
+					.text(config.rightLabel || '10');
 
 				return bar;},
 			addSplitLegend: function(config) {
@@ -571,10 +573,19 @@
 									}
 
 
+									self.maxExpressionPercent = 1;
 									function getExpressionColor(ratio) {
-										ratio = Math.min(ratio, 0.9999);
+										var max = 1;
+										if (self.localExpressionPercent) {max = self.maxExpressionPercent;}
+										ratio = Math.min(ratio, max - 0.0000001);
 										ratio = Math.max(ratio, 0);
-										return self.expressionColors[Math.floor(9 * ratio)];}
+										return self.expressionColors[Math.floor(9 * ratio / max)];}
+
+									if (self.customExpression && self.localExpressionPercent) {
+										self.maxExpressionPercent =
+											d3.max(nodeData, function(d) {
+												if (!d.unique) {return 0;}
+												return (d.unique.downs.length + d.unique.ups.length) / d.unique.sharedSymbols.length;});}
 
 									pathG = pathG.data(nodeData)
 										.enter().append('path')
@@ -725,9 +736,9 @@
 											var up = d.expression.ups.length,
 													down = d.expression.downs.length;
 											d.upExponent = Math.max(0, Math.floor(Math.log(up) / Math.log(10)));
-											d.upDigit = Math.floor(up / Math.pow(10, d.upExponent));
+											d.upDigit = up / Math.pow(10, d.upExponent);
 											d.downExponent = Math.max(0, Math.floor(Math.log(down) / Math.log(10)));
-											d.downDigit = Math.floor(down / Math.pow(10, d.downExponent));});
+											d.downDigit = down / Math.pow(10, d.downExponent);});
 
 										var groupExpressionBars = self.graphGroup.append('g').attr('id', 'group-expression-bars');
 										var expressionBar = groupExpressionBars.selectAll('.expression-bar').data(nodes).enter()
@@ -746,7 +757,7 @@
 											.attr('width', function(d) {
 												if (isNaN(d.upExponent)) {return 0;}
 												if (0 === maxExpressions) {return 0;}
-												return self.barLength * d.upExponent / 9;})
+												return self.barLength * d.upExponent * 0.1;})
 											.attr('fill', self.color.upExponent)
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');
@@ -758,7 +769,7 @@
 											.attr('width', function(d) {
 												if (isNaN(d.upDigit)) {return 0;}
 												if (0 === maxExpressions) {return 0;}
-												return self.barLength * d.upDigit / 9;})
+												return self.barLength * d.upDigit * 0.1;})
 											.attr('fill', self.color.upDigit)
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');
@@ -770,7 +781,7 @@
 											.attr('width', function(d) {
 												if (isNaN(d.downExponent)) {return 0;}
 												if (0 === maxExpressions) {return 0;}
-												return self.barLength * d.downExponent / 9;})
+												return self.barLength * d.downExponent * 0.1;})
 											.attr('fill', self.color.downExponent)
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');
@@ -782,7 +793,7 @@
 											.attr('width', function(d) {
 												if (isNaN(d.downDigit)) {return 0;}
 												if (0 === maxExpressions) {return 0;}
-												return self.barLength * d.downDigit / 9;})
+												return self.barLength * d.downDigit * 0.1;})
 											.attr('fill', self.color.downDigit)
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');}
@@ -793,7 +804,7 @@
 											d.thickness = Math.min(d.theta * d.radius * 0.8, Math.floor(self.maxLevel * 3));
 											symbolCount = 0;
 											if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
-											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
+											d.exponent = Math.log(symbolCount) / Math.log(10);
 											if (d.exponent < 0) {d.exponent = 0;}
 											d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
 										var maxExponent = Math.floor(Math.log(maxSymbol || 1) / Math.log(10));
@@ -814,7 +825,7 @@
 											.attr('width', function(d) {
 												if (isNaN(d.exponent)) {return 0;}
 												if (0 === maxExponent) {return 0;}
-												return self.barLength * d.exponent / 9;})
+												return self.barLength * d.exponent * 0.1;})
 											.attr('fill', '#f22')
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');
@@ -825,7 +836,7 @@
 											.attr('height', function(d) {return d.thickness * 0.4;})
 											.attr('width', function(d) {
 												if (isNaN(d.digit)) {return 0;}
-												return self.barLength * d.digit / 9;})
+												return self.barLength * d.digit * 0.1;})
 											.attr('fill', '#fb8')
 											.attr('stroke-width', 0.3)
 											.attr('stroke', '#000');}
@@ -859,6 +870,8 @@
 													str = str.substr(0, 4);
 													return str;
 												});
+
+									addLegends();
 
 									function barClick() {
 										var symbols, tableData, i, j, symbolObj, index1, index2, selection, datum, table;
@@ -1267,7 +1280,7 @@
 										var RingWidth = _this.parent.w;
 										var RingHeight = _this.parent.h;
 										if (d3.select(this).datum().depth >= 1) {
-											RingWidth = (RingWidth - 100) * 0.8 + 100;
+											RingWidth = (RingWidth - self.legendWidth) * 0.8 + self.legendWidth;
 											RingHeight = RingHeight * 0.8;
 										}
 										ringBubble = new $P.TreeRing({
@@ -1305,66 +1318,70 @@
 
 								finish();}
 
-							if (!_this.customExpression) {     //Color Bar for ortholog
+							function addLegends() {
+								if (!_this.customExpression) {     //Color Bar for ortholog
 
-								var entries = [{text: 'Complete'}, {text: 'Partial'}, {text: 'Empty'}];
-								entries.forEach(function(entry, i) {entry.color = self.orthologColors[i];});
+									var entries = [{text: 'Complete'}, {text: 'Partial'}, {text: 'Empty'}];
+									entries.forEach(function(entry, i) {entry.color = self.orthologColors[i];});
 
-								self.crosstalkLegend = self.addSplitLegend({
-									base: self.mainSvg,
-									id: 'crosstalkLegend',
-									x: self.w * 0.5 - 80,
-									y: self.h * -0.5 + 10,
-									fontsize: 12,
-									entries: [{
-										name: 'Crosstalk Count:',
-										size: self.barLength,
-										exponentColor: self.color.crosstalkExponent,
-										digitColor: self.color.crosstalkDigit}]});
+									self.crosstalkLegend = self.addSplitLegend({
+										base: self.mainSvg,
+										id: 'crosstalkLegend',
+										x: self.w * 0.5 - self.legendWidth * 0.5,
+										y: self.h * -0.5 + 10,
+										fontsize: 12,
+										entries: [{
+											name: 'Crosstalk Count:',
+											size: self.barLength,
+											exponentColor: self.color.crosstalkExponent,
+											digitColor: self.color.crosstalkDigit}]});
 
-								self.orthologLegend = self.addLegend({
-									base: self.mainSvg,
-									id: 'orthologLegend',
-									x: self.w * 0.5 - 60,
-									y: self.h * 0.3,
-									fontsize: 14,
-									title: 'Ortholog:',
-									entries: entries});}
-							else {
-								self.expressionLegend = self.addSplitLegend({
-									base: self.mainSvg,
-									id: 'expressionLegend',
-									x: self.w * 0.5 - 80,
-									y: self.h * -0.5 + 20,
-									fontsize: 12,
-									title: 'Expression:',
-									entries: [
-										{name: 'Up:',
-										 size: self.barLength,
-										 exponentColor: self.color.upExponent,
-										 digitColor: self.color.upDigit},
-										{name: 'Down:',
-										 size: self.barLength,
-										 exponentColor: self.color.downExponent,
-										 digitColor: self.color.downDigit}]});
+									self.orthologLegend = self.addLegend({
+										base: self.mainSvg,
+										id: 'orthologLegend',
+										x: self.w * 0.5 - self.legendWidth * 0.5,
+										y: self.h * 0.1,
+										fontsize: 14,
+										title: 'Ortholog:',
+										entries: entries});}
+								else {
+									self.expressionLegend = self.addSplitLegend({
+										base: self.mainSvg,
+										id: 'expressionLegend',
+										x: self.w * 0.5 - self.legendWidth * 0.5,
+										y: self.h * -0.5 + 20,
+										fontsize: 12,
+										title: 'Expression:',
+										entries: [
+											{name: 'Up:',
+											 size: self.barLength,
+											 exponentColor: self.color.upExponent,
+											 digitColor: self.color.upDigit},
+											{name: 'Down:',
+											 size: self.barLength,
+											 exponentColor: self.color.downExponent,
+											 digitColor: self.color.downDigit}]});
 
-								entries = [];
-								for (i = 10; i >= 0; --i) {
-									entries.push({
-										color: self.expressionColors[i] || 'none',
-										text: '- ' + (i * 10) + '%',
-										stroke: 10 == i ? 'none' : 'black'
-									});
-								}
-								self.addLegend({
-									base: self.mainSvg,
-									id: 'expressionArcLegend',
-									fontsize: 12,
-									x: self.w * 0.5 - 60,
-									y: self.h * 0.5 - 200,
-									colorOffsetY: -0.5,
-									title: 'Percent Expressed:',
-									entries: entries});}
+									entries = [];
+									for (i = 10; i >= 0; --i) {
+										var max = 100;
+										if (self.localExpressionPercent) {max = self.maxExpressionPercent * 100;}
+										console.log(max);
+										entries.push({
+											color: self.expressionColors[i] || 'none',
+											text: '- ' + (i * 0.1 * max).toFixed(0) + '%',
+											stroke: 10 == i ? 'none' : 'black'
+										});
+									}
+									self.addLegend({
+										base: self.mainSvg,
+										id: 'expressionArcLegend',
+										fontsize: 12,
+										x: self.w * 0.5 - self.legendWidth * 0.5,
+										y: self.h * 0.1,
+										colorOffsetY: -0.5,
+										title: 'Percent Expressed:',
+										entries: entries});}}
 
 						}
 

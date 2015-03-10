@@ -23,6 +23,7 @@
 			this._file = config.file || null;
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
+			this._localExpressionPercent = false;
 			config.name = config.name || (config.selectedData && config.dataName) || ('Human vs. ' + this._species);
 			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
@@ -72,6 +73,13 @@
 				this._displayMode = value;
 				if (this.menu) {this.menu.updateDisplayMode(value);}
 				if (this.svg) {this.svg.displayMode = value;}},
+			get localExpressionPercent() {return this._localExpressionPercent;},
+			set localExpressionPercent(value) {
+				if (value === this._localExpressionPercent) {return;}
+				this._localExpressionPercent = value;
+				if (this.menu) {
+					$(this.menu.element).find('#localExpressionPercent').prop('checked', value);}
+				this.createSvg();},
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent) && !this.svg) {
 					this.createSvg();}},
@@ -94,7 +102,8 @@
 				if (!this.dataType) {this.dataType = 'Gallus';}
 				$.extend(actual_config, {
 					defaultRadius: Math.min(this.w, this.h) - 30,
-					dataType: this.dataType});
+					dataType: this.dataType,
+					localExpressionPercent: this.localExpressionPercent});
 				if (this.dataName) {actual_config.name = this.dataName;}
 				if (this.selectedData) {actual_config.selectedData = this.selectedData;}
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
@@ -102,7 +111,7 @@
 				actual_config.y += 8;
 				actual_config.w -= 16;
 				actual_config.h -= 16;
-				actual_config = $.extend(actual_config, config);
+				if (config) {actual_config = $.extend(actual_config, config);}
 				if (this.svg) {this.svg.delete();}
 				actual_config.parent = this;
 				this.svg = new $P.D3TreeRing(actual_config);
@@ -162,13 +171,14 @@
 			tmp +=   '<div style="width: 100%; font-weight: bold;">Display</div>';
 			tmp +=   '<hr/>';
 
-			tmp +=   '<div id="speciesBlock">';
-			tmp +=     '<div style="display: inline; font-size: 85%; margin: auto 5% auto 0;">Species:</div>';
-			tmp +=     '<select id="selectSpecies" style="display: inline-block;">';
-			this.getSpeciesList().forEach(function(species) {
-				tmp += '<option value="' + species + '">' + species + '</option>';});
-			tmp +=     '</select>';
-			tmp +=   '</div>';
+			if (!(config.parent.svg && config.parent.svg.customOrtholog)) {
+				tmp +=   '<div id="speciesBlock">';
+				tmp +=     '<div style="display: inline; font-size: 85%; margin: auto 5% auto 0;">Species:</div>';
+				tmp +=     '<select id="selectSpecies" style="display: inline-block;">';
+				this.getSpeciesList().forEach(function(species) {
+					tmp += '<option value="' + species + '">' + species + '</option>';});
+				tmp +=     '</select>';
+				tmp +=   '</div>';}
 
 			tmp +=   '<div>';
 			tmp +=     '<form style="display: inline-block;">';
@@ -183,6 +193,11 @@
 				tmp += '<option value="' + i + '">' + i + '</option>';}
 			tmp +=     '</select>';
 			tmp +=   '</div>';
+
+			tmp +=   '<div id="localPercentBlock" style="font-size: 85%;">';
+			tmp +=     '<input id="localExpressionPercent" type="checkbox" style="vertical-align: middle;"/> Local Expression Percentage<br/>';
+			tmp +=   '</div>';
+
 			tmp += '</div>';
 
 			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 2%;">';
@@ -226,6 +241,13 @@
 
 			element.find('input[type=radio][name=displayMode]').change(function() {
 				bubble.displayMode = this.value;});
+
+			if (!(bubble.svg && bubble.svg.customExpression)) {
+				element.find('#localPercentBlock').hide();}
+
+			element.find('#localExpressionPercent').change(function() {
+				bubble.localExpressionPercent = $(this).prop('checked');});
+			element.find('#localExpressionPercent').val(bubble.localExpressionPercent);
 
 			this.species = bubble.species;
 			element.find('#selectSpecies').change(function() {
@@ -323,7 +345,8 @@
 						customExpression: expressionData};
 					bubble.expressionLabel =  bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
-					bubble.createSvg(config);});},
+					bubble.createSvg(config);
+					$(menu.element).find('#localPercentBlock').show();});},
 			onPositionChanged: function (dx, dy, dw, dh) {
 				$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
 			}});
