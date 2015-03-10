@@ -438,17 +438,20 @@
 									operation]);});
 
 							function _loadOrtholog(finish) {
-								var progress;
+								var progress, set, predicate;
 								if (self.customOrtholog) {
+									set = new $P.Set()
+										.addList(
+											self.customOrtholog,
+											function(orth) {return orth.symbol.toUpperCase();});
+									predicate = function(symbol) {
+										if (!symbol) {return false;}
+										return set.contains(symbol.toUpperCase());};
 									function process(d) {
 										if (!d) {return;}
 										var symbols = d.symbols || [];
 										d.gallusOrth = {};
-										d.gallusOrth.sharedSymbols = $P.listIntersection(
-											symbols, self.customOrtholog,
-											function(symbol, ortholog) {
-												if (!symbol) {return false;}
-												return symbol.toUpperCase() === ortholog.symbol.toUpperCase();});
+										d.gallusOrth.sharedSymbols = symbols.filter(predicate);
 										if (symbols.length === d.gallusOrth.sharedSymbols.length) {
 											d.gallusOrth.type = 'Complete';}
 										else if (0 === d.gallusOrth.sharedSymbols.length) {
@@ -475,8 +478,18 @@
 									finish();}}
 
 							function _loadExpression(finish) {
-								var progress;
+								var progress, expressions;
 								if (self.customExpression) {
+									expressions = $P.indexBy(self.customExpression, function(e) {return e.symbol.toUpperCase();});
+									/*
+									set = new $P.Set()
+										.addList(
+											self.customExpression,
+											function(expr) {return expr.symbol.toUpperCase();});
+									predicate = function(symbol) {
+										if (!symbol) {return false;}
+										return set.contains(symbol.toUpperCase());};
+									 */
 									function process(d) {
 										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
 										var minRatio, maxRatio;
@@ -804,9 +817,9 @@
 											d.thickness = Math.min(d.theta * d.radius * 0.8, Math.floor(self.maxLevel * 3));
 											symbolCount = 0;
 											if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
-											d.exponent = Math.log(symbolCount) / Math.log(10);
+											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
 											if (d.exponent < 0) {d.exponent = 0;}
-											d.digit = Math.floor(symbolCount / Math.pow(10, d.exponent));});
+											d.digit = symbolCount / Math.pow(10, d.exponent);});
 										var maxExponent = Math.floor(Math.log(maxSymbol || 1) / Math.log(10));
 										var groupCrosstalkBars = self.graphGroup.append('g').attr('id', 'group-crosstalk-bars');
 										var crosstalkBar = groupCrosstalkBars.selectAll('.crosstalk-bar').data(nodes).enter()

@@ -173,3 +173,33 @@ $P.asyncOrdered = function(callbacks) {
 				window.setTimeout(run, 0);}}
 		callbacks[i](finish);}
 	run();};
+
+(function($P) {
+	$P.F = {};
+
+	$P.F.Identity = function(a) {return a;};
+
+	$P.Set = $P.defineClass(
+		null,
+		function Set() {this.data = {};},
+		{
+			contains: function(value) {
+				return this.data[value];},
+			asPredicate: function() {
+				var set = this;
+				return function(value) {return set.contains(value);};},
+			addList: function(list, key) {
+				var set = this;
+				key = key || $P.F.Identity;
+				list.forEach(function(element) {set.data[key(element)] = true;});
+				return this;}});
+
+	/**
+	 * Turn a list into a map indexed by f.
+	 */
+	$P.indexBy = function(list, f) {
+		var map = {};
+		list.forEach(function(element) {map[f(element)] = element;});
+		return map;};
+
+})(PATHBUBBLES);
