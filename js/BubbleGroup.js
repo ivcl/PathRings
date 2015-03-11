@@ -20,21 +20,10 @@ $P.BubbleGroup = $P.defineClass(
 	{
 		add: function(child, index) {
 			$P.Object2D.prototype.add.call(this, child, index);
-			if (index > 0) {
-				child.neighbors.left = this.children[index - 1];
-				this.children[index - 1].neighbors.right = child;}
-			if (index < this.children.length - 1) {
-				child.neighbors.right = this.children[index + 1];
-				this.children[index + 1].neighbors.left = child;}
-
 			child.setStrokeStyle(this.strokeStyle);
 			this.arrangeChildren();
 			return;},
 		remove: function(child) {
-			var left = child.neighbors.left,
-					right = child.neighbors.right;
-			if (left) {left.neighbors.right = right;}
-			if (right) {right.neighbors.left = left;}
 			child.neighbors.left = null;
 			child.neighbors.right = null;
 			$P.Object2D.prototype.remove.call(this, child);
@@ -102,7 +91,11 @@ $P.BubbleGroup = $P.defineClass(
 				this.w += child.w;}},
 		arrangeChildren: function(){
 			var x = this.x,
-					grouped = this.children.length > 1;
+					grouped = this.children.length > 1,
+					i;
+			for (i = 0; i < this.children.length; ++i) {
+				this.children[i].neighbors.left = this.children[i - 1] || null;
+				this.children[i].neighbors.right = this.children[i + 1] || null;}
 			this.children.forEach(function(child) {
 				child.move(x, this.y);
 				child.groupButton.setHighlighted(grouped);

@@ -173,7 +173,7 @@
 			 * @returns - the {l, r, t, b} that was unused.
 			 */
 			resize: function(direction, dx, dy) {
-				var horizontalMode, verticalMode,
+				var horizontalMode, verticalMode, other,
 						l = 0, r = 0, t = 0, b = 0,
 						lr = 0, rl = 0,
 						newW, newH, multW = 1, multH = 1;
@@ -195,6 +195,19 @@
 					newH = this.h + t + b;
 					if (newH < this.minSize.h) {
 						multH = (this.minSize.h - this.h) / (t + b);}}
+
+				if (this.neighbors.left) {
+					other = this.neighbors.left;
+					if (other.minSize && other.minSize.w) {
+						newW = other.w + lr * multW;
+						if (newW < other.minSize.w) {
+							multW = (other.minSize.w - other.w) / lr;}}}
+				if (this.neighbors.right) {
+					other = this.neighbors.right;
+					if (other.minSize && other.minSize.w) {
+						newW = other.w + rl * multW;
+						if (newW < other.minSize.w) {
+							multW = (other.minSize.w - other.w) / rl;}}}
 
 				this.expandEdges(r * multW, t * multH, l * multW, b * multH);
 				if (this.neighbors.left) {
