@@ -26,6 +26,8 @@
 			this.highlightPathways = config.highlightPathways || [];
 			this.displayMode = config.displayMode || this.parent.displayMode || 'title';
 			this.localExpressionPercent = config.localExpressionPercent || false;
+			this.orthologFile = config.orthologFile || null;
+			this.expressionFile = config.expressionFile || null;
 			this.initialized = false;
 			this.nodeTextSize = config.nodeTextSize || 10;
 			this.barLength = 60;
@@ -49,12 +51,11 @@
 				'#e6550d',
 				'#a63603'];
 			/*
-			this.expressionColors = [
-				'#ffa', '#ff6', '#ffb', '#ff9', '#ff7',
-				'#ff5', '#ff3', '#ff1', '#0c0', '#0a0'
-			];
+			 this.expressionColors = [
+			 '#ffa', '#ff6', '#ffb', '#ff9', '#ff7',
+			 '#ff5', '#ff3', '#ff1', '#0c0', '#0a0'
+			 ];
 			 */
-			console.log('Constructor Done');
 		},
 		{
 			onPositionChanged: function(dx, dy, dw, dh) {
@@ -246,12 +247,12 @@
 					.text(self.parent.orthologLabel || ('Human vs. ' + self.parent.species));
 
 				/*
-				svg.append('text').attr('class','ortholog')
-					.style('font-size', 12)
-					.attr('transform', 'translate(' + 10 + ',' + 30 + ')')
-					.style('text-anchor', 'start')
-					.style('fill', function() {return self.parent.orthologLabel ? 'black' : '#888';})
-					.text(self.parent.orthologLabel || 'No ortholog file loaded.');
+				 svg.append('text').attr('class','ortholog')
+				 .style('font-size', 12)
+				 .attr('transform', 'translate(' + 10 + ',' + 30 + ')')
+				 .style('text-anchor', 'start')
+				 .style('fill', function() {return self.parent.orthologLabel ? 'black' : '#888';})
+				 .text(self.parent.orthologLabel || 'No ortholog file loaded.');
 				 */
 
 				svg.append('text').attr('class','expression')
@@ -394,13 +395,10 @@
 								return [node.x, node.y];
 							});
 
-				console.log('Calling Loads');
 				$P.getJSON('./data/crossTalkings.json', function (crossTalkSymbols, error) {
-					console.log('Load 1 Done');
 					_this.crosstalkSymbols = crossTalkSymbols;
 
 					d3.text('./data/ratelimitsymbol.txt', function (error, rateLimitSymbols) {
-						console.log('Load 2 Done');
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r\n/g, '\n');
 						//                rateLimitSymbols = rateLimitSymbols.replace(/\r/g, '\n');
 						//                var rateLimit_Symbols = rateLimitSymbols.split('\n');
@@ -419,14 +417,12 @@
 								_this.rateLimitSymbols.values[index]++;
 							}
 						}
-						console.log(_this.rateLimitSymbols);
 						{   //main
 							var minRatio;
 							var maxRatio;
 							//                        if (_this.selectedData == null) {  //12/10/2014
 
 							$P.getJSON(_this.file, function (root, error) {
-								console.log('Load 3 Done');
 								var node, count, minRatio, maxRatio, progress;
 								nodeData = partition.nodes(root);
 								node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
@@ -481,32 +477,21 @@
 								var progress, expressions;
 								if (self.customExpression) {
 									expressions = $P.indexBy(self.customExpression, function(e) {return e.symbol.toUpperCase();});
-									/*
-									set = new $P.Set()
-										.addList(
-											self.customExpression,
-											function(expr) {return expr.symbol.toUpperCase();});
-									predicate = function(symbol) {
-										if (!symbol) {return false;}
-										return set.contains(symbol.toUpperCase());};
-									 */
 									function process(d) {
 										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
 										var minRatio, maxRatio;
 										minRatio = self.parent.minRatio;
 										maxRatio = self.parent.maxRatio;
 										d.expression = {ups: [], downs: [], unchanges: []};
-										$P.listIntersection(
-											d.gallusOrth.sharedSymbols,
-											self.customExpression,
-											function(symbol, expression) {
-												if (!symbol) {return false;}
-												if (symbol.toUpperCase() !== expression.symbol.toUpperCase()) {return false;}
-												var ratio = parseFloat(expression.ratio);
-												if (ratio >= maxRatio) {d.expression.ups.push(expression);}
-												else if (ratio <= minRatio) {d.expression.downs.push(expression);}
-												else {d.expression.unchanges.push(expression);}
-												return true;});}
+										d.gallusOrth.sharedSymbols.forEach(function(symbol) {
+											var expression, ratio;
+											if (!symbol) {return;}
+											expression = expressions[symbol.toUpperCase()];
+											if (!expression) {return;}
+											ratio = parseFloat(expression.ratio);
+											if (ratio >= maxRatio) {d.expression.ups.push(expression);}
+											else if (ratio <= minRatio) {d.expression.downs.push(expression);}
+											else {d.expression.unchanges.push(expression);}});}
 
 									if (self.customExpression.length > 100) {
 										progress = new $P.Progress({prefix: 'Processing Expression Data: ', color: '#0f0'});
@@ -528,7 +513,6 @@
 
 
 							function operation(finish) {
-								console.log('operation start');
 								var crossTalkFileName = './data/crossTalkLevel/' + nodeData[0].name + '.json';
 								self.parent.crossTalkLevel = self.showCrossTalkLevel;
 								$P.getJSON(crossTalkFileName, function (crossTalkData, error) {
@@ -745,7 +729,7 @@
 										//	.text(maxExpressions);
 
 										nodes.forEach(function(d, i) {
-											d.thickness = Math.min(d.theta * d.radius, Math.floor(self.maxLevel * 6));
+											d.thickness = Math.min(d.theta * d.radius, 40);
 											var up = d.expression.ups.length,
 													down = d.expression.downs.length;
 											d.upExponent = Math.max(0, Math.floor(Math.log(up) / Math.log(10)));
@@ -814,7 +798,7 @@
 									else {
 										nodes.forEach(function(d, i) {
 											var symbolCount;
-											d.thickness = Math.min(d.theta * d.radius * 0.8, Math.floor(self.maxLevel * 3));
+											d.thickness = Math.min(d.theta * d.radius * 0.8, 20);
 											symbolCount = 0;
 											if (d.gallusOrth) {symbolCount = d.gallusOrth.sharedSymbols.length;}
 											d.exponent = Math.floor(Math.log(symbolCount) / Math.log(10));
@@ -1302,7 +1286,9 @@
 											w: RingWidth, h: RingHeight,
 											dataName: selectedData.name,
 											dataType: dataType,
-											selectedData: selectedData});
+											selectedData: selectedData,
+											orthologFile: self.orthologFile,
+											expressionFile: self.expressionFile});
 										self.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
@@ -1379,7 +1365,6 @@
 									for (i = 10; i >= 0; --i) {
 										var max = 100;
 										if (self.localExpressionPercent) {max = self.maxExpressionPercent * 100;}
-										console.log(max);
 										entries.push({
 											color: self.expressionColors[i] || 'none',
 											text: '- ' + (i * 0.1 * max).toFixed(0) + '%',

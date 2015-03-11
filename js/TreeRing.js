@@ -6,8 +6,6 @@
 		function TreeRing(config) {
 			this.processingStatus = new PATHBUBBLES.Text(this, "Processing");
 
-			this.expressionLabel = "";
-
 			this.dataName = config.dataName || null;
 
 			this.dataType = config.dataType || null;
@@ -24,6 +22,12 @@
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
 			this._localExpressionPercent = false;
+			this.orthologFile = config.orthologFile || null;
+			this.orthologLabel = '';
+			if (this.orthologFile) {this.orthologLabel = this.orthologFile.name;}
+			this.expressionFile = config.expressionFile || null;
+			this.expressionLabel = '';
+			if (this.expressionFile) {this.expressionLabel = this.expressionFile.name;}
 			config.name = config.name || (config.selectedData && config.dataName) || ('Human vs. ' + this._species);
 			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
@@ -90,7 +94,6 @@
 			 */
 			createSvg: function(config, suppressPropogate) {
 				var self = this;
-				console.log('Creating D3 Tree Ring', config);
 				// Propagate changes.
 				if (!suppressPropogate) {
 					this.links.forEach(function(link) {
@@ -106,6 +109,8 @@
 					localExpressionPercent: this.localExpressionPercent});
 				if (this.dataName) {actual_config.name = this.dataName;}
 				if (this.selectedData) {actual_config.selectedData = this.selectedData;}
+				if (this.orthologFile) {actual_config.orthologFile = this.orthologFile;}
+				if (this.expressionFile) {actual_config.expressionFile = this.expressionFile;}
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
 				actual_config.x += 8;
 				actual_config.y += 8;
@@ -115,9 +120,7 @@
 				if (this.svg) {this.svg.delete();}
 				actual_config.parent = this;
 				this.svg = new $P.D3TreeRing(actual_config);
-				console.log('SVG created');
 				this.svg.init();
-				console.log('SVG initialized.');
 			},
 			/**
 			 * Removes the svg component.
@@ -305,13 +308,20 @@
 						element = $(this.element),
 						file = element.find('#orthologFile').get(0).files[0],
 						progress, loader;
-				bubble.selectedFile = file;
-				bubble.orthologFile = file;
-				if (!file) {
+
+				if (file) {
+					bubble.selectedFile = file;
+					bubble.orthologFile = file;}
+				else if (bubble.orthologFile) {
+					file = bubble.orthologFile;
+					bubble.selectedFile = file;}
+				else if (bubble.svg && bubble.svg.orthologFile) {
+					file = bubble.svg.orthologFile;
+					bubble.selectedFile = file;}
+				else {
 					alert('Please select your Ortholog data file!');
 					return;}
 
-				//progress = new $P.Progress({});
 				loader = new $P.FileLoader({type: 'Ortholog'});
 				loader.load(bubble.selectedFile, function (orthologData) {
 					var config = {
@@ -334,6 +344,9 @@
 				else if (bubble.expressionFile) {
 					file = bubble.expressionFile;
 					bubble.selectedFile = bubble.expressionFile;}
+				else if (bubble.svg && bubble.svg.expressionFile) {
+					file = bubble.svg.expressionFile;
+					bubble.selectedFile = file;}
 				else {
 					alert('Please select your Expression data file!');
 					return;}
@@ -343,7 +356,7 @@
 					var config = {
 						dataType: bubble.species,
 						customExpression: expressionData};
-					bubble.expressionLabel =  bubble.selectedFile.name;
+					bubble.expressionLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);
 					$(menu.element).find('#localPercentBlock').show();});},

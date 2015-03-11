@@ -86,9 +86,9 @@
 			 */
 			ungroup: function() {
 				if (1 == this.parent.children.length) {return;}
+				this.setStrokeStyle($P.BubbleBase.getUnusedColor());
 				$P.state.scene.add(this, 0);
-				this.groupButton.setHighlighted(false);
-				this.setStrokeStyle($P.BubbleBase.getUnusedColor());},
+				this.groupButton.setHighlighted(false);},
 
 			receiveEvent: function(event) {
 				var result = $P.Object2D.prototype.receiveEvent.call(this, event);
