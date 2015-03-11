@@ -17,9 +17,11 @@
 			this.dataType = config.dataType;
 			this.file = config.filename || ('./data/Ortholog/' + this.dataType + '/' + this.name + '.json');
 			this.customOrtholog = config.customOrtholog;
+			this.customOrthologProcessed = config.customOrthologProcessed;
 			this.selectedData = config.selectedData || this.parent.selectedData || null;
 			this.showCrossTalkLevel = config.crosstalkLevel || this.parent.crosstalkLevel || 1;
 			this.customExpression = config.customExpression || null;
+			this.customExpressionProcessed = config.customExpressionProcessed || null;
 			this.maxLevel = 6;
 			this.crosstalkSymbols = config.crosstalkSymbols || {};
 			this.rateLimitSymbols = config.ratelimitSymbols || {};
@@ -435,81 +437,117 @@
 
 							function _loadOrtholog(finish) {
 								var progress, set, predicate;
-								if (self.customOrtholog) {
-									set = new $P.Set()
-										.addList(
-											self.customOrtholog,
-											function(orth) {return orth.symbol.toUpperCase();});
-									predicate = function(symbol) {
-										if (!symbol) {return false;}
-										return set.contains(symbol.toUpperCase());};
-									function process(d) {
-										if (!d) {return;}
-										var symbols = d.symbols || [];
+
+								function addData() {
+									nodeData.forEach(function(d) {
+										if (!d.symbols) {return;}
 										d.gallusOrth = {};
-										d.gallusOrth.sharedSymbols = symbols.filter(predicate);
-										if (symbols.length === d.gallusOrth.sharedSymbols.length) {
+										d.gallusOrth.sharedSymbols = self.customOrthologProcessed[d.name];
+										if (d.symbols.length === d.gallusOrth.sharedSymbols.length) {
 											d.gallusOrth.type = 'Complete';}
 										else if (0 === d.gallusOrth.sharedSymbols.length) {
 											d.gallusOrth.type = 'Empty';}
 										else {
-											d.gallusOrth.type = 'Part';}}
+											d.gallusOrth.type = 'Part';}});
+									finish();}
 
-									if (self.customOrtholog.length > 100) {
-										progress = new $P.Progress({prefix: 'Processing Ortholog Data: '});
-										bubble.add(progress);
-										$P.asyncLoop(
-											nodeData,
-											function (finish, d, i) {
-												progress.setProgress(i / nodeData.length);
-												process(d);
-												finish();},
-											function() {
-												bubble.remove(progress);
-												finish();});}
-									else {
-										nodeData.forEach(process);
-										finish();}}
+								if (self.customOrthologProcessed) {
+									addData();
+									return;}
+
+								if (!self.customOrtholog) {
+									finish();
+									return;}
+
+								self.customOrthologProcessed = {};
+								set = new $P.Set()
+									.addList(
+										self.customOrtholog,
+										function(orth) {return orth.symbol.toUpperCase();});
+								predicate = function(symbol) {
+									if (!symbol) {return false;}
+									return set.contains(symbol.toUpperCase());};
+								function process(d) {
+									if (!d || !d.symbols) {return;}
+									self.customOrthologProcessed[d.name] = d.symbols.filter(predicate);}
+
+								if (self.customOrtholog.length > 100) {
+									progress = new $P.Progress({prefix: 'Processing Ortholog Data: '});
+									bubble.add(progress);
+									$P.asyncLoop(
+										nodeData,
+										function (finish, d, i) {
+											progress.setProgress(i / nodeData.length);
+											process(d);
+											finish();},
+										function() {
+											bubble.remove(progress);
+											addData();});}
 								else {
-									finish();}}
+									nodeData.forEach(process);
+									addData();}}
 
 							function _loadExpression(finish) {
 								var progress, expressions;
-								if (self.customExpression) {
-									expressions = $P.indexBy(self.customExpression, function(e) {return e.symbol.toUpperCase();});
-									function process(d) {
-										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
-										var minRatio, maxRatio;
-										minRatio = self.parent.minRatio;
-										maxRatio = self.parent.maxRatio;
-										d.expression = {ups: [], downs: [], unchanges: []};
-										d.gallusOrth.sharedSymbols.forEach(function(symbol) {
-											var expression, ratio;
-											if (!symbol) {return;}
-											expression = expressions[symbol.toUpperCase()];
-											if (!expression) {return;}
-											ratio = parseFloat(expression.ratio);
-											if (ratio >= maxRatio) {d.expression.ups.push(expression);}
-											else if (ratio <= minRatio) {d.expression.downs.push(expression);}
-											else {d.expression.unchanges.push(expression);}});}
 
-									if (self.customExpression.length > 100) {
-										progress = new $P.Progress({prefix: 'Processing Expression Data: ', color: '#0f0'});
-										bubble.add(progress);
-										$P.asyncLoop(
-											nodeData,
-											function(finish, d, i) {
-												progress.setProgress(i / nodeData.length);
-												process(d);
-												finish();},
-											function() {
-												bubble.remove(progress);
-												finish();});}
+								function addData() {
+									nodeData.forEach(function(d) {
+										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
+										d.expression = self.customExpressionProcessed[d.name];
+									});
+									finish();}
+
+								if (self.customExpressionProcessed) {
+									if (self.parent.minRatio == self.customExpressionProcessed.__min &&
+											self.parent.maxRatio == self.customExpressionProcessed.__max) {
+										addData();
+										return;}
 									else {
-										nodeData.forEach(process);
-										finish();}}
+										self.customExpressionProcessed = null;}}
+
+								if (!self.customExpression) {
+									finish();
+									return;}
+
+								self.customExpressionProcessed = {};
+								self.customExpressionProcessed.__expressions =
+									$P.indexBy(self.customExpression, function(e) {return e.symbol.toUpperCase();});
+								self.customExpressionProcessed.__min = self.parent.minRatio;
+								self.customExpressionProcessed.__max = self.parent.maxRatio;
+
+								function process(d) {
+									var minRatio, maxRatio, exprs, expressions;
+									if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
+									minRatio = self.parent.minRatio;
+									maxRatio = self.parent.maxRatio;
+									exprs = {ups: [], downs: [], unchanges: []};
+									self.customExpressionProcessed[d.name] = exprs;
+									expressions = self.customExpressionProcessed.__expressions;
+									d.gallusOrth.sharedSymbols.forEach(function(symbol) {
+										var expression, ratio;
+										if (!symbol) {return;}
+										expression = expressions[symbol.toUpperCase()];
+										if (!expression) {return;}
+										ratio = parseFloat(expression.ratio);
+										if (ratio >= maxRatio) {exprs.ups.push(expression);}
+										else if (ratio <= minRatio) {exprs.downs.push(expression);}
+										else {exprs.unchanges.push(expression);}});}
+
+								if (self.customExpression.length > 100) {
+									progress = new $P.Progress({prefix: 'Processing Expression Data: '});
+									bubble.add(progress);
+									$P.asyncLoop(
+										nodeData,
+										function(finish, d, i) {
+											progress.setProgress(i / nodeData.length);
+											process(d);
+											finish();},
+										function() {
+											bubble.remove(progress);
+											addData();});}
 								else {
-									finish();}}
+									nodeData.forEach(process);
+									addData();}}
 
 
 							function operation(finish) {

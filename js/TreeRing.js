@@ -326,6 +326,7 @@
 				loader.load(bubble.selectedFile, function (orthologData) {
 					var config = {
 						customOrtholog: orthologData,
+						customOrthologProcessed: null,
 						dataType: bubble.species};
 					bubble.orthologLabel = bubble.selectedFile.name;
 					if (!bubble.selectedData) {bubble.title.name = 'Human vs. Custom';}
@@ -355,7 +356,8 @@
 				loader.load(bubble.selectedFile, function (expressionData) {
 					var config = {
 						dataType: bubble.species,
-						customExpression: expressionData};
+						customExpression: expressionData,
+						customExpressionProcessed: null};
 					bubble.expressionLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);
