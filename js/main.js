@@ -91,7 +91,7 @@
 					if (window.confirm('Delete all bubbles?')) {
 						$P.state.scene.deleteAll();}}
 				else if (key === 'Open_Help') {       //modify a bug by changing for loop from i=0, ... to i= array length to 0
-					window.open('/documents/manual.pdf');
+					window.open('documents/manual.pdf');
 				}
 				else if (key === 'Toggle_Links') {       //modify a bug by changing for loop from i=0, ... to i= array length to 0
 
