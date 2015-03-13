@@ -172,7 +172,6 @@ $P.D3Force = $P.defineClass(
 					names;
 			expressions = expressions || {};
 			$.getJSON('php/expandEntity.php?symbols=' + symbols.join(','), null, function(data) {
-				console.log('Data Received: ', data);
 				var x = this.size/2,
 						y = this.size/2,
 						pathwayId2;

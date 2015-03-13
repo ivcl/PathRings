@@ -98,7 +98,6 @@
 						&& !this.inMotion && !event.bubble.inMotion
 						&& !this.parent.inMotion && !event.bubble.parent.inMotion
 						&& this.intersects(event.bubble)) {
-					console.log(this.name, event.bubble.name);
 					if (event.bubble.parent.centerX <= this.parent.centerX) {
 						this.parent.move(event.bubble.parent.x + event.bubble.parent.w + 1);
 						return true;}
