@@ -52,8 +52,6 @@
 				var format = d3.time.format('%a %b %d %Y');
 				refreshTable(null);
 				function refreshTable(sortOn){
-					console.log('refresh', self.data, self.querySymbol);
-
 					if (!self.data) {
 						if (self.querySymbol) {
 							$P.getJSON('./php/querybyPathwayIdSymbol.php', function (jsonData) {operation(jsonData);}, {
@@ -193,11 +191,11 @@
 										console.error('It does not have cross-talking pathways!');}
 
 									else {
-										treeRing = self.parent.sourceRing.parent;
+										treeRing = self.parent.sourceRing;
 
 										var index = self._symbols2Pathways.symbols.indexOf(d.symbol);
 										if (index !== -1) {
-											var pathways = self._symbols2Pathways.pathwayNames[index];
+											var pathways = self._symbols2Pathways.pathwayNames[index].slice(0);
 											for(i = 0; i < pathways.length; ++i) {
 												pathways[i] = $.trim(pathways[i]);}
 											if (!treeRing) {return;}

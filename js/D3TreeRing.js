@@ -392,10 +392,11 @@
 				var nodeData;
 				//edge ----------------------------------------------------------------------------
 				var bundle = d3.layout.bundle();
-				var diagonal = d3.svg.diagonal()
-							.projection(function (node) {
-								return [node.x, node.y];
-							});
+				var line = d3.svg.line()
+							.interpolate('bundle')
+							.tension(.65)
+							.x(function(d) {return d.x;})
+							.y(function(d) {return d.y;});
 
 				$P.getJSON('./data/crossTalkings.json', function (crossTalkSymbols, error) {
 					_this.crosstalkSymbols = crossTalkSymbols;
@@ -751,7 +752,7 @@
 												d.source = d[0];
 												d.target = d[d.length - 1];})
 											.attr('class', 'link')
-											.attr('d', diagonal)
+											.attr('d', line)
 											.style('opacity', function(d, i) {return 'crosstalk' === self.displayMode ? 1 : 0;});}
 
 									// Compute coordinates and sizes.
@@ -933,7 +934,7 @@
 											experimentType: _this.parent.experimentType,
 											crosstalking: _this.crosstalkSymbols,
 											keepQuery: true,
-											sourceRing: self,
+											sourceRing: self.parent,
 											w: 400, h: 400});
 										bubble.parent.add(table);
 
@@ -1004,7 +1005,7 @@
 											experimentType: self.parent.experimentType,
 											crosstalking: self.crosstalkSymbols,
 											keepQuery: true,
-											sourceRing: self,
+											sourceRing: self.parent,
 											w: 400, h: 400});
 										bubble.parent.add(table);
 
@@ -1287,7 +1288,7 @@
 											dbId: datum.dbId,
 											name: datum.name,
 											experimentType: self.parent.experimentType,
-											sourceRing: self,
+											sourceRing: self.parent,
 											w: 400, h: 400});
 										bubble.parent.add(table);
 
@@ -1378,7 +1379,7 @@
 										id: 'orthologLegend',
 										x: self.w * 0.5 - self.legendWidth * 0.5,
 										y: self.h * 0.1,
-										fontsize: 14,
+										fontsize: 12,
 										title: 'Ortholog:',
 										entries: entries});}
 								else {

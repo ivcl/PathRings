@@ -94,6 +94,7 @@
 				var result;
 				if (('bubbleCreated' == event.name || 'bubbleMoved' == event.name)
 						&& event.bubble !== this
+						&& this.parent && event.bubble.parent
 						&& event.bubble.parent !== this.parent
 						&& this.intersects(event.bubble)) {
 					if (event.bubble.parent.centerX <= this.parent.centerX) {

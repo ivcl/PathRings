@@ -20,8 +20,9 @@ $P.BubbleLink = $P.defineClass(
 		this.source.registerLink(this);
 		this.target = config.target;
 		this.target.registerLink(this);
-		this.strokeStyle = config.strokeStyle || 'black';
+		this.strokeStyle = config.strokeStyle || 'none';
 		this.fillStyle = config.fillStyle || 'gray';
+		this.opacity = config.opacity || 0.5;
 		this.sourceWidth = config.sourceWidth || 7;
 		this.targetWidth = config.targetWidth || 2;
 
@@ -33,6 +34,7 @@ $P.BubbleLink = $P.defineClass(
 					dy = this.target.y - this.source.y,
 					baseDir = new $P.Vector2D(dx, dy).normalized().rotate90();
 			context.save();
+			context.globalAlpha = this.opacity;
 			context.beginPath();
 			context.moveTo(
 				this.source.x + baseDir.x * this.sourceWidth * 0.5,
@@ -47,8 +49,9 @@ $P.BubbleLink = $P.defineClass(
 				this.target.x + baseDir.x * this.targetWidth * 0.5,
 				this.target.y + baseDir.y * this.targetWidth * 0.5);
 			context.closePath();
-			context.strokeStyle = this.strokeStyle;
-			context.stroke();
+			if (this.strokeStyle !== 'none') {
+				context.strokeStyle = this.strokeStyle;
+				context.stroke();}
 			context.fillStyle = this.fillStyle;
 			context.fill();
 			context.restore();},
