@@ -207,15 +207,21 @@
 			tmp +=   '<div style="width: 100%; font-weight: bold;">Load File</div>';
 			tmp +=   '<hr/>';
 
-			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 0; display: inline-block; vertical-align: -4px; float: left; width: 80px;">Ortholog:</label>';
-			tmp +=   '<div style="display: inline; float: left; width: 90px; overflow: hidden; margin: 2px;">';
-			tmp +=     '<input type="file" id="orthologFile" style="width: 300px;"/>';
+			tmp +=   '<label for="orthologFile" style="font-size: 85%; margin: 6px 6px 6px 0; display: inline-block; vertical-align: -4px; float: left; width: 80px;">Ortholog:</label>';
+			tmp +=   '<div style="position: relative; display: inline; float: left; overflow: hidden; margin: 4px 0;">';
+			tmp +=     '<button id="orthologFileButton" style="display: inline-block; overflow: hidden; width: 100px;">';
+			tmp +=       'Upload File';
+			tmp +=       '<input type="file" id="orthologFile" style="display: inline-block; font-size: 200px; position: absolute; top: 0; right: 0; opacity: 0;"/>';
+			tmp +=     '</button>';
 			tmp +=   '</div>';
 			tmp +=   '<br style="display: table; clear: both;"/>';
 
-			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 0; vertical-align: -3px; float: left; width: 80px;">Expression:</label>';
-			tmp +=   '<div style="display: inline; float: left; width: 90px; overflow: hidden; margin: 2px;">';
-			tmp +=     '<input type="file" id="expressionFile" style="width: 300px;"/>';
+			tmp +=   '<label for="expressionFile" style="font-size: 85%; margin: 6px 6px 6px 0; vertical-align: -4px; float: left; width: 80px;">Expression:</label>';
+			tmp +=   '<div style="position: relative; display: inline; float: left; overflow: hidden; margin: 4px 0;">';
+			tmp +=     '<button id="expressionFileButton" style="display: inline-block; overflow: hidden; width: 100px;">';
+			tmp +=       'Upload File';
+			tmp +=       '<input type="file" id="expressionFile" style="display: inline-block; font-size: 200px; position: absolute; top: 0; right: 0; opacity: 0;"/>';
+			tmp +=     '</button>';
 			tmp +=   '</div>';
 			tmp +=   '<br style="display: table; clear: both;"/>';
 			tmp +=   '<div>';
