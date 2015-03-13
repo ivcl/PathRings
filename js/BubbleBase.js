@@ -91,7 +91,19 @@
 				this.groupButton.setHighlighted(false);},
 
 			receiveEvent: function(event) {
-				var result = $P.Object2D.prototype.receiveEvent.call(this, event);
+				var result;
+				if (('bubbleCreated' == event.name || 'bubbleMoved' == event.name)
+						&& event.bubble !== this
+						&& event.bubble.parent !== this.parent
+						&& this.intersects(event.bubble)) {
+					if (event.bubble.parent.centerX <= this.parent.centerX) {
+						this.parent.move(event.bubble.parent.x + event.bubble.parent.w + 1);
+						return true;}
+					else {
+						this.parent.move(event.bubble.parent.x - this.parent.w - 1);
+						return true;}}
+
+				result = $P.Object2D.prototype.receiveEvent.call(this, event);
 				if (result) {return result;}
 				return this.mousemove(event) ||
 					this.mousedown(event);},
@@ -233,7 +245,11 @@
 
 			onPositionChanged: function(dx, dy, dw, dh) {
 				$P.Shape.Rectangle.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
-				this.repositionMenus();},
+				this.repositionMenus();
+				$P.state.scene.sendEvent({
+					name: 'bubbleMoved',
+					bubble: this});
+			},
 
 			/**
 			 * Sets the stroke color for this bubble.

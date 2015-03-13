@@ -18,6 +18,10 @@ $P.BubbleGroup = $P.defineClass(
 			this.y = child.y;
 			this.add(child);}},
 	{
+		get centerX() {
+			this.updateSize();
+			return this.x + this.w * 0.5;},
+
 		add: function(child, index) {
 			$P.Object2D.prototype.add.call(this, child, index);
 			child.setStrokeStyle(this.strokeStyle);
@@ -88,7 +92,8 @@ $P.BubbleGroup = $P.defineClass(
 			for (i = 1; i < this.children.length; ++i) {
 				child = this.children[i];
 				this.h = Math.max(this.h, child.h);
-				this.w += child.w;}},
+				this.w += child.w;
+				this.w += this.children[i - 1].lineWidth * 0.5;}},
 		arrangeChildren: function(){
 			var x = this.x,
 					grouped = this.children.length > 1,

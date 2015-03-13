@@ -42,6 +42,8 @@ $P.Object2D = $P.defineClass(
 		if (config.parent) {config.parent.add(this);}
 	},
 	{
+		get centerX() {return this.x + this.w * 0.5;},
+
 		/**
 		 * Gets the closest parent that is a Scene, or null if not present.
 		 * @return {?PATHBUBBLES.Scene}
@@ -180,9 +182,9 @@ $P.Object2D = $P.defineClass(
 		 * Called when this object is moved or resized. For child classes to
 		 * add to.
 		 */
-		onPositionChanged: function(dx, dy, dw, dh) {
+		onPositionChanged: function(dx, dy, dw, dh, info) {
 			$P.state.markDirty();
-			this.children.forEach(function(child) {child.onParentPositionChanged(dx, dy, dw, dh);});},
+			this.children.forEach(function(child) {child.onParentPositionChanged(dx, dy, dw, dh, info);});},
 
 		/**
 		 * Called when this object's parent is moved or resized. For child
@@ -268,7 +270,23 @@ $P.Object2D = $P.defineClass(
 			this.y = y;
 			this.w = w;
 			this.h = h;
-			this.onPositionChanged(dx, dy, dw, dh);}
+			this.onPositionChanged(dx, dy, dw, dh);},
+
+		intersects: function(other) {
+			var l, r, t, b, ol, or, ot, ob;
+			if (!(other instanceof $P.Object2D)) {
+				console.error('PATHBUBBLES.Object2D#intersects(', other, '):  Other object is not an Object2D');
+				return false;}
+
+			l = this.x;
+			r = this.x + this.w;
+			t = this.y;
+			b = this.y + this.h;
+			ol = other.x;
+			or = other.x + other.w;
+			ot = other.y;
+			ob = other.y + other.h;
+			return l <= or && ol <= r && t <= ob && ot <= b;}
 	});
 
 
