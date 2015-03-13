@@ -93,10 +93,12 @@
 			receiveEvent: function(event) {
 				var result;
 				if (('bubbleCreated' == event.name || 'bubbleMoved' == event.name)
-						&& event.bubble !== this
-						&& this.parent && event.bubble.parent
-						&& event.bubble.parent !== this.parent
+						&& this.parent && event.bubble && event.bubble.parent
+						&& event.bubble !== this && event.bubble.parent !== this.parent
+						&& !this.inMotion && !event.bubble.inMotion
+						&& !this.parent.inMotion && !event.bubble.parent.inMotion
 						&& this.intersects(event.bubble)) {
+					console.log(this.name, event.bubble.name);
 					if (event.bubble.parent.centerX <= this.parent.centerX) {
 						this.parent.move(event.bubble.parent.x + event.bubble.parent.w + 1);
 						return true;}
@@ -247,9 +249,10 @@
 			onPositionChanged: function(dx, dy, dw, dh) {
 				$P.Shape.Rectangle.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
 				this.repositionMenus();
-				$P.state.scene.sendEvent({
-					name: 'bubbleMoved',
-					bubble: this});
+				if (!this.inMotion) {
+					$P.state.scene.sendEvent({
+						name: 'bubbleMoved',
+						bubble: this});}
 			},
 
 			/**

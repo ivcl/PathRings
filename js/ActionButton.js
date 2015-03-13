@@ -104,8 +104,10 @@ $P.ActionButton.defineBase({
 	canPress: function() {return this.highlighted;},
 	action: function(canvas, x, y) {
 		if (this.parent.parent.children.length > 1) {
+			this.parent.inMotion = true;
 			this.parent.ungroup();
 			this.parent.parent.bringToFront();
+			this.parent.inMotion = false;
 			canvas.beginDrag(this.parent.parent, x, y);
 			return true;}
 		return false;},

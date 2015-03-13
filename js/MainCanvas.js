@@ -168,6 +168,7 @@ $P.MainCanvas = $P.defineClass(
 			this.x = x;
 			this.y = y;
 			this.selected.highlighted = true;
+			this.selected.inMotion = true;
 			this.canvas.setCursor('move');
 			this.canvas.useMousemoveGlobally();
 			this.canvas.useMouseupGlobally();
@@ -184,7 +185,11 @@ $P.MainCanvas = $P.defineClass(
 				this.canvas.defaultMode();
 				$P.state.scene.enableHtmlPointerEvents();
 				this.selected.highlighted = false;
-				this.selected.receiveEvent({name: 'dragFinish', x: x + $P.state.scrollX, y: y});}
+				this.selected.inMotion = false;
+				this.selected.receiveEvent({name: 'dragFinish', x: x + $P.state.scrollX, y: y});
+				$P.state.scene.sendEvent({
+					name: 'bubbleMoved',
+					bubble: this.selected});}
 		});
 
 	$P.MainCanvas.Mode.Resize = $P.defineClass(
