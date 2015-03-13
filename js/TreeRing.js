@@ -15,13 +15,14 @@
 
 			this.selected_file = null;
 
+			this.legendWidth = 140;
 			this._minRatio = config.minRatio || -1.5;
 			this._maxRatio = config.maxRatio || 1.5;
 			this._crosstalkLevel = config.crosstalkLevel || 1;
 			this._file = config.file || null;
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
-			this._localExpressionPercent = false;
+			this._localExpressionPercent = true;
 			this.orthologFile = config.orthologFile || null;
 			this.orthologLabel = '';
 			if (this.orthologFile) {this.orthologLabel = this.orthologFile.name;}
@@ -29,8 +30,11 @@
 			this.expressionLabel = '';
 			if (this.expressionFile) {this.expressionLabel = this.expressionFile.name;}
 			config.name = config.name || (config.selectedData && config.dataName) || ('Human vs. ' + this._species);
-			config.minSize = undefined !== config.minSize ? config.minSize : 'current';
+			if (undefined === config.minSize) {config.minSize = 'current';}
+			if (!config.h || config.h < 560) {config.h = 560;}
+			if (!config.w || config.w < 700) {config.w = 700;}
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
+			console.log(config.w, config.h);
 			$P.BubbleBase.call(this, config);},
 		{
 			get minRatio() {return this._minRatio;},
@@ -104,7 +108,7 @@
 				var actual_config = Object.create(this.svg || null); // Automatically use parameters from existing svg.
 				if (!this.dataType) {this.dataType = 'Gallus';}
 				$.extend(actual_config, {
-					defaultRadius: Math.min(this.w, this.h) - 30,
+					defaultRadius: Math.min(this.w - this.legendWidth, this.h) - 30,
 					dataType: this.dataType,
 					localExpressionPercent: this.localExpressionPercent});
 				if (this.dataName) {actual_config.name = this.dataName;}
@@ -256,7 +260,7 @@
 
 			element.find('#localExpressionPercent').change(function() {
 				bubble.localExpressionPercent = $(this).prop('checked');});
-			element.find('#localExpressionPercent').val(bubble.localExpressionPercent);
+			element.find('#localExpressionPercent').prop('checked', bubble.localExpressionPercent);
 
 			this.species = bubble.species;
 			element.find('#selectSpecies').change(function() {

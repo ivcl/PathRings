@@ -96,6 +96,7 @@
 				legend = config.base.append('g')
 					.attr('class', 'legend')
 					.attr('id', config.id)
+					.attr('opacity', config.disabled ? 0.3 : 1.0)
 					.attr('transform', 'translate(' + x + ', ' + y + ')');
 				legend.append('text')
 					.attr('font-size', fontsize)
@@ -170,6 +171,7 @@
 				legend = config.base.append('g')
 					.attr('class', 'legend')
 					.attr('id', config.id)
+					.attr('opacity', config.disabled ? 0.3 : 1.0)
 					.attr('transform', 'translate(' + config.x + ', ' + config.y + ')');
 				if (config.title) {
 					legend.append('text')
@@ -239,7 +241,7 @@
 				self.orthologColors = ['#fdae6b', '#a1d99b', '#bcbddc'];
 				var gGroup;
 				var mainSvg = svg.append('g').attr('class','mainSVG')
-							.attr('transform', 'translate(' + width * 0.5 + ',' + height * 0.5 + ')');
+							.attr('transform', 'translate(' + radius + ',' + radius + ')');
 				this.mainSvg = mainSvg;
 				svg.append('text').attr('class','species')
 					.style('font-size', 12)
@@ -613,6 +615,7 @@
 									function getExpressionColor(ratio) {
 										var max = 1;
 										if (self.localExpressionPercent) {max = self.maxExpressionPercent;}
+										if (0 === ratio || 0 === max) {return self.expressionColors[0];}
 										ratio = Math.min(ratio, max - 0.0000001);
 										ratio = Math.max(ratio, 0);
 										return self.expressionColors[Math.floor(9 * ratio / max)];}
@@ -1357,68 +1360,72 @@
 								finish();}
 
 							function addLegends() {
-								if (!_this.customExpression) {     //Color Bar for ortholog
+								// Ortholog
+								var entries = [{text: 'Complete'}, {text: 'Partial'}, {text: 'Empty'}];
+								entries.forEach(function(entry, i) {entry.color = self.orthologColors[i];});
 
-									var entries = [{text: 'Complete'}, {text: 'Partial'}, {text: 'Empty'}];
-									entries.forEach(function(entry, i) {entry.color = self.orthologColors[i];});
+								self.crosstalkLegend = self.addSplitLegend({
+									disabled: self.customExpression,
+									base: self.mainSvg,
+									id: 'crosstalkLegend',
+									x: -self.radius + self.w - self.legendWidth,
+									y: -self.radius + 10,
+									fontsize: 12,
+									entries: [{
+										name: 'Crosstalk Count:',
+										size: self.barLength,
+										exponentColor: self.color.crosstalkExponent,
+										digitColor: self.color.crosstalkDigit}]});
 
-									self.crosstalkLegend = self.addSplitLegend({
-										base: self.mainSvg,
-										id: 'crosstalkLegend',
-										x: self.w * 0.5 - self.legendWidth * 0.5,
-										y: self.h * -0.5 + 10,
-										fontsize: 12,
-										entries: [{
-											name: 'Crosstalk Count:',
-											size: self.barLength,
-											exponentColor: self.color.crosstalkExponent,
-											digitColor: self.color.crosstalkDigit}]});
+								self.orthologLegend = self.addLegend({
+									disabled: self.customExpression,
+									base: self.mainSvg,
+									id: 'orthologLegend',
+									x: -self.radius + self.w - self.legendWidth,
+									y: -self.radius + 100,
+									fontsize: 12,
+									title: 'Ortholog:',
+									entries: entries});
 
-									self.orthologLegend = self.addLegend({
-										base: self.mainSvg,
-										id: 'orthologLegend',
-										x: self.w * 0.5 - self.legendWidth * 0.5,
-										y: self.h * 0.1,
-										fontsize: 12,
-										title: 'Ortholog:',
-										entries: entries});}
-								else {
-									self.expressionLegend = self.addSplitLegend({
-										base: self.mainSvg,
-										id: 'expressionLegend',
-										x: self.w * 0.5 - self.legendWidth * 0.5,
-										y: self.h * -0.5 + 20,
-										fontsize: 12,
-										title: 'Expression:',
-										entries: [
-											{name: 'Up:',
-											 size: self.barLength,
-											 exponentColor: self.color.upExponent,
-											 digitColor: self.color.upDigit},
-											{name: 'Down:',
-											 size: self.barLength,
-											 exponentColor: self.color.downExponent,
-											 digitColor: self.color.downDigit}]});
+								// Expression.
+								self.expressionLegend = self.addSplitLegend({
+									disabled: !self.customExpression,
+									base: self.mainSvg,
+									id: 'expressionLegend',
+									x: -self.radius + self.w - self.legendWidth,
+									y: -self.radius + 180,
+									fontsize: 12,
+									title: 'Expression:',
+									entries: [
+										{name: 'Up:',
+										 size: self.barLength,
+										 exponentColor: self.color.upExponent,
+										 digitColor: self.color.upDigit},
+										{name: 'Down:',
+										 size: self.barLength,
+										 exponentColor: self.color.downExponent,
+										 digitColor: self.color.downDigit}]});
 
-									entries = [];
-									for (i = 10; i >= 0; --i) {
-										var max = 100;
-										if (self.localExpressionPercent) {max = self.maxExpressionPercent * 100;}
-										entries.push({
-											color: self.expressionColors[i] || 'none',
-											text: '- ' + (i * 0.1 * max).toFixed(0) + '%',
-											stroke: 10 == i ? 'none' : 'black'
-										});
-									}
-									self.addLegend({
-										base: self.mainSvg,
-										id: 'expressionArcLegend',
-										fontsize: 12,
-										x: self.w * 0.5 - self.legendWidth * 0.5,
-										y: self.h * 0.1,
-										colorOffsetY: -0.5,
-										title: 'Percent Expressed:',
-										entries: entries});}}
+								entries = [];
+								for (i = 10; i >= 0; --i) {
+									var max = 100;
+									if (self.localExpressionPercent) {max = self.maxExpressionPercent * 100;}
+									entries.push({
+										color: self.expressionColors[i] || 'none',
+										text: '- ' + (i * 0.1 * max).toFixed(0) + '%',
+										stroke: 10 == i ? 'none' : 'black'
+									});
+								}
+								self.addLegend({
+									disabled: !self.customExpression,
+									base: self.mainSvg,
+									id: 'expressionArcLegend',
+									fontsize: 12,
+									x: -self.radius + self.w - self.legendWidth,
+									y: -self.radius + 360,
+									colorOffsetY: -0.5,
+									title: 'Percent Expressed:',
+									entries: entries});}
 
 						}
 
