@@ -70,7 +70,8 @@
 				if (this.svg) {
 					this.createSvg({
 						dataType: value,
-						customExpressionProcessed: null});}},
+						customExpressionProcessed: null,
+						highlightPathways: null});}},
 			get file() {return this._file;},
 			set file(value) {
 				this._file = value;
@@ -339,6 +340,7 @@
 						customOrtholog: orthologData,
 						customOrthologProcessed: null,
 						customExpressionProcessed: null,
+						highlightPathways: null,
 						dataType: bubble.species};
 					bubble.orthologLabel = bubble.selectedFile.name;
 					if (!bubble.selectedData) {bubble.title.name = 'Human vs. Custom';}
