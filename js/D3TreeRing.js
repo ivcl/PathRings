@@ -43,12 +43,12 @@
 				downDigit: '#55f'};
 			this.expressionColors = [
 				'#089c51',
-				'#31bd82',
-				'#6bd6ae',
-				'#bde7d7',
-				'#effff3',
-				'#fdd0a2',
-				'#fdae6b',
+				'#31bd72',
+				'#6bd68e',
+				'#bdf797',
+				'#efff9a',
+				'#fdd072',
+				'#fdae5b',
 				'#fd8d3c',
 				'#e6550d',
 				'#a63603'];
@@ -363,7 +363,7 @@
 									new $P.BubbleLink({
 										fillStyle: color,
 										source: new $P.D3TreeRing.BubbleLinkEnd({
-											d3ring: self,
+											ring: self.parent,
 											datum: d3.select(this).datum()}),
 										target: new $P.BubbleLink.End({object: force})}));}
 
@@ -951,7 +951,7 @@
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
-													d3ring: self,
+													ring: self.parent,
 													datum: datum}),
 												target: new $P.BubbleLink.End({object: table})
 											}));
@@ -1021,7 +1021,7 @@
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
-													d3ring: self,
+													ring: self.parent,
 													datum: d3.select(this).datum()}),
 												target: new $P.BubbleLink.End({object: table})
 											}));
@@ -1298,7 +1298,7 @@
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
-													d3ring: _this,
+													ring: self.parent,
 													datum: d3.select(this).datum()}),
 												target: new $P.BubbleLink.End({object: table})
 											}));
@@ -1335,7 +1335,7 @@
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
 												source: new $P.D3TreeRing.BubbleLinkEnd({
-													d3ring: _this,
+													ring: self.parent,
 													datum: d3.select(this).datum()}),
 												target: new $P.BubbleLink.End({object: ringBubble})
 											}));
@@ -1508,18 +1508,27 @@
 	$P.D3TreeRing.BubbleLinkEnd = $P.defineClass(
 		$P.BubbleLink.End,
 		function D3TreeRingBubbleLinkEnd(config) {
-			this.ring = config.d3ring;
+			this.ring = config.ring;
 			this.datum = config.datum;
-			$P.BubbleLink.End.call(this, {object: this.ring.parent});
+			$P.BubbleLink.End.call(this, {object: this.ring});
 		},
 		{
 			get x() {
-				var x = this.ring.centerX + this.ring.zoomTranslate[0]
-							+ this.datum.outsideEdge.x * this.ring.zoomScale;
+				var box = this.ring.svg,
+						limits = this.ring.getInteriorDimensions(),
+						x = box.centerX + box.zoomTranslate[0]
+							+ this.datum.outsideEdge.x * box.zoomScale;
+				if (x < limits.x) {x = limits.x;}
+				if (x > limits.x + limits.w) {x = limits.x + limits.w;}
 				return x;},
 			get y() {
-				return this.ring.centerY + this.ring.zoomTranslate[1]
-					+ this.datum.outsideEdge.y * this.ring.zoomScale;}
+				var box = this.ring.svg,
+						limits = this.ring.getInteriorDimensions(),
+						y = box.centerY + box.zoomTranslate[1]
+							+ this.datum.outsideEdge.y * box.zoomScale;
+				if (y < limits.y) {y = limits.y;}
+				if (y > limits.y + limits.h) {y = limits.y + limits.h;}
+				return y;}
 		});
 
 	// old name

@@ -34,7 +34,6 @@
 			if (!config.h || config.h < 560) {config.h = 560;}
 			if (!config.w || config.w < 700) {config.w = 700;}
 			$.extend(config, {mainMenu: true, closeMenu: true, groupMenu: true});
-			console.log(config.w, config.h);
 			$P.BubbleBase.call(this, config);},
 		{
 			get minRatio() {return this._minRatio;},
