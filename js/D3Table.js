@@ -119,8 +119,8 @@
 						var maxRatio = d3.max(jsonData,function(d){ return parseFloat(d.ratio)});
 						// create cells
 						tr.on('click', function(d) {
-							d3.selectAll('tr').classed('highlight', false);
-							d3.select(this).classed('highlight', true);
+							//d3.selectAll('tr').classed('highlight', false);
+							//d3.select(this).classed('highlight', true);
 						});
 						var td = tr.selectAll('td').data(function (d) {
 							if(self.keepQuery)
@@ -140,70 +140,57 @@
 						var cellTd = td.enter().append('td');
 						updateRect();
 
-						cellTd.append('text')
-							.style('margin', '0px 5px')
-							.attr('class', function (d) {
-							if (d.key == 'symbol')
-								return 'hyper';
-							else  if(d.key == 'crossTalk')
-								return 'hyper';
-							else
-								return 'normalCell';
-						})
-							.text(function (d) {
-								return d.value;
-							})
-							.on('click', function (d){
-								var i, treeRing;
-								if(d.key=='symbol')
+						cellTd.on('click', function (d){
+							var i, treeRing;
+							if(d.key=='symbol')
+							{
+								if( $('#information').children('iframe').length==0)
 								{
-									if( $('#information').children('iframe').length==0)
-									{
-										var iframe = $('<iframe frameborder="0" marginwidth="0" marginheight="0" width="560px" height="500"></iframe>');
-										iframe.attr({src: 'http://www.ncbi.nlm.nih.gov/gquery/?term='+d.value});
-										$('#information').append(iframe).dialog({
-											autoOpen: false,
-											modal: false,
-											resizable: false,
-											width: 'auto',
-											height: 'auto',
-											position: [(d3.event.pageX+10),d3.event.pageY-10],
-											close: function () {
-												iframe.attr('src', 'http://www.ncbi.nlm.nih.gov/gquery');
-											}
-										});
-									}
-									else
-									{
-										$('#information').dialog('option', 'position', [(d3.event.pageX+10),d3.event.pageY-10]);
-										$('#information').children('iframe').attr({src: 'http://www.ncbi.nlm.nih.gov/gquery/?term='+d.value});
-									}
-
-									$('#information').dialog('open');
-									$('#information').on('contextmenu', function(e){
-										return false;
+									var iframe = $('<iframe frameborder="0" marginwidth="0" marginheight="0" width="560px" height="500"></iframe>');
+									iframe.attr({src: 'http://www.ncbi.nlm.nih.gov/gquery/?term='+d.value});
+									$('#information').append(iframe).dialog({
+										autoOpen: false,
+										modal: false,
+										resizable: false,
+										width: 'auto',
+										height: 'auto',
+										position: [(d3.event.pageX+10),d3.event.pageY-10],
+										close: function () {
+											iframe.attr('src', 'http://www.ncbi.nlm.nih.gov/gquery');
+										}
 									});
 								}
-								else if(d.key=='crossTalk')
+								else
 								{
-									if(d.value == 0) {
-										alert('It does not have cross-talking pathways!');
-										console.error('It does not have cross-talking pathways!');}
+									$('#information').dialog('option', 'position', [(d3.event.pageX+10),d3.event.pageY-10]);
+									$('#information').children('iframe').attr({src: 'http://www.ncbi.nlm.nih.gov/gquery/?term='+d.value});
+								}
 
-									else {
-										treeRing = self.parent.sourceRing;
+								$('#information').dialog('open');
+								$('#information').on('contextmenu', function(e){
+									return false;
+								});
+							}
+							else if(d.key=='crossTalk')
+							{
+								if(d.value == 0) {
+									alert('It does not have cross-talking pathways!');
+									console.error('It does not have cross-talking pathways!');}
 
-										var index = self._symbols2Pathways.symbols.indexOf(d.symbol);
-										if (index !== -1) {
-											var pathways = self._symbols2Pathways.pathwayNames[index].slice(0);
-											for(i = 0; i < pathways.length; ++i) {
-												pathways[i] = $.trim(pathways[i]);}
-											if (!treeRing) {return;}
-											treeRing.createSvg({highlightPathways: pathways});
-										}
+								else {
+									treeRing = self.parent.sourceRing;
+
+									var index = self._symbols2Pathways.symbols.indexOf(d.symbol);
+									if (index !== -1) {
+										var pathways = self._symbols2Pathways.pathwayNames[index].slice(0);
+										for(i = 0; i < pathways.length; ++i) {
+											pathways[i] = $.trim(pathways[i]);}
+										if (!treeRing) {return;}
+										treeRing.createSvg({highlightPathways: pathways});
 									}
 								}
-							})
+							}
+						})
 							.on('contextmenu', function (d, i) {
 								if (self.keepQuery && d.key == 'symbol')
 								{
@@ -223,6 +210,20 @@
 								{
 									d3.event.preventDefault();
 								}
+							});
+
+						cellTd.append('text')
+							.style('margin', '0px 5px')
+							.attr('class', function (d) {
+								if (d.key == 'symbol')
+									return 'hyper';
+								else  if(d.key == 'crossTalk')
+									return 'hyper';
+								else
+									return 'normalCell';
+							})
+							.text(function (d) {
+								return d.value;
 							});
 						function updateRect(){
 
