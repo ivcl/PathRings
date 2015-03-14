@@ -16,7 +16,11 @@ $P.HtmlObject = $P.defineClass(
 		var id = 'object' + $P.HtmlObject.nextId++;
 		/** @member {HTMLElement} element - the actual html element */
 		this.element = document.createElement(config.type);
-		$(config.parent).append(this.element);
+		if (config.before) {
+			$(config.parent).find(config.before).before(this.element);
+		}
+		else {
+			$(config.parent).append(this.element);}
 		this.element.setAttribute('id', id);
 		this.element.style.position = 'absolute';
 		this.element.style['pointer-events'] = config.pointer || 'none';

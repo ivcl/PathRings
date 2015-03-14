@@ -64,7 +64,7 @@ $P.MainCanvas = $P.defineClass(
 			this.clear();
 			this.context.save();
 			this.context.translate(-$P.state.scrollX, 0);
-			this.scene.draw(this.context, this.scale);
+			this.scene.draw(this.context, this.scale, {canvas: 'main'});
 			this.context.restore();
 			this.needsRedraw = false;},
 
@@ -105,128 +105,128 @@ $P.MainCanvas = $P.defineClass(
 		}
 	});
 
-	$P.MainCanvas.Mode = $P.defineClass(
-		null,
-		function() {},
-		{
-			/**
-			 * What to do on a mouse down event.
-			 * @param {MouseEvent} event - the down event
-			 * @param {number} x - the x position of the mouse
-			 * @param {number} y - the y position of the mouse
-			 */
-			mousedown: function() {},
-			/**
-			 * What to do on a mouse move event.
-			 * @param {MouseEvent} event - the movement event
-			 * @param {number} x - the x position of the mouse
-			 * @param {number} y - the y position of the mouse
-			 */
-			mousemove: function(event, x, y) {},
-			/**
-			 * What to do on a mouse up event.
-			 * @param {MouseEvent} event - the up event
-			 * @param {number} x - the x position of the mouse
-			 * @param {number} y - the y position of the mouse
-			 */
-			mouseup: function(event, x, y) {}
-		});
-
-	$P.MainCanvas.Mode.Default = $P.defineClass(
-		$P.MainCanvas.Mode,
+$P.MainCanvas.Mode = $P.defineClass(
+	null,
+	function() {},
+	{
 		/**
-		 * @constructor
-		 * @param {$P.MainCanvas} canvas - the main canvas object
+		 * What to do on a mouse down event.
+		 * @param {MouseEvent} event - the down event
+		 * @param {number} x - the x position of the mouse
+		 * @param {number} y - the y position of the mouse
 		 */
-		function(canvas) {
-			this.canvas = canvas;
-			this.canvas.useMousemoveGlobally();
-			this.canvas.useMouseupGlobally();
-		},
-		{
-			mousemove: function(event, x, y) {
-				this.canvas.setCursor('auto');
-				this.canvas.scene.sendEvent({name: 'mousemove', x: x, y: y});},
-			mousedown: function(event, x, y) {
-				this.canvas.scene.sendEvent({name: 'mousedown', x: x, y: y});},
-			mouseup: function(event, x, y) {}
+		mousedown: function() {},
+		/**
+		 * What to do on a mouse move event.
+		 * @param {MouseEvent} event - the movement event
+		 * @param {number} x - the x position of the mouse
+		 * @param {number} y - the y position of the mouse
+		 */
+		mousemove: function(event, x, y) {},
+		/**
+		 * What to do on a mouse up event.
+		 * @param {MouseEvent} event - the up event
+		 * @param {number} x - the x position of the mouse
+		 * @param {number} y - the y position of the mouse
+		 */
+		mouseup: function(event, x, y) {}
+	});
+
+$P.MainCanvas.Mode.Default = $P.defineClass(
+	$P.MainCanvas.Mode,
+	/**
+	 * @constructor
+	 * @param {$P.MainCanvas} canvas - the main canvas object
+	 */
+	function(canvas) {
+		this.canvas = canvas;
+		this.canvas.useMousemoveGlobally();
+		this.canvas.useMouseupGlobally();
+	},
+	{
+		mousemove: function(event, x, y) {
+			this.canvas.setCursor('auto');
+			this.canvas.scene.sendEvent({name: 'mousemove', x: x, y: y});},
+		mousedown: function(event, x, y) {
+			this.canvas.scene.sendEvent({name: 'mousedown', x: x, y: y});},
+		mouseup: function(event, x, y) {}
+	}
+);
+
+$P.MainCanvas.Mode.Drag = $P.defineClass(
+	$P.MainCanvas.Mode,
+	/**
+	 * @constructor
+	 * @param {$P.MainCanvas} canvas - the main canvas object
+	 * @param {$P.Object2D} selected - the selected object to drag
+	 * @param {number} x - the starting x location
+	 * @param {number} y - the starting y location
+	 */
+	function Drag(canvas, selected, x, y) {
+		this.canvas = canvas;
+		this.selected = selected;
+		this.x = x;
+		this.y = y;
+		this.selected.highlighted = true;
+		this.selected.inMotion = true;
+		this.canvas.setCursor('move');
+		this.canvas.useMousemoveGlobally();
+		this.canvas.useMouseupGlobally();
+		$P.state.scene.disableHtmlPointerEvents();
+	},
+	{
+		mousemove: function(event, x, y) {
+			var dx = x - this.x,
+					dy = y - this.y;
+			this.selected.translate(dx, dy);
+			this.x = x;
+			this.y = y;},
+		mouseup: function(event, x, y) {
+			this.canvas.defaultMode();
+			$P.state.scene.enableHtmlPointerEvents();
+			this.selected.highlighted = false;
+			this.selected.inMotion = false;
+			this.selected.receiveEvent({name: 'dragFinish', x: x + $P.state.scrollX, y: y});
+			$P.state.scene.sendEvent({
+				name: 'bubbleMoved',
+				bubble: this.selected});}
+	});
+
+$P.MainCanvas.Mode.Resize = $P.defineClass(
+	$P.MainCanvas.Mode,
+	/**
+	 * @constructor
+	 * @param {$P.MainCanvas} canvas - the main canvas object
+	 * @param {$P.Object2D} selected - the selected object to resize
+	 * @param {String} direction - the direction to resize in
+	 * @param {number} x - the starting x location
+	 * @param {number} y - the starting y location
+	 */
+	function(canvas, selected, direction, x, y) {
+		this.canvas = canvas;
+		this.selected = selected;
+		this.direction = direction;
+		this.x = x;
+		this.y = y;
+		this.selected.highlighted = true;
+		this.canvas.useMouseupGlobally();
+		this.canvas.useMousemoveGlobally();
+		$P.state.scene.disableHtmlPointerEvents();
+	},
+	{
+		mousemove: function(event, x, y) {
+			var dx = x - this.x,
+					dy = y - this.y,
+					unused;
+			// unused accounts for the bubble having a minimum size.
+			unused = this.selected.resize(this.direction, dx, dy);
+			x += unused.l - unused.r;
+			y += unused.t - unused.b;
+			this.x = x;
+			this.y = y;},
+		mouseup: function(event, x, y) {
+			this.canvas.defaultMode();
+			$P.state.scene.enableHtmlPointerEvents();
+			this.selected.highlighted = false;
 		}
-	);
-
-	$P.MainCanvas.Mode.Drag = $P.defineClass(
-		$P.MainCanvas.Mode,
-		/**
-		 * @constructor
-		 * @param {$P.MainCanvas} canvas - the main canvas object
-		 * @param {$P.Object2D} selected - the selected object to drag
-		 * @param {number} x - the starting x location
-		 * @param {number} y - the starting y location
-		 */
-		function Drag(canvas, selected, x, y) {
-			this.canvas = canvas;
-			this.selected = selected;
-			this.x = x;
-			this.y = y;
-			this.selected.highlighted = true;
-			this.selected.inMotion = true;
-			this.canvas.setCursor('move');
-			this.canvas.useMousemoveGlobally();
-			this.canvas.useMouseupGlobally();
-			$P.state.scene.disableHtmlPointerEvents();
-		},
-		{
-			mousemove: function(event, x, y) {
-				var dx = x - this.x,
-						dy = y - this.y;
-				this.selected.translate(dx, dy);
-				this.x = x;
-				this.y = y;},
-			mouseup: function(event, x, y) {
-				this.canvas.defaultMode();
-				$P.state.scene.enableHtmlPointerEvents();
-				this.selected.highlighted = false;
-				this.selected.inMotion = false;
-				this.selected.receiveEvent({name: 'dragFinish', x: x + $P.state.scrollX, y: y});
-				$P.state.scene.sendEvent({
-					name: 'bubbleMoved',
-					bubble: this.selected});}
-		});
-
-	$P.MainCanvas.Mode.Resize = $P.defineClass(
-		$P.MainCanvas.Mode,
-		/**
-		 * @constructor
-		 * @param {$P.MainCanvas} canvas - the main canvas object
-		 * @param {$P.Object2D} selected - the selected object to resize
-		 * @param {String} direction - the direction to resize in
-		 * @param {number} x - the starting x location
-		 * @param {number} y - the starting y location
-		 */
-		function(canvas, selected, direction, x, y) {
-			this.canvas = canvas;
-			this.selected = selected;
-			this.direction = direction;
-			this.x = x;
-			this.y = y;
-			this.selected.highlighted = true;
-			this.canvas.useMouseupGlobally();
-			this.canvas.useMousemoveGlobally();
-			$P.state.scene.disableHtmlPointerEvents();
-		},
-		{
-			mousemove: function(event, x, y) {
-				var dx = x - this.x,
-						dy = y - this.y,
-						unused;
-				// unused accounts for the bubble having a minimum size.
-				unused = this.selected.resize(this.direction, dx, dy);
-				x += unused.l - unused.r;
-				y += unused.t - unused.b;
-				this.x = x;
-				this.y = y;},
-			mouseup: function(event, x, y) {
-				this.canvas.defaultMode();
-				$P.state.scene.enableHtmlPointerEvents();
-				this.selected.highlighted = false;
-			}
-		});
+	});

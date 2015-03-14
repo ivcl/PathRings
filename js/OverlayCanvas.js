@@ -12,7 +12,8 @@ $P.OverlayCanvas = $P.defineClass(
 			this.clear();
 			this.context.save();
 			this.context.translate(-$P.state.scrollX, 0);
-			this.scene.drawLinks(this.context, this.scale);
+			this.scene.drawLinks(this.context, this.scale, {canvas: 'overlay'});
+			this.scene.drawHints(this.context, this.scale, {canvas: 'overlay'});
 			this.context.restore();
 			this.needsRedraw = false;}
 	});

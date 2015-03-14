@@ -13,6 +13,7 @@
 		function D3Table(config) {
 			$P.HtmlObject.call(this, {
 				parent: '#bubble',
+				before: '#overlayCanvas',
 				type: 'div',
 				pointer: 'auto',
 				objectConfig: config});

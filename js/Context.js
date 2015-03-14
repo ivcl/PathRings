@@ -5,6 +5,7 @@
 		null,
 		function Context() {
 			this.scrollX = 0;
+			this.hintsEnabled = true;
 		},
 		{
 			/**

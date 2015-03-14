@@ -92,7 +92,8 @@
 				this.createSvg();},
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent) && !this.svg) {
-					this.createSvg();}},
+					this.createSvg();
+					this.displayHints();}},
 
 			/**
 			 * (Re)creates the svg component.
@@ -134,6 +135,41 @@
 			deleteSvg: function() {
 				this.svg.delete();
 				this.svg = null;},
+			displayHints: function() {
+				if (!$P.state.hintsEnabled) {return;}
+				if (this.selectedData) {return;}
+
+				new $P.HintBox({
+					parent: this,
+					text: 'Right Click:\nOpen a table with all\ncrosstalking genes.',
+					x: this.x + this.svg.radius + 20,
+					y: this.y + this.svg.radius - 220,
+					w: 140,
+					h: 65,
+					target: {x: this.x + this.svg.radius + 125,
+									 y: this.y + this.svg.radius - 62}});
+
+				new $P.HintBox({
+					parent: this,
+					text: 'Right Click:\nOpen a table with all\ngenes in this pathway.',
+					x: this.x + this.svg.radius + 180,
+					y: this.y + this.svg.radius - 160,
+					w: 160,
+					h: 65,
+					target: {x: this.x + this.svg.radius + 150,
+									 y: this.y + this.svg.radius - 35}});
+
+				new $P.HintBox({
+					parent: this,
+					text: 'Left Click:\nOpen a new pathway bubble for\nthis pathway\'s sub-pathways',
+					x: this.x + this.svg.radius + 220,
+					y: this.y + this.svg.radius - 10,
+					w: 220,
+					h: 65,
+					target: {x: this.x + this.svg.radius + 160,
+									 y: this.y + this.svg.radius + 30}});
+			},
+
 			createMenu: function() {
 				this.menu = new $P.TreeRing.Menu({parent: this});},
 			addStatusElement: function () {

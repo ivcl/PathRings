@@ -10,7 +10,7 @@ var $P = PATHBUBBLES;
 // The top level object container.
 $P.Scene = $P.defineClass(
 	null,
-	function  Scene() {
+	function Scene() {
 		this.children = [];
 		/**
 		 * @member {$P.HtmlObject[]} htmlObjects - List of all created html objects.
@@ -24,7 +24,10 @@ $P.Scene = $P.defineClass(
 		/**
 		 * @member links - List of all links between objects.
 		 */
-		this.links = [];},
+		this.links = [];
+
+		this.hints = [];
+	},
 	{
 		/**
 		 * Draws the scene to a canvas.
@@ -42,10 +45,15 @@ $P.Scene = $P.defineClass(
 		 * @param {CanvasRenderingContext2D} context - the canvas context
 		 * @param {number} scale - a scaling constant
 		 */
-		drawLinks: function(context, scale) {
+		drawLinks: function(context, scale, args) {
 			var i;
 			for (i = this.links.length - 1; i >= 0; --i) {
-				this.links[i].draw(context, scale);}},
+				this.links[i].draw(context, scale, args || {});}},
+
+		drawHints: function(context, scale, args) {
+			var i;
+			for (i = this.hints.length - 1; i >= 0; --i) {
+				this.hints[i].draw(context, scale, args || {});}},
 
 		/**
 		 * Adds a link to the scene.

@@ -71,41 +71,36 @@
 			mousePosX = e.clientX;
 			mousePosY = e.clientY;
 		});
-		$('#bubble').contextMenu({
-			selector: '#bgCanvas',
-			callback: function (key) {
-				var bubble;
-				if (key === 'Open_Bubble') {
-					bubble = new $P.PathwayDiagram({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
-					$P.state.scene.add(bubble);}
-				else if (key === 'Open_TreeRing') {
-					$P.state.scene.add(new $P.TreeRing({
-						x: mousePosX + $P.state.scrollX, y: mousePosY, w: 820, h: 700,
-						dataName: 'human'}));}
-				else if ('open_force' == key) {
-					bubble = new $P.Force({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
-					$P.state.scene.add(bubble);}
-				else if (key === 'Delete_All') {
-					if (window.confirm('Delete all bubbles?')) {
-						$P.state.scene.deleteAll();}}
-				else if (key === 'Open_Help') {       //modify a bug by changing for loop from i=0, ... to i= array length to 0
-					window.open('documents/manual.pdf');
-				}
-				else if (key === 'Toggle_Links') {       //modify a bug by changing for loop from i=0, ... to i= array length to 0
-
-					showLinks =!showLinks;
-				}
-			},
-			items: {
-				//'Open_Bubble': {name: 'Open Pathway Graph'},
-				'Open_TreeRing': {name: 'Open Entire Pathway'},
-				//open_force: {name: 'Open Force Directed'},
-				//            'Open_Tree': {name: 'Open Pathway'},
-				'Delete_All': {name: 'Delete All'},
-				//'sep1': '---------',
-				'Open_Help': {name: 'Open Help'}
-				//'Toggle_Links': {name: 'Toggle show Links'}
-			}
-		});
+		function setContextMenu() {
+			$('#bubble').contextMenu({
+				selector: '#bgCanvas',
+				callback: function (key) {
+					var bubble;
+					if (key === 'Open_TreeRing') {
+						$P.state.scene.add(new $P.TreeRing({
+							x: mousePosX + $P.state.scrollX, y: mousePosY, w: 820, h: 700,
+							dataName: 'human'}));}
+					else if ('open_force' == key) {
+						bubble = new $P.Force({x: mousePosX + $P.state.scrollX, y: mousePosY, w: 400, h: 400});
+						$P.state.scene.add(bubble);}
+					else if (key === 'Delete_All') {
+						if (window.confirm('Delete all bubbles?')) {
+							$P.state.scene.deleteAll();}}
+					else if (key === 'Open_Help') {
+						window.open('documents/manual.pdf');}
+					else if (key === 'Toggle_Hints') {
+						$P.state.hintsEnabled = !$P.state.hintsEnabled;
+						if (!$P.state.hintsEnabled) {
+							$P.state.scene.sendEvent({name: 'destroyHints'});}
+						//setContextMenu();
+					}
+				},
+				items: {
+					'Open_TreeRing': {name: 'Open Entire Pathway'},
+					'Delete_All': {name: 'Delete All'},
+					'Open_Help': {name: 'Open Help'},
+					'Toggle_Hints': {name: 'Toggle Hints'}}
+			});}
+		setContextMenu();
 	});
 })(PATHBUBBLES);
