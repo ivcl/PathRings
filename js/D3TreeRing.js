@@ -939,7 +939,7 @@
 											crosstalking: _this.crosstalkSymbols,
 											keepQuery: true,
 											sourceRing: self.parent,
-											w: 400, h: 400});
+											w: 290, h: 400});
 										bubble.parent.add(table);
 
 										var angle = datum.angle * Math.PI / 180,
@@ -1010,7 +1010,7 @@
 											crosstalking: self.crosstalkSymbols,
 											keepQuery: true,
 											sourceRing: self.parent,
-											w: 400, h: 400});
+											w: 490, h: 400});
 										bubble.parent.add(table);
 
 										angle = d3datum.angle * Math.PI / 180;
@@ -1293,7 +1293,7 @@
 											name: datum.name,
 											experimentType: self.parent.experimentType,
 											sourceRing: self.parent,
-											w: 400, h: 400});
+											w: 650, h: 400});
 										bubble.parent.add(table);
 
 										$P.state.scene.addLink(
