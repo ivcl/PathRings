@@ -30,9 +30,11 @@ $P.BubbleLink = $P.defineClass(
 	},
 	{
 		drawSelf: function(context, scale) {
-			var dx = this.target.x - this.source.x,
-					dy = this.target.y - this.source.y,
-					baseDir = new $P.Vector2D(dx, dy).normalized().rotate90();
+			var dx, dy, baseDir;
+			if (!$P.state.linksEnabled) {return;}
+			dx = this.target.x - this.source.x;
+			dy = this.target.y - this.source.y;
+			baseDir = new $P.Vector2D(dx, dy).normalized().rotate90();
 			context.save();
 			context.globalAlpha = this.opacity;
 			context.beginPath();

@@ -6,6 +6,7 @@
 		function Context() {
 			this.scrollX = 0;
 			this.hintsEnabled = true;
+			this.linksEnabled = true;
 		},
 		{
 			/**

@@ -91,15 +91,17 @@
 					else if (key === 'Toggle_Hints') {
 						$P.state.hintsEnabled = !$P.state.hintsEnabled;
 						if (!$P.state.hintsEnabled) {
-							$P.state.scene.sendEvent({name: 'destroyHints'});}
-						//setContextMenu();
-					}
+							$P.state.scene.sendEvent({name: 'destroyHints'});}}
+					else if (key === 'Toggle_Links') {
+						$P.state.linksEnabled = !$P.state.linksEnabled;
+						$P.state.markDirty();}
 				},
 				items: {
 					'Open_TreeRing': {name: 'Open Entire Pathway'},
 					'Delete_All': {name: 'Delete All'},
 					'Open_Help': {name: 'Open Help'},
-					'Toggle_Hints': {name: 'Toggle Hints'}}
+					'Toggle_Hints': {name: 'Toggle Hints'},
+					'Toggle_Links': {name: 'Toggle Links'}}
 			});}
 		setContextMenu();
 	});
