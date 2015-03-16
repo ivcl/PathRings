@@ -963,49 +963,47 @@
 										var d3selection = d3.select(this),
 												d3datum = d3selection.datum(),
 												expression = d3datum.expression,
-												ups, downs, tableData, upData, downData, table, angle, offset;
+												ups, downs, data, table, angle, offset;
 
 										if (!expression) {return;}
 
 										ups = expression.ups;
 										downs = expression.downs;
-										upData = [];
-										downData = [];
+										data = new $P.Map();
 
 										ups.forEach(function(up) {
-											var datum = $P.findFirst(upData, function(datum) {return up.symbol === datum.symbol;});
-											if (datum) {
-												++datum.count;}
+											var entry = data.get(up.symbol.toUpperCase());
+											if (entry) {
+												++entry.count;}
 											else {
-												upData.push({
-													symbol: up.symbol,
+												data.set(up.symbol.toUpperCase(), {
+													symbol: up.symbol.toUpperCase(),
 													count: 1,
 													gene_id: up.gene_id,
 													regulation: 'Up',
 													ratio: parseFloat(up.ratio).toFixed(5),
 													crossTalk: self.getCrossTalkPathways(up.symbol).length,
 													rateLimit: self.getRateLimit(up.symbol)});}});
-										upData.forEach(function(datum) {datum.symbol = datum.symbol.toUpperCase();});
 
 										downs.forEach(function(down) {
-											var datum = $P.findFirst(upData, function(datum) {return down.symbol === datum.symbol;});
-											if (datum) {
-												++datum.count;}
+											var entry = data.get(down.symbol.toUpperCase());
+											if (entry) {
+												if ('Up' === entry.regulation) {console.error('Inconsistent Data');}
+												++entry.count;}
 											else {
-												downData.push({
-													symbol: down.symbol,
+												data.set(down.symbol.toUpperCase(), {
+													symbol: down.symbol.toUpperCase(),
 													count: 1,
 													gene_id: down.gene_id,
 													regulation: 'Down',
 													ratio: parseFloat(down.ratio).toFixed(5),
 													crossTalk: self.getCrossTalkPathways(down.symbol).length,
 													rateLimit: self.getRateLimit(down.symbol)});}});
-										downData.forEach(function(datum) {datum.symbol = datum.symbol.toUpperCase();});
 
 										table = new $P.Table({
 											dbId: d3datum.dbId,
 											name: d3datum.name,
-											data: upData.concat(downData),
+											data: data.values(),
 											experimentType: self.parent.experimentType,
 											crosstalking: self.crosstalkSymbols,
 											keepQuery: true,

@@ -194,6 +194,18 @@ $P.asyncOrdered = function(callbacks) {
 				list.forEach(function(element) {set.data[key(element)] = true;});
 				return this;}});
 
+	$P.Map = $P.defineClass(
+		null,
+		function Map() {this.data = {};},
+		{
+			get: function(key) {return this.data[key];},
+			set: function(key, value) {this.data[key] = value;},
+			values: function() {
+				var values = [], key;
+				for (key in this.data) {values.push(this.data[key]);}
+				return values;}
+		});
+
 	/**
 	 * Turn a list into a map indexed by f.
 	 */
