@@ -116,6 +116,28 @@ $P.ActionButton.defineBase({
 });
 
 $P.ActionButton.defineBase({
+	name: 'mirror',
+	text: '||',
+	action: function(canvas, x, y) {
+		var bubble = this.parent,
+				d3 = bubble.svg,
+				pathways = $P.values(bubble.pathways),
+				ids = [];
+		$.each(d3.entities, function(k, entity) {
+			ids.push(entity.id);
+		});
+		var force = new $P.MirrorForce({
+			x: bubble.parent.x + bubble.parent.w + 10,
+			w: 800, h: 400,
+			ids: ids,
+			leftPathway: pathways[0],
+			rightPathway: pathways[1]
+		});
+		$P.state.scene.add(force);
+		return true;}
+});
+
+$P.ActionButton.defineBase({
 	name: 'reset',
 	text: 'R',
 	action: function() {

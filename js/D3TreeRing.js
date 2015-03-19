@@ -1,7 +1,7 @@
 (function($P){
 	//'use strict';
 
-	var forceEnabled = false;
+	var forceEnabled = true;
 
 	$P.D3TreeRing = $P.defineClass(
 		$P.HtmlObject,
@@ -342,7 +342,14 @@
 							x = _this.dragAbsolute.x + _this.parent.x + _this.parent.w * 0.5,
 							y = _this.dragAbsolute.y + _this.parent.y + _this.parent.h * 0.5;
 
-							force = $P.state.scene.sendEvent({name: 'reactionDrag', x: x, y: y});
+							$P.state.scene.sendEvent({
+								name: 'dragPathway',
+								x: x, y: y,
+								pathwayId: d.dbId,
+								pathwayName: d.name});
+
+								/*
+								force = $P.state.scene.sendEvent({name: 'reactionDrag', x: x, y: y});
 
 							// No object, so make a new force diagram.
 							if (!force) {
@@ -357,7 +364,7 @@
 								force.svg.addSymbols(d.dbId, _this.getExpressionMap(), d.symbols);}
 
 							else {force = null;}
-
+								 */
 							if (force) {
 								color = force.getPathwayColor(d.dbId);
 								$P.state.scene.addLink(

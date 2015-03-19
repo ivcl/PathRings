@@ -44,6 +44,7 @@ for (entity_id, pathway_id, local_id) in c:
       'entities': {entity_id: local_id}}
 
 reactions = {}
+entities = {} # clear entity list
 c.execute('SELECT DISTINCT reaction_id FROM reaction_entities WHERE entity_id IN (%s)' % sql_entity_ids)
 for (reaction_id,) in c:
   reaction_id = int(reaction_id)

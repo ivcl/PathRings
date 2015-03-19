@@ -37,7 +37,7 @@
 
 			this.repositionMenus();
 
-			this.title = new $P.Title({parent: this, name: ''});
+			this.title = new $P.Title({parent: this, name: '', strokeStyle: this.strokeStyle});
 			this.name = config.name || '';
 			if (this.name instanceof Function) {this.name = this.name.call(this);}},
 		{
@@ -260,8 +260,9 @@
 			 */
 			setStrokeStyle: function(style) {
 				this.strokeStyle = style;
-				this.title.strokeStyle = style;
-				this.title.fillStyle = style;
+				if (this.title) {
+					this.title.strokeStyle = style;
+					this.title.fillStyle = style;}
 				$P.state.markDirty();}
 		});
 

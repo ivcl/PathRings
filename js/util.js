@@ -214,4 +214,12 @@ $P.asyncOrdered = function(callbacks) {
 		list.forEach(function(element) {map[f(element)] = element;});
 		return map;};
 
+	// Creates a list from an object's values.
+	$P.values = function(object) {
+		var key, list = [];
+		for (key in object) {
+			if (object.hasOwnProperty(key)) {
+				list.push(object[key]);}}
+		return list;};
+
 })(PATHBUBBLES);

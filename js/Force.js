@@ -15,6 +15,9 @@ $P.Force = $P.defineClass(
 		config.groupMenu = true;
 		$P.BubbleBase.call(this, config);
 
+		this.add($P.ActionButton.create('mirror'));
+		this.repositionMenus();
+
 		this.pathways = {};},
 	{
 		/**
@@ -25,8 +28,11 @@ $P.Force = $P.defineClass(
 		 */
 		addPathway: function(id, name, preferredColor) {
 			if ('string' === typeof id || id instanceof String) {id = parseInt(id);}
+			if (this.pathways[id]) {
+				console.error('Pathway already exists:', id);
+				return;}
 			if ('Force' === this.name) {this.name = name;}
-			this.pathways[id] = {name: name, color: this.pickPathwayColor(preferredColor)};
+			this.pathways[id] = {id: id, name: name, color: this.pickPathwayColor(preferredColor)};
 			if (this.svg) {this.svg.onPathwayRegistered(id);}},
 		/**
 		 * Gets the color associated with a given pathway.
@@ -53,7 +59,6 @@ $P.Force = $P.defineClass(
 				config = {parent: this};
 				config = $.extend(config, this.getInteriorDimensions());
 				this.svg = new $P.D3Force(config);}},
-
 		receiveEvent: function(event) {
 			var result;
 

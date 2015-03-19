@@ -103,7 +103,7 @@ $P.BubbleGroup = $P.defineClass(
 				this.children[i].neighbors.right = this.children[i + 1] || null;}
 			this.children.forEach(function(child) {
 				child.move(x, this.y);
-				child.groupButton.setHighlighted(grouped);
+				if (child.groupButton) {child.groupButton.setHighlighted(grouped);}
 				x += child.w + child.lineWidth * 0.5;
 			}.bind(this));
 		}
