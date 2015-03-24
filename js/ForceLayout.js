@@ -28,7 +28,7 @@
 					if (link.linkStrength) {return link.linkStrength;}
 					return 1;})
 				.linkDistance(function(link) {
-					if (link.linkDistnace) {return link.linkDistance;}
+					if (link.linkDistance) {return link.linkDistance;}
 					return 50;});
 		},
 		{
