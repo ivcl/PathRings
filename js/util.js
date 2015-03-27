@@ -214,4 +214,46 @@ $P.asyncOrdered = function(callbacks) {
 		list.forEach(function(element) {map[f(element)] = element;});
 		return map;};
 
+	/*
+	$P.factorial = (function() {
+		var f = [$P.bignum.int2bigInt(1, 1, 1), $P.bignum.int2bigInt(1, 1, 1)];
+		function factorial(n) {
+			var i, ibig;
+			if (undefined !== f[n]) {return f[n];}
+			for (i = f.length; i <= n; ++i) {
+				ibig = $P.bignum.int2bigInt(i, Math.log2(i), 0);
+				f[i] = $P.bignum.mult(f[i - 1], ibig);}
+			return f[n];}
+		return factorial;})();
+	 */
+
+	$P.log10 = Math.log(10);
+
+	$P.fisher = function(inA, outA, inB, outB) {
+		var result;
+		function choose(n, k) {
+			var sum = 0, i;
+			for (i = 0; i < k; ++i) {
+				sum += Math.log(n - i);
+				sum -= Math.log(i + 1);}
+			return sum;}
+
+		result = choose(inA + outA, inA) + choose(inB + outB, inB) - choose(inA + outA + inB + outB, inA + inB);
+		return Math.exp(result);};
+
+	/*
+	 $P.fisher = function(inA, outA, inB, outB) {
+	 console.log(inA, outA, inB, outB);
+	 console.log($P.factorial(inA + outA + inB + outB));
+	 return ($P.factorial(inA + outA)
+	 + $P.factorial(inB + outB)
+	 + $P.factorial(inA + inB)
+	 + $P.factorial(outA + outB))
+	 / $P.factorial(inA)
+	 / $P.factorial(outA)
+	 / $P.factorial(inB)
+	 / $P.factorial(outB)
+	 / $P.factorial(inA + outA + inB + outB);};
+	 */
+
 })(PATHBUBBLES);

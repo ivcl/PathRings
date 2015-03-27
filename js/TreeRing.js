@@ -23,6 +23,7 @@
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
 			this._localExpressionPercent = true;
+			this._fisher = false;
 			this.orthologFile = config.orthologFile || null;
 			this.orthologLabel = '';
 			if (this.orthologFile) {this.orthologLabel = this.orthologFile.name;}
@@ -90,6 +91,12 @@
 				if (this.menu) {
 					$(this.menu.element).find('#localExpressionPercent').prop('checked', value);}
 				this.createSvg();},
+			get fisher() {return this._fisher;},
+			set fisher(value) {
+				if (value === this._fisher) {return;}
+				this._fisher = value;
+				if (this.menu) {this.menu.fisher = value;}
+				this.createSvg();},
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent) && !this.svg) {
 					this.createSvg();
@@ -118,6 +125,7 @@
 				if (this.selectedData) {actual_config.selectedData = this.selectedData;}
 				if (this.orthologFile) {actual_config.orthologFile = this.orthologFile;}
 				if (this.expressionFile) {actual_config.expressionFile = this.expressionFile;}
+				actual_config.fisher = this.fisher;
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
 				actual_config.x += 8;
 				actual_config.y += 8;
@@ -243,6 +251,10 @@
 			tmp +=     '<input id="localExpressionPercent" type="checkbox" style="vertical-align: middle;"/> Local Expression Percentage<br/>';
 			tmp +=   '</div>';
 
+			tmp +=   '<div id="fisherBlock" style="font-size: 85%;">';
+			tmp +=     '<input id="fisher" type="checkbox" style="vertical-align: middle;"/> Enable Fisher Test<br/>';
+			tmp +=   '</div>';
+
 			tmp += '</div>';
 
 			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 2%;">';
@@ -294,7 +306,8 @@
 				bubble.displayMode = this.value;});
 
 			if (!(bubble.svg && bubble.svg.customExpression)) {
-				element.find('#localPercentBlock').hide();}
+				element.find('#localPercentBlock').hide();
+				element.find('#fisherBlock').hide();}
 
 			element.find('#localExpressionPercent').change(function() {
 				bubble.localExpressionPercent = $(this).prop('checked');});
@@ -303,6 +316,15 @@
 			this.species = bubble.species;
 			element.find('#selectSpecies').change(function() {
 				bubble.species = $(this).val();});
+
+			this.fisher = bubble.fisher;
+			element.find('#fisher').change(function() {
+				bubble.fisher = $(this).prop('checked');
+				if ($(this).prop('checked')) {
+					element.find('#localPercentBlock').hide();}
+				else {
+					element.find('#localPercentBlock').show();}
+			});
 
 			element.find('#crosstalkLevel').change(function () {
 				bubble.crosstalkLevel = $(this).val();});
@@ -350,6 +372,8 @@
 				$(this.element).find('#selectSpecies').val(value);},
 			set crosstalkLevel(value) {
 				$(this.element).find('#crosstalkLevel').val(value);},
+			set fisher(value) {
+				$(this.element).find('#fisher').prop('checked', value);},
 			loadOrtholog: function() {
 				var menu = this,
 						bubble = this.parent,
@@ -411,6 +435,7 @@
 					bubble.expressionLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);
+					$(menu.element).find('#fisherBlock').show();
 					$(menu.element).find('#localPercentBlock').show();});},
 			onPositionChanged: function (dx, dy, dw, dh) {
 				$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);
