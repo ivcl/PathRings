@@ -13,6 +13,9 @@
 				pointer: 'auto',
 				objectConfig: config});
 
+			// XXX
+			this.chickenGeneCount = 15945;
+
 			this.defaultRadius = config.defaultRadius;
 			this.name = config.name || '';
 			this.dataType = config.dataType;
@@ -48,6 +51,18 @@
 				'#31bd72',
 				'#6bd68e',
 				'#bdf797',
+				'#efff9a',
+				'#fdd072',
+				'#fdae5b',
+				'#fd8d3c',
+				'#e6550d',
+				'#a63603'];
+			this.fisherColors = [
+				'#089cbb',
+				'#31bdcc',
+				'#6bd6df',
+				'#bdf7ff',
+
 				'#efff9a',
 				'#fdd072',
 				'#fdae5b',
@@ -115,6 +130,7 @@
 					.attr('x', 20)
 					.attr('y', function(entry, i) {return fontsize + 2  + (i + (config.textOffsetY || 0)) * (fontsize + 2);})
 					.attr('font-size', fontsize)
+					.attr('font-weight', function(entry) {return entry.bold ? 'bold' : '';})
 					.text(function(entry) {return entry.text;});
 				return legend;},
 			addMarkedBar: function(config) {
@@ -508,7 +524,8 @@
 										exprCount = d.expression.ups.length + d.expression.downs.length;
 										d.expressionFisher = $P.fisher(
 											exprCount, self.customExpression.length - exprCount,
-											d.symbols.length, self.symbolCount - d.symbols.length);
+											d.symbols.length, self.chickenGeneCount - d.symbols.length);
+										if (0 !== exprCount) {console.log(d.name, d.expressionFisher, exprCount, self.customExpression.length - exprCount, d.symbols.length, self.chickenGeneCount - d.symbols.length);}
 									});
 									finish();}
 
@@ -532,18 +549,22 @@
 								self.customExpressionProcessed.__pathways = {};
 
 								function process(d) {
-									var minRatio, maxRatio, exprs, expressions;
+									var minRatio, maxRatio, exprs, expressions, usedSymbols;
 									if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
 									minRatio = self.parent.minRatio;
 									maxRatio = self.parent.maxRatio;
 									exprs = {ups: [], downs: [], unchanges: []};
 									self.customExpressionProcessed[d.name] = exprs;
 									expressions = self.customExpressionProcessed.__expressions;
+									usedSymbols = {};
 									d.gallusOrth.sharedSymbols.forEach(function(symbol) {
 										var expression, ratio;
 										if (!symbol) {return;}
-										expression = expressions[symbol.toUpperCase()];
+										symbol = symbol.toUpperCase();
+										expression = expressions[symbol];
 										if (!expression) {return;}
+										if (usedSymbols[symbol]) {return;}
+										usedSymbols[symbol] = true;
 										ratio = parseFloat(expression.ratio);
 										if (ratio >= maxRatio) {exprs.ups.push(expression);}
 										else if (ratio <= minRatio) {exprs.downs.push(expression);}
@@ -636,16 +657,16 @@
 									function getFisherColor(ratio) {
 										ratio = Math.min(ratio, 1 - 0.000000001);
 										ratio = Math.max(ratio, 0);
-										if (ratio >= 0.5) {return self.expressionColors[0];}
-										if (ratio >= 0.25) {return self.expressionColors[1];}
-										if (ratio >= 0.1) {return self.expressionColors[2];}
-										if (ratio >= 0.05) {return self.expressionColors[3];}
-										if (ratio >= 0.025) {return self.expressionColors[4];}
-										if (ratio >= 0.01) {return self.expressionColors[5];}
-										if (ratio >= 0.005) {return self.expressionColors[6];}
-										if (ratio >= 0.0025) {return self.expressionColors[7];}
-										if (ratio >= 0.001) {return self.expressionColors[8];}
-										return self.expressionColors[9];};
+										if (ratio >= 0.5) {return self.fisherColors[0];}
+										if (ratio >= 0.25) {return self.fisherColors[1];}
+										if (ratio >= 0.1) {return self.fisherColors[2];}
+										if (ratio >= 0.05) {return self.fisherColors[3];}
+										if (ratio >= 0.025) {return self.fisherColors[4];}
+										if (ratio >= 0.01) {return self.fisherColors[5];}
+										if (ratio >= 0.005) {return self.fisherColors[6];}
+										if (ratio >= 0.0025) {return self.fisherColors[7];}
+										if (ratio >= 0.001) {return self.fisherColors[8];}
+										return self.fisherColors[9];};
 
 									if (self.customExpression && self.localExpressionPercent) {
 										self.maxExpressionPercent =
@@ -1362,7 +1383,8 @@
 											dataType: dataType,
 											selectedData: selectedData,
 											orthologFile: self.orthologFile,
-											expressionFile: self.expressionFile});
+											expressionFile: self.expressionFile,
+											fisher: self.parent.fisher});
 										self.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
@@ -1465,34 +1487,35 @@
 										{color: 'none',
 										 text: '- 1.0000',
 										 stroke: 'none'},
-										{color: self.expressionColors[0],
+										{color: self.fisherColors[0],
 										 text: '- 0.5000',
 										 stroke: 'black'},
-										{color: self.expressionColors[1],
+										{color: self.fisherColors[1],
 										 text: '- 0.2500',
 										 stroke: 'black'},
-										{color: self.expressionColors[2],
+										{color: self.fisherColors[2],
 										 text: '- 0.1000',
 										 stroke: 'black'},
-										{color: self.expressionColors[3],
+										{color: self.fisherColors[3],
 										 text: '- 0.0500',
+										 bold: true,
 										 stroke: 'black'},
-										{color: self.expressionColors[4],
+										{color: self.fisherColors[4],
 										 text: '- 0.0250',
 										 stroke: 'black'},
-										{color: self.expressionColors[5],
+										{color: self.fisherColors[5],
 										 text: '- 0.0100',
 										 stroke: 'black'},
-										{color: self.expressionColors[6],
+										{color: self.fisherColors[6],
 										 text: '- 0.0050',
 										 stroke: 'black'},
-										{color: self.expressionColors[7],
+										{color: self.fisherColors[7],
 										 text: '- 0.0025',
 										 stroke: 'black'},
-										{color: self.expressionColors[8],
+										{color: self.fisherColors[8],
 										 text: '- 0.0010',
 										 stroke: 'black'},
-										{color: self.expressionColors[9],
+										{color: self.fisherColors[9],
 										 text: '- 0.0000',
 										 stroke: 'black'}
 									];

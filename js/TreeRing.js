@@ -23,7 +23,7 @@
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
 			this._localExpressionPercent = true;
-			this._fisher = false;
+			this._fisher = config.fisher || false;
 			this.orthologFile = config.orthologFile || null;
 			this.orthologLabel = '';
 			if (this.orthologFile) {this.orthologLabel = this.orthologFile.name;}
@@ -96,7 +96,7 @@
 				if (value === this._fisher) {return;}
 				this._fisher = value;
 				if (this.menu) {this.menu.fisher = value;}
-				this.createSvg();},
+				this.createSvg({fisher: value});},
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent) && !this.svg) {
 					this.createSvg();
@@ -108,6 +108,7 @@
 			 */
 			createSvg: function(config, suppressPropogate) {
 				var self = this;
+
 				// Propagate changes.
 				if (!suppressPropogate) {
 					this.links.forEach(function(link) {
@@ -120,12 +121,12 @@
 				$.extend(actual_config, {
 					defaultRadius: Math.min(this.w - this.legendWidth, this.h) - 30,
 					dataType: this.dataType,
-					localExpressionPercent: this.localExpressionPercent});
+					localExpressionPercent: this.localExpressionPercent,
+					fisher: this.fisher});
 				if (this.dataName) {actual_config.name = this.dataName;}
 				if (this.selectedData) {actual_config.selectedData = this.selectedData;}
 				if (this.orthologFile) {actual_config.orthologFile = this.orthologFile;}
 				if (this.expressionFile) {actual_config.expressionFile = this.expressionFile;}
-				actual_config.fisher = this.fisher;
 				actual_config = $.extend(actual_config, this.getInteriorDimensions());
 				actual_config.x += 8;
 				actual_config.y += 8;

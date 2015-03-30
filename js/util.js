@@ -238,7 +238,12 @@ $P.asyncOrdered = function(callbacks) {
 				sum -= Math.log(i + 1);}
 			return sum;}
 
+		// More conservative test.
+		//inA--;
+
 		result = choose(inA + outA, inA) + choose(inB + outB, inB) - choose(inA + outA + inB + outB, inA + inB);
+		//if (0 !== inA) {
+		//	console.log('FISHER:', inA, outA, inB, outB, Math.exp(result));}
 		return Math.exp(result);};
 
 	/*
