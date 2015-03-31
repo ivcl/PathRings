@@ -346,7 +346,8 @@
 								name: 'dragPathway',
 								x: x, y: y,
 								pathwayId: d.dbId,
-								pathwayName: d.name});
+								pathwayName: d.name,
+								expression: _this.getExpressionMap()});
 
 								/*
 								force = $P.state.scene.sendEvent({name: 'reactionDrag', x: x, y: y});

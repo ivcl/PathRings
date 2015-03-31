@@ -63,8 +63,6 @@ for (entity_id, _type, name, location, uniprot_id, reaction_id, direction) in c:
 #  reaction['name'] = name
 #  reaction['pathways']['pathway_id'] = local_id
 
-
-
 pathways = {}
 c.execute('SELECT * FROM entity_pathways WHERE entity_id IN (%s)' % id_list)
 for (entity_id, pathway_id, local_id) in c:

@@ -27,7 +27,7 @@
 				var result;
 
 				if ('dragPathway' == event.name && this.contains(event.x, event.y)) {
-					console.log('Pathway Event Received');
+					this.svg.expression = event.expression;
 					this.svg.addPathway(event.pathwayId);
 					return true;}
 

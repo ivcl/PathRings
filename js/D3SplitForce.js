@@ -22,6 +22,17 @@
 			this.updateSvgPosition();
 		},
 		{
+			set expression(value) {
+				if (this._expression === value) {return;}
+				this._expression = value;
+				if (!value) {return;}
+			},
+
+			getExpressionColor: function(symbol) {
+				if ('up' === this._expression[symbol]) {return 'yellow';}
+				if ('down' === this._expression[symbol]) {return 'cyan';}
+				return 'white';},
+
 			addPathway: function(pathwayId) {
 				var self = this;
 				function onFinish() {
@@ -48,8 +59,11 @@
 				var self = this, selection;
 
 				self.zoom = d3.behavior.zoom().scaleExtent([0.1, 10])
+					.center([self.w/2, self.h/2])
 					.on('zoom', self.onZoom.bind(self));
 				self.svg.call(self.zoom);
+
+				var side = this.svg;
 
 				this.layout.mode = 'single';
 				this.svg.links = this.svg.main.selectAll('.link').data(this.layout.links)
@@ -57,12 +71,21 @@
 				this.svg.nodes = this.svg.main.selectAll('.node').data(this.layout.nodes)
 					.enter().append('g').attr('class', 'node').call(this.layout.drag);
 
+				console.log(this.layout.nodes);
+
 				this.svg.locations = this.svg.nodes.filter(function(d, i) {return 'location' === d.klass;});
 				this.svg.locations.attr('data-class', 'location');
 				this.svg.locations.append('circle')
 					.attr('stroke', 'black')
-					.attr('fill', 'white')
+					.attr('fill', $P.getter('color'))
 					.attr('r', 40);
+				side.locations.append('text')
+					.style('font-size', '15px')
+					.attr('stroke', 'none')
+					.attr('fill', 'black')
+					.attr('text-anchor', 'middle')
+				//.attr('transform', 'rotate(' + (-side.startDegrees) + ')')
+					.text($P.getter('name'));
 				this.svg.reactionLinks = this.svg.links.filter(
 					function(d, i) {return 'reaction:entity' === d.klass;});
 				this.svg.reactionLinks.attr('data-class', 'reaction:entity');
@@ -87,9 +110,30 @@
 				this.svg.entities = this.svg.nodes.filter(function(d, i) {return 'entity' === d.klass;});
 				this.svg.entities.attr('data-class', 'entity');
 				this.svg.entities.append('circle')
+					.attr('stroke', 'none')
+					.attr('fill', function(entity) {return self.layout.getNode('location:'+entity.location).color;})
+					.attr('fill-opacity', 0.1)
+					.attr('pointer-events', 'none')
+					.attr('r', 60);
+				this.svg.entities.append('circle')
 					.attr('stroke', 'black')
-					.attr('fill', 'blue')
+					.attr('fill', function(d) {return self.getExpressionColor(d.name);})
 					.attr('r', 5);
+				this.svg.entityLabels = this.svg.nodes.filter(function(d) {return 'entitylabel' === d.klass;});
+				this.svg.entityLabels.attr('data-class', 'entitylabel');
+				this.svg.entityLabels.append('text')
+					.style('font-size', '12px')
+					.attr('text-anchor', 'middle')
+					.attr('fill', 'black')
+					.text($P.getter('name'));
+				this.svg.entityLabelLinks = this.svg.links.filter(
+					function(d) {return 'entity:label' === d.klass;});
+				this.svg.entityLabelLinks.attr('data-class', 'entity:label');
+				this.svg.entityLabelLinks.append('line')
+					.attr('stroke', 'black')
+					.attr('stroke-width', 1)
+					.attr('stroke-opacity', 0.2)
+					.attr('fill', 'none');
 
 			},
 
@@ -97,7 +141,8 @@
 				var self = this, i, side, eventbox;
 				this.layout.mode = 'mirror';
 
-				self.zoom = d3.behavior.zoom().scaleExtent([0.1, 10]).size([250, 500])
+				self.zoom = d3.behavior.zoom().scaleExtent([0.1, 10]).size([500, 500])
+					.center([250, 250])
 					.on('zoom', self.onZoom.bind(self));
 				self.svg.call(self.zoom);
 				this.svg.attr('pointer-events', 'all').call(self.zoom);
@@ -153,6 +198,7 @@
 				side.pathway = this.pathways[1];
 				side.index = 1;
 				side.side = 1;
+				side.mirrored = true;
 				side.call(self.zoom);
 				side.attr('pointer-events', 'all');
 				//side.eventbox = this.svg.main.append('rect').style('visibility', 'hidden')
@@ -167,6 +213,8 @@
 					nodes = self.layout.nodes.filter(function(node) {
 						if ('entity' === node.klass) {
 							return node.pathways[side.pathway];}
+						if ('entitylabel' === node.klass) {
+							return self.layout.getNode('entity:'+node.id).pathways[side.pathway];}
 						return true;});
 					nodes.forEach(function(node) {node.side = side;});
 					nodes.indexed = $P.indexBy(nodes, $P.getter('layoutId'));
@@ -184,8 +232,15 @@
 					side.locations.attr('data-class', 'location');
 					side.locations.append('circle')
 						.attr('stroke', 'black')
-						.attr('fill', 'white')
+						.attr('fill', $P.getter('color'))
 						.attr('r', 40);
+					side.locations.append('text')
+						.style('font-size', '15px')
+						.attr('stroke', 'none')
+						.attr('fill', 'black')
+						.attr('text-anchor', 'middle')
+						.attr('transform', function() {return side.mirrored ? 'scale(-1,1)' : '';})
+						.text($P.getter('name'));
 					side.reactionLinks = side.links.filter(
 						function(d, i) {return 'reaction:entity' === d.klass;});
 					side.reactionLinks.attr('data-class', 'reaction:entity');
@@ -208,16 +263,40 @@
 						.attr('width', 5).attr('height', 5);
 					side.entities = side.nodes.filter(function(d, i) {return 'entity' === d.klass;});
 					side.entities.attr('data-class', 'entity');
+					side.entities.append('circle')
+						.attr('stroke', 'none')
+						.attr('fill', function(entity) {return self.layout.getNode('location:'+entity.location).color;})
+						.attr('fill-opacity', 0.1)
+						.attr('pointer-events', 'none')
+						.attr('r', 60);
 					side.entities.filter(function(d) {return nodes.indexed[d.layoutId];})
 						.append('circle')
 						.attr('stroke', 'black')
-						.attr('fill', side.color || 'blue')
+						.attr('fill', function(d) {return self.getExpressionColor(d.name);})
 						.attr('r', 8);
 					side.entities.filter(function(d) {return !nodes.indexed[d.layoutId];})
 						.append('circle')
 						.attr('stroke', 'black')
-						.attr('fill', 'white')
-						.attr('r', 2);});
+						.attr('fill', function(d) {return self.getExpressionColor(d.name);})
+						.attr('r', 2);
+					side.entityLabels = side.nodes.filter(
+						function(d) {return 'entitylabel' === d.klass && nodes.indexed[d.layoutId];});
+					side.entityLabels.attr('data-class', 'entitylabel');
+					side.entityLabels.append('text')
+						.style('font-size', '12px')
+						.attr('text-anchor', 'middle')
+						.attr('fill', 'black')
+						.attr('transform', function() {return side.mirrored ? 'scale(-1,1)' : '';})
+						.text($P.getter('name'));
+					side.entityLabelLinks = side.links.filter(
+						function(d) {return 'entity:label' === d.klass && nodes.indexed[d.source.layoutId];});
+					side.entityLabelLinks.attr('data-class', 'entity:label');
+					side.entityLabelLinks.append('line')
+						.attr('stroke', 'black')
+						.attr('stroke-width', 1)
+						.attr('stroke-opacity', 0.2)
+						.attr('fill', 'none');
+				});
 			},
 
 			layoutRadial: function() {
@@ -228,6 +307,7 @@
 				angle = Math.PI * 2 / this.pathways.length;
 
 				self.zoom = d3.behavior.zoom().scaleExtent([0.1, 10])
+					.size([500, 500]).center([0, 0])
 					.on('zoom', self.onZoom.bind(self));
 				this.svg.attr('pointer-events', 'all').call(self.zoom);
 
@@ -269,9 +349,12 @@
 						.append('svg:clipPath')
 						.attr('id', 'clipSide' + i)
 						.append('svg:path');
+
 					nodes = self.layout.nodes.filter(function(node) {
 						if ('entity' === node.klass) {
 							return node.pathways[side.pathway];}
+						if ('entitylabel' === node.klass) {
+							return self.layout.getNode('entity:'+node.id).pathways[side.pathway];}
 						return true;});
 					nodes.forEach(function(node) {node.side = side;});
 					nodes.indexed = $P.indexBy(nodes, $P.getter('layoutId'));
@@ -289,8 +372,14 @@
 					side.locations.attr('data-class', 'location');
 					side.locations.append('circle')
 						.attr('stroke', 'black')
-						.attr('fill', 'white')
+						.attr('fill', $P.getter('color'))
 						.attr('r', 40);
+					side.locations.append('text')
+						.style('font-size', '15px')
+						.attr('fill', 'black')
+						.attr('text-anchor', 'middle')
+						.attr('transform', 'rotate(' + (-side.startDegrees) + ')')
+						.text($P.getter('name'));
 					side.reactionLinks = side.links.filter(
 						function(d, i) {return 'reaction:entity' === d.klass;});
 					side.reactionLinks.attr('data-class', 'reaction:entity');
@@ -313,16 +402,39 @@
 						.attr('width', 5).attr('height', 5);
 					side.entities = side.nodes.filter(function(d, i) {return 'entity' === d.klass;});
 					side.entities.attr('data-class', 'entity');
+					side.entities.append('circle')
+						.attr('stroke', 'none')
+						.attr('fill', function(entity) {return self.layout.getNode('location:'+entity.location).color;})
+						.attr('fill-opacity', 0.1)
+						.attr('pointer-events', 'none')
+						.attr('r', 60);
 					side.entities.filter(function(d) {return nodes.indexed[d.layoutId];})
 						.append('circle')
 						.attr('stroke', 'black')
-						.attr('fill', side.color || 'blue')
+						.attr('fill', function(d) {return self.getExpressionColor(d.name);})
 						.attr('r', 8);
 					side.entities.filter(function(d) {return !nodes.indexed[d.layoutId];})
 						.append('circle')
 						.attr('stroke', 'black')
-						.attr('fill', 'white')
-						.attr('r', 2);}
+						.attr('fill', function(d) {return self.getExpressionColor(d.name);})
+						.attr('r', 2);
+					side.entityLabels = side.nodes.filter(
+						function(d) {return 'entitylabel' === d.klass && nodes.indexed[d.layoutId];});
+					side.entityLabels.attr('data-class', 'entitylabel');
+					side.entityLabels.append('text')
+						.style('font-size', '12px')
+						.attr('text-anchor', 'middle')
+						.attr('fill', 'black')
+						.attr('transform', 'rotate(' + (-side.startDegrees) + ')')
+						.text($P.getter('name'));
+					side.entityLabelLinks = side.links.filter(
+						function(d) {return 'entity:label' === d.klass && nodes.indexed[d.source.layoutId];});
+					side.entityLabelLinks.attr('data-class', 'entity:label');
+					side.entityLabelLinks.append('line')
+						.attr('stroke', 'black')
+						.attr('stroke-width', 1)
+						.attr('stroke-opacity', 0.2)
+						.attr('fill', 'none');}
 			},
 
 			onZoom: function(arg) {
@@ -402,16 +514,16 @@
 				if ('radial' === this.layout.mode) {
 					this.svg.sides.forEach(function(side) {
 						/*
-						var angle = side.endRadians - side.startRadians,
-								cos = Math.cos(angle),
-								sin = Math.sin(angle);
-						side.clip.attr(
-							'd',
-							'M0 5'
-								+ 'l 10000 0'
-								+ 'l' + cos * 10000 + ' ' + sin * 10000
-								+ 'l -10000 0'
-								+ 'l' + cos * -10000 + ' ' + sin * -10000);
+						 var angle = side.endRadians - side.startRadians,
+						 cos = Math.cos(angle),
+						 sin = Math.sin(angle);
+						 side.clip.attr(
+						 'd',
+						 'M0 5'
+						 + 'l 10000 0'
+						 + 'l' + cos * 10000 + ' ' + sin * 10000
+						 + 'l -10000 0'
+						 + 'l' + cos * -10000 + ' ' + sin * -10000);
 						 */
 						var startCos = Math.cos(side.startRadians),
 								startSin = Math.sin(side.startRadians),
@@ -577,8 +689,10 @@
 					self.force.tick();
 					//self.force.alpha(0);
 				});
+			this.nextLocationColor = 0;
 		},
 		{
+			locationColors: ['red', 'green', 'blue', 'orange', 'yellow', 'purple', 'teal', 'gray'],
 			get mode() {return this._mode;},
 			set mode(value) {
 				if (value === this._mode) {return;}
@@ -586,11 +700,27 @@
 			addNode: function(node) {
 				$P.ForceLayout.prototype.addNode.call(this, node);
 				if ('entity' === node.klass) {this.onAddEntity(node);}
-				if ('reaction' === node.klass) {this.onAddReaction(node);}},
+				if ('reaction' === node.klass) {this.onAddReaction(node);}
+				return node;},
 			onAddEntity: function(entity) {
 				var self = this, node, link;
 
 				entity.charge = -100;
+
+				// Add label.
+				node = this.addNode({
+					name: entity.name,
+					id: entity.id,
+					klass: 'entitylabel',
+					x: 0, y: 0,
+					charge: 0});
+
+				this.addLink({
+					source: entity, target: node,
+					id: entity.id,
+					klass: 'entity:label',
+					linkDistance: 5,
+					linkStrength: 1.0});
 
 				if (entity.location) {
 					// Ensure Location.
@@ -601,7 +731,7 @@
 							id: entity.location,
 							klass: 'location',
 							entities: [],
-							color: 'white',
+							color: self.locationColors[self.nextLocationColor++ % self.locationColors.length],
 							charge: -25,
 							x: 0, y: 0};
 						this.addNode(node);
@@ -645,7 +775,7 @@
 			},
 			addLink: function(link) {
 				$P.ForceLayout.prototype.addLink.call(this, link);
-			}
+				return link;}
 		});
 
 })(PATHBUBBLES);
