@@ -10,8 +10,7 @@
 			this.nodes.indexed = {};
 			this.links = this.force.links();
 			this.links.indexed = {};
-			this.width = config.width || 500;
-			this.height = config.height || 500;
+			this.size = [config.width || 500, config.height || 500];
 			this.force.on('tick', this.onTick.bind(this));
 			if (config.nodes) {this.addNodes(config.nodes);}
 			if (config.links) {this.addLinks(config.links);}
