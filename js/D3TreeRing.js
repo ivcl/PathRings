@@ -448,6 +448,7 @@
 							$P.getJSON(_this.file, function (root, error) {
 								var node, count, minRatio, maxRatio, progress;
 								nodeData = partition.nodes(root);
+								self.nodes = nodeData;
 
 								self.symbolCount = 0;
 								nodeData.filter(function(n) {return 1 === n.depth && n.symbols;}).forEach(function(n) {

@@ -286,7 +286,17 @@ $P.Object2D = $P.defineClass(
 			or = other.x + other.w;
 			ot = other.y;
 			ob = other.y + other.h;
-			return l <= or && ol <= r && t <= ob && ot <= b;}
+			return l <= or && ol <= r && t <= ob && ot <= b;},
+
+		/**
+		 * Return the first child satisfying predicate.
+		 * @param {Function} predicate
+		 * @returns {?Object2D}
+		 */
+		findChild: function(predicate) {
+			return $P.or(this.children, function(child) {
+				if (predicate(child)) {return child;}
+				return child.findChild(predicate);});}
 	});
 
 

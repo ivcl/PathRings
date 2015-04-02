@@ -159,6 +159,15 @@ $P.Scene = $P.defineClass(
 			this.disabledPointerHtmlObjects.forEach(function(object) {
 				if (!object.arePointerEventsEnabled()) {
 					object.setPointerEventsEnabled(true);}}.bind(this));
-			this.disabledPointerHtmlObjects = [];}
+			this.disabledPointerHtmlObjects = [];},
 
+		/**
+		 * Return the first child satisfying predicate.
+		 * @param {Function} predicate
+		 * @returns {?Object2D}
+		 */
+		findChild: function(predicate) {
+			return $P.or(this.children, function(child) {
+				if (predicate(child)) {return child;}
+				return child.findChild(predicate);});}
 	});
