@@ -30,7 +30,9 @@
 			this.expressionFile = config.expressionFile || null;
 			this.expressionLabel = '';
 			if (this.expressionFile) {this.expressionLabel = this.expressionFile.name;}
-			config.name = config.name || (config.selectedData && config.dataName) || ('Human vs. ' + this._species);
+			config.name = config.name
+				|| (config.selectedData && config.dataName)
+				|| ((this.expressionFile ? '' : 'Human vs. ') + this._species);
 			if (undefined === config.minSize) {config.minSize = 'current';}
 			if (!config.h || config.h < 560) {config.h = 560;}
 			if (!config.w || config.w < 700) {config.w = 700;}
@@ -137,6 +139,10 @@
 				actual_config.parent = this;
 				this.svg = new $P.D3TreeRing(actual_config);
 				this.svg.init();
+
+				console.log(this.dataName, this.expressionFile);
+				this.name = (this.selectedData && this.dataName)
+					|| ((this.expressionFile ? '' : 'Human vs. ') + this._species);
 			},
 			/**
 			 * Removes the svg component.

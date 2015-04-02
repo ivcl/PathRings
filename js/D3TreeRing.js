@@ -266,7 +266,9 @@
 					.attr('transform', 'translate(' + 10 + ',' + 18 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', 'black')
-					.text(self.parent.orthologLabel || ('Human vs. ' + self.parent.species));
+					.text(self.parent.orthologLabel ||
+								((self.customExpression ? '' : 'Human vs. ') + self.parent.species));
+
 
 				/*
 				 svg.append('text').attr('class','ortholog')
@@ -526,7 +528,7 @@
 										d.expressionFisher = $P.fisher(
 											exprCount, self.customExpression.length - exprCount,
 											d.symbols.length, self.chickenGeneCount - d.symbols.length);
-										if (0 !== exprCount) {console.log(d.name, d.expressionFisher, exprCount, self.customExpression.length - exprCount, d.symbols.length, self.chickenGeneCount - d.symbols.length);}
+										//if (0 !== exprCount) {console.log(d.name, d.expressionFisher, exprCount, self.customExpression.length - exprCount, d.symbols.length, self.chickenGeneCount - d.symbols.length);}
 									});
 									finish();}
 
