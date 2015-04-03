@@ -13,6 +13,9 @@
 				pointer: 'auto',
 				objectConfig: config});
 
+			// XXX
+			this.chickenGeneCount = 15945;
+
 			this.defaultRadius = config.defaultRadius;
 			this.name = config.name || '';
 			this.dataType = config.dataType;
@@ -31,6 +34,7 @@
 			this.localExpressionPercent = config.localExpressionPercent || false;
 			this.orthologFile = config.orthologFile || null;
 			this.expressionFile = config.expressionFile || null;
+			this.fisher = config.fisher || false;
 			this.initialized = false;
 			this.nodeTextSize = config.nodeTextSize || 10;
 			this.barLength = 60;
@@ -47,6 +51,18 @@
 				'#31bd72',
 				'#6bd68e',
 				'#bdf797',
+				'#efff9a',
+				'#fdd072',
+				'#fdae5b',
+				'#fd8d3c',
+				'#e6550d',
+				'#a63603'];
+			this.fisherColors = [
+				'#089cbb',
+				'#31bdcc',
+				'#6bd6df',
+				'#bdf7ff',
+
 				'#efff9a',
 				'#fdd072',
 				'#fdae5b',
@@ -114,6 +130,7 @@
 					.attr('x', 20)
 					.attr('y', function(entry, i) {return fontsize + 2  + (i + (config.textOffsetY || 0)) * (fontsize + 2);})
 					.attr('font-size', fontsize)
+					.attr('font-weight', function(entry) {return entry.bold ? 'bold' : '';})
 					.text(function(entry) {return entry.text;});
 				return legend;},
 			addMarkedBar: function(config) {
@@ -249,7 +266,9 @@
 					.attr('transform', 'translate(' + 10 + ',' + 18 + ')')
 					.style('text-anchor', 'start')
 					.style('fill', 'black')
-					.text(self.parent.orthologLabel || ('Human vs. ' + self.parent.species));
+					.text(self.parent.orthologLabel ||
+								((self.customExpression ? '' : 'Human vs. ') + self.parent.species));
+
 
 				/*
 				 svg.append('text').attr('class','ortholog')
@@ -439,6 +458,19 @@
 							$P.getJSON(_this.file, function (root, error) {
 								var node, count, minRatio, maxRatio, progress;
 								nodeData = partition.nodes(root);
+								self.nodes = nodeData;
+
+								nodeData.forEach(function(pathway) {
+									if (!pathway.symbols) {pathway.symbols = [];}
+									pathway.uniqueSymbols = (new $P.Set()).addList(pathway.symbols).asList();
+									if (!pathway.gallusOrth) {pathway.gallusOrth = {};}
+									if (!pathway.gallusOrth.sharedSymbols) {pathway.gallusOrth.sharedSymbols = [];}
+									pathway.gallusOrth.uniqueSymbols = (new $P.Set()).addList(pathway.gallusOrth.sharedSymbols).asList();});
+
+								self.symbolCount = 0;
+								nodeData.filter(function(n) {return 1 === n.depth && n.symbols;}).forEach(function(n) {
+									self.symbolCount += n.symbols.length;});
+
 								node = $P.findFirst(nodeData, function(n) {return 1 === n.depth;});
 								self.maxLevel = d3.max(nodeData, function (d) {return d.depth;});
 
@@ -504,8 +536,18 @@
 
 								function addData() {
 									nodeData.forEach(function(d) {
+										var exprCount;
 										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
 										d.expression = self.customExpressionProcessed[d.name];
+										exprCount = d.expression.ups.length + d.expression.downs.length;
+										d.expressionFisherA = exprCount - 1;
+										d.expressionFisherB = self.customExpressionProcessed.__expressedSet.asList().length - exprCount;
+										d.expressionFisherC = d.gallusOrth.uniqueSymbols.length;
+										d.expressionFisherD = self.chickenGeneCount - d.gallusOrth.uniqueSymbols.length;
+										d.expressionFisher = $P.fisher(
+											d.expressionFisherA, d.expressionFisherB,
+											d.expressionFisherC, d.expressionFisherD);
+										//if (0 !== exprCount) {console.log(d.name, d.expressionFisher, exprCount, self.customExpression.length - exprCount, d.symbols.length, self.chickenGeneCount - d.symbols.length);}
 									});
 									finish();}
 
@@ -526,23 +568,33 @@
 									$P.indexBy(self.customExpression, function(e) {return e.symbol.toUpperCase();});
 								self.customExpressionProcessed.__min = self.parent.minRatio;
 								self.customExpressionProcessed.__max = self.parent.maxRatio;
+								self.customExpressionProcessed.__pathways = {};
+								self.customExpressionProcessed.__expressedSet = new $P.Set();
 
 								function process(d) {
-									var minRatio, maxRatio, exprs, expressions;
+									var minRatio, maxRatio, exprs, expressions, usedSymbols;
 									if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
 									minRatio = self.parent.minRatio;
 									maxRatio = self.parent.maxRatio;
 									exprs = {ups: [], downs: [], unchanges: []};
 									self.customExpressionProcessed[d.name] = exprs;
 									expressions = self.customExpressionProcessed.__expressions;
+									usedSymbols = {};
 									d.gallusOrth.sharedSymbols.forEach(function(symbol) {
 										var expression, ratio;
 										if (!symbol) {return;}
-										expression = expressions[symbol.toUpperCase()];
+										symbol = symbol.toUpperCase();
+										expression = expressions[symbol];
 										if (!expression) {return;}
+										if (usedSymbols[symbol]) {return;}
+										usedSymbols[symbol] = true;
 										ratio = parseFloat(expression.ratio);
-										if (ratio >= maxRatio) {exprs.ups.push(expression);}
-										else if (ratio <= minRatio) {exprs.downs.push(expression);}
+										if (ratio >= maxRatio) {
+											exprs.ups.push(expression);
+											self.customExpressionProcessed.__expressedSet.put(symbol);}
+										else if (ratio <= minRatio) {
+											exprs.downs.push(expression);
+											self.customExpressionProcessed.__expressedSet.put(symbol);}
 										else {exprs.unchanges.push(expression);}});}
 
 								if (self.customExpression.length > 100) {
@@ -629,6 +681,20 @@
 										ratio = Math.max(ratio, 0);
 										return self.expressionColors[Math.floor(9 * ratio / max)];}
 
+									function getFisherColor(ratio) {
+										ratio = Math.min(ratio, 1 - 0.000000001);
+										ratio = Math.max(ratio, 0);
+										if (ratio >= 0.5) {return self.fisherColors[0];}
+										if (ratio >= 0.25) {return self.fisherColors[1];}
+										if (ratio >= 0.1) {return self.fisherColors[2];}
+										if (ratio >= 0.05) {return self.fisherColors[3];}
+										if (ratio >= 0.025) {return self.fisherColors[4];}
+										if (ratio >= 0.01) {return self.fisherColors[5];}
+										if (ratio >= 0.005) {return self.fisherColors[6];}
+										if (ratio >= 0.0025) {return self.fisherColors[7];}
+										if (ratio >= 0.001) {return self.fisherColors[8];}
+										return self.fisherColors[9];};
+
 									if (self.customExpression && self.localExpressionPercent) {
 										self.maxExpressionPercent =
 											d3.max(nodeData, function(d) {
@@ -664,6 +730,13 @@
 												else {
 													return '#fff';
 												}
+											}
+											else if (_this.customExpression && self.fisher) {
+												if (d.name == 'homo sapiens' || d.expression == undefined || d.gallusOrth == undefined) {
+													return '#fff';}
+												else if (d.unique.sharedSymbols.length == 0) {
+													return getFisherColor(0);}
+												return getFisherColor(d.expressionFisher);
 											}
 											else if (_this.customExpression) {
 												if (d.name == 'homo sapiens' || d.expression == undefined || d.gallusOrth == undefined)
@@ -1016,7 +1089,7 @@
 											crosstalking: self.crosstalkSymbols,
 											keepQuery: true,
 											sourceRing: self.parent,
-											w: 490, h: 400});
+											w: 560, h: 400});
 										bubble.parent.add(table);
 
 										angle = d3datum.angle * Math.PI / 180;
@@ -1337,7 +1410,8 @@
 											dataType: dataType,
 											selectedData: selectedData,
 											orthologFile: self.orthologFile,
-											expressionFile: self.expressionFile});
+											expressionFile: self.expressionFile,
+											fisher: self.parent.fisher});
 										self.parent.parent.add(ringBubble);
 										$P.state.scene.addLink(
 											new $P.BubbleLink({
@@ -1413,26 +1487,75 @@
 										 exponentColor: self.color.downExponent,
 										 digitColor: self.color.downDigit}]});
 
-								entries = [];
-								for (i = 10; i >= 0; --i) {
-									var max = 100;
-									if (self.localExpressionPercent) {max = self.maxExpressionPercent * 100;}
-									entries.push({
-										color: self.expressionColors[i] || 'none',
-										text: '- ' + (i * 0.1 * max).toFixed(0) + '%',
-										stroke: 10 == i ? 'none' : 'black'
-									});
-								}
-								self.addLegend({
-									disabled: !self.customExpression,
-									base: self.mainSvg,
-									id: 'expressionArcLegend',
-									fontsize: 12,
-									x: -self.radius + self.w - self.legendWidth,
-									y: -self.radius + 360,
-									colorOffsetY: -0.5,
-									title: 'Percent Expressed:',
-									entries: entries});}
+								if (!self.fisher) {
+									entries = [];
+									for (i = 10; i >= 0; --i) {
+										var max = 100;
+										if (self.localExpressionPercent) {max = self.maxExpressionPercent * 100;}
+										entries.push({
+											color: self.expressionColors[i] || 'none',
+											text: '- ' + (i * 0.1 * max).toFixed(0) + '%',
+											stroke: 10 == i ? 'none' : 'black'
+										});
+									}
+
+									self.addLegend({
+										disabled: !self.customExpression,
+										base: self.mainSvg,
+										id: 'expressionArcLegend',
+										fontsize: 12,
+										x: -self.radius + self.w - self.legendWidth,
+										y: -self.radius + 360,
+										colorOffsetY: -0.5,
+										title: 'Percent Expressed:',
+										entries: entries});}
+								else {
+									entries = [
+										{color: 'none',
+										 text: '- 1.0000',
+										 stroke: 'none'},
+										{color: self.fisherColors[0],
+										 text: '- 0.5000',
+										 stroke: 'black'},
+										{color: self.fisherColors[1],
+										 text: '- 0.2500',
+										 stroke: 'black'},
+										{color: self.fisherColors[2],
+										 text: '- 0.1000',
+										 stroke: 'black'},
+										{color: self.fisherColors[3],
+										 text: '- 0.0500',
+										 bold: true,
+										 stroke: 'black'},
+										{color: self.fisherColors[4],
+										 text: '- 0.0250',
+										 stroke: 'black'},
+										{color: self.fisherColors[5],
+										 text: '- 0.0100',
+										 stroke: 'black'},
+										{color: self.fisherColors[6],
+										 text: '- 0.0050',
+										 stroke: 'black'},
+										{color: self.fisherColors[7],
+										 text: '- 0.0025',
+										 stroke: 'black'},
+										{color: self.fisherColors[8],
+										 text: '- 0.0010',
+										 stroke: 'black'},
+										{color: self.fisherColors[9],
+										 text: '- 0.0000',
+										 stroke: 'black'}
+									];
+									self.addLegend({
+										disabled: !self.customExpression,
+										base: self.mainSvg,
+										id: 'expressionArcLegend',
+										fontsize: 12,
+										x: -self.radius + self.w - self.legendWidth,
+										y: -self.radius + 360,
+										colorOffsetY: -0.5,
+										title: 'Fisher Test Results:',
+										entries: entries});}}
 
 						}
 

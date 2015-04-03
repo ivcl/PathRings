@@ -183,6 +183,8 @@ $P.asyncOrdered = function(callbacks) {
 		null,
 		function Set() {this.data = {};},
 		{
+			put: function(key) {
+				this.data[key] = true;},
 			contains: function(value) {
 				return this.data[value];},
 			asPredicate: function() {
@@ -192,7 +194,11 @@ $P.asyncOrdered = function(callbacks) {
 				var set = this;
 				key = key || $P.F.Identity;
 				list.forEach(function(element) {set.data[key(element)] = true;});
-				return this;}});
+				return this;},
+			asList: function() {
+				var list = [], key;
+				for (key in this.data) {list.push(key);}
+				return list;}});
 
 	$P.Map = $P.defineClass(
 		null,
@@ -221,5 +227,24 @@ $P.asyncOrdered = function(callbacks) {
 			if (object.hasOwnProperty(key)) {
 				list.push(object[key]);}}
 		return list;};
+
+	$P.log10 = Math.log(10);
+
+	$P.fisher = function(inA, outA, inB, outB) {
+		var result;
+		function choose(n, k) {
+			var sum = 0, i;
+			for (i = 0; i < k; ++i) {
+				sum += Math.log(n - i);
+				sum -= Math.log(i + 1);}
+			return sum;}
+
+		// More conservative test.
+		//inA--;
+
+		result = choose(inA + outA, inA) + choose(inB + outB, inB) - choose(inA + outA + inB + outB, inA + inB);
+		//if (0 !== inA) {
+		//	console.log('FISHER:', inA, outA, inB, outB, Math.exp(result));}
+		return Math.exp(result);};
 
 })(PATHBUBBLES);

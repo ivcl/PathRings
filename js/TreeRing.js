@@ -23,13 +23,16 @@
 			this.displayMode = config.displayMode || 'title';
 			this._species = config.species || 'Gallus';
 			this._localExpressionPercent = true;
+			this._fisher = config.fisher || false;
 			this.orthologFile = config.orthologFile || null;
 			this.orthologLabel = '';
 			if (this.orthologFile) {this.orthologLabel = this.orthologFile.name;}
 			this.expressionFile = config.expressionFile || null;
 			this.expressionLabel = '';
 			if (this.expressionFile) {this.expressionLabel = this.expressionFile.name;}
-			config.name = config.name || (config.selectedData && config.dataName) || ('Human vs. ' + this._species);
+			config.name = config.name
+				|| (config.selectedData && config.dataName)
+				|| ((this.expressionFile ? '' : 'Human vs. ') + this._species);
 			if (undefined === config.minSize) {config.minSize = 'current';}
 			if (!config.h || config.h < 560) {config.h = 560;}
 			if (!config.w || config.w < 700) {config.w = 700;}
@@ -90,6 +93,12 @@
 				if (this.menu) {
 					$(this.menu.element).find('#localExpressionPercent').prop('checked', value);}
 				this.createSvg();},
+			get fisher() {return this._fisher;},
+			set fisher(value) {
+				if (value === this._fisher) {return;}
+				this._fisher = value;
+				if (this.menu) {this.menu.fisher = value;}
+				this.createSvg({fisher: value});},
 			onAdded: function(parent) {
 				if (!$P.BubbleBase.prototype.onAdded.call(this, parent) && !this.svg) {
 					this.createSvg();
@@ -101,6 +110,7 @@
 			 */
 			createSvg: function(config, suppressPropogate) {
 				var self = this;
+
 				// Propagate changes.
 				if (!suppressPropogate) {
 					this.links.forEach(function(link) {
@@ -113,7 +123,8 @@
 				$.extend(actual_config, {
 					defaultRadius: Math.min(this.w - this.legendWidth, this.h) - 30,
 					dataType: this.dataType,
-					localExpressionPercent: this.localExpressionPercent});
+					localExpressionPercent: this.localExpressionPercent,
+					fisher: this.fisher});
 				if (this.dataName) {actual_config.name = this.dataName;}
 				if (this.selectedData) {actual_config.selectedData = this.selectedData;}
 				if (this.orthologFile) {actual_config.orthologFile = this.orthologFile;}
@@ -128,6 +139,9 @@
 				actual_config.parent = this;
 				this.svg = new $P.D3TreeRing(actual_config);
 				this.svg.init();
+
+				this.name = (this.selectedData && this.dataName)
+					|| ((this.expressionFile ? '' : 'Human vs. ') + this._species);
 			},
 			/**
 			 * Removes the svg component.
@@ -243,6 +257,10 @@
 			tmp +=     '<input id="localExpressionPercent" type="checkbox" style="vertical-align: middle;"/> Local Expression Percentage<br/>';
 			tmp +=   '</div>';
 
+			tmp +=   '<div id="fisherBlock" style="font-size: 85%;">';
+			tmp +=     '<input id="fisher" type="checkbox" style="vertical-align: middle;"/> Enable Fisher Test<br/>';
+			tmp +=   '</div>';
+
 			tmp += '</div>';
 
 			tmp += '<div style="border: 1px solid #bbb; border-top-style: none; margin: 0 1px 1px; padding: 2%;">';
@@ -294,7 +312,8 @@
 				bubble.displayMode = this.value;});
 
 			if (!(bubble.svg && bubble.svg.customExpression)) {
-				element.find('#localPercentBlock').hide();}
+				element.find('#localPercentBlock').hide();
+				element.find('#fisherBlock').hide();}
 
 			element.find('#localExpressionPercent').change(function() {
 				bubble.localExpressionPercent = $(this).prop('checked');});
@@ -303,6 +322,15 @@
 			this.species = bubble.species;
 			element.find('#selectSpecies').change(function() {
 				bubble.species = $(this).val();});
+
+			this.fisher = bubble.fisher;
+			element.find('#fisher').change(function() {
+				bubble.fisher = $(this).prop('checked');
+				if ($(this).prop('checked')) {
+					element.find('#localPercentBlock').hide();}
+				else {
+					element.find('#localPercentBlock').show();}
+			});
 
 			element.find('#crosstalkLevel').change(function () {
 				bubble.crosstalkLevel = $(this).val();});
@@ -350,6 +378,8 @@
 				$(this.element).find('#selectSpecies').val(value);},
 			set crosstalkLevel(value) {
 				$(this.element).find('#crosstalkLevel').val(value);},
+			set fisher(value) {
+				$(this.element).find('#fisher').prop('checked', value);},
 			loadOrtholog: function() {
 				var menu = this,
 						bubble = this.parent,
@@ -411,6 +441,7 @@
 					bubble.expressionLabel = bubble.selectedFile.name;
 					bubble.experimentType = 'Expression';
 					bubble.createSvg(config);
+					$(menu.element).find('#fisherBlock').show();
 					$(menu.element).find('#localPercentBlock').show();});},
 			onPositionChanged: function (dx, dy, dw, dh) {
 				$P.HtmlMenu.prototype.onPositionChanged.call(this, dx, dy, dw, dh);

@@ -24,6 +24,8 @@
 			this.keepQuery = config.keepQuery || null;
 			this.sourceRing = config.sourceRing || null;
 
+			console.log(this.data);
+
 			$.extend(config, {closeMenu: true, groupMenu: true});
 			$P.BubbleBase.call(this, config);
 		}, {
