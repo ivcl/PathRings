@@ -183,6 +183,8 @@ $P.asyncOrdered = function(callbacks) {
 		null,
 		function Set() {this.data = {};},
 		{
+			put: function(key) {
+				this.data[key] = true;},
 			contains: function(value) {
 				return this.data[value];},
 			asPredicate: function() {
@@ -192,7 +194,11 @@ $P.asyncOrdered = function(callbacks) {
 				var set = this;
 				key = key || $P.F.Identity;
 				list.forEach(function(element) {set.data[key(element)] = true;});
-				return this;}});
+				return this;},
+			asList: function() {
+				var list = [], key;
+				for (key in this.data) {list.push(key);}
+				return list;}});
 
 	$P.Map = $P.defineClass(
 		null,

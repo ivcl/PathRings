@@ -452,6 +452,13 @@
 								nodeData = partition.nodes(root);
 								self.nodes = nodeData;
 
+								nodeData.forEach(function(pathway) {
+									if (!pathway.symbols) {pathway.symbols = [];}
+									pathway.uniqueSymbols = (new $P.Set()).addList(pathway.symbols).asList();
+									if (!pathway.gallusOrth) {pathway.gallusOrth = {};}
+									if (!pathway.gallusOrth.sharedSymbols) {pathway.gallusOrth.sharedSymbols = [];}
+									pathway.gallusOrth.uniqueSymbols = (new $P.Set()).addList(pathway.gallusOrth.sharedSymbols).asList();});
+
 								self.symbolCount = 0;
 								nodeData.filter(function(n) {return 1 === n.depth && n.symbols;}).forEach(function(n) {
 									self.symbolCount += n.symbols.length;});
@@ -525,9 +532,13 @@
 										if (!d.gallusOrth || !d.gallusOrth.sharedSymbols) {return;}
 										d.expression = self.customExpressionProcessed[d.name];
 										exprCount = d.expression.ups.length + d.expression.downs.length;
+										d.expressionFisherA = exprCount - 1;
+										d.expressionFisherB = self.customExpressionProcessed.__expressedSet.asList().length - exprCount;
+										d.expressionFisherC = d.gallusOrth.uniqueSymbols.length;
+										d.expressionFisherD = self.chickenGeneCount - d.gallusOrth.uniqueSymbols.length;
 										d.expressionFisher = $P.fisher(
-											exprCount, self.customExpression.length - exprCount,
-											d.symbols.length, self.chickenGeneCount - d.symbols.length);
+											d.expressionFisherA, d.expressionFisherB,
+											d.expressionFisherC, d.expressionFisherD);
 										//if (0 !== exprCount) {console.log(d.name, d.expressionFisher, exprCount, self.customExpression.length - exprCount, d.symbols.length, self.chickenGeneCount - d.symbols.length);}
 									});
 									finish();}
@@ -550,6 +561,7 @@
 								self.customExpressionProcessed.__min = self.parent.minRatio;
 								self.customExpressionProcessed.__max = self.parent.maxRatio;
 								self.customExpressionProcessed.__pathways = {};
+								self.customExpressionProcessed.__expressedSet = new $P.Set();
 
 								function process(d) {
 									var minRatio, maxRatio, exprs, expressions, usedSymbols;
@@ -569,8 +581,12 @@
 										if (usedSymbols[symbol]) {return;}
 										usedSymbols[symbol] = true;
 										ratio = parseFloat(expression.ratio);
-										if (ratio >= maxRatio) {exprs.ups.push(expression);}
-										else if (ratio <= minRatio) {exprs.downs.push(expression);}
+										if (ratio >= maxRatio) {
+											exprs.ups.push(expression);
+											self.customExpressionProcessed.__expressedSet.put(symbol);}
+										else if (ratio <= minRatio) {
+											exprs.downs.push(expression);
+											self.customExpressionProcessed.__expressedSet.put(symbol);}
 										else {exprs.unchanges.push(expression);}});}
 
 								if (self.customExpression.length > 100) {

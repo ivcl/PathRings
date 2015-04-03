@@ -140,7 +140,6 @@
 				this.svg = new $P.D3TreeRing(actual_config);
 				this.svg.init();
 
-				console.log(this.dataName, this.expressionFile);
 				this.name = (this.selectedData && this.dataName)
 					|| ((this.expressionFile ? '' : 'Human vs. ') + this._species);
 			},
